@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Режим за замовчуванням</item>
+        <item>Фоновий режим</item>
+        <item>Режим читання</item>
+        <item>Режим медіа</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Програма в фоні</item>
+        <item>Екран увімкнено</item>
+        <item>Екран вимкнено</item>
+        <item>Вимкнення екрану через 10 хвилин</item>
+        <item>Повноекранний режим</item>
+        <item>Вийти із повноекранного режиму</item>
+        <item>Програма в фоні</item>
+        <item>Пристрій заряджається</item>
+        <item>Пристрій не заряджається</item>
+        <item>Пристрій в звичайному режимі</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Максимальна яскравість</item>
+        <item>Максимальна частота ЦП</item>
+        <item>Режим екрану</item>
+        <item>Використання ЦП</item>
+        <item>Під\'єднання до інтернету</item>
+        <item>Місце розташування</item>
+        <item>Перше сповіщення</item>
+        <item>Сповіщення на екрані блокування</item>
+        <item>Заборона фонових зображень</item>
+     </string-array>
+    <string-array name="action_param_translate">
+        <item>Немає операцій</item>
+        <item>Стандарт</item>
+        <item>Фото</item>
+        <item>Відео</item>
+        <item>Енергозбереження</item>
+        <item>Баланс</item>
+        <item>Продуктивність</item>
+        <item>Увімкнути</item>
+        <item>Вимкнути</item>
+        <item>Одразу</item>
+        <item>Через 10 хвилин</item>
+        <item>Через 30 хвилин</item>
+        <item>При вимкненні екрану</item>
+     </string-array>
+    <string-array name="app_groups">
+        <item>Вибрані</item>
+        <item>Невибрані</item>
+        <item>Інші</item>
+    </string-array>
+	<string-array name="hmode_app_groups">
+        <item>Користувацькі налаштування</item>
+        <item>Системні налаштування</item>
+    </string-array>
+	     <string-array name="power_checker_group_prefix">
+        <item>використання</item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>занадто багато зараз</item>
+        <item>занадто багато сьогодні</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Пробудження ядра</item>
+        <item>Пробудження</item>
+        <item>Сканування Wi-Fi</item>
+        <item>GPS</item>
+        <item>Процесор</item>
+        <item>Увімкнення екрану</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Пробудження ядра</item>
+        <item>Пробудження</item>
+        <item>Сканування Wi-Fi</item>
+        <item>GPS</item>
+        <item>Процесор</item>
+        <item>Увімкнення екрану</item>
+     </string-array>
+	 <string-array name="invisible_app_groups">
+        <item>Активні</item>
+        <item>Неактивні</item>
+     </string-array>
+	 <string-array name="thermal_entries">
+        <item>Режим термоконтролю за замовчуванням</item>
+        <item>Режим продуктивності</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Пріоритет контролю температури</item>
+        <item>Пріоритет високої продуктивності</item>
+     </string-array>
+	 <string-array name="power_mode_entries">
+        <item>Продуктивність</item>
+        <item>Баланс</item>
+     </string-array>
+</resources>

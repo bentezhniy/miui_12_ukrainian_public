@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d натискань для увімкнення максимального фонового режиму</item>
+        <item quantity="one">%1$d натискання для увімкнення максимального фонового режиму</item>
+		<item quantity="few">%1$d натискання для увімкнення максимального фонового режиму</item>
+		<item quantity="many">%1$d натискань для увімкнення максимального фонового режиму</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d натискань для вимкнення максимального фонового режиму</item>
+        <item quantity="one">%1$d натискання для вимкнення максимального фонового режиму</item>
+		<item quantity="few">%1$d натискання для вимкнення максимального фонового режиму</item>
+		<item quantity="many">%1$d натискань для вимкнення максимального фонового режиму</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">%1$d натискань для розблокування усіх функцій</item>
+        <item quantity="one">%1$d натискання для розблокування усіх функцій</item>
+		<item quantity="few">%1$d натискання для розблокування усіх функцій</item>
+		<item quantity="many">%1$d натискань для розблокування усіх функцій</item>
+    </plurals>
+	<plurals name="app_list_total">
+        <item quantity="other">%d програм</item>
+        <item quantity="one">%d програма</item>
+        <item quantity="few">%d програми</item>
+        <item quantity="many">%d програм</item>
+     </plurals>
+     <plurals name="select_items">
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
+     </plurals>
+	 <plurals name="search_app_count_txt_na">
+        <item quantity="other">Пошук %d програм</item>
+        <item quantity="one">Пошук %d програм</item>
+     </plurals>
+</resources>

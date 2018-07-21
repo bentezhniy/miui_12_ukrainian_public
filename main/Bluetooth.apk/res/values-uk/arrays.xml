@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Вібрувати при виклику</item>
+        <item>Вібрувати при отриманні SMS</item>
+        <item>Вібрувати при будильнику</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Зробити фото</item>
+        <item>Пошук пристрою</item>
+        <item>Пошук MiKey</item>
+    </string-array>
+</resources>

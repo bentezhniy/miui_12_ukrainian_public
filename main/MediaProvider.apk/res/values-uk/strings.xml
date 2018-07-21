@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="Add_More_Ringtones">Інші мелодії</string>
+     <string name="add_ringtone_text">Додати мелодію</string>
+     <string name="alarm_sound_default">Стандартний звук будильника</string>
+     <string name="app_label">Сховище мультимедіа</string>
+     <string name="artist_label">Виконавець</string>
+     <string name="delete_ringtone_text">Видалити</string>
+     <string name="notification_sound_default">Стандартний звук повідомлення</string>
+     <string name="ringtone_default">Стандартна мелодія</string>
+     <string name="root_audio">Аудіо</string>
+     <string name="root_images">Зображення</string>
+     <string name="root_videos">Відео</string>
+     <string name="sound_name_awaken">Awaken</string>
+     <string name="sound_name_bounce">Bounce</string>
+     <string name="sound_name_drip">Drip</string>
+     <string name="sound_name_gallop">Gallop</string>
+     <string name="sound_name_nudge">Nudge</string>
+     <string name="sound_name_orbit">Orbit</string>
+     <string name="sound_name_rise">Rise</string>
+     <string name="sound_name_sway">Sway</string>
+     <string name="sound_name_wag">Wag</string>
+     <string name="storage_description">"Внутрішня пам\'ять"</string>
+     <string name="uid_label">Мультимедіа</string>
+     <string name="unable_to_add_ringtone">Неможливо додати власну мелодію</string>
+     <string name="unable_to_delete_ringtone">Неможливо видалити власну мелодію</string>
+     <string name="upgrade_msg">Оновлення бази даних мультимедіа…</string>
+</resources>

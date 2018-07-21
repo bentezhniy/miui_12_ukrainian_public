@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+		<item quantity="few">%d хвилини</item>
+		<item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d годин</item>
+        <item quantity="one">%d година</item>
+		<item quantity="few">%d години</item>
+		<item quantity="many">%d годин</item>
+    </plurals>
+	     <plurals name="data_item_count">
+        <item quantity="other">%d елементів</item>
+        <item quantity="one">%d елемент</item>
+		<item quantity="few">%d елемента</item>
+		<item quantity="many">%d елементів</item>
+     </plurals>
+	 <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d файлів програм</item>
+        <item quantity="one">%d файл програм</item>
+        <item quantity="few">%d файли програм</item>
+     </plurals>
+     <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d системних файлів</item>
+        <item quantity="one">%d системний файл</item>
+        <item quantity="few">%d системних файли</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d елементів імпортовано, "</item>
+        <item quantity="one">"%d елемент імпортовано, "</item>
+        <item quantity="few">"%d елементи імпортовано, "</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d елементів необхідно імпортувати повторно</item>
+        <item quantity="one">%d елемент необхідно імпортувати повторно</item>
+        <item quantity="few">%d елементи необхідно імпортувати повторно</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+        <item quantity="other">%d елементів імпортовано та відновлено</item>
+        <item quantity="one">%d елемент імпортовано та відновлено</item>
+        <item quantity="few">%d елементи імпортовано та відновлено</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+        <item quantity="other">%d елементів відновлено</item>
+        <item quantity="one">%d елемент відновлено</item>
+        <item quantity="few">%d елементи відновлено</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+        <item quantity="other">елементів</item>
+        <item quantity="one">елемент</item>
+        <item quantity="few">елементи</item>
+     </plurals>
+     <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d елементів</item>
+        <item quantity="one">%1$s | %2$d елемент</item>
+        <item quantity="few">%1$s | %2$d елементи</item>
+     </plurals>
+	 <plurals name="custom_progress">
+        <item quantity="other">%d елементів</item>
+        <item quantity="one">%d елемент</item>
+        <item quantity="few">%d елементи</item>
+     </plurals>
+     <plurals name="total_num">
+        <item quantity="other">%d елементів,</item>
+        <item quantity="one">%d елемент,</item>
+        <item quantity="few">%d елементи,</item>
+     </plurals>
+	 <plurals name="trans_failed_summary">
+        <item quantity="other">Неможливо передати %d файлів</item>
+        <item quantity="one">Неможливо передати %d файл</item>
+        <item quantity="few">Неможливо передати %d файли</item>
+     </plurals>
+     <plurals name="trans_item_failed_summary">
+        <item quantity="other">Неможливо передати %d файлів</item>
+        <item quantity="one">Неможливо передати %d файл</item>
+        <item quantity="few">Неможливо передати %d файли</item>
+     </plurals>
+</resources>

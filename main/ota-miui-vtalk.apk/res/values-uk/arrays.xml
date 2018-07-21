@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_contact">
+        <item>Новий контакт</item>
+        <item>Додати до контакту</item>
+        <item>Додати до чорного списку</item>
+    </string-array>
+    <string-array name="add_new_contact">
+        <item>Новий контакт</item>
+        <item>Додати до контакту</item>
+    </string-array>
+    <string-array name="choice_engine_type">
+        <item>Galileo</item>
+        <item>Agora</item>
+    </string-array>
+    <string-array name="contact_detail_click">
+        <item>Змінити контакт</item>
+        <item>Додати до чорного списку</item>
+    </string-array>
+    <string-array name="edit_image">
+        <item>Змінити</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="effect_name">
+        <item>Оригінал</item>
+        <item>Туман</item>
+        <item>Сонце</item>
+        <item>Свіжість</item>
+        <item>Фільм</item>
+        <item>Мода</item>
+        <item>Тепло</item>
+        <item>Зелень</item>
+    </string-array>
+    <string-array name="intercept_long_click_func">
+        <item>Відеовиклик</item>
+        <item>Голосовий виклик</item>
+        <item>Додати до контактів</item>
+    </string-array>
+    <string-array name="intercept_long_click_func_short">
+        <item>Відеовиклик</item>
+        <item>Голосовий виклик</item>
+    </string-array>
+    <string-array name="more_close_face_beauty">
+        <item>Вимкнути ефекти</item>
+        <item>Додати користувачів</item>
+    </string-array>
+    <string-array name="more_open_face_beauty">
+        <item>Увімкнути ефекти</item>
+        <item>Додати користувачів</item>
+    </string-array>
+    <string-array name="pick_image">
+        <item>Вибрати з Галереї</item>
+        <item>Зняти фото</item>
+    </string-array>
+    <string-array name="pick_long_click_func">
+        <item>Відкріпити</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="pick_long_click_func_top">
+        <item>Закріпити</item>
+        <item>Видалити</item>
+        <item>Додати до контактів</item>
+    </string-array>
+</resources>

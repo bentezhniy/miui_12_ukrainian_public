@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Використовувати для першого простору</item>
+        <item>Використовувати для другого простору</item>
+        <item>Використовувати для обох просторів</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Дані програми будуть очищені</item>
+        <item>Дані програми будуть очищені</item>
+        <item>Попередження</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>Дані програми будуть очищені після переміщення в пам\'ять для першого простору</item>
+        <item>Дані програми будуть очищені після переміщення в пам\'ять для другого простору</item>
+        <item>Додатки використовуються для обох просторів</item>
+    </string-array>
+	<string-array name="choose_ask_type">
+        <item>Завжди запитувати</item>
+        <item>Стандартна програма</item>
+        <item>Клонована програма</item>
+     </string-array>
+</resources>

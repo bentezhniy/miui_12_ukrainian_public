@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Обрано %d гри</item>
+        <item quantity="one">Обрана %d гра</item>
+        <item quantity="few">Обрано %d гри</item>
+        <item quantity="many">Обрано %d гри</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Не обрано %d гри</item>
+        <item quantity="one">Не обрано %d гру</item>
+        <item quantity="few">Не обрано %d гри</item>
+        <item quantity="many">Не обрано %d гри</item>
+    </plurals>
+	<plurals name="find_applications">
+        <item quantity="other">Пошук серед %d програм</item>
+        <item quantity="one">Пошук серед %d програми</item>
+     </plurals>
+     <plurals name="found_apps_title">
+        <item quantity="other">Знайдено %d програм</item>
+        <item quantity="zero">Знайдено %d програм</item>
+        <item quantity="one">Знайдено %d програма</item>
+        <item quantity="few">Знайдено %d програми</item>
+        <item quantity="many">Знайдено %d програм</item>
+     </plurals>
+</resources>

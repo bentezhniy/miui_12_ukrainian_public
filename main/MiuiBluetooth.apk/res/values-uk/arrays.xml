@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+     </string-array>
+     <string-array name="ble_profile_mi_band">
+        <item>Вібрувати за викликом</item>
+        <item>Вібрувати за отриманням SMS</item>
+        <item>Вібрувати за будильником</item>
+     </string-array>
+     <string-array name="ble_profile_mi_key">
+        <item>Зняти фото</item>
+        <item>Пошук пристрою</item>
+        <item>Пошук MiKey</item>
+     </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Зв\'язка ключів</string>
+    <string name="title_no_certs">Сертифікати не знайдені</string>
+    <string name="title_select_cert">Виберіть сертифікат</string>
+    <string name="requesting_application">Програма \"%s\" запитує сертифікат. Вибір сертифіката дозволить програмі використовувати Ваш ідентифікатор на різних серверах.</string>
+    <string name="requesting_server">Програма ідентифікувала запит сервера як %s. Якщо Ви довіряєте програмі, Ви можете дозволити їй використовувати сертифікат.</string>
+    <string name="install_new_cert_message">Ви можете встановити сертифікат із файлу PKCS#12 з дозволами %1$s або %2$s із пам\'яті пристрою</string>
+    <string name="install_new_cert_button_label">Встановити</string>
+    <string name="allow_button">Дозволити</string>
+    <string name="deny_button">Заборонити</string>
+</resources>

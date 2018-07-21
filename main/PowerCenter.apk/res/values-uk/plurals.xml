@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d днів "</item>
+        <item quantity="one">"%d день "</item>
+		<item quantity="few">"%d дня "</item>
+		<item quantity="many">"%d днів "</item>
+    </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d годин "</item>
+        <item quantity="one">"%d година "</item>
+		<item quantity="few">"%d години "</item>
+		<item quantity="many">"%d годин "</item>
+    </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+		<item quantity="few">%d хвилини</item>
+		<item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Через %1$d хвилин</item>
+        <item quantity="one">Через %1$d хвилину</item>
+		<item quantity="few">Через %1$d хвилини</item>
+		<item quantity="many">Через %1$d хвилин</item>
+    </plurals>
+    <plurals name="deep_clean_data_connection_enable">
+        <item quantity="other">%1$d програм з доступом до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d програма з доступом до інтернету у фоновому режимі</item>
+		<item quantity="few">%1$d програми з доступом до інтернету у фоновому режимі</item>
+		<item quantity="many">%1$d програм з доступом до інтернету у фоновому режимі</item>
+    </plurals>
+    <plurals name="deep_clean_data_connection_disable">
+        <item quantity="other">%1$d програм без доступу до інтернету у фоновому режимі</item>
+        <item quantity="one">%1$d програма без доступу до інтернету у фоновому режимі</item>
+		<item quantity="few">%1$d програми без доступу до інтернету у фоновому режимі</item>
+		<item quantity="many">%1$d програм без доступу до інтернету у фоновому режимі</item>
+    </plurals>
+    <plurals name="deep_clean_gps_enable">
+        <item quantity="other">%1$d програм з доступом до GPS</item>
+        <item quantity="one">%1$d програма з доступом до GPS</item>
+		<item quantity="few">%1$d програми з доступом до GPS</item>
+		<item quantity="many">%1$d програм з доступом до GPS</item>
+    </plurals>
+    <plurals name="deep_clean_gps_disable">
+        <item quantity="other">%1$d програм без доступу до GPS</item>
+        <item quantity="one">%1$d програма без доступу до GPS</item>
+		<item quantity="few">%1$d програми без доступу до GPS</item>
+		<item quantity="many">%1$d програм без доступу до GPS</item>
+    </plurals>
+    <plurals name="power_optimize_fix_prompt">
+        <item quantity="other">Виправлено %d елементів</item>
+        <item quantity="one">Виправлений %d елемент</item>
+		<item quantity="few">Виправлено %d елементи</item>
+		<item quantity="many">Виправлено %d елементів</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Пошук %d програм</item>
+        <item quantity="one">Пошук %d програми</item>
+		<item quantity="few">Пошук %d програм</item>
+		<item quantity="many">Пошук %d програм</item>
+    </plurals>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Оновлено %s контактів</item>
+        <item quantity="one">Оновлено %s контакт</item>
+        <item quantity="few">Оновлено %s контакти</item>
+        <item quantity="many">Оновлено %s контактів</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d контактів</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакти</item>
+        <item quantity="many">%d контактів</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d повідомлень</item>
+        <item quantity="one">%d повідомлення</item>
+        <item quantity="few">%d повідомлення</item>
+        <item quantity="many">%d повідомлень</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d нотаток</item>
+        <item quantity="one">%d нотатка</item>
+        <item quantity="few">%d нотатки</item>
+        <item quantity="many">%d нотаток</item>
+    </plurals>
+ <plurals name="view_all_apps">
+        <item quantity="other">Показати всі %d програм</item>
+        <item quantity="one">Показати %d програму</item>
+     </plurals>
+     <plurals name="view_all_browsers">
+        <item quantity="other">Показати всі %d браузерів</item>
+        <item quantity="one">Показати %d браузер</item>
+        <item quantity="few">Показати всі %d браузери</item>
+        <item quantity="many">Показати всі %d браузерів</item>
+     </plurals>
+     <plurals name="view_all_devices">
+        <item quantity="other">Показати всі %d пристроїв</item>
+        <item quantity="one">Показати %d пристрій</item>
+        <item quantity="few">Показати всі %d пристрої</item>
+        <item quantity="many">Показати всі %d пристроїв</item>
+     </plurals>
+
+</resources>

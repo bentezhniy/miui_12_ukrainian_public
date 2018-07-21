@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d елементів</item>
+        <item quantity="one">%d елемент</item>
+        <item quantity="few">%d елементи</item>
+        <item quantity="many">%d елементів</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d сповіщень першого простору</item>
+        <item quantity="one">%d сповіщення першого простору</item>
+        <item quantity="few">%d сповіщення першого простору</item>
+        <item quantity="many">%d сповіщень першого простору</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d сповіщень другого простору</item>
+        <item quantity="one">%d сповіщення другого простору</item>
+        <item quantity="few">%d сповіщення другого простору</item>
+        <item quantity="many">%d сповіщень другого простору</item>
+    </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Пошук серед %d програм</item>
+        <item quantity="one">Пошук серед %d програми</item>
+     </plurals>
+	 <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">Лишилося %d днів до завершення прискорення мережі</item>
+        <item quantity="one">Лишився %d день до завершення прискорення мережі</item>
+        <item quantity="few">Лишилося %d дні до завершення прискорення мережі</item>
+     </plurals>
+</resources>

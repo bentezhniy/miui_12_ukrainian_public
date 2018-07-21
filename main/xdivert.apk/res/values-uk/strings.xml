@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xdivert_title">X-Divert</string>
+    <string name="xdivert_summary">Переадресація за недоступністю</string>
+    <string name="phone_numbers">Введіть номери телефонів</string>
+    <string name="sub1LineNumber">Номер підписки 1:</string>
+    <string name="sub2LineNumber">Номер підписки 2:</string>
+    <string name="proceed">Продовжити</string>
+    <string name="xdivert_button">Налаштування X-Divert</string>
+    <string name="xdivert_setting">Налаштування X-Divert</string>
+    <string name="sum_xdivert_enabled">X-Divert увімкнено</string>
+    <string name="sum_xdivert_disabled">X-Divert вимкнено</string>
+    <string name="xdivert_not_supported">X-Divert недоступний для CDMA</string>
+    <string name="xdivert_enternumber_error">Введіть номер телефону для обох підписок</string>
+    <string name="xdivert_partial_set">X-Divert був встановлений лише для першої підписки</string>
+    <string name="xdivert_sub_absent">Обидві підписки повинні бути активовані для роботи X-Divert</string>
+    <string name="xdivert_status">Стан X-Divert</string>
+    <string name="xdivert_active">Активний</string>
+    <string name="xdivert_not_active">Не активний</string>
+    <string name="xdivert_imsi_not_read">Ініціалізація SIM-карти…</string>
+    <string name="updating_title">Налаштування виклику</string>
+    <string name="reading_settings">Читання налаштувань…</string>
+    <string name="updating_settings">Оновлення налаштувань…</string>
+    <string name="reverting_settings">Відновлення налаштувань…</string>
+    <string name="response_error">Неочікувана відповідь мережі</string>
+    <string name="exception_error">Помилка мережі або SIM-карти</string>
+    <string name="fdn_check_failure">На Вашому пристрої активовані налаштування FDN. Деякі функції викликів можуть не працювати.</string>
+    <string name="radio_off_error">Необхідно відключити радіо</string>
+    <string name="close_dialog">ОК</string>
+    <string name="error_updating_title">Помилка налаштування виклику</string>
+    <string name="set_subscription_error_atleast_one">Виберіть не менше одної підписки</string>
+    <string name="sub_1">Підписка 1</string>
+    <string name="sub_2">Підписка 2</string>
+    <string name="sub_3">Підписка 3</string>
+	<string name="sim1LineNumber">Номер SIM 1:</string>
+     <string name="sim2LineNumber">Номер SIM 2:</string>
+     <string name="xdivert_setting_primary_user_only">X-Divert недоступний для гостя</string>
+     <string name="xdivert_status_active">X-Divert активовано</string>
+     <string name="xdivert_status_not_active">X-Divert неактивний</string>
+</resources>

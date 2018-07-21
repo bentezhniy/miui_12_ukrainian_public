@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="hd_record_scenes_entries">
+        <item>Музика</item>
+        <item>Голос</item>
+        <item>"Інтерв\'ю"</item>
+        <item>HD</item>
+     </string-array>
+     <string-array name="interview_record_scenes_entries">
+        <item>Музика</item>
+        <item>Голос</item>
+        <item>"Інтерв\'ю"</item>
+     </string-array>
+     <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+     </string-array>
+     <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+     </string-array>
+     <string-array name="record_quality_entries">
+        <item>"Висока "</item>
+        <item>"Стандартна "</item>
+        <item>"Низька "</item>
+     </string-array>
+     <string-array name="record_quality_summaries">
+        <item>MP3, 192 Кбіт/с, 90 МБ/г</item>
+        <item>MP3, 100 Кбіт/с, 45 МБ/г</item>
+        <item>MP3, 75 Кбіт/с, 32 МБ/г</item>
+     </string-array>
+     <string-array name="record_scenes_entries">
+        <item>Музика</item>
+        <item>Голос</item>
+     </string-array>
+     <string-array name="record_scenes_summaries">
+        <item>Запис двохканального Stereo звуку</item>
+        <item>Запис голосу однієї людини</item>
+        <item>Запис голосу кількох людей</item>
+        <item>Запис звуку на відстані 10 метрів</item>
+     </string-array>
+     <string-array name="record_scenes_summaries_stereo">
+        <item>Запис звуку у режимі стерео</item>
+        <item>Запис голосу однієї людини</item>
+        <item>Запис голосу декількох людей</item>
+        <item>Запис звуку на відстані 10 метрів</item>
+     </string-array>
+     <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+     </string-array>
+     <string-array name="x5_record_scenes_entries">
+        <item>Музика</item>
+        <item>Голос</item>
+        <item>"Інтерв\'ю"</item>
+     </string-array>
+</resources>

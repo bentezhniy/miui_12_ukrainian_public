@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Видалити %1$d файлів</item>
+        <item quantity="zero">Видалити %1$d файлів</item>
+        <item quantity="one">Видалити %1$d файл</item>
+        <item quantity="two">Видалити %1$d файли</item>
+        <item quantity="few">Видалити %1$d файли</item>
+        <item quantity="many">Видалити %1$d файлів</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" та %1$d папок?"</item>
+        <item quantity="zero">" та %1$d папок?"</item>
+        <item quantity="one">" та %1$d теку?"</item>
+        <item quantity="two">" та %1$d теки?"</item>
+        <item quantity="few">" та %1$d теки?"</item>
+        <item quantity="many">" та %1$d папок?"</item>
+     </plurals>
+     <plurals name="directory_item_count">
+        <item quantity="other">%d файлів</item>
+        <item quantity="zero">порожньо</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="two">%d файли</item>
+        <item quantity="few">%d файли</item>
+        <item quantity="many">%d файлів</item>
+     </plurals>
+	 <plurals name="items_file">
+        <item quantity="other">" (%1$d файлів)"</item>
+        <item quantity="zero">" (порожньо)"</item>
+        <item quantity="one">" (%1$d файл)"</item>
+        <item quantity="two">" (%1$d файли)"</item>
+        <item quantity="few">" (%1$d файли)"</item>
+        <item quantity="many">" (%1$d файлів)"</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="zero">Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
+		<item quantity="two">Вибрано: %1$d</item>
+        <item quantity="few">Вибрано: %1$d</item>
+        <item quantity="many">Вибрано: %1$d</item>
+     </plurals>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Залишилось завантажити %1$d файлів</item>
+        <item quantity="zero">Залишилось завантажити %1$d файлів</item>
+        <item quantity="one">Залишилось завантажити %1$d файл</item>
+        <item quantity="two">Залишилось завантажити %1$d файли</item>
+        <item quantity="few">Залишилось завантажити %1$d файли</item>
+        <item quantity="many">Залишилось завантажити %1$d файлів</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Залишилось завантажити %1$d файлів</item>
+        <item quantity="zero">Залишилось завантажити %1$d файлів</item>
+        <item quantity="one">Залишилось завантажити %1$d файл</item>
+        <item quantity="two">Залишилось завантажити %1$d файли</item>
+        <item quantity="few">Залишилось завантажити %1$d файли</item>
+        <item quantity="many">Залишилось завантажити %1$d файлів</item>
+     </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d файлів</item>
+        <item quantity="zero"> Немає файлів</item>
+        <item quantity="one"> %1$d файл</item>
+        <item quantity="two"> %1$d файли</item>
+        <item quantity="few"> %1$d файли</item>
+        <item quantity="many"> %1$d файлів</item>
+     </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d хвилин тому</item>
+        <item quantity="zero">%1$d хвилин тому</item>
+        <item quantity="one">%1$d хвилину тому</item>
+        <item quantity="two">%1$d хвилини тому</item>
+        <item quantity="few">%1$d хвилини тому</item>
+        <item quantity="many">%1$d хвилин тому</item>
+     </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d годин тому</item>
+        <item quantity="zero">%1$d годин тому</item>
+        <item quantity="one">%1$d година тому</item>
+        <item quantity="two">%1$d години тому</item>
+        <item quantity="few">%1$d години тому</item>
+        <item quantity="many">%1$d годин тому</item>
+     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="zero">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="two">%1$d дні тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
+     </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="zero">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="two">%1$d секунди</item>
+        <item quantity="few">%1$d секунди</item>
+        <item quantity="many">%1$d секунд</item>
+     </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d хвилин</item>
+        <item quantity="zero">%1$d хвилин</item>
+        <item quantity="one">%1$d хвилина</item>
+        <item quantity="two">%1$d хвилини</item>
+        <item quantity="few">%1$d хвилини</item>
+        <item quantity="many">%1$d хвилин</item>
+     </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d годин</item>
+        <item quantity="zero">%1$d годин</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="two">%1$d години</item>
+        <item quantity="few">%1$d години</item>
+        <item quantity="many">%1$d годин</item>
+     </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d днів</item>
+        <item quantity="zero">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="two">%1$d дні</item>
+        <item quantity="few">%1$d дні</item>
+        <item quantity="many">%1$d днів</item>
+     </plurals>
+	 <plurals name="items_picture">
+        <item quantity="other">" (%1$d файлів)"</item>
+        <item quantity="zero">" (порожньо)"</item>
+        <item quantity="one">" (%1$d файл)"</item>
+        <item quantity="two">" (%1$d файли)"</item>
+        <item quantity="few">" (%1$d файли)"</item>
+        <item quantity="many">" (%1$d файлів)"</item>
+    </plurals>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Залишилось завантажити %1$d файлів</item>
+        <item quantity="zero">Залишилось завантажити %1$d файлів</item>
+        <item quantity="one">Залишилось завантажити %1$d файл</item>
+        <item quantity="two">Залишилось завантажити %1$d файли</item>
+        <item quantity="few">Залишилось завантажити %1$d файли</item>
+        <item quantity="many">Залишилось завантажити %1$d файлів</item>
+     </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">Неможливо передати %1$d файлів</item>
+        <item quantity="one">Неможливо передати %1$d файл</item>
+        <item quantity="few">Неможливо передати %1$d файли</item>
+        <item quantity="many">Неможливо передати %1$d файлів</item>
+    </plurals>
+	<plurals name="delete_files">
+        <item quantity="other">Видалити %1$d файлів?</item>
+        <item quantity="one">Видалити %1$d файл?</item>
+        <item quantity="few">Видалити %1$d файли?</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Видалити %1$d тек?</item>
+        <item quantity="one">Видалити %1$d теку?</item>
+        <item quantity="few">Видалити %1$d теки?</item>
+     </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_label">Cховище номерів і повідомлень</string>
+     <string name="mms_provider_label">MMS</string>
+     <string name="mms_sms_provider_label">Повідомлення</string>
+     <string name="siminfo_default_name">SIM %d</string>
+     <string name="sms_provider_label">SMS</string>
+</resources>

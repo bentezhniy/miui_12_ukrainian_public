@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d годин тому</item>
+        <item quantity="one">%d годину тому</item>
+        <item quantity="few">%d години тому</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Видалити %s елементів з обраних?</item>
+        <item quantity="one">Видалити %s елемент з обраних?</item>
+        <item quantity="few">Видалити %s елементи з обраних?</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Обрано: %s</item>
+        <item quantity="one">Обрано: %s</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">%s елементів позначено як важливі</item>
+        <item quantity="one">%s елемент позначено як важливий</item>
+        <item quantity="few">%s елементи позначено як важливі</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">За %d хвилин</item>
+        <item quantity="one">За %d хвилину</item>
+        <item quantity="few">За %d хвилини</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">За %d годин</item>
+        <item quantity="one">За %d годину</item>
+        <item quantity="few">За %d години</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">За %d днів</item>
+        <item quantity="one">За %d день</item>
+        <item quantity="few">За %d дні</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d годин</item>
+        <item quantity="one">%d годину</item>
+        <item quantity="few">%d години</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+    </plurals>
+	<plurals name="assistant_day">
+        <item quantity="other">За %d днів</item>
+        <item quantity="one">За %d день</item>
+        <item quantity="few">За %d дні</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d годин тому</item>
+        <item quantity="one">%1$d годину тому</item>
+        <item quantity="few">%1$d години тому</item>
+        <item quantity="many">%1$d годин тому</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d хвилин тому</item>
+        <item quantity="one">%1$d хвилину тому</item>
+        <item quantity="few">%1$d хвилини тому</item>
+        <item quantity="many">%1$d хвилин тому</item>
+     </plurals>
+     <plurals name="steps">
+        <item quantity="other">%d|кроків</item>
+        <item quantity="zero">%d|кроків</item>
+        <item quantity="one">%d|крок</item>
+        <item quantity="few">%d|кроки</item>
+     </plurals>
+	 <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Видалити %s елементів з платежів?</item>
+        <item quantity="one">Видалити %s елемент з платежів?</item>
+        <item quantity="few">Видалити %s елементи з платежів?</item>
+     </plurals>
+     <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Обрано: %s</item>
+        <item quantity="one">Обрано: %s</item>
+     </plurals>
+	 <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Видалити %s елементів?</item>
+        <item quantity="one">Видалити %s елемент?</item>
+     </plurals>
+     <plurals name="express_history_menu_select_num">
+        <item quantity="other">Вибрано: %s</item>
+        <item quantity="one">Вибрано: %s</item>
+     </plurals>
+</resources>

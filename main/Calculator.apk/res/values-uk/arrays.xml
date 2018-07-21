@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="mortgage_repayment">
+        <item>Рівномірні щомісячні внески</item>
+        <item>Зменшення щомісячних внесків</item>
+     </string-array>
+     <string-array name="operatorDescs">
+        <item>ліва дужка</item>
+        <item>права дужка</item>
+        <item>факторіал</item>
+        <item>натуральний логарифм</item>
+        <item>логарифм</item>
+        <item>квадратний корінь</item>
+        <item>ділення</item>
+        <item>множення</item>
+        <item>плюс</item>
+        <item>мінус</item>
+        <item>крапка</item>
+        <item>ступінь</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>число пі</item>
+        <item>дорівнює</item>
+     </string-array>
+     <string-array name="unit_data_order_currency_">
+        <item>Долар</item>
+        <item>Євро</item>
+        <item>HKD</item>
+        <item>Єна</item>
+        <item>Юань</item>
+     </string-array>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="contact_entries">
+        <item>"Ім\'я"</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Організація</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Замітка</item>
+        <item>"Зв\'язок"</item>
+     </string-array>
+     <string-array name="default_smiley_names">
+        <item>Щасливий</item>
+        <item>Сумний</item>
+        <item>Яке підморгує</item>
+        <item>Висунутий язик</item>
+        <item>Здивований</item>
+        <item>Поцілуй</item>
+        <item>Волаючий</item>
+        <item>Відмінно</item>
+        <item>Гроші у роті</item>
+        <item>Нога у роті</item>
+        <item>Розгублений</item>
+        <item>Янгол</item>
+        <item>Не рішучий</item>
+        <item>Кричущий</item>
+        <item>Мовчить</item>
+        <item>Усміхнений</item>
+        <item>Збентежений</item>
+        <item>Серце</item>
+        <item>Скажений</item>
+        <item>Помилка</item>
+        <item>Обличчя без емоцій</item>
+     </string-array>
+     <string-array name="entries_date_type">
+        <item>Час отримання</item>
+        <item>Час надсилання</item>
+     </string-array>
+     <string-array name="entries_date_type_rightvalue">
+        <item>Отримані</item>
+        <item>Надіслані</item>
+     </string-array>
+     <string-array name="entries_mms_validity_period">
+        <item>Без обмежень</item>
+        <item>Два дні</item>
+     </string-array>
+     <string-array name="entries_sms_validity_period">
+        <item>Не встановлено</item>
+        <item>1 годину</item>
+        <item>6 годин</item>
+        <item>12 годин</item>
+        <item>1 день</item>
+        <item>Без обмежень</item>
+     </string-array>
+     <string-array name="prefEntries_ringtone_repeat">
+        <item>1 раз</item>
+        <item>2 рази</item>
+        <item>3 рази</item>
+        <item>5 раз</item>
+        <item>10 раз</item>
+     </string-array>
+     <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>У режимі \"Без звуку\"</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="resent_via_entries_mms">
+        <item>Через MMS</item>
+        <item>Через хмарне повідомлення</item>
+     </string-array>
+     <string-array name="resent_via_entries_sms">
+        <item>Через SMS</item>
+        <item>Через хмарне повідомлення</item>
+     </string-array>
+     <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Інше</item>
+     </string-array>
+     <string-array name="switch_sdk">
+        <item>Розумні SMS Xiaomi</item>
+        <item>Розумні SMS CMCC</item>
+     </string-array>
+     <string-array name="switch_sdk_value">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="wild_msg_sync_options">
+        <item>Синхронізувати всі повідомлення</item>
+        <item>Синхронізувати вибрані SIM-карти</item>
+     </string-array>
+</resources>

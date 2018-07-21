@@ -1,0 +1,16 @@
+<feature>
+    <name>Nexus S</name>
+	<boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з Nexus S:
+
+1.Відкрийте “Налаштування”
+
+2.Відкрийте пункт “Бездротові мережі”
+
+3.Увімкніть “Bluetooth”
+
+4.Натисніть кнопку “Далі”
+    </title>
+    <header></header>
+</feature>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_long_press_default_action">
+        <item>recent_panel</item>
+        <item>google_now</item>
+        <item>none</item>
+        <item>show_menu</item>
+    </string-array>
+    	<string-array name="boot_msg_text">
+        <item>Підготовка до оновлення…</item>
+        <item>Оновлення системи…</item>
+        <item>Оптимізація програм…</item>
+        <item>Оптимізація програм…</item>
+        <item>Завершення оновлення…</item>
+    </string-array>
+	<string-array name="cta_permission_names">
+        <item>Доступ до мережі</item>
+        <item>Читання SMS</item>
+        <item>Зміна SMS</item>
+        <item>Отримання SMS</item>
+        <item>Надсилання SMS</item>
+        <item>Здійснення виклику</item>
+        <item>Читання контактів</item>
+        <item>Зміна контактів</item>
+        <item>Читання журналу викликів</item>
+        <item>Зміна журналу викликів</item>
+        <item>Доступ до камери</item>
+        <item>Доступ до розташування</item>
+     </string-array>
+</resources>

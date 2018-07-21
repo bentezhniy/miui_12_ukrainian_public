@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">контактів: %d </item>
+        <item quantity="one">контактів: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">повідомлень: %d</item>
+        <item quantity="one">повідомлень: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">нотаток: %d</item>
+        <item quantity="one">нотаток: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+	<plurals name="dirty_blocklist_count">
+        <item quantity="other">%d записів чорного списку</item>
+        <item quantity="one">%d запис чорного списку</item>
+        <item quantity="few">%d записи чорного списку</item>
+        <item quantity="many">%d записів чорного списку</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+        <item quantity="other">%d даних браузера</item>
+        <item quantity="one">%d дані браузера</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+        <item quantity="other">%d записів календаря</item>
+        <item quantity="one">%d запис календаря</item>
+        <item quantity="few">%d записи календаря</item>
+        <item quantity="many">%d записів календаря</item>
+     </plurals>
+     <plurals name="dirty_callog_count">
+        <item quantity="other">%d записів журналу викликів</item>
+        <item quantity="one">%d запис журналу викликів</item>
+        <item quantity="few">%d записи журналу викликів</item>
+        <item quantity="many">%d записів журналу викликів</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+        <item quantity="other">%d треків</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d треки</item>
+        <item quantity="many">%d треків</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+        <item quantity="other">%d записів</item>
+        <item quantity="one">%d запис</item>
+        <item quantity="few">%d записи</item>
+        <item quantity="many">%d записів</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi мереж</item>
+        <item quantity="one">%d Wi-Fi мережа</item>
+        <item quantity="few">%d Wi-Fi мережі</item>
+        <item quantity="many">%d Wi-Fi мереж</item>
+     </plurals>
+	 <plurals name="items_unsynced">
+        <item quantity="other">Не синхронізовано: %d</item>
+        <item quantity="one">Не синхронізовано: %d</item>
+     </plurals>
+     <plurals name="items_waiting_to_sync">
+        <item quantity="other">Очікування синхронізації: %d</item>
+        <item quantity="one">Очікування синхронізації: %d</item>
+     </plurals>
+     <plurals name="sync_items_close">
+        <item quantity="other">Вимкнено: %d</item>
+        <item quantity="one">Вимкнено: %d</item>
+     </plurals>
+	 <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Продовжити синхронізацію за %d годин</item>
+        <item quantity="one">Продовжити синхронізацію за %d годину</item>
+        <item quantity="few">Продовжити синхронізацію за %d години</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Продовжити синхронізацію за %d хвилин</item>
+        <item quantity="one">Продовжити синхронізацію за %d хвилину</item>
+        <item quantity="few">Продовжити синхронізацію за %d хвилини</item>
+     </plurals>
+	 <plurals name="dirty_secretphoto_count">
+        <item quantity="other">Не синхронізовано %d приватних фото. Якщо Ви вийдете з акаунту зараз, ці фото буде видалено</item>
+        <item quantity="one">Не синхронізовано %d приватне фото. Якщо Ви вийдете з акаунту зараз, це фото буде видалено</item>
+        <item quantity="few">Не синхронізовано %d приватні фото. Якщо Ви вийдете з акаунту зараз, ці фото буде видалено</item>
+     </plurals>
+	  <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d записів Mi помічника</item>
+        <item quantity="one">%d запис Mi помічника</item>
+        <item quantity="few">%d записи Mi помічника</item>
+     </plurals>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_label">Диспетчер завантаження</string>
+     <string name="auto_restart_under_wifi">Автоматично завантажити файл через Wi-Fi</string>
+     <string name="button_cancel_download">Скасувати</string>
+     <string name="button_download_now">Завантажити</string>
+     <string name="button_queue_for_wifi">Пізніше</string>
+     <string name="button_start_now">Завантажити</string>
+     <string name="button_wait_for_wifi">Очікувати</string>
+     <string name="channel_active">Завантаження</string>
+     <string name="channel_complete">Завантаження завершене</string>
+     <string name="channel_insufficient_space">"Недостатньо пам'яті"</string>
+     <string name="channel_waiting">Очікування</string>
+     <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+     <string name="dialog_button_cancel">Скасувати</string>
+     <string name="dialog_button_ok">ОК</string>
+     <string name="dialog_content_limit0">Обмеження завантажень</string>
+     <string name="dialog_content_limit_max">Без обмежень</string>
+     <string name="dialog_data_limit_button1">Очікувати Wi-Fi</string>
+     <string name="dialog_data_limit_button2">Продовжити</string>
+     <string name="dialog_data_limit_msg1">Під час завантаження цього файлу буде використано %s трафіку. Продовжити завантаження через мобільний інтернет?</string>
+     <string name="dialog_data_limit_msg3">Змінити межу</string>
+     <string name="dialog_data_limit_title">Попередження</string>
+     <string name="dialog_insufficient_space_on_cache">"Не вистачає пам\'яті на внутрішній пам\'яті"</string>
+     <string name="dialog_insufficient_space_on_external">SD карта заповнена</string>
+     <string name="dialog_not_show_again">"Запам\'ятати"</string>
+     <string name="dialog_tip_limit">Попереджати під час завантаження файлу більше %s</string>
+     <string name="dialog_tip_limit0">Запитувати щоразу</string>
+     <string name="dialog_tip_no_limit">Більше не запитувати</string>
+     <string name="download_apk_desktop_installing">Встановлення…</string>
+     <string name="download_apk_desktop_pause">Пауза</string>
+     <string name="download_apk_desktop_pending">Очікування…</string>
+     <string name="download_apk_desktop_running">Завантаження…</string>
+     <string name="download_error">Помилка завантаження</string>
+     <string name="download_filesize_unknown">Невідомо</string>
+     <string name="download_no_application_title">Неможливо відкрити файл</string>
+     <string name="download_percent">%d%%</string>
+     <string name="download_queued">В черзі</string>
+     <string name="download_remaining">Залишилося %s</string>
+     <string name="download_running">У процесі</string>
+     <string name="download_running_percent">Завантаження %s</string>
+     <string name="download_unknown_title">&lt;без назви></string>
+     <string name="enter_garbage_clean">"Очищення пам\'яті"</string>
+     <string name="insufficient_space">"Недостатньо пам\'яті для завантаження"</string>
+     <string name="mobile_recommended_title">Мобільний інтернет</string>
+     <string name="notif_text_engine_off">Прискорення Xunlei вимкнено</string>
+     <string name="notif_text_engine_on">Прискорення…</string>
+     <string name="notif_title_file_size">Файлів: %1$d</string>
+     <string name="notif_title_multiple_downloading">Завантаження файлів: %1$d</string>
+     <string name="notif_title_single_downloading">Завантаження: %1$s</string>
+     <string name="notification_download_complete">Завантаження завершено</string>
+     <string name="notification_download_failed">Не вдалося завантажити файл</string>
+     <string name="notification_download_failed_more">Не вдалося завантажити: %1$d</string>
+     <string name="notification_download_success_more">Завантажено файлів: %1$d</string>
+     <string name="notification_need_wifi_for_size">Очікування Wi-Fi мережі</string>
+     <string name="notification_paused_in_background">Завантаження припинено</string>
+     <string name="notify_disabled_net_by_app">Доступ до інтернету заборонено програма \"Безпека\"</string>
+     <string name="notify_install_guide_forward_text">Відкрити</string>
+     <string name="notify_install_guide_msg">Відкрити</string>
+     <string name="notify_install_guide_title">%s встановлено</string>
+     <string name="notify_only_wifi_download">Очікування Wi-Fi мережі</string>
+     <string name="paused_waiting_for_network">Очікування мережі</string>
+     <string name="permdesc_accessAllDownloads">Програма зможе відкривати і змінювати завантаження незалежно від того, через яке ПЗ вони були завантажені</string>
+     <string name="permdesc_downloadCacheNonPurgeable">Програма зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджеру завантаження буде потрібно більше місця</string>
+     <string name="permdesc_downloadCompletedIntent">Програма зможе надсилати сповіщення про завершення завантаження. Шкідливі програми зможуть таким чином заважати роботі програм, завантажуючи файли</string>
+     <string name="permdesc_downloadManager">Програма отримає доступ до диспетчера завантажень і зможе завантажувати файли через нього. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
+     <string name="permdesc_downloadManagerAdvanced">Програма отримає доступ до розширених функцій диспетчера завантажень. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
+     <string name="permdesc_downloadWithoutNotification">Програма зможе завантажувати файли через диспетчер завантажень без попередження користувача</string>
+     <string name="permdesc_seeAllExternal">Програма отримає доступ до завантажень на SD карті незалежно від того, через яке ПЗ вони були завантажені</string>
+     <string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
+     <string name="permlab_downloadCacheNonPurgeable">Резервувати місце в кеші завантаження</string>
+     <string name="permlab_downloadCompletedIntent">Надіслати сповіщення про завантаження</string>
+     <string name="permlab_downloadManager">Доступ до менеджера завантаження</string>
+     <string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантаження</string>
+     <string name="permlab_downloadWithoutNotification">Завантаження файлів без повідомлень</string>
+     <string name="permlab_seeAllExternal">Переглянути всі завантаження на SD карту</string>
+     <string name="privacy_notif_content">Натисніть для перегляду інформації</string>
+     <string name="privacy_notif_title">Прискорення завантаження Xunlei увімкнено</string>
+     <string name="privacy_tip_cancel">Скасувати</string>
+     <string name="privacy_tip_content">Сервіс прискорення Xunlei дозволяє завантажувати файли на максимальній швидкості. Ваша інформація про Mi акаунт буде синхронізована для перевірки активних підписок на цей сервіс.</string>
+     <string name="privacy_tip_ok">ОК</string>
+     <string name="privacy_tip_title">Використовувати сервіс Xunlei?</string>
+     <string name="recommended_file_more_in_mobile" formatted="false">При завантаженні цих файлів (%s | %s) через мобільний інтернет, оператором може стягуватися додаткова плата</string>
+     <string name="recommended_file_one_in_mobile">При завантаженні цих файлів (%s) через мобільний інтернет, оператором може стягуватися додаткова плата</string>
+     <string name="recommended_file_size_download_in_mobile">Використовувати %s мобільного інтернету для завантаження цього файлу?</string>
+     <string name="recommended_no_file_size_download_in_mobile">Використовувати мобільний інтернет для завантаження цього файлу?</string>
+     <string name="root_downloads">Завантаження</string>
+     <string name="task_already_exist">Завантаження вже існує</string>
+     <string name="warning_tip_cancel">Скасувати</string>
+     <string name="warning_tip_content">При завантажені файлів по мобільному інтернету може стягуватись додаткова плата оператором. Припинити завантаження?</string>
+     <string name="warning_tip_ok">ОК</string>
+     <string name="warning_tip_title">Попередження про трафік</string>
+     <string name="wifi_recommended_body" formatted="false">"При завантаженні через мобільну мережу можливе надмірне споживання трафіку.
+
+Щоб виконати завантаження пізніше по Wi-Fi натисніть \"Додати до черги\". 
+
+%s(%s)"</string>
+     <string name="wifi_recommended_title">Завантаження</string>
+     <string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s необхідне підключення до Wi-Fi мережі.
+
+Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s"</string>
+     <string name="wifi_required_title">Занадто великий файл для мережі оператора</string>
+     <string name="xl_speedup_experience_notify_context">Прискорення завантаження</string>
+     <string name="xl_speedup_experience_notify_title">Сервіс Xunlei</string>
+     <string name="xl_speedup_notify_button_experience">Попробуйте безкоштовно</string>
+     <string name="xl_speedup_notify_button_member">Використовуйте Xunlei</string>
+</resources>

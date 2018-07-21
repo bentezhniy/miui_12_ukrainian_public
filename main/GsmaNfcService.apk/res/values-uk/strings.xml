@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="permlab_nfcReceiveEvent">NFC транзакції</string>
+    <string name="permdesc_nfcReceiveEvent">Дозволяє програмі отримувати інформацію про транзакції NFC</string>
+    <string name="permgrouplab_NFC">NFC (комунікація ближнього поля)</string>
+    <string name="permgroupdesc_NFC">Доступ до різноманітних функцій NFC</string>
+</resources>

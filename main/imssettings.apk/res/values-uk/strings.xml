@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ims_settings">Налаштування IMS</string>
+    <string name="ims_vt_call_quality">Якість виклику</string>
+    <string name="ims_vt_call_quality_high">Висока</string>
+    <string name="ims_vt_call_quality_low">Низька</string>
+    <string name="ims_vt_call_quality_set_failed">Неможливо встановити якість виклику</string>
+    <string name="ims_vt_call_quality_title">Якість виклику</string>
+    <string name="ims_vt_call_quality_unknown">Невідомо</string>
+    <string name="ims_get_packet_count_failed">Не вдалося отримати кількість пакетів</string>
+    <string name="ims_get_packet_error_count_failed">Не вдалося отримати кількість пакетних помилок</string>
+    <string name="ims_get_packet_count_label">Натисніть для отримання кількості пакетів</string>
+    <string name="ims_get_packet_error_count_label">Натисніть для отримання кількості пакетних помилок</string>
+    <string name="qti_ims_call_deflect_title">Відхилити виклик</string>
+    <string name="qti_ims_number_not_set">Не встановлено</string>
+    <string name="ims_to_cs_retry_title">Повтор звичайного виклику</string>
+    <string name="ims_to_cs_retry_summary">Автоматично здійснювати звичайний виклик при повторі</string>
+	<string name="ims_vt_call_quality_medium">Середнє</string>
+    <string name="ims_vt_call_static_image_error">Формат зображення не підтримується. Оберіть інше</string>
+    <string name="ims_vt_call_static_image_okay">Статичне зображення встановлене</string>
+    <string name="ims_vt_call_static_image_text">Обрати статичне зображення</string>
+	<string name="ims_vt_call_static_image_ignore">Неможливо змінити зображення під час виклику</string>
+     <string name="rtt_toggle_summary">Режим RTT</string>
+     <string name="rtt_toggle_title">RTT</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UPTsmAddon</string>
+    <string name="unit_rmb">¥</string>
+    <string name="servicedesc">Сервіс TSM</string>
+    <string name="subscription">AID Group</string>
+    <string name="error_network">Помилка інтернету</string>
+    <string name="error_storage_not_enough">Недостатньо пам\'яті</string>
+    <string name="error_download_file">Помилка завантаження файлу</string>
+    <string name="error_unrecognized">Невідома помилка</string>
+    <string name="error_crash">Помилка</string>
+</resources>

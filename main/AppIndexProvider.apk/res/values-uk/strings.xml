@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Налаштування</string>
+    <string name="search_label">Налаштування</string>
+    <string name="application_desc">Програма</string>
+    <string name="settings_description">Налаштування</string>
+	<string name="update_keywords">Оновлення MIUI;Оновлення системи;Оновлення ПЗ;MIUI update</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m_fancy_color_effect_blackboard">Темне</string>
+    <string name="m_fancy_color_effect_monochrome">Моно</string>
+    <string name="m_fancy_color_effect_negative">Негатив</string>
+    <string name="m_fancy_color_effect_normal">Без ефектів</string>
+    <string name="m_fancy_color_effect_posterize">Постеризація</string>
+    <string name="m_fancy_color_effect_radial_blur">Розмиття</string>
+    <string name="m_fancy_color_effect_silhouette">Силует</string>
+    <string name="m_fancy_color_effect_stroke">Штрихи</string>
+    <string name="m_fancy_color_effect_whiteboard">Біле</string>
+    <string name="multi_view">3D перегляд</string>
+    <string name="refocus">Перефокусувати</string>
+    <string name="background_effect">Ефекти</string>
+    <string name="free_view_tip">Нахиляйте пристрій для перегляду 3D эффекта</string>
+    <string name="refocus_tip">Натисніть на фото для перефокусування</string>
+    <string name="fancy_color_tip">Натисніть на фото для зміни</string>
+    <string name="loading_tip">Завантаження…</string>
+    <string name="fancycolor_title">Фонові ефекти</string>
+    <string name="save_dialog_title">Збереження</string>
+    <string name="save_dialog_message">Зберегти зміни?</string>
+    <string name="saving_image">Збереження фото…</string>
+    <string name="saving_image_to_album">Збереження фото у %1$s…</string>
+    <string name="load_image_error">Неможливо завантажити фото</string>
+    <string name="wait_error">Завантаження…</string>
+    <string name="save_error">Неможливо завантажити фото</string>
+    <string name="illegal_arguments_error">Сталася помилка</string>
+    <string name="app_error">Закриття програми…</string>
+    <string name="cancel">Скасувати</string>
+    <string name="save">Зберегти</string>
+</resources>

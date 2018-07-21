@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Оболонка</string>
+    <string name="bugreport_finished_title">Звіт про помилки збережено #%d</string>
+    <string name="bugreport_finished_text">Натисніть для надсилання звіту</string>
+    <string name="bugreport_confirm">Звіти про помилки містять дані з різних логів системи, зокрема і особисту інформацію.</string>
+    <string name="bugreport_confirm_repeat">Показати це повідомлення наступного разу</string>
+    <string name="bugreport_storage_title">Звіти про помилки</string>
+	<string name="bugreport_add_details_to_zip_failed">Неможливо додати дані звіту про помилку до ZIP-файлу</string>
+     <string name="bugreport_confirm_dont_repeat">"Запам'ятати"</string>
+     <string name="bugreport_finished_pending_screenshot_text">Натисніть для надсилання звіту про помилку одразу, або зачекайте збереження скріншоту.</string>
+     <string name="bugreport_in_progress_title">Створення звіту про помилку: %d </string>
+     <string name="bugreport_info_action">Інформація</string>
+     <string name="bugreport_info_description">Опис помилки</string>
+     <string name="bugreport_info_dialog_title">Дані звіту про помилку: %d</string>
+     <string name="bugreport_info_name">"Ім'я файлу"</string>
+     <string name="bugreport_info_title">Назва помилки</string>
+     <string name="bugreport_screenshot_action">Скріншот</string>
+     <string name="bugreport_screenshot_failed">Неможливо зробити скріншот</string>
+     <string name="bugreport_screenshot_taken">Скріншот збережено</string>
+     <string name="bugreport_unnamed">без назви</string>
+     <string name="bugreport_unreadable_text">Неможливо прочитати звіт про помилку</string>
+     <string name="bugreport_updating_title">Додавання даних у звіт про помилку</string>
+     <string name="bugreport_updating_wait">Завантаження…</string>
+     <string name="save">Зберегти</string>
+	 <string name="bugreport_intent_chooser_title">Надіслати звіт</string>
+     <string name="bugreport_notification_channel">Звіт про помилку</string>
+</resources>

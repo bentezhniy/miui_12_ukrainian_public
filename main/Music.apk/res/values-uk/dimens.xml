@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <dimen name="modifypage_info_textsize">9.0dip</dimen>
+	<dimen name="tab_text_size">11.0sp</dimen>
+	<dimen name="text_size_nowplaying_title_primary">16.0sp</dimen>
+	<dimen name="text_size_navigator_view_title_large">16.0sp</dimen>
+	<dimen name="text_size_title_large">18.0sp</dimen>
+	<dimen name="nowplaying_ad_floating_content">0.0dip</dimen>
+    <dimen name="nowplaying_ad_floating_icon_size">0.0dip</dimen>
+	<dimen name="modify_info_item_text_size">9.0dip</dimen>
+</resources>

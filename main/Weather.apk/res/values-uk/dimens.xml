@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="event_info_dialog_width">550.0dip</dimen>
+		<dimen name="daily_forecast_detail_item_width">110.0dip</dimen>
+</resources>

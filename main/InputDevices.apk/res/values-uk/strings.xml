@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Пристрої вводу</string>
+    <string name="keyboard_layouts_label">Клавіатура Android</string>
+    <string name="keyboard_layout_english_uk_label">Англійська (UK)</string>
+    <string name="keyboard_layout_english_us_label">Англійська (US)</string>
+    <string name="keyboard_layout_english_us_intl">Англійська (US), міжнародний стиль</string>
+    <string name="keyboard_layout_english_us_colemak_label">Англійська (US), стиль Colemak</string>
+    <string name="keyboard_layout_english_us_dvorak_label">Англійська (US), стиль Dvorak</string>
+    <string name="keyboard_layout_german_label">Німецька</string>
+    <string name="keyboard_layout_french_label">Французька</string>
+    <string name="keyboard_layout_french_ca_label">Французька (Канада)</string>
+    <string name="keyboard_layout_russian_label">Російська</string>
+    <string name="keyboard_layout_russian_mac_label">Російська, стиль Mac</string>
+    <string name="keyboard_layout_spanish_label">Іспанська</string>
+    <string name="keyboard_layout_swiss_french_label">Швейцарська французька</string>
+    <string name="keyboard_layout_swiss_german_label">Швейцарська німецька</string>
+    <string name="keyboard_layout_belgian">Бельгійська</string>
+    <string name="keyboard_layout_bulgarian">Болгарська</string>
+    <string name="keyboard_layout_italian">Італійська</string>
+    <string name="keyboard_layout_danish">Датська</string>
+    <string name="keyboard_layout_norwegian">Норвезька</string>
+    <string name="keyboard_layout_swedish">Шведська</string>
+    <string name="keyboard_layout_finnish">Фінська</string>
+    <string name="keyboard_layout_croatian">Хорватська</string>
+    <string name="keyboard_layout_czech">Чеська</string>
+    <string name="keyboard_layout_estonian">Естонська</string>
+    <string name="keyboard_layout_hungarian">Угорська</string>
+    <string name="keyboard_layout_icelandic">Ісландська</string>
+    <string name="keyboard_layout_brazilian">Бразильська</string>
+    <string name="keyboard_layout_portuguese">Португальська</string>
+    <string name="keyboard_layout_slovak">Словацька</string>
+    <string name="keyboard_layout_slovenian">Словенська</string>
+    <string name="keyboard_layout_turkish">Турецька</string>
+    <string name="keyboard_layout_ukrainian">Українська</string>
+    <string name="keyboard_layout_arabic">Арабська</string>
+    <string name="keyboard_layout_greek">Грецька</string>
+    <string name="keyboard_layout_hebrew">Іврит</string>
+    <string name="keyboard_layout_lithuanian">Литовська</string>
+    <string name="keyboard_layout_spanish_latin">Іспанська (латинська)</string>
+    <string name="keyboard_layout_latvian">Латвійська</string>
+	<string name="keyboard_layout_english_us_workman_label">Англійська (US), стиль Workman</string>
+</resources>

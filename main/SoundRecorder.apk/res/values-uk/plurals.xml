@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">Завантажено записів: %d</item>
+        <item quantity="one">Завантажено записів: %d</item>
+    </plurals>
+	<plurals name="local_records_count">
+        <item quantity="other">%d записів</item>
+        <item quantity="one">%d запис</item>
+		<item quantity="few">%d запису</item>
+        <item quantity="many">%d записів</item>
+     </plurals>
+     <plurals name="unsynced_records_count">
+        <item quantity="other">%d записів не синхронізовано</item>
+        <item quantity="one">%d запис не синхронізовано</item>
+		<item quantity="few">%d запису не синхронізовано</item>
+		<item quantity="many">%d записів не синхронізовано</item>
+     </plurals>
+	 <plurals name="btn_clear_records">
+        <item quantity="other">Видалення %d записів</item>
+        <item quantity="one">Видалення %d запису</item>
+     </plurals>
+     <plurals name="choose_call_records_count">
+        <item quantity="other">%d записів</item>
+        <item quantity="one">%d запис</item>
+        <item quantity="few">%d записи</item>
+     </plurals>
+     <plurals name="notification_warning">
+        <item quantity="other">Пам\'ять закінчується (менше %d хвилин)</item>
+        <item quantity="one">Пам\'ять закінчується (менше %d хвилини)</item>
+     </plurals>
+</resources>

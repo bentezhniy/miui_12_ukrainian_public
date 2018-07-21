@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Розваги</item>
+        <item>Пейзажі</item>
+        <item>Небо</item>
+        <item>Фрукти</item>
+        <item>Тварини</item>
+    </string-array>
+	<string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Пейзажі</item>
+        <item>Тварини</item>
+        <item>Креатив</item>
+        <item>Рослини</item>
+        <item>Стиль життя</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Пейзажі</item>
+        <item>Тварини</item>
+        <item>Рослини</item>
+        <item>Креатив</item>
+        <item>Стиль життя</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Пейзажі</item>
+        <item>Тварини</item>
+        <item>Креатив</item>
+        <item>Рослини</item>
+        <item>Стиль життя</item>
+     </string-array>
+     <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Тварини</item>
+        <item>Будівлі</item>
+        <item>Креатив</item>
+        <item>Мультфільми</item>
+        <item>Пейзажі</item>
+     </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Червоний - вгору, зелений - донизу</item>
+        <item>Зелений - вверх, червоний - донизу</item>
+    </string-array>
+	<string-array name="express_status_all">
+        <item>У процесі</item>
+        <item>Відправка</item>
+        <item>Доставлено</item>
+        <item>Невідомо</item>
+        <item>Отримано</item>
+        <item>Відхилено</item>
+        <item>Повернення</item>
+        <item>Невідомо</item>
+     </string-array>
+     <string-array name="express_status_detail">
+        <item>Оформлено</item>
+        <item>Відправка</item>
+     </string-array>
+     <string-array name="payment_chooser">
+        <item>Карта</item>
+        <item>WeChat</item>
+        <item>Alipay</item>
+     </string-array>
+</resources>

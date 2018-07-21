@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="contact_entries">
+        <item>Ім\'я</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Організація</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Нотатка</item>
+     </string-array>
+     <string-array name="font_size_names">
+        <item>Дрібний</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+     </string-array>
+	      <string-array name="attachment_chooser">
+        <item>Зняти фото</item>
+        <item>Обрати з Галереї</item>
+     </string-array>
+     <string-array name="folder_operations">
+        <item>Перейменувати</item>
+        <item>Видалити</item>
+     </string-array>
+     <string-array name="welcome_notes_content">
+             <item>"Ласкаво просимо в нотатки!
+"</item>
+        <item>"Натисніть \"+\" для створення нотатки
+"</item>
+        <item>"Вибирайте красивий фон
+"</item>
+        <item>"Створюйте теки і переміщайте в них нотатки
+"</item>
+        <item>"Створюйте приватні нотатки
+"</item>
+        <item>"Додаткові можливості:
+  - Синхронізація з Mi Cloud
+  - Встановлення нагадувань"</item>
+     </string-array>
+	 <string-array name="note_sort_way">
+        <item>За датою створення</item>
+        <item>За датою редагування</item>
+     </string-array>
+	 <string-array name="first_guide_contents">
+        <item>Ласкаво просимо!</item>
+        <item>Створіть нотатку</item>
+        <item>Ви можете використовувати текст, зображення та голос у своїх нотатках. Багата бібліотека стилів і шрифтів прикрасить будь-які записи</item>
+        <item>Списки та нагадування завжди допоможуть у плануванні поїздок або складанні списку продуктів</item>
+        <item>Діліться нотатками</item>
+        <item>Ви можете створювати довгі скріншоти заміток і ділитися ними з друзями</item>
+        <item>Створюйте та перемикайтеся між теками</item>
+        <item>Натисніть стрілку нижче, щоб створити нову папку або перемкнутися між існуючими</item>
+     </string-array>
+     <string-array name="second_guide_contents">
+        <item>Голосові нотатки</item>
+        <item>Створюйте нотатки за допомогою голосу</item>
+     </string-array>
+</resources>

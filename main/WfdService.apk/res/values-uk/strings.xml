@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервіс Wfd</string>
+    <string name="perm_label">Wi-Fi дисплей</string>
+    <string name="perm_desc">API доступу для Wi-Fi дисплея</string>
+	<string name="notification_text">Трансляцію екрану увімкнено</string>
+    <string name="notification_title">WiDi</string>
+</resources>

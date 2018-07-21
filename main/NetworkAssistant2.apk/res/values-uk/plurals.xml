@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Запускалася %d дн. тому</item>
+        <item quantity="one">Запускалася вчора</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Пошук у програмах: %d</item>
+        <item quantity="one">Пошук у програмах: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Програми з доступом до інтернету в роумінгу: %d</item>
+        <item quantity="one">Програми з доступом до інтернету в роумінгу: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Програми без доступу до інтернету в роумінгу: %d</item>
+        <item quantity="one">Програми без доступу до інтернету в роумінгу: %d</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Знайдено програм: %d</item>
+        <item quantity="one">Знайдено програм: %d</item>
+    </plurals>
+	<plurals name="hints_traffic_disable_title">
+        <item quantity="other">Програми з відстеженням трафіку: %d</item>
+        <item quantity="one">Програми з відстеженням трафіку: %d</item>
+     </plurals>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Програми без відстеження трафіку: %d</item>
+        <item quantity="one">Програми без відстеження трафіку: %d</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">Програми з економією трафіку: %d</item>
+        <item quantity="one">Програми з економією трафіку: %d</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">Програми без економії трафіку: %d</item>
+        <item quantity="one">Програми без економії трафіку: %d</item>
+     </plurals>
+	 <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">Без стиснення: %d</item>
+        <item quantity="one">Без стиснення: %d</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">Стиснення увімкнено для програм: %d</item>
+        <item quantity="one">Стиснення увімкнено для програм: %d</item>
+     </plurals>
+</resources>

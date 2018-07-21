@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Ґ</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>І</item>
+        <item>Ї</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+	<string-array name="question_no1">
+        <item>Родина</item>
+        <item>Ім\'я бабусі по матері</item>
+        <item>Ім\'я дідуся по матері</item>
+        <item>Ім\'я дідуся по батькові</item>
+        <item>Ім\'я бабусі по батькові</item>
+        <item>День народження батька</item>
+        <item>День народження матері</item>
+        <item>Яка різниця у віці батьків (років і місяців)?</item>
+     </string-array>
+     <string-array name="question_no2">
+        <item>Освіта</item>
+        <item>Як звуть старосту класу в середній школі?</item>
+        <item>Як звуть старосту класу в початковій школі?</item>
+        <item>Ваш ID номер студента</item>
+        <item>Як звуть Вашого сусіда по кімнаті в університеті?</item>
+        <item>Як звуть Вашого керівника в університеті?</item>
+     </string-array>
+     <string-array name="question_no3">
+        <item>Особиста інформація</item>
+        <item>Як Вас називали батьки?</item>
+        <item>Останні 6 цифр номеру паспорта</item>
+        <item>В якій лікарні Ви народилися?</item>
+        <item>Як звуть Вашого найкращого друга?</item>
+     </string-array>
+     <string-array name="question_no4">
+        <item>Спогади</item>
+        <item>Як звали ваше перше звірятко?</item>
+        <item>Як звали вашу першу дівчину / Вашого першого парубка?</item>
+        <item>Як називалася організація, в яку Ви вперше влаштувалися на роботу?</item>
+     </string-array>
+     <string-array name="question_no5">
+        <item>Сім\'я</item>
+        <item>Коли Ви вступили в шлюб?</item>
+        <item>Як звуть вашу дружину / Вашого чоловіка?</item>
+        <item>Коли день народження Вашої дружини / Вашого чоловіка?</item>
+     </string-array>
+	      <string-array name="education">
+        <item>Середня школа</item>
+        <item>Підготовча школа</item>
+        <item>Вища школа</item>
+        <item>Професійна школа</item>
+        <item>Коледж</item>
+        <item>Ступінь магістра</item>
+        <item>Ступінь доктора</item>
+     </string-array>
+     <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+     </string-array>
+	 <string-array name="account_user_gender_name">
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
+     </string-array>
+</resources>

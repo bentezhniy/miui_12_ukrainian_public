@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Синтезатор мови</string>
+    <string name="installed">Встановлено</string>
+    <string name="not_installed">Не встановлено</string>
+</resources>

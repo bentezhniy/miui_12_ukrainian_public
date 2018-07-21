@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+	<string-array name="emailaddresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="improtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationtypes">
+        <item>Робочий</item>
+        <item>Інше</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="phonetypes">
+        <item>Домашній</item>
+        <item>Мобільний</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="postaladdresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+    <string-array name="imaddresstypes">
+        <item>Домашній</item>
+        <item>Робочий</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+    </string-array>
+	<string-array name="app_ops_labels">
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба використання вібрації</item>
+        <item>Спроба читання контактів</item>
+        <item>Спроба зміни контактів</item>
+        <item>Спроба читання журналу викликів</item>
+        <item>Спроба зміни журналу викликів</item>
+        <item>Спроба читання календаря</item>
+        <item>Спроба зміни календаря</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба виведення повідомлення</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба здійснення виклику</item>
+        <item>Спроба читання повідомлень</item>
+        <item>Спроба читання й зміни повідомлень</item>
+        <item>Спроба отримання повідомлення</item>
+        <item>Спроба отримання повідомлення</item>
+        <item>Спроба отримання повідомлення</item>
+        <item>Спроба отримання повідомлення</item>
+        <item>Спроба надсилання повідомлення</item>
+        <item>Спроба читання повідомлень</item>
+        <item>Спроба читання й зміни повідомлень</item>
+        <item>Спроба зміни налаштувань</item>
+        <item>Спроба підйому</item>
+        <item>Спроба отримання доступу до повідомлень</item>
+        <item>Спроба отримання доступу до камери</item>
+        <item>Спроба запису звуку</item>
+        <item>Спроба відтворення звуку</item>
+        <item>Спроба читання буфера обміну</item>
+        <item>Спроба зміни буфера обміну</item>
+		<item>Спроба використання кнопок медіа</item>
+        <item>Спроба використання фокуса звуку</item>
+        <item>Спроба використання загальної гучності</item>
+        <item>Спроба використання гучності розмови</item>
+        <item>Спроба використання гучності виклику</item>
+        <item>Спроба використання гучності медіа</item>
+        <item>Спроба використання гучності будильника</item>
+        <item>Спроба використання гучності повідомлень</item>
+        <item>Спроба використання гучності bluetooth</item>
+        <item>Спроба втримувати екран увімкненим</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба отримання доступу до місцезнаходження</item>
+        <item>Спроба увімкнення/вимикання Wi-Fi</item>
+        <item>Спроба увімкнення/вимикання Bluetooth</item>
+        <item>Спроба увімкнення/вимикання мобільного інтернету</item>
+        <item>Спроба надсилання MMS</item>
+        <item>Спроба читання MMS</item>
+        <item>Спроба створення MMS</item>
+		<item>Спроба запуску</item>
+    </string-array>
+		 <string-array name="emailAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Домашній</item>
+        <item>Мобільний</item>
+        <item>Робочий</item>
+        <item>Робочий факс</item>
+        <item>Домашній факс</item>
+        <item>Пейджер</item>
+        <item>Інший</item>
+        <item>Вибрати</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Домашня</item>
+        <item>Робоча</item>
+        <item>Інша</item>
+        <item>Вибрати</item>
+     </string-array>
+	 <string-array name="config_locationProviderPackageNames">
+        <item>com.android.location.fused</item>
+        <item>com.google.android.gms</item>
+        <item>com.amap.android.location</item>
+    </string-array>
+	 <string-array name="wfcOperatorErrorAlertMessages">
+        <item>"Щоб здійснювати виклики та надсилати повідомлення по Wi-Fi, необхідно спочатку звернутися до оператора зв'язку та підключити цю послугу. Після цього Ви зможете знову обрати цей параметр у налаштуваннях."</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Вкажіть оператора та зареєструйтеся</item>
+     </string-array>
+     <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Виклики по Wi-Fi (%s)</item>
+     </string-array>
+	 <string-array name="fingerprint_acquired_vendor">
+        <item>Повторіть спробу</item>
+        <item></item>
+        <item></item>
+        <item>Притисніть палець до сканеру відбитків</item>
+        <item></item>
+        <item>Притисніть палець до сканеру відбитків</item>
+        <item>Притисніть палець до сканеру відбитків</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Притисніть палець до сканеру відбитків</item>
+        <item>Притисніть палець до сканеру відбитків</item>
+        <item>Система не встигла розпізнати відбиток</item>
+        <item>Перемістіть палець та повторіть спробу</item>
+        <item>Приберіть палець та притисніть до сканеру знову</item>
+        <item>Тримайте палець на сканері відбитків довше</item>
+        <item></item>
+        <item></item>
+    </string-array>
+	<string-array name="network_switch_type_name">
+        <item>мобільний інтернет</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+     </string-array>
+</resources>

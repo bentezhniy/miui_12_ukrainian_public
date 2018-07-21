@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="agps_network_entries">
+        <item>Домашня мережа</item>
+        <item>Всі мережі</item>
+     </string-array>
+     <string-array name="agps_reset_type_entries">
+        <item>ГАРЯЧИЙ</item>
+        <item>ТЕПЛИЙ</item>
+        <item>ХОЛОДНИЙ</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Щоденно</item>
+        <item>У будні</item>
+        <item>У вихідні</item>
+        <item>Обрати дні</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Щоденно</item>
+        <item>У будні</item>
+        <item>У вихідні</item>
+        <item>Обрати дні</item>
+     </string-array>
+     <string-array name="animator_duration_scale_entries">
+        <item>Анімація вимкнена</item>
+        <item>Анімація (масштаб: 0.5x)</item>
+        <item>Анімація (масштаб: 1x)</item>
+        <item>Анімація (масштаб: 1.5x)</item>
+        <item>Анімація (масштаб: 2x)</item>
+        <item>Анімація (масштаб: 5x)</item>
+        <item>Анімація (масштаб: 10x)</item>
+     </string-array>
+     <string-array name="anr_record_interval_entries">
+        <item>10 секунд</item>
+        <item>20 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+     </string-array>
+     <string-array name="ap_identify">
+        <item>За замовчуванням</item>
+        <item>Точка доступу</item>
+     </string-array>
+     <string-array name="apn_auth_entries">
+        <item>Немає</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP або CHAP</item>
+     </string-array>
+     <string-array name="app_install_location_entries">
+        <item>Внутрішня пам\’ять</item>
+        <item>SD карта</item>
+        <item>Автоматично</item>
+     </string-array>
+     <string-array name="app_ops_categories">
+        <item>Місцезнаходження</item>
+        <item>Особисті дані</item>
+        <item>Повідомлення</item>
+        <item>Медіа</item>
+        <item>Обладнання</item>
+     </string-array>
+     <string-array name="app_ops_labels">
+        <item>Місцеположення</item>
+        <item>Місцеположення</item>
+        <item>Місцеположення</item>
+        <item>Вібрація</item>
+        <item>Читання контактів</item>
+        <item>Редагування контактів</item>
+        <item>Читання журналу викликів</item>
+        <item>Редагування журналу викликів</item>
+        <item>Читання календаря</item>
+        <item>Редагування календаря</item>
+        <item>Місцеположення</item>
+        <item>Сповіщення</item>
+        <item>Місцеположення</item>
+        <item>Виклик</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Надсилання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Надсилання SMS/MMS</item>
+        <item>Отримання SMS/MMS</item>
+        <item>Надсилання SMS/MMS</item>
+        <item>Редагування налаштувань</item>
+        <item>Малюнок зверху</item>
+        <item>Сповіщення</item>
+        <item>Камера</item>
+        <item>Запис аудіо</item>
+        <item>Відтворення аудіо</item>
+        <item>Читання буферу</item>
+        <item>Редагування буферу</item>
+        <item>Клавіші медіа</item>
+        <item>Фокус аудіо</item>
+        <item>Загальна гучність</item>
+        <item>Гучність голосу</item>
+        <item>Гучність виклику</item>
+        <item>Гучність медіа</item>
+        <item>Гучність будильнику</item>
+        <item>Гучність сповіщень</item>
+        <item>Гучність Bluetooth</item>
+        <item>Не вимикати екран</item>
+        <item>Місцеположення</item>
+        <item>Визначення місцяположення</item>
+        <item>Статистика використання</item>
+        <item>Увімкнути/вимкнути мікрофон</item>
+        <item>Відображення сповіщень</item>
+        <item>Трансляція контенту</item>
+        <item>Активація VPN</item>
+        <item>Збереження шпалер</item>
+        <item>Допоміжна структура</item>
+        <item>Допоміжний скріншот</item>
+        <item>Читання стану телефону</item>
+        <item>Додавання голосової пошти</item>
+        <item>Використання SIP</item>
+        <item>Обробка вихідних викликів</item>
+        <item>Відбитки пальців</item>
+        <item>Тілесні датчики</item>
+        <item>Читання повідомлень системи сповіщень населення</item>
+        <item>Фіктивні місцезнаходження</item>
+        <item>Читання зі сховища</item>
+        <item>Запис до сховища</item>
+        <item>Увімкнення екрану</item>
+        <item>Отримання даних про акаунти</item>
+        <item>Запуск в фоновому режимі</item>
+     </string-array>
+     <string-array name="app_ops_permissions">
+        <item>Дозволити</item>
+        <item>Ігнорувати</item>
+        <item>Завжди запитувати</item>
+     </string-array>
+     <string-array name="app_ops_summaries">
+        <item>приблизне місцеположення</item>
+        <item>точне місцеположення</item>
+        <item>GPS</item>
+        <item>вібросигнал</item>
+        <item>зчитувати дані контактів</item>
+        <item>редагування контактів</item>
+        <item>перегляд списку викликів</item>
+        <item>редагування списку викликів</item>
+        <item>зчитувати дані календаря</item>
+        <item>редагування календаря</item>
+        <item>пошук Wi-Fi</item>
+        <item>сповіщення</item>
+        <item>пошук мобільних мереж</item>
+        <item>зателефонувати</item>
+        <item>читання SMS</item>
+        <item>створення SMS</item>
+        <item>отримання SMS</item>
+        <item>отримання екстрених SMS</item>
+        <item>отримання MMS</item>
+        <item>отримання повідомлень WAP PUSH</item>
+        <item>надсилання SMS</item>
+        <item>читання SMS зі смарт-карти</item>
+        <item>запис SMS на смарт-карту</item>
+        <item>редагування налаштувань</item>
+        <item>показувати поверх інших елементів</item>
+        <item>доступ до сповіщень</item>
+        <item>камера</item>
+        <item>записати аудіо</item>
+        <item>відтворити аудіо</item>
+        <item>зчитати з буферу обміну</item>
+        <item>змінити буфер обміну</item>
+        <item>кнопки мультимедіа</item>
+        <item>аудіофокус</item>
+        <item>загальна гучність</item>
+        <item>гучність голосу</item>
+        <item>гучність дзвінку</item>
+        <item>гучність мультимедіа</item>
+        <item>гучність будильнику</item>
+        <item>гучність сповіщень</item>
+        <item>гучність Bluetooth-пристроїв</item>
+        <item>не вимикати</item>
+        <item>відстежувати місцезнаходження</item>
+        <item>контролювати використання енергії при визначенні місцезнаходження</item>
+        <item>переглянути статистику використання</item>
+        <item>увімкнути/вимкнути мікрофон</item>
+        <item>показувати сповіщення</item>
+        <item>трансляція контенту</item>
+        <item>активація VPN</item>
+        <item>збереження шпалер</item>
+        <item>допоміжна структура</item>
+        <item>допоміжний скріншот</item>
+        <item>читання стану телефону</item>
+        <item>додавання голосової пошти</item>
+        <item>використання SIP</item>
+        <item>Обробка вихідних викликів</item>
+        <item>відбитки пальців</item>
+        <item>тілесні датчики</item>
+        <item>читання повідомлень системи сповіщення населення</item>
+        <item>фіктивні місцезнаходження</item>
+        <item>читання зі сховища</item>
+        <item>запис до сховища</item>
+        <item>увімкнення екрану</item>
+        <item>отримання даних про акаунти</item>
+        <item>запуск у фоновому режимі</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Стандартне обмеження</item>
+        <item>Без фонових процесів</item>
+        <item>Не більш одного процесу</item>
+        <item>Не більш 2 процесів</item>
+        <item>Не більш 3 процесів</item>
+        <item>Не більш 4 процесів</item>
+     </string-array>
+     <string-array name="automatic_storage_management_days">
+        <item>Більше 30 днів</item>
+        <item>Більше 60 днів</item>
+        <item>Більше 90 днів</item>
+     </string-array>
+     <string-array name="battery_indicator_style_entries">
+        <item>Графічний</item>
+        <item>Відсотковий</item>
+        <item>Смуга в рядку стану</item>
+     </string-array>
+     <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+     </string-array>
+     <string-array name="bearer_entries">
+        <item>Не вказано</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"16 біт/відлік"</item>
+        <item>"24 біт/відлік"</item>
+        <item>"32 біт/відлік"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"16 біт/відлік"</item>
+        <item>"24 біт/відлік"</item>
+        <item>"32 біт/відлік"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"Моно"</item>
+        <item>"Стерео"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"Моно"</item>
+        <item>"Стерео"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>"Оптимізувати якість звуку"</item>
+        <item>"Баланс якості звуку і швидкості підключення"</item>
+        <item>"Оптимізувати швидкість підключення"</item>
+        <item>"Кращий можливий результат (адаптивний бітрейт)"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>"Оптимізувати якість звуку (990/909 кбіт/с)"</item>
+        <item>"Баланс якості звуку і швидкості підключення (660/606 кбіт/с)"</item>
+        <item>"Оптимізувати швидкість підключення (330/303 кбіт/с)"</item>
+        <item>"Кращий можливий результат (адаптивний бітрейт)"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"44,1 кГц"</item>
+        <item>"48 кГц"</item>
+        <item>"88,2 кГц"</item>
+        <item>"96 кГц"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"44,1 кГц"</item>
+        <item>"48 кГц"</item>
+        <item>"88,2 кГц"</item>
+        <item>"96 кГц"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"SBC"</item>
+        <item>"AAC"</item>
+        <item>"Аудіокодек: Qualcomm® aptX™"</item>
+        <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
+        <item>"LDAC"</item>
+        <item>"Увімкнути додаткові кодеки"</item>
+        <item>"Вимкнути додаткові кодеки"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>"Вибір системи (стандартно)"</item>
+        <item>"SBC"</item>
+        <item>"AAC"</item>
+        <item>"Аудіокодек: Qualcomm® aptX™"</item>
+        <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
+        <item>"LDAC"</item>
+        <item>"Увімкнути додаткові кодеки"</item>
+        <item>"Вимкнути додаткові кодеки"</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (стандартно)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>1 година</item>
+        <item>Завжди</item>
+     </string-array>
+     <string-array name="button_light_timeout_entries">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>20 секунд</item>
+        <item>Завжди</item>
+     </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>Стандартно</item>
+        <item>Ні</item>
+        <item>Контур</item>
+        <item>З тінню</item>
+        <item>Припіднятий</item>
+        <item>Втоплений</item>
+     </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>Дуже маленький</item>
+        <item>Маленький</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Дуже великий</item>
+     </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>Стандартно</item>
+        <item>Білий на чорному</item>
+        <item>Чорний на білому</item>
+        <item>Жовтий на чорному</item>
+        <item>Жовтий на синьому</item>
+        <item>Спеціальний</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>За умовчанням</item>
+        <item>Sans-Serif</item>
+        <item>Sans-Serif стиснений</item>
+        <item>Моноширинний Sans-Serif</item>
+        <item>Serif</item>
+        <item>Моноширинний Serif</item>
+        <item>Неформальний шрифт</item>
+        <item>Курсив</item>
+        <item>Зменшені великі букви</item>
+     </string-array>
+     <string-array name="cellcular2wifi_entries">
+        <item>Автопідключення</item>
+        <item>Підключення власноруч</item>
+        <item>Із запитом</item>
+     </string-array>
+     <string-array name="change_security_lock_picker">
+        <item>Фейсконтроль</item>
+        <item>Графічний ключ</item>
+        <item>Код</item>
+        <item>Пароль</item>
+     </string-array>
+     <string-array name="check_importance_entries">
+        <item>Приховувати неважливі</item>
+        <item>Показувати усі</item>
+        <item>Приховувати усі</item>
+     </string-array>
+     <string-array name="check_importance_summary">
+        <item>Неважливі сповіщення будуть відображатися у окремій категорії</item>
+        <item>Все сповіщення будуть відображатися безпосередньо у панелі сповіщень</item>
+        <item>Все сповіщення будуть відображатися у окремій категорії</item>
+     </string-array>
+     <string-array name="city_name">
+        <item>Абіджан</item>
+        <item>Аккра</item>
+        <item>Аддіс-Абеба</item>
+        <item>Алжир</item>
+        <item>Блантайр</item>
+        <item>Браззавіль</item>
+        <item>Каїр</item>
+        <item>Касабланка</item>
+        <item>Конакрі</item>
+        <item>Дакар</item>
+        <item>Дар-ес-Салам</item>
+        <item>Джибуті</item>
+        <item>Фрітаун</item>
+        <item>Габороне</item>
+        <item>Хараре</item>
+        <item>Йоганнесбург</item>
+        <item>Кампала</item>
+        <item>Хартум</item>
+        <item>Кігалі</item>
+        <item>Кіншаса</item>
+        <item>Лагос</item>
+        <item>Масеру</item>
+        <item>Могадішо</item>
+        <item>Найробі</item>
+        <item>Сан-Томе</item>
+        <item>Тімбукту</item>
+        <item>Тріполі</item>
+        <item>Туніс</item>
+        <item>Анкорідж</item>
+        <item>Мендоса</item>
+        <item>Аруба</item>
+        <item>Асунсьон</item>
+        <item>Барбадос</item>
+        <item>Беліз</item>
+        <item>Богота</item>
+        <item>Буенос-Айрес</item>
+        <item>Канкун</item>
+        <item>Каракас</item>
+        <item>Кайманові острови</item>
+        <item>Чикаго</item>
+        <item>Коста-Ріка</item>
+        <item>Кюрасао</item>
+        <item>Досон-Крик</item>
+        <item>Денвер</item>
+        <item>Детройт</item>
+        <item>Домініка</item>
+        <item>Едмонтон</item>
+        <item>Сальвадор</item>
+        <item>Форталеза</item>
+        <item>Гранд-Терк</item>
+        <item>Гренада</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Галіфакс</item>
+        <item>Гавана</item>
+        <item>Індіанаполіс</item>
+        <item>Нокс-Сіті</item>
+        <item>Пітерсберг</item>
+        <item>Телл-Сіті</item>
+        <item>Веве</item>
+        <item>Венсен</item>
+        <item>Вінамак</item>
+        <item>Кінгстон</item>
+        <item>Ла-Пас</item>
+        <item>Ліма</item>
+        <item>Лос-Анджелес</item>
+        <item>Луїсвілл</item>
+        <item>Манагуа</item>
+        <item>Мартініка</item>
+        <item>Метлакатла</item>
+        <item>Мехіко</item>
+        <item>Монтеррей</item>
+        <item>Монтевідео</item>
+        <item>Монреаль</item>
+        <item>Нассау</item>
+        <item>Нью-Йорк</item>
+        <item>Беула</item>
+        <item>Нью-Сейлем</item>
+        <item>Панама</item>
+        <item>Фінікс</item>
+        <item>Порт-оф-Спейн</item>
+        <item>Порт-о-Пренс</item>
+        <item>Пуерто-Ріко</item>
+        <item>Санто-Доминго</item>
+        <item>Сан-Пауло</item>
+        <item>Сент-Джонс</item>
+        <item>Сент-Кітс</item>
+        <item>Сент-Люсія</item>
+        <item>Сент-Томас</item>
+        <item>Тіхуана</item>
+        <item>Торонто</item>
+        <item>Ванкувер</item>
+        <item>Вінніпег</item>
+        <item>Південний полюс</item>
+        <item>Лонгйір</item>
+        <item>Алма-Ата</item>
+        <item>Амман</item>
+        <item>Анадир</item>
+        <item>Актау</item>
+        <item>Багдад</item>
+        <item>Бахрейн</item>
+        <item>Баку</item>
+        <item>Бангкок</item>
+        <item>Бейрут</item>
+        <item>Калькутта</item>
+        <item>Дамаск</item>
+        <item>Дакка</item>
+        <item>Дубаї</item>
+        <item>Газа</item>
+        <item>Хеврон</item>
+        <item>Хошимін</item>
+        <item>Гонконг</item>
+        <item>Джакарта</item>
+        <item>Єрусалим</item>
+        <item>Кабул</item>
+        <item>Карачі</item>
+        <item>Катманду</item>
+        <item>Куала-Лумпур</item>
+        <item>Кувейт</item>
+        <item>Макао</item>
+        <item>Манила</item>
+        <item>Маскат</item>
+        <item>Пномпень</item>
+        <item>Пхеньян</item>
+        <item>Катар</item>
+        <item>Янгон</item>
+        <item>Ер-Ріяд</item>
+        <item>Сеул</item>
+        <item>Шанхай</item>
+        <item>Сінгапур</item>
+        <item>Тайбей</item>
+        <item>Тегеран</item>
+        <item>Тель-Авів</item>
+        <item>Токіо</item>
+        <item>Улан-Батор</item>
+        <item>Бермудські острови</item>
+        <item>Канарскі острови</item>
+        <item>Кабо-Верде</item>
+        <item>"Рейк'явік"</item>
+        <item>Аделаїда</item>
+        <item>Брісбен</item>
+        <item>Канберра</item>
+        <item>Дарвін</item>
+        <item>Мельбурн</item>
+        <item>Новий Південний Уельс</item>
+        <item>Перт</item>
+        <item>Квінсленд</item>
+        <item>Сідней</item>
+        <item>Вікторія</item>
+        <item>Ньюфаундленд</item>
+        <item>Саскачеван</item>
+        <item>Острів Пасхи</item>
+        <item>Амстердам</item>
+        <item>Андорра</item>
+        <item>Афіни</item>
+        <item>Белфаст</item>
+        <item>Белград</item>
+        <item>Берлин</item>
+        <item>Братислава</item>
+        <item>Брюссель</item>
+        <item>Бухарест</item>
+        <item>Будапешт</item>
+        <item>Кишинів</item>
+        <item>Копенгаген</item>
+        <item>Дублін</item>
+        <item>Гібралтар</item>
+        <item>Хельсінкі</item>
+        <item>Острів Мен</item>
+        <item>Стамбул</item>
+        <item>Лісабон</item>
+        <item>Лондон</item>
+        <item>Люксембург</item>
+        <item>Мадрид</item>
+        <item>Мальта</item>
+        <item>Мінськ</item>
+        <item>Монако</item>
+        <item>Москва</item>
+        <item>Осло</item>
+        <item>Париж</item>
+        <item>Прага</item>
+        <item>Рига</item>
+        <item>Рим</item>
+        <item>Сан-Марино</item>
+        <item>Сараєво</item>
+        <item>Сімферополь</item>
+        <item>"Скоп'е"</item>
+        <item>Софія</item>
+        <item>Стокгольм</item>
+        <item>Таллін</item>
+        <item>Ватикан</item>
+        <item>Вена</item>
+        <item>Вільнюс</item>
+        <item>Варшава</item>
+        <item>Загреб</item>
+        <item>Цюрих</item>
+        <item>Антананаріву</item>
+        <item>Мальдіви</item>
+        <item>Маврікій</item>
+        <item>Окленд</item>
+        <item>Фиджі</item>
+        <item>Гуам</item>
+        <item>Гонолулу</item>
+        <item>Кірітіматі</item>
+        <item>Нумеа</item>
+        <item>Самоа</item>
+        <item>Таїти</item>
+        <item>Антигуа</item>
+        <item>Остін</item>
+        <item>Бостон</item>
+        <item>Калгарі</item>
+        <item>Колумбус</item>
+        <item>Даллас</item>
+        <item>Ноксвіль</item>
+        <item>Мемфис</item>
+        <item>Майами</item>
+        <item>Мінеаполіс</item>
+        <item>Оттава</item>
+        <item>Філадельфія</item>
+        <item>Портленд</item>
+        <item>Сан-Діего</item>
+        <item>Сан-Франциско</item>
+        <item>Солт-Лейк-Сіті</item>
+        <item>Сан-Хосе</item>
+        <item>Сіетл</item>
+        <item>Сент-Луїс</item>
+        <item>Вашингтон (округ Колумбія)</item>
+        <item>"Х'юстон"</item>
+        <item>Сан-Антонио</item>
+        <item>Джексонвіль</item>
+        <item>Балтимор</item>
+        <item>Нешвиль</item>
+        <item>Мілуокі</item>
+        <item>Оклахома-Сіті</item>
+        <item>Лас-Вегас</item>
+        <item>Альбукерке</item>
+        <item>Тусон</item>
+        <item>Сакраменто</item>
+        <item>Атланта</item>
+        <item>Клівленд</item>
+        <item>Новий Орлеан</item>
+        <item>Тампа</item>
+        <item>Піттсбург</item>
+        <item>Цінціннаті</item>
+        <item>Маунтін-Вью</item>
+        <item>Ріно</item>
+        <item>Доха</item>
+        <item>Пекін</item>
+        <item>Мумбаї</item>
+        <item>Делі</item>
+        <item>Осака</item>
+        <item>Лахор</item>
+        <item>Сана</item>
+        <item>Барселона</item>
+        <item>Мюнхен</item>
+        <item>Мілан</item>
+        <item>Франкфурт</item>
+        <item>Ханой</item>
+        <item>Анкара</item>
+        <item>Бангалор</item>
+        <item>Бразиліа</item>
+        <item>Кейптаун</item>
+        <item>Ісламабад</item>
+        <item>Ріо-де-Жанейро</item>
+        <item>Анн-Арбор</item>
+        <item>Боулдер</item>
+        <item>Кембридж</item>
+        <item>Кіркланд</item>
+        <item>Медісон</item>
+        <item>Гуанчжоу</item>
+        <item>Хайдерабад</item>
+        <item>Рестон</item>
+        <item>Белу-Орізонті</item>
+        <item>Сантьяго</item>
+        <item>Монровія</item>
+        <item>Коломбо</item>
+        <item>Чіуауа</item>
+        <item>Гуруграм</item>
+        <item>Манчестер</item>
+        <item>Київ</item>
+        <item>Санкт-Петербург</item>
+        <item>Краків</item>
+        <item>Вроцлав</item>
+        <item>Гамбург</item>
+        <item>Оулу</item>
+        <item>Хайфа</item>
+        <item>Сан-Хуан</item>
+        <item>Тегусігальпа</item>
+        <item>Парамарібо</item>
+        <item>Кіто</item>
+        <item>Маршаллові острови</item>
+        <item>Острів Мідуей</item>
+        <item>Тихоокеанский час</item>
+        <item>Саскачеван</item>
+        <item>Манаус</item>
+        <item>Гренландія</item>
+        <item>Центральна Атлантика</item>
+        <item>Азорскі острови</item>
+        <item>Віндхук</item>
+        <item>Тбілісі</item>
+        <item>Єреван</item>
+        <item>Уральск</item>
+        <item>Єкатеринбург</item>
+        <item>Катманду</item>
+        <item>Красноярськ</item>
+        <item>Іркутск</item>
+        <item>Якутськ</item>
+        <item>Хобарт</item>
+        <item>Владивосток</item>
+        <item>Магадан</item>
+        <item>Тонга</item>
+     </string-array>
+     <string-array name="city_timezone">
+        <item>Africa/Abidjan</item>
+        <item>Africa/Accra</item>
+        <item>Africa/Addis_Ababa</item>
+        <item>Africa/Algiers</item>
+        <item>Africa/Blantyre</item>
+        <item>Africa/Brazzaville</item>
+        <item>Africa/Cairo</item>
+        <item>Africa/Casablanca</item>
+        <item>Africa/Conakry</item>
+        <item>Africa/Dakar</item>
+        <item>Africa/Dar_es_Salaam</item>
+        <item>Africa/Djibouti</item>
+        <item>Africa/Freetown</item>
+        <item>Africa/Gaborone</item>
+        <item>Africa/Harare</item>
+        <item>Africa/Johannesburg</item>
+        <item>Africa/Kampala</item>
+        <item>Africa/Khartoum</item>
+        <item>Africa/Kigali</item>
+        <item>Africa/Kinshasa</item>
+        <item>Africa/Lagos</item>
+        <item>Africa/Maseru</item>
+        <item>Africa/Mogadishu</item>
+        <item>Africa/Nairobi</item>
+        <item>Africa/Sao_Tome</item>
+        <item>Africa/Timbuktu</item>
+        <item>Africa/Tripoli</item>
+        <item>Africa/Tunis</item>
+        <item>America/Anchorage</item>
+        <item>America/Argentina/Mendoza</item>
+        <item>America/Aruba</item>
+        <item>America/Asuncion</item>
+        <item>America/Barbados</item>
+        <item>America/Belize</item>
+        <item>America/Bogota</item>
+        <item>America/Buenos_Aires</item>
+        <item>America/Cancun</item>
+        <item>America/Caracas</item>
+        <item>America/Cayman</item>
+        <item>America/Chicago</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Curacao</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Denver</item>
+        <item>America/Detroit</item>
+        <item>America/Dominica</item>
+        <item>America/Edmonton</item>
+        <item>America/El_Salvador</item>
+        <item>America/Fortaleza</item>
+        <item>America/Grand_Turk</item>
+        <item>America/Grenada</item>
+        <item>America/Guatemala</item>
+        <item>America/Guyana</item>
+        <item>America/Halifax</item>
+        <item>America/Havana</item>
+        <item>America/Indiana/Indianapolis</item>
+        <item>America/Indiana/Knox</item>
+        <item>America/Indiana/Petersburg</item>
+        <item>America/Indiana/Tell_City</item>
+        <item>America/Indiana/Vevay</item>
+        <item>America/Indiana/Vincennes</item>
+        <item>America/Indiana/Winamac</item>
+        <item>America/Jamaica</item>
+        <item>America/La_Paz</item>
+        <item>America/Lima</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Louisville</item>
+        <item>America/Managua</item>
+        <item>America/Martinique</item>
+        <item>America/Metlakatla</item>
+        <item>America/Mexico_City</item>
+        <item>America/Monterrey</item>
+        <item>America/Montevideo</item>
+        <item>America/Montreal</item>
+        <item>America/Nassau</item>
+        <item>America/New_York</item>
+        <item>America/North_Dakota/Beulah</item>
+        <item>America/North_Dakota/New_Salem</item>
+        <item>America/Panama</item>
+        <item>America/Phoenix</item>
+        <item>America/Port_of_Spain</item>
+        <item>America/Port-au-Prince</item>
+        <item>America/Puerto_Rico</item>
+        <item>America/Santo_Domingo</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/St_Johns</item>
+        <item>America/St_Kitts</item>
+        <item>America/St_Lucia</item>
+        <item>America/St_Thomas</item>
+        <item>America/Tijuana</item>
+        <item>America/Toronto</item>
+        <item>America/Vancouver</item>
+        <item>America/Winnipeg</item>
+        <item>Antarctica/South_Pole</item>
+        <item>Arctic/Longyearbyen</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Amman</item>
+        <item>Asia/Anadyr</item>
+        <item>Asia/Aqtau</item>
+        <item>Asia/Baghdad</item>
+        <item>Asia/Bahrain</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Beirut</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Damascus</item>
+        <item>Asia/Dhaka</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Gaza</item>
+        <item>Asia/Hebron</item>
+        <item>Asia/Ho_Chi_Minh</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Jakarta</item>
+        <item>Asia/Jerusalem</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Kathmandu</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Asia/Kuwait</item>
+        <item>Asia/Macau</item>
+        <item>Asia/Manila</item>
+        <item>Asia/Muscat</item>
+        <item>Asia/Phnom_Penh</item>
+        <item>Asia/Pyongyang</item>
+        <item>Asia/Qatar</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Riyadh</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Singapore</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Tel_Aviv</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Ulaanbaatar</item>
+        <item>Atlantic/Bermuda</item>
+        <item>Atlantic/Canary</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Atlantic/Reykjavik</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Canberra</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Melbourne</item>
+        <item>Australia/NSW</item>
+        <item>Australia/Perth</item>
+        <item>Australia/Queensland</item>
+        <item>Australia/Sydney</item>
+        <item>Australia/Victoria</item>
+        <item>Canada/Newfoundland</item>
+        <item>Canada/Saskatchewan</item>
+        <item>Chile/EasterIsland</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Andorra</item>
+        <item>Europe/Athens</item>
+        <item>Europe/Belfast</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Bratislava</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Bucharest</item>
+        <item>Europe/Budapest</item>
+        <item>Europe/Chisinau</item>
+        <item>Europe/Copenhagen</item>
+        <item>Europe/Dublin</item>
+        <item>Europe/Gibraltar</item>
+        <item>Europe/Helsinki</item>
+        <item>Europe/Isle_of_Man</item>
+        <item>Europe/Istanbul</item>
+        <item>Europe/Lisbon</item>
+        <item>Europe/London</item>
+        <item>Europe/Luxembourg</item>
+        <item>Europe/Madrid</item>
+        <item>Europe/Malta</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Monaco</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Oslo</item>
+        <item>Europe/Paris</item>
+        <item>Europe/Prague</item>
+        <item>Europe/Riga</item>
+        <item>Europe/Rome</item>
+        <item>Europe/San_Marino</item>
+        <item>Europe/Sarajevo</item>
+        <item>Europe/Simferopol</item>
+        <item>Europe/Skopje</item>
+        <item>Europe/Sofia</item>
+        <item>Europe/Stockholm</item>
+        <item>Europe/Tallinn</item>
+        <item>Europe/Vatican</item>
+        <item>Europe/Vienna</item>
+        <item>Europe/Vilnius</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Zagreb</item>
+        <item>Europe/Zurich</item>
+        <item>Indian/Antananarivo</item>
+        <item>Indian/Maldives</item>
+        <item>Indian/Mauritius</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Guam</item>
+        <item>Pacific/Honolulu</item>
+        <item>Pacific/Kiritimati</item>
+        <item>Pacific/Noumea</item>
+        <item>Pacific/Samoa</item>
+        <item>Pacific/Tahiti</item>
+        <item>America/Antigua</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Denver</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Denver</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Denver</item>
+        <item>MST</item>
+        <item>America/Los_Angeles</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>Asia/Riyadh</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Kolkata</item>
+        <item>Asia/Kolkata</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Riyadh</item>
+        <item>Europe/Madrid</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Rome</item>
+        <item>Europe/Berlin</item>
+        <item>Asia/Bangkok</item>
+        <item>Europe/Istanbul</item>
+        <item>Asia/Kolkata</item>
+        <item>America/Sao_Paulo</item>
+        <item>Africa/Johannesburg</item>
+        <item>Asia/Karachi</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Detroit</item>
+        <item>America/Denver</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Chicago</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Kolkata</item>
+        <item>America/New_York</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Santiago</item>
+        <item>Africa/Monrovia</item>
+        <item>Asia/Colombo</item>
+        <item>America/Chihuahua</item>
+        <item>Asia/Kolkata</item>
+        <item>Europe/London</item>
+        <item>Europe/Bucharest</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Bucharest</item>
+        <item>Asia/Jerusalem</item>
+        <item>America/Puerto Rico</item>
+        <item>America/Tegucigalpa</item>
+        <item>America/Paramaribo</item>
+        <item>America/Panama</item>
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Regina</item>
+        <item>America/Manaus</item>
+        <item>America/Godthab</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Africa/Windhoek</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Hobart</item>
+        <item>Asia/Vladivostok</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Tongatapu</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Покращені кольори</item>
+        <item>Природні кольори, звичні оку</item>
+        <item>Кольори, оптимізовані для цифрового контенту</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Насичений (стандартно)</item>
+        <item>Природній</item>
+        <item>Стандартний</item>
+     </string-array>
+     <string-array name="color_picker">
+        <item>Сино-зелений</item>
+        <item>Синій</item>
+        <item>Індіго</item>
+        <item>Фіолетовий</item>
+        <item>Рожевий</item>
+        <item>Червоний</item>
+     </string-array>
+     <string-array name="common_password_business_names">
+        <item>Екран блокування</item>
+        <item>Пароль конфіденційності</item>
+        <item>Батьківський контроль</item>
+        <item>Файли</item>
+        <item>Захист програм</item>
+        <item>Другий простір</item>
+     </string-array>
+     <string-array name="connect_mode_entries">
+        <item>Сумісний</item>
+        <item>Високий</item>
+     </string-array>
+     <string-array name="data_usage_data_range">
+        <item>Останніх 30 днів</item>
+        <item>Обрати період використання</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Сьогодні (мобільний інтернет)</item>
+        <item>Минулого місяця (мобільний інтернет)</item>
+        <item>Поточний місяць (мобільний інтернет)</item>
+        <item>Сьогодні (Wi-Fi)</item>
+        <item>Минулого місяця (Wi-Fi)</item>
+        <item>Поточний місяць (Wi-Fi)</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Сьогодні "</item>
+        <item>"Поточний місяць "</item>
+        <item>"Минулого місяця "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Сьогодні: "</item>
+        <item>"Поточний місяць: "</item>
+        <item>"Минулого місяця: "</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Вимкнено</item>
+        <item>Показувати області накладання</item>
+        <item>Виділяти області певного кольору</item>
+        <item>Показати перемальовування</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (стандартно)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
+     <string-array name="description_primary">
+        <item>Snapdragon 801</item>
+        <item>ГБ</item>
+        <item>ГБ</item>
+        <item>5 дюймів</item>
+        <item>3G</item>
+        <item>13 МП</item>
+     </string-array>
+     <string-array name="description_secondary">
+        <item>4 ядра по 2.5 ГГц</item>
+        <item>"Внутрішня пам\'ять"</item>
+        <item>"Пам\'ять LPDDR3"</item>
+        <item>Екран Full HD</item>
+        <item>Інтернет</item>
+        <item>Роздільна здатність камери</item>
+     </string-array>
+     <string-array name="dream_timeout_entries">
+        <item>Ніколи</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 хв.</item>
+        <item>2 хв.</item>
+        <item>5 хв.</item>
+        <item>10 хв.</item>
+        <item>30 хв.</item>
+     </string-array>
+     <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+     </string-array>
+     <string-array name="edge_touch_volume_action">
+        <item>Натискання - регулювання | Подвійне натискання - перемикання</item>
+        <item>Свайп - регулювання | Свайп - перемикання</item>
+        <item>Натискання - регулювання | Натискання - перемикання</item>
+     </string-array>
+     <string-array name="emergency_tone_entries">
+        <item>Відключене</item>
+        <item>Сигнал</item>
+        <item>Вібрація</item>
+     </string-array>
+     <string-array name="enable_OpenGL_traces_entries">
+        <item>Немає</item>
+        <item>Журнал Logcat</item>
+        <item>Systrace (графіка)</item>
+        <item>Список викликів в glgeterror</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Немає</item>
+        <item>Журнал Logcat</item>
+        <item>Systrace (графіка)</item>
+        <item>Список викликів в glGetError</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Маленький</item>
+        <item>Нормальний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+     </string-array>
+     <string-array name="entries_zen_mode">
+        <item>Вимкнений</item>
+        <item>Обмежені перебої</item>
+        <item>Без перебоїв</item>
+     </string-array>
+     <string-array name="fluency_mode_confirms">
+        <item>Перезавантажити пристрій для застосування налаштувань?</item>
+        <item>Перезавантажити пристрій для застосування налаштувань?</item>
+     </string-array>
+     <string-array name="fluency_mode_entries">
+        <item>Вимкнути системну анімацію</item>
+        <item>Увімкнути системну анімацію</item>
+     </string-array>
+     <string-array name="fluency_mode_summaries">
+        <item>Для підвищення продуктивності системи</item>
+        <item>Системна анімація впливає на продуктивність</item>
+     </string-array>
+     <string-array name="handy_mode_size_text_entries">
+        <item>4.5 дюйми</item>
+        <item>4.0 дюйми</item>
+        <item>3.5 дюйми</item>
+     </string-array>
+     <string-array name="haptic_feedback_level_entries">
+        <item>Вимкнений</item>
+        <item>Слабий</item>
+        <item>Середній</item>
+        <item>Сильний</item>
+     </string-array>
+     <string-array name="haptic_feedback_level_texts">
+        <item>Вимкнено</item>
+        <item>Слабкий</item>
+        <item>Середній</item>
+        <item>Сильний</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Не використовувати перевірку HDCP</item>
+        <item>Використовувати перевірку HDCP тільки для змісту DRM</item>
+        <item>Завжди використовувати перевірку HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Ніколи не перевіряти</item>
+        <item>Перевіряти тільки зміст DRM</item>
+        <item>Завжди перевіряти</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Запитувати</item>
+        <item>Дозволити</item>
+     </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Запитувати для невідомих програм</item>
+        <item>Дозволити</item>
+     </string-array>
+     <string-array name="led_color_entries">
+        <item>Синій</item>
+        <item>Червоний</item>
+        <item>Жовтий</item>
+        <item>Зелений</item>
+        <item>Блакитний</item>
+        <item>Білий</item>
+        <item>Фіолетовий</item>
+     </string-array>
+     <string-array name="led_color_options">
+        <item>Білий</item>
+        <item>Різнокольоровий</item>
+     </string-array>
+     <string-array name="led_freq_entries">
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+     </string-array>
+     <string-array name="lock_after_timeout_entries">
+        <item>0 секунд</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилину</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>30 хвилин</item>
+     </string-array>
+     <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>зразу</item>
+        <item>через 1 хвилину</item>
+        <item>через 2 хвилини</item>
+        <item>через 5 хвилин</item>
+        <item>через 15 хвилин</item>
+        <item>через 30 хвилин</item>
+     </string-array>
+     <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+     </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+        <item>Невелика</item>
+        <item>Середня</item>
+        <item>Велика</item>
+     </string-array>
+     <string-array name="long_press_volume_down_action">
+        <item>Немає дії</item>
+        <item>Режим зйомки фото</item>
+        <item>Режим зйомки відео</item>
+        <item>Режим NFC</item>
+     </string-array>
+     <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Без обмежень</item>
+     </string-array>
+     <string-array name="media_feedback_level_entries">
+        <item>Сильний</item>
+        <item>Середній</item>
+        <item>Слабкий</item>
+     </string-array>
+     <string-array name="mi1_led_color_entries">
+        <item>Синій</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Пурпурний</item>
+     </string-array>
+     <string-array name="miracast_policies">
+        <item>Продуктивність</item>
+        <item>Баланс</item>
+        <item>Якість</item>
+     </string-array>
+     <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+     </string-array>
+     <string-array name="msd_pc_system">
+        <item>Windows XP і версії нижче</item>
+        <item>Windows Vista і версії вище</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+     </string-array>
+     <string-array name="msd_pc_system_install_finish_summary">
+        <item>Якщо Ви встановите цей драйвер, пам\’ять телефону з\’явиться на комп\’ютері</item>
+        <item>В Windows Vista або версіях вище, музичний програвач з\’явиться на Вашому комп\’ютері автоматично.</item>
+        <item>Якщо Ви встановите цей драйвер, комп\’ютер автоматично відкриє і прочитає пам\’ять телефону</item>
+        <item></item>
+     </string-array>
+     <string-array name="msd_pc_system_install_summary">
+        <item>2.Виконуйте інструкції</item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="msd_pc_system_retry_linux">
+        <item>Встановіть інструмент: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Створіть теку: mkdir /media/mtp</item>
+        <item>Підтвердіть права групи користувача</item>
+        <item>Увійдіть повторно</item>
+        <item>Дозвольте доступ до підключеного обладнання: mtpfs /media/mtp через файловий менеджер так само, як у локальній теці</item>
+        <item>"Вилучіть обладнання: fusermount -u /media/mtp
+Тільки для Ubuntu 8.04!"</item>
+     </string-array>
+     <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Перевстановіть Miphonemanager</item>
+     </string-array>
+     <string-array name="mvno_type_entries">
+        <item>Немає</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+     </string-array>
+     <string-array name="network_speed_slow_summary">
+        <item>Повільна швидкість через велике навантаження</item>
+        <item>Повільна швидкість через слабкий сигнал</item>
+        <item>Переміщення…</item>
+     </string-array>
+     <string-array name="no_cache_clear_package_list">
+        <item></item>
+     </string-array>
+     <string-array name="notch_battery_indicator_style_entries">
+        <item>Графічний</item>
+        <item>Відсотковий</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Немає</item>
+        <item>480p</item>
+        <item>480p (захист)</item>
+        <item>720p</item>
+        <item>720p (захист)</item>
+        <item>1080p</item>
+        <item>1080p (захист)</item>
+        <item>4K</item>
+        <item>4K (захист)</item>
+        <item>4K (масштабування)</item>
+        <item>4K (масштабування, захист)</item>
+        <item>720p, 1080p (два екрани)</item>
+     </string-array>
+     <string-array name="perm_hips_action">
+        <item>Дозволити</item>
+        <item>Із запитом</item>
+        <item>Заборонити</item>
+     </string-array>
+     <string-array name="phone_call_noise_suppression_title">
+        <item>Один мікрофон</item>
+        <item>Два мікрофони</item>
+     </string-array>
+     <string-array name="pink_panel_led_color_entries">
+        <item>Фіолетовий</item>
+        <item>Червоний</item>
+        <item>Жовтий</item>
+        <item>Зелений</item>
+        <item>Пурпурний</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Продуктивний</item>
+        <item>Збалансований</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Робочий стіл</item>
+        <item>Телефон</item>
+        <item>Повідомлення</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музика</item>
+        <item>Пошта</item>
+        <item>Відео</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Внутрішня пам\’ять</item>
+        <item>Зовнішня пам\’ять</item>
+     </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+        <item>Повідомлення</item>
+        <item>Фото</item>
+        <item>Файли</item>
+        <item>Нотатки</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Нормальна</item>
+        <item>Помірна</item>
+        <item>Низька</item>
+        <item>Критична</item>
+     </string-array>
+     <string-array name="proc_stats_process_states">
+        <item>Постійний</item>
+        <item>Висока активність</item>
+        <item>Важливі (передній план)</item>
+        <item>Важливі (задній план)</item>
+        <item>Бекап</item>
+        <item>Великий обсяг</item>
+        <item>Сервіс (робота)</item>
+        <item>Сервіс (перезапуск)</item>
+        <item>Отримувач</item>
+        <item>Дім</item>
+        <item>Колишня активність</item>
+        <item>Кешовано (активність)</item>
+        <item>Кешовано (активність кліента)</item>
+        <item>Кешовано (порожньо)</item>
+     </string-array>
+     <string-array name="ram_states">
+        <item>Нормальний</item>
+        <item>Помірний</item>
+        <item>Низький</item>
+        <item>Критичний</item>
+        <item>Невідомо</item>
+     </string-array>
+     <string-array name="screen_button_style">
+        <item>Ліва рука</item>
+        <item>Права рука</item>
+     </string-array>
+     <string-array name="screen_color_title">
+        <item>Теплий</item>
+        <item>Натуральний</item>
+        <item>Холодний</item>
+     </string-array>
+     <string-array name="screen_key_long_press_action">
+        <item>Немає дій</item>
+        <item>Нещодавні програми</item>
+        <item>Запустити голосового помічника</item>
+        <item>Запустити Google Now</item>
+        <item>Закрити поточну програму</item>
+        <item>Запустити пошук</item>
+        <item>Показати меню</item>
+     </string-array>
+     <string-array name="screen_key_long_press_timeout">
+        <item>0.5 секунди</item>
+        <item>1 секунда</item>
+        <item>1.5 секунди</item>
+        <item>2 секунди</item>
+     </string-array>
+     <string-array name="screen_key_position_action">
+        <item>Клавіша \"Меню\" зліва | Клавіша \"Назад\" справа</item>
+        <item>Клавіша \"Назад\" зліва | Клавіша \"Меню\" справа</item>
+     </string-array>
+     <string-array name="screen_key_press_action">
+        <item>Нещодавні програми</item>
+        <item>Показати меню</item>
+     </string-array>
+     <string-array name="screen_optimize_summary">
+        <item>Оптимізувати контрастність по навколишньому середовищу</item>
+        <item>Збільшити контрастність</item>
+        <item>Не змінювати контрастність</item>
+     </string-array>
+     <string-array name="screen_optimize_title">
+        <item>Автоматична контрастність</item>
+        <item>Збільшення контрастності</item>
+        <item>Стандартно</item>
+     </string-array>
+     <string-array name="screen_resolution_entries">
+        <item>Високе (2K)</item>
+        <item>Середнє (720p)</item>
+     </string-array>
+     <string-array name="screen_resolution_text">
+        <item>2К</item>
+        <item>1080P</item>
+        <item>720P</item>
+     </string-array>
+     <string-array name="screen_saturation_title">
+        <item>Яскрава</item>
+        <item>Стандартна</item>
+     </string-array>
+     <string-array name="screen_timeout_entries">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 хв.</item>
+        <item>2 хв.</item>
+        <item>5 хв.</item>
+        <item>10 хв.</item>
+        <item>Не вимикати</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Запитувати</item>
+        <item>Заборонити</item>
+        <item>Дозволити</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Вимкнено</item>
+        <item>64 кБ</item>
+        <item>256 кБ</item>
+        <item>1 МБ</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Вимкнено</item>
+        <item>64 кБ до буферу журналу</item>
+        <item>256 кБ до буферу журналу</item>
+        <item>1 МБ до буферу журналу</item>
+        <item>4 МБ до буферу журналу</item>
+        <item>16 МБ до буферу журналу</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Вимкнено</item>
+        <item>64 кБ</item>
+        <item>256 кБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+     </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Вимкнено</item>
+        <item>Помилки</item>
+        <item>Попередження</item>
+        <item>Інформація</item>
+        <item>Налагодження</item>
+        <item>Всі</item>
+     </string-array>
+     <string-array name="select_logpersist_summaries">
+        <item>"Вимкнено"</item>
+        <item>"Усі буфери журналів"</item>
+        <item>"Усі, окрім буферів системного журналу"</item>
+        <item>"лише буфер журналу ядра"</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>"Вимкнено"</item>
+        <item>"Всі"</item>
+        <item>"Всі, окрім системних"</item>
+        <item>"лише ядро"</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>Використовувати Dalvik</item>
+        <item>Використовувати ART</item>
+        <item>Використовувати налагоджувальний ART</item>
+     </string-array>
+     <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (debug)</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Вимкнено</item>
+        <item>Непрямокутний перетин синім</item>
+        <item>Тест. команди малювання зеленим</item>
+     </string-array>
+     <string-array name="silent_mode_duration_text">
+        <item>Завжди</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>8 годин</item>
+     </string-array>
+     <string-array name="sim_card_data_range">
+        <item>Останні 4 цифри</item>
+        <item>Перші 4 цифри</item>
+     </string-array>
+     <string-array name="slideshow_time_entries">
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>Нескінченно</item>
+     </string-array>
+     <string-array name="special_locale_names">
+        <item>Китайський (спрощений)</item>
+        <item>Китайський (традиційний)</item>
+     </string-array>
+     <string-array name="startup_hips_action">
+        <item>Дозволити</item>
+        <item>Заборонити</item>
+     </string-array>
+     <string-array name="status_bar_show_carrier_entries">
+        <item>На екрані блокування</item>
+        <item>У панелі сповіщень</item>
+        <item>Вимкнено</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Одна сторінка</item>
+        <item>Дві вкладки</item>
+     </string-array>
+     <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Європа</item>
+        <item>Африка</item>
+        <item>Азія</item>
+        <item>Австралія</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Вимкнути</item>
+        <item>На екрані у вигляді полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="traffic_balance_entries">
+        <item>Вимкнено</item>
+        <item>Звичайний режим</item>
+        <item>Суворий режим</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Мобільний трафік "</item>
+        <item>"Трафік Wi-Fi "</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Вимкнено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
+        <item>Дуже низький</item>
+        <item>Низький</item>
+        <item>Звичайний</item>
+        <item>Високий</item>
+        <item>Дуже високий</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Дуже повільна</item>
+        <item>Повільна</item>
+        <item>Нормальна</item>
+        <item>Швидка</item>
+        <item>Більш швидка</item>
+        <item>Дуже швидка</item>
+        <item>Швидкісна</item>
+        <item>Дуже швидкісна</item>
+        <item>Найшвидша</item>
+     </string-array>
+     <string-array name="tts_rate_xunfei_entries">
+        <item>Дуже повільно</item>
+        <item>Повільно</item>
+        <item>Нормально</item>
+        <item>Швидко</item>
+        <item>Дуже швидко</item>
+     </string-array>
+     <string-array name="usage_stats_display_order_types">
+        <item>Час використання</item>
+        <item>Кількість запусків</item>
+        <item>Назва програми</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP (протокол передачі мультимедіа)</item>
+        <item>PTP (протокол передачі зображень)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Джерело звуку</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="usb_connection_mode_entries">
+        <item>Запит при підключенні</item>
+        <item>Лише зарядка</item>
+        <item>USB накопичувач</item>
+     </string-array>
+     <string-array name="user_content_ratings_entries">
+        <item>Вищій розум</item>
+        <item>Людина</item>
+        <item>Неандерталець</item>
+        <item>Шимпанзе</item>
+        <item>Мавпа</item>
+     </string-array>
+     <string-array name="vip_mode_text">
+        <item>Усі виклики</item>
+        <item>Усі контакти</item>
+        <item>Обрані контакти</item>
+        <item>Вимкнено</item>
+     </string-array>
+     <string-array name="vpn_states">
+        <item>Відключено</item>
+        <item>Ініціалізація…</item>
+        <item>Підключення…</item>
+        <item>Підключено</item>
+        <item>Таймаут</item>
+        <item>Підключення не вдалося</item>
+     </string-array>
+     <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN із ключами</item>
+        <item>L2TP/IPSec VPN із сертифікатами</item>
+        <item>IPSec VPN із ключами й Xauth-аутентифікацією</item>
+        <item>IPSec VPN із сертифікатами й Xauth-аутентифікацією </item>
+        <item>IPSec VPN із сертифікатами й гібридною аутентифікацією</item>
+     </string-array>
+     <string-array name="wfd_status">
+        <item>Обладнання підключене, створення сесії…</item>
+        <item>Сесія створена</item>
+        <item>Сесія зірвана…</item>
+        <item>Сесія не створена</item>
+        <item>Минув час очікування, повтор…</item>
+        <item>Пристрій підключено</item>
+     </string-array>
+     <string-array name="whetstone_level_entries">
+        <item>Вимкнена</item>
+        <item>Низька</item>
+        <item>Середня</item>
+        <item>Висока</item>
+     </string-array>
+     <string-array name="wifi_ap_security">
+        <item>Без шифрування</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices">
+        <item>Пріоритет Wi-Fi мережі</item>
+        <item>Пріоритет мобільної мережі</item>
+        <item>Лише Wi-Fi мережа</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_v2">
+        <item>"Wi-Fi"</item>
+        <item>"Мобільний інтернет"</item>
+        <item>"Лише Wi-Fi"</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>"Wi-Fi"</item>
+        <item>"Мобільний інтернет"</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Пріоритет Wi-Fi</item>
+        <item>Пріоритет мобільної мережі</item>
+     </string-array>
+     <string-array name="wifi_connect_type_entries">
+        <item>Підключення автоматично</item>
+        <item>Підключення вручну</item>
+        <item>Завжди запитувати</item>
+     </string-array>
+     <string-array name="wifi_frequency_band_entries">
+        <item>Автоматично</item>
+        <item>5 Ггц</item>
+        <item>2.4 Ггц</item>
+     </string-array>
+     <string-array name="wifi_ip_settings">
+        <item>Автоматична (DHCP)</item>
+        <item>Статична</item>
+     </string-array>
+     <string-array name="wifi_p2p_status">
+        <item>Підключено</item>
+        <item>Запитано</item>
+        <item>Збій</item>
+        <item>Доступно</item>
+        <item>Поза діапазоном</item>
+     </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+        <item>Push-кнопка</item>
+        <item>PIN код з виявленого пристрою</item>
+        <item>PIN код цього пристрою</item>
+     </string-array>
+     <string-array name="wifi_peap_phase2_entries">
+        <item>Немає</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>Немає</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+     </string-array>
+     <string-array name="wifi_phase2_entries">
+        <item>Немає</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_proxy_settings">
+        <item>Немає</item>
+        <item>Вручну</item>
+        <item>Автоконфігурація проксі</item>
+     </string-array>
+     <string-array name="wifi_signal">
+        <item>Слабкий</item>
+        <item>Середній</item>
+        <item>Гарний</item>
+        <item>Відмінний</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+        <item>Увімкнений</item>
+        <item>Увімкнений при зарядці</item>
+        <item>Вимкнений</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Увімкнений</item>
+        <item>Увімкнений при зарядці</item>
+        <item>Вимкнений</item>
+     </string-array>
+     <string-array name="wifi_ssid_type_entries">
+        <item>Автоматичне підключення</item>
+        <item>Ручне підключення</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Пошук…</item>
+        <item>Підключення…</item>
+        <item>Аутентифікація…</item>
+        <item>Отримання IP-адреси…</item>
+        <item>Підключено</item>
+        <item>Припинено</item>
+        <item>Відключення…</item>
+        <item>Немає підключення</item>
+        <item>Збій</item>
+        <item>Заблоковано</item>
+        <item>Запобігання слабкого сигналу</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Пошук…</item>
+        <item>З\’єднання з мережею %1$s…</item>
+        <item>Аутентифікація в мережі %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>Підключено до %1$s</item>
+        <item>Припинено</item>
+        <item>Відключення від %1$s…</item>
+        <item>Немає підключення</item>
+        <item>Збій</item>
+        <item>Заблоковано</item>
+        <item>Запобігання слабкого сигналу</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Відключено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+     </string-array>
+</resources>

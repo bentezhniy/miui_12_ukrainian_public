@@ -1,0 +1,16 @@
+<feature>
+    <name>MIUI V4</name>
+    <boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з пристроїв з MIUIv4:
+
+1.Відкрийте “Налаштування”
+
+2.Відкрийте пункт “Bluetooth”
+
+3.Увімкніть “Bluetooth”
+
+4.Натисніть клавішу “Далі”
+    </title>
+    <header></header>
+</feature>

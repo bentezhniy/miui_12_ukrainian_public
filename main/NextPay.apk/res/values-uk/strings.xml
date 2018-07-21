@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextPay</string>
+    <string name="tsm_name">MiSmartCards</string>
+    <string name="cancel">Скасувати</string>
+    <string name="agree">Погодитися</string>
+</resources>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="alarm_repeat_type">
+        <item>Одноразово</item>
+        <item>Щоденно</item>
+        <item>У робочі дні</item>
+        <item>По буднях</item>
+        <item>Обрати дні</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Одноразово</item>
+        <item>Щоденно</item>
+        <item>По буднях</item>
+        <item>Обрати дні</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100 МБ</item>
+        <item>300 МБ</item>
+        <item>500 МБ</item>
+        <item>1 ГБ</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Щоденно</item>
+        <item>Кожні 3 дні</item>
+        <item>Кожні 7 днів</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>Через 1 хвилину</item>
+        <item>Через 5 хвилин</item>
+        <item>Через 10 хвилин</item>
+        <item>Через 30 хвилин</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Питати перед очищенням</item>
+        <item>Сповіщати про фон</item>
+        <item>Сповіщати після очищення</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>За розміром</item>
+        <item>За іменем</item>
+     </string-array>
+     <string-array name="common_password_business_names">
+        <item>Екран блокування</item>
+        <item>Батьківський контроль</item>
+        <item>Файли</item>
+        <item>Блокування програм</item>
+     </string-array>
+     <string-array name="date_of_app">
+        <item>Вчора (мобільний інтернет)</item>
+        <item>Сьогодні (мобільний інтернет)</item>
+        <item>За місяць (мобільний інтернет)</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Вчора (мобільний інтернет)</item>
+        <item>Сьогодні (мобільний інтернет)</item>
+        <item>Минулий місяць (мобільний інтернет)</item>
+        <item>Поточний місяць (мобільний інтернет)</item>
+        <item>Вчора (Wi-Fi)</item>
+        <item>Сьогодні (Wi-Fi)</item>
+        <item>Минулий місяць (Wi-Fi)</item>
+        <item>Поточний місяць (Wi-Fi)</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Вчора "</item>
+        <item>"Сьогодні "</item>
+        <item>"Минулий місяць "</item>
+        <item>"Поточний місяць "</item>
+     </string-array>
+     <string-array name="date_of_traffic_cmcc">
+        <item>"На цьому тижні "</item>
+        <item>"Сьогодні "</item>
+        <item>"Минулий місяць "</item>
+        <item>"Поточний місяць "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Вчора "</item>
+        <item>"Сьогодні "</item>
+        <item>"За місяць "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"На цьому тижні: "</item>
+        <item>"Сьогодні: "</item>
+        <item>"В цьому місяці: "</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>За частотою використання</item>
+        <item>За розміром</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>За розміром</item>
+        <item>За іменем</item>
+     </string-array>
+     <string-array name="lock_mode">
+        <item>Після блокування екрану</item>
+        <item>Відразу після виходу з програми</item>
+        <item>Через хвилину після виходу з програми</item>
+     </string-array>
+     <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Додати до виключень</item>
+     </string-array>
+     <string-array name="luckymoney_sound">
+        <item>Без звуку</item>
+        <item>Золоті монети</item>
+        <item>Червоний конверт</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Мобільний трафік "</item>
+        <item>"Трафік Wi-Fi "</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Попереджувати про трафік</item>
+        <item>Відключати інтернет</item>
+     </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 хвилину</item>
+        <item>Через 5 хвилин</item>
+        <item>Через 10 хвилин</item>
+        <item>Через 30 хвилин</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Продуктивність</item>
+        <item>Баланс</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
+        <item>Ніколи</item>
+        <item>В режимі \"Без звуку\"</item>
+        <item>Завжди</item>
+     </string-array>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Вимкнути</item>
+        <item>Увімкнути</item>
+        <item>Не змінювати</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Робочий стіл</item>
+        <item>Телефон</item>
+        <item>Повідомлення</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музика</item>
+        <item>Пошта</item>
+     </string-array>
+     <string-array name="roaming_apps_sorted_type">
+        <item>За частотою використання</item>
+        <item>За назвою</item>
+     </string-array>
+     <string-array name="roaming_network_type">
+        <item>Завжди</item>
+        <item>Тільки для виключень</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="sms_report_type">
+        <item>Трафік</item>
+        <item>Баланс</item>
+     </string-array>
+     <string-array name="sort_title">
+        <item>Сортування за статусом</item>
+        <item>Сортування за назвою</item>
+        <item>Сортування за використанням</item>
+        <item>Сортування за розміром</item>
+        <item>Сортування за порядком інсталяції</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Статус</item>
+        <item>Назва</item>
+        <item>Використання</item>
+        <item>Розмір</item>
+        <item>Час інсталяції</item>
+        <item>Можливість видалення</item>
+     </string-array>
+     <string-array name="tether_limit_warn_type">
+        <item>Попереджати про трафік</item>
+        <item>Вимикати інтернет</item>
+     </string-array>
+     <string-array name="title_app_info">
+        <item>Джерело інсталяції</item>
+        <item>Час інсталяції</item>
+        <item>Джерело оновлення</item>
+        <item>Востаннє оновлено</item>
+     </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Без стиснення</item>
+        <item>Низьке</item>
+        <item>Середнє</item>
+        <item>Високе</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Автоматично отримати шаблон повідомлення</item>
+        <item>Задати шаблон повідомлення вручну</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>за мобільним трафіком</item>
+        <item>за Wi-Fi трафіком</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"за мобільним трафіком "</item>
+        <item>"за Wi-Fi трафіком "</item>
+     </string-array>
+</resources>

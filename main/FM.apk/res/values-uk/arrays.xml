@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="cfg_rf">
+        <item>Встановити FM RSSI Delta</item>
+        <item>Встановити поріг сигналу</item>
+        <item>Статистика RF</item>
+     </string-array>
+     <string-array name="presetlist_edit_category">
+        <item>Перейменувати</item>
+        <item>Автовибір</item>
+        <item>Видалити</item>
+     </string-array>
+     <string-array name="regional_band_entries">
+        <item>Північна Америка</item>
+        <item>Європа</item>
+        <item>Японія</item>
+        <item>Японія (широкий)</item>
+        <item>Австралія</item>
+        <item>Австрія</item>
+        <item>Бельгія</item>
+        <item>Бразилія</item>
+        <item>Китай</item>
+        <item>Чехія</item>
+        <item>Данія</item>
+        <item>Фінляндія</item>
+        <item>Франція</item>
+        <item>Німеччина</item>
+        <item>Греція</item>
+        <item>Гонконг</item>
+        <item>Індія</item>
+        <item>Ірландія</item>
+        <item>Італія</item>
+        <item>Корея</item>
+        <item>Мексика</item>
+        <item>Нідерланди</item>
+        <item>Нова Зеландія</item>
+        <item>Норвегія</item>
+        <item>Польща</item>
+        <item>Португалія</item>
+        <item>РФ</item>
+        <item>Сінгапур</item>
+        <item>Словаччина</item>
+        <item>Іспанія</item>
+        <item>Швейцарія</item>
+        <item>Швеція</item>
+        <item>Тайвань</item>
+        <item>Туреччина</item>
+        <item>Об\'єднане Королівство</item>
+        <item>Сполучені Штати Америки</item>
+     </string-array>
+     <string-array name="regional_band_summary">
+        <item>Північна Америка (87,5 МГц до 108.0 МГц із кроком 200 кГц)</item>
+        <item>Європа (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Японія (76.0 МГц до 90.0 МГц із кроком 100 кГц)</item>
+        <item>Японія (Wide) (90,0 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Австралія (87,7 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Австрія (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Бельгія (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Бразилія (87,8 МГц до 108.0 МГц крок 200 кГц)</item>
+        <item>Китай (87,0 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Чеський (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Данія (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Фінляндія (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Франція (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Німеччина (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Греція (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Гонконг (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Індія (91,0 МГц до 106.4 МГц із кроком 100 кГц)</item>
+        <item>Ірландія (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Італія (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Корея (87,5 МГц до 108.0 МГц із кроком 200 кГц)</item>
+        <item>Мексика (88,1 МГц до 107,9 МГц із кроком 200 кГц)</item>
+        <item>Нідерланди (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Нова Зеландія (88,0 МГц до 107.0 МГц із кроком 100 кГц)</item>
+        <item>Норвегія (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Польща (88,0 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>Португалія (87,5 МГц до 108.0 МГц із кроком 50 кГц)</item>
+        <item>РФ (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Сінгапур (88,0 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Словаччина (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Іспанія (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Швейцарія (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Швеція (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Тайвань (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Туреччина (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Об\'єднане Королівство (87,5 МГц до 108.0 МГц із кроком 100 кГц)</item>
+        <item>Сполучені Штати Америки (88,1 МГц до 107,9 МГц із кроком 200 кГц)</item>
+     </string-array>
+     <string-array name="rf_cfg">
+        <item>Одержати поточні параметри станції</item>
+        <item>Одержати параметри станції з повтором 20 раз</item>
+        <item>Одержати параметри пошуку станції</item>
+        <item>Одержати інформацію виконавців</item>
+        <item>Налаштування пошуку FM</item>
+     </string-array>
+     <string-array name="search_category_rbds_entries">
+        <item>Всі станції</item>
+        <item>Старі хіти</item>
+        <item>Класика</item>
+        <item>Класичний рок</item>
+        <item>Коледж</item>
+        <item>Кантрі</item>
+        <item>Енергійні</item>
+        <item>Енергійні Test</item>
+        <item>Іноземні</item>
+        <item>Інформаційні</item>
+        <item>Джаз</item>
+        <item>Новини</item>
+        <item>Ностальгія</item>
+        <item>Старі пісні</item>
+        <item>Персональні</item>
+        <item>Суспільні</item>
+        <item>Релігійна музика</item>
+        <item>Релігійні розмови</item>
+        <item>Ритм і блюз</item>
+        <item>Рок</item>
+        <item>Софт</item>
+        <item>Софт рок</item>
+        <item>Софт ритм і блюз</item>
+        <item>Спортивні</item>
+        <item>Розмови</item>
+        <item>Топ 40</item>
+        <item>Погода</item>
+     </string-array>
+     <string-array name="search_category_rds_entries">
+        <item>Всі станції</item>
+        <item>Культура</item>
+        <item>Поточні питання</item>
+        <item>Дитячі станції</item>
+        <item>Кантрі</item>
+        <item>Документальні</item>
+        <item>Драма</item>
+        <item>Спокійна музика</item>
+        <item>Освіта</item>
+        <item>Енергія</item>
+        <item>Енергія тест</item>
+        <item>Фінанси</item>
+        <item>Народна музика</item>
+        <item>Інформаційні</item>
+        <item>Джазова музика</item>
+        <item>Легка класика</item>
+        <item>Дозвілля</item>
+        <item>Новини</item>
+        <item>Національна музика</item>
+        <item>Інша музика</item>
+        <item>Стара музика</item>
+        <item>Телефонна</item>
+        <item>Поп-музика</item>
+        <item>Релігія</item>
+        <item>Рок-музика</item>
+        <item>Наука</item>
+        <item>Стругаюча класика</item>
+        <item>Соціальні питання</item>
+        <item>Спорт</item>
+        <item>Подорожі</item>
+        <item>Різні</item>
+        <item>Погода</item>
+     </string-array>
+     <string-array name="sleep_duration_values">
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+        <item>1.5 години</item>
+        <item>2 години</item>
+     </string-array>
+     <string-array name="sleep_duration_values_seconds">
+        <item>600</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+        <item>5400</item>
+        <item>7200</item>
+     </string-array>
+     <string-array name="stats_options">
+        <item>Виберіть параметр</item>
+        <item>Налаштування пошуку FM</item>
+        <item>Статистика RF</item>
+     </string-array>
+</resources>

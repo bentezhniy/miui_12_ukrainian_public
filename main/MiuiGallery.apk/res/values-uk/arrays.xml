@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="slideshow_time_entries">
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>Нескінченно</item>
+     </string-array>
+	 <string-array name="baby_sexy">
+        <item>Хлопчик</item>
+        <item>Дівчинка</item>
+     </string-array>
+     <string-array name="owner_relation">
+        <item>Тато</item>
+        <item>Мама</item>
+        <item>Дідусь</item>
+        <item>Бабуся</item>
+        <item>Дідусь</item>
+        <item>Бабуся</item>
+     </string-array>
+	 <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Дитина</item>
+        <item>Сім\'я</item>
+        <item>Колеги</item>
+        <item>Однокласники</item>
+        <item>Друзі</item>
+        <item>Інші</item>
+     </string-array>
+	 <string-array name="sharer_relation_addressive">
+        <item>Батько</item>
+        <item>Мати</item>
+        <item>Дідусь по батьку</item>
+        <item>Бабуся по батьку</item>
+        <item>Дідусь по матері</item>
+        <item>Бабуся по матері</item>
+     </string-array>
+	 <string-array name="collage_month">
+        <item>Січ.</item>
+        <item>Лют.</item>
+        <item>Бер.</item>
+        <item>Квіт.</item>
+        <item>Трав.</item>
+        <item>Черв.</item>
+        <item>Лип.</item>
+        <item>Сер.</item>
+        <item>Вер.</item>
+        <item>Жов.</item>
+        <item>Лис.</item>
+        <item>Груд.</item>
+     </string-array>
+	 <string-array name="search_voice_assistant_suggestion">
+        <item>Пошук фотографії мого посвідчення</item>
+        <item>Пошук фотографій із міста Львів</item>
+        <item>Зображення Xiaomi</item>
+        <item>Пошук фотографій з весняного фестивалю в минулому році</item>
+        <item>Пошук фото на пляжі</item>
+     </string-array>
+</resources>

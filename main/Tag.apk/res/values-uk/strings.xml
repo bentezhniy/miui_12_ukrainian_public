@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теги</string>
+    <string name="title_scanned_tag">Знайдено новий тег</string>
+    <string name="title_existing_tag">Тег</string>
+    <string name="tag_unknown">Невідомий тип тегу</string>
+    <string name="tag_empty">Пустий тег</string>
+    <string name="button_done">Готово</string>
+    <string name="action_text">Текст: %s</string>
+    <string name="action_call">Виклик: %s</string>
+    <string name="empty_tag_prompt">Пустий тег</string>
+    <string name="import_vcard">Імпорт ^1</string>
+    <string name="mime_display_name">Дані з NFC</string>
+    <string name="vcard_title">Контактна інформація для ^1</string>
+</resources>

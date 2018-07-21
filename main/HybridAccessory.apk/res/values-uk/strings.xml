@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HybridAccessory</string>
+    <string name="short_cut_dialog_cancel_button_text">Скасувати</string>
+    <string name="short_cut_dialog_cotent">Ці програми можуть працювати без інсталяції. Створити ярлики?</string>
+    <string name="short_cut_dialog_create_button_text">ОК</string>
+    <string name="short_cut_dialog_not_tip_check_box">Не нагадувати 2 тижні</string>
+    <string name="short_cut_dialog_title">Створення ярлику</string>
+</resources>

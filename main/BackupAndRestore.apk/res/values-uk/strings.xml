@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_backup_label">Бекап та відновлення</string>
+    <string name="backup_label">Бекап</string>
+    <string name="recvoer_label">Відновлення</string>
+    <string name="restore_operate_label">Відновлення</string>
+    <string name="software_list">Системні дані</string>
+    <string name="backup_contact">Контакти</string>
+    <string name="backup_sms">SMS</string>
+    <string name="backup_mms">MMS</string>
+    <string name="backup_email">Пошта</string>
+    <string name="backup_calendar">Календар</string>
+    <string name="backup_picture">Фото</string>
+    <string name="backup_app">Програми</string>
+    <string name="menu_selectok">ОК</string>
+    <string name="menu_selectall">Обрати все</string>
+    <string name="menu_clearall">Зняти вибір</string>
+    <string name="prepare_backup">Підготовка до бекапу</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_restore">Відновити</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="button_stop">Зупинити</string>
+    <string name="button_help">Допомога</string>
+    <string name="button_continue">Продовжити</string>
+    <string name="delete_confirm_alert_title">Видалити</string>
+    <string name="delete_confirm_alert_msg">Лише обрані елементи буде видалено</string>
+    <string name="delete_confirm_alert_msg1">Лише обрані елементи буде видалено</string>
+    <string name="multi_delete">Видалити</string>
+    <string name="backup_contact_title">Бекап контактів</string>
+    <string name="backup_calendar_title">Бекап календаря</string>
+    <string name="backup_mms_title">Бекап MMS</string>
+    <string name="backup_sms_title">Бекап SMS</string>
+    <string name="backup_email_title">Бекап пошти</string>
+    <string name="backup_picture_title">Бекап фото</string>
+    <string name="backup_app_title">Бекап програм</string>
+    <string name="prepare_restore">Підготовка до відновлення</string>
+    <string name="restore_contact_title">Відновлення контактів</string>
+    <string name="restore_calendar_title">Відновлення календаря</string>
+    <string name="restore_mms_title">Відновлення MMS</string>
+    <string name="restore_sms_title">Відновлення SMS</string>
+    <string name="restore_email_title">Відновлення пошти</string>
+    <string name="restore_picture_title">Відновлення фото</string>
+    <string name="restore_app_title">Відновлення програм</string>
+    <string name="confirm_backup_duplicate_title">Попередній бекап даних програм буде перезаписано. Продовжити?</string>
+    <string name="confirm_stop_backup_title">Зупинити бекап</string>
+    <string name="confirm_stop_backup">Зупинити бекап?</string>
+    <string name="confirm_stop_restore_title">Зупинити відновлення</string>
+    <string name="confirm_stop_restore">Зупинити відновлення?</string>
+    <string name="create_file_error">Помилка створення бекапу</string>
+    <string name="sdcard_unmounted">Помилка створення бекапу. SD-карту вилучено</string>
+    <string name="sdcard_not_find">Спочатку вставте SD-карту</string>
+    <string name="sdcard_no_space">"Недостатньо пам'яті. Очистіть SD-карту та спробуйте ще раз."</string>
+    <string name="stop_backup_info">Бекап зупинено</string>
+    <string name="stop_restore_info">Відновлення зупинено</string>
+    <string name="stop_no_item_selected">Елементи не обрано</string>
+    <string name="stop_restore_stopping">Відновлення призупинено</string>
+    <string name="delete_ok">Видалення завершено</string>
+    <string name="delete_failed">Помилка видалення</string>
+    <string name="result_ok">Бекап створено</string>
+    <string name="result_failed">Помилка створення бекапу</string>
+    <string name="restore_app_ok">Відновлення завершено</string>
+    <string name="restore_ok">Відновлення з %1$s завершено</string>
+    <string name="restore_failed">Помилка відновлення</string>
+    <string name="backup_calendar_error">Акаунт відсутній</string>
+    <string name="show_restore_result_info">Відновлення %1$s: %2$s</string>
+    <string name="show_backup_result_info">Бекап %1$s: %2$s</string>
+    <string name="backup_application">Програма</string>
+    <string name="backup_systemdata">Системні дані</string>
+    <string name="recoverOrNot">Перезавантаження при виборі додатків</string>
+    <string name="backup_zip">Створити ZIP</string>
+    <string name="app_restore">Відновлення програм</string>
+    <string name="restore_app">Програма</string>
+    <string name="restore_data">Системні дані</string>
+    <string name="restore_label">Відновлення</string>
+    <string name="restore_app_label">Відновлення програм</string>
+    <string name="restore_data_label">Відновити системні дані</string>
+    <string name="confirm_stop_restoreapp_title">Зупинити відновлення?</string>
+    <string name="prepare_restore_app">Підготовка до відновлення</string>
+    <string name="restore_app_confirm">Поточні дані програм буде перезаписано. Продовжити?</string>
+    <string name="confirm_import">Імпортувати?</string>
+    <string name="import1">Імпорт…</string>
+    <string name="delete_title">Видалення…</string>
+    <string name="restore_title">Відновлення…</string>
+    <string name="backup_title">Бекап</string>
+    <string name="backup_btn">Створити бекап</string>
+    <string name="recovery_btn">Відновити</string>
+    <string name="menu_deselect_all">Зняти вибір</string>
+    <string name="menu_select_all">Обрати все</string>
+    <string name="menu_delete_sel">Обрано</string>
+    <string name="slot1">Слот 1</string>
+    <string name="slot2">Слот 2</string>
+    <string name="latest">Останній</string>
+    <string name="sms_full_cmcc">"Пам'ять заповнено. Видаліть старі повідомлення"</string>
+    <string name="backup_first_time_title">Порада</string>
+    <string name="backup_first_time_msg">Бекап та відновлення можна використовувати для всіх мобільних пристроїв марки China Mobile.</string>
+    <string name="settings">Налаштування</string>
+    <string name="backup_location_title">Оберіть сховище бекапу</string>
+    <string name="internal_location_summary">"/Внутрішня пам'ять"</string>
+    <string name="restore_location_title">Оберіть сховище відновлення</string>
+    <string name="external_location_summary">/SD-карта</string>
+    <string name="settings_help">Допомога</string>
+    <string name="no_sdcard">"Бекап з допомогою SD-карти:
+· Вставте SD-карту
+· Оберіть \"Створити бекап\"
+· Переставте SD-карту до нового пристрою.
+· Відкрийте програму бекапу на новому пристрої та оберіть \"Відновити\"
+ 
+Бекап за допомогою ПК:
+· Оберіть \"Створити бекап\" і запам'ятайте шлях збереження бекапу.
+· Підключіть пристрій до комп'ютера.
+· Скопіюйте бекап з пристрою на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій.
+· Відкрийте програму бекапу на новому пристрої та натисніть \"Відновити\"
+ 
+Відновлення за допомогою SD-карти:
+· Вставте SD-карту в старе пристрій.
+· Оберіть \"Створити бекап \"
+· Переставте SD-карту до нового пристрою.
+· Відкрийте програму бекапу на новому пристрої та натисніть \"Відновити\"
+ 
+Відновлення за допомогою ПК:
+· Підключіть старе пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій по шляху "<i>Внутрішня пам'ять/backup/data</i> або <i>Внутрішня пам'ять/backup/app</i>". Якщо теки відсутні, створіть їх.
+· Відкрийте програму бекапу і оберіть \"Відновити\"
+"</string>
+    <string name="no_sdcard_backup">"Бекап з допомогою SD-карти:
+· Вставте SD-карту
+· Оберіть \"Створити бекап\"
+· Переставте SD-карту до нового пристрою.
+· Відкрийте програму бекапу на новому пристрої та оберіть \"Відновити\"
+ 
+Бекап за допомогою ПК:
+· Оберіть \"Створити бекап\" і запам'ятайте шлях збереження бекапу.
+· Підключіть пристрій до комп'ютера.
+· Скопіюйте бекап з пристрою на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій.
+· Відкрийте програму бекапу на новому пристрої та натисніть \"Відновити\"
+"</string>
+    <string name="no_sdcard_restore">"Відновлення з допомогою SD-карти:
+· Вставте SD-карту в старе пристрій.
+· Оберіть \"Створити бекап \"
+· Переставте SD-карту до нового пристрою.
+· Відкрийте програму бекапу на новому пристрої та натисніть \"Відновити\"
+ 
+Відновлення за допомогою ПК:
+· Підключіть старе пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій по шляху "<i>Внутрішня пам'ять/backup/data</i> або <i>Внутрішня пам'ять/backup/app</i>". Якщо теки відсутні, створіть їх.
+· Відкрийте програму бекапу і оберіть \"Відновити\"
+"</string>
+    <string name="not_support_sdcard">"Після створення бекапу:
+· Підключіть пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій.
+· Відкрийте програму бекапу і натисніть \"Відновити\"
+ 
+ 
+Якщо бекап не знайдено:
+· Підключіть старе пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій.
+· Відкрийте програму бекапу і натисніть \"Відновити\"
+"</string>
+    <string name="not_support_sdcard_backup">"Після створення бекапу:
+· Підключіть пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекап на новий пристрій.
+· Відкрийте програму бекапу і натисніть \"Відновити\"
+"</string>
+    <string name="not_support_sdcard_restore">"Якщо бекап не знайдено:
+· Підключіть старе пристрій до комп'ютера.
+· Скопіюйте бекап на комп'ютер.
+· Підключіть новий пристрій до комп'ютера.
+· Скопіюйте бекапу на новий пристрій.
+· Відкрийте програму бекапу і натисніть \"Відновити\"
+"</string>
+    <string name="no_sdcard_backup_abstract">"Бекап буде створюватися у внутрішньому сховищі. Якщо необхідно відновити бекап на новому пристрої, Ви можете скопіювати його з SD-карти або за допомогою комп'ютера.\n"</string>
+    <string name="no_sdcard_restore_abstract">"Бекап не знайдено. Ви можете скопіювати його зі старого пристрою на це за допомогою SD-карти або комп'ютера.\n"</string>
+    <string name="not_support_sdcard_backup_abstract">"Скопіювати бекап на новий пристрій можна за допомогою комп'ютера.\n"</string>
+    <string name="not_support_sdcard_restore_abstract">"Бекап не знайдено. Ви можете скопіювати його зі старого пристрою на це за допомогою комп'ютера.\n"</string>
+    <string name="checkbox_content">Не нагадувати</string>
+    <string name="no_space_warning">"Недостатньо пам'яті"</string>
+    <string name="backup_result_content">Бекап %1$s створено</string>
+    <string name="external_system_content">/SD-карта/backup/data</string>
+    <string name="external_app_content">/SD-карта/backup/app/</string>
+    <string name="internal_system_content">"/Внутрішня пам'ять/backup/data"</string>
+    <string name="internal_app_content">"/Внутрішня пам'ять/backup/app/"</string>
+    <string name="recover_path_change_content">SD-карту вилучено</string>
+    <string name="location_error">Неможливо знайти SD-карту</string>
+    <string name="backup_path_dont_exist">Шлях з бекапом не знайдено: %1$s. Необхідно скинути</string>
+    <string name="restore_path_dont_exist">Шлях відновлення не знайдено: %1$s. Необхідно скинути</string>
+    <string name="restore_failed_no_cal_account">Помилка відновлення. У календарі немає акаунтів</string>
+    <string name="app_can_work_if_owner_user">Ця програма може працювати лише у режимі адміністратора</string>
+</resources>

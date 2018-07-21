@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="group_add_success_toast">
+        <item quantity="other">Додано контактів: %1$d</item>
+        <item quantity="one">Додано контактів: %1$d</item>
+     </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Контактів: %1$d</item>
+        <item quantity="one">Контактів: %1$d</item>
+     </plurals>
+     <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Номерів: %1$d</item>
+        <item quantity="one">Номерів: %1$d</item>
+     </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="other">Знайдено: %d</item>
+        <item quantity="one">Знайдено: 1</item>
+     </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактів: %d</item>
+        <item quantity="one">Контактів: 1</item>
+     </plurals>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакти з номерами телефонів: %d</item>
+        <item quantity="one">Контакти з номерами телефону: 1</item>
+     </plurals>
+     <plurals name="merge_info">
+        <item quantity="other">Об\'єднане з декількох джерел (%0$d)</item>
+        <item quantity="one">Не об\'єднаний</item>
+     </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосові повідомлення: %1$d</item>
+        <item quantity="one">Голосова пошта</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="zero">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
+     </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s | Контактів: %1$d</item>
+        <item quantity="one">%2$s | Контактів: %1$d</item>
+     </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="other">Груп: %0$d</item>
+        <item quantity="one">Груп: 1</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено: %d</item>
+        <item quantity="one">Знайдено: 1</item>
+     </plurals>
+     <plurals name="smart_group_member_count">
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
+     </plurals>
+	<plurals name="pick_favorites_list_title">
+        <item quantity="other">Обраних: %1$d</item>
+        <item quantity="one">Обраних: %1$d</item>
+    </plurals>
+	<plurals name="pick_recent_list_title">
+        <item quantity="other">Нещодавніх контактів: %1$d</item>
+        <item quantity="one">Нещодавніх контактів: 1</item>
+    </plurals>
+	<plurals name="hint_search_contacts">
+        <item quantity="other">Контактів: %1$d</item>
+        <item quantity="one">Контактів: %1$d</item>
+    </plurals>
+	<plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номерів: %1$d</item>
+        <item quantity="one">Номерів: %1$d</item>
+    </plurals>
+	<plurals name="hint_search_emails">
+        <item quantity="other">Адрес Email: %1$d</item>
+        <item quantity="one">Адрес Email: 1</item>
+    </plurals>
+	<plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Обраних: %1$d</item>
+        <item quantity="one">Обраних: %1$d</item>
+    </plurals>
+	<plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Нещодавніх контактів: %1$d</item>
+        <item quantity="one">Нещодавніх контактів: %1$d</item>
+    </plurals>
+	<plurals name="device_import_done_toast">
+        <item quantity="other">Імпортовано контактів: %1$d</item>
+        <item quantity="one">Імпортовано контактів: %1$d</item>
+    </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">Видалити контакти? (%d)</item>
+        <item quantity="one">Видалити контакти? (%d)</item>
+     </plurals>
+     <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Видалити контакти (%d)</item>
+        <item quantity="one">Видалити контакт</item>
+     </plurals>
+     <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">"| Гудків: %d"</item>
+        <item quantity="one">"| Гудок: %d"</item>
+     </plurals>
+     <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Видалити контакти з SIM-карти? (%d)</item>
+        <item quantity="one">Видалити контакти з SIM-карти? (%d)</item>
+     </plurals>
+     <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Скопійовано контактів: %d</item>
+        <item quantity="one">Скопійовано контактів: %d</item>
+     </plurals>
+     <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM-карта може зберігати контактів: %d</item>
+        <item quantity="one">SIM-карта может зберігати контактів: %d</item>
+     </plurals>
+	 <plurals name="dlg_add_blacklist">
+        <item quantity="other">Заблокувати ці номери? (%1$d)</item>
+        <item quantity="one">Заблокувати цей номер?</item>
+     </plurals>
+     <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Разблокувати ці номери? (%1$d)</item>
+        <item quantity="one">Разблокувати цей номер?</item>
+     </plurals>
+	 <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Несинхронізованих контактів: %d</item>
+        <item quantity="one">Несинхронізованих контактів: %d</item>
+     </plurals>
+     <plurals name="contacts_count">
+        <item quantity="other">Контактів: %1$d</item>
+        <item quantity="one">Контактів: %1$d</item>
+     </plurals>
+     <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d контактів</item>
+        <item quantity="one">%1$d контакт</item>
+	<item quantity="few">%1$d контакти</item>
+	<item quantity="many">%1$d контактів</item>
+     </plurals>
+     <plurals name="number_of_items_available">
+
+        <item quantity="other">Залишилось: %1$d</item>
+
+        <item quantity="one">Залишилось: %1$d</item>
+
+     </plurals>
+	 <plurals name="group_copy_success_toast">
+        <item quantity="other">Копіювання %1$d контактів завершено</item>
+        <item quantity="one">Копіювання %1$d контакту завершено</item>
+     </plurals>
+     <plurals name="group_move_success_toast">
+        <item quantity="other">Переміщення %1$d контактів завершено</item>
+        <item quantity="one">Переміщення %1$d контакту завершено</item>
+     </plurals>
+	 
+	 <plurals name="callrecordview_item_op_time_only_minutes">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+     </plurals>
+     <plurals name="callrecordview_item_op_time_only_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+     </plurals>
+	  <plurals name="hint_account_contacts">
+        <item quantity="other">Знайдено: %1$d</item>
+        <item quantity="one">Знайдено: %1$d</item>
+     </plurals>
+	 <plurals name="livetalk_unit">
+        <item quantity="other">хвилин</item>
+        <item quantity="one">хвилина</item>
+        <item quantity="few">хвилини</item>
+        <item quantity="many">хвилин</item>
+     </plurals>
+	 <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 годиму тому</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 годину</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За півгодини</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Зараз</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">За %d хвилин</item>
+        <item quantity="one">За %d хвилину</item>
+        <item quantity="few">За %d хвилини</item>
+        <item quantity="many">За %d хвилин</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Щойно</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+        <item quantity="many">%d хвилин тому</item>
+     </plurals>
+</resources>

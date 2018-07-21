@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="abc_action_bar_home_description">Перейти на головний</string>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_action_bar_up_description">Перейти вгору</string>
+     <string name="abc_action_menu_overflow_description">Інші опції</string>
+     <string name="abc_action_mode_done">Готово</string>
+     <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+     <string name="abc_capital_off">ВИМК.</string>
+     <string name="abc_capital_on">УВІМК.</string>
+     <string name="abc_search_hint">Пошук…</string>
+     <string name="abc_searchview_description_clear">Очистити запит</string>
+     <string name="abc_searchview_description_query">Пошуковий запит</string>
+     <string name="abc_searchview_description_search">Пошук</string>
+     <string name="abc_searchview_description_submit">Надіслати запит</string>
+     <string name="abc_searchview_description_voice">Голосовий пошук</string>
+     <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+     <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
+     <string name="abc_toolbar_collapse_description">Згорнути</string>
+     <string name="app_name">Галерея</string>
+     <string name="at_least_one">Оберіть категорію</string>
+     <string name="cancel">Вихід</string>
+     <string name="change_time">Інтервал зміни шпалер</string>
+     <string name="day">1 день</string>
+     <string name="declaration">"Перед використанням сервісу необхідно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Угоду користувача&lt;/a> і &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Політику конфіденційності&lt;/a>. Для роботи програми потрібне з\'єднання з інтернетом."</string>
+     <string name="declaration_lockscreen_title">Увімкнути щоденні шпалери</string>
+     <string name="declaration_title">Умови використання</string>
+     <string name="hour_1">1 година</string>
+     <string name="hour_3">3 години</string>
+     <string name="lockscreen_magazine_subscribe">Підписників: %1$s</string>
+     <string name="lockscreen_magazine_summary">Отримуйте нові шпалери прямо на екран блокування</string>
+     <string name="lockscreen_magazine_system_subscribe">Шпалер: %1$s</string>
+     <string name="lockscreen_magazine_system_title">Стандартно</string>
+     <string name="lockscreen_magazine_title">Щоденні шпалери</string>
+     <string name="no_long_show">"Запам\'ятати"</string>
+     <string name="ok">ОК</string>
+     <string name="ok_lockscreen">ОК</string>
+     <string name="ok_network">Продовжити</string>
+     <string name="resource_apply">Застосувати</string>
+     <string name="resource_no_network_text">"Неможливо під\'єднатися до інтернету"</string>
+     <string name="setting_head">Налаштування</string>
+     <string name="summary">"Перед використанням необхідно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Угоду користувача&lt;/a> та &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Політику конфіденційності&lt;/a>.​"</string>
+     <string name="theme_apply_failured">Неможливо встановити шпалери на екран блокування</string>
+     <string name="theme_apply_success">Шпалери встановлено</string>
+     <string name="theme_applying">Встановлення…</string>
+     <string name="wlan_download">Тільки через Wi-Fi</string>
+</resources>

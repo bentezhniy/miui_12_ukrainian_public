@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервіс безпеки інтерфейсу</string>
+    <string name="perm_label">Безпека інтерфейсу QC</string>
+    <string name="perm_desc">Доступ до безпеки інтерфейсу</string>
+    <string name="sd_stop_msg">Відображення безпеки інтерфейсу завершено</string>
+</resources>
