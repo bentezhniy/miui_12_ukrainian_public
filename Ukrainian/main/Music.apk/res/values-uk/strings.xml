@@ -201,7 +201,6 @@
      <string name="continue_backup">Продовжити</string>
      <string name="count_format">%2$1.1f Кб</string>
      <string name="cp_info_first">Онлайн музика надана сервісом Ultimate</string>
-     <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="create_order_fail">Неможливо створити замовлення</string>
      <string name="create_playlist">Створити плейлист</string>
      <string name="create_playlist_failure">Не вдаєтся створити плейлист</string>
@@ -347,7 +346,6 @@
      <string name="download_paused">Пауза</string>
      <string name="download_paused_in_power_save_mode">Увімкнено режим енергозбереження. Завантаження призупинене.</string>
      <string name="download_pending">Очікування</string>
-     <string name="download_percent">%d%%</string>
      <string name="download_processing">Завантаження…</string>
      <string name="download_quality">Якість завантаження</string>
      <string name="download_quality_summary">Додаткові налаштування для завантажених треків</string>

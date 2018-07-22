@@ -399,7 +399,6 @@
      <string name="wallpaper_failed_message">Не вдалося встановити шпалери</string>
      <string name="wallpaper_scaling_message">Масштабування до фіксованого розміру</string>
      <string name="wallpaper_scroll_type_tips">Прокручування шпалер</string>
-     <string name="wallpaper_scrolling"></string>
      <string name="wallpaper_settings">Шпалери</string>
      <string name="wallpaper_settings_for_pad">Шпалери</string>
      <string name="wallpaper_success_message">Шпалери встановлені</string>

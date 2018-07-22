@@ -303,7 +303,6 @@
      <string name="camera_disconnected">Камера відключена</string>
      <string name="camera_folder_display_name">Камера</string>
      <string name="camera_needs_auto_backup_tip">Фото камери будуть синхронізуватися з Mi Cloud</string>
-     <string name="camera_path">/DCIM/Camera</string>
      <string name="camera_setas_wallpaper">Шпалери</string>
      <string name="camera_view_none_message">Натисніть, щоб відкрити камеру</string>
      <string name="cancel">Скасувати</string>
@@ -738,7 +737,6 @@
      <string name="face_name_edit">Змінити</string>
      <string name="face_name_input">"Ім'я"</string>
      <string name="face_recommend">Рекомендації</string>
-     <string name="face_recommend_group_number">%1$d/%2$d</string>
      <string name="facelift">Сяйво</string>
      <string name="facetan">Засмага</string>
      <string name="fail_hint">Помилка дії</string>
@@ -755,7 +753,6 @@
      <string name="feature_guidance_photo_effects">"Доступні нові
 	 фотоефекти"</string>
      <string name="feature_guidance_video_editor_smart_effects">Доступні нові фотоефекти</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="file_finish">Синхронізація завершена</string>
      <string name="file_not_exist_message">Файл не існує</string>
      <string name="file_size">Розмір</string>
@@ -864,7 +861,6 @@
      <string name="go_setting">ОК</string>
      <string name="grain">Зернистість</string>
      <string name="grant_permission_go_and_set">Дозволити</string>
-     <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"Для нормальної роботи Галереї необхідний доступ: 
 %s"</string>
      <string name="grant_permission_title">Запит доступу</string>
@@ -1217,7 +1213,6 @@
      <string name="people_mark_mode_title_no_mark_name">Вибір облич</string>
      <string name="people_page_label">Особи</string>
      <string name="people_page_unname">Без імені</string>
-     <string name="percent_sign">%</string>
      <string name="pet_album_display_name">Фото тварин</string>
      <string name="petabyteShort">" ПБ"</string>
      <string name="phone_number_empty_alert">Додати номер телефону</string>

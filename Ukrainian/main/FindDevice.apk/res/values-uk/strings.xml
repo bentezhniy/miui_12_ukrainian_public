@@ -30,7 +30,6 @@
      <string name="find_device_noise_title">Звук пошуку пристрою</string>
      <string name="find_device_notice">Перейдіть на&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />, щоб знаходити, блокувати або відновляти ваш пристрій.</string>
      <string name="find_device_notice_p1">Відвідайте сайт</string>
-     <string name="find_device_notice_p2">i.mi.com</string>
      <string name="find_device_notice_p3">"для пошуку, блокування або відновлення Вашого пристрою.
 Якщо Ви змінили SIM-карту, необхідно повторно активувати обліковий запис через SMS."</string>
      <string name="find_device_notice_sms_alert">Якщо Ви перемкнете SIM-карти, SMS може бути автоматично повторно відправлено для активації сервісу</string>

@@ -44,12 +44,9 @@
      <string name="abc_toolbar_collapse_description">Згорнути</string>
      <string name="abort_connected">Відключитися</string>
      <string name="abort_connected_message">Відключитися від другого пристрою?</string>
-     <string name="action_bonjour">Bonjour</string>
      <string name="action_mode_deselect_all">Зняти вибір</string>
      <string name="action_mode_select_all">Обрати все</string>
      <string name="action_mode_title_empty">Оберіть елементи</string>
-     <string name="action_p2pgo">P2pGroupOwner</string>
-     <string name="action_p2pls">P2pLegacyStation</string>
      <string name="action_settings">Налаштування</string>
      <string name="actionbar_button_up_description">Назад</string>
      <string name="actionbar_immersion_button_more_description">Ще</string>
@@ -237,7 +234,6 @@
      <string name="gbk_title">GBK</string>
      <string name="gcm_fallback_notification_channel_label">Інше</string>
      <string name="have_lucky_draw">У вас все ще є шанс!</string>
-     <string name="hello_world">Привіт, світ!</string>
      <string name="help">Допомога</string>
      <string name="hybrid_provider">Підтримка: %1$s</string>
      <string name="i_know">ОК</string>
@@ -527,13 +523,6 @@
      <string name="time_picker_label_hour">Г</string>
      <string name="time_picker_label_minute">М</string>
      <string name="tip_device_support_high_speed">Підтримується висока швидкість передачі</string>
-     <string name="title_activity_bonjour">Вітання</string>
-     <string name="title_activity_intro">Допомога</string>
-     <string name="title_activity_main">MainActivity</string>
-     <string name="title_activity_p2p_group_client">Перевірка P2pGroupClient</string>
-     <string name="title_activity_p2p_group_owner">Перевірка P2pGroupOwner</string>
-     <string name="title_activity_p2p_legacy_station">Перевірка P2pLegacyStation</string>
-     <string name="title_activity_reception">ReceptionActivity</string>
      <string name="toast_connect_canceled">"Інший пристрій було від'єднано"</string>
      <string name="toast_scroll_down_score_midrop">Прокрутіть донизу для оцінки Mi Drop</string>
      <string name="today">Сьогодні</string>

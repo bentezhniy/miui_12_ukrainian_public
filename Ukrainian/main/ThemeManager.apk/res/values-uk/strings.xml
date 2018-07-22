@@ -157,7 +157,6 @@
      <string name="internal_online_precust_gorgeous_black_name">Cool Black</string>
      <string name="internal_online_precust_gorgeous_color_name">Color Fantasy</string>
      <string name="is_setting_wallpaper_message">Застосування шпалер…</string>
-     <string name="item_resource_audio_divider">│</string>
      <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
      <string name="item_resource_audio_optional_color_ring">Індикація</string>
      <string name="item_resource_audio_optional_notification_ring">Сповіщення</string>
@@ -374,7 +373,6 @@
 %1$s"</string>
      <string name="resource_pack_warning">Куплено тем: %1$d. Буде вигідніше купити інші теми по одній, ніж повний комплект.</string>
      <string name="resource_present">Подарувати</string>
-     <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Безкоштовно</string>
      <string name="resource_price_unit">Mi Credits</string>
      <string name="resource_purchase_common_error">помилка платежу</string>
@@ -536,7 +534,6 @@
      <string name="theme_is_external_priority_storage">Зберігати на SD карту</string>
      <string name="theme_is_external_priority_storage_summary">Програму буде перезапущено для застосування налаштувань</string>
      <string name="theme_multiple_button_title_customize">Компоненти</string>
-     <string name="theme_name">%1$s</string>
      <string name="theme_no">Скасувати</string>
      <string name="theme_precast_create_notification_content">Натисніть для перегляду</string>
      <string name="theme_precast_create_notification_title">Теми MIUI 7 оновлені</string>

@@ -252,7 +252,6 @@
      <string name="mi_sport">Кроки</string>
      <string name="mi_sport_go_install">Завантажити</string>
      <string name="mi_wallet">Mi Гаманець</string>
-     <string name="mini_str_null">xx</string>
      <string name="miuishare_account_activate_confirmation">Потрібна активація</string>
      <string name="miuishare_account_activate_ok">Активувати</string>
      <string name="miuishare_account_login_cancel">Скасувати</string>
@@ -357,7 +356,6 @@
      <string name="pie_chart_label_catering">Їжа:</string>
      <string name="pie_chart_label_education">Навчання:</string>
      <string name="pie_chart_label_entertainment">Розваги:</string>
-     <string name="pie_chart_label_format">%1$s %2$s%%</string>
      <string name="pie_chart_label_go_dutch">Голландський:</string>
      <string name="pie_chart_label_life">Життя:</string>
      <string name="pie_chart_label_medical">"Здоров'я:"</string>
@@ -366,7 +364,6 @@
      <string name="pie_chart_label_remain">Залишки:</string>
      <string name="pie_chart_label_remittance">Передача:</string>
      <string name="pie_chart_label_shopping">Магазини:</string>
-     <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
      <string name="pie_chart_label_spending">Платежі:</string>
      <string name="pie_chart_label_telephone_charge">"Зв'язок:"</string>
      <string name="pie_chart_label_tenement">Оренда:</string>
@@ -503,7 +500,6 @@
      <string name="steps_sport_des">Точна інформація про кроки з програми Mi Fit</string>
      <string name="steps_vip">Датчик пристрою</string>
      <string name="steps_vip_des">Інформація про кроки за допомогою датчика пристрою</string>
-     <string name="stock_change_rate_format">%.2f%%</string>
      <string name="stock_color_schema">Кольорова схема</string>
      <string name="stock_list_empty_text">Немає компаній</string>
      <string name="stock_search_empty">Немає результатів</string>
@@ -693,7 +689,6 @@
      <string name="ball_football_recent_end">Завершено</string>
      <string name="ball_football_recent_end_tip">Результати</string>
      <string name="ball_football_recent_ing">У процесі</string>
-     <string name="ball_football_recent_middle">:</string>
      <string name="ball_football_recent_text_show">Коментар</string>
      <string name="ball_football_title">Футбол</string>
      <string name="ball_football_total_rank">Статистика</string>
@@ -880,7 +875,6 @@
      <string name="function_youku_title">Youku</string>
      <string name="function_zhihu_search">Пошук</string>
      <string name="function_zhihu_title">Zhihu</string>
-     <string name="info_divider">|</string>
      <string name="login_before_use">Потрібно авторизуватися</string>
      <string name="login_ok">Вхід</string>
      <string name="more_express_numbers">"Інші номери кур'єрів"</string>

@@ -79,19 +79,6 @@
         <item>" "</item>
         <item>" "</item>
     </string-array>
-     <string-array name="dianping">
-        <item>Яндекс</item>
-        <item>yandex.ru</item>
-        <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/yandsearch?text={searchterms}</item>
-        <item>UTF-8</item>
-        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchterms}</item>
-     </string-array>
-     <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
-     </string-array>
 	 <string-array name="search_engines_rcn">
 		<item>baidu</item>
         <item>google</item>
@@ -116,27 +103,6 @@
         <item>Середній</item>
 	    <item>Великий</item>
         <item>Величезний</item>
-     </string-array>
-        <string-array name="search_engines_rCN">
-        <item>Baidu</item>
-        <item>Google</item>
-        <item>Dianping</item>
-        <item>Bing</item>
-     </string-array>
-     <string-array name="sm">
-
-        <item>Яндекс</item>
-
-        <item>yandex.ru</item>
-
-        <item>http://yandex.ru/favicon.ico</item>
-
-        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
-
-        <item>UTF-8</item>
-
-        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
-
      </string-array>
 	 <string-array name="shortcut_dialog_delete">
         <item>Видалити</item>

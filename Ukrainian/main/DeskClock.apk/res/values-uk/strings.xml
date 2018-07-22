@@ -248,7 +248,6 @@
      <string name="shutdown_alarm_enable_summary">Вмикати пристрій з будильником</string>
      <string name="shutdown_alarm_title">Вмикати пристрій</string>
      <string name="silent_alarm_summary">Без звуку</string>
-     <string name="skip_alarm_date_format">%1$s(%2$s)</string>
      <string name="skip_alarm_once_hint">"Вимкнути цей будильник %s "</string>
      <string name="slider_text">Вимкнути</string>
      <string name="snooze_confirm_cancel">Вимкнути</string>
@@ -276,7 +275,6 @@
      <string name="sw_start_button">Старт</string>
      <string name="sw_stop_button">Стоп</string>
      <string name="swn_stopped">Зупинено</string>
-     <string name="symbol_colon">:</string>
      <string name="system_time_setting">Налаштування</string>
      <string name="system_time_settings_category_title">Налаштування часу</string>
      <string name="temperature_unit">%1$s°</string>

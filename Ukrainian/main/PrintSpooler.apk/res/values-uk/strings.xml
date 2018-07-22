@@ -75,7 +75,6 @@
      <string name="print_service_security_warning_summary">Документ може надсилатися на принтер через декілька серверів</string>
      <string name="print_service_security_warning_title">Використовувати %1$s?</string>
      <string name="print_services_disabled_toast">Деякі служби друку вимкнено</string>
-     <string name="printer_extended_description_template">%1$s - %2$s</string>
      <string name="printer_info_desc">Детальні відомості про принтер</string>
      <string name="recommended_services_title">Рекомендовані служби</string>
      <string name="select_to_add_printers">Оберіть, щоб додати принтер</string>

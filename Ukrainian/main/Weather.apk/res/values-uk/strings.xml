@@ -161,8 +161,6 @@
      <string name="hide_topic">Приховати</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="hourly_forcast_now">Зараз</string>
-     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
      <string name="hourly_forecast_date">d MMM</string>
      <string name="hourly_forecast_title">Погодинний прогноз</string>
      <string name="index_item_experience_now">Встановити</string>
@@ -175,7 +173,6 @@
      <string name="indices_desc_feel">Відчувається як %1$s°C</string>
      <string name="indices_desc_feel_without_pic">%1$s°C</string>
      <string name="indices_desc_humidity">Вологість %1$s%%</string>
-     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
      <string name="indices_desc_pressure">%1$s мм.рт.ст.</string>
      <string name="indices_desc_visibility">%1$s км</string>
      <string name="indices_no_restriction">Немає даних</string>
@@ -196,15 +193,12 @@
      <string name="information_manager_wlan">Завантаження по Wi-Fi мережі</string>
      <string name="information_set">Інформація</string>
      <string name="information_settings_title">Інформація про погоду</string>
-     <string name="information_time_source">%1$s | %2$s</string>
      <string name="install">Встановити</string>
-     <string name="install_progress">%1$s%%</string>
      <string name="international_detail_menu_title">Інформація</string>
      <string name="international_details_pressure_title">Тиск</string>
      <string name="international_details_real_feel_title">Відчувається®</string>
      <string name="international_details_title">Інформація</string>
      <string name="international_details_uv_index_title">Індекс УФ</string>
-     <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="international_details_wind_title">Вітер</string>
      <string name="international_version_first_start_network_msg">Необхідно прийняти %1$s Xiaomi. Для роботи програми необхідне підключення до інтернету</string>
      <string name="it_is_going_to_rain">Починається дощ</string>
@@ -477,7 +471,6 @@
      <string name="share_subject">Поділитися</string>
      <string name="share_title">Поділитися прогнозом</string>
      <string name="share_weather_desc">\#Погода MIUI #Сьогодні: %1$s %2$s</string>
-     <string name="share_weather_desc_alert">%1$s%2$s</string>
      <string name="share_weather_desc_split">", "</string>
      <string name="share_weather_save_pic_fail">Неможливо створити скріншот</string>
      <string name="some_where_on_earth">Десь на Землі</string>

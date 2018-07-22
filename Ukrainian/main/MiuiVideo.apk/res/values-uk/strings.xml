@@ -985,7 +985,6 @@
      <string name="alert_dialog_download_progress">"Завантаження програми: "</string>
      <string name="background_offline">Завантажити у фоні</string>
      <string name="boss_login_failed">Неможливо авторизуватися</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="check_plugin_loading">Завантаження HD відео плагіну…</string>
      <string name="check_plugin_message">Інсталяція HD відео плагіну…</string>
      <string name="check_plugin_tips">HD відео плагін</string>

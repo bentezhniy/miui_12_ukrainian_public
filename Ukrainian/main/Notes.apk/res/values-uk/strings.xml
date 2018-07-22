@@ -133,7 +133,6 @@
      <string name="menu_unhide">Прибрати з приватних…</string>
      <string name="menu_unmark_privacy">З приватних</string>
      <string name="menu_unstick">Відкріпити</string>
-     <string name="micloud_state_total_count">%1$s</string>
      <string name="monitoring_description_do_body_vpn">Запущено програму \"%1$s\". Вона може відстежувати Ваші дії у мережі, включно з роботою у електронній пошті, переглядом сайтів та інших програм</string>
      <string name="monitoring_description_network_logging">"Адміністратор увімкнув ведення журналу мережі, щоб відстежувати трафік на Вашому пристрої.
 

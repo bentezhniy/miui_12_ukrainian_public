@@ -193,7 +193,6 @@
      <string name="effect_none">Без ефектів</string>
      <string name="effect_setting_top_text">Фільтри</string>
      <string name="effect_silly_faces">Смішні пички</string>
-     <string name="empty">" "</string>
      <string name="error_app_unsupported">Даний вид кодування не підтримує цю роздільну здатність</string>
      <string name="error_app_unsupported_hfr_720p">Роздільна здатність 720p підтримує до 90 FPS</string>
      <string name="error_app_unsupported_hfr_codec">Підтримується тільки формат H264, коли HFR увімкнено</string>
@@ -444,7 +443,6 @@
      <string name="pref_camera_coloreffect_entry_xproii">X-Pro II</string>
      <string name="pref_camera_coloreffect_entry_yesteryear">Ретро</string>
      <string name="pref_camera_coloreffect_title">Ефекти</string>
-     <string name="pref_camera_contrast_default">5</string>
      <string name="pref_camera_contrast_title">Контрастність</string>
      <string name="pref_camera_countdown_entry_10s">10 сек.</string>
      <string name="pref_camera_countdown_entry_3s">3 сек.</string>
@@ -677,7 +675,6 @@
      <string name="pref_camera_volumekey_function_entry_zoom">Наближення</string>
      <string name="pref_camera_volumekey_function_title">Функція клавіш гучності</string>
      <string name="pref_camera_watermark_title">Дата на фото</string>
-     <string name="pref_camera_whitebalance_default">auto</string>
      <string name="pref_camera_whitebalance_entry_auto">Авто</string>
      <string name="pref_camera_whitebalance_entry_cloudy">Хмарний</string>
      <string name="pref_camera_whitebalance_entry_daylight">Сонячний</string>
@@ -741,7 +738,6 @@
      <string name="pref_video_encoder_title">Відеокодер</string>
      <string name="pref_video_focusmode_entry_auto">Дотик</string>
      <string name="pref_video_focusmode_entry_continuous">Безперервний</string>
-     <string name="pref_video_focusmode_entryvalue_default">auto</string>
      <string name="pref_video_focusmode_title">Режим фокусування</string>
      <string name="pref_video_hfr_title">Відео HFR</string>
      <string name="pref_video_quality_entry_1080p">Full HD</string>

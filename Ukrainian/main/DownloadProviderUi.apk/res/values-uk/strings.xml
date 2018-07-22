@@ -26,7 +26,6 @@
      <string name="app_downloads">Завантаження програми \"%s\"</string>
      <string name="app_label">Завантаження</string>
      <string name="app_name">Файли</string>
-     <string name="app_size">%1$s</string>
      <string name="auth_activity_title">Акаунт Xunlei</string>
      <string name="auth_fail">Неможливо авторизуватися</string>
      <string name="average_speed">Середня швидкість</string>
@@ -127,7 +126,6 @@
      <string name="download_list_title_browser">Завантаження</string>
      <string name="download_no_application">Немає програм для відкриття цього типу файлу</string>
      <string name="download_no_application_title">Не можу відкрити файл</string>
-     <string name="download_num_size">Завантажень: %1$s | %2$s</string>
      <string name="download_paused">Завантаження припинене</string>
      <string name="download_pending">Очікування завантаження</string>
      <string name="download_queued">У черзі</string>

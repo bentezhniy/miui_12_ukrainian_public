@@ -220,7 +220,6 @@
      <string name="mibi_button_cancel">Скасувати</string>
      <string name="mibi_button_confirm">ОК</string>
      <string name="mibi_button_count_down_finish">ОК (%1$s)</string>
-     <string name="mibi_button_count_down_reget">%1$s</string>
      <string name="mibi_button_custom_service_phone">ОК</string>
      <string name="mibi_button_next">Далі</string>
      <string name="mibi_button_pay">ОК</string>
@@ -233,7 +232,6 @@
      <string name="mibi_change_security_lock">Інші способи блокування</string>
      <string name="mibi_check_giftcard">Показати купони</string>
      <string name="mibi_click_retry">%1$s. Натисніть, щоб повторити</string>
-     <string name="mibi_colon">": "</string>
      <string name="mibi_deduct_goods_name">Продукт</string>
      <string name="mibi_deduct_open">Увімкнути</string>
      <string name="mibi_deduct_open_prompt">%1$s дозволяє автоматично виконувати %2$s без перевірки. Ви можете увімкнути цю функцію у %1$s.</string>

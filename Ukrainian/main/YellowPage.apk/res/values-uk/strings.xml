@@ -220,7 +220,6 @@
     <string name="navigation_search_positioning_failed">Виберіть місто</string>
     <string name="nearby_no_yellow_page">Немає результатів</string>
     <string name="nearby_yellow_page_title">Поблизу</string>
-    <string name="nearby_yellow_page_title_format">%1$s%2$s</string>
     <string name="network_unavaliable">Мережа недоступна. Будь ласка, перевірте налаштування мережі.</string>
     <string name="no_brief">Немає введення</string>
     <string name="no_evaluation">Немає огляду</string>
@@ -232,7 +231,6 @@
     <string name="order_empty_hint">Немає замовлень</string>
     <string name="order_id_label">ID замовлення: %1$s</string>
     <string name="order_merchant_title">Мої замовлення</string>
-    <string name="order_merchant_title_format">%1$s%2$s</string>
     <string name="order_not_found">Немає замовлень</string>
     <string name="order_price_label">Ціна: %1$s</string>
     <string name="order_product_name_label">Назва продукту: %1$s</string>
@@ -251,7 +249,6 @@
     <string name="payment_failed_common_problems">Помилка платежу</string>
     <string name="payment_unknown_status_summary">Перевірте мережеве підключення і спробуйте знову.</string>
     <string name="payment_unknown_status_title">Платіж не підтверджений</string>
-    <string name="phone_info_divider">" | "</string>
     <string name="photo_count">Усього: %d</string>
     <string name="quick_yellow_page_tab_call_log">Журнал викликів</string>
     <string name="quick_yellow_page_tab_phones">Пристрій</string>
@@ -563,13 +560,11 @@
      <string name="follow_express_success">Підписка завершена. Ви зможете отримувати повідомлення і безліч інших сервісів від %1$s.</string>
 	 <string name="about_phone_event">Інформація про сервіс</string>
      <string name="express_banner_header">%1$s / Номер відслідковування</string>
-     <string name="express_order_state">%1$s / %2$s</string>
      <string name="follow_label">Підписатись на %1$s</string>
      <string name="follow_success">Ви підписані на %1$s</string>
      <string name="order_info">Інформація про замовлення</string>
      <string name="phone_event_setting_notice_text">Ви отримаєте інформацію про номер після його виклику.\nПеред використанням необхідно прийняти %1$s та %2$s.</string>
      <string name="recharge_follow_name">Сервіс поповнення</string>
-     <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="rmb">RMB</string>
      <string name="turn_on_phone_event_summary">Завантажувати номер телефону для отримання інформації про сервіс</string>
      <string name="turn_on_phone_event_title">Отримувати інформацію про сервіс</string>

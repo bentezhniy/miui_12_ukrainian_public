@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Lch_dtmf_key">D</string>
      <string name="accessibility_call_muted">Виклик \"Без звуку\"</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Це експериментальна функція, що може вплинути на продуктивність</string>
      <string name="accessibility_display_daltonizer_preference_title">Корекція кольору</string>
@@ -189,7 +188,6 @@
      <string name="debug_networking_category">Мережі</string>
      <string name="debug_view_attributes">Перевірка атрибутів</string>
      <string name="decline_incoming_call">Відхилити</string>
-     <string name="default_connection_manager_component" />
      <string name="delete_icon_description">Розблокувати</string>
      <string name="dev_logpersist_clear_warning_message">"Припинивши відстеження постійного журналу, ми будемо зобов'язані видалити його дані, збережені на пристрої."</string>
      <string name="dev_logpersist_clear_warning_title">Очистити постійний диск журналу?</string>
@@ -299,21 +297,15 @@
      <string name="picture_color_mode_desc">Використовувати sRGB</string>
      <string name="pointer_location">Показувати жести</string>
      <string name="pointer_location_summary">Відображати торкання</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s до повної зарядки</string>
      <string name="power_charging_duration_ac">%1$s - %2$s до повної зарядки (від мережі)</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s до повної зарядки (від USB)</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s до повної зарядки (бездротова)</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s - залишилося близько %2$s</string>
      <string name="power_discharging_duration_short">%1$s. Залишилося: %2$s</string>
      <string name="power_remaining_charging_duration_only">До повного зарядження залишилося %1$s</string>
      <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
      <string name="power_remaining_duration_only_short">Залишилося: %1$s</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="pull_to_call_back">Натисніть, щоб потягнути.</string>
      <string name="remaining_length_format">Залишилося: %1$s</string>
      <string name="respond_via_sms_canned_response_1">Не можу говорити. Що трапилося?</string>

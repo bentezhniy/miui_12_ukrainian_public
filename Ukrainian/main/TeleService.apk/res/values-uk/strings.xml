@@ -106,7 +106,6 @@
      <string name="administrative_enable">Адміністративні функції увімкнені</string>
      <string name="advanced_options_title">Розширений</string>
      <string name="advanced_settings">Розширені налаштування</string>
-     <string name="advanced_settings_container">Додаткові параметри контейнера</string>
      <string name="advanced_settings_hide">▽ Приховати все</string>
      <string name="advanced_settings_show">▷ Показати все</string>
      <string name="advertisements_disable">Рекламу вимкнено</string>
@@ -1683,15 +1682,10 @@
      <string name="pointer_location">Показувати жести</string>
      <string name="pointer_location_summary">Показувати натискання</string>
      <string name="port_title">Порт</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s до повної зарядки</string>
      <string name="power_charging_duration_ac">%1$s - %2$s  до повної зарядки (від мережі)</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s до повної зарядки (від USB)</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s до повної зарядки (бездротова)</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration">%1$s – лишилося приблизно %2$s</string>
      <string name="power_discharging_duration_short">%1$s. Лишилося: %2$s</string>
      <string name="power_remaining_charging_duration_only">До повного зарядження залишилося %1$s</string>
@@ -1814,7 +1808,6 @@
      <string name="primary_account_summary_with">Основний обл.запис %s</string>
      <string name="private_num">Схований номер</string>
      <string name="proceed">Продовжити</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="product_reflash_button">Оновлення…</string>
      <string name="progress_dialog_exiting_ecm">Вихід з режиму екстрених зворотних викликів</string>
      <string name="prompt_to_turnoff_volte_when_failed">Сервіси VoLTE недоступні. Вимкніть VoLTE для здійснення дзвінка</string>

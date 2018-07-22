@@ -39,7 +39,6 @@
      <string name="alert_dialog_yes">Так</string>
      <string name="antispam_local_marked">Власна мітка</string>
      <string name="antispam_marked_count">Повідомило користувачів MIUI: %1$d</string>
-     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Невідомий номер</string>
      <string name="antispam_provider">Визначено %s</string>
      <string name="apn_settings">Точки доступу</string>
@@ -797,7 +796,6 @@
      <string name="phone_entered_ecm_text">Пристрій переведено до режиму екстрених зворотних викликів</string>
      <string name="phone_in_ecm_call_notification_text">Передачу даних вимкнено</string>
      <string name="phone_in_ecm_notification_title">Режим екстрених зворотніх викликів</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="pick_outgoing_call_phone_type">Вихідний виклик</string>
      <string name="pick_outgoing_sip_phone">Акаунт для SIP викликів:</string>
      <string name="picking_participant">Отримання інформації о контакті…</string>

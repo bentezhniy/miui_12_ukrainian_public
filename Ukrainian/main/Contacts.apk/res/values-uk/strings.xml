@@ -651,7 +651,6 @@
      <string name="import_weibo_fetch_followers">Отримання контактів Sina Weibo…</string>
      <string name="import_weibo_notification_title_done">Оновлено контактів: %s</string>
      <string name="import_weibo_progress_name">Збіг \"%1$s\"…</string>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Імпортування контактів з SIM-карти…</string>
      <string name="importing_sim_contacts_miui_prepare">Підготовка до імпортування…</string>
      <string name="importing_vcard_canceled_title">Імпорт скасований: \"%s\"</string>
@@ -695,7 +694,6 @@
      <string name="keep_local">Зберегти локально</string>
      <string name="keep_local_btn">У телефон</string>
      <string name="label_custom_type">Користувацький</string>
-     <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">На даний момент немає дублікатів контактів</string>
      <string name="label_notes">Нотатки</string>
      <string name="label_sip_address">Інтернет виклик</string>
@@ -1055,7 +1053,6 @@
      <string name="phoneLabelsGroup">Телефон</string>
      <string name="phone_call_type_livetalk">LiveTalk</string>
      <string name="phone_call_type_voip">Mi виклик</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="phone_number_too_long_toast">Номер занадто довгий</string>
      <string name="phone_primary">Основний</string>
      <string name="photoPickerNotFoundText">Немає зображень</string>
@@ -1559,7 +1556,6 @@
      <string name="starred_yellowpage">Обрані сервіси</string>
      <string name="status_available">На місці</string>
      <string name="status_away">Відсутній</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_busy">Не турбувати</string>
      <string name="storage_internal_description">"Внутрішня пам\'ять"</string>
      <string name="storage_sd_card">SD карта</string>

@@ -221,7 +221,6 @@
      <string name="file_size">Розмір:</string>
      <string name="file_title">Ім\’я:</string>
      <string name="file_width_height">Розмір:</string>
-     <string name="flatshow_page_no">%1$d</string>
      <string name="follow_finished">Підписка завершена</string>
      <string name="follow_forbidden">Неможливо підписатися на цей номер</string>
      <string name="force_touch_new_message_title">Нове повідомлення</string>
@@ -642,7 +641,6 @@ SMS (%1$d), MMS (%2$d)."</string>
      <string name="send_sms">Надіслати повідомлення</string>
      <string name="send_to">"Кому: "</string>
      <string name="send_to_count">Надіслане повідомлень: %1$s</string>
-     <string name="send_to_index_contact">Надіслане %1$s з %2$s</string>
      <string name="sent_at_time">Надіслано: %1s</string>
      <string name="sent_label">"Надіслане: "</string>
      <string name="service_message_not_found">Термін дії повідомлення минув або воно недоступно</string>

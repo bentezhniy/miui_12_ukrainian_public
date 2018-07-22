@@ -100,7 +100,6 @@
     <string name="dialog_type_image">Зображення</string>
     <string name="dialog_type_text">Текст</string>
     <string name="dialog_type_video">Відео</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="directory_no_item">порожньо</string>
     <string name="dlg_error_unmount_text">Неможливо відключити USB накопичувач</string>
     <string name="download_current_progress">%1$d/100</string>
@@ -787,15 +786,12 @@
     <string name="video_publish_hint">Хороший опис допоможе користувачам швидше знайти ваше відео</string>
     <string name="video_status_reject">Відхилено</string>
     <string name="video_status_review">На розгляді</string>
-    <string name="video_tag">\#%s#</string>
     <string name="video_tag_search_hint">Змінити тему</string>
-    <string name="video_tag_search_lead">\#</string>
     <string name="video_tag_search_title">Вибрати тему</string>
     <string name="video_upload_btn">Далі</string>
     <string name="video_upload_btn_hint">MP4 відео повинно бути довжиною від 3 секунд до 10 хвилин</string>
     <string name="video_upload_btn_hint_span">Неможливо знайти своє відео?</string>
     <string name="video_upload_item_more">Ще (%1$s)</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_upload_retry_confirm">Повтор</string>
     <string name="video_upload_retry_message">Неможливо завантажити. Повторити?</string>
     <string name="video_upload_retry_title">Повтор</string>
@@ -835,7 +831,6 @@
     <string name="send_to_kuaipan">Mi Drive</string>
     <string name="trans_mobile_network_message">Продовжити завантаження через мобільний інтернет? Може утримуватися додаткова плата оператором.</string>
     <string name="vip_info">VIP: %1$s</string>
-    <string name="add_one">+1</string>
     <string name="all_topic">Усі теми</string>
     <string name="choose_report_comment_reason">Поясніть причину скарги</string>
     <string name="comment_delete_message">Відгук буде видалено безповоротно</string>
@@ -849,11 +844,9 @@
     <string name="hot_comments">Популярні відгуки</string>
     <string name="message_comment_prefix">Відгук:</string>
     <string name="message_my_received_praise">Нещодавні відгуки</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_praise_comment">Подобається відгук</string>
     <string name="message_praise_video">Подобається відео</string>
     <string name="message_reply_prefix">Відповідь</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="message_title">Мої повідомлення</string>
     <string name="new_comments">Мої відгуки</string>
     <string name="no_comment">Немає відгуків</string>
@@ -861,7 +854,6 @@
     <string name="no_topic">Немає тем</string>
     <string name="no_topic_found">Теми не знайдено</string>
     <string name="operation_reply">Відгук</string>
-    <string name="origin_name">"%1$s: "</string>
     <string name="other_user_liked_topic_tip">Немає обраних</string>
     <string name="other_user_topic_tab">Теми</string>
     <string name="other_user_video_tab">Відео</string>
@@ -871,7 +863,6 @@
     <string name="send_error">Помилка надсилання</string>
     <string name="topic_follow">Підписатися</string>
     <string name="topic_followed">Підписано</string>
-    <string name="topic_message">%1$s: %2$s</string>
     <string name="upload_notification_compress_progress">Стиснення %1$s%%</string>
     <string name="upload_notification_compress_title">Стиснення відео</string>
     <string name="user_center_setting">Налаштування</string>
@@ -1172,7 +1163,6 @@
      <string name="no_videos">Немає відео</string>
      <string name="original_user_desc">Завантажуйте оригінальні відео регулярно, щоб отримати статус творця.</string>
      <string name="recommend_popup_title">Рекомендації</string>
-     <string name="recommend_users">%1$s+</string>
      <string name="select_interest_str">Оберіть теми, які Вам до вподоби.</string>
      <string name="select_interest_tip">Тут багато цікавих відео</string>
      <string name="share_topic_desc">Завантажуйте відео, щоб отримати приз.</string>

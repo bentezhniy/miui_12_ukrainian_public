@@ -110,7 +110,6 @@
 	 <string name="terms_of_use_label_gms">Ваша конфіденційність дуже важлива для нас. Ознайомтесь з нашими Умовами використання і Політикою конфіденційності, щоб зрозуміти, яку інформацію ми збираємо і використовуємо. \nПеред використанням MIUI необхідно прийняти Умови використання і Політику конфіденційності. Сервіси активації Mi SIM, Mi Cloud, пошук пристрою, робочий стіл, веб-програми, Mi акаунт та інші компоненти системи будуть підключатися до інтернету і виявляти Ваше місцезнаходження</string>
 	 <string name="other_settings_ad_enable">Оголошення на основі вподобань</string>
      <string name="other_settings_ad_enable_summary">Рекомендувати рекламу на основі Ваших вподобань</string>
-     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
 	 <string name="other_settings_user_experience_summary_index">Інформація</string>
 	 <string name="sim_card_detection_mobile_not_available">SIM-карта не підключається до мережі</string>
      <string name="sim_scard_detecting_check_mobile_not_available">Вашій SIM-картці не вдається підключитися до мережі. Переконайтеся, що у вас достатньо коштів на балансі і спробуйте підключитися знову</string>

@@ -768,7 +768,6 @@
      <string name="kg_reordering_delete_drop_target_text">Видалити</string>
      <string name="kg_sim_pin_instructions">Введення PIN коду SIM-карти</string>
      <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
-     <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_attempts_countdown">Повторіть спробу через %d сек.</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Ви неправильно ввели пароль %d раз(а).
 
@@ -2281,7 +2280,6 @@
      <string name="ssl_ca_cert_warning">Мережа може контролюватися</string>
      <string name="ssl_certificate">Сертифікат безпеки</string>
      <string name="ssl_certificate_is_valid">Цей сертифікат дійсний</string>
-     <string name="status_bar_notification_info_overflow">&gt;999</string>
      <string name="stk_cc_ss_to_dial">SS запит змінений в DIAL запит</string>
      <string name="stk_cc_ss_to_dial_video">Запит SS змінено на запит Video DIAL</string>
      <string name="stk_cc_ss_to_ss">SS запит змінений у новий SS запит</string>
@@ -2555,6 +2553,5 @@
      <string name="zen_mode_forever_dnd">Поки Ви не відключите режим \"Не турбувати\"</string>
      <string name="zen_mode_next_alarm_line_one">До наступного будильника</string>
      <string name="zen_mode_next_alarm_summary">До наступного будильника %1$s</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">До %1$s</string>
 </resources>

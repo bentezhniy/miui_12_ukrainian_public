@@ -1749,11 +1749,9 @@
      <string name="menu_text_antispam">Чорний список</string>
      <string name="menu_text_antivirus">Антивірус</string>
      <string name="menu_text_garbage_cleanup">Очищення</string>
-     <string name="menu_text_garbage_cleanup_danger">Сміття: %s</string>
      <string name="menu_text_license_manager">Дозволи</string>
      <string name="menu_text_networkassistants">Трафік</string>
      <string name="menu_text_networkassistants_danger">Перевищення: %s</string>
-     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
      <string name="menu_text_networkassistants_remain">Залишилося: %s</string>
      <string name="menu_text_networkassistants_unit_b">б</string>
      <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -1762,7 +1760,6 @@
      <string name="menu_text_optimize_manage">Очищення ОЗП</string>
      <string name="menu_text_power_manager">Керування живленням</string>
      <string name="menu_text_power_percent">Батарея: %s</string>
-     <string name="menu_text_power_percent_title">Батарея %s</string>
      <string name="menu_text_power_percent_title_default">Батарея</string>
      <string name="menu_wh_remove"> Видалити з білого списку</string>
      <string name="menu_white">Виключити</string>
@@ -1974,7 +1971,6 @@
      <string name="om_media_scan_timeout_proc_detail">Медіа-сервер працює у фоновому режимі. Ви можете обмежити його активність</string>
      <string name="om_media_scan_timeout_proc_name">Медіа-сервер</string>
      <string name="om_memory_clean_cleaning_text">Очищення ОЗП…</string>
-     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
      <string name="om_notify_cpu_load_too_high_summary">Обмеження фонової активності для пришвидшення системи</string>
      <string name="om_notify_cpu_load_too_high_title">Навантаження на ЦП з боку %s занадто високе</string>
      <string name="om_notify_need_clean_memory_summary">Очищення ОЗП для пришвидшення системи</string>
@@ -2462,7 +2458,6 @@
      <string name="pref_normal_traffic_limit">Дія</string>
      <string name="pref_open_adjust_traffic">Синхронізувати статистику трафіку із сервісом оператора</string>
      <string name="pref_operator_not_set">Оператора не встановлено</string>
-     <string name="pref_operator_setting">%1$s %2$s</string>
      <string name="pref_over_traffic_limit">При перевищенні межі трафіку</string>
      <string name="pref_package_traffic_leisure">%1$s | Безкоштовний трафік: %2$s</string>
      <string name="pref_package_traffic_normal">Ліміт: %s</string>
@@ -2551,7 +2546,6 @@
      <string name="privacy_prompt_traffic_adjust_message">Ваш номер телефону і інформація про оператора будуть завантажені на сервер Xiaomi, щоб оновити шаблон запиту SMS та перевірити доступність цієї можливості у Вашому регіоні.</string>
      <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефону і інформація про оператора будуть завантажені на сервер Xiaomi, щоб отримати інформацію про способи оплати.</string>
      <string name="privacy_prompt_upload">Сповіщення про конфіденційність</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="process_mediaserver_label">Сервер медіа</string>
      <string name="promotion">Реклама</string>
      <string name="prompt_all">Запитувати завжди</string>

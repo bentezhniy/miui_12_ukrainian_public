@@ -18,15 +18,6 @@
         <item>Не більше 3 процесів</item>
         <item>Не більше 4 процесів</item>
      </string-array>
-     <string-array name="aqi_title_prefix">
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-     </string-array>
      <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>

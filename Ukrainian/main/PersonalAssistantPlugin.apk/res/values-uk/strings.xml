@@ -305,7 +305,6 @@
      <string name="steps">" кр."</string>
      <string name="stock_card_add">Додати компанії</string>
      <string name="stock_card_title">Склади</string>
-     <string name="stock_change_rate_format">%.2f%%</string>
      <string name="take_off">Зняти</string>
      <string name="time_just_now">Щойно</string>
      <string name="time_month">dd.MM</string>

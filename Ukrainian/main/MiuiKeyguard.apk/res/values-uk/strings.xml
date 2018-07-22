@@ -7,7 +7,6 @@
     <string name="gxzw_try_more_again">Повторіть спробу</string>
     <string name="gxzw_use_password">Використовуйте пароль</string>
 	<string name="wireless_current_charge">Поточний заряд</string>
-	<string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">Щоденні шпалери</string>
 	<string name="kg_password_pin_failed">Помилка PIN-коду SIM-карти</string>
     <string name="lockscreen_forgot_pattern_button_text">Відновити</string>
@@ -15,7 +14,6 @@
     <string name="lockscreen_transport_next_description">Далі</string>
     <string name="lockscreen_transport_play_description">Клавіша відтворення</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторіть спробу через %d секунд.</string>
-	<string name="symbol_colon">:</string>
     <string name="lockscreen_pattern_wrong">Неправильний ключ</string>
     <string name="lockscreen_pattern_instructions">Намалюйте графічний ключ</string>
     <string name="unlockscreen_recharging_message">Зарядка: %d%%</string>

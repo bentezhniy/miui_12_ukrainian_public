@@ -1072,7 +1072,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bootloader_status_unlocked">Розблоковано</string>
      <string name="bootloader_status_unlocked_info">Завантажувач розблоковано</string>
      <string name="bootloader_summary">Прошивка пристрою через USB</string>
-     <string name="bootloader_unlock_webhome">https://miui.su/faq/informatsiya-o-zablokirovannom-bootloader-i-ego-razblokirovke</string>
      <string name="breathing_light_color_menu_title">Колір індикатору</string>
      <string name="breathing_light_color_summary">Колір індикатору для повідомлень</string>
      <string name="breathing_light_freq_summary">Періодичність мерехтіння індикатору </string>
@@ -1140,7 +1139,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="calendar_sound_title">Події календаря</string>
      <string name="call_manager_enable_summary">Керування дзвінками</string>
      <string name="call_manager_enable_title">Увімкнути менеджер дзвінків</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Менеджер дзвінків</string>
      <string name="call_settings_primary_user_only">Змініть налаштування виклику в режимі першого простору</string>
      <string name="call_settings_summary">Голосова пошта, АОН, переадресація, паралельний виклик</string>
@@ -1867,7 +1865,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="dndm_auto_button_title">За розкладом</string>
      <string name="dndm_auto_setting_group">Час</string>
      <string name="dndm_auto_time_setting">Налаштування часу</string>
-     <string name="dndm_auto_time_setting_summary">З %1$s до %2$s</string>
      <string name="dndm_auto_time_turn_off">Завершення</string>
      <string name="dndm_auto_time_turn_off_title">Автоматичне вимкнення режиму \"Не турбувати\"</string>
      <string name="dndm_auto_time_turn_on">Початок</string>
@@ -2821,7 +2818,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="lift_to_wake_title">Активація в вертикальному положенні</string>
      <string name="line_breaking_summary">Виправити порушення пунктів абзацу</string>
      <string name="line_breaking_title">Оптимізація тексту</string>
-     <string name="link_speed">%1$d Мбіт/с</string>
      <string name="link_speed_label">"Швидкість: "</string>
      <string name="list_bg_header_text">"Якщо Ви обмежите фонове з'єднання, нові програми не зможуть підключитися до інтернету у фоновому режимі після їх інсталяції"</string>
      <string name="list_empty_text">Порожньо</string>
@@ -3233,7 +3229,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="memory_title">Вільно: %1$s | Всього: %2$s</string>
      <string name="memory_usage">"Використання пам\'яті"</string>
      <string name="memory_usage_apps">"Використання пам\'яті програмами"</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="memory_use_summary">"За останні 3 години використано %1$s пам\'яті"</string>
      <string name="menu_cancel">Скасувати</string>
      <string name="menu_check">Перевірка</string>
@@ -3600,7 +3595,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="nfc_more_title">Ще</string>
      <string name="nfc_p2p_mode">Режим Р2Р</string>
      <string name="nfc_p2p_mode_summary">Надіслати або отримати зміст програми</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="nfc_payment_default">Основний спосіб оплати</string>
      <string name="nfc_payment_default_not_set">Не вибрано</string>
      <string name="nfc_payment_favor_default">Завжди</string>
@@ -3655,7 +3649,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="night_light_tip">Зміни набудуть чинності, якщо увімкнено нічний режим</string>
      <string name="night_mode_auto">Автоматичне переключення</string>
      <string name="night_mode_no">Світла</string>
-     <string name="night_mode_summary">%s</string>
      <string name="night_mode_title">Тема</string>
      <string name="night_mode_yes">Темна</string>
      <string name="no">Немає</string>
@@ -3719,7 +3712,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="notification_content_block_title">"Увімкнути сповіщення"</string>
      <string name="notification_exit_power_save_mode">Енергозбереження вимкнено</string>
      <string name="notification_exit_power_save_mode_subtitle">Батарея заряджена на 60%</string>
-     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_importance_blocked">Не показувати сповіщення цієї програми</string>
      <string name="notification_importance_default">Не показувати спливаючі та повноекранні сповіщення</string>
      <string name="notification_importance_default_title">"Високий"</string>
@@ -3805,8 +3797,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="notifications_sensitive">Конфіденційні дані приховані</string>
      <string name="notifications_silenced">Сповіщення вимкнено</string>
      <string name="notifications_summary_divider">" /" </string>
-     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-     <string name="notifications_two_items">%1$s / %2$s</string>
      <string name="notify_connect">Підказка CMCC Wi-Fi</string>
      <string name="notify_connect_summary">Показувати підказку про доступ до CMCC Wi-Fi</string>
      <string name="now">Перезавантажитися</string>
@@ -3883,7 +3873,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="overlay_display_devices_title">Імітація додаткових екранів</string>
      <string name="overlay_settings">Накладання поверх інших вікон</string>
      <string name="owner_info_settings_edit_text_hint">Введіть текст для відображення на екрані блокування</string>
-     <string name="owner_info_settings_status">%1$d із %2$d</string>
      <string name="owner_info_settings_summary">Немає</string>
      <string name="owner_info_settings_title">Відомості про власника</string>
      <string name="owner_space">Перший простір</string>
@@ -4172,7 +4161,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="phone_info_label">Інформація про пристрій</string>
      <string name="phone_language">Мова</string>
      <string name="phone_language_summary" />
-     <string name="physical_device_title">%1$s - %2$s</string>
      <string name="physical_keyboard_title">Фізична клавіатура</string>
      <string name="pick_up_gesture_wakeup_title">Вмикати екран, коли ви берете пристрій</string>
      <string name="pico_installed">Встановлено</string>
@@ -4208,15 +4196,10 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="power_cell">Мобільна мережа</string>
      <string name="power_center">Керування живленням</string>
      <string name="power_charge_remaining">До повного заряду: %1$s</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">%1$s - %2$s до повного заряду</string>
      <string name="power_charging_duration_ac">%1$s - %2$s  до повного заряду (від мережі)</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
      <string name="power_charging_duration_usb">%1$s - %2$s до повного заряду (від USB)</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s до повного заряду (бездротова)</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_checker">Моніторинг живлення</string>
      <string name="power_discharge_remaining">Батарея розрядиться через %1$s</string>
      <string name="power_discharging_duration">%1$s – залишилося близько %2$s</string>
@@ -4429,8 +4412,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="private_sms_recording_intro_header">Намалюйте графічний ключ</string>
      <string name="private_sms_reset_by_account">Увійдіть в Mi акаунт для оновлення пароля</string>
      <string name="process_dex2oat_label">Оптимізація програм</string>
-     <string name="process_format">%1$s (%2$d)</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="process_mediaserver_label">Сервер медіа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s використовується</string>
      <string name="process_service_in_use_description">Служба %1$s використовується</string>
@@ -4480,14 +4461,11 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="proxy_error_invalid_exclusion_list">Список виключень відформатований неправильно. Перелічте домени, що виключаються через кому</string>
      <string name="proxy_error_invalid_host">"Введене недійсне ім\'я хосту"</string>
      <string name="proxy_error_invalid_port">Зазначений порт недійсний</string>
-     <string name="proxy_exclusionlist_hint">example.com</string>
      <string name="proxy_exclusionlist_label">Виключення</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
      <string name="proxy_hostname_label">IP</string>
      <string name="proxy_port_label">Порт</string>
      <string name="proxy_settings_label">Налаштування проксі</string>
      <string name="proxy_settings_title">Налаштування проксі</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="proxy_url_title">"PAC URL: "</string>
      <string name="proxy_warning_limited_support">Проксі сервер HTTP використовується браузером, але недоступний для інших програм</string>
      <string name="qtifeedback_settings_subtitle">"Зворотній зв\'язок Qualcomm Technologies"</string>
@@ -5196,7 +5174,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="security_encryption_attention_3">Необхідно встановити новий пароль екрану блокування.</string>
      <string name="security_encryption_attention_4">"Переконайтеся, що Ви запам\'ятали свій пароль екрану блокування, в іншому випадку Вам доведеться виконати загальне скидання і стерти всі дані на пристрої."</string>
      <string name="security_encryption_attention_info">Ви можете шифрувати акаунти, налаштування, програми з даними, медіа та інші файли.</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_encryption_attention_title">Попередження</string>
      <string name="security_encryption_close_dialog_info">Після відключення шифрування пристрою деякі сервіси Google можуть стати недоступними</string>
      <string name="security_encryption_close_dialog_title">Повернення до стандартного захисту</string>
@@ -5297,11 +5274,9 @@ UT-інтерфейс: %5$s"</string>
      <string name="selinux_status_enforcing">Із запитом</string>
      <string name="selinux_status_permissive">Дозволено</string>
      <string name="service_background_processes">Вільно: %1$s</string>
-     <string name="service_client_name">%1$s</string>
      <string name="service_foreground_processes">Зайняте: %1$s</string>
      <string name="service_manage">Налаштування</string>
      <string name="service_manage_description">%1$s у даний момент використовується. Натисніть \"Налаштування\" для керування</string>
-     <string name="service_process_name">%1$s</string>
      <string name="service_restarting">Перезапуск</string>
      <string name="service_started_by_app">Запущено програмою</string>
      <string name="service_stop">Зупинити</string>
@@ -5508,7 +5483,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="sim_reenter_new">Введіть новий PIN-повторно</string>
      <string name="sim_select_card">Оберіть SIM-карту</string>
      <string name="sim_selection_required_pref">Оберіть SIM-карту</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_settings_title">SIM-карти</string>
      <string name="sim_setup_wizard_title">SIM-карти</string>
      <string name="sim_signal_strength">%1$d дБмВт | asu: %2$d</string>
@@ -5524,7 +5498,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="size_kilo_byte">кБ</string>
      <string name="size_mega_byte">МБ</string>
      <string name="size_peta_byte">ПБ</string>
-     <string name="size_suffix">%1$s %2$s</string>
      <string name="size_tera_byte">ТБ</string>
      <string name="skip_anyway_button_label">Все одно пропустити</string>
      <string name="skip_label">Далі</string>
@@ -5629,7 +5602,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="status_bar_filter_item_description">Для налаштування сповіщень перейдіть в \"Налаштування> Сповіщення> Керування сповіщеннями\".</string>
      <string name="status_bar_filter_item_preview_image">Перегляди</string>
      <string name="status_bar_key_position_custom">Положення перемикачів</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_bar_screen_button_desc">Жести приховування екранних клавіш</string>
      <string name="status_bar_screen_button_force_immersive_desc">Проведіть згори донизу екрану, щоб показати екранні клавіші</string>
      <string name="status_bar_screen_button_key">Екранні клавіші</string>
@@ -5647,7 +5619,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="status_bar_settings_all_app_display_loading">Завантаження…</string>
      <string name="status_bar_settings_app_notification_preferences">Налаштування програми</string>
      <string name="status_bar_settings_basic_settings">Загальні</string>
-     <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
      <string name="status_bar_settings_custom_carrier">"Змінити ім\'я оператора"</string>
      <string name="status_bar_settings_custom_notification">Керування сповіщеннями</string>
      <string name="status_bar_settings_custom_wifi_name">"Змінити ім\'я Wi-Fi"</string>
@@ -5916,7 +5887,6 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="summary_err_backup_no_network">Неможливо підключитися до інтернету</string>
      <string name="summary_err_restore_encrypting">Неможливо відновити. Переконайтеся, що цей бекап був створити через Mi акаунт.</string>
      <string name="summary_err_restore_no_network">Неможливо підключитися до інтернету</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
      <string name="super_resolution_access_title">Доступні програми</string>
      <string name="super_resolution_desc">Зробіть зображення чіткими з використанням алгоритму AI</string>
@@ -5977,7 +5947,6 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="sync_gmail">Gmail</string>
      <string name="sync_in_progress">Синхронізація…</string>
      <string name="sync_is_failing">Проблеми із синхронізацією. Незабаром все запрацює</string>
-     <string name="sync_item_title">%s</string>
      <string name="sync_menu_sync_cancel">Скасувати синхронізацію</string>
      <string name="sync_menu_sync_now">Синхронізувати</string>
      <string name="sync_now">Синхронізувати</string>
@@ -7502,7 +7471,6 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="zen_mode_rule_name_warning">Правило з такою назвою вже існує</string>
      <string name="zen_mode_rule_not_found_text">Правило не знайдено</string>
      <string name="zen_mode_rule_rename_button">"Перейменувати"</string>
-     <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
      <string name="zen_mode_rule_summary_enabled_combination">Увімк./%1$s</string>
      <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>

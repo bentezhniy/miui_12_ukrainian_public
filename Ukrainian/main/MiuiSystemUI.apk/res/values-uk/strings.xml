@@ -163,7 +163,6 @@
      <string name="settings_toggle_position_reset">Скидання перемикачів</string>
      <string name="share">Надіслати</string>
      <string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
-     <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Немає нещодавніх програм</string>
      <string name="status_bar_notification_inspect_item_title">Про програму</string>
      <string name="status_bar_recent_guide_all">Потягніть вгору для закриття\n вниз для блокування</string>
@@ -329,7 +328,6 @@
      <string name="status_bar_safepay_scanning">Виявлення платіжного середовища…</string>
      <string name="status_bar_safepay_unknown">Безпека платежу невідома</string>
      <string name="weather_description">%1$s | %2$s</string>
-     <string name="weather_description_no_aqi">%1$s</string>
      <string name="weather_publish_time">Оновлено: %1$s</string>
 	 <string name="accessibility_wifi_off">Wi-Fi вимкнено</string>
      <string name="available_via_passpoint">Доступно за %1$s</string>
@@ -422,7 +420,6 @@
      <string name="nav_guide_message">Ви можете налаштувати жести для приховування та відображення екранних клавіш</string>
      <string name="nav_guide_ok">Налаштувати</string>
      <string name="nav_guide_title">Приховування екранних клавіш</string>
-	 <string name="list_delimeter">", "</string>
 	 <string name="long_screenshot_top_msg_manual">Обріжте скріншот та підтвердіть</string>
 	 <string name="accessibility_action_divider_bottom_full">Нижній на весь екран</string>
      <string name="accessibility_action_divider_left_30">Лівий на 30%</string>
@@ -582,20 +579,14 @@
      <string name="picture_color_mode_desc">Використати sRGB</string>
      <string name="pointer_location">Розташування курсору</string>
      <string name="pointer_location_summary">Показувати на екрані жести й натискання</string>
-     <string name="power_charging">%1$s – %2$s</string>
      <string name="power_charging_duration">%1$s – %2$s до повної зарядки</string>
      <string name="power_charging_duration_ac">%1$s – %2$s до повної зарядки (від мережі)</string>
-     <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-     <string name="power_charging_duration_short">%1$s – %2$s</string>
      <string name="power_charging_duration_usb">%1$s – %2$s до повної зарядки (через USB)</string>
-     <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
      <string name="power_charging_duration_wireless">%1$s – %2$s до повної зарядки (бездротова)</string>
-     <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
      <string name="power_discharging_duration">%1$s – залишилося близько %2$s</string>
      <string name="power_discharging_duration_short">%1$s, залишилося: %2$s</string>
      <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
      <string name="power_remaining_duration_only_short">Залишилося: %1$s</string>
-     <string name="process_kernel_label">ОС Android</string>
      <string name="remaining_length_format">Залишилося %1$s</string>
      <string name="running_process_item_user_label">Користувач: %1$s</string>
      <string name="runningservices_settings_summary">Перегляд та керування запущеними службами</string>

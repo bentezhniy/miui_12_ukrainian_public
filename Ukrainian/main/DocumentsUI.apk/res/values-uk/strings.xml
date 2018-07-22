@@ -72,7 +72,6 @@
      <string name="button_dismiss">Заборонити</string>
      <string name="button_move">Перемістити</string>
      <string name="button_retry">Повторити</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="clipboard_files_cannot_paste">Неможливо вставити обрані файли</string>
      <string name="close">Приховати</string>
      <string name="copy_converted_warning_content">Ці файли конвертовано у інший формат: %1$s</string>
@@ -98,7 +97,6 @@
      <string name="open_external_dialog_request_primary_volume">Дозволити <b>^1</b> доступ до теки <i>^2</i>?</string>
      <string name="open_external_dialog_root_request">Дозволити <b>^1</b> доступ до Ваших даних, а також фото та відео у <i>^2</i>?</string>
      <string name="rename_error">Неможливо перейменувати</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="too_many_in_select_all">Можна обрати не більше 100 елементів</string>
      <string name="too_many_selected">Ви можете обрати не більше 1000 елементів за один раз</string>
      <string name="trusted_quick_viewer_package" />

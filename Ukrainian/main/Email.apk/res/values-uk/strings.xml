@@ -20,7 +20,6 @@
      <string name="abc_shareactionprovider_share_with_application">Надіслати за допомогою %s</string>
      <string name="accessibility_guide_first">Оберіть автоматичне налаштування 139 Mailbox у вкладці \"Сервіси\"</string>
      <string name="accessibility_guide_second">Потім натисніть на перемикач, розташований на верхньому правому куті та оберіть \"Підтвердити\".</string>
-     <string name="account_cache_provider">Сховище кешу акаунту</string>
      <string name="account_duplicate_dlg_message_fmt">Це ім\’я користувача вже використовується в акаунті \"%s\"</string>
      <string name="account_duplicate_dlg_title">Копіювати акаунт</string>
      <string name="account_failure">Помилка акаунту</string>
@@ -317,11 +316,9 @@
      <string name="automatic_remind_text">Нагадування</string>
      <string name="back">Назад</string>
      <string name="bank_card_detail">Інформація про кредитку карту</string>
-     <string name="bank_card_list_card_num_fmt">****%s</string>
      <string name="battery_saver">Інтелектуальна синхронізація</string>
      <string name="battery_saver_keywords">Інтелектуальна синхронізація;Економія батареї пошти;Енергозбереження e-mail;Економія батареї електронної пошти</string>
      <string name="bcc">Прихована копія</string>
-     <string name="bcc_heading">"Прихована копія: "</string>
      <string name="bill_center_setting">Налаштування даних платежів</string>
      <string name="bill_center_setting_head">Імпорт інформації з акакунту</string>
      <string name="bill_cycle_text">Платіжний цикл</string>
@@ -355,7 +352,6 @@
      <string name="cannot_move_special_mailboxes_toast"> Не можна переміщати повідомлення з папок Чернетки, Вихідні та Надіслані</string>
      <string name="cant_move_or_change_labels">Неможливо перемістити обране, тому що воно використовується в декількох акаунтах.</string>
      <string name="cc">Копія</string>
-     <string name="cc_attribution">Копія: %1$s</string>
      <string name="cc_bcc">Копія</string>
      <string name="cc_heading">"Копія: "</string>
      <string name="change_account_confirm">Видалити акаунт \"%1$s\"?</string>
@@ -450,7 +446,6 @@
      <string name="contextmenu_send_mail">Надіслати повідомлення</string>
      <string name="contextmenu_sharelink">Надіслати посилання</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Сховище діалогів</string>
      <string name="conversation_detail_hide">Приховати</string>
      <string name="conversation_detail_show">Інформація</string>
      <string name="conversation_folder_moved">Переміщене в \"%1$s\"</string>
@@ -624,7 +619,6 @@
      <string name="forward_attribution_no_headers">---------- Перенаправлене повідомлення ----------</string>
      <string name="forward_download_failed_ticker">Помилка при пересиланні вкладень</string>
      <string name="forward_download_failed_title">Не вдалося переслати одне або більше вкладень</string>
-     <string name="forward_subject_label">"Fwd: "</string>
      <string name="free_period_text">Безвідсоткоий період</string>
      <string name="from"> Від</string>
      <string name="from_heading">" Від: "</string>
@@ -1116,7 +1110,6 @@
      <string name="reply_add_bodycontent">Додати текст швидкої відповіді до повідомлення?</string>
      <string name="reply_all">Відповісти всім</string>
      <string name="reply_attribution" formatted="false">%s | Від: %s | Повідомлення:</string>
-     <string name="reply_subject_label">"Re: "</string>
      <string name="replyto_heading">"Відповісти: "</string>
      <string name="report">Звіт</string>
      <string name="report_phishing">Повідомити про шахрайство</string>
@@ -1215,7 +1208,6 @@
      <string name="silent_ringtone">Без звуку</string>
      <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sms_tip">Помилка авторизації. Переконайтеся, що сторонні програми не перехоплюють SMS.</string>
      <string name="smtp_password_error">Неправильний пароль сервера вихідних повідомлень</string>
      <string name="sort_attachment">Сортування</string>

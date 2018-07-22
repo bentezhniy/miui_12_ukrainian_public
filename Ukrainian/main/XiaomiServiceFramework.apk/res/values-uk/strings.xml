@@ -80,7 +80,6 @@
      <string name="activate_popup_title_new_sim_card">Повторна активація \"%s\"</string>
      <string name="activate_popup_title_register_account">Реєстрація обл.запису</string>
      <string name="activate_popup_title_upload_diagnosis_info">Неможливо активувати SIM-карту</string>
-     <string name="activate_sms_postfix">[Ця SMS використовується для активації Вашого пристрою]</string>
      <string name="activate_status_desc_acquire_phone_number">Отримання номера телефону з сервера</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Сталася помилка сервера при отриманні номера</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Неможливо отримати номер телефону</string>

@@ -13,7 +13,6 @@
     <string name="quota_info">Mi Drive: вільно %1$s з %2$s</string>
     <string name="vip_info">VIP: %1$s</string>
     <string name="upload_file_to_midrive">Немає файлів</string>
-    <string name="download_current_progress">%1$d%%</string>
     <string name="slashes">/</string>
     <string name="consumption_alert">Дозволити доступ до інтернету?</string>
     <string name="consumption_message">Mi Drive робить запит для доступу до інтернету для нормальної работи</string>
@@ -126,7 +125,6 @@
     <string name="gigabyteShort">ГБ</string>
     <string name="terabyteShort">ТБ</string>
     <string name="petabyteShort">ПБ</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tools">Інструменти</string>
     <string name="files">Файли</string>
     <string name="category_midrive">Mi Drive</string>
