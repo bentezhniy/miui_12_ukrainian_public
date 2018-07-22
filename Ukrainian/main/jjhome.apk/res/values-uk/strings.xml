@@ -204,7 +204,6 @@
     <string name="uninstall_app_hint">Видалити цю програму?</string>
     <string name="uninstall_contact_hint">Видалити цей контакт з робочого столу?</string>
     <string name="enter_edit_mode">Редагувати екран</string>
-    <string name="clock_year_format">d MMMM</string>
     <string name="about_us">Про програму</string>
     <string name="sunday">Неділя</string>
     <string name="monday">Понеділок</string>
