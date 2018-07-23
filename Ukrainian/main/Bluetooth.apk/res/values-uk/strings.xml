@@ -235,5 +235,10 @@
 	 <string name="a2dp_sink_mbs_label">Bluetooth аудіо</string>
      <string name="opp_notification_group">Передача через Bluetooth</string>
      <string name="pbap_notification_group">Передача контакту через Bluetooth</string>
-	 
+	 <string name="bt_enable_title" />
+     <string name="download_line4" />
+     <string name="pairing_ui_package">com.android.settings</string>
+     <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
+     <string name="process" />
+     <string name="sharedUserId" />
 </resources>

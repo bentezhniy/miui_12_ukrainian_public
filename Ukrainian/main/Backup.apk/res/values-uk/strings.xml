@@ -638,4 +638,9 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s 
 Розмір оновлення: %2$s"</string>
      <string name="xiaomi_update_dialog_title">Доступна нова версія</string>
+	 <string name="digit_percent">%</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_kilobytes_unit">%1$s кБ</string>
+     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
 </resources>
