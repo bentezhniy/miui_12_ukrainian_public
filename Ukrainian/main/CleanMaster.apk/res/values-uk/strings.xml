@@ -547,7 +547,7 @@
      <string name="there_is_no">Очищення не потрібне</string>
      <string name="tips_low_storage_dialog_cancel">Скасувати</string>
      <string name="tips_low_storage_dialog_msg_qq">Розмір кешу QQ досяг 3 ГБ. Через це Ваш пристрій може працювати повільніше. Очистити кеш QQ?</string>
-     <string name="tips_low_storage_dialog_msg_storage">""Зайнято 90% пам'яті пристрою. Рекомендується видалити програми, що не використовуються"</string>
+     <string name="tips_low_storage_dialog_msg_storage">"Зайнято 90% пам'яті пристрою. Рекомендується видалити програми, що не використовуються"</string>
      <string name="tips_low_storage_dialog_msg_wechat">Розмір кешу WeChat досяг 3 ГБ. Через це Ваш пристрій може працювати повільніше. Очистити кеш WeChat?</string>
      <string name="tips_low_storage_dialog_ok">ОК</string>
      <string name="tips_low_storage_dialog_ok_storage">Очищення</string>
