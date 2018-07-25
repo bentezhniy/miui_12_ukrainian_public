@@ -47,4 +47,5 @@
      <string name="theme_apply_success">Шпалери встановлено</string>
      <string name="theme_applying">Встановлення…</string>
      <string name="wlan_download">Тільки через Wi-Fi</string>
+	 <string name="auto_interval">Автоматично</string>
 </resources>
