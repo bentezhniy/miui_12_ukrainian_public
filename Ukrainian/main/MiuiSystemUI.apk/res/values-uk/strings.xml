@@ -1390,7 +1390,6 @@
      <string name="miui_guide_dialog_message">Звуки медіа (музика, відео і т.д.) будуть відтворюватися в режимі \"Без звуку\". Ви можете змінити це в Налаштуваннях</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковано Bluetooth-пристроєм</string>
      <string name="miui_ringer_count_down">Зворотній відлік</string>
-     <string name="miui_ringer_count_down_time">Зворотній відлік: %s</string>
      <string name="miui_ringer_standard">Без звуку</string>
      <string name="miui_ringer_standard_description">Вимкнення звуку для вхідних викликів та сповіщень</string>
      <string name="miui_ringer_total">Не турбувати</string>

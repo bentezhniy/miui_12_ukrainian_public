@@ -174,7 +174,6 @@
      <string name="extra_ad_title">Рекомендації</string>
      <string name="extract_file">Розпакування…</string>
      <string name="fastest_speed">Максимальна швидкість</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
      <string name="file_exist_hint">Цей файл уже додано до черги для завантаження</string>
      <string name="file_picker">Виберіть теку</string>
      <string name="file_size">Розмір:</string>

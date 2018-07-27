@@ -150,7 +150,6 @@
      <string name="notealert_enter">Подивитися</string>
      <string name="notealert_ok">Готово</string>
      <string name="notelist_menu_new">Нова нотатка</string>
-     <string name="notelist_string_info">…</string>
      <string name="notify_alarm_title">Нагадування</string>
      <string name="permdesc_accessNote">Шкідливі програми можуть використовувати цей дозвіл для доступу до Вашої особистої інформації</string>
      <string name="permlab_accessNote">Доступ до нотаток</string>
