@@ -245,7 +245,7 @@
      <string name="min_error">%1$s повинен бути довшим</string>
      <string name="mobile_data_note_dialog_cancel">Очікувати Wi-Fi</string>
      <string name="mobile_data_note_dialog_confirm">Завантажити</string>
-     <string name="mobile_data_note_dialog_content">При використанні мобільного інтернету оператором може стягуватися додаткова сплата</string>
+     <string name="mobile_data_note_dialog_content">Схоже, ви підключені до платної мережі. За завантаження журналів може стягуватися додаткова плата</string>
      <string name="mobile_data_note_dialog_content_with_file_size">При завантажені журналу помилок буде використано %s МБ мобільного трафіку</string>
      <string name="mobile_data_note_dialog_title">Попередження</string>
      <string name="modem_tool_log">Зняти звіт модему</string>

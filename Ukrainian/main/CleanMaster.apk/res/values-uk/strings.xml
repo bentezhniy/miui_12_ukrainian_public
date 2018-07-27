@@ -138,7 +138,7 @@
      <string name="deep_clean_data_path_clean_title">"Пам\'ять очищена"</string>
      <string name="deep_clean_normal_clean_progress_desc">Очищено файлів: %1$s</string>
      <string name="deep_clean_uninstall_completed_tips">Видалення завершено</string>
-     <string name="deepclean_1_k_clean">Очищено</string>
+     <string name="deepclean_1_k_clean">"Очистити пам'ять"</string>
      <string name="deepclean_apk_content">Видалення установчих APK</string>
      <string name="deepclean_apk_summary_empty">Очищення не потрібне</string>
      <string name="deepclean_apk_version_error">невідома</string>
@@ -293,7 +293,7 @@
      <string name="hints_storage_free">Вільно</string>
      <string name="hints_storage_free_size">Всього: %1$s | Вільно: %2$s</string>
      <string name="hints_storage_news">Новини безпеки</string>
-     <string name="hints_title_garbage">сміття</string>
+     <string name="hints_title_garbage">Сміття</string>
      <string name="hints_video_camera">Зняті відео</string>
      <string name="hints_video_download">Завантажені відео</string>
      <string name="hot">Популярні</string>
