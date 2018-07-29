@@ -547,7 +547,7 @@
      <string name="delete_in_album">Файли буде також видалено:</string>
      <string name="delete_in_home_page">Файли буде також видалено:</string>
      <string name="delete_in_process">Видалення</string>
-     <string name="delete_origin">Видалення фото із оригінального альбому</string>
+     <string name="delete_origin">Видалення фото з оригінального альбому</string>
      <string name="delete_other_shared_images">Ви не можете видалити фото, надіслані від інших користувачів</string>
      <string name="delete_owner_and_other_shared_images_format">Видалено: %1$d | %2$d підтримується</string>
      <string name="delete_smb_file_fail">Помилка видалення файлу smb</string>

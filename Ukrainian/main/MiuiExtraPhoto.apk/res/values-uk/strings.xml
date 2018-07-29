@@ -28,4 +28,20 @@
     <string name="app_error">Закриття програми…</string>
     <string name="cancel">Скасувати</string>
     <string name="save">Зберегти</string>
+	<string name="refocus_title">Розмиття</string>
+    <string name="refocus_type_static">Розмиття</string>
+    <string name="refocus_type_video">Бліки</string>
+    <string name="refocus_type_relighting">Освітлення</string>
+    <string name="refocus_type_relighting_no_face">Обличчя не визначено</string>
+    <string name="refocus_type_relighting_small_face">Регулювання освітлення доступне для фото, де обличчя займають більше місця, ніж тут</string>
+    <string name="refocus_saving">Збереження…</string>
+    <string name="refocus_save_to_photo">Зберегти фото</string>
+    <string name="refocus_save_to_video">Зберегти як відео</string>
+    <string name="refocus_save_cancel">Скасувати</string>
+    <string name="refocus_save_title">Оберіть формат</string>
+    <string name="refocus_photo_not_support">Неможливо застосувати розмиття для фото</string>
+    <string name="refocus_relighting_toast">Переміщуйте курсор для регулювання кута освітлення</string>
+    <string name="refocus_discard_confirm_message">Зберегти зміни?</string>
+    <string name="refocus_discard_positive_btn">ОК</string>
+    <string name="refocus_discard_negative_btn">Скасувати</string>
 </resources>

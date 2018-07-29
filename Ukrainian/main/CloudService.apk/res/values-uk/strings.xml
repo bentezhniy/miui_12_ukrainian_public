@@ -612,7 +612,7 @@
      <string name="sync_dspt_entrance_provision_confirm_content">Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення та інші дані між пристроями</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Скасувати</string>
      <string name="sync_dspt_entrance_provision_confirm_title">Пропустити авторизацію Mi Cloud?</string>
-     <string name="sync_dspt_entrance_provision_network">Для роботи програми необхідне підключення до інтернету</string>
+     <string name="sync_dspt_entrance_provision_network">"Для роботи програми необхідне підключення до інтернету. "</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Пропустити</u></string>
      <string name="sync_dspt_provision">"Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення й інші дані між пристроями. Також Ви можете переглядати дані з комп\’ютера через сайт "</string>
      <string name="sync_dspt_provision3">".
