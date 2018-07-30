@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <dimen name="toggle_text_size">10.0sp</dimen>
-	<dimen name="recent_task_item_text_size">10.0dip</dimen>
-	<dimen name="expanded_status_bar_toggle_min_width">62.0dip</dimen>
+    <dimen name="battery_charging_progress_view_msg_size">10.0sp</dimen>
+    <dimen name="battery_charging_progress_view_text_size">12.0sp</dimen>
     <dimen name="expanded_status_bar_toggle_max_width">61.0dip</dimen>
+    <dimen name="expanded_status_bar_toggle_min_width">62.0dip</dimen>
+    <dimen name="miui_keyguard_view_eca_text_size">11.0sp</dimen>
+    <dimen name="miui_volume_ringer_text_size">9.0sp</dimen>
+    <dimen name="recent_task_item_text_size">10.0dip</dimen>
+    <dimen name="toggle_text_size">10.0sp</dimen>
 </resources>

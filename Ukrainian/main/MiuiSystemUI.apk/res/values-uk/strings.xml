@@ -1123,14 +1123,14 @@
      <string name="face_unlock_be_on_the_screen">Тримайте пристрій навпроти обличчя</string>
      <string name="face_unlock_by_notification_screen_on_msg">Ви можете розблоковувати пристрій за допомогою розблокування обличчя, коли екран вмикається під час надходження сповіщень. Це може викликати швидше зниження заряду батареї</string>
      <string name="face_unlock_by_notification_screen_on_title">Розпізнавати обличчя під час увімкнення екрану</string>
-     <string name="face_unlock_check_failed">Не вдалося вас розпізнати</string>
+     <string name="face_unlock_check_failed">Не вдалося Вас розпізнати</string>
      <string name="face_unlock_close_screen">Приблизьте пристрій до обличчя</string>
      <string name="face_unlock_down">Підніміть голову</string>
      <string name="face_unlock_identify_error">Сталася помилка</string>
-     <string name="face_unlock_not_found">Не вдалося вас розпізнати</string>
+     <string name="face_unlock_not_found">Не вдалося Вас розпізнати</string>
      <string name="face_unlock_offset_bottom">Трішки опустіть телефон</string>
-     <string name="face_unlock_offset_left">Перемістіться вправо</string>
-     <string name="face_unlock_offset_right">Перемістіться вліво</string>
+     <string name="face_unlock_offset_left">Перемістіться праворуч</string>
+     <string name="face_unlock_offset_right">Перемістіться ліворуч</string>
      <string name="face_unlock_offset_top">Трішки підніміть телефон</string>
      <string name="face_unlock_open_eye">Відкрите очі трішки ширше</string>
      <string name="face_unlock_passwork">Використовувати пароль</string>
@@ -1551,7 +1551,7 @@
      <string name="quick_settings_drivemode_label">Режим \"За кермом\"</string>
      <string name="quick_settings_dual_location_label">Подвійний GPS</string>
      <string name="quick_settings_edit_label">Редагувати</string>
-     <string name="quick_settings_flashlight_label">Спалах</string>
+     <string name="quick_settings_flashlight_label">Ліхтарик</string>
      <string name="quick_settings_hotspot_label">Точка доступу</string>
      <string name="quick_settings_ime_label">Спосіб введення</string>
      <string name="quick_settings_inversion_label">Інверсія кольорів</string>

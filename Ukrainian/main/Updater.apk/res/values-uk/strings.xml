@@ -409,4 +409,57 @@ http://miui.su/mi-pc-suite"</string>
 	 <string name="userdata_alert_content">Дозволити перегляд відео через мобільний інтернет?\nОператор може стягувати за це додаткову плату</string>
      <string name="userdata_alert_ok">ОК</string>
      <string name="userdata_alert_title">Попередження</string>
+	 <string name="battery_islow">&lt;font color=#f37981&gt;Підключіть зарядний пристрій&lt;/font&gt;</string>
+     <string name="battery_islow_desc">Рівень заряду акумулятора занадто низький. Щоб безпечно інсталювати zip файл, підключіть зарядний пристрій і спробуйте пізніше!</string>
+     <string name="btn_changelog">Список змін</string>
+     <string name="btn_download">Завантажити (%1$s)</string>
+     <string name="btn_error">Сталася помилка, повторити спробу?</string>
+     <string name="btn_install">Інсталювати</string>
+     <string name="btn_no">Скасувати</string>
+     <string name="btn_ok">ОК</string>
+     <string name="btn_pause">Пауза</string>
+     <string name="btn_share">Поділитися</string>
+     <string name="btn_stop">Зупинити</string>
+     <string name="btn_yes">Так</string>
+     <string name="dialog_3g_desc">Майте на увазі, що використання мобільних даних для завантаження оновлення може витратити значну частину трафіку у Вашому тарифному плані</string>
+     <string name="dialog_3g_title">Увага!</string>
+     <string name="dialog_btn_3g">Продовжити</string>
+     <string name="dialog_btn_wifi">Перемкнутися на Wi-Fi</string>
+     <string name="dialog_stop_desc">Ви можете призупинити або припинити завантаження, зробіть свій вибір зараз</string>
+     <string name="dialog_stop_title">Зупинити завантаження?</string>
+     <string name="download_done">Успішно завантажено!</string>
+     <string name="download_fail">Сталася помилка під час завантаження!</string>
+     <string name="download_fail_desc">MD5 сума не збігається…</string>
+     <string name="downloading">Завантажується:</string>
+     <string name="downloading_desc">Прогрес завантаження перевіряйте у панелі сповіщень</string>
+     <string name="install_desc">Пристрій перезавантажиться до Recovery та інсталює обраний файл:&lt;b&gt; %1$s&lt;/b&gt;"
+Ваші дані збережуться"</string>
+     <string name="install_title">Ви дійсно бажаєте продовжити?</string>
+     <string name="message_checkbox">Приховувати у подальшому повідомлення від команди Xiaomi.eu</string>
+     <string name="message_title">Попередження</string>
+     <string name="new_version">Доступна нова версія!</string>
+     <string name="no_info">Інформація недоступна</string>
+     <string name="no_network">Відсутній доступ до мережі</string>
+     <string name="no_update">Оновлень поки що немає</string>
+     <string name="no_xioamieu">"Вибачте, оновлення недоступні!
+Ви використовуєте версію MIUI, створену не командою Xiaomi.eu"</string>
+     <string name="notif_cancel">Скасувати</string>
+     <string name="notif_install">Інсталювати</string>
+     <string name="notif_new_summary">Переглянути деталі</string>
+     <string name="notif_new_title">Доступна нова версія!</string>
+     <string name="notifications_switch">Показувати сповіщення</string>
+     <string name="permdesc_cache_filesystem">Дозволяє програмі записувати файли до /cache</string>
+     <string name="permdesc_reboot">Дозволяє програмі перезавантажувати пристрій</string>
+     <string name="permlab_cache_filesystem">Доступ до кешу</string>
+     <string name="permlab_reboot">Доступ до перезавантаження</string>
+     <string name="pick_not_found">Не знайдено відповідного файлового менеджеру</string>
+     <string name="pick_title">Виберіть використання:</string>
+     <string name="recovery_desc">Пристрій перезавантажиться до Recovery. Якщо Ви не бажаєте інсталювати оновлення, процес ще можна скасувати. Продовжити?</string>
+     <string name="server_error">Сервер не відповідає, програма може працювати неправильно!</string>
+     <string name="share_title">Поділитися через</string>
+     <string name="stable">стабільна</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="version">Встановлено:</string>
+     <string name="weekly">щотижнева</string>
+     <string name="wifi_recommended">"Необхідне Wi-Fi з'єднання для безпечного завантаження!"</string>
 </resources>

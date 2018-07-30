@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="tab_text_size">12.0sp</dimen>
-	<dimen name="alert_screen_textsize">11.0sp</dimen>
+    <dimen name="tab_max_text_size">12.0sp</dimen>
+    <dimen name="tab_text_size">11.0sp</dimen>
+    <dimen name="alert_screen_textsize">11.0sp</dimen>
+    <dimen name="tab_text_view_max_width">80.0dip</dimen>
 </resources>

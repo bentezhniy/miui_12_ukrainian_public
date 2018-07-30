@@ -2,4 +2,7 @@
 <resources>
     <dimen name="convert_unit_display">16.0sp</dimen>
     <dimen name="convert_value_size">22.0sp</dimen>
+	<dimen name="tab_text_size">11.0sp</dimen>
+    <dimen name="title_bar_text_size">12.0sp</dimen>
+    <dimen name="actionbar_tab_text_size">14.0sp</dimen>
 </resources>
