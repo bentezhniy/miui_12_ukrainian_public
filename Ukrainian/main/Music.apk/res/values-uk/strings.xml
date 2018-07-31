@@ -205,7 +205,7 @@
      <string name="create_playlist">Створити плейлист</string>
      <string name="create_playlist_failure">Не вдаєтся створити плейлист</string>
      <string name="current_album">Поточний альбом</string>
-     <string name="current_lyric">Поточний текст пісні</string>
+     <string name="current_lyric">Поточний текст</string>
      <string name="current_services">Поточні сервіси</string>
      <string name="current_version">Поточна версія</string>
      <string name="data_usage_warning">Мобільний трафік</string>
@@ -323,7 +323,7 @@
      <string name="download_completed">Завантаження завершене</string>
      <string name="download_confirm_button_text">Встановити</string>
      <string name="download_confirm_text">Програма \"Музика\" буде завантажена і встановлена %s</string>
-     <string name="download_connect_wifi_dialog_message">Необхідне підключення до Wi-Fi для завантаження цієї пісні. Підключитися зараз?</string>
+     <string name="download_connect_wifi_dialog_message">Необхідне підключення до Wi-Fi для завантаження цього треку. Підключитися зараз?</string>
      <string name="download_connect_wifi_dialog_title">Підключіться до Wi-Fi</string>
      <string name="download_done_btn">Завантажено</string>
      <string name="download_error">Помилка</string>
@@ -636,7 +636,7 @@
      <string name="log_out">Вихід</string>
      <string name="login_first">Необхідно авторизуватися в Mi акаунті</string>
      <string name="long_press_to_select_lyric">Натисніть та утримуйте для вибору файла з текстом пісні</string>
-     <string name="lrc_search_failed">Текст пісні не знайдений</string>
+     <string name="lrc_search_failed">Текст пісні не знайдено</string>
      <string name="lrc_searching">Пошук тексту пісні…</string>
      <string name="lyric">Текст пісні</string>
      <string name="lyric_is_empty">Текст пісні недоступний</string>
@@ -662,7 +662,7 @@
      <string name="metered_beyond_alert">Перевищено межу трафіку</string>
      <string name="metered_disallow">Скасувати</string>
      <string name="metered_play_and_download_summary">Не показувати попередження про трафік під час відтворення та завантаження пісень за допомогою мобільного інтернету.</string>
-     <string name="metered_play_and_download_title">Відтворювати та завантажувати пісні за допомогою мобільного інтернету</string>
+     <string name="metered_play_and_download_title">Відтворювати та завантажувати треки за допомогою мобільного інтернету</string>
      <string name="metered_play_toast">Відтворення музики онлайн</string>
      <string name="metered_play_toast_with_beyond_data">Відтворення через мобільний інтернет. Перевищено ліміт: %s.</string>
      <string name="metered_play_toast_with_data">Відтворення через мобільний інтернет. Залишилося на %s.</string>
@@ -852,7 +852,7 @@
      <string name="pick_local_song">Локальні</string>
      <string name="pick_recent_song">Нещодавні</string>
      <string name="play_all_song">Грати всі</string>
-     <string name="play_empty_playlist">Неможливо відтворити пісні. Плейлист порожній.</string>
+     <string name="play_empty_playlist">Неможливо відтворити треки. Плейлист порожній</string>
      <string name="play_mode_all_loop">Повторювати всі</string>
      <string name="play_mode_one_loop">Повторювати один</string>
      <string name="play_mode_play_all">Відтворити всі</string>
@@ -978,7 +978,7 @@
      <string name="search_instant_online_music">Онлайн</string>
      <string name="search_lyric">Пошук тексту пісні онлайн</string>
      <string name="search_menu_title">Пошук</string>
-     <string name="search_songs_count">Пісні: %d</string>
+     <string name="search_songs_count">Треки: %d</string>
      <string name="search_title">Пошук</string>
      <string name="search_title_album">Альбоми</string>
      <string name="search_title_singer">Виконавці</string>
@@ -1235,4 +1235,16 @@
 
 Натисніть \"%s\" для продовження завантаження при підключенні до Wi-Fi мережі."</string>
      <string name="wifi_required_title">Завантаження по Wi-Fi</string>
+	 <string name="browser_error">Тимчасово недоступно, будь ласка, спробуйте знову пізніше</string>
+     <string name="btn_earlier_items">Завантажити останні повідомлення</string>
+     <string name="btn_earlier_items_progress">Завантаження останніх повідомлень…</string>
+     <string name="btn_more_items">Завантажити додаткові повідомлення</string>
+     <string name="btn_more_items_progress">Завантаження додаткових повідомлень…</string>
+     <string name="err_media_handle">На жаль, нам не вдалося завантажити медіа. Будь ласка, спробуйте знову</string>
+     <string name="err_offline_on_playback">Вибачте, Ви повинні бути онлайн, щоб відтворити це медіа</string>
+     <string name="message_ws_response_error">Виникла проблема з обробкою Вашого запиту та/або відповіддю сервера</string>
+     <string name="server_connection_failed">Вибачте, Ви повинні бути онлайн, щоб скористатися цією функцією</string>
+     <string name="session_create_error">Сервер повернувся з помилкою SESSION CREATE ERROR, будь ласка, повідомте SDK розробника!</string>
+     <string name="signup_type_silent_default">тихо</string>
+     <string name="signup_type_user_default">LoginSDK користувач</string>
 </resources>

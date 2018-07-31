@@ -1817,4 +1817,8 @@
         <item>5x</item>
         <item>10x</item>
      </string-array>
+	 <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Пошук</item>
+        <item>Налаштування</item>
+     </string-array>
 </resources>

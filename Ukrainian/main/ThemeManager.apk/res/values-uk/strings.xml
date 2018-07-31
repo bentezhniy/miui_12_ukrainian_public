@@ -604,4 +604,14 @@
      <string name="xiaoai_speech_not_installed_download">Завантажити</string>
      <string name="xiaoai_speech_not_installed_message">Завантажити та встановити голосовий помічник Mi AI для продовження</string>
      <string name="xiaoai_speech_not_installed_title">Попередження</string>
+	 <string name="automatically_update_using_theme_tips">Оновити автоматично наступного разу</string>
+     <string name="component_title_video_wallpaper">Відео-шпалери</string>
+     <string name="incompatible_dialog_cancel">Не застосовувати</string>
+     <string name="present_local_themes_subtitle">Налаштуйте свій пристрій</string>
+     <string name="show_free">Показати безкоштовні %1$s</string>
+     <string name="show_incompatible">Показати несумісні %1$s</string>
+     <string name="update_immediately">Оновити</string>
+     <string name="using_theme_has_update_tips">Доступне оновлення для цієї теми</string>
+     <string name="using_theme_next_automatic_update">Автооновлення</string>
+     <string name="using_theme_next_automatic_update_summary">Оновлювати завантажені теми через Wi-Fi автоматично, навіть коли екран заблоковано</string>
 </resources>

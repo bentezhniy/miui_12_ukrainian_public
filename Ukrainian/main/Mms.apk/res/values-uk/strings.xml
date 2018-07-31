@@ -805,4 +805,14 @@ SMS (%1$d), MMS (%2$d)."</string>
      <string name="yellowpage_recommend_msg">Спробуйте \"Жовті сторінки\"</string>
      <string name="yes">ОК</string>
      <string name="yesterday">вчора</string>
+	 <string name="notification_channel_msg_description">Сповіщення про повідомлення</string>
+     <string name="notification_channel_msg_name">Повідомлення</string>
+     <string name="notification_channel_other_description">Сповіщення не про повідомлення</string>
+     <string name="notification_channel_other_name">Інші</string>
+     <string name="notification_channel_sim1_description">Сповіщення про повідомлення SIM1</string>
+     <string name="notification_channel_sim1_name">Повідомлення SIM1</string>
+     <string name="notification_channel_sim2_description">Сповіщення про повідомлення SIM2</string>
+     <string name="notification_channel_sim2_name">Повідомлення SIM2</string>
+     <string name="notification_group_name">Обмін повідомленнями</string>
+     <string name="unsubscribe">Відписатися</string>
 </resources>

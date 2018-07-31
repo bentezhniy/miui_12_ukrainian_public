@@ -2553,4 +2553,19 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="xdivert_setting">Налаштування X-Divert</string>
      <string name="xdivert_summary">Налаштування CFNRc</string>
      <string name="xdivert_title">X-Divert</string>
+	 <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Корпоративний запит на розблокування невдалий</string>
+     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
+     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
+     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
+     <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM Network2 розблоковано успішно</string>
+     <string name="PERSOSUBSTATE_RUIM_RUIM_ERROR">RUIM на розблокування невдалий</string>
+     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
+     <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
+     <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ENTRY">Введіть PUK</string>
+     <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_IN_PROGRESS">Запит на розблокування PUK…</string>
 </resources>

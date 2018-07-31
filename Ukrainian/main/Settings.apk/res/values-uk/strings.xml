@@ -7499,7 +7499,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="zen_mode_summary_combination">%1$s: %2$s</string>
      <string name="zen_mode_visual_interruptions_settings_title">Блокування візуального сповіщення</string>
      <string name="zen_mode_when">За розкладом</string>
-     <string name="zen_mode_when_every_night">Кожен вечір</string>
+     <string name="zen_mode_when_every_night">Щовечора</string>
      <string name="zen_mode_when_never">Ніколи</string>
      <string name="zen_mode_when_weeknights">Ввечері по буднях</string>
      <string name="zen_schedule_rule_enabled_toast">Налаштовано правило увімкнення режиму \"Не турбувати\" у вказаний час</string>
@@ -7509,4 +7509,11 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Впорядкувати за алфавітом</string>
      <string name="zone_list_menu_sort_by_timezone">Впорядкувати по часовому поясу</string>
+	 <string name="status_bar_settings_notification_shade_shortcut">Ярлик у рядку сповіщень</string>
+	 <string name="extended_power_menu">Розширене меню живлення</string>
+	 <string name="play_pause_description">Кнопка Відтворити/Пауза</string>
+	 <string name="status_bar_settings_notification_led_custom">Користувацький колір</string>
+     <string name="status_bar_settings_notification_sound_custom">Користувацький звук</string>
+     <string name="total_info_no_vibrator">Усі звуки вимкнено, окрім сигналу тривоги</string>
+     <string name="unmute_sound_title">Увімкнути звук</string>
 </resources>
