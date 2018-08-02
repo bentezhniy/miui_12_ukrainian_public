@@ -2191,7 +2191,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="experimental_preference">Це експериментальне налаштування</string>
      <string name="external_code_size_label">Кеш на накопичувачі</string>
      <string name="external_data_size_label">Дані на накопичувачі</string>
-     <string name="external_source_switch_title">"Дозволити установку з цього джерела"</string>
+     <string name="external_source_switch_title">"Дозволити з цього джерела"</string>
      <string name="external_source_trusted">Дозволено</string>
      <string name="external_source_untrusted">Заборонено</string>
      <string name="external_storage_turn_off">Зовнішній накопичувач відключений</string>
@@ -2617,7 +2617,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="install_master_key_and_connect">Ви можете підключитися до цієї мережі за допомогою програми \"WLAN Master Key\". Інсталювати?</string>
      <string name="install_no_market_app_summary">Дозволити інсталяцію сторонніх програм, завантажених не з Google Play</string>
      <string name="install_no_market_app_title">Невідомі джерела</string>
-     <string name="install_other_apps">Встановлення невідомих програм</string>
+     <string name="install_other_apps">Невідомі джерела</string>
      <string name="install_preinstall_app">Завантаження програм…</string>
      <string name="install_text">Встановити</string>
      <string name="install_type_instant">"Програма з миттєвим запуском"</string>

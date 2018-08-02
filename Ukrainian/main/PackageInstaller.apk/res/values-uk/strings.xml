@@ -170,7 +170,7 @@
      <string name="grant_dialog_button_deny">Заборонити</string>
      <string name="install_confirm_question_no_perms">Ця програма не вимагає спеціальних дозволів. Інсталювати її?</string>
      <string name="install_confirm_question_update">Інсталювати оновлення для цієї програми? Після оновлення вона може виконувати наступні дії:</string>
-     <string name="install_confirm_question_update_no_perms">Інсталювати оновлення цієї\ програми? Оновлення не змінить поточні дані програми. Спеціальних прав доступу не потрібно.</string>
+     <string name="install_confirm_question_update_no_perms">Інсталювати оновлення цієї програми? Оновлення не змінить поточні дані програми. Спеціальних прав доступу не потрібно.</string>
      <string name="install_confirm_question_update_system">Інсталювати оновлення для цієї програми? Після оновлення вона може виконувати наступні дії:</string>
      <string name="install_confirm_question_update_system_no_perms">Інсталювати оновлення цієї вбудованої програми? Оновлення не змінить поточні дані програми. Спеціальних прав доступу не потрібно.</string>
      <string name="lb_playback_controls_closed_captioning_disable">Вимкнення субтитрів</string>
@@ -618,4 +618,6 @@
 	 <string name="pref_ads">Реклама</string>
      <string name="pref_key_antivirus">Антивірус</string>
      <string name="pref_key_antivirus_summary">Сканувати віруси під час інсталяції програм</string>
+	 <string name="untrusted_external_source_warning">Для безпеки пристрою, інсталяція програм з невідомих джерел неможлива без Вашої згоди. Щоб надати згоду, перейдіть до налаштувань</string>
+	 <string name="external_sources_settings">Налаштування</string>
 </resources>

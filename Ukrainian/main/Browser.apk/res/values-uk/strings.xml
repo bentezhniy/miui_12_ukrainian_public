@@ -1477,7 +1477,7 @@
      <string name="pref_reading_mode_enabled_title">Режим читання</string>
      <string name="pref_reading_mode_enabled_title_summary">Необхідний Javascript</string>
      <string name="pref_save_bandwidth_mode_summary">Заборонити завантаження зображень при використанні мобільного інтернету.</string>
-     <string name="pref_save_bandwidth_mode_title">Мобільний трафік</string>
+     <string name="pref_save_bandwidth_mode_title">Економія</string>
      <string name="pref_security_accept_cookies">Дозволити cookie</string>
      <string name="pref_security_accept_cookies_summary">Дозволити сайтам зберігати й читати файли cookie</string>
      <string name="pref_security_passwords_title">Паролі</string>

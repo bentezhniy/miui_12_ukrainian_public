@@ -207,7 +207,7 @@
      <string name="more_settings">Налаштування будильника</string>
      <string name="music_button_description">Музика</string>
      <string name="never">Одноразово</string>
-     <string name="next_alarm_description">Наступний будильник:%s</string>
+     <string name="next_alarm_description">Наступний будильник: %s</string>
      <string name="next_timer_notif">Наступний таймер: %s</string>
      <string name="night_mode_summary">Тьмяний екран (для темних кімнат)</string>
      <string name="night_mode_title">Нічний режим</string>
