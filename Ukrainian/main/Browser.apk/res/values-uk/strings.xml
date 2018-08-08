@@ -2009,8 +2009,8 @@
      <string name="data_monitor">Використання даних</string>
      <string name="data_monitor_dialog_message">Схоже, що щось збиває ваші мобільні дані. Відкрийте початкову сторінку, щоб зупинити це</string>
      <string name="data_traffic_continue">Продовжити</string>
-     <string name="data_traffic_goto">Безкоштовний трафік</string>
-     <string name="data_traffic_prompt_free_data">Використання мобільного трафіку для перегляду відео збільшить використання даних. Будь ласка, отримайте безкоштовний трафік</string>
+     <string name="data_traffic_goto">Отримати</string>
+     <string name="data_traffic_prompt_free_data">Перегляд відео через мобільний трафік збільшить використання даних. Бажаєте отримайте безкоштовний трафік?</string>
      <string name="data_traffic_stop">Зупинити</string>
      <string name="enter_infoflow_guide">Вгору, щоб побачити новини</string>
      <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>

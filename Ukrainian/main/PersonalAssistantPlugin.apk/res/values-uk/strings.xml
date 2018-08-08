@@ -212,9 +212,9 @@
      <string name="empty_health_card_btn_get">Завантажити Mi Fit</string>
      <string name="empty_health_card_btn_login">Відкрити</string>
      <string name="empty_health_card_login_tip">Відкрийте Mi Fit та прив\'яжіть Mi Band</string>
-     <string name="empty_health_card_login_tip_vip">Відкрийте Mi Fit та увімкніть педометр</string>
+     <string name="empty_health_card_login_tip_vip">Відкрийте Mi Fit та увімкніть крокомір</string>
      <string name="empty_health_card_tip">Інсталюйте Mi Fit та прив\'яжіть Mi Band</string>
-     <string name="empty_health_card_tip_vip">Інсталюйте Mi Fit та увімкніть педометр</string>
+     <string name="empty_health_card_tip_vip">Інсталюйте Mi Fit та увімкніть крокомір</string>
      <string name="empty_recharge_card_btn">Налаштувати</string>
      <string name="empty_recharge_card_tip">SIM-карту не встановлено або тарифний план не налаштовано.</string>
      <string name="empty_recharge_card_title">Немає даних</string>

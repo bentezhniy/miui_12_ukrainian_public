@@ -709,7 +709,7 @@
      <string name="card_title_favorite">Обране</string>
      <string name="card_title_funclaunch">Ярлики</string>
      <string name="card_title_noteboard">Нотатки</string>
-     <string name="card_title_sport">Педометр</string>
+     <string name="card_title_sport">Крокомір</string>
      <string name="card_title_sportassist">Спортивний помічник</string>
      <string name="didi_back">Назад</string>
      <string name="didi_book">Виклик таксі</string>
@@ -735,9 +735,9 @@
      <string name="empty_health_card_btn_get">Інсталювати Mi Fit</string>
      <string name="empty_health_card_btn_login">Запустити</string>
      <string name="empty_health_card_login_tip">"Запустіть Mi Fit та прив'яжіть Mi Band"</string>
-     <string name="empty_health_card_login_tip_vip">Запустіть Mi Fit та увімкніть педометр</string>
+     <string name="empty_health_card_login_tip_vip">Запустіть Mi Fit та увімкніть крокомір</string>
      <string name="empty_health_card_tip">"Інсталюйте Mi Fit та прив'яжіть Mi Band"</string>
-     <string name="empty_health_card_tip_vip">Інсталюйте Mi Fit та увімкніть педометр</string>
+     <string name="empty_health_card_tip_vip">Інсталюйте Mi Fit та увімкніть крокомір</string>
      <string name="empty_recharge_card_btn">Налаштувати</string>
      <string name="empty_recharge_card_tip">SIM-картку не виявлено, або тарифний план не налаштовано</string>
      <string name="empty_recharge_card_title">Немає даних</string>
