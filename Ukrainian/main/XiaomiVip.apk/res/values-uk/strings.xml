@@ -29,16 +29,16 @@
     <string name="award_time">Отримано на %s</string>
     <string name="no_award">Немає нагород</string>
     <string name="query_level_fail">Неможливо отримати інформацію</string>
-    <string name="award_taken">Очки отримані</string>
+    <string name="award_taken">Нагороду отримано</string>
     <string name="task_begin">Діє…</string>
     <string name="in_progress">Надсилання запиту…</string>
-    <string name="privilege">Привілегії</string>
+    <string name="privilege">Привілеї</string>
     <string name="promote">Новий рівень</string>
     <string name="level_info_format" formatted="false">"Рівень %d %d/%d
 %s"</string>
     <string name="no_network">Неможливо під\'єднатися до інтернету</string>
     <string name="task_limit">Сьогодні завдань більше немає</string>
-    <string name="no_task">Всі завдання завершені</string>
+    <string name="no_task">Всі завдання завершено</string>
     <string name="fail_reach_server">Неможливо під\'єднатися до сервера</string>
     <string name="no_app">Потрібно встановити програму</string>
     <string name="use">Використати</string>
@@ -49,7 +49,7 @@
     <string name="awarded_package_was_redeemed">Викуплено</string>
     <string name="take_awarded_package_failed">Неможливо викупити подарунок. Спробуйте пізніше.</string>
     <string name="invalid_json">Отримано некоректний рядок JSON</string>
-    <string name="task_select_title">Виберіть завдання</string>
+    <string name="task_select_title">Оберіть завдання</string>
     <string name="task_not_completed">Не завершено</string>
     <string name="task_completed">Завершено</string>
     <string name="exp_buff">+%s%% досвіду</string>
