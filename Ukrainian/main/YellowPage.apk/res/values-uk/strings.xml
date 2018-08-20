@@ -2,7 +2,7 @@
 <resources>
     <string name="about_fraud_num_online_identification">Про</string>
 	<string name="uni_network_load_fail">Помилка завантаження даних</string>
-    <string name="uni_network_unavailable">Переконайтеся, що Ваш телефон підключено</string>
+    <string name="uni_network_unavailable">Переконайтеся, що Ваш телефон під\'єднано</string>
     <string name="uni_no_search_result">Немає результатів пошуку</string>
     <string name="uni_reload">Перезавантаження</string>
 	<string name="mark_number_feedback_title_hint">Номер:</string>
@@ -688,7 +688,7 @@
 	 <string name="miuishare_qzone_title">Qzone</string>
 	 <string name="antispam_curr_version">Поточна версія: %d</string>
      <string name="antispam_data_downloading">Завантаження інформації про абонента…</string>
-     <string name="antispam_data_downloading_error">Неможливо підключитися до інтернету</string>
+     <string name="antispam_data_downloading_error">Неможливо під\'єднатися до інтернету</string>
      <string name="antispam_local_newest">Немає оновлень</string>
      <string name="antispam_network_remind_summary">Завантажити оновлення по мобільному інтернету?</string>
      <string name="antispam_network_remind_title">Попередження про трафік</string>
