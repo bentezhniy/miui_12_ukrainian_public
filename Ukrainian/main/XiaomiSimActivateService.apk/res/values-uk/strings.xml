@@ -3,9 +3,9 @@
 <resources>
      <string name="accept">OK</string>
      <string name="activate">Активувати</string>
-     <string name="activate_auto_sms_notification_desc_1_card">Для активації функції \"Пошук пристрою\" надіслана SMS</string>
-     <string name="activate_auto_sms_notification_desc_2_cards">Для активації функції \"Пошук пристрою\" надіслана SMS c SIM-карти %s</string>
-     <string name="activate_auto_sms_notification_title">Активація SIM-карти</string>
+     <string name="activate_auto_sms_notification_desc_1_card">Для активації функції \"Пошук пристрою\" надіслано SMS</string>
+     <string name="activate_auto_sms_notification_desc_2_cards">Для активації функції \"Пошук пристрою\" надіслано SMS з SIM-картки %s</string>
+     <string name="activate_auto_sms_notification_title">Активація SIM-картки</string>
      <string name="activate_feature_call_log_sync">Синхронізація викликів</string>
      <string name="activate_feature_default_name">Mi сервіси</string>
      <string name="activate_feature_find_device">Пошук пристрою</string>
@@ -13,27 +13,27 @@
      <string name="activate_feature_mi_roaming">Mi роумінг</string>
      <string name="activate_feature_mms_sync">Синхронізація SMS</string>
      <string name="activate_feature_mx">Хмарні повідомлення</string>
-     <string name="activate_feature_mx_and_voip">Хмарні повідомлення і VoIP</string>
+     <string name="activate_feature_mx_and_voip">Хмарні повідомлення та VoIP</string>
      <string name="activate_feature_register_xiaomi_account">Нлаштування Mi акаунту</string>
      <string name="activate_feature_remote_assist">Віддалений помічник</string>
      <string name="activate_feature_verify_mx_token">Перевірка Mi акаунту</string>
      <string name="activate_feature_voip">Mi телефонія</string>
-     <string name="activate_history_canceled_overview">Активацію SIM-карти скасовано. Активація від \"%1$s\".</string>
+     <string name="activate_history_canceled_overview">Активацію SIM-картки скасовано. Активація від \"%1$s\".</string>
      <string name="activate_history_cancelled">Скасовано</string>
-     <string name="activate_history_multisim_canceled_overview">Активацію SIM-карти %2$d скасовано. Активація від \"%1$s\".</string>
-     <string name="activate_history_multisim_overview">Активація SIM-карти %3$d %1$s. Це викликано функцією \"%2$s\".</string>
-     <string name="activate_history_multisim_success_overview">SIM-карту %2$d активовано. Активація від \"%1$s\".</string>
-     <string name="activate_history_overview">Активація SIM-карти %1$s. Це викликано функцією \"%2$s\".</string>
+     <string name="activate_history_multisim_canceled_overview">Активацію SIM-картки %2$d скасовано. Активація від \"%1$s\".</string>
+     <string name="activate_history_multisim_overview">Активація SIM-картки %3$d %1$s. Це викликано функцією \"%2$s\".</string>
+     <string name="activate_history_multisim_success_overview">SIM-картку %2$d активовано. Активація від \"%1$s\".</string>
+     <string name="activate_history_overview">Активація SIM-картки %1$s. Це викликано функцією \"%2$s\".</string>
      <string name="activate_history_sms">Під час активації було надіслано SMS</string>
      <string name="activate_history_success">Готово</string>
-     <string name="activate_history_success_overview">SIM-карту активовано. Активація від \"%1$s\".</string>
-     <string name="activate_history_title">Активація SIM-карти</string>
-     <string name="activate_phone_cancel_notif_title">Активація SIM-карти скасована</string>
-     <string name="activate_phone_cancel_notif_title_msim">Активацію SIM-карти %d скасовано</string>
+     <string name="activate_history_success_overview">SIM-картку активовано. Активація від \"%1$s\".</string>
+     <string name="activate_history_title">Активація SIM-картки</string>
+     <string name="activate_phone_cancel_notif_title">Активацію SIM-картки скасовано</string>
+     <string name="activate_phone_cancel_notif_title_msim">Активацію SIM-картки %d скасовано</string>
      <string name="activate_phone_failed_notif_title">Помилка активації Mi Cloud</string>
      <string name="activate_phone_failed_notif_title_msim">Помилка активації SIM %d</string>
-     <string name="activate_phone_success_notif_title">SIM-карту активовано</string>
-     <string name="activate_phone_success_notif_title_msim">SIM-карту %d активовано</string>
+     <string name="activate_phone_success_notif_title">SIM-картку активовано</string>
+     <string name="activate_phone_success_notif_title_msim">SIM-картку %d активовано</string>
      <string name="activate_popup_confirm_all_gateway_failed_query_info">Повтор</string>
      <string name="activate_popup_confirm_all_gateway_failed_send_sms">Повтор</string>
      <string name="activate_popup_confirm_error_device_id">Повтор</string>
@@ -45,20 +45,20 @@
      <string name="activate_popup_confirm_upload_diagnosis_info">Надіслати</string>
      <string name="activate_popup_desc_2_intl_sim_cards">Для активації \"%s\" буде надіслано 2 SMS у роумінгу, за які може стягуватися додаткова плата. </string>
      <string name="activate_popup_desc_2_sim_cards">Для активації \"%s\" буде надіслано 2 SMS, за які може стягуватися додаткова плата.</string>
-     <string name="activate_popup_desc_all_gateway_failed_query_info">"Неможливо знайти Ваш номер. Переконайтеся, що Ваша SIM-карта активована.
-Введіть номер телефону, який зв\'язаний із вашою новою SIM-картою для повторної активації %s"</string>
-     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Неможливо надіслати SMS для активації. Переконайтеся, що Ваша SIM-карта активована.
-Введіть номер телефону, який зв\'язаний із вашою новою SIM-картою для повторної активації %s"</string>
+     <string name="activate_popup_desc_all_gateway_failed_query_info">"Неможливо знайти Ваш номер. Переконайтеся, що Вашу SIM-картку активовано.
+Введіть номер телефону, який по\'язано з вашою новою SIM-карткою для повторної активації %s"</string>
+     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Неможливо надіслати SMS для активації. Переконайтеся, що Вашу SIM-картку активовано.
+Введіть номер телефону, який по\'язано з вашою новою SIM-карткою для повторної активації %s"</string>
      <string name="activate_popup_desc_error_device_id">Наберіть *#06# для перевірки IMEI</string>
      <string name="activate_popup_desc_failed_phone_error">Введено хибний номер</string>
-     <string name="activate_popup_desc_failed_query_info">Неможливо отримати номер телефону. Переконайтеся, що Ваша SIM-карта обслуговується</string>
-     <string name="activate_popup_desc_failed_receive_sms">Введено хибний номер. Переконайтеся, що Ваша SIM-карта обслуговується</string>
-     <string name="activate_popup_desc_failed_send_sms">Неможливо надіслати SMS для активації. Переконайтеся, що Ваша SIM-карта обслуговується</string>
+     <string name="activate_popup_desc_failed_query_info">Неможливо отримати номер телефону. Переконайтеся, що Ваша SIM-картка обслуговується</string>
+     <string name="activate_popup_desc_failed_receive_sms">Введено хибний номер. Переконайтеся, що Ваша SIM-картка обслуговується</string>
+     <string name="activate_popup_desc_failed_send_sms">Неможливо надіслати SMS для активації. Переконайтеся, що Ваша SIM-картка обслуговується</string>
      <string name="activate_popup_desc_failed_server">Сервер недоступний, перевірте налаштування мережі.</string>
      <string name="activate_popup_desc_find_device_postfix">SMS для активації може бути надіслане після зміни SIM-карти</string>
      <string name="activate_popup_desc_intl_sim_card">Для активації \"%s\" буде надіслано SMS у роумінгу, за що може стягуватися додаткова плата.</string>
      <string name="activate_popup_desc_mixed_sim_cards">Для активації \"%s\" буде надіслано звичайне SMS та SMS у роумінгу, за що може стягуватися додаткова плата.</string>
-     <string name="activate_popup_desc_new_2_intl_sim_cards">SIM-карти замінені. Для активації \"%s\" буде надіслано 2 SMS у роумінгу, за що може стягуватися додаткова плата. </string>
+     <string name="activate_popup_desc_new_2_intl_sim_cards">SIM-картки замінені. Для активації \"%s\" буде надіслано 2 SMS у роумінгу, за що може стягуватися додаткова плата. </string>
      <string name="activate_popup_desc_new_2_sim_cards">SIM-карти замінені. Для активації \"%s\" буде надіслано 2 SMS, за що може стягуватися додаткова плата.</string>
      <string name="activate_popup_desc_new_intl_sim_card">SIM-карту замінено. Для активації \"%s\" буде надіслано SMS у роумінгу, за що може стягуватися додаткова плата.</string>
      <string name="activate_popup_desc_new_mixed_sim_cards">SIM-карти замінені. Для активації \"%s\" буде надіслано звичайне SMS та SMS у роумінгу, за що може стягуватися додаткова плата.</string>
