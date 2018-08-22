@@ -43,7 +43,7 @@
 	<string name="redo">Повторити</string>
 	<string name="remote_service_stopped">Віддалений сервіс зупинений</string>
 	<string name="service_exception">Обслуговування винятків</string>
-	<string name="ssl_error_redo">Неможливо підключитися до серверу, перевірте дату в телефоні. Встановіть правильно і натисніть \"Повторити\", або натисніть "Скасувати", щоб повернутися назад.</string>
+	<string name="ssl_error_redo">Неможливо підключитися до серверу, перевірте дату в телефоні. Встановіть правильно і натисніть \"Повторити\", або натисніть "Скасувати", щоб повернутися назад</string>
 	<string name="terminate">Перервати платіж</string>
 	<string name="update_Title">Версія оновлення</string>
 	<string name="update_downloading">Завантаження нової версії…</string>

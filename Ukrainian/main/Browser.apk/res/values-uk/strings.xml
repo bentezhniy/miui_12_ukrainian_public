@@ -1742,7 +1742,6 @@
      <string name="ssl_warnings_header">У цього сайту проблеми із сертифікатом безпеки</string>
      <string name="start_page">Стартова сторінка</string>
      <string name="start_save_page_capture">Збереження скріншоту…</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="stop">Зупинити</string>
      <string name="stop_loading">Зупинити</string>
      <string name="stopping">Зупинка…</string>
