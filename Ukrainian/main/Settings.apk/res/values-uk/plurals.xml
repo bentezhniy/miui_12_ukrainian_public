@@ -404,8 +404,6 @@
      <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s програм зі сповіщеннями</item>
         <item quantity="one">%s програма зі сповіщеннями</item>
-        <item quantity="few">%s програми зі сповіщеннями</item>
-        <item quantity="many">%s програм зі сповіщеннями</item>
      </plurals>
      <plurals name="uri_permissions_text">
         <item quantity="one">"%d об'єкт"</item>

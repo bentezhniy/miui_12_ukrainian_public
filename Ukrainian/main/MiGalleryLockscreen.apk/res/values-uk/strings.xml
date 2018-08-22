@@ -48,4 +48,7 @@
      <string name="theme_applying">Встановлення…</string>
      <string name="wlan_download">Тільки через Wi-Fi</string>
 	 <string name="auto_interval">Автоматично</string>
+	 <string name="apply_to_above_all">Застосувати на всі</string>
+	 <string name="apply_to_screenlock">Застосувати на екран блокування</string>
+	 <string name="apply_to_wallpaper">Застосувати на робочий стіл</string>
 </resources>

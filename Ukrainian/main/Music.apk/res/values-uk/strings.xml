@@ -565,15 +565,11 @@
      <string name="i_know">ОК</string>
      <string name="i_know_it">ОК</string>
      <string name="impunity_declaration">Онлайн музика надається сервісом Baidu. Прийняти <a href="http://music.baidu.com/doc/agreement">користувацька угода</a> і дозволити доступ до інтернету?</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Ви повинні прочитати та погодитися з &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Угодою користувача&lt;/a> та &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Політикою конфіденційності&lt;/a> перед використанням продукту. -->
-     <string name="impunity_declaration_content">Необхідно прийняти %1$s та %2$s</string>
+     <string name="impunity_declaration_content">Ви маєте ознайомитися та погодитися з &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Угодою користувача&lt;/a&gt; та &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Політикою конфіденційності&lt;/a&gt; перед використанням програми</string>
      <string name="impunity_declaration_content1">"Прийняти "</string>
-     <string name="impunity_declaration_content2">умови використання</string>
+     <string name="impunity_declaration_content2">Умови використання</string>
      <string name="impunity_declaration_content3">" і "</string>
-     <string name="impunity_declaration_content4">політику конфіденційності</string>
+     <string name="impunity_declaration_content4">Політику конфіденційності</string>
      <string name="impunity_declaration_content5">"?"</string>
      <string name="impunity_declaration_content_agreement">Угоду користувача</string>
      <string name="impunity_declaration_content_policy">Політику конфіденційності</string>

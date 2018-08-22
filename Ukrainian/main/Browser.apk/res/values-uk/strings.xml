@@ -423,7 +423,7 @@
      <string name="date_time_picker_dialog_title">Встановити дату й час</string>
      <string name="defaultBookmarksUpButton">Закладки</string>
      <string name="delete">Видалити</string>
-     <string name="delete_bookmark">Із закладок</string>
+     <string name="delete_bookmark">Видалити</string>
      <string name="delete_bookmark_action_warning">Видалити закладинки?</string>
      <string name="delete_bookmark_group_warning">Видалити \"%s\"? Усі закладки із цієї групи будуть видалені</string>
      <string name="delete_bookmark_warning">Видалити закладку \"%s\"?</string>

@@ -1100,7 +1100,7 @@
      <string name="face_data_input_cancel_msg">Не вдалося додати дані про обличчя</string>
      <string name="face_data_input_msg">Помістіть обличчя всередину рамки</string>
      <string name="face_data_input_ok">Готово</string>
-     <string name="face_data_input_ok_msg">Для розблокування за допомогою розпізнавання обличчя увімкніть екран</string>
+     <string name="face_data_input_ok_msg">Тепер для розблокування достатньо погляду</string>
      <string name="face_data_input_ok_msg_angle">"Розблоковуйте пристрій за допомогою даних про обличчя, коли екран увімкнений
 Запишіть дані про обличчя під всіма необхідними кутами"</string>
      <string name="face_data_input_ok_title">Додано успішно</string>
@@ -1387,7 +1387,7 @@
      <string name="menu_ime">Зміна клавіатури</string>
      <string name="miui_guide_dialog_button_negative_text">Налаштування</string>
      <string name="miui_guide_dialog_button_positive_text">Зрозуміло</string>
-     <string name="miui_guide_dialog_message">Звуки медіа (музика, відео і т.д.) будуть відтворюватися в режимі \"Без звуку\". Ви можете змінити це в Налаштуваннях</string>
+     <string name="miui_guide_dialog_message">Звуки медіа (музика, відео і т.ін.) будуть й далі відтворюватися в режимі \"Без звуку\". Ви можете змінити це у Налаштуваннях</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковано Bluetooth-пристроєм</string>
      <string name="miui_ringer_count_down">Зворотній відлік</string>
      <string name="miui_ringer_standard">Без звуку</string>
