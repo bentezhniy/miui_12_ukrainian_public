@@ -7513,6 +7513,5 @@ SD карта \"^1\" буде працювати тільки на цьому п
 	 <string name="extended_power_menu">Розширене меню живлення</string>
 	 <string name="play_pause_description">Кнопка Відтворити/Пауза</string>
      <string name="status_bar_settings_notification_sound_custom">Користувацький звук</string>
-     <string name="total_info_no_vibrator">Усі звуки вимкнено, окрім сигналу тривоги</string>
      <string name="unmute_sound_title">Увімкнути звук</string>
 </resources>
