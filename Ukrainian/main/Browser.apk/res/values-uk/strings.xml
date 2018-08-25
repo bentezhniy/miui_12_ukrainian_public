@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="MIUI_startpage">Стартова сторінка</string>
+     <string name="back_home">Додому</string>
+     <string name="browser">Браузер</string>
+     <string name="common_use_phrase_bottom_bar_org_txt">.ua</string>
+     <string name="mw_cast_notification_connected_message">Підключено до %1$s</string>
+     <string name="mw_cast_notification_connecting_message">Підключення до %1$s</string>
+     <string name="mw_cast_notification_disconnect">Відключення</string>
+     <string name="mw_common_google_play_services_enable_button">Увімкнути</string>
+     <string name="mw_common_google_play_services_enable_text">Для роботи програми \"%1$s\" необхідно увімкнути сервіси Google Play.</string>
+     <string name="mw_common_google_play_services_enable_title">Увімкніть сервіси Google Play</string>
+     <string name="mw_common_google_play_services_install_button">Інсталювати</string>
+     <string name="mw_common_google_play_services_install_text">Для роботи програми \"%1$s\" необхідно інсталювати сервіси Google Play</string>
+     <string name="mw_common_google_play_services_install_title">Інсталюйте сервіси Google Play</string>
+     <string name="mw_common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+     <string name="mw_common_google_play_services_unknown_issue">У %1$s є проблеми сумісності з сервісами Google Play</string>
+	 <string name="MIUI_startpage">Стартова сторінка</string>
      <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_up_description">Нагору</string>
      <string name="abc_action_menu_overflow_description">Ще</string>

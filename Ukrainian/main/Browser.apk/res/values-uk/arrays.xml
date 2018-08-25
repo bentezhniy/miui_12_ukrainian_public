@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="pref_content_plugins_choices">
+     <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Вертикальний перегляд</item>
+        <item>Горизонтальний перегляд</item>
+     </string-array>
+	 <string-array name="pref_content_plugins_choices">
         <item>Так</item>
         <item>За запитом</item>
         <item>Немає</item>

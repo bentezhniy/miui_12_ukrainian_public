@@ -6096,7 +6096,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="toast_need_login">Увійдіть в Mi акаунт</string>
      <string name="total">Не турбувати</string>
      <string name="total_info">Вимкнення звуків для виклику та сповіщень</string>
-	 <string name="total_info_no_vibrator">Вимкнення всіх звуків, окрім будильника</string>
+	 <string name="total_info_no_vibrator">Усі звуки вимкнено, окрім сигналу тривоги</string>
      <string name="total_memory">Всього</string>
      <string name="total_num">Усього записів: %d</string>
      <string name="total_size">%s усього</string>
@@ -7493,7 +7493,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="zen_mode_settings_summary_off">"Немає правил"</string>
      <string name="zen_mode_settings_title">Не турбувати</string>
      <string name="zen_mode_start_time">Час початку</string>
-     <string name="zen_mode_summary_alarms_only_by_time">Активировать режим \"Лише будильник\" до %1$s</string>
+     <string name="zen_mode_summary_alarms_only_by_time">Активувати режим \"Лише будильник\" до %1$s</string>
      <string name="zen_mode_summary_alarms_only_indefinite">Активувати режим \"Лише будильник\" безстроково</string>
      <string name="zen_mode_summary_always">Режим \"Не турбувати\" відключено</string>
      <string name="zen_mode_summary_combination">%1$s: %2$s</string>
