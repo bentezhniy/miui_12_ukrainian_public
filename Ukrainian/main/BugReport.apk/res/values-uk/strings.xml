@@ -396,7 +396,6 @@
      <string name="wlan_unavailable_dialog_button_sent">Надіслати</string>
      <string name="wlan_unavailable_dialog_content">Надсилання звіту використовує мобільного трафіку: %s. Ви можете надіслати його зараз або зачекати Wi-Fi мережу.</string>
      <string name="wlan_unavailable_dialog_title">Wi-Fi мережа відсутня</string>
-	 <string name="pic_view_format">%1$s/%2$s</string>
      <string name="privacy_category_title">Конфіденційність</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
      <string name="reply_option_log_hint">необов'язково</string>

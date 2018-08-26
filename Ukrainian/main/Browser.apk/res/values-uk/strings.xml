@@ -2076,11 +2076,8 @@
      <string name="mw_mr_system_route_name">Система</string>
      <string name="mw_mr_user_route_category_name">Пристрої</string>
      <string name="mw_search_menu_title">Пошук</string>
-     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
      <string name="reboot">Перезапустити</string>
      <string name="source_cancel">X</string>
-     <string name="status_bar_notification_info_overflow">>999</string>
      <string name="summary_command_mode">Увімкніть для входу в командний режим</string>
      <string name="summary_use_sandbox_domain">Увімкніть домен Sandbox</string>
      <string name="title_command_mode">Командний режим</string>
