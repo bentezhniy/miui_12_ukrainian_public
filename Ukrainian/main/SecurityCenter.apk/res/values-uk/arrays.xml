@@ -213,7 +213,7 @@
      </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Автоматично отримати шаблон повідомлення</item>
-        <item>Задати шаблон повідомлення вручну</item>
+        <item>Вказати шаблон повідомлення вручну</item>
      </string-array>
      <string-array name="traffic_sort_type">
         <item>за мобільним трафіком</item>

@@ -16,7 +16,7 @@
      <string name="AD_SCANNING">Сканування\u2026</string>
      <string name="AD_SCAN_BUTTON">Сканувати</string>
      <string name="AD_TITLE_COUNT">Програм з рекламою: %d</string>
-     <string name="AD_TITLE_NON_COUNT">Реклама не знайдена</string>
+     <string name="AD_TITLE_NON_COUNT">Реклами не знайдено</string>
      <string name="AD_Unistall">Видалити</string>
      <string name="Call_ADRESS">Регіони</string>
      <string name="Call_BLACKLIST">Виклик</string>
@@ -63,12 +63,12 @@
      <string name="access_control_app_is_launching">Запуск програми…</string>
      <string name="access_control_failed_need_to_unlock_nofingerprint">Необхідно ввести пароль для запуску програм</string>
      <string name="access_control_fingerprint_not_identified_msg">Неможливо розпізнати відбиток</string>
-     <string name="access_control_need_password">"Блокування успішно додане: %s
+     <string name="access_control_need_password">"Блокування успішно додано: %s
 "</string>
      <string name="access_control_need_to_unlock">Відскануйте свій відбиток пальця або введіть пароль</string>
      <string name="access_control_need_to_unlock_nofingerprint">Введіть пароль</string>
      <string name="access_control_recording_intro_header">Накресліть графічний ключ для додавання блокування програми</string>
-     <string name="access_control_reset_by_account">Увійдіть в Mi акаунт для скидання блокування програми</string>
+     <string name="access_control_reset_by_account">Увійдіть до Mi акаунту для скидання блокування програми</string>
      <string name="accessibility_gameboosterservice_description" />
      <string name="accessibility_service_description">Швидке отримання червоних конвертів (лише для Китаю)</string>
      <string name="action_button_text_100">Оптимізація</string>
@@ -94,7 +94,7 @@
      <string name="activity_title_large_file">Файли</string>
      <string name="activity_title_license_manager">Дозволи</string>
      <string name="activity_title_memory">"Пам\'ять"</string>
-     <string name="activity_title_network_speed_detail">Підключення</string>
+     <string name="activity_title_network_speed_detail">З\'єднання</string>
      <string name="activity_title_networkassistants">Трафік</string>
      <string name="activity_title_notification_bar_manager">Керування повідомленнями</string>
      <string name="activity_title_other_permission_manager">Додаткові дозволи</string>
@@ -117,13 +117,13 @@
      <string name="activity_title_virus_detail">Інформація про вірус</string>
      <string name="activity_title_virus_settings">Налаштування</string>
      <string name="activity_title_white_list">Список винятків</string>
-     <string name="ad_block_hint">Заблоковане: %d</string>
+     <string name="ad_block_hint">Заблоковано: %d</string>
      <string name="ad_btn_default_text">Детальніше</string>
      <string name="ad_install_monitor">Монітор встановлення</string>
      <string name="ad_install_monitor_hint">Перевіряти наявність реклами при встановленні програми</string>
-     <string name="ad_permission_hint">Використання блокувальника реклами може вплинути на продуктивність програми і погіршити їхню роботу</string>
+     <string name="ad_permission_hint">Використання блокувальника реклами може вплинути на продуктивність програм та погіршити їхню роботу</string>
      <string name="ad_relative_setting">Загальні налаштування</string>
-     <string name="ad_single_block_hint">Заблоковане</string>
+     <string name="ad_single_block_hint">Заблоковано</string>
      <string name="ad_update_setting">Налаштування оновлення</string>
      <string name="ad_update_time">Оновлення: %s</string>
      <string name="ad_update_time_unKnown">Оновлення: невідомо</string>
@@ -134,7 +134,7 @@
      <string name="adb_install_open_error">Неможливо встановити дозволи</string>
      <string name="adb_install_reject_notiy">Встановлення %s через USB недоступне</string>
      <string name="adb_install_reject_notiy_desc">Ви можете дозволити встановлення через USB в налаштуваннях для розробників</string>
-     <string name="adb_login_xiaomi_account">Спочатку увійдіть в обліковий запис Mi</string>
+     <string name="adb_login_xiaomi_account">Спочатку увійдіть до облікового запису Mi</string>
      <string name="add_done">Додано</string>
      <string name="add_game">Додати</string>
      <string name="add_game_notification_summary">Натисніть для запуску та прискорення</string>
@@ -147,18 +147,18 @@
      <string name="address_choose_hint">Регіони: %1$s, %2$s і %3$d</string>
      <string name="addwhitelist">У білий список</string>
      <string name="adjust_sms_cmd"><u>Змінити шаблон SMS</u></string>
-     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Оновлене більше місяця назад</string>
-     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Оновлене більше тижня назад</string>
-     <string name="adjust_traffic_carrier_summary_oneweek_before">Оновлене тиждень назад</string>
-     <string name="adjust_traffic_carrier_summary_today">Оновлене сьогодні в %s</string>
-     <string name="adjust_traffic_carrier_summary_two_day_before">Оновлено 2 дні назад</string>
-     <string name="adjust_traffic_carrier_summary_yesterday">Оновлене вчора в %s</string>
+     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Оновлено більше місяця тому</string>
+     <string name="adjust_traffic_carrier_summary_more_oneweek_before">Оновлено більше тижня тому</string>
+     <string name="adjust_traffic_carrier_summary_oneweek_before">Оновлено тиждень тому</string>
+     <string name="adjust_traffic_carrier_summary_today">Оновлено сьогодні о %s</string>
+     <string name="adjust_traffic_carrier_summary_two_day_before">Оновлено 2 дні тому</string>
+     <string name="adjust_traffic_carrier_summary_yesterday">Оновлено вчора о %s</string>
      <string name="adjust_traffic_data">Введіть трафік</string>
-     <string name="after_the_lock_screen">Програма буде блокуватися відразу після вимкнення екрану. Ви можете змінити цей параметр в налаштуваннях.</string>
+     <string name="after_the_lock_screen">Програму буде блоковано одразу після вимкнення екрану. Ви можете змінити цей параметр в налаштуваннях.</string>
      <string name="all_address_choose_hint">Усі регіони</string>
      <string name="already_close_gamebooster">Пришвидшення ігор вимкнено</string>
-     <string name="alter_dialog_message">"Дозволити програмам зі списку виключень підключитися до інтернету в міжнародному роумінгу? 
-При використанні підключення до інтернету може стягуватися додаткова плата оператором."</string>
+     <string name="alter_dialog_message">"Дозволити програмам зі списку виключень під'єднатися до інтернету в міжнародному роумінгу? 
+За використанням з'єднання з інтернетом може стягуватися додаткова плата оператором."</string>
      <string name="anim_gamebooster_text">Завантаження…</string>
      <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів.</string>
      <string name="anti_disturb_msg_title">Не турбувати</string>
@@ -174,7 +174,7 @@
      <string name="antivirus_choose_engine_settings">Налаштування бази вірусів</string>
      <string name="antivirus_choose_engine_title">База вірусів</string>
      <string name="antivirus_choose_engine_update_disable_toast">Неможливо змінити базу вірусів під час оновлення</string>
-     <string name="antivirus_longtime_no_update">База антивірусу застаріла. Рекомендовано регулярно оновлювати базу для покращення результатів сканування. Дозволити програмі підключатися до інтернету та оновлювати антивірусну базу?</string>
+     <string name="antivirus_longtime_no_update">База антивірусу застаріла. Рекомендовано регулярно оновлювати базу для покращення результатів сканування. Дозволити програмі під\'єднуватися до інтернету та оновлювати антивірусну базу?</string>
      <string name="antivirus_longtime_no_update1">База антивірусу застаріла. Рекомендовано регулярно оновлювати базу для покращення результатів сканування. Оновіть базу та повторіть спробу.</string>
      <string name="antivirus_main_activity_back">Повернутися з антивірусу</string>
      <string name="antivirus_monitor_btn_text_clean_risk">Видалити програми із загрозами</string>
@@ -186,17 +186,17 @@
      <string name="antivirus_more_engine_dialog_title">Попередження</string>
      <string name="antivirus_none_engine_dialog_ok">ОК</string>
      <string name="antivirus_none_engine_dialog_title">Виберіть базу</string>
-     <string name="antivirus_not_wlan">При використанні мобільного інтернету оператором може стягуватися додаткова плата. Продовжити?</string>
+     <string name="antivirus_not_wlan">За використанням мобільного інтернету оператором може стягуватися додаткова плата. Продовжити?</string>
      <string name="antivirus_privacy_dialog_cloudscan">Сканування онлайн</string>
      <string name="antivirus_privacy_dialog_cloudscan_description">Завантажувати інформацію про програми на сервер для сканування вирусів</string>
      <string name="antivirus_privacy_dialog_ok">ОК</string>
-     <string name="antivirus_privacy_dialog_summary">При використанні цієї фунції ID Вашого пристрою буде зашифровано й надіслано на сервера AVL і Tencent (%s)</string>
+     <string name="antivirus_privacy_dialog_summary">За використанням цієї фунції ID Вашого пристрою буде зашифровано й надіслано на сервера AVL і Tencent (%s)</string>
      <string name="antivirus_privacy_dialog_summary_link">Політика конфіденційності</string>
      <string name="antivirus_privacy_dialog_title">Політика конфіденційності</string>
-     <string name="antivirus_sec_network_unavailable">Програмі заборонено доступ до інтернету. Дозволити підключення до інтернету для оновлення бази антивірусу?</string>
+     <string name="antivirus_sec_network_unavailable">Програмі заборонено доступ до інтернету. Надати доступ до інтернету для оновлення бази антивірусу?</string>
      <string name="antivirus_sec_support">Підтримка: %s</string>
      <string name="antivirus_toast_already_update">Вже оновлено</string>
-     <string name="antivirus_toast_network_unavailable">Неможливо підключитися до інтернету</string>
+     <string name="antivirus_toast_network_unavailable">Неможливо під\'єднатися до інтернету</string>
      <string name="antivirus_toast_update_failed">Неможливо оновити</string>
      <string name="antivirus_toast_update_success">Оновлено</string>
      <string name="antivirus_toast_updating">Оновлення…</string>
@@ -210,7 +210,7 @@
      <string name="apk_status_uninstalled">Не інстальовано</string>
      <string name="apn_exception_summary">Отримати інформацію про точки доступу від оператора</string>
      <string name="apn_exception_title">Налаштування APN</string>
-     <string name="app_bg_restrict_dialog_message">Обмеження підключення до інтернету у фоновому режимі може завадити нормальній роботі програм. Все одно обмежити?</string>
+     <string name="app_bg_restrict_dialog_message">Обмеження інтернет-з\'єднання у фоновому режимі може завадити нормальній роботі програм. Все одно обмежити?</string>
      <string name="app_check_no_issue">Оптимізація не потрібна</string>
      <string name="app_check_optimize_title">Оптимізація фонових процесів</string>
      <string name="app_check_reason_background_cpu">Фонова активність процесора</string>
@@ -241,7 +241,7 @@
      <string name="app_manager_apps_generatioin">Оновлення</string>
      <string name="app_manager_apps_generation_summary">Оновіть для використання найновіших функцій</string>
      <string name="app_manager_appupdate_remind">Сповіщення про оновлення</string>
-     <string name="app_manager_as_dlg_msg">При увімкненні автозапуску програма може споживати заряд батареї та ОЗП. Продовжити?</string>
+     <string name="app_manager_as_dlg_msg">За увімкненням автозапуску програма може споживати заряд батареї та ОЗП. Продовжити?</string>
      <string name="app_manager_as_dlg_title">Попередження</string>
      <string name="app_manager_back">Назад</string>
      <string name="app_manager_bipartition">Клонування</string>
@@ -278,7 +278,7 @@
      <string name="app_manager_dlg_clear_cache_title">Очистити кеш?</string>
      <string name="app_manager_dlg_ok">ОК</string>
      <string name="app_manager_enable_text">Увімкнути</string>
-     <string name="app_manager_enabled">Увімкнена</string>
+     <string name="app_manager_enabled">Увімкнено</string>
      <string name="app_manager_factory_reset">Видалити оновлення</string>
      <string name="app_manager_factory_reset_dlg_msg">Усі оновлення цієї програми буде видалено</string>
      <string name="app_manager_factory_reset_dlg_title">Видалити оновлення?</string>
