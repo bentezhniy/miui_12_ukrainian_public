@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Акаунти</string>
+	 <string name="status_bar_settings_notification_led_custom">Користувацький колір</string>
      <string name="HIPS_Perm_CallMonitor_Hint">Програм з доступом до прослуховування викликів і регулюванню гучності: %1$s</string>
      <string name="HIPS_Perm_CallState_Hint">Програм з доступом до відстеження статусу викликів: %1$s</string>
      <string name="HIPS_Perm_Call_Hint">Програм з доступом до здійснення й завершенню викликів: %1$s</string>
