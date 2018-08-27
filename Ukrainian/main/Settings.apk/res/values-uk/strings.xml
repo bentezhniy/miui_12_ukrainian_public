@@ -7515,4 +7515,105 @@ SD карта \"^1\" буде працювати тільки на цьому п
 	 <string name="play_pause_description">Кнопка Відтворити/Пауза</string>
      <string name="status_bar_settings_notification_sound_custom">Користувацький звук</string>
      <string name="unmute_sound_title">Увімкнути звук</string>
+	<string name="WiFiOn_mobile_title">Тип мережі при увімкненні Wi-Fi</string>
+     <string name="alarm_icon_title">Сховати іконку будильника</string>
+     <string name="battery_light_100">Індикатор після зарядки</string>
+     <string name="battery_light_100_summary">Після завершення зарядки індикатор буде продовжувати світитися</string>
+     <string name="battery_meter_very_low_overlay_symbol">!</string>
+     <string name="battery_sound_category">Батарея</string>
+     <string name="bluetooth_error_title"></string>
+     <string name="bluetooth_icon_title">Сховати іконку Bluetooth</string>
+     <string name="bootloader_locked_answer_2_no_sim">"1. Натисніть &quot;Додати акаунт&quot;, щоб прив'язати Mi акаунт до цього пристрою.
+2. Завантажте програму Mi Flash Unlock на комп'ютер з офіційного сайту: "</string>
+     <string name="bootloader_unlock_webhome">https://miui.su/faq/informatsiya-o-zablokirovannom-bootloader-i-ego-razblokirovke</string>
+     <string name="bt_ldac_pre_title">Технологія LDAC</string>
+     <string name="call_manager_summary">%1$s</string>
+     <string name="charging_sounds_full_title">Звук завершення зарядки</string>
+     <string name="charging_sounds_off">"Звук від'єднання зарядки"</string>
+     <string name="charging_sounds_on">Звук підключення зарядки</string>
+     <string name="delete_sound_effect">Звук видалення</string>
+     <string name="delete_sounds_title">Звук видалення</string>
+     <string name="dlg_error_unmount_title"></string>
+     <string name="dnd_notification_title">Вимкнути звук сповіщень</string>
+     <string name="dndm_auto_time_setting_summary">С %1$s до %2$s</string>
+     <string name="enable_vertical_clock">Вертикальний віджет годинника</string>
+     <string name="enable_vertical_clock_summary">Увімкнути вертикальний віджет годинника на екрані блокування. 
+Може автоматично вмикатися сторонніми темами.
+Для застосування необхідне перезавантаження.</string>
+     <string name="enterprise_mode">Режим компанії</string>
+     <string name="foreground_notifications_title">Сповіщення фонових процесів</string>
+     <string name="forget_password_dialog_button_text">Назад</string>
+     <string name="forget_password_dialog_content_four"> <Data>2. Оберіть пункт &lt;font color=#e6e6e6>[Wipe data]&lt;/font> і дочекайтеся перезавантаження.</Data> </string>
+     <string name="forget_password_dialog_content_one"> <Data>Якщо ви забули пароль, ви не зможете відновити його. Щоб скинути пароль, потрібно виконати загальне скидання пристрою (всі фото, контакти та інші данні будуть очищені). Створіть бекап важливих даних</Data> </string>
+     <string name="forget_password_dialog_content_three"> <Data>1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки ви не побачите іконку &lt;img src=''>.</Data> </string>
+     <string name="forget_password_dialog_content_two">Слідуйте інструкції, щоб виконати загальне скидання:</string>
+     <string name="forget_password_dialog_title">Скидання паролю</string>
+     <string name="gamebooster_summary_dx">При запуску сервісу прискорення ігор буде додано ярлик на робочий стіл</string>
+     <string name="gamebooster_title_dx">Прискорення ігор</string>
+     <string name="gps_icon_title">Сховати іконку GPS</string>
+     <string name="increasing_volume">Наростання гучності виклику</string>
+     <string name="increasing_volume_summary">Наростання гучності вхідного виклику</string>
+     <string name="ios_toggle_title">Стиль рядка стану</string>
+     <string name="keyguard_security_setting_others">Інформація</string>
+     <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
+     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
+     <string name="launch_my_app_title">Програма для запуску</string>
+     <string name="link_speed">%1$d Мбіт/с</string>
+     <string name="low_battery_warning_title">Звук низького заряду</string>
+     <string name="miui_lab_install_drive_mode_error">Не вдається інсталювати. Повторіть спробу</string>
+     <string name="miui_lab_install_drive_mode_summary">Режим водія є системною програмою. Інсталяція не потребує підключення до інтернету</string>
+     <string name="miui_lab_install_drive_mode_title">Інсталяція режиму водія</string>
+     <string name="miui_updater_summary">Швидше за блискавку</string>
+     <string name="move_app_failed_dlg_title"></string>
+     <string name="mtp_default_title">Режим USB за замовчуванням</string>
+     <string name="notification_header_divider_symbol_with_spaces"> • </string>
+     <string name="notification_icon_title">Сповіщення з аватарами</string>
+     <string name="numberpicker_change_title">Звук встановлення часу</string>
+     <string name="process_kernel_label">Ядро Android</string>
+     <string name="recent_menu_rounded_title">Закруглені кути нещодавніх програм</string>
+     <string name="row_icon_title">Динамічні іконки сповіщень</string>
+     <string name="runapp_notifications_title">Сповіщення запущених програм</string>
+     <string name="sccret_code_error">Введено хибний код</string>
+     <string name="security_input">Безпечне введення</string>
+     <string name="security_input_hint">Використовуйте безпечну клавіатуру</string>
+     <string name="show_search_bar_title">Показувати рядок пошуку</string>
+     <string name="sim_select_title">Вибір SIM-карти</string>
+     <string name="smart_mobile_data_transfer">Вимикати мобільний інтернет при виклику</string>
+     <string name="smart_mobile_network_settings_title">Розумна мережа</string>
+     <string name="smart_mobile_network_title">Розумна мобільна мережа</string>
+     <string name="smart_mobiledata_off">Тип мережі при вимкненні мобільного інтернету</string>
+     <string name="smart_mobiledata_on">Тип мережі при увімкненні мобільного інтернету</string>
+     <string name="smart_timer">Таймер переходу в мережу 2G</string>
+     <string name="smart_timer_sleepon">Таймер пробудження при переході в мережу 2G</string>
+     <string name="smart_wifi_data_transfer">Вимикати Wi-Fi при виклику</string>
+     <string name="status_bar_icons_switcher">Іконки в рядку стану</string>
+     <string name="status_bar_screen_button_keys">Підтримка жестів навігації</string>
+     <string name="status_bar_settings_carrier_sim">SIM %1$s</string>
+     <string name="stop_upload_audio_log">Завершити отримання аудіо логів</string>
+     <string name="stop_upload_gps_log">Завершити отримання GPS логів</string>
+     <string name="stop_upload_modem_log">Завершити отримання логів модему</string>
+     <string name="switch_mobile_title">Тип мережі при виклику</string>
+     <string name="toggles_columns_summary">Відображення перемикачів на одній сторінці. 
+Показувати %s в ряд</string>
+     <string name="toggles_columns_title">Кількість перемикачів в ряд на сторінці</string>
+     <string name="total_info_sub">і вимкнути вібрацію</string>
+     <string name="upload_audio_log">Почати отримання аудіо логів</string>
+     <string name="upload_gps_log">Почати отримання GPS логів</string>
+     <string name="upload_modem_log">Почати отримання логів модему</string>
+     <string name="vol_silent_sounds_title">Звук вимкнення режиму</string>
+     <string name="volbtn_timeout_summary">Поточна: %s мс</string>
+     <string name="volbtn_timeout_title">Тривалість натискання</string>
+     <string name="volbtn_title">Музичний плеєр</string>
+     <string name="volbtn_toggle_summary">Керувати музикою довгим утриманням клавіші гучності, коли екран вимкнено</string>
+     <string name="volbtn_toggle_title">Керування музикою</string>
+     <string name="volbtn_vol_down_title">Гучність -</string>
+     <string name="volbtn_vol_up_title">Гучність +</string>
+     <string name="wifi_type_approval">
+Переклад створено на основі репозиторію MiRoom
+Наш магазин: mi-room.ru
+MiRoom портал: portal.mi-room.ru
+Telegram чат: @michat
+Telegram канал: @miroom
+ВКонтакті: vk.com/mi_room_ru
+Email: portal.miroom@gmail.com</string>
 </resources>

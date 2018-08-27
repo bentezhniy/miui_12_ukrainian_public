@@ -201,4 +201,5 @@
 
 Натисніть \"%s\" для початку завантаження при підключенні до Wi-Fi мережі"</string>
      <string name="wifi_recommended_title">Попередження про трафік</string>
+     <string name="privacy_policy_title">Політика конфіденційності</string>
 </resources>
