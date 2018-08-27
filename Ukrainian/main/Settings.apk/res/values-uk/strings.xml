@@ -7525,9 +7525,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="bluetooth_icon_title">Сховати іконку Bluetooth</string>
      <string name="bootloader_locked_answer_2_no_sim">"1. Натисніть &quot;Додати акаунт&quot;, щоб прив'язати Mi акаунт до цього пристрою.
 2. Завантажте програму Mi Flash Unlock на комп'ютер з офіційного сайту: "</string>
-     <string name="bootloader_unlock_webhome">https://miui.su/faq/informatsiya-o-zablokirovannom-bootloader-i-ego-razblokirovke</string>
      <string name="bt_ldac_pre_title">Технологія LDAC</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="charging_sounds_full_title">Звук завершення зарядки</string>
      <string name="charging_sounds_off">"Звук від'єднання зарядки"</string>
      <string name="charging_sounds_on">Звук підключення зарядки</string>
@@ -7535,7 +7533,6 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="delete_sounds_title">Звук видалення</string>
      <string name="dlg_error_unmount_title"></string>
      <string name="dnd_notification_title">Вимкнути звук сповіщень</string>
-     <string name="dndm_auto_time_setting_summary">С %1$s до %2$s</string>
      <string name="enable_vertical_clock">Вертикальний віджет годинника</string>
      <string name="enable_vertical_clock_summary">Увімкнути вертикальний віджет годинника на екрані блокування. 
 Може автоматично вмикатися сторонніми темами.
@@ -7556,9 +7553,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="ios_toggle_title">Стиль рядка стану</string>
      <string name="keyguard_security_setting_others">Інформація</string>
      <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
-     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
      <string name="launch_my_app_title">Програма для запуску</string>
-     <string name="link_speed">%1$d Мбіт/с</string>
      <string name="low_battery_warning_title">Звук низького заряду</string>
      <string name="miui_lab_install_drive_mode_error">Не вдається інсталювати. Повторіть спробу</string>
      <string name="miui_lab_install_drive_mode_summary">Режим водія є системною програмою. Інсталяція не потребує підключення до інтернету</string>
@@ -7566,10 +7561,8 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="miui_updater_summary">Швидше за блискавку</string>
      <string name="move_app_failed_dlg_title"></string>
      <string name="mtp_default_title">Режим USB за замовчуванням</string>
-     <string name="notification_header_divider_symbol_with_spaces"> • </string>
      <string name="notification_icon_title">Сповіщення з аватарами</string>
      <string name="numberpicker_change_title">Звук встановлення часу</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="recent_menu_rounded_title">Закруглені кути нещодавніх програм</string>
      <string name="row_icon_title">Динамічні іконки сповіщень</string>
      <string name="runapp_notifications_title">Сповіщення запущених програм</string>
@@ -7588,7 +7581,6 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="smart_wifi_data_transfer">Вимикати Wi-Fi при виклику</string>
      <string name="status_bar_icons_switcher">Іконки в рядку стану</string>
      <string name="status_bar_screen_button_keys">Підтримка жестів навігації</string>
-     <string name="status_bar_settings_carrier_sim">SIM %1$s</string>
      <string name="stop_upload_audio_log">Завершити отримання аудіо логів</string>
      <string name="stop_upload_gps_log">Завершити отримання GPS логів</string>
      <string name="stop_upload_modem_log">Завершити отримання логів модему</string>

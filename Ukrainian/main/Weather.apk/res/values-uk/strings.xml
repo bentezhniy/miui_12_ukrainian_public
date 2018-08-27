@@ -551,15 +551,8 @@
      <string name="your_location">Ваше місцезнаходження</string>
      <string name="aqi_quality_detail_24_hours">24-годинний прогноз</string>
      <string name="aqi_quality_detail_5_days">5-денний прогноз</string>
-     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
      <string name="hourly_forecast_title_24_hours_desc">24-годинний прогноз</string>
      <string name="hourly_forecast_title_hourly_desc">Погодинний прогноз</string>
-     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-     <string name="information_time_source">%1$s | %2$s</string>
-     <string name="install_progress">%1$s%%</string>
-     <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="privacy_policy">Політика конфіденційності</string>
-     <string name="share_weather_desc_alert">%1$s%2$s</string>
      <string name="user_agreement">Умови користування</string>
 </resources>
