@@ -3,11 +3,9 @@
 <resources>
      <string name="EmergencyCallWarningSummary">Для здійснення екстрених викликів потрібний доступ до мережі</string>
      <string name="EmergencyCallWarningTitle">Виклики через Wi-Fi активні</string>
-     <string name="kg_text_message_separator">" — "</string>
      <string name="notification_channel_mobile_data_status">Статус мобільного трафіку</string>
      <string name="notification_reply_button_accessibility">Відповідь</string>
      <string name="popup_window_default_title">Спливаюче вікно</string>
-     <string name="status_bar_notification_info_overflow">&gt;999</string>
      <string name="usb_unsupported_audio_accessory_message">"Під'єднаний пристрій несумісний з цим телефоном. Натисніть, щоб дізнатися подробиці"</string>
      <string name="usb_unsupported_audio_accessory_title">Виявлено аналоговий аудіопристрій</string>
      <string name="wifi_available_action_all_networks">Всі мережі</string>
@@ -17,7 +15,6 @@
      <string name="wifi_available_title_connected">Підключено до мережі Wi-Fi</string>
      <string name="wifi_available_title_connecting">Підключення до відкритої мережі Wi-Fi…</string>
      <string name="wifi_available_title_failed_to_connect">Неможливо підключитися до мережі Wi-Fi</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
 	 <string name="BaMmi">Заборона виклику</string>
      <string name="Bammi">Заборона виклику</string>
      <string name="CLIRDefaultOffNextCallOff">Ідентифікацію абонента не заборонено. Наступний виклик дозволений.</string>

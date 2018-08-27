@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
-     <string name="label_duplicate_count">(%1$d)</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="preference_privacy_policy_title">Політика конфіденційності</string>
      <string name="rcs_app_name">Міні програма</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
 	 <string name="accessibility_calllog_detail">Журнал викликів</string>
      <string name="accessibility_contact_detail">Інформація про контакт</string>
      <string name="account_container_title">З акаунту</string>

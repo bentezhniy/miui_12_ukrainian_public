@@ -42,9 +42,6 @@
      <string name="unit_data_short_weight_q">ц</string>
      <string name="unit_data_short_weight_t">т</string>
      <string name="unit_data_short_weight_uk.st">ст</string>
-     <string name="xiaomi_bytes_unit">%1$s Б</string>
-     <string name="xiaomi_kilobytes_unit">%1$s кБ</string>
-     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
 	 <string name="advanced">Додаткова панель</string>
      <string name="app_name">Калькулятор</string>
      <string name="app_name_danfa">Калькулятор</string>

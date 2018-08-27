@@ -58,7 +58,6 @@
      <string name="suggestion_more_news">Інші новини</string>
      <string name="suggestion_more_news_start_title_text">Схожі новини</string>
      <string name="suggestion_topic_subtitle_hyphen">Фокус</string>
-     <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
      <string name="suggestion_translation_more">РЕЖИМ ПЕРЕКЛАДУ</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sync_and_backup_bookmark">Синхронізація закладок</string>

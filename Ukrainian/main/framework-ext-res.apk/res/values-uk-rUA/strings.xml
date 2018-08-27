@@ -4,7 +4,6 @@
      <string name="miui_warning_button_cancel">Скасувати</string>
      <string name="miui_warning_button_ok">ОК</string>
      <string name="miui_warning_tip_info">Помилка %1$s. Закрити програму?</string>
-     <string name="resolver_recommended_app_name">%1$s (%2$s)</string>
      <string name="voice_begin">Що Ви шукаєте?</string>
      <string name="voice_button_action_down">Відпустіть для пошуку</string>
      <string name="voice_button_action_up">Натисніть для розмови</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="pic_view_format">%1$s/%2$s</string>
      <string name="privacy_category_title">Конфіденційність</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
      <string name="reply_option_log_hint">"не обов'язково"</string>
