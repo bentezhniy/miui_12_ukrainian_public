@@ -1821,4 +1821,108 @@
         <item>Пошук</item>
         <item>Налаштування</item>
      </string-array>
+	<string-array name="broadcast_locales">
+        <item>TW</item>
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CU</item>
+        <item>DO</item>
+        <item>EC</item>
+        <item>SV</item>
+        <item>GQ</item>
+        <item>GF</item>
+        <item>GT</item>
+        <item>GY</item>
+        <item>HT</item>
+        <item>HN</item>
+        <item>JM</item>
+        <item>MX</item>
+        <item>NI</item>
+        <item>PA</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>UY</item>
+        <item>VE</item>
+        <item>IN</item>
+     </string-array>
+     <string-array name="crt_animation_entries">
+        <item>Вимкнена</item>
+        <item>Дуже повільна</item>
+        <item>Повільна</item>
+        <item>Нормальна</item>
+        <item>Швидка</item>
+     </string-array>
+     <string-array name="ios_toggle_entries">
+        <item>За замовчуванням</item>
+        <item>iOS</item>
+        <item>Новий</item>
+        <item>AOSP</item>
+     </string-array>
+     <string-array name="low_battery_warning_entries">
+        <item>Повідомлення і звук</item>
+        <item>Тільки повідомлення</item>
+        <item>Тільки звук</item>
+        <item>Вимкнено</item>
+     </string-array>
+     <string-array name="mtp_default_entries">
+        <item>Завжди зарядка</item>
+        <item>Завжди MTP</item>
+        <item>MTP, якщо екран не заблоковано паролем</item>
+     </string-array>
+     <string-array name="mtp_default_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="smart_mobiledata_entries">
+        <item>Не змінювати</item>
+        <item>Переважно 4G</item>
+        <item>Переважно 3G</item>
+        <item>Тільки 2G (енергозбереження)</item>
+     </string-array>
+     <string-array name="smart_timer_entries">
+        <item>Не змінювати</item>
+        <item>За 10 хвилин</item>
+        <item>За 20 хвилин</item>
+        <item>За 30 хвилин</item>
+        <item>За 1 годину</item>
+        <item>За 2 години</item>
+        <item>За 3 години</item>
+     </string-array>
+     <string-array name="smart_timer_sleepon_entries">
+        <item>Не активовувати</item>
+        <item>За 10 хвилин</item>
+        <item>За 20 хвилин</item>
+        <item>За 30 хвилин</item>
+     </string-array>
+     <string-array name="toggles_columns_entries">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+     </string-array>
+     <string-array name="toggles_line_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="volbtn_action_entries">
+        <item>Наступний трек</item>
+        <item>Попередній трек</item>
+        <item>Стоп</item>
+        <item>Нема дії</item>
+     </string-array>
+     <string-array name="volbtn_timeout_entries">
+        <item>2000 мс</item>
+        <item>1500 мс</item>
+        <item>1000 мс</item>
+        <item>700 мс</item>
+        <item>500 мс</item>
+        <item>300 мс</item>
+     </string-array>
 </resources>
