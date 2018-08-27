@@ -124,4 +124,5 @@
      <string name="sync_notification_title_format">Синхронізація: %1$s</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmsf_activate_info">Інформація активації XMSF</string>
+     <string name="activate_sms_postfix">[Ця SMS використовується для активації вашого пристрою]</string>
 </resources>
