@@ -693,4 +693,19 @@
      <string name="wqfile_group_chat_voice">Голосові повідомлення</string>
      <string name="year_month_day_format">d MMMM yyyy</string>
      <string name="yesterday">Вчора</string>
+     <string name="clean_long_msg">"Очищення файлів: %1$d, завершено: %2$d 
+%3$d%% файлів/секунду, лишилось часу: %4$s"</string>
+     <string name="clean_summary">Очищено файлів: %1$s</string>
+     <string name="empty">" "</string>
+     <string name="hints_header_left">%d</string>
+     <string name="memory_clean_icon_text">Очищення ОЗП</string>
+     <string name="memory_clean_no_trash_tip">Очищення непотрібне</string>
+     <string name="onekeyclean_boost_available">Вільно: %s</string>
+     <string name="onekeyclean_boost_cleaned">Очищено: %s</string>
+     <string name="onekeyclean_boosted_title">Очищення завершено</string>
+     <string name="onekeyclean_boosting_title">Прискорення</string>
+     <string name="onekeyclean_card_btn">Очищення</string>
+     <string name="onekeyclean_card_summery">Очищення сміття</string>
+     <string name="pref_about_privacy_title">Політика конфіденційності</string>
+     <string name="pref_title_create_onekeyclean_shortcut">Ярлик на робочий стіл</string>
 </resources>
