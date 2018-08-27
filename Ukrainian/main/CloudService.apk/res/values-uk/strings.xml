@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="access_denied">Доступ заборонений</string>
+     <string name="close_shortcut">Закрити</string>
+     <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="micloud_dspt_provision_xms">Використовуйте Mi Cloud для синхронізації даних</string>
+     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+     <string name="micloud_footer_international_url">mi.com/micloud</string>
+     <string name="micloud_footer_normal_url">i.mi.com</string>
+     <string name="micloud_main_cancel_sync_now">Скасування…</string>
+     <string name="micloud_main_simple_last_sync_time">Востаннє синхронізовано: %s</string>
+     <string name="micloud_main_simple_off">Синхронізація відключена</string>
+     <string name="micloud_main_simple_pending">Очікування</string>
+     <string name="micloud_main_simple_synced">Синхронізовано</string>
+     <string name="micloud_main_simple_syncing">Синхронізація…</string>
+     <string name="micloud_storage_unit_gb">%s ГБ</string>
+     <string name="micloud_storage_unit_mb">%s МБ</string>
+     <string name="sync_dspt_provision2">i.mi.com</string>
+	 <string name="access_denied">Доступ заборонений</string>
      <string name="account">Акаунт</string>
      <string name="account_related">"Ваш пристрій прив\'язано до Mi акаунту (%s). Підключіться до інтернету для активації пристрою."</string>
      <string name="activate">Активувати</string>

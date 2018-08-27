@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="DOWNLOAD_UNIT_BIT">б</string>
+     <string name="app_size">%1$s</string>
+     <string name="download_num_size">Завантажень: %1$s | %2$s</string>
+     <string name="fileSizeSuffix">%1$s %2$s</string>
+     <string name="privacy_policy">Політика конфіденційності</string>
+	 <string name="DOWNLOAD_UNIT_BIT">б</string>
      <string name="DOWNLOAD_UNIT_GB">ГБ</string>
      <string name="DOWNLOAD_UNIT_KB">кБ</string>
      <string name="DOWNLOAD_UNIT_MB">МБ</string>

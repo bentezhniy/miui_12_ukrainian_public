@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+     <string name="symbol_colon">:</string>
+     <string name="timer_can_continue_in_timer">Відкрийте таймер для продовження</string>
+     <string name="timer_cancel_hint">Стоп</string>
+     <string name="timer_end_time">Таймер зупиниться о %s</string>
+     <string name="timer_end_time_format">HH:mm d MMM</string>
+     <string name="timer_end_time_format_today">HH:mm</string>
+     <string name="timer_is_paused">Таймер зупинено</string>
+	 <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
      <string name="add_alarm">Додати</string>
      <string name="add_clock">Додати годинник</string>
      <string name="add_time_zone">Додати часовий пояс</string>

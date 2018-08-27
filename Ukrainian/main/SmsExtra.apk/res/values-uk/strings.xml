@@ -45,4 +45,16 @@
      <string name="packages_select_sim_cards_title">Оберіть SIM-карту</string>
      <string name="sim1">SIM 1</string>
      <string name="sim2">SIM 2</string>
+	 <string name="button_close">Закрити</string>
+     <string name="cm_privacy_dialog_allow">ОК</string>
+     <string name="cm_privacy_dialog_cancel">Скасувати</string>
+     <string name="cm_privacy_dialog_spannable_tips">протокол конфіденційності мобільного оператора</string>
+     <string name="cm_privacy_dialog_tips">Сервіс SMS налаштовується оператором. Необхідно прийняти %1s</string>
+     <string name="cm_privacy_dialog_title">Попередження</string>
+     <string name="imageview_ad">Реклама</string>
+     <string name="more">Ще</string>
+     <string name="net_sms_unsubscribe">Ви відписалися</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="summary_pref_cm_smart_sms">Надавати шаблони карт, номери служби SMS та подібне</string>
+     <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
 </resources>

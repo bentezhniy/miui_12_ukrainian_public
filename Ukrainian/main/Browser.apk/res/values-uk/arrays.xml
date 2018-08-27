@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="aqi_title">
+     <string-array name="suggestion_topic_tips">
+        <item>Перегляд фокуса</item>
+        <item>Центральна проблема</item>
+     </string-array>
+     <string-array name="suggestion_weather_condition_message">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>Гроза</item>
+        <item>Град</item>
+        <item>Мокрий сніг</item>
+        <item>Невеликий дощ</item>
+        <item>Дощ</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Сильна злива</item>
+        <item>Шторм</item>
+        <item>Сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Сніг</item>
+        <item>Снігопад</item>
+        <item>Заметіль</item>
+        <item>Туман</item>
+        <item>Морозний дощ</item>
+        <item>Піщана буря</item>
+        <item>Невеликий дощ</item>
+        <item>Дощ</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Злива</item>
+        <item>Сніг</item>
+        <item>Сніг</item>
+        <item>Заметіль</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Піщана буря</item>
+        <item>Туман</item>
+        <item>Туман</item>
+        <item>Імла</item>
+        <item>Димка</item>
+        <item>Димка</item>
+        <item>Димка</item>
+        <item>Густий туман</item>
+        <item>Густий туман</item>
+        <item>Немає даних</item>
+        <item>Дощ</item>
+        <item>Сніг</item>
+     </string-array>
+	 <string-array name="aqi_title">
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>

@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="all_month_str">
-        <item>Січ</item>
-        <item>Лют</item>
-        <item>Бер</item>
-        <item>Кві</item>
-        <item>Тра</item>
-        <item>Чер</item>
-        <item>Лип</item>
-        <item>Сер</item>
-        <item>Вер</item>
-        <item>Жов</item>
-        <item>Лис</item>
-        <item>Гру</item>
-     </string-array>
      <string-array name="alphabet_chars">
         <item>☆</item>
         <item>А</item>
@@ -51,6 +37,20 @@
         <item>Я</item>
         <item>\#</item>
         <item>∅</item>
+     </string-array>
+	 <string-array name="all_month_str">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Кві</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
      </string-array>
      <string-array name="calendar_remind_string_array">
         <item>Сьогодні вночі</item>

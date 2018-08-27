@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Безпечна авторизація</string>
+    <string name="action_bar_title">Увійти в %1$s</string>
+	<string name="app_name">Безпечна авторизація</string>
     <string name="action_use_network">Використовувати цю мережу</string>
     <string name="action_do_not_use_network">Не використовувати цю мережу</string>
     <string name="action_bar_label">Увійти в мережу</string>

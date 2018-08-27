@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="action_cancel">Скасувати</string>
+     <string name="pic_view_format">%1$s/%2$s</string>
+     <string name="privacy_category_title">Конфіденційність</string>
+     <string name="privacy_policy_title">Політика конфіденційності</string>
+     <string name="reply_option_log_hint">"не обов'язково"</string>
+     <string name="reply_select_log_hint">Оберіть журнал звіту</string>
+     <string name="tab_title_preferences">Налаштування</string>
+     <string name="toast_loading_app_id">Отримання інформації…</string>
+	 <string name="action_cancel">Скасувати</string>
      <string name="action_confirm">Вибрати</string>
      <string name="action_submit">Надіслати</string>
      <string name="announcement">Попередження</string>

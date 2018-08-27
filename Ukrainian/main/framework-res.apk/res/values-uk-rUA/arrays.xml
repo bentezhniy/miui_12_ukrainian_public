@@ -23,6 +23,9 @@
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
+	<string-array name="config_ephemeralResolverPackage">
+        <item>com.google.android.gms</item>
+     </string-array>
     <string-array name="organizationtypes">
         <item>Робочий</item>
         <item>Інше</item>

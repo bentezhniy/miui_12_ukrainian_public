@@ -4,6 +4,11 @@
         <item quantity="other">Додано контактів: %1$d</item>
         <item quantity="one">Додано контактів: %1$d</item>
      </plurals>
+	 <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Імпортовано %1$d контактів</item>
+        <item quantity="one">Імпортовано %1$d контакт</item>
+        <item quantity="few">Імпортовано %1$d контакти</item>
+     </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Контактів: %1$d</item>
         <item quantity="one">Контактів: %1$d</item>
