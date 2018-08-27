@@ -890,4 +890,11 @@
      <string name="year_picker_description">Список</string>
      <string name="yearly">Щорічно (%s)</string>
      <string name="yearly_plain">Щорічно</string>
+     <string name="clear_net_mock_success">Завершено</string>
+     <string name="close_alarm">Вимкнути</string>
+     <string name="guide_card_close">Закрити</string>
+     <string name="login_failed_toast">Не вдається авторизуватися</string>
+     <string name="receive_net_mock_success">Отримано</string>
+     <string name="talk_back_month">" "</string>
+     <string name="talk_back_setting">Налаштування</string>
 </resources>
