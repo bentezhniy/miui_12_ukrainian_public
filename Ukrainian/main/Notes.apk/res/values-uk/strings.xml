@@ -282,7 +282,6 @@
      <string name="date_time_picker_dialog_title">Встановіть дату та час</string>
      <string name="date_time_picker_has_not_set_alarm">Будильник не встановлено</string>
      <string name="date_time_picker_has_set_alarm">Будильник встановлено</string>
-     <string name="micloud_state_total_count">%1$s</string>
      <string name="setting_other">ІНШЕ</string>
      <string name="setting_privacy">Політика конфіденційності</string>
      <string name="toast_notes_hidden_edit">Нотатку приховано. Для перегляду потягніть список донизу</string>

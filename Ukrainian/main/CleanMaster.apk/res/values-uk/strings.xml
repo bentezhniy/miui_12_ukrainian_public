@@ -696,8 +696,6 @@
      <string name="clean_long_msg">"Очищення файлів: %1$d, завершено: %2$d 
 %3$d%% файлів/секунду, лишилось часу: %4$s"</string>
      <string name="clean_summary">Очищено файлів: %1$s</string>
-     <string name="empty">" "</string>
-     <string name="hints_header_left">%d</string>
      <string name="memory_clean_icon_text">Очищення ОЗП</string>
      <string name="memory_clean_no_trash_tip">Очищення непотрібне</string>
      <string name="onekeyclean_boost_available">Вільно: %s</string>
