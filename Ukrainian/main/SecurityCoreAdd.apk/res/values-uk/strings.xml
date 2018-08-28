@@ -2,6 +2,40 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Active">Активувати</string>
+     <string name="about_ent_mode">Про режим компанії</string>
+     <string name="activate_ent_mode">Активувати режим компанії</string>
+     <string name="ent_activating">Активація…</string>
+     <string name="ent_activation">Активувати</string>
+     <string name="ent_activation_hint">Введіть корпоративний код разом з ліцензійним для активації режиму компанії. Після цього будуть активовані корпоративні служби, які налаштовуються</string>
+     <string name="ent_activation_hint_whit_licence">"Активуйте режим компанії, щоб увімкнути корпоративні сервіси, які налаштовуються.
+Переконайтеся, що назву Вашої компанії вказано правильно. Перед активацією потрібно прийняти Політику конфіденційності"</string>
+     <string name="ent_agency_code">Корпоративний код</string>
+     <string name="ent_agency_code_hint">Введіть корпоративний код</string>
+     <string name="ent_agency_code_invalid">Корпоративний код введено неправильно</string>
+     <string name="ent_agree_privacy_policy">Прийняти Політику конфіденційності</string>
+     <string name="ent_app_verified">Схоже, на Вашому пристрої встановлено корпоративні програми. Активувати режим компанії?</string>
+     <string name="ent_confirm_dialog_content">Після активації режиму компанії ви не зможете повернутися до поточного стану системи, але всі ваші дані будуть збережені на цьому пристрої. Вам доведеться перезавантажити пристрій для активації режиму компанії. Активувати?</string>
+     <string name="ent_disallow_running">Програму запускати заборонено</string>
+     <string name="ent_download_install_dialog_content">Інсталювати корпоративні програми для активації режиму компанії?</string>
+     <string name="ent_download_install_dialog_title">Потрібні програми</string>
+     <string name="ent_downloading_message">Завантаження %d%%</string>
+     <string name="ent_error_dialog_content">Деякі введені вами коди неправильні</string>
+     <string name="ent_get_code_hint">Ви можете отримати корпоративні та ліцензійні коди від свого керівника</string>
+     <string name="ent_install_dialog_content">Інсталювати програми і перезавантажити пристрій?</string>
+     <string name="ent_installing">Інсталяція…</string>
+     <string name="ent_invalid_agency">Неправильний корпоративний код</string>
+     <string name="ent_invalid_qr">QR-код недоступний</string>
+     <string name="ent_licence_code">Ліцензійний код</string>
+     <string name="ent_licence_code_hint">Введіть ліцензійний код</string>
+     <string name="ent_licence_code_invalid">Неправильний ліцензійний код</string>
+     <string name="ent_mode_activated">Режим компанії активовано</string>
+     <string name="ent_network_error">Неможливо підключитися до інтернету</string>
+     <string name="ent_next_step">Далі</string>
+     <string name="ent_privacy_policy_notice">* Особисті дані в цьому режимі збираються відповідно до політики, встановленої Вашою компанією. Xiaomi не збирає особисті дані в цьому режимі</string>
+     <string name="enterprise_mode">Режим компанії</string>
+     <string name="install">Інсталювати</string>
+     <string name="install_error">Не вдається інсталювати</string>
+     <string name="menu_item_about_privacy_title">Політика конфіденційності</string>
      <string name="PassWordGuard">Пароль другого простору</string>
      <string name="PrivacyContactDes1">Приватні повідомлення та контакти</string>
      <string name="PrivacyContactDes2">Якщо Ви використовуєте приватні повідомлення в режимі першого простору, ці повідомлення будуть доступні в режимі другого простору разом з контактами.</string>
