@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
-     <string name="lb_time_separator">:</string>
-     <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="Parse_error_dlg_title">Синтаксична помилка</string>
      <string name="allow_source_dlg_text">%1$s прагне інсталювати інші програми.\n\nДозволити і запам\'ятати вибір?</string>
      <string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>
