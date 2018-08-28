@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Пошук</string>
+     <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
      <string name="clear_shortcuts">Очистити історію пошуку</string>
      <string name="clear_shortcuts_agree">Очистити</string>
      <string name="clear_shortcuts_disagree">Скасувати</string>

@@ -12,4 +12,5 @@
     <string name="import_vcard">Імпорт ^1</string>
     <string name="mime_display_name">Дані з NFC</string>
     <string name="vcard_title">Контактна інформація для ^1</string>
+    <string name="call_phone_permission_denied">Потрібен доступ до телефону для здійснення викликів</string>
 </resources>
