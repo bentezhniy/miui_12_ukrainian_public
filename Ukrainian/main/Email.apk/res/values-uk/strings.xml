@@ -2,11 +2,6 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="Folders">Теки</string>
-     <string name="account_cache_provider">Сховище кешу акаунту</string>
-     <string name="bank_card_list_card_num_fmt">****%s</string>
-     <string name="bcc_heading">"Прихована копія: "</string>
-     <string name="cc_attribution">Копія: %1$s</string>
-     <string name="conversation_content_provider">Сховище діалогів</string>
      <string name="login_mail">Авторизація</string>
      <string name="need_get_qq_mail">Потрібна пошта QQ</string>
      <string name="open_notification_kingagent">Повідомлення про місце поховання</string>
@@ -18,7 +13,6 @@
      <string name="qq_authorization_know">Код авторизації</string>
      <string name="qq_authorization_tips">Більше не запитувати</string>
      <string name="qq_verify_code">(потрібно код QQ)</string>
-     <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="title_activity_about">Про програму</string>
      <string name="verify_code">Код перевірки</string>
      <string name="version_string">Версія: %s</string>
