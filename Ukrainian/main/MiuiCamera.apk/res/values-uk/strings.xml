@@ -2,7 +2,6 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_portrait_bokeh_button">Портретний режим</string>
-     <string name="empty">" "</string>
      <string name="portrait_bokeh_first_tips">Використовуйте портретний режим для розмиття фону на знімках</string>
      <string name="portrait_bokeh_text">Портретний режим</string>
      <string name="portrait_bokeh_tips">"Розмістіть об'єкт на відстані 1.5 м"</string>

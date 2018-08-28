@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="size_suffix">%1$s %2$s</string>
 	 <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_up_description">Назад</string>
      <string name="action_mode_deselect_all">Зняти вибір</string>

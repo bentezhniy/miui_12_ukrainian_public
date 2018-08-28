@@ -2,7 +2,6 @@
 <resources>
      <string name="agree_terms_input_method_facemoji">Прийняти Політику конфіденційності Facemoji</string>
      <string name="agree_terms_input_method_kika">Прийняти Політику конфіденційності Kika</string>
-     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
      <string name="terms_of_use_label_systemhelper">Автоматична реєстрація</string>
      <string name="terms_of_use_lable_apps">Mi сервіси, активація SIM, Mi Cloud, пошук пристрою, робочий стіл, ігровий центр, MAB, MIUI Daemon та системні компоненти MSA, сервіси перекладу, ярлики програм, Mi помічник, статистика, Mi Link</string>
      <string name="terms_of_use_lable_default_input_method_facemoji">"

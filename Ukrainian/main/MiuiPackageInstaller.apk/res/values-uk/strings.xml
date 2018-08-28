@@ -11,11 +11,6 @@
      <string name="bluetooth_show_devices_without_names">Показувати Bluetooth-пристрої без назв</string>
      <string name="bluetooth_show_devices_without_names_summary">Показувати Bluetooth-пристрої без назв (тільки з MAC-адресами)</string>
      <string name="connected_via_carrier">Підключено к %1$s</string>
-     <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration_enhanced">(залишилось приблизно ^2 при поточному рівні використання)</string>
      <string name="power_remaining_duration_only_enhanced">Залишилось приблизно ^1 при поточному рівні використання</string>
      <string name="power_remaining_duration_only_short_enhanced">Залишилось  ^1 при поточному рівні використання</string>

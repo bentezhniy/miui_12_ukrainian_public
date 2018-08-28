@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="antispam_marked_title">%1$s</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="sim1_description">SIM1</string>
      <string name="sim2_description">SIM2</string>
 	 <string name="accept_modify_call_request_prompt">Змінити запит виклику?</string>
