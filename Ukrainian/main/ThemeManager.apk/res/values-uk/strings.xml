@@ -14,9 +14,7 @@
      <string name="exo_download_notification_channel_name">Завантаження</string>
      <string name="exo_download_removing">Видалити завантаження</string>
      <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f мбіт/с</string>
      <string name="exo_track_mono">Моно</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_selection_auto">Авто</string>
      <string name="exo_track_selection_none">Немає</string>
      <string name="exo_track_selection_title_audio">Аудіо</string>
@@ -27,15 +25,12 @@
      <string name="exo_track_surround_5_point_1">"Об'ємний звук 5.1"</string>
      <string name="exo_track_surround_7_point_1">"Об'ємний звук 7.1"</string>
      <string name="exo_track_unknown">Невідомо</string>
-     <string name="item_resource_audio_divider">│</string>
      <string name="online_precust_hatsune">Hatsune</string>
-     <string name="resource_price_format">(%1$s)</string>
      <string name="shortcut_add">Додати іконку</string>
      <string name="shortcut_cancel">Скасувати</string>
      <string name="shortcut_message">Додайте ярлик на робочий стіл</string>
      <string name="shortcut_show_tip">"Запам'ятати"</string>
      <string name="shortcut_title">Подобаються шпалери?</string>
-     <string name="theme_name">%1$s</string>
      <string name="update_btn">Оновити</string>
      <string name="update_check">Перевірити оновлення</string>
      <string name="update_checking">Перевірка оновлень…</string>
