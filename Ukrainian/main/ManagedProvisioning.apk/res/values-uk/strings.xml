@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Адміністратор пристрою</string>
+    <string name="cant_replace_or_remove_work_profile">Неможливо замінити або видалити робочий профіль</string>
+    <string name="work_profile_cant_be_added_contact_admin">Робочий профіль не може бути доданий на цей пристрій</string>
+	<string name="app_name">Адміністратор пристрою</string>
     <string name="provisioning_error_title">Помилка</string>
     <string name="setup_work_space">Налаштування профілю</string>
     <string name="company_controls_workspace">Ваша організація керує цим профілем і забезпечує його захист. До всіх інших даних, програм і налаштувань на пристрої є доступ тільки у Вас.</string>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Import">Імпорт</string>
+     <string name="face_recommend_group_number">%1$d/%2$d</string>
+     <string name="fileSizeSuffix">%1$s %2$s</string>
+     <string name="grant_permission_item">\"%s\"</string>
+     <string name="percent_sign">%</string>
+     <string name="photo_editor_crop_auto">Авто</string>
+	 <string name="Import">Імпорт</string>
      <string name="__leak_canary_analysis_failed">Помилка аналізу витоку</string>
      <string name="__leak_canary_class_has_leaked">Витекло: %s</string>
      <string name="__leak_canary_delete">Видалити</string>

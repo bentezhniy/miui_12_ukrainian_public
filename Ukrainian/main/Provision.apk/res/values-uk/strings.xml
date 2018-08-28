@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="congratulation_label">Ласкаво просимо!</string>
+     <string name="agree_terms_input_method_facemoji">Прийняти Політику конфіденційності Facemoji</string>
+     <string name="agree_terms_input_method_kika">Прийняти Політику конфіденційності Kika</string>
+     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
+     <string name="terms_of_use_label_systemhelper">Автоматична реєстрація</string>
+     <string name="terms_of_use_lable_apps">Mi сервіси, активація SIM, Mi Cloud, пошук пристрою, робочий стіл, ігровий центр, MAB, MIUI Daemon та системні компоненти MSA, сервіси перекладу, ярлики програм, Mi помічник, статистика, Mi Link</string>
+     <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Необхідно прийняти Політику конфіденційності Facemoji перед використанням цієї функції"</string>
+     <string name="terms_of_use_lable_default_input_method_kika">"
+
+Необхідно прийняти Політику конфіденційності Kika перед використанням цієї функції"</string>
+     <string name="terms_of_use_lable_gms">, сервіси Google Play</string>
+     <string name="terms_of_use_lable_smart_cards">, розумні картки</string>
+     <string name="terms_privacy_policy_input_method_facemoji">Політика конфіденційності Facemoji</string>
+     <string name="terms_privacy_policy_input_method_kika">Політика конфіденційності Kika</string>
+     <string name="voice_assist_desp_screen_light">При увімкненні екрану скажіть \"Mi AI\". Mi AI повинен розпізнати Ваш голос, після чого Ви зможете керувати пристроєм</string>
+	 <string name="congratulation_label">Ласкаво просимо!</string>
 	 <string name="congratulation_swipe">Проведіть вгору для входу у систему</string>
      <string name="navigation_picker_gesture_guide">Поради з керування жестами</string>
      <string name="navigation_picker_radio_text_full_screen">Керування жестами</string>

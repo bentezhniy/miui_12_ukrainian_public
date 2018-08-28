@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_bind_prompt"> Перенесення даних користувача\nПеренесення даних може зайняти деякий час,\nВаш акаунт тимчасово буде недоступний, будь ласка почекайте…</string>
+    <string name="add_one">+1</string>
+    <string name="directory_info_divider">"  |  "</string>
+    <string name="message_my_received_praise_count">+%1$s</string>
+    <string name="message_reply_suffix">": "</string>
+    <string name="operation_show_privacy_policy">Політика конфіденційності</string>
+    <string name="origin_name">"%1$s: "</string>
+    <string name="recent_apk_status_install">ІНСТАЛЬОВАНО</string>
+    <string name="recommend_users">%1$s+</string>
+    <string name="topic_message">%1$s: %2$s</string>
+    <string name="video_tag">\#%s#</string>
+    <string name="video_tag_search_lead">\#</string>
+    <string name="video_upload_item_title">%1$s (%2$s)</string>
+	<string name="account_bind_prompt"> Перенесення даних користувача\nПеренесення даних може зайняти деякий час,\nВаш акаунт тимчасово буде недоступний, будь ласка почекайте…</string>
     <string name="add_task">Додати файли</string>
 	<string name="auto">Системний</string>
     <string name="common_google_play_services_install_text">Для роботи програми \"%1$s\" потрібно інсталювати сервіси Google Play</string>

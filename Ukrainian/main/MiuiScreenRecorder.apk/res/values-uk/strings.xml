@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_info">Натисніть для зупинки запису</string>
+     <string name="first_using_mic_dialog_message">Дозволити програмі доступ до мікрофона для запису звуку?</string>
+     <string name="first_using_mic_dialog_title">Попередження</string>
+     <string name="using_record_confirm_cancel">Заборонити</string>
+     <string name="using_record_confirm_ok">Дозволити</string>
+	 <string name="app_info">Натисніть для зупинки запису</string>
 	 <string name="cannot_change_frames">Частоту кадрів можна налаштувати лише для записів з фіксованою частотою кадрів</string>
      <string name="close_screen_record">Запис зупинено</string>
      <string name="fixed_frame_rate">Фіксована частота кадрів</string>

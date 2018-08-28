@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="action_add_to_workspace">На робочий стіл</string>
+     <string name="notification_reset_description">%1$s %1$s може скинути налаштування робочого столу до %2$s</string>
+     <string name="notification_reset_duration">За 2 години,</string>
+	 <string name="action_add_to_workspace">На робочий стіл</string>
      <string name="activity_not_found">Програму не знайдено</string>
      <string name="add_screen">Додати екранну клавішу</string>
      <string name="announce_for_checked">%1$s, відмічено</string>

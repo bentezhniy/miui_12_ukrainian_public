@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="allow">Дозволити</string>
+     <string name="preference_other">Інформація</string>
+     <string name="preference_privacy_title">Політика конфіденційності</string>
+	 <string name="allow">Дозволити</string>
      <string name="altitude">%.1f</string>
      <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
      <string name="altitude_title">Висота</string>

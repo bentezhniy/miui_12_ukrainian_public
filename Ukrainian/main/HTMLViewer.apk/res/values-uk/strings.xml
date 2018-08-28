@@ -23,4 +23,5 @@
      <string name="settings_ad_loading_unavailable">Помилка завантаження</string>
 	 <string name="pre_installed_apps">Стандартні програми</string>
 	 <string name="autoconnect">Автопідключення</string>
+	 <string name="open_wifi_connect_and_use_data_summary">Трафік продовжує використовуватися, натисніть для перемикання на Wi-Fi та перевірки</string>
 </resources>

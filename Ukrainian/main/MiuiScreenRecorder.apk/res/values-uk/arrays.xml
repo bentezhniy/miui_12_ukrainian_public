@@ -12,6 +12,10 @@
         <item>4 Mbps</item>
         <item>1 Mbps</item>
      </string-array>
+	 <string-array name="screenrecorder_utils_support_high_frames_cpu">
+        <item>Qualcomm Technologies, Inc SDM845</item>
+        <item>Qualcomm Technologies, Inc MSM8998</item>
+     </string-array>
      <string-array name="screenrecorder_settings_bit_rate_values">
         <item>200</item>
         <item>100</item>

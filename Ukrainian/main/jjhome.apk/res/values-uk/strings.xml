@@ -485,7 +485,6 @@
      <string name="welcome_4_desc">Режим \"Для літніх\" вже доступний</string>
      <string name="welcome_goto_launcher">Почати</string>
      <string name="welcome_goto_website">Перейти</string>
-	 <string name="clock_year_format">d MMMM</string>
      <string name="clock_year_format_4_1">dd MMMM yyyy</string>
 	 <string name="font_size_settings">Розмір шрифту</string>
 	 <string name="launcher_default_setting_failed_msg">Ваш телефон не підтримує налаштування робочого столу за замовчуванням</string>

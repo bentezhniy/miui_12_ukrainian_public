@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accept">ОК</string>
+     <string name="amazon_assistant_shopping_title">Пошук на Amazon</string>
+	 <string name="accept">ОК</string>
      <string name="access_sd_fail">SD картка недоступна</string>
      <string name="accessibility_shutter_button">Зйомка</string>
      <string name="action_search">Пошук</string>
