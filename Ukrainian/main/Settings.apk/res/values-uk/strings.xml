@@ -7542,7 +7542,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="forget_password_dialog_button_text">Назад</string>
      <string name="forget_password_dialog_content_four"> <Data>2. Оберіть пункт &lt;font color=#e6e6e6>[Wipe data]&lt;/font> і дочекайтеся перезавантаження.</Data> </string>
      <string name="forget_password_dialog_content_one"> <Data>Якщо ви забули пароль, ви не зможете відновити його. Щоб скинути пароль, потрібно виконати загальне скидання пристрою (всі фото, контакти та інші данні будуть очищені). Створіть бекап важливих даних</Data> </string>
-     <string name="forget_password_dialog_content_three"> <Data>1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки ви не побачите іконку &lt;img src=''>.</Data> </string>
+     <string name="forget_password_dialog_content_three">1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки ви не побачите іконку</string>
      <string name="forget_password_dialog_content_two">Слідуйте інструкції, щоб виконати загальне скидання:</string>
      <string name="forget_password_dialog_title">Скидання паролю</string>
      <string name="gamebooster_summary_dx">При запуску сервісу прискорення ігор буде додано ярлик на робочий стіл</string>
