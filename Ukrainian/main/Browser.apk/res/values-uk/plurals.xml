@@ -13,7 +13,6 @@
         <item quantity="other">%1$d статей були оновлені</item>
         <item quantity="one">%1$d стаття була оновлена</item>
         <item quantity="few">%1$d статті були оновлені</item>
-        <item quantity="many">%1$d статей були оновлені</item>
      </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Видалити %d завантажень?</item>
@@ -22,10 +21,14 @@
      </plurals>
      <plurals name="find_on_page_matches">
         <item quantity="other">Збігів: %d</item>
-        <item quantity="one">Збігів: %d</item>
+        <item quantity="one">Збіг: %d</item>
+        <item quantity="few">Збігів: %d</item>
+        <item quantity="many">Збігів: %d</item>
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Останні %d дн.</item>
+        <item quantity="few">Останні %d дні</item>
+        <item quantity="many">Останні %d днів</item>
      </plurals>
      <plurals name="matches_found">
         <item quantity="other">%1$d з %2$d</item>
@@ -37,15 +40,10 @@
      </plurals>
      <plurals name="mw_last_num_days">
         <item quantity="other">Останні %d днів</item>
-        <item quantity="one">Останній %d день</item>
-        <item quantity="few">Останні %d дні</item>
-        <item quantity="many">Останні %d днів</item>
      </plurals>
      <plurals name="mw_matches_found">
-        <item quantity="other">%1$d збігів з %2$d</item>
-        <item quantity="one">1 збіг</item>
-        <item quantity="few">%1$d збіги з %2$d</item>
-        <item quantity="many">%1$d збігів з %2$d</item>
+        <item quantity="other">%1$d із %2$d</item>
+        <item quantity="one">%1$d із %2$d</item>
      </plurals>
      <plurals name="nav_screen_incognito_time">
         <item quantity="other">За %d секунд буде створено нову сторінку</item>
@@ -59,14 +57,20 @@
      <plurals name="suggest_access_item_album_songs">
         <item quantity="other">Треків: %d</item>
         <item quantity="one">Треків: %d</item>
+        <item quantity="few"Треків: %d</item>
+        <item quantity="many">Треків: %d</item>
      </plurals>
      <plurals name="suggest_access_item_singer_albums">
         <item quantity="other">Альбомів: %d</item>
         <item quantity="one">Альбомів: %d</item>
+        <item quantity="few">Альбомів: %d</item>
+        <item quantity="many">Альбомів: %d</item>
      </plurals>
      <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">Популярних треків: %d</item>
         <item quantity="one">Популярних треків: %d</item>
+        <item quantity="few">Популярних треків: %d</item>
+        <item quantity="many">Популярних треків: %d</item>
      </plurals>
      <plurals name="transfer_prompt">
         <item quantity="other">Відтворення відео за %1$d сек.</item>
@@ -110,8 +114,6 @@
      <plurals name="videos_updated_amount">
         <item quantity="other">%1$d відео було оновлено</item>
         <item quantity="one">%1$d відео було оновлено</item>
-        <item quantity="few">%1$d відео були оновлені</item>
-        <item quantity="many">%1$d відео було оновлено</item>
      </plurals>
      <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>
@@ -119,6 +121,8 @@
      </plurals>
      <plurals name="webview_last_num_days">
         <item quantity="other">Останні %d днів</item>
+        <item quantity="few">Останні %d днів</item>
+        <item quantity="many">Останні %d днів</item>
      </plurals>
      <plurals name="webview_matches_found">
         <item quantity="other">%1$d з %2$d</item>
