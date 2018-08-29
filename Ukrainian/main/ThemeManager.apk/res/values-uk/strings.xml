@@ -427,10 +427,6 @@
      <string name="resource_ranking">Топ</string>
      <string name="resource_ranking_free">Безкоштовні</string>
      <string name="resource_ranking_purchase">Платні</string>
-     <string name="resource_ring_ranking_list_divider">-</string>
-     <string name="resource_ring_ranking_list_rank_1">1</string>
-     <string name="resource_ring_ranking_list_rank_2">2</string>
-     <string name="resource_ring_ranking_list_rank_3">3</string>
      <string name="resource_ringtone_default">Мелодії</string>
      <string name="resource_ringtone_playing_error">Помилка відтворення</string>
      <string name="resource_ringtone_volume_mute">Звук вимкнено</string>
