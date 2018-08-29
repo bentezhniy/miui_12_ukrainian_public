@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_wifi_security_type_none">"Открытая сеть"</string>
-     <string name="accessibility_wifi_security_type_secured">"Защищенная сеть"</string>
-     <string name="active_input_method_subtypes">"Активные способы ввода"</string>
-     <string name="available_via_carrier">"Доступно через %1$s"</string>
-     <string name="battery_info_status_charging_lower">"заряжается"</string>
+     <string name="accessibility_wifi_security_type_none">"Відкрита мережа"</string>
+     <string name="accessibility_wifi_security_type_secured">"Захищена мережа"</string>
+     <string name="active_input_method_subtypes">"Активні засоби вводу"</string>
+     <string name="available_via_carrier">"Доступно за %1$s"</string>
+     <string name="battery_info_status_charging_lower">"заряджається"</string>
      <string name="battery_meter_very_low_overlay_symbol">!</string>
-     <string name="bluetooth_connected_battery_level">"Подключено, уровень заряда батареи: %1$s"</string>
-     <string name="bluetooth_connected_no_a2dp_battery_level">"Подключено (кроме аудио), уровень заряда батареи: %1$s"</string>
-     <string name="bluetooth_connected_no_headset_battery_level">"Подключено (кроме звонков), уровень заряда батареи: %1$s"</string>
-     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"Подключено (кроме звонков и аудио), уровень заряда батареи: %1$s"</string>
-     <string name="bluetooth_enable_inband_ringing">"Включить внутриполосное воспроизведение"</string>
-     <string name="bluetooth_enable_inband_ringing_summary">"Разрешить воспроизведение рингтонов на телефоне через Bluetooth-гарнитуру"</string>
+     <string name="bluetooth_connected_battery_level">"Під'єднано, рівень заряду батареї: %1$s"</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">"Під'єднано (окрім аудіо), рівень заряду батареї: %1$s"</string>
+     <string name="bluetooth_connected_no_headset_battery_level">"Під'єднано (окрім дзвінків), рівень заряду батареї: %1$s"</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"Під'єднано (окрім дзвінків та аудіо), рівень заряду батареї: %1$s"</string>
+     <string name="bluetooth_enable_inband_ringing">"Увімкнути внутрішньосмугове відтворення"</string>
+     <string name="bluetooth_enable_inband_ringing_summary">"Дозволити відтворення рингтонів на телефоні через Bluetooth-гарнітуру"</string>
      <string name="bluetooth_profile_a2dp_high_quality">"HD Audio: %1$s"</string>
      <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">"HD Audio"</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Глубина кодирования звука при передаче через Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Аудиокодек для Bluetooth:
-разрядность"</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode">"Режим аудиоканала Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудиокодек для Bluetooth:
-режим канала"</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">"Аудиокодек LDAC для Bluetooth: качество воспроизведения"</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Аудиокодек LDAC для Bluetooth:
-качество воспроизведения"</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate">"Частота дискретизации при передаче через Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Аудиокодек для Bluetooth:
-частота дискретизации"</string>
-     <string name="bluetooth_select_a2dp_codec_streaming_label">"Потоковая передача: %1$s"</string>
-     <string name="bluetooth_select_a2dp_codec_type">"Аудиокодек для передачи через Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Аудиокодек для Bluetooth"</string>
-     <string name="bluetooth_select_avrcp_version_dialog_title">"Выберите версию Bluetooth AVRCP"</string>
-     <string name="bluetooth_select_avrcp_version_string">"Версия Bluetooth AVRCP"</string>
-     <string name="bluetooth_show_devices_without_names">"Показывать Bluetooth-устройства без названий"</string>
-     <string name="bluetooth_show_devices_without_names_summary">"Показывать Bluetooth-устройства без названий (только с MAC-адресами)"</string>
-     <string name="connected_via_carrier">"Подключено к %1$s"</string>
-     <string name="connected_via_network_scorer">"Автоматически подключено к %1$s"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Глибина кодування звуку при передачі через Bluetooth"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Аудіокодек для Bluetooth:
+розрядність"</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode">"Режим аудіоканалу Bluetooth"</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудиікодек для Bluetooth:
+режим каналу"</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">"Аудіокодек LDAC для Bluetooth: якість відтворення"</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Аудіокодек LDAC для Bluetooth:
+якість відтворення"</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate">"Частота дискретизації при передачі через Bluetooth"</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Аудіокодек для Bluetooth:
+частота дискретизації"</string>
+     <string name="bluetooth_select_a2dp_codec_streaming_label">"Потокова передача: %1$s"</string>
+     <string name="bluetooth_select_a2dp_codec_type">"Аудіокодек для передачі через Bluetooth"</string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Аудіокодек для Bluetooth"<ііііі/string>
+     <string name="bluetooth_select_avrcp_version_dialog_title">"Оберіть версію Bluetooth AVRCP"</string>
+     <string name="bluetooth_select_avrcp_version_string">"Версія Bluetooth AVRііCP"</string>
+     <string name="bluetooth_show_devices_without_names">"Відображати Bluetooth-пристрої без назв"</string>
+     <string name="bluetooth_show_devices_without_names_summary">"Відображати Bluetooth-пристрої без назв (тільки з MAC-адресами)"</string>
+     <string name="connected_via_carrier">"Під'єднано до %1$s"</string>
+     <string name="connected_via_network_scorer">"Автоматично під'єднано до %1$s"</string>
      <string name="connected_via_network_scorer_default">"Автоматически подключено через автора рейтинга сетей"</string>
      <string name="debug_hw_renderer">"Средство визуализации"</string>
      <string name="direct_boot_unaware_dialog_message">"Примечание. Чтобы запустить это приложение после перезагрузки, разблокируйте экран."</string>
