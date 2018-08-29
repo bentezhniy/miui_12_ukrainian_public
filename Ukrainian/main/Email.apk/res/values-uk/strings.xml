@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="account_cache_provider">Сховище кешу акаунту</string>
-     <string name="bank_card_list_card_num_fmt">****%s</string>
-     <string name="bcc_heading">"Прихована копія: "</string>
-     <string name="cc_attribution">Копія: %1$s</string>
-     <string name="conversation_content_provider">Сховище діалогів</string>
 	 <string name="Folders">Теки</string>
      <string name="login_mail">Авторизація</string>
      <string name="need_get_qq_mail">Потрібна пошта QQ</string>

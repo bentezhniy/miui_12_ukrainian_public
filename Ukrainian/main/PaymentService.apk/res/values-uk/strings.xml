@@ -919,8 +919,6 @@
      <string name="voucher_edit_limit">тільки цифри</string>
      <string name="voucher_error_password">Неправильний код</string>
      <string name="voucher_input_password_prompt">Введіть пароль</string>
-	 <string name="mibi_button_count_down_reget">%1$s</string>
-     <string name="mibi_colon">": "</string>
      <string name="mibi_giftcard_available">доступно</string>
      <string name="mibi_giftcard_discount_detail2">(%1$s Mi Credits для выкупа)</string>
      <string name="mibi_giftcard_empty_detail">Нет купонов %1$s</string>

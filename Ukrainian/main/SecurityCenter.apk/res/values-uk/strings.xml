@@ -3583,7 +3583,6 @@
      <string name="button_eye_shield">Отключить</string>
      <string name="button_first_aid_kit">Исправить</string>
      <string name="button_restrict_data_usage">Разрешить</string>
-     <string name="ellipsis">…</string>
      <string name="exo_controls_fastforward_description">Перемотка вперед</string>
      <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
      <string name="exo_controls_next_description">Следующий трек</string>
@@ -3603,9 +3602,7 @@
      <string name="exo_download_notification_channel_name">Загрузка</string>
      <string name="exo_download_removing">Удаление загрузок</string>
      <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f мбит/с</string>
      <string name="exo_track_mono">Моно</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_selection_auto">Авто</string>
      <string name="exo_track_selection_none">Нет</string>
      <string name="exo_track_selection_title_audio">Аудио</string>
@@ -3680,15 +3677,9 @@
      <string name="game_video_network_eror">Не удается подключить к интернету</string>
      <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв</string>
      <string name="menu_item_about_privacy_title">Политика конфиденциальности</string>
-     <string name="menu_text_garbage_cleanup_danger">Мусор: %s</string>
-     <string name="menu_text_networkassistants_2">%s</string>
-     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
-     <string name="menu_text_power_percent_title">Батарея %s</string>
      <string name="notification_exit_extreme_mode_text">Уровень заряда батареи более %s</string>
      <string name="notification_exit_extreme_mode_title">Экстремальное энергосбережение отключено</string>
      <string name="notification_open_extreme_mode_text">Экстремальное энергосбережение включено</string>
-     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
-     <string name="pref_operator_setting">%1$s %2$s</string>
      <string name="privacy_apps">Скрытые приложения</string>
      <string name="privacy_apps_category_title">Скрытые приложения</string>
      <string name="privacy_apps_checkbox_remind_choice">Запомнить</string>
@@ -3703,7 +3694,6 @@
 Эта функция не поддерживает системные приложения."</string>
      <string name="privacy_apps_tutorial_prompt_pagethree">После ввода пароля появится папка со скрытыми приложениями</string>
      <string name="privacy_apps_tutorial_prompt_pagetwo">Для входа в скрытую папку проведите двумя пальцами в разные стороны по рабочему столу</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="reset_data_dialog_message">Это устройство не привязано к вашему Mi аккаунту. Не удается восстановить или сбросить пароль. Создайте бэкап всех важных данных и выполните общий сброс. Все данные будут полностью очищены.</string>
      <string name="reset_data_dialog_ok">Общий сброс</string>
      <string name="reset_data_title">Не удается восстановить пароль</string>

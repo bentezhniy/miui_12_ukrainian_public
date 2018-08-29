@@ -16,7 +16,6 @@
      <string name="dialog_title_mx_rcs">Mi сообщения</string>
      <string name="dialog_title_networking">Условия пользования</string>
      <string name="exceed_length_limit">Достигнута максимальная длина сообщения</string>
-     <string name="flatshow_page_no">%1$d</string>
      <string name="forward_message_select_title">Переслать сообщение</string>
      <string name="group_already_kicked_hint">Вы не состоите в группе. Невозможно отправить сообщение.</string>
      <string name="group_message_title">Сообщение для группы</string>
@@ -87,7 +86,6 @@
      <string name="rms_video_body">[видео]</string>
      <string name="send_rms_editor_hints">Сообщения China Mobile</string>
      <string name="send_rms_editor_hints_omit">Mi сообщение</string>
-     <string name="send_to_index_contact">Отправлено %1$s из %2$s</string>
      <string name="user_agreement">Пользовательское соглашение</string>
 	 <string name="about_smart_sms_title">Партнер розумних повідомлень</string>
      <string name="action_firewall_setting">Чорний список</string>

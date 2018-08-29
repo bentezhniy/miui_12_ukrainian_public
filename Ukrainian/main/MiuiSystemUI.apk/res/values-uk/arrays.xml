@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="aqi_title_prefix">
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-        <item>ІЯП %1$s</item>
-     </string-array>
 	 <string-array name="animator_duration_scale_entries">
         <item>Вимкнено</item>
         <item>0.5x</item>

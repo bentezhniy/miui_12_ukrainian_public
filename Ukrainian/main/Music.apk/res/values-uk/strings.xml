@@ -19,12 +19,8 @@
      <string name="confirm_delete_comment">Удалить отзыв?</string>
      <string name="copy">Копировать</string>
      <string name="copy_success">Скопировано</string>
-     <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="dislike_comment_success">Вам не нравится</string>
-     <string name="download_percent">%d%%</string>
      <string name="durationformatlong_padding_with_0">%1$02d:%3$02d:%5$02d</string>
-     <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="like_comment_success">Вам нравится</string>
      <string name="load_success">Загружено</string>
      <string name="max_count">999+</string>

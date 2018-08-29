@@ -993,7 +993,6 @@
      <string name="ball_football_news_worldcup">Другие новости</string>
      <string name="ball_football_recent_end_worldcup">Нажмите для просмотра результатов</string>
      <string name="ball_football_recent_ing_worldcup">Нажмите для просмотра трансляции</string>
-     <string name="ball_football_recent_middle">:</string>
      <string name="ball_football_recent_text_show_youku">Трансляция</string>
      <string name="ball_football_total_rank_worldcup">Расписание</string>
      <string name="ball_football_world_cup">Мировой кубок</string>
@@ -1039,11 +1038,7 @@
      <string name="express_update_provider_app_ok">ОК</string>
      <string name="express_update_provider_app_title">Версия %s устарела</string>
      <string name="go_to_pay">Быстрое погашение</string>
-     <string name="info_divider">|</string>
      <string name="mifare_card">Карта доступа</string>
-     <string name="mini_str_null">xx</string>
-     <string name="pie_chart_label_format">%1$s %2$s%%</string>
-     <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
      <string name="recommend_add_one_card">Добавить %s</string>
      <string name="recommend_close">Закрыть</string>
      <string name="recommend_title">Добавьте больше карточек</string>
@@ -1061,7 +1056,6 @@
      <string name="setting_world_cup_g">G</string>
      <string name="setting_world_cup_h">H</string>
      <string name="shopping_search">Поиск по магазину</string>
-     <string name="stock_change_rate_format">%.2f%%</string>
      <string name="tb_setting_xiaoai">Голосовой помощник</string>
      <string name="team_selected">Выбрано: %s</string>
 </resources>
