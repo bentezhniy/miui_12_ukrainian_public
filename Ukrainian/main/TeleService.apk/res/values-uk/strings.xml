@@ -2594,7 +2594,6 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Успішне розблокування SP EHPLMN</string>
      <string name="accessibility_wifi_security_type_none">Відкрита мережа</string>
      <string name="accessibility_wifi_security_type_secured">Захищена мережа</string>
-     <string name="advanced_settings_container">Додаткові параметри контейнера</string>
      <string name="available_via_carrier">Доступно через %1$s</string>
      <string name="battery_meter_very_low_overlay_symbol">!</string> 
      <string name="bluetooth_connected_battery_level">Підключено, рівень заряду батареї: %1$s</string>
@@ -2610,17 +2609,11 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="mobile_data_alert">Може створювати додаткові витрати на трафік другий SIM-карти</string>
      <string name="opened_dual_4g_confirm_prompt">Схоже, у вас SIM-карта тільки з 4G. Мережа 4G включена автоматично для двох SIM</string>
      <string name="opened_dual_4g_confirm_prompt_with_sim">SIM%1$s підтримує тільки 4G. Включена мережу 4G для двох SIM-карт для коректної роботи</string>
-     <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration_enhanced">(залишилося приблизно ^2 при поточному рівні використання)</string>
      <string name="power_remaining_duration_only_enhanced">Залишилося приблизно ^1 при поточному рівні використання</string>
      <string name="power_remaining_duration_only_short_enhanced">Залишилося ^1 при поточному рівні використання</string>
      <string name="preference_summary_default_combination">%1$s/%2$s</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="search_menu_title">Пошук</string>
      <string name="speed_label_fast">Швидка</string>
      <string name="speed_label_medium">Середня</string>
