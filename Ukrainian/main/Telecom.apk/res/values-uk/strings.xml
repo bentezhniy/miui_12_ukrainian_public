@@ -473,16 +473,10 @@
      <string name="bluetooth_show_devices_without_names">Показувати Bluetooth-пристрої без назв</string>
      <string name="bluetooth_show_devices_without_names_summary">Показувати Bluetooth-пристрої без назв (тільки з MAC-адресами)</string>
      <string name="connected_via_carrier">Підключено до %1$s</string>
-     <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_discharging_duration_enhanced">(залишилося приблизно ^2 при поточному рівні використання)</string>
      <string name="power_remaining_duration_only_enhanced">Залишилося приблизно ^1 при поточному рівні використання</string>
      <string name="power_remaining_duration_only_short_enhanced">Осталось  ^1 при поточному рівні використання</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="search_menu_title">Пошук</string>
      <string name="speed_label_fast">Швидка</string>
      <string name="speed_label_medium">Середня</string>
