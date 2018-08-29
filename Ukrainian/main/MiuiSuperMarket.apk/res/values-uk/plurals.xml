@@ -4,4 +4,10 @@
         <item quantity="other">Видалити вибране із завантажень? (%1$s)</item>
         <item quantity="one">Видалити вибране із завантажень? (%1$s)</item>
     </plurals>
+	<plurals name="delete_download_history_confirm">
+        <item quantity="other">Видалити %1$s завантажень?</item>
+        <item quantity="one">Видалити %1$s завантаження?</item>
+        <item quantity="few">Видалити %1$s завантаження?</item>
+        <item quantity="many">Видалити %1$s завантажень?</item>
+     </plurals>
 </resources>

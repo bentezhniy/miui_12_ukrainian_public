@@ -3,6 +3,8 @@
     <plurals name="record_downloading_complete_count">
         <item quantity="other">Завантажено записів: %d</item>
         <item quantity="one">Завантажено записів: %d</item>
+		<item quantity="few">Завантажено записів: %d</item>
+        <item quantity="many">Завантажено записів: %d</item>
     </plurals>
 	<plurals name="local_records_count">
         <item quantity="other">%d записів</item>

@@ -285,6 +285,8 @@
      <plurals name="print_search_result_count_utterance">
         <item quantity="other">Знайдено принтерів: %1$s</item>
         <item quantity="one">Знайдено принтерів: %1$s</item>
+		<item quantity="many">Знайдено принтерів: %1$s</item>
+		<item quantity="other">Знайдено принтерів: %1$s</item>
      </plurals>
      <plurals name="print_settings_summary">
         <item quantity="one">Увімкнено %1$d служба друку</item>
@@ -336,24 +338,31 @@
      <plurals name="show_cit_countdown">
         <item quantity="other">Залишилося натискань для входу в інженерне меню: %1$d</item>
         <item quantity="one">Залишилося натискань для входу в інженерне меню: %1$d</item>
+		<item quantity="few">Залишилося натискань для входу в інженерне меню: %1$d</item>
+		<item quantity="many">Залишилося натискань для входу в інженерне меню: %1$d</item>
      </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="other">Після %1$d натискань буде відкритий доступ до меню для розробників</item>
         <item quantity="one">Після %1$d натискання буде відкритий доступ до меню для розробників</item>
+		<item quantity="few">Після %1$d натискань буде відкритий доступ до меню для розробників</item>
+		<item quantity="many">Після %1$d натискань буде відкритий доступ до меню для розробників</item>
      </plurals>
      <plurals name="show_pho_countdown">
         <item quantity="other">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
         <item quantity="one">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+		<item quantity="few">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
+		<item quantity="many">Залишилося натискань для відкриття інформації про телефон: %1$d</item>
      </plurals>
      <plurals name="show_rep_countdown">
         <item quantity="other">Залишилося натискань для надсилання звіту про помилки: %1$d</item>
         <item quantity="one">Залишилося натискань для надсилання звіту про помилки: %1$d</item>
+		<item quantity="few">Залишилося натискань для надсилання звіту про помилки: %1$d</item>
+		<item quantity="many">Залишилося натискань для надсилання звіту про помилки: %1$d</item>
      </plurals>
      <plurals name="show_reset_countdown">
         <item quantity="other">Залишилося %1$d кроків до відновлення заводських налаштувань</item>
         <item quantity="one">Залишився %1$d крок до відновлення заводських налаштувань</item>
         <item quantity="few">Залишилося %1$d кроки до відновлення заводських налаштувань</item>
-        <item quantity="many">Залишилося %1$d кроків до відновлення заводських налаштувань</item>
      </plurals>
      <plurals name="special_access_summary">
         <item quantity="one">%d програма без обмежень мобільного Інтернету</item>
@@ -404,6 +413,8 @@
      <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s програм зі сповіщеннями</item>
         <item quantity="one">%s програма зі сповіщеннями</item>
+		<item quantity="few">%s програми зі сповіщеннями</item>
+        <item quantity="many">%s програм зі сповіщеннями</item>
      </plurals>
      <plurals name="uri_permissions_text">
         <item quantity="one">"%d об'єкт"</item>
@@ -427,8 +438,10 @@
         <item quantity="one">Ви поділилися %d мережею</item>
      </plurals>
      <plurals name="wrong_pin_code">
-        <item quantity="other">Неправильний PIN код. Залишилося спроб: %d.</item>
-        <item quantity="one">Неправильний PIN код. Залишилося спроб: %d.</item>
+        <item quantity="other">Неправильний PIN код. Залишилося спроб: %d</item>
+        <item quantity="one">Неправильний PIN код. Залишилося спроб: %d</item>
+		<item quantity="few">Неправильний PIN код. Залишилося спроб: %d</item>
+        <item quantity="many">Неправильний PIN код. Залишилося спроб: %d</item>
      </plurals>
      <plurals name="zen_mode_settings_summary_on">
         <item quantity="one">%d правило увімкнено</item>

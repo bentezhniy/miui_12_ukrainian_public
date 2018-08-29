@@ -2664,4 +2664,6 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name= "wifi_wapi_fail_to_init">Неможливо відкрити сертифікати WAPI</string>
      <string name= "wifi_wapi_psk_type">Тип пароля</string>
      <string name= "wifi_wapi_user_certificate">Призначений для користувача сертифікат</string>
+     <string name="advanced_settings_container">Додаткові параметри контейнера</string>
+     <string name="process_kernel_label">Ядро Android</string>
 </resources>

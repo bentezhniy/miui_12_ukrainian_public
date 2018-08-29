@@ -251,4 +251,11 @@
      <string name="power_mode">Налаштування живлення</string>
      <string name="power_usage">Використання живлення</string>
 	 <string name="sleep_config_enhance_description_non_nfc">Якщо система виявить, що Ви спите, вона закриє усі фонові програми, вимкне Bluetooth, GPS, інтернет, а також запобігатиме увімкненню екрану при отриманні сповіщень</string>
+	 <string name="about_extreme_mode">Экстремальное энергосбережение</string>
+     <string name="active_classify">Сортировка по активности</string>
+     <string name="appconfig_active_app_dialog_title">Управление активностью приложения</string>
+     <string name="config_classify">Сортировка по настройкам</string>
+     <string name="extreme_mode_max_item_alert">Можно выбрать не более 4 приложений для работы в фоновом режиме при экстремальном энергосбережении</string>
+     <string name="message_i_know">ОК</string>
+     <string name="privacy">Политика конфиденциальности</string>
 </resources>

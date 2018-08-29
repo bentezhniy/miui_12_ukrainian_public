@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="add_game_notification_title">
+     <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d елементів для оптимізації</item>
+        <item quantity="one">%1$d елемент для оптимізації</item>
+        <item quantity="few">%1$d елементи для оптимізації</item>
+     </plurals>
+     <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    + ще %1$d символів</item>
+        <item quantity="one">    + ще %1$d символ</item>
+        <item quantity="few">    + ще %1$d символи</item>
+     </plurals>
+     <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Приховано %d програм</item>
+        <item quantity="one">Приховано %d програму</item>
+        <item quantity="few">Приховано %d програми</item>
+     </plurals>
+     <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Можна приховати %d програм</item>
+        <item quantity="one">Можна приховати %d програму</item>
+        <item quantity="few">Можна приховати %d програми</item>
+     </plurals>
+     <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Загальне скидання (%d с)</item>
+        <item quantity="one">Загальне скидання (%d с)</item>
+     </plurals>
+	 <plurals name="add_game_notification_title">
         <item quantity="other">Додано %d ігор</item>
         <item quantity="one">Додано %d гра</item>
         <item quantity="few">Додано %d гри</item>

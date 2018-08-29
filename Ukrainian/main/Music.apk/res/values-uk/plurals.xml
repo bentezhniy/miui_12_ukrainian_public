@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="NPlaylist_delete_confirm">
+     <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d)</item>
+        <item quantity="one">(%d)</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning">
+        <item quantity="other">лишилося %d хв.</item>
+        <item quantity="one">лишилося %d хв.</item>
+        <item quantity="few">лишилося %d хв.</item>
+     </plurals>
+     <plurals name="comment_input_length_invalid">
+        <item quantity="other">Ви можете ввести не більше %1$d символів</item>
+        <item quantity="one">Ви можете ввести не більше %1$d символа</item>
+     </plurals>
+     <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Доступно %1$d оновлень:</item>
+        <item quantity="one">Доступно %1$d оновлення:</item>
+        <item quantity="few">Доступно %1$d оновлення:</item>
+     </plurals>
+	 <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Видалити %d плейлистів?</item>
         <item quantity="one">Видалити %d плейлист?</item>
         <item quantity="few">Видалити %d плейлиста?</item>

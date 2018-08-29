@@ -77,7 +77,8 @@
      <string-array name="date_of_traffic_prefix">
         <item>"Вчора "</item>
         <item>"Сьогодні "</item>
-        <item>"За місяць "</item>
+        <item>"Минулий місяць "</item>
+		<item>"Поточний місяць "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
         <item>"На цьому тижні: "</item>

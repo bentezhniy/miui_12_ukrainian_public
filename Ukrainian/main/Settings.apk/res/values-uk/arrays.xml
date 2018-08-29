@@ -1761,7 +1761,8 @@
         <item>Автоконфігурація проксі</item>
      </string-array>
      <string-array name="wifi_signal">
-        <item>Слабкий</item>
+        <item>Дуже слабкий</item>
+		<item>Слабкий</item>
         <item>Середній</item>
         <item>Гарний</item>
         <item>Відмінний</item>

@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="animator_duration_scale_entries">
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"16 бит/с"</item>
+        <item>"24 бит/с"</item>
+        <item>"32 бит/с"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"16 бит/с"</item>
+        <item>"24 бит/с"</item>
+        <item>"32 бит/с"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"Моно"</item>
+        <item>"Стерео"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"Моно"</item>
+        <item>"Стерео"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>"Оптимизировать качество звука"</item>
+        <item>"Баланс качества звука и скорости подключения"</item>
+        <item>"Оптимизировать скорость подключения"</item>
+        <item>"Лучший возможный результат (адаптивный битрейт)"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>"Оптимизировать качество звука (990/909 Кбит/с)"</item>
+        <item>"Баланс качества звука и скорости подключения (660/606 кбит/с)"</item>
+        <item>"Оптимизировать скорость подключения (330/303 Кбит/с)"</item>
+        <item>"Лучший возможный результат (адаптивный битрейт)"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"44,1 кГц"</item>
+        <item>"48 кГц"</item>
+        <item>"88,2 кГц"</item>
+        <item>"96 кГц"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"44,1 кГц"</item>
+        <item>"48 кГц"</item>
+        <item>"88,2 кГц"</item>
+        <item>"96 кГц"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"SBC"</item>
+        <item>"AAC"</item>
+        <item>"Аудиокодек: Qualcomm® aptX™"</item>
+        <item>"Аудиокодек: Qualcomm® aptX™ HD"</item>
+        <item>"LDAC"</item>
+        <item>"Включить дополнительные кодеки"</item>
+        <item>"Отключить дополнительные кодеки"</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>"Выбор системы (по умолчанию)"</item>
+        <item>"SBC"</item>
+        <item>"AAC"</item>
+        <item>"Аудиокодек: Qualcomm® aptX™"</item>
+        <item>"Аудиокодек: Qualcomm® aptX™ HD"</item>
+        <item>"LDAC"</item>
+        <item>"Включить дополнительные кодеки"</item>
+        <item>"Отключить дополнительные кодеки"</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>"OpenGL (по умолчанию)"</item>
+        <item>"OpenGL (Skia)"</item>
+     </string-array>
+	 <string-array name="animator_duration_scale_entries">
         <item>Анімацію вимкнено</item>
         <item>Анімація (масштаб: 0.5x)</item>
         <item>Анімація (масштаб: 1x)</item>
