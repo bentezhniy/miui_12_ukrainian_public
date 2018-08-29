@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="N_remaining_events">
-        <item quantity="other">+ Подій: %d</item>
-        <item quantity="one">+ Подій: 1</item>
+        <item quantity="other">+ %d подій</item>
+        <item quantity="one">+ %d подія</item>
+        <item quantity="few">+ %d події</item>
+        <item quantity="many">+ %d подій</item>
      </plurals>
      <plurals name="Ndays">
         <item quantity="other">%d дн.</item>
