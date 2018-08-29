@@ -19,23 +19,32 @@
         <item quantity="many">%d події</item>
      </plurals>
      <plurals name="Nhours">
-        <item quantity="other">%d год.</item>
-        <item quantity="one">1 год.</item>
+        <item quantity="other">%d годин</item>
+        <item quantity="one">%d година</item>
+        <item quantity="few">%d години</item>
+        <item quantity="many">%d годин</item>
      </plurals>
      <plurals name="Nmins">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">1 хв.</item>
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
      </plurals>
      <plurals name="Nminutes">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">1 хв.</item>
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">%d хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
      </plurals>
      <plurals name="month_more_events">
         <item quantity="other">"+%d"</item>
         <item quantity="one">"+1"</item>
      </plurals>
      <plurals name="weekN">
-        <item quantity="other">%d тижд.</item>
+        <item quantity="other">%d тижнів</item>
+        <item quantity="one">%d тиждень</item>
+        <item quantity="few">%d тежні</item>
+        <item quantity="many">%d тижнів</item>
      </plurals>
 	 <plurals name="Ndays_after">
         <item quantity="other">Через %1$d днів о %2$s</item>
