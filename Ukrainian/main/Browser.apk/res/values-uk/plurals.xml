@@ -57,7 +57,7 @@
      <plurals name="suggest_access_item_album_songs">
         <item quantity="other">Треків: %d</item>
         <item quantity="one">Треків: %d</item>
-        <item quantity="few"Треків: %d</item>
+        <item quantity="few">Треків: %d</item>
         <item quantity="many">Треків: %d</item>
      </plurals>
      <plurals name="suggest_access_item_singer_albums">
