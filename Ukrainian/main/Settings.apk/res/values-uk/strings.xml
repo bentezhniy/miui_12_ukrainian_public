@@ -6487,4 +6487,5 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="user_credentials">Облікові дані користувача</string>
      <string name="user_credentials_summary">Переглянути/змінити збережені облікові дані</string>
      <string name="user_delete_button">Видалити</string>
-     <string name="user_delete_user_description">Видалити користувача
+     <string name="user_delete_user_description">Видалити користувача</string>
+</resources>
