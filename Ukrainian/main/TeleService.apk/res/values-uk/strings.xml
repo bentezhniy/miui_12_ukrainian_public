@@ -2602,8 +2602,8 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="bluetooth_show_devices_without_names">Показувати Bluetooth-пристрої без назв</string>
      <string name="bluetooth_show_devices_without_names_summary">Показувати Bluetooth-пристрої без назв (тільки з MAC-адресами)</string>
      <string name="change_data_sim_4g_only_prompt">SIM %1$s підтримує тільки 4G. Коли SIM %2$s не використовується за замовчуванням, вона може не працювати належним чином. Перемкнути?</string>
-     <string name="dds_switch_warning_message_data_off">Неможливо знайти SIM% %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
-     <string name="dds_switch_warning_message_data_on">Неможливо знайти SIM% %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
+     <string name="dds_switch_warning_message_data_off">Неможливо знайти SIM %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
+     <string name="dds_switch_warning_message_data_on">Неможливо знайти SIM %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
      <string name="mobile_data_alert">Може створювати додаткові витрати на трафік другий SIM-карти</string>
      <string name="opened_dual_4g_confirm_prompt">Схоже, у вас SIM-карта тільки з 4G. Мережа 4G включена автоматично для двох SIM</string>
      <string name="opened_dual_4g_confirm_prompt_with_sim">SIM%1$s підтримує тільки 4G. Включена мережу 4G для двох SIM-карт для коректної роботи</string>
