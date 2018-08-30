@@ -48,7 +48,7 @@
      <string name="nowplaying_find_more">Найти еще</string>
      <string name="nowplaying_scroll_try">Проведите вверх</string>
      <string name="online_video">Видео</string>
-     <string name="play_all">Играть все （%1$d）</Data></string>
+     <string name="play_all">Играть все （%1$d）</string>
      <string name="play_mode_circle">Повторять все</string>
      <string name="play_mode_shuffle">Перемешать все</string>
      <string name="play_mode_single">Повторять один</string>
