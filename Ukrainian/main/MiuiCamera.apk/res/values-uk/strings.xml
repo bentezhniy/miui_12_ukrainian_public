@@ -673,7 +673,6 @@
      <string name="pref_camera_sound_title">Звук зйомки</string>
      <string name="pref_camera_square_mode_title">Квадрат</string>
      <string name="pref_camera_stereo_mode_title">Стерео</string>
-     <string name="pref_camera_super_resolution_title">Увімкнути SR</string>
      <string name="pref_camera_tilt_shift_default">Коло</string>
      <string name="pref_camera_tilt_shift_entry_circle">Коло</string>
      <string name="pref_camera_tilt_shift_entry_parallel">Паралель</string>
@@ -925,5 +924,5 @@
      <string name="wifi_open_fail">Неможливо підключитися до Wi-Fi</string>
      <string name="wifi_pwd">Пароль:</string>
      <string name="wifi_security">Безпека:</string>
-     <string name="wifi_warning">Перед підключенням переконаєтеся, що ця Wi-Fi мережа безпечна</string>
+     <string name="wifi_warning">Перед підключенням переконайтеся, що ця Wi-Fi мережа безпечна</string>
 </resources>
