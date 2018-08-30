@@ -7,7 +7,12 @@
      <string name="timer_end_time_format">HH:mm d MMM</string>
      <string name="timer_end_time_format_today">HH:mm</string>
      <string name="timer_is_paused">Таймер зупинено</string>
-	 <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+     <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+     <string name="expired_timers_dismissed">Таймер скасовано</string>
+     <string name="invalid_timer_length">Хибна тривалість таймеру</string>
+     <string name="other_category_title">Інше</string>
+     <string name="privacy_policy">Політика конфіденційності</string>
+     <string name="timer_created">Таймер створено</string>
      <string name="add_alarm">Додати</string>
      <string name="add_clock">Додати годинник</string>
      <string name="add_time_zone">Додати часовий пояс</string>
