@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="keyguard_charging_back_to_lockscreen">Назад на екран блокування</string>
+     <string name="keyguard_left_torch">Ліхтарик</string>
+     <string name="switch_system_user">Відкрити перший простір</string>
      <string name="accessibility_data_connection_1x">"1 X"</string>
      <string name="accessibility_data_connection_4g_plus">"4G+"</string>
      <string name="accessibility_data_connection_hspa">"HSPA"</string>
