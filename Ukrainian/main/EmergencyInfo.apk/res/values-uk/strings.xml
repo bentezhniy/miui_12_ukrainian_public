@@ -19,7 +19,7 @@
      <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Аудіокодек для Bluetooth:
 розрядність"</string>
      <string name="bluetooth_select_a2dp_codec_channel_mode">"Режим аудіоканалу Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудиікодек для Bluetooth:
+     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудіокодек для Bluetooth:
 режим каналу"</string>
      <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">"Аудіокодек LDAC для Bluetooth: якість відтворення"</string>
      <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Аудіокодек LDAC для Bluetooth:
@@ -36,17 +36,17 @@
      <string name="bluetooth_show_devices_without_names_summary">"Відображати Bluetooth-пристрої без назв (тільки з MAC-адресами)"</string>
      <string name="connected_via_carrier">"Під'єднано до %1$s"</string>
      <string name="connected_via_network_scorer">"Автоматично під'єднано до %1$s"</string>
-     <string name="connected_via_network_scorer_default">"Автоматически подключено через автора рейтинга сетей"</string>
-     <string name="debug_hw_renderer">"Средство визуализации"</string>
-     <string name="direct_boot_unaware_dialog_message">"Примечание. Чтобы запустить это приложение после перезагрузки, разблокируйте экран."</string>
-     <string name="disabled">"Отключено"</string>
-     <string name="edit_medical_info">Изменить информацию</string>
-     <string name="emergency_info_footer">Добавление медицинской информации и контактов может спасти жизнь в чрезвычайной ситуации. 
+     <string name="connected_via_network_scorer_default">"Автоматично під'єднано через автора рейтингу мереж"</string>
+     <string name="debug_hw_renderer">"Засіб візуалізації"</string>
+     <string name="direct_boot_unaware_dialog_message">"Примітка. Щоб запустити цю програму після перезавантаження, розблокуйте екран."</string>
+     <string name="disabled">"Відключено"</string>
+     <string name="edit_medical_info">Змінити інформацію</string>
+     <string name="emergency_info_footer">Додавання медичної інформації та контактів може врятувати життя в надзвичайній ситуації.
 
-Любой пользователь может прочитать эту информацию с экрана блокировки и вызывать указанные контакты.</string>
-     <string name="external_source_trusted">"Разрешено"</string>
-     <string name="external_source_untrusted">"Запрещено"</string>
-     <string name="failed_to_open_app_settings_toast">"Не удалось открыть настройки приложения \"%1$s\""</string>
+Будь-який користувач може прочитати цю інформацію з екрана блокування і викликати зазначені контакти.</string>
+     <string name="external_source_trusted">"Дозволено"</string>
+     <string name="external_source_untrusted">"Заборонено"</string>
+     <string name="failed_to_open_app_settings_toast">"Не вдалося відкрити налаштування програми \"%1$s\""</string>
      <string name="ime_security_warning">"При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Запрос поступил от приложения \"%1$s\". Использовать этот способ ввода?"</string>
      <string name="install_other_apps">"Установка неизвестных приложений"</string>
      <string name="medical_info_title">Медицинская информация</string>
@@ -79,40 +79,40 @@
      <string name="wapi_cert_is_not_selected">Сначала выберите сертификат</string>
      <string name="wapi_cert_manage_error">Ошибка настройки сертификата WAPI</string>
      <string name="wapi_cert_manage_summary">Добавление и удаление сертификатов WAPI</string>
-     <string name="wapi_cert_manage_title">Управление сертификатами WAPI</string>
-     <string name="wapi_cert_roaming">Подключение…</string>
-     <string name="wapi_no">Нет</string>
-     <string name="wapi_no_vaild_cert">Нет доступных сертификатов. Установить?</string>
-     <string name="wapi_password_hex_format_add">Количество шестнадцатеричных символов не может быть нечетным числом</string>
-     <string name="wapi_password_is_empty">Поле пароля не может быть пустым</string>
-     <string name="wapi_password_is_not_hex_format">Недопустимые шестнадцатеричные символы</string>
-     <string name="wapi_password_length_is_max">Длина пароля не должна превышать 64 символа</string>
-     <string name="wapi_password_length_is_min">Длина пароля должна быть не менее 8 символов</string>
-     <string name="wapi_password_length_is_min_to_max">Пароль должен содержать от 8 до 64 символов</string>
-     <string name="wapi_yes">Да</string>
-     <string name="wifi_ap_unable_to_handle_new_sta">"К точке доступа подключено слишком много устройств"</string>
-     <string name="wifi_auto_sel_wapi_cert">Автоматический выбор</string>
-     <string name="wifi_cant_connect">"Ошибка подключения"</string>
-     <string name="wifi_cant_connect_to_ap">"Не удалось подключиться к сети \"%1$s\""</string>
-     <string name="wifi_check_password_try_again">"Возможно, вы указали неверный пароль. Повторите попытку."</string>
-     <string name="wifi_disabled_by_recommendation_provider">"Подключение невозможно из-за низкого качества сети"</string>
-     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
-     <string name="wifi_p2p_allow_passive_listen">Разрешить пассивное прослушивание Wi-Fi P2p</string>
-     <string name="wifi_p2p_allow_passive_listen_summary">Разрешить/запретить пассивное прослушивание Wi-Fi P2p, устройство не может сканировать другие устройства, но другие устройства могут сканировать текущее.</string>
+     <string name="wapi_cert_manage_title">Керування сертифікатами WAPI</string>
+     <string name="wapi_cert_roaming">Підключення…</string>
+     <string name="wapi_no">Ні</string>
+     <string name="wapi_no_vaild_cert">Немає доступних сертифікатів. Установить?</string>
+     <string name="wapi_password_hex_format_add">Кількість шістнадцяткових символів не може бути непарним числом</string>
+     <string name="wapi_password_is_empty">Поле пароля не може бути порожнім</string>
+     <string name="wapi_password_is_not_hex_format">Неприпустимі шістнадцяткові символи</string>
+     <string name="wapi_password_length_is_max">Довжина пароля не повинна перевищувати 64 символи</string>
+     <string name="wapi_password_length_is_min">Довжина пароля повинна бути не менше 8 символів</string>
+     <string name="wapi_password_length_is_min_to_max">Пароль повинен містити від 8 до 64 символів</string>
+     <string name="wapi_yes">Так</string>
+     <string name="wifi_ap_unable_to_handle_new_sta">"До точки доступу підключено забагато пристроїв"</string>
+     <string name="wifi_auto_sel_wapi_cert">Автоматичний вибір</string>
+     <string name="wifi_cant_connect">"Помилка підключення"</string>
+     <string name="wifi_cant_connect_to_ap">"Не вдалось підключитися до мережі \"%1$s\""</string>
+     <string name="wifi_check_password_try_again">"Можливо, ви вказали неправильний пароль. Повторіть спробу."</string>
+     <string name="wifi_disabled_by_recommendation_provider">"Підключення неможливо через низьку якість мережі"</string>
+     <string name="wifi_hand_sel_wapi_cert">Сертифікат WAPI</string>
+     <string name="wifi_p2p_allow_passive_listen">Дозволити пасивне прослуховування Wi-Fi P2p</string>
+     <string name="wifi_p2p_allow_passive_listen_summary">Дозволити / заборонити пасивне прослуховування Wi-Fi P2p, пристрій не може сканувати інші пристрої, але інші пристрої можуть сканувати поточний.</string>
      <string name="wifi_security_wapi_cert">WAPI-Cert</string>
      <string name="wifi_security_wapi_psk">WAPI-PSK</string>
      <string name="wifi_security_wapi_psk_ascii">ASCII</string>
-     <string name="wifi_security_wapi_psk_hexadecimal">Шестнадцатеричный</string>
-     <string name="wifi_ssid_is_empty">Поле Ssid не может быть пустым</string>
-     <string name="wifi_ssid_length_is_max">Длина Ssid не может превышать 32 символа</string>
-     <string name="wifi_wapi_as_certificate">Сертификат AS</string>
-     <string name="wifi_wapi_cert_mode_hand_text">Ручной выбор сертификат</string>
-     <string name="wifi_wapi_certification_dont_exist">Нет сертификатов WAPI</string>
-     <string name="wifi_wapi_fail_to_auth">"Ошибка проверки WAPI. 
-Проверьте действительность сертификатов."</string>
-     <string name="wifi_wapi_fail_to_init">Не удалось открыть сертификаты WAPI</string>
+     <string name="wifi_security_wapi_psk_hexadecimal">Шістнадцятковий</string>
+     <string name="wifi_ssid_is_empty">Поле Ssid не може бути порожнім</string>
+     <string name="wifi_ssid_length_is_max">Довжина Ssid не може перевищувати 32 символи</string>
+     <string name="wifi_wapi_as_certificate">Сертифікат AS</string>
+     <string name="wifi_wapi_cert_mode_hand_text">Ручний вибір сертифікату</string>
+     <string name="wifi_wapi_certification_dont_exist">Немає сертифікатів WAPI</string>
+     <string name="wifi_wapi_fail_to_auth">"Помилка перевірки WAPI.
+Перевірте дійсність сертифікатів."</string>
+     <string name="wifi_wapi_fail_to_init">Не вдалося відкрити сертифікати WAPI</string>
      <string name="wifi_wapi_psk_type">Тип пароля</string>
-     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
+     <string name="wifi_wapi_user_certificate">Користувацький сертифікат</string>
 	 <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_up_description">Назад</string>
      <string name="abc_action_menu_overflow_description">Інші функції</string>
