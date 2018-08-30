@@ -57,7 +57,7 @@
      <string name="preference_summary_default_combination">"%2$s: %1$s"</string>
      <string name="retail_demo_reset_message">"Щоб скинути налаштування в деморежимі, введіть пароль."</string>
      <string name="retail_demo_reset_next">"Далі"</string>
-     <string name="retail_demo_reset_title">"Потрібно пароль"</string>
+     <string name="retail_demo_reset_title">"Потрібен пароль"</string>
      <string name="settings_suggestion_body">Допоможіть людям знайти важливу інформацію</string>
      <string name="settings_suggestion_title">Додати екстрену інформацію</string>
      <string name="show_notification_channel_warnings">"Показувати попередження каналу передачі повідомлень"</string>
