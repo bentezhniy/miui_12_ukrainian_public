@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="tabao_filter_agent">Продавець:</string>
-    <string name="tabao_filter_order_number">Номер відстеження:</string>
-	<string name="payment_dialog_notice_message">Автоматичне виставлення рахунків недоступне у WeChat</string>
-    <string name="payment_dialog_notice_message_inside">У WeChat необхідно виставляти рахунки власноруч</string>
-    <string name="app_label">Mi Помічник</string>
-    <string name="settings">Налаштування</string>
-    <string name="settings_label">Налаштування помічника</string>
-	<string name="accessibility_title">Mi Помічник</string>
-    <string name="help_quick_start_wechat_video">Швидкий доступ до Mi Помічника (лише у Китаї)</string>
-	<string name="detail_title">Розумний помічник</string>
-	<string name="accordingto_position">Розпізнавати популярні місця за допомогою GPS</string>
+     <string name="express_select_send_providers">Оберіть постачальника</string>
+     <string name="express_send_not_available">Сервіс недоступний</string>
+     <string name="tabao_filter_agent">Продавець:</string>
+     <string name="tabao_filter_order_number">Номер відстеження:</string>
+     <string name="payment_dialog_notice_message">Автоматичне виставлення рахунків недоступне у WeChat</string>
+     <string name="payment_dialog_notice_message_inside">У WeChat необхідно виставляти рахунки власноруч</string>
+     <string name="app_label">Mi Помічник</string>
+     <string name="settings">Налаштування</string>
+     <string name="settings_label">Налаштування помічника</string>
+     <string name="accessibility_title">Mi Помічник</string>
+     <string name="help_quick_start_wechat_video">Швидкий доступ до Mi Помічника (лише у Китаї)</string>
+     <string name="detail_title">Розумний помічник</string>
+     <string name="accordingto_position">Розпізнавати популярні місця за допомогою GPS</string>
      <string name="account_address">Адреси</string>
      <string name="add_stock">Додати</string>
      <string name="address_name_spell">Введіть адресу</string>
