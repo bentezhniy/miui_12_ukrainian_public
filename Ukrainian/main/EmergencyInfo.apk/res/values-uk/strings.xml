@@ -29,7 +29,7 @@
 частота дискретизації"</string>
      <string name="bluetooth_select_a2dp_codec_streaming_label">"Потокова передача: %1$s"</string>
      <string name="bluetooth_select_a2dp_codec_type">"Аудіокодек для передачі через Bluetooth"</string>
-     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Аудіокодек для Bluetooth"<ііііі/string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Аудіокодек для Bluetooth"</string>
      <string name="bluetooth_select_avrcp_version_dialog_title">"Оберіть версію Bluetooth AVRCP"</string>
      <string name="bluetooth_select_avrcp_version_string">"Версія Bluetooth AVRCP"</string>
      <string name="bluetooth_show_devices_without_names">"Відображати Bluetooth-пристрої без назв"</string>
