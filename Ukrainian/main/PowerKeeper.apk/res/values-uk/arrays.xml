@@ -96,19 +96,19 @@
         <item>Баланс</item>
      </string-array>
 	 <string-array name="emode_app_groups">
-        <item>Системные приложения</item>
-        <item>Установленные приложения</item>
+        <item>Системні програми</item>
+        <item>Встановлені програми</item>
      </string-array>
      <string-array name="hmode_app_classify1">
-        <item>Пользовательские настройки</item>
-        <item>Настройки системы</item>
+        <item>Користувацькі налаштування</item>
+        <item>Налаштування системи</item>
      </string-array>
      <string-array name="hmode_app_classify2">
-        <item>Активные приложения</item>
-        <item>Неактивные приложения</item>
+        <item>Активні програми</item>
+        <item>Неактивні програми</item>
      </string-array>
      <string-array name="pc_manage_active_app_items">
-        <item>Закрыть приложение</item>
-        <item>Настроить фоновый режим</item>
+        <item>Закрити програми</item>
+        <item>Налаштувати фоновый режим</item>
      </string-array>
 </resources>
