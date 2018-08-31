@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="account_auth_fail">Помилка аутентифікації аккаунта</string>
+<string name="account_auth_fail">Помилка аутентифікації акаунта</string>
      <string name="account_status_exception">Час авторизації минув. Авторизуйтесь повторно.</string>
      <string name="alert_dialog_download_install_task">Очікування установки плагіна ...</string>
      <string name="already_buy_vip">VIP уже куплений</string>
@@ -66,7 +66,7 @@
      <string name="passport_email">Email</string>
      <string name="passport_email_address_notice">Email</string>
      <string name="passport_email_or_id_hint_text">Email або ID Mi аккаунта</string>
-     <string name="passport_email_reg_success_summary">% 1 $ s прив'язаний до вашого аккаунту. Ви можете використовувати його для входу або для скидання пароля.</string>
+     <string name="passport_email_reg_success_summary">"%1$s прив'язаний до вашого акаунту. Ви можете використовувати його для входу або для скидання пароля."</string>
      <string name="passport_error_device_id">Не вдалося ID пристрою</string>
      <string name="passport_error_dup_email">"Цей Email вже прив'язаний до іншого акаунту"</string>
      <string name="passport_error_dup_phone">"Цей номер телефону вже прив'язаний до іншого акаунту"</string>
@@ -197,7 +197,7 @@
      <string name="passport_uplink_reg">За номером телефону</string>
      <string name="passport_uplink_slot1_reg">Використовувати SIM 1</string>
      <string name="passport_uplink_slot2_reg">Використовувати SIM 2</string>
-     <string name="passport_use_generated_pwd_message">Переконайтеся, що ви запам'ятали свій пароль. Ви можете використовувати його для авторизації в різних Mi сервісах.</string>
+     <string name="passport_use_generated_pwd_message">"Переконайтеся, що ви запам'ятали свій пароль. Ви можете використовувати його для авторизації в різних Mi сервісах."</string>
      <string name="passport_use_generated_pwd_title">"Запам'ятайте пароль!"</string>
      <string name="passport_user_agreement">Умови використання</string>
      <string name="passport_user_agreement_p1">Прийняти</string>
