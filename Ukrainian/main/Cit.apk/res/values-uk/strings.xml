@@ -16,7 +16,7 @@
      <string name="camera_not_support_raw10">Камера не підтримує формат raw10</string>
      <string name="camera_preview">Перегляд</string>
      <string name="cancel">Скасувати</string>
-     <string name="charger_test_end">"Тест зарядного пристрою завершений. Відключіть його від пристрою. "</String>
+     <string name="charger_test_end">"Тест зарядного пристрою завершений. Відключіть його від пристрою. "</string>
      <string name="cit_OTG_plug_check_summary">Під час тесту підключіть пристрій USB_OTG</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
      <string name="cit_OTG_waiting_in_charge">Підключіть USB OTG пристрій</string>
