@@ -9,8 +9,8 @@
         <item quantity="one">SMS: 1</item>
     </plurals>
 	<plurals name="show_hiden_test">
-        <item quantity="other">Натисніть ще %1$d разів для активація прихованого меню</item>
-        <item quantity="one">Натисніть ще %1$d разів для активація прихованого меню</item>
-        <item quantity="few">Натисніть ще %1$d рази для активація прихованого меню</item>
+        <item quantity="other">Натисніть ще %1$d разів для активації прихованого меню</item>
+        <item quantity="one">Натисніть ще %1$d разів для активації прихованого меню</item>
+        <item quantity="few">Натисніть ще %1$d рази для активації прихованого меню</item>
     </plurals>
 </resources>
