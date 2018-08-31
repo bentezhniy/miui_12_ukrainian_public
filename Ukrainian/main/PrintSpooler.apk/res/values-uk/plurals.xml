@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Знайдено принтерів: %1$s</item>
-        <item quantity="one">Знайдено принтерів: %1$s</item>
-		<item quantity="few">Знайдено принтерів: %1$s</item>
-        <item quantity="many">Знайдено принтерів: %1$s</item>
+        <item quantity="other">Знайдено %1$s принтерів</item>
+        <item quantity="one">Знайдено %1$s принтер</item>
+		<item quantity="few">Знайдено %1$s принтери</item>
+        <item quantity="many">Знайдено %1$s принтерів</item>
     </plurals>
     <plurals name="composite_notification_title_template">
-        <item quantity="other">Завдань на друк: %1$d</item>
-        <item quantity="one">Завдань на друк: %1$d</item>
-		<item quantity="few">Завдань на друк: %1$d</item>
-        <item quantity="many">Завдань на друк: %1$d</item>
+        <item quantity="other">%1$d завдань на друк </item>
+        <item quantity="one">%1$d завдання на друк </item>
+		<item quantity="few">%1$d завдання на друк </item>
+        <item quantity="many">%1$d завдань на друк </item>
     </plurals>
 	<plurals name="print_services_recommendation_subtitle">
         <item quantity="one">Встановіть, щоб знайти %1$s принтер.</item>
