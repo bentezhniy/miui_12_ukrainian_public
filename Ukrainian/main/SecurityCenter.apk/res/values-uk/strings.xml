@@ -3620,7 +3620,7 @@
 <li>NFC буде відключатися за замовчучанням. Ви можете змінити це в налаштуваннях.</li>
 <li>Екстремальне енергозбереження автоматично відключається, коли батарея заряджена до 30%.</li></string>
      <string name="extreme_power_save_mode_summary">Екстремальне енергозбереження обмежує всю фонову активність, зупиняє синхронізацію і зменшує яскравість екрану.</string>
-     <string name="extreme_power_save_mode_title">екстремальне енергозбереження</string>
+     <string name="extreme_power_save_mode_title">Екстремальне енергозбереження</string>
      <string name="first_aid_activity_title">Перша допомога</string>
      <string name="first_aid_card_airplane_button">Вимкнути</string>
      <string name="first_aid_card_airplane_summary">Вимкніть режим польоту, щоб здійснювати виклики і підключатися до інтернету.</string>
