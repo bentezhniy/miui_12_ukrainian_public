@@ -835,7 +835,7 @@
      <string name="cit_tpdump_reset">Скинути дамп</string>
      <string name="cit_usb_OTG_in">USB-OTG пристрій підключено</string>
      <string name="cit_usb_OTG_out">USB-OTG пристрій відключений</string>
-     <string name="cit_usb_charger_in">Заряджання через USB</string>
+     <string name="cit_usb_charger_in">Зарядка через USB</string>
      <string name="cit_usb_charger_out">USB кабель відключений</string>
      <string name="cit_version_check_summary">"Версія ПЗ
 Перевірте дані, виділені зеленим кольором."</string>
