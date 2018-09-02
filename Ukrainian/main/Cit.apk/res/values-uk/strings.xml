@@ -299,7 +299,7 @@
      <string name="camera_done">Готово</string>
      <string name="camera_zoom">Збільшення</string>
      <string name="camerainfo">Інформація про камеру</string>
-     <string name="cancel_test">ТЕСТ СКАСОВАНо</string>
+     <string name="cancel_test">ТЕСТ СКАСОВАНО</string>
      <string name="capacitance_test">ТЕСТ ПОТЕНЦІАЛУ</string>
      <string name="checkerboard_test">ТЕСТ ПЕРЕВІРКИ</string>
      <string name="cit_OTG_plugin_check_summary">"Коли OTG пристрій буде під\'єднано, текст \"Вимкніть USB OTG пристрій\" буде відображатися нижче."</string>
@@ -310,7 +310,7 @@
      <string name="cit_OTG_waiting_out">Відключіть USB OTG пристрій</string>
      <string name="cit_abnormal_reboot_summary">Зчитування даних про стабільність…</string>
      <string name="cit_abnormal_reboot_title">Дані про стабільність пристрою</string>
-     <string name="cit_ac_charger_in">Заряджання через зарядний пристрій</string>
+     <string name="cit_ac_charger_in">Зарядка через зарядний пристрій</string>
      <string name="cit_ac_charger_out">"Зарядний пристрій від\'єднано"</string>
      <string name="cit_accdata_sensor_check_summary">Значення для X, Y, Z. Координати повинні відображатися нижче</string>
      <string name="cit_accdata_sensor_check_title">Акселерометр</string>
