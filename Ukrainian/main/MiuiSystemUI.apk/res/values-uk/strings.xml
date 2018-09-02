@@ -1426,7 +1426,7 @@
      <string name="keyguard_charging_info_tip_text5">Батарея буде довше заряджатися, якщо її температура вища за звичайну</string>
      <string name="keyguard_charging_info_tip_text6">Вимкніть екран та відкладіть пристрій, щоб охолодити його</string>
      <string name="keyguard_indication_charging_time">Заряджання (до повного заряду %s)</string>
-     <string name="keyguard_indication_charging_time_fast">Швидке заряджання (до повного заряду %s)</string>
+     <string name="keyguard_indication_charging_time_fast">Швидка зарядка (до повного заряду %s)</string>
      <string name="keyguard_indication_charging_time_slowly">Повільне заряджання (до повного заряду %s)</string>
      <string name="keyguard_indication_trust_disabled">Пристрій буде заблоковано, поки Ви не розблокуєте його вручну</string>
      <string name="keyguard_instructions_when_pattern_disabled">Натисніть Меню, щоб розблокувати</string>
@@ -1449,9 +1449,9 @@
  Щоб отримати нову SIM-картку, зверніться до оператора мобільного зв'язку."</string>
      <string name="keyguard_permanent_disabled_sim_message_short">SIM-картка заблокована</string>
      <string name="keyguard_plugged_in">Заряджається</string>
-     <string name="keyguard_plugged_in_charging_fast">Швидке заряджання</string>
-     <string name="keyguard_plugged_in_charging_slowly">Повільне заряджання</string>
-     <string name="keyguard_quick_charging_info_click_to_detail">Швидке заряджання. Натисніть, щоб переглянути деталі</string>
+     <string name="keyguard_plugged_in_charging_fast">Швидка зарядка</string>
+     <string name="keyguard_plugged_in_charging_slowly">Повільна зарядка</string>
+     <string name="keyguard_quick_charging_info_click_to_detail">Швидка зарядка. Натисніть, щоб переглянути деталі</string>
      <string name="keyguard_sim_locked_message">SIM-картка заблокована</string>
      <string name="keyguard_sim_puk_locked_message">SIM-картка заблокована за допомогою PUK-коду</string>
      <string name="keyguard_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
