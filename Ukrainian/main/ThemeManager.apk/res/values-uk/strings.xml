@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="exit_extreme_mode_dialog_agree">ОК</string>
+     <string name="exit_extreme_mode_dialog_cancel">Скасувати</string>
+     <string name="exit_extreme_mode_dialog_title">Вимкніть екстремальне енергозбереження</string>
+     <string name="extreme_mode_dialog_message">Ця функція недоступна в режимі екстремального енергозбереження</string>
+     <string name="extreme_mode_dialog_ok">ОК</string>
+     <string name="extreme_mode_dialog_title">Попередження</string>
      <string name="accessibiliy_description_content_account">Профіль</string>
      <string name="accessibiliy_description_content_ad">Реклама</string>
      <string name="accessibiliy_description_content_add_resource">Додати елементи</string>
