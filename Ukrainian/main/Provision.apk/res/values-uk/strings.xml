@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+      <string name="voice_assist_advice">Mi AI дозволяє використовувати голосові засоби управління, але споживає більше енергії (+1% за годину).</string>
+     <string name="voice_assist_condition">"Mi AI можна використовувати:
+1. Коли екран увімкнений.
+2. Коли ви слухаєте музику із увімкненим екраном."</string>	
+	
      <string name="agree_terms_input_method_facemoji">Прийняти Політику конфіденційності Facemoji</string>
      <string name="agree_terms_input_method_kika">Прийняти Політику конфіденційності Kika</string>
      <string name="terms_of_use_label_systemhelper">Автоматична реєстрація</string>
