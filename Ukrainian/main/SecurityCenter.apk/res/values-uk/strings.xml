@@ -11,8 +11,6 @@
      <string name="pc_settings_title">Налаштування енергозбереження</string>
      <string name="power_center_hints_scan_danger_result">Виправте проблеми з батареєю</string>
      <string name="power_center_list_item_auto_brightness">Автоматичне регулювання підсвічування</string>
-     <string name="power_center_list_item_battery_status_capacity">мАг</string>
-     <string name="power_center_list_item_battery_status_temperature">℃</string>
      <string name="power_center_list_item_battery_status_time">г</string>
      <string name="power_center_list_item_close_bluetooth">Вимкнути Bluetooth</string>
      <string name="power_center_list_item_deep_save_title">Додаткові налаштування</string>
