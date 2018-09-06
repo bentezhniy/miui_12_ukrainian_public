@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	    <string name="miui_screen_rotation_freeze_message">Автоповорот вимкнений</string>
+     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+     <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
      <string name="keyguard_charging_back_to_lockscreen">Назад на екран блокування</string>
      <string name="keyguard_left_torch">Ліхтарик</string>
      <string name="switch_system_user">Відкрити перший простір</string>
