@@ -90,6 +90,7 @@
      <string-array name="thermal_summaries">
         <item>Пріоритет контролю температури</item>
         <item>Пріоритет високої продуктивності</item>
+	<item>Конфігурація вимкнена в режимі енергозбереження</item>
      </string-array>
 	 <string-array name="power_mode_entries">
         <item>Продуктивність</item>
