@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+	<string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+     <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+     <string name="collage_drawable_rect_date_year">yyyy</string>
+     <string name="privacy_permission_request_message">Програмі потрібний доступ до %3$s. Перед використанням також необхідно прийняти %1$s і %2$s.</string>
+     <string name="privacy_permission_request_negative">Скасувати</string>
+     <string name="privacy_permission_request_positive">Дозволити</string>
+     <string name="privacy_permission_request_title">Попередження</string>
+     <string name="video_editor_cancel_download">Скасувати</string>
+     <string name="video_editor_download">Завантажити</string>
+     <string name="video_editor_download_failed_for_notwork">Не вдається завантажити. Підключіться до інтернету і повторіть спробу.</string>
+     <string name="video_editor_download_without_wifi_msg">При використанні мобільного інтернету може зніматися додаткова оплата оператором</string>
+     <string name="video_editor_download_without_wifi_title">Попередження про трафік</string>
+     <string name="video_editor_return">Назад</string>
+     <string name="video_editor_save">Зберегти</string>
      <string name="photo_editor_crop_auto">Авто</string>
-	 <string name="Import">Імпорт</string>
+     <string name="Import">Імпорт</string>
      <string name="__leak_canary_analysis_failed">Помилка аналізу витоку</string>
      <string name="__leak_canary_class_has_leaked">Витекло: %s</string>
      <string name="__leak_canary_delete">Видалити</string>
