@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="extreme_power_save_mode_card_summary">Увімкніть режим екстремального енергозбереження при дуже низькому заряді батареї</string>
+     <string name="handle_title_abnormal">Високе споживання батареї</string>
+     <string name="handle_title_app">Програми</string>
+     <string name="handle_title_details">Використання батареї</string>
+     <string name="handle_title_system">Системне використання батареї</string>
+     <string name="hide_mode_result_summary_text">Налаштуйте енергозбереження окремо для кожної програми</string>
+     <string name="pc_main_activity_back">Назад</string>
+     <string name="pc_settings_title">Налаштування енергозбереження</string>
+     <string name="power_center_hints_scan_danger_result">Виправте проблеми з батареєю</string>
+     <string name="power_center_list_item_auto_brightness">Автоматичне регулювання підсвічування</string>
+     <string name="power_center_list_item_battery_status_capacity">мАг</string>
+     <string name="power_center_list_item_battery_status_temperature"></string>
+     <string name="power_center_list_item_battery_status_time">г</string>
+     <string name="power_center_list_item_close_bluetooth">Вимкнути Bluetooth</string>
+     <string name="power_center_list_item_deep_save_title">Додаткові налаштування</string>
+     <string name="power_center_list_item_set_lockscreen_time">Перехід в режим сну після 30 секунд бездіяльності</string>
+     <string name="power_center_scan_item_title_GPS">Налаштування точності GPS</string>
+     <string name="power_center_scan_item_title_abnormal">Споживання батареї</string>
+     <string name="power_center_scan_item_title_abnormal_apps">Високе споживання заряду</string>
+     <string name="power_center_scan_item_title_auto_invoke">Ланцюговий автозапуск</string>
+     <string name="power_center_scan_item_title_auto_start">Автозапуск</string>
+     <string name="power_center_scan_item_title_battery_details">Інформація про використання батареї</string>
+     <string name="power_center_scan_item_title_brightness">Регулювання підсвічування</string>
+     <string name="power_center_scan_item_title_clean_memory">"Очищення пам'яті"</string>
+     <string name="power_center_scan_item_title_hide">Управління використанням батареї</string>
+     <string name="power_center_scan_item_title_power_saver">Увімкнути енергозбереження</string>
+     <string name="power_center_scan_item_title_running_app">Програми запущені у фоновому режимі</string>
+     <string name="power_center_scan_result_safe">Батарея в нормі</string>
+     <string name="power_center_stop_scan_title">Зупинити сканування</string>
+     <string name="power_save_started_summary_text">Режим енергозбереження увімкнений. Буде обмежена фонова активність програм, вимкнена синхронізація і системні анімації.</string>
      <string name="ACaddnumcontent">Введіть префікс</string>
      <string name="ACaddnumtitle">Додати префікс телефону до білого списку</string>
      <string name="AD_ALLOW">Дозволити рекламу</string>
