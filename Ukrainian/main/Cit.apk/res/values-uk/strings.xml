@@ -27,7 +27,7 @@
 2. Дочекайтеся завершення."</string>
      <string name="cit_charger_check_title">Тест зарядки</string>
      <string name="cit_charger_in_check_title">Тест підключення зарядки</string>
-     <string name="cit_charger_test_summary">"Під час тесту зарядного пристрою підключіть зарядний пристрій, потім переверніть його.</string>
+     <string name="cit_charger_test_summary">Під час тесту зарядного пристрою підключіть зарядний пристрій, потім переверніть його.</string>
      <string name="cit_def_torch_on_one">Увімкнути перший спалах</string>
      <string name="cit_def_torch_on_three">Увімкнути третій спалах</string>
      <string name="cit_def_torch_on_two">Увімкнути другий спалах</string>
@@ -58,7 +58,7 @@
      <string name="cit_reset_se_nfc_closed">Помилка: NFC потрібно увімкнути.</string>
      <string name="cit_reset_se_start">Скидання eSE...</string>
      <string name="cit_reverse_charge_check_summary">Підключіть OTG для зарядки</string>
-     <string name="cit_soft_torch">"Фронтальна м'який спалах""</string>
+     <string name="cit_soft_torch">"Фронтальна м'який спалах"</string>
      <string name="cit_soft_torch_on">"Увімкнути м'який спалах"</string>
      <string name="cit_tool_asdiv_ant_pos_setting">Встановити положення</string>
      <string name="cit_tool_asdiv_get_result_band_title">Поточний діапазон</string>
@@ -102,9 +102,9 @@
      <string name="fod_pressure_sensor_test_pressure_too_small">"Занадто низький тиск: %1$d
 Натисніть кнопку скасування. "</string>
      <string name="fod_pressure_sensor_test_success">"Тиск на сканер: %1$d
-Тест завершено.</string>
+Тест завершено."</string>
      <string name="fod_pressure_sensor_test_summary">"Помістіть вагу в
-зазначену позицію "</string>
+зазначену позицію"</string>
      <string name="fod_pressure_sensor_test_title">Перевірка тиску на сканер</string>
      <string name="front_mic_check_record_tip">Скажіть що-небудь в мікрофон на передній панелі телефону</string>
      <string name="headset_key">Кнопка гарнітури</string>
@@ -358,16 +358,11 @@
 
 Говоріть у верхній мікрофон і Ви повинні почути свій голос з динаміку."</string>
      <string name="cit_audio_lb_topmic_to_speaker_title">Верхній мікрофон</string>
-     <string name="cit_audio_left_caldata">"Дані лівого PA відкалібровано:
-"</string>
+     <string name="cit_audio_left_caldata">"Дані лівого PA відкалібровано:"</string>
      <string name="cit_audio_left_calfail">Помилка калібрування лівого PA</string>
      <string name="cit_audio_loopback_check_one_title">Розмовний динамік</string>
-     <string name="cit_audio_loopback_check_summary_first">"Перевірка мікрофона та фронтального динаміка. 
-
-Говоріть у мікрофон, у випадку успіху почуєте свій голос у фронтальному динаміку"</string>
-     <string name="cit_audio_loopback_check_summary_second">"Перевірка мікрофона та зовнішнього динаміка. 
-
-Говоріть в мікрофон, і у випадку успіху почуєте свій голос у динаміку. (якщо не чутно, перевірте рівень гучності динаміка)"</string>
+     <string name="cit_audio_loopback_check_summary_first">"Перевірка мікрофона та фронтального динаміка. Говоріть у мікрофон, у випадку успіху почуєте свій голос у фронтальному динаміку"</string>
+     <string name="cit_audio_loopback_check_summary_second">"Перевірка мікрофона та зовнішнього динаміка. Говоріть в мікрофон, і у випадку успіху почуєте свій голос у динаміку. (якщо не чутно, перевірте рівень гучності динаміка)"</string>
      <string name="cit_audio_loopback_check_two_title">Зовнішній динамік</string>
      <string name="cit_audio_loopback_dualmic_earpiece_title">Перевірка шумозаглушення мікрофону</string>
      <string name="cit_audio_loopback_dualmic_title">Приглушення шуму</string>
