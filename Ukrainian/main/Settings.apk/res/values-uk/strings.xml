@@ -7622,7 +7622,7 @@ Email: portal.miroom@gmail.com</string>
 	<string name="aod_close_color_inversion"> Для роботи режиму \"Always On Display\" вимкніть інверсію кольору</string>
      <string name="aod_got_it">ОК</string>
      <string name="aod_to_close">Вимкнути</string>
-     <string name="status_bar_settings_customer_feedback">Звіт</string>
+     <string name="status_bar_settings_customer_feedback">звіт</string>
      <string name="status_bar_settings_function_description">Інформація</string>
      <string name="status_bar_settings_user_fold_description1">Функція дозволяє фільтрувати неважливі повідомлення і групувати їх в окрему категорію.</string>
      <string name="status_bar_settings_user_fold_description2">"Система запам'ятає, на які повідомлення ви натискаєте, а які ігноруєте, щоб визначити їх важливість."</string>
