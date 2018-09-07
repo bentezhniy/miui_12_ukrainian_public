@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+      <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Залишилось %d год.</item>
+        <item quantity="one">Залишилось %d год.</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Залишилось %d хв.</item>
+        <item quantity="one">Залишилось %d хв.</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Залишилось %1$d год. %2$d хв.</item>
+        <item quantity="one">Залишилось %1$d год. %2$d хв.</item>
+     </plurals>
      <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">Погода %d\u00b0</item>
         <item quantity="zero">Погода %d\u00b0</item>

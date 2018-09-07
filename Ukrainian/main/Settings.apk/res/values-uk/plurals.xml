@@ -285,8 +285,7 @@
      <plurals name="print_search_result_count_utterance">
         <item quantity="other">Знайдено принтерів: %1$s</item>
         <item quantity="one">Знайдено принтерів: %1$s</item>
-		<item quantity="many">Знайдено принтерів: %1$s</item>
-		<item quantity="other">Знайдено принтерів: %1$s</item>
+        <item quantity="many">Знайдено принтерів: %1$s</item>
      </plurals>
      <plurals name="print_settings_summary">
         <item quantity="one">Увімкнено %1$d служба друку</item>

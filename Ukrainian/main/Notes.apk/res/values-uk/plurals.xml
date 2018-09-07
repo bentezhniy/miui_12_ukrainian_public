@@ -5,16 +5,16 @@
         <item quantity="one">Пошук \"%2$s\" (знайдено: %1$s)</item>
     </plurals>
 	<plurals name="note_count_in_folder">
-        <item quantity="other">Нотаток: %1$s</item>
-        <item quantity="one">Нотаток: %1$s</item>
-		<item quantity="few">Нотаток: %1$s</item>
-		<item quantity="many">Нотаток: %1$s</item>
+        <item quantity="other">%1$s нотаток</item>
+        <item quantity="one">%1$s нотатка</item>
+		<item quantity="few">%1$s нотатки</item>
+		<item quantity="many">%1$s нотаток</item>
     </plurals>
     	<plurals name="folder_terms">
-        <item quantity="other">%1$s тек</item>
-        <item quantity="one">%1$s тека</item>
-		<item quantity="few">%1$s теки</item>
-		<item quantity="many">%1$s тек</item>
+        <item quantity="other">%1$s папок</item>
+        <item quantity="one">%1$s папка</item>
+		<item quantity="few">%1$s папки</item>
+		<item quantity="many">%1$s папок</item>
      </plurals>
      <plurals name="note_terms">
         <item quantity="other">%1$s нотаток</item>
@@ -23,15 +23,15 @@
 		<item quantity="many">%1$s нотаток</item>
      </plurals>
 	 <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">Не синхронізовано: %1$s</item>
-        <item quantity="one">Не синхронізовано: %1$s</item>
-		<item quantity="few">Не синхронізовано: %1$s</item>
-		<item quantity="many">Не синхронізовано: %1$s</item>
+        <item quantity="other">%1$s не синхронізовано</item>
+        <item quantity="one">%1$s не синхронізована</item>
+		<item quantity="few">%1$s не синхронізовані</item>
+		<item quantity="many">%1$s не синхронізовано</item>
      </plurals>
 	 <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">Лишилося %d секунд</item>
-        <item quantity="one">Лишилося %d секунда</item>
-        <item quantity="few">Лишилося %d секунди</item>
+        <item quantity="other">Залишилось %d секунд</item>
+        <item quantity="one">Залишилось %d секунда</item>
+        <item quantity="few">Залишилось %d секунди</item>
      </plurals>
      <plurals name="word_count">
         <item quantity="other">%s символів</item>

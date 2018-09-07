@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="failed_to_erase_text">Перед виконання операції 1217 вимкніть пароль екрану блокування</string>
+     <string name="failed_to_erase_title">Заборонена операція</string>
+     <string name="navigation_guide_appswitch_anim_summary">Проведіть по екрану від краю, щоб повернутися до попередньої програми</string>
+     <string name="navigation_guide_appswitch_anim_title">Перемикання між програмами</string>
+     <string name="navigation_guide_appswitch_click">Спочатку увімкніть \"Перемикання між програмами\"</string>
+     <string name="check_importance_dialog_cancel">Скасувати</string>
+     <string name="handy_mode_tips_full_screen">Коли Ви використовуєте повноекранні  жести, Ви можете увімкнути режим керування однією рукою, використовуючи помічник натискань. Ви також можете перемкнутися на екранні клавіші замість повноекранних жестів</string>
+     <string name="close_aod">Ця функція не може працювати, коли увімкнено режим \"Always On Display\". Спочатку вимкніть режим</string>
+     <string name="close_fod">Розблокування екрану відбитком пальцю буде працювати лише при увімкненому екрані</string>
+     <string name="close_fod_aod">Розблокування екрану відбитком пальцю буде працювати лише при увімкненому екрані. Режим \"Always On Display\" також буде недоступний</string>
+     <string name="to_close">Вимкнути</string>
      <string name="Accounts_settings_title">Акаунти</string>
-	 <string name="status_bar_settings_notification_led_custom">Користувацький колір</string>
+     <string name="status_bar_settings_notification_led_custom">Користувацький колір</string>
      <string name="HIPS_Perm_CallMonitor_Hint">Програм з доступом до прослуховування викликів і регулюванню гучності: %1$s</string>
      <string name="HIPS_Perm_CallState_Hint">Програм з доступом до відстеження статусу викликів: %1$s</string>
      <string name="HIPS_Perm_Call_Hint">Програм з доступом до здійснення й завершенню викликів: %1$s</string>
@@ -34,7 +45,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="about_phone_enter_xiaomi_net">Детальніше</string>
      <string name="about_settings">Про пристрій</string>
      <string name="about_settings_summary">Перегляд юридичної інформації, стану планшетного ПК і версії ПЗ.</string>
-     <string name="about_summary">Android %1$s</string>
+     <string name="about_summary">Android %1$s</string>
      <string name="ac_enable_summary">При запуску програми буде запитуватися пароль</string>
      <string name="ac_enable_title">Захист</string>
      <string name="ac_privacy_mode_sum">Для вимкнення режиму \"Гість\" буде потрібно ввести пароль</string>
@@ -1702,7 +1713,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="dev_settings_warning_title">Дозволити налаштування для розробників?</string>
      <string name="developer_build">"
 Щотижнева"</string>
-     <string name="developer_density_summary">%d dp</string>
+     <string name="developer_density_summary">%d dp</string>
      <string name="developer_smallest_width">Мінімальна ширина</string>
      <string name="development_enable">Режим розробника</string>
      <string name="development_settings_enable">Увімкнути налаштування для розробників</string>
@@ -4288,7 +4299,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="premium_sms_access">Доступ до платних SMS</string>
      <string name="premium_sms_none">Немає програм з доступом до платних SMS</string>
      <string name="premium_sms_warning">Зверніть увагу, що такі SMS можуть оплачуватися додатково. Надавши дозвіл програмі, Ви зможете надсилати платні SMS з його допомогою.</string>
-     <string name="preview_page_indicator_content_description">Попередній перегляд, сторінка %1$d з %2$d</string>
+     <string name="preview_page_indicator_content_description">Попередній перегляд, сторінка %1$d з %2$d</string>
      <string name="preview_pager_content_description">Перегляд</string>
      <string name="primary_sub_select_title">Підписка 4G/3G за замовчуванням</string>
      <string name="print_blocked_state_title_template">Принтер заблокований %1$s</string>
@@ -6476,6 +6487,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="user_credentials">Облікові дані користувача</string>
      <string name="user_credentials_summary">Переглянути/змінити збережені облікові дані</string>
      <string name="user_delete_button">Видалити</string>
+	
      <string name="user_delete_user_description">Видалити користувача</string>
      <string name="user_dict_settings_add_dialog_confirm">ОК</string>
      <string name="user_dict_settings_add_dialog_less_options">Менше</string>
@@ -7170,8 +7182,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wifi_setup_cancel">Скасувати</string>
      <string name="wifi_setup_connect">Підключити</string>
      <string name="wifi_setup_description_connected">"Натисніть \"Далі\" для продовження встановлення.
-
-     
+      
 Натисніть \"Назад\" для підключення до іншої Wi-Fi мережі."</string>
      <string name="wifi_setup_description_connecting">Підключення може зайняти кілька хвилин…</string>
      <string name="wifi_setup_detail">Відомості про мережу</string>
@@ -7608,4 +7619,14 @@ Telegram чат: @michat
 Telegram канал: @miroom
 ВКонтакті: vk.com/mi_room_ru
 Email: portal.miroom@gmail.com</string>
+	<string name="aod_close_color_inversion"> Для роботи режиму \"Always On Display\" вимкніть інверсію кольору</string>
+     <string name="aod_got_it">ОК</string>
+     <string name="aod_to_close">Вимкнути</string>
+     <string name="status_bar_settings_customer_feedback">Звіт</string>
+     <string name="status_bar_settings_function_description">Інформація</string>
+     <string name="status_bar_settings_user_fold_description1">Функція дозволяє фільтрувати неважливі повідомлення і групувати їх в окрему категорію.</string>
+     <string name="status_bar_settings_user_fold_description2">"Система запам'ятає, на які повідомлення ви натискаєте, а які ігноруєте, щоб визначити їх важливість."</string>
+     <string name="status_bar_settings_user_fold_description3">Якщо повідомлення, які ви вважаєте важливими, як і раніше потрапляють в категорію \"Неважливі повідомлення\", надішліть звіт команді розробників MIUI.</string>
+     <string name="status_bar_settings_user_fold_disable">Вимкнено</string>
+     <string name="status_bar_settings_user_fold_enable">Увімкнено</string>	
 </resources>

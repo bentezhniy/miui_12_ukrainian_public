@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="accessibility_intent_done_retry">Перезняти</string>
+     <string name="beauty_fragment_tab_name_3d_makeup">Макіяж</string>
+     <string name="edit_blusher">"Рум'янець"</string>
+     <string name="edit_eyebrow_dye">Брови</string>
+     <string name="edit_jelly_lips">Блиск для губ</string>
+     <string name="edit_pupil_line">Олівець для очей</string>
+     <string name="pref_camera_super_resolution_title">Увімкнути супер-розмір фото</string>
      <string name="accessibility_portrait_bokeh_button">Портретний режим</string>
      <string name="portrait_bokeh_first_tips">Використовуйте портретний режим для розмиття фону на знімках</string>
      <string name="portrait_bokeh_text">Портретний режим</string>
@@ -12,7 +19,7 @@
      <string name="pref_video_encoder_default">h264</string>
      <string name="pref_video_quality_summary">Відео 4K не підтримує 120 fps</string>
      <string name="view_privacy_policy">Політика конфіденційності</string>
-	 <string name="Import">Імпорт</string>
+     <string name="Import">Імпорт</string>
      <string name="access_sd_fail">Немає доступу до накопичувача</string>
      <string name="accessibilit_camera_video_switch_picker_and_state">Перемикання фото та відео камери (використовується %s)</string>
      <string name="accessibility_ai_scene_off">AI Камера вимкнена</string>
@@ -666,7 +673,6 @@
      <string name="pref_camera_sound_title">Звук зйомки</string>
      <string name="pref_camera_square_mode_title">Квадрат</string>
      <string name="pref_camera_stereo_mode_title">Стерео</string>
-     <string name="pref_camera_super_resolution_title">Увімкнути SR</string>
      <string name="pref_camera_tilt_shift_default">Коло</string>
      <string name="pref_camera_tilt_shift_entry_circle">Коло</string>
      <string name="pref_camera_tilt_shift_entry_parallel">Паралель</string>
@@ -918,5 +924,5 @@
      <string name="wifi_open_fail">Неможливо підключитися до Wi-Fi</string>
      <string name="wifi_pwd">Пароль:</string>
      <string name="wifi_security">Безпека:</string>
-     <string name="wifi_warning">Перед підключенням переконаєтеся, що ця Wi-Fi мережа безпечна</string>
+     <string name="wifi_warning">Перед підключенням переконайтеся, що ця Wi-Fi мережа безпечна</string>
 </resources>

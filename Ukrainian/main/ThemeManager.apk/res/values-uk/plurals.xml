@@ -17,4 +17,9 @@
         <item quantity="one">%1$s | %2$d зображення</item>
         <item quantity="few">%1$s | %2$d зображення</item>
      </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d відгуків</item>
+        <item quantity="few">%d відгуки</item>
+        <item quantity="one">%d відгук</item>
+     </plurals>
 </resources>

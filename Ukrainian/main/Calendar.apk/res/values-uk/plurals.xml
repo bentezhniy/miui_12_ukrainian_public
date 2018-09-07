@@ -38,7 +38,7 @@
      </plurals>
      <plurals name="month_more_events">
         <item quantity="other">"+%d"</item>
-        <item quantity="one">"+1"</item>
+        <item quantity="one">"+%d"</item>
      </plurals>
      <plurals name="weekN">
         <item quantity="other">%d тижнів</item>
@@ -47,22 +47,22 @@
         <item quantity="many">%d тижнів</item>
      </plurals>
 	 <plurals name="Ndays_after">
-        <item quantity="other">Через %1$d днів о %2$s</item>
-        <item quantity="one">Через %1$d день о %2$s</item>
-        <item quantity="few">Через %1$d дні о %2$s</item>
-        <item quantity="many">Через %1$d днів о %2$s</item>
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+        <item quantity="many">Через %1$d днів</item>
      </plurals>
      <plurals name="Ndays_ago">
-        <item quantity="other">%1$d днів тому о %2$s</item>
-        <item quantity="one">%1$d день тому о %2$s</item>
-        <item quantity="few">%1$d дні тому о %2$s</item>
-        <item quantity="many">%1$d днів тому о %2$s</item>
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
+        <item quantity="many">%1$d днів назад</item>
      </plurals>
      <plurals name="Nweeks">
-        <item quantity="other">%d тижнів тому</item>
-        <item quantity="one">%d тиждень тому</item>
-        <item quantity="few">%d тижнів тому</item>
-        <item quantity="many">%d тижнів тому</item>
+        <item quantity="other">%d тижнів</item>
+        <item quantity="one">%d тиждень</item>
+        <item quantity="few">%d тижнів</item>
+        <item quantity="many">%d тижнів</item>
      </plurals>
 	 <plurals name="Ndays_after_at">
         <item quantity="other">Через %1$d днів о %2$s</item>
@@ -71,10 +71,10 @@
         <item quantity="many">Через %1$d днів о %2$s</item>
      </plurals>
      <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d днів тому о %2$s</item>
-        <item quantity="one">%1$d день тому о %2$s</item>
-        <item quantity="few">%1$d дні тому о %2$s</item>
-        <item quantity="many">%1$d днів тому о %2$s</item>
+        <item quantity="other">%1$d днів назад о %2$s</item>
+        <item quantity="one">%1$d день назад о %2$s</item>
+        <item quantity="few">%1$d дні назад о %2$s</item>
+        <item quantity="many">%1$d днів назад о %2$s</item>
      </plurals>
      <plurals name="anniversary_day">
         <item quantity="other">%1$s днів</item>
@@ -113,10 +113,10 @@
         <item quantity="many">%1$d днів потому</item>
      </plurals>
      <plurals name="date_calculate_days_ago">
-        <item quantity="other">%1$d днів тому</item>
-        <item quantity="one">%1$d день тому</item>
-        <item quantity="few">%1$d дні тому</item>
-        <item quantity="many">%1$d днів тому</item>
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
+        <item quantity="many">%1$d днів назад</item>
      </plurals>
      <plurals name="date_calculate_direction_backward">
         <item quantity="other">%1$d днів потому</item>
@@ -125,10 +125,10 @@
         <item quantity="many">%1$d днів потому</item>
      </plurals>
      <plurals name="date_calculate_direction_forward">
-        <item quantity="other">%1$d днів тому</item>
-        <item quantity="one">%1$d день тому</item>
-        <item quantity="few">%1$d дні тому</item>
-        <item quantity="many">%1$d днів тому</item>
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
+        <item quantity="many">%1$d днів назад</item>
      </plurals>
      <plurals name="work_days">
         <item quantity="other">%d робочих днів</item>
@@ -161,13 +161,13 @@
         <item quantity="many">%1$d років</item>
      </plurals>
 	 <plurals name="birthday_notification_age_term">
-        <item quantity="other">"%1$s-е "</item>
-        <item quantity="one">"%1$s-е "</item>
+        <item quantity="other">"%1$s-й"</item>
+        <item quantity="one">"%1$s-й "</item>
     </plurals>
 	<plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d днів тому</item>
-        <item quantity="one">%1$d день тому</item>
-        <item quantity="few">%1$d дні тому</item>
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
      </plurals>
      <plurals name="birthday_event_description_days_later">
         <item quantity="other">Лишилося %1$d днів</item>

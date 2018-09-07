@@ -706,4 +706,6 @@
      <string name="onekeyclean_card_summery">Очищення сміття</string>
      <string name="pref_about_privacy_title">Політика конфіденційності</string>
      <string name="pref_title_create_onekeyclean_shortcut">Ярлик на робочий стіл</string>
+      <string name="toast_updater_close_4g_text">Програми не будуть оновлені через мережу 4G</string>
+     <string name="toast_updater_open_4g_text">Програми будуть оновлені через мережу 4G</string>
 </resources>

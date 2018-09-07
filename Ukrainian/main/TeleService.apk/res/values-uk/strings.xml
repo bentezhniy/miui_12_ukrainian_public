@@ -2551,7 +2551,6 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="wrong_password">Хибний пароль</string>
      <string name="xdivert_button">Налаштування X-Divert</string>
      <string name="xdivert_setting">Налаштування X-Divert</string>
-     <string name="xdivert_summary">Налаштування CFNRc</string>
      <string name="xdivert_title">X-Divert</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Корпоративний запит на розблокування невдалий</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ENTRY">Введіть PUK</string>
@@ -2603,16 +2602,14 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="bluetooth_show_devices_without_names">Показувати Bluetooth-пристрої без назв</string>
      <string name="bluetooth_show_devices_without_names_summary">Показувати Bluetooth-пристрої без назв (тільки з MAC-адресами)</string>
      <string name="change_data_sim_4g_only_prompt">SIM %1$s підтримує тільки 4G. Коли SIM %2$s не використовується за замовчуванням, вона може не працювати належним чином. Перемкнути?</string>
-     <string name="connected_via_carrier">Підключено до %1$s</string>
-     <string name="dds_switch_warning_message_data_off">Неможливо знайти SIM% 1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
-     <string name="dds_switch_warning_message_data_on">Неможливо знайти SIM% 1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
+     <string name="dds_switch_warning_message_data_off">Неможливо знайти SIM %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
+     <string name="dds_switch_warning_message_data_on">Неможливо знайти SIM %1$s. SIM %2$s використовується за замовчуванням для мобільного інтернету. Мобільний інтернет вимкнено</string>
      <string name="mobile_data_alert">Може створювати додаткові витрати на трафік другий SIM-карти</string>
      <string name="opened_dual_4g_confirm_prompt">Схоже, у вас SIM-карта тільки з 4G. Мережа 4G включена автоматично для двох SIM</string>
      <string name="opened_dual_4g_confirm_prompt_with_sim">SIM%1$s підтримує тільки 4G. Включена мережу 4G для двох SIM-карт для коректної роботи</string>
      <string name="power_discharging_duration_enhanced">(залишилося приблизно ^2 при поточному рівні використання)</string>
      <string name="power_remaining_duration_only_enhanced">Залишилося приблизно ^1 при поточному рівні використання</string>
      <string name="power_remaining_duration_only_short_enhanced">Залишилося ^1 при поточному рівні використання</string>
-     <string name="preference_summary_default_combination">%1$s/%2$s</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
      <string name="search_menu_title">Пошук</string>
      <string name="speed_label_fast">Швидка</string>
@@ -2664,6 +2661,4 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name= "wifi_wapi_fail_to_init">Неможливо відкрити сертифікати WAPI</string>
      <string name= "wifi_wapi_psk_type">Тип пароля</string>
      <string name= "wifi_wapi_user_certificate">Призначений для користувача сертифікат</string>
-     <string name="advanced_settings_container">Додаткові параметри контейнера</string>
-     <string name="process_kernel_label">Ядро Android</string>
 </resources>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="mx_message">Mi повідомлення</string>
+    <string name="rcs_message">Повідомлення China Mobile</string>
     <string name="activity_not_found">Програма для запуску цієї дії відсутня</string>
     <string name="copy_message_text_success">Текст скопійовано</string>
     <string name="back_to_message_list">Повернутися до повідомлень</string>

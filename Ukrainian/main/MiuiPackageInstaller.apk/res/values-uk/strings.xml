@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
+     <string name="dlg_game_center_intercept_install">Інсталювати</string>
+     <string name="dlg_game_center_intercept_msg">Інсталяція сторонніх ігор може бути небезпечною. Рекомендується інсталювати ігри з офіційного джерела.</string>
+     <string name="dlg_game_center_intercept_title">Попередження</string>
+     <string name="game_center_install">Інсталювати з Mi ігор</string>
+     <string name="game_center_install_tips">Інсталюйте Mi гри, щоб отримати більше можливостей</string>
+     <string name="game_center_intercept_trust_app">Я довіряю цій програмі</string>
+     <string name="game_center_intercept_warning_msg">Ця програма не була перевірена в Xiaomi на наявність вірусів. Інсталювати цю програму з Mi ігор, щоб уникнути загрози безпеки.</string>
+     <string name="game_center_lunch_error">Спочатку інсталюйте Mi гри</string>
+     <string name="increment_install_downloading">Завантаження ...</string>
+     <string name="increment_install_network_error_cancel">Скасування</string>
+     <string name="increment_install_network_error_msg">Помилка мережі. Продовжити інсталяцію неофіційної програми?</string>
+     <string name="increment_install_network_error_ok">Продовжити</string>
+     <string name="increment_install_network_error_title">Попередження</string>
+     <string name="increment_install_pathing">Перевірка пакету ...</string>
+     <string name="increment_preparing">Підготовка ...</string>
+     <string name="mobil_net_work_warning_cancel">Скасувати</string>
+     <string name="mobil_net_work_warning_msg">Для інсталяції цієї програми потрібно %1$s мобільного трафіку. Продовжити?</string>
+     <string name="mobil_net_work_warning_ok">ОК</string>
+     <string name="mobil_net_work_warning_title">Попередження про трафік</string>
      <string name="accessibility_wifi_security_type_none">Відкрита мережа</string>
      <string name="accessibility_wifi_security_type_secured">Захищена мережа</string>
      <string name="app_requesting_space">%1$s потребує %2$s</string>

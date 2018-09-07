@@ -484,7 +484,6 @@
      <string name="speed_label_slow">Повільна</string>
      <string name="speed_label_very_fast">Дуже швидка</string>
      <string name="speed_label_very_slow">Дуже повільна</string>
-     <string name="tethering_hardware_offload">Апаратне прискорення модему</string>
      <string name="tethering_hardware_offload_summary">Використовувати апаратне прискорення при підключенні, якщо доступно</string>
      <string name="v7_preference_off">ВИКЛ</string>
      <string name="v7_preference_on">ВКЛ</string>

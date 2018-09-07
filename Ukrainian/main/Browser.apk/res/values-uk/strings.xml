@@ -2166,4 +2166,7 @@
      <string name="xiaomi_update_sdk_external_storage_unavailable">Пам\'ять недоступна</string>
      <string name="xiaomi_update_sdk_kilobytes_unit">%1$s кБ</string>
      <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
+     <string name="data_traffic_download_cancel">Скасувати</string>
+     <string name="data_traffic_download_prompt">Поточне відео можна завантажити тільки через мережу Wi-Fi</string>
+     <string name="data_traffic_download_setting">Налаштування</string>
 </resources>
