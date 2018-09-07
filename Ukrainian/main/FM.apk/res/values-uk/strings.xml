@@ -164,4 +164,5 @@
      <string name="using_recorder_dialog_message">Дозволити програмі використовувати служби запису звуку?</string>
      <string name="using_recorder_dialog_title">Попередження</string>
 	 <string name="runtime_permission_ungranted">Дозвіл для запису відсутній</string>
+	<string name="menu_privacy">Політика конфіденційності</string>
 </resources>
