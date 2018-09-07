@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
-<resources>
+<resources>	
+    <string-array name="def_audio_entries"> 
+        <item>Мелодія виклику</item> 
+        <item>Мультимедіа</item> 
+    </string-array>	
      <string-array name="agps_network_entries">
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
