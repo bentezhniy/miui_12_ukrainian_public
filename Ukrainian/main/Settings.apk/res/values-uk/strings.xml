@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+<string name="def_audio_title">Регулювання гучності за замовчуванням</string>
      <string name="failed_to_erase_text">Перед виконання операції 1217 вимкніть пароль екрану блокування</string>
      <string name="failed_to_erase_title">Заборонена операція</string>
      <string name="navigation_guide_appswitch_anim_summary">Проведіть по екрану від краю, щоб повернутися до попередньої програми</string>
