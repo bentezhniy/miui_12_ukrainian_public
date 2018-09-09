@@ -157,10 +157,10 @@
         <item quantity="one">%1$d фото чи відео</item>
      </plurals>
      <plurals name="cloud_space_full">
-        <item quantity="other">"Пам\'ять в Mi Cloud заповнена. \n%1$d файлів очікують синхронізацію."</item>
-        <item quantity="one">"Пам\'ять в Mi Cloud заповнена. \n%1$d файл очікує синхронізацію."</item>
-        <item quantity="few">"Пам\'ять в Mi Cloud заповнена. \n%1$d файли очікують синхронізацію."</item>
-        <item quantity="many">"Пам\'ять в Mi Cloud заповнена. \n%1$d файлів очікують синхронізацію."</item>
+        <item quantity="other">"Пам'ять в Mi Cloud заповнена. \n%1$d файлів очікують синхронізацію."</item>
+        <item quantity="one">"Пам'ять в Mi Cloud заповнена. \n%1$d файл очікує синхронізацію."</item>
+        <item quantity="few">"Пам'ять в Mi Cloud заповнена. \n%1$d файли очікують синхронізацію."</item>
+        <item quantity="many">"Пам'ять в Mi Cloud заповнена. \n%1$d файлів очікують синхронізацію."</item>
      </plurals>
      <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d фото</item>
