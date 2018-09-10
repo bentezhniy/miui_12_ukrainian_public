@@ -531,7 +531,7 @@
      <plurals name="quick_optimize_summary_text">
         <item quantity="other">Оптимізовано %d елементів</item>
         <item quantity="one">Оптимізовано %d елемент</item>
-        <item quantity="few">Оптимізовано %d елементу</item>
+        <item quantity="few">Оптимізовано %d елементи</item>
         <item quantity="many">Оптимізовано %d елементів</item>
      </plurals>
      <plurals name="result_sign_header">
