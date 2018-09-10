@@ -891,7 +891,7 @@
      <string name="magnetic_info_hint">Повертайте пристрій, описуючи цифру \"8\".</string>
      <string name="mic1_spk_loop">Розмовний мікрофон</string>
      <string name="mic1test">MIC1</string>
-     <string name="micphone_test">MIC & SPK</string>
+     <string name="micphone_test">MIC &amp; SPK</string>
      <string name="navigation_drawer_close">Закрити панель навігації</string>
      <string name="navigation_drawer_open">Відкрити панель навігації</string>
      <string name="next">Далі</string>
