@@ -3728,6 +3728,7 @@
      <string name="reset_data_dialog_ok">Повне скидання</string>
      <string name="reset_data_title">Неможливо відновити пароль</string>
      <string name="see_more_content">Оновіть ігровий центр, щоб отримати більше можливостей</string>
+     <string name="auto_task_result_summary_text">Налаштуйте автоматичні завдання для енергозбереження</string>
      <string name="summary_first_aid_kit">Виправте проблеми за допомогою першої допомоги</string>
      <string name="title_first_aid_kit">Перша допомога</string>
      <string name="title_like">Подобається</string>
