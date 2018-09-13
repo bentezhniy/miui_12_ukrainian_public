@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="card_last_week_day">
+        <item>Минулий місяць</item>
+        <item>Минулий вівторок</item>
+        <item>Минула середа</item>
+        <item>Минулий четвер</item>
+        <item>"Минула п'ятниця"</item>
+     </string-array>
+     <string-array name="chinese_holiday_last_year">
+        <item>Минулий китайський Новий рік</item>
+        <item>Минулий китайський Новий рік</item>
+        <item>Минулий фестиваль ліхтарів</item>
+        <item>Минулий фестиваль човнів-драконів</item>
+        <item>Минулий фестиваль Qixi</item>
+        <item>Минуле свято середини осені</item>
+     </string-array>
+     <string-array name="chinese_holiday_past_year">
+        <item>Китайський Новий рік напротязі багатьох років</item>
+        <item>Китайський Новий рік напротязі багатьох років</item>
+        <item>Фестиваль ліхтарів напротязі багатьох років</item>
+        <item>Фестиваль човнів-драконів напротязі багатьох років</item>
+        <item>Фестиваль Qixi напротязі багатьох років</item>
+        <item>Свято середини осені напротязі багатьох років</item>
+     </string-array>
+     <string-array name="holiday_last_year">
+        <item>Минулий Новий рік</item>
+        <item>Минулий день святого Валентина</item>
+        <item>Минулий день праці</item>
+        <item>Минулий день дітей</item>
+        <item>Минулий національний день</item>
+        <item>Минуле Різдво</item>
+     </string-array>
+     <string-array name="holiday_past_year">
+        <item>Новий рік напротязі багатьох років</item>
+        <item>День святого Валентина напротязі багатьох років</item>
+        <item>День праці напротязі багатьох років</item>
+        <item>День дітей напротязі багатьох років</item>
+        <item>Національний день напротязі багатьох років</item>
+        <item>Різдво напротязі багатьох років</item>
+     </string-array>
+     <string-array name="month_last_year">
+        <item>Минулий січень</item>
+        <item>Минулий лютий</item>
+        <item>Минулий березень</item>
+        <item>Минулий квітень</item>
+        <item>Минулий травень</item>
+        <item>Минулий червень</item>
+        <item>Минулий липень</item>
+        <item>Минулий август</item>
+        <item>Минулий вересень</item>
+        <item>Минулий жовтень</item>
+        <item>Минулий листопад</item>
+        <item>Минулий грудень</item>
+     </string-array>
+     <string-array name="month_past_year">
+        <item>Січневі спогади</item>
+        <item>Лютневі спогади</item>
+        <item>Березневі спогади</item>
+        <item>Квітневі спогади</item>
+        <item>Травневі спогади</item>
+        <item>Червневі спогади</item>
+        <item>Липневі спогади</item>
+        <item>Серпневі спогади</item>
+        <item>Вересневі спогади</item>
+        <item>Жовтневі спогади</item>
+        <item>Листопадові спогади</item>
+        <item>Грудневі спогади</item>
+     </string-array>
+     <string-array name="season_last_year">
+        <item>Минула весна</item>
+        <item>Минуле літо</item>
+        <item>Минула осінь</item>
+        <item>Минула зима</item>
+     </string-array>
+     <string-array name="season_past_year">
+        <item>Весняні спогади</item>
+        <item>Літні спогади</item>
+        <item>Осінні спогади</item>
+        <item>Зимові спогади</item>
+     </string-array>
+     <string-array name="season_recap">
+        <item>Звіт за весну</item>
+        <item>Звіт за лето</item>
+        <item>Звіт за осень</item>
+        <item>Звіт за зиму</item>
+     </string-array>
      <string-array name="slideshow_time_entries">
         <item>5 хвилин</item>
         <item>15 хвилин</item>
