@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	 <string name="abort_backup_confirm">Скасувати створення бекапу?</string>
+     <string name="trans_cancel_dialog_survey_title">Чому ви перервали передачу?</string>
+     <string name="trans_dialog_survey_finish">Надіслати</string>
+     <string name="trans_success_dialog_button_market_comment">Відгук</string>
+     <string name="trans_success_dialog_button_survey">Опитування</string>
+     <string name="trans_success_dialog_market_comment_and_survey_title">Напишіть відгук про Mi Mover</string>
+     <string name="trans_success_dialog_survey_title">Ми цінуємо вашою думкою</string>
+     <string name="trans_success_survey_hint">Потрібно заповнити поля</string>
+     <string name="abort_backup_confirm">Скасувати створення бекапу?</string>
      <string name="abort_restore_confirm">Зупинити відновлення?</string>
      <string name="account_contact_backup_info">Дані акаунтів і контакти</string>
      <string name="account_login">Увійти в систему</string>

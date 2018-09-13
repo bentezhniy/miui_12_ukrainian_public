@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="tax_thershold_native_new">%s (нове)</string>
+     <string name="tax_thershold_native_new_description">Податки будуть розраховуватися відповідно до нового податкового законодавства від 1 жовтня 2018 року</string>
      <string name="preference_other">Інше</string>
      <string name="preference_privacy_title">Політика конфіденційності</string>
      <string name="power_base_number">X</string>
