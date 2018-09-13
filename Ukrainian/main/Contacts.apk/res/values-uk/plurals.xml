@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Знайдено більше %d контактів</item>
+        <item quantity="one">Знайдено більше %d контакту</item>
+     </plurals>
+     <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d контактів з неповною інформацією</item>
+        <item quantity="one">%1$d контакт з неповною інформацією</item>
+        <item quantity="few">%1$d контакти з неповною інформацією</item>
+     </plurals>
+     <plurals name="select_all_exceed_plurals">
+        <item quantity="other">Можна вибрати не більше %1$d</item>
+        <item quantity="one">Можна вибрати не більше %1$d</item>
+     </plurals>
+     <plurals name="select_exceed_plurals">
+        <item quantity="other">Можна вибрати не більше %1$d</item>
+        <item quantity="one">Можна вибрати не більше %1$d</item>
+     </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">Додано контактів: %1$d</item>
         <item quantity="one">Додано контактів: %1$d</item>
