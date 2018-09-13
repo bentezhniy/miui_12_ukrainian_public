@@ -263,7 +263,7 @@
      <string name="open_personal_assistant_dialog_btn_cancel">Скасувати</string>
      <string name="open_personal_assistant_dialog_btn_confirm">ОК</string>
      <string name="open_personal_assistant_dialog_desc">Mi помічник буде недоступний</string>
-     <string name="open_personal_assistant_dialog_desc_international">Після відключення цієї функції ви не зможете використовувати картки Стрічки віджетів (акції, ярлика і т.д.) та отримувати оновлення.</string>
+     <string name="open_personal_assistant_dialog_desc_international">Після відключення цієї функції Ви не зможете використовувати картки Стрічки віджетів (акції, ярлика і т.д.) та отримувати оновлення.</string>
      <string name="open_personal_assistant_dialog_title">Вимкнути Mi помічника?</string>
      <string name="open_personal_assistant_title">Увімкнути Mi помічника</string>
      <string name="out_of_space">На цьому екрані немає вільного місця</string>

@@ -44,13 +44,13 @@
      <string name="cit_led_check_second_flash_light">Другий спалах LED</string>
      <string name="cit_logcat_txt">Лог</string>
      <string name="cit_offline_log_title">Статус локального балки</string>
-     <string name="cit_proximity_data_check_summary">Закрийте датчик наближення рукою в верхній частині телефону, потім знову відкрийте його. Значення має збільшуватися від 0.0, коли ви відводите руку далі від пристрою.</string>
+     <string name="cit_proximity_data_check_summary">Закрийте датчик наближення рукою в верхній частині телефону, потім знову відкрийте його. Значення має збільшуватися від 0.0, коли Ви відводите руку далі від пристрою.</string>
      <string name="cit_rear_sub_camera_check_summary">"Інструкція по тесту:
 
 1. Натисніть кнопку камеру нижче для входу в інтерфейс додаткової камери.
 2. Натисніть кнопку зйомки
 3. Система автоматично збереже фотографію
-4. Фотографія, яку ви зробили, повинна відображатися на екрані. Натисніть \"Видалити\", щоб завершити тест."</string>
+4. Фотографія, яку Ви зробили, повинна відображатися на екрані. Натисніть \"Видалити\", щоб завершити тест."</string>
 	
      <string name="cit_reset_ese_summary">Всі дані ваших банківських карт будуть видалені</string>
      <string name="cit_reset_ese_title">Скидання eSE</string>
@@ -124,7 +124,7 @@
      <string name="interphone_test_switch_to_receive_mode">Переключитися в режим прийому</string>
      <string name="interphone_test_switch_to_transmit_mode">Переключитися в режим відправки</string>
      <string name="interval_vibrator">Інтервал вібрації</string>
-     <string name="intro_message">Цей приклад демонструє базове використання Cam2api. Перевірте вихідний код, щоб побачити, як ви можете відображати попередній перегляд камери і робити знімки.</string>
+     <string name="intro_message">Цей приклад демонструє базове використання Cam2api. Перевірте вихідний код, щоб побачити, як Ви можете відображати попередній перегляд камери і робити знімки.</string>
      <string name="ir_camera_led_test_description">Тест структурованого LED світла</string>
      <string name="ir_camera_led_test_summary">"Інструкція по тесту:
 
@@ -137,7 +137,7 @@
 1. Натисніть кнопку камери нижче, щоб увійти в інтерфейс ІК камери.
 2. Натисніть кнопку зйомки.
 3. Система автоматично збереже фотографію після зйомки.
-4. Фотографія, яку ви зробили, повинна відображатися на екрані. Натисніть \"Видалити\" для завершення тесту."</string>
+4. Фотографія, яку Ви зробили, повинна відображатися на екрані. Натисніть \"Видалити\" для завершення тесту."</string>
      <string name="ir_camera_test_summary_preview">"Інструкція по тесту:
 
 1. Натисніть кнопку перегляду нижче, щоб увійти в інтерфейс камери.
@@ -220,9 +220,9 @@
      <string name="test_headset">Тест гарнітури</string>
      <string name="test_main_mic">Основний мікрофон</string>
      <string name="test_receiver">Одержувач</string>
-     <string name="test_receiver_summary">"Ви почуєте два випадкових числа.Натисніть відповідну кнопку з номером, який ви почули."</string>
+     <string name="test_receiver_summary">"Ви почуєте два випадкових числа.Натисніть відповідну кнопку з номером, який Ви почули."</string>
      <string name="test_speaker">Динамік</string>
-     <string name="test_speaker_summary">"Ви почуєте два випадкових числа.Натисніть відповідну кнопку з номером, який ви почули."</string>
+     <string name="test_speaker_summary">"Ви почуєте два випадкових числа.Натисніть відповідну кнопку з номером, який Ви почули."</string>
      <string name="test_top_mic">Верхній мікрофон</string>
      <string name="tips_not_placed_right_angle">Телефон розташований не під прямим кутом</string>
      <string name="tips_show_calibrate_result">Результат калібрування</string>

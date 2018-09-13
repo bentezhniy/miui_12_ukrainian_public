@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="trans_cancel_dialog_survey_title">Чому ви перервали передачу?</string>
+     <string name="trans_cancel_dialog_survey_title">Чому Ви перервали передачу?</string>
      <string name="trans_dialog_survey_finish">Надіслати</string>
      <string name="trans_success_dialog_button_market_comment">Відгук</string>
      <string name="trans_success_dialog_button_survey">Опитування</string>
@@ -473,7 +473,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="trans_intro_desc_2">Скасуйте передачу, вийдіть з трансферу та почніть спочатку. Під час нової передачі файли, що дублюються, буде перезаписано.</string>
      <string name="trans_intro_desc_3">Трансфер використовує Wi-Fi для передачі файлів. Тем не менш, Ви можете використовувати мобільний інтернет.</string>
      <string name="trans_intro_desc_4">Переконайтеся, що на старому пристрої доступно не менш 1 ГБ, щоб створити бекап для його передачі до нового пристрою в подальшому.</string>
-     <string name="trans_intro_desc_4_market">Mi Mover використовує Wi-Fi для передачі файлів. Саме тому ви не можете підключитися до інтернету через Wi-Fi під час передачі файлів. Але ви все ще можете використовувати мобільний інтернет.</string>
+     <string name="trans_intro_desc_4_market">Mi Mover використовує Wi-Fi для передачі файлів. Саме тому Ви не можете підключитися до інтернету через Wi-Fi під час передачі файлів. Але Ви все ще можете використовувати мобільний інтернет.</string>
      <string name="trans_intro_desc_5">Є декілька причин: проблеми сумісності версій програм, проблеми з мережею, інше.</string>
      <string name="trans_intro_desc_6">Деякі програми можуть не працювати на новому пристрої з міркувань безпеки. Спробуйте очистити дані програми або ж знову інсталювати його на новому пристрої.</string>
      <string name="trans_intro_desc_7">Дані програми WeChat можуть не повністю передаватися за допомогою трансферу. Рекомендовано вийти з акаунту WeChat перед надсиланням даних.</string>

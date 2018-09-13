@@ -53,7 +53,7 @@
     <string name="bluetooth_pairing_accept">Підключити</string>
     <string name="bluetooth_pairing_accept_all_caps">ПІДКЛЮЧИТИСЯ</string>
     <string name="bluetooth_pairing_decline">Скасувати</string>
-    <string name="bluetooth_pairing_will_share_phonebook">Якщо ви під\'єднаєте інший пристрій, він матиме доступ до ваших контактів та історії дзвінків.</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Якщо Ви під\'єднаєте інший пристрій, він матиме доступ до ваших контактів та історії дзвінків.</string>
     <string name="bluetooth_pairing_error_message">Не вдалося створити пару з пристроєм %1$s.</string>
     <string name="bluetooth_pairing_pin_error_message">Не вдалося створити пару з пристроєм %1$s через неправильний PIN-код чи ключ доступу.</string>
     <string name="bluetooth_pairing_device_down_error_message">Неможливо зв\'язатися з пристроєм %1$s.</string>
@@ -450,7 +450,7 @@
      <string name="wifi_auto_sel_wapi_cert">Автоматичний вибір</string>
      <string name="wifi_cant_connect">Неможливо підключити</string>
      <string name="wifi_cant_connect_to_ap">Неможливо підключитися до мережі \ "%1$s \"</string>
-     <string name="wifi_check_password_try_again">Можливо, ви вказали неправильний пароль. Будь ласка, спробуйте ще раз.</string>
+     <string name="wifi_check_password_try_again">Можливо, Ви вказали неправильний пароль. Будь ласка, спробуйте ще раз.</string>
      <string name="wifi_disabled_by_recommendation_provider">Підключення неможливе через низьку якість мережі</string>
      <string name="wifi_hand_sel_wapi_cert">Сертифікат WAPI</string>
      <string name="wifi_p2p_allow_passive_listen">Дозволити пасивне прослуховування Wi-Fi P2p</string>
