@@ -1559,7 +1559,7 @@
      <string name="status_available">На місці</string>
      <string name="status_away">Відсутній</string>
      <string name="status_busy">Не турбувати</string>
-     <string name="storage_internal_description">"Внутрішня пам\'ять"</string>
+     <string name="storage_internal_description">"Внутрішня пам'ять"</string>
      <string name="storage_sd_card">SD карта</string>
      <string name="storage_sd_card_description">SD карта</string>
      <string name="storage_usb_description">USB накопичувач</string>
