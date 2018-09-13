@@ -2173,9 +2173,9 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="summary_manage_subscriptions">Керування налаштуваннями мережі кожної підписки</string>
      <string name="switch_dds_to_sub_alert">Встановити цю карту, як карту за замовчуванням.</string>
      <string name="system_visual_voicemail_client" />
-     <string name="t9_indexing_method_pinyin">Алфавітний</string>
+     <string name="t9_indexing_method_pinyin">Англо-український</string>
      <string name="t9_indexing_method_title">Пошук Т9</string>
-     <string name="t9_indexing_method_zhuyin">Китайська</string>
+     <string name="t9_indexing_method_zhuyin">Китайський</string>
      <string name="t9_indexing_rebuilding_message">Реіндексація бази T9…</string>
      <string name="technology_news_disable">Новини технологій вимкнено</string>
      <string name="technology_news_enable">Новини технологій увімкнено</string>
