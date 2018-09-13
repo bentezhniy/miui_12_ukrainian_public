@@ -1571,10 +1571,10 @@
      <string name="t9_search_empty_edit_contact">Добавить до контакту</string>
      <string name="t9_search_empty_send_sms">Надіслати повідомлення</string>
      <string name="t9_search_empty_video_call">Відеовиклик</string>
-     <string name="t9_search_guide_pinyin">Введіть \"2\" або \"5\" для пошуку \"Андрій Петренко\"</string>
+     <string name="t9_search_guide_pinyin">Введіть \"2\" або \"5\" для пошуку \"Віталій Патріот\"</string>
      <string name="t9_search_guide_pinyin_title1">Пошук контактів Т9</string>
      <string name="t9_search_guide_pinyin_title2">Введіть 2 і 5 для пошуку Віталій Патріот</string>
-     <string name="t9_search_guide_zhuyin">Введіть \"2\" або \"5\" для пошуку \"Андрій Петренко\"</string>
+     <string name="t9_search_guide_zhuyin">Введіть \"2\" або \"5\" для пошуку \"Віталій Патріот\"</string>
      <string name="t9_search_guide_zhuyin_title1">Пошук контактів Т9</string>
      <string name="t9_search_guide_zhuyin_title2">Введіть 2 і 5 для пошуку Віталій Патріот</string>
      <string name="take_new_photo">Зняти фото</string>
