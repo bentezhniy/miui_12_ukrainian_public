@@ -6,6 +6,11 @@
         <item quantity="one">Додати %d хвилину</item>
         <item quantity="few">Додати %d хвилини</item>
      </plurals>
+	 <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d програм можуть відображатися некоректно. Вимкніть спливаючі сповіщення</item>
+        <item quantity="one">%d програма може відображатися некоректно. Вимкніть спливаючі сповіщення</item>
+        <item quantity="few">%d програми можуть відображатися некоректно. Вимкніть спливаючі сповіщення</item>
+     </plurals>
      <plurals name="power_center_menu_text">
         <item quantity="other">елементів</item>
         <item quantity="one">елемент</item>

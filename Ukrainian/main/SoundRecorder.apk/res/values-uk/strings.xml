@@ -202,4 +202,5 @@
 Натисніть \"%s\" для початку завантаження при підключенні до Wi-Fi мережі"</string>
      <string name="wifi_recommended_title">Попередження про трафік</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
+	 <string name="alert_message_delete_local_record">Видалити запис?</string>
 </resources>

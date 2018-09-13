@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="extreme_power_save_mode_card_summary">Увімкніть режим екстремального енергозбереження при дуже низькому заряді батареї</string>
+     <string name="device_manager_apply_step_1">Активувати адміністратора пристрою для цієї програми?</string>
+     <string name="device_manager_apply_step_2">"Активація адміністратора пристрою для цієї програми може призвести до втрати особистих даних.
+Всі дані на Вашому пристрої можуть бути очищені, включно з паролем блокування екрана"</string>
+     <string name="device_manager_apply_step_3">Перед тем, як продовжити, переконайтеся, що Ви усвідомлюєте можливі ризики. Активувати адміністратора пристрою для для цієї програми?</string>
+     <string name="first_aid_result_summary_not_finished">Сканування не завершене</string>
+	 <string name="extreme_power_save_mode_card_summary">Увімкніть режим екстремального енергозбереження при дуже низькому заряді батареї</string>
      <string name="handle_title_abnormal">Високе споживання батареї</string>
      <string name="handle_title_app">Програми</string>
      <string name="handle_title_details">Використання батареї</string>

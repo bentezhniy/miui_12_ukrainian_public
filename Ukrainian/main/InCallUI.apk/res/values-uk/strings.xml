@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="sim1_description">SIM1</string>
+     <string name="description_message_list_title">Перелік швидких відповідей</string>
+	 <string name="sim1_description">SIM1</string>
      <string name="sim2_description">SIM2</string>
 	 <string name="accept_modify_call_request_prompt">Змінити запит виклику?</string>
      <string name="accessibility_bluetooth_headset_selected">Обрана Bluetooth гарнітура</string>

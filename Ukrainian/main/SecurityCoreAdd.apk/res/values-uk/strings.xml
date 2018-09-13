@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Active">Активувати</string>
+     <string name="confirm_close_password_desc">Після того, як Ви вимкнете пароль, Ви не зможете увійти до другого простору з екрану блокування. Вимкнути?</string>
+     <string name="confirm_close_password_title">Вимкнення паролю</string>
+	 <string name="Active">Активувати</string>
      <string name="about_ent_mode">Про режим компанії</string>
      <string name="activate_ent_mode">Активувати режим компанії</string>
      <string name="ent_activating">Активація…</string>

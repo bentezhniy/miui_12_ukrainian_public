@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="def_audio_title">Регулювання гучності за замовчуванням</string>
+     <string name="accessibility_summary_source">Підтримка: %s</string>
+     <string name="bootloader_device_bind_no_data_network">Вимкніть Wi-Fi та додайте свій акаунт і пристрій за допомогою мобільного інтернету</string>
+     <string name="bootloader_device_bind_server_token_expired_1">Неможливо перевірити. Спробуйте додати акаунт та пристрій знову</string>
+     <string name="bootloader_device_bind_server_token_expired_2">Неможливо перевірити. Увійдіть до свого акаунту знову та спробуйте ще раз</string>
+     <string name="credentials_title_verification">Перевірка</string>
+     <string name="following_us_title">Підпишіться на нас</string>
+     <string name="def_audio_title">Регулювання гучності за замовчуванням</string>
      <string name="failed_to_erase_text">Перед виконання операції 1217 вимкніть пароль екрану блокування</string>
      <string name="failed_to_erase_title">Заборонена операція</string>
      <string name="navigation_guide_appswitch_anim_summary">Проведіть по екрану від краю, щоб повернутися до попередньої програми</string>

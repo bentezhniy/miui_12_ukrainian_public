@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
+     <string name="increment_install_pause_for_wifi">Очікування Wi-Fi</string>
+	 <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
      <string name="dlg_game_center_intercept_install">Інсталювати</string>
      <string name="dlg_game_center_intercept_msg">Інсталяція сторонніх ігор може бути небезпечною. Рекомендується інсталювати ігри з офіційного джерела.</string>
      <string name="dlg_game_center_intercept_title">Попередження</string>

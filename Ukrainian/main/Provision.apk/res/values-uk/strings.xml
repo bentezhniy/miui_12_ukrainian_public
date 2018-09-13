@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-      <string name="voice_assist_advice">Mi AI дозволяє використовувати голосові засоби управління, але споживає більше енергії (+1% за годину).</string>
+     <string name="ai_button_desc">Використовуйте цю кнопку для запуску Mi AI і завершення задач на телефоні голосом</string>
+     <string name="ai_button_double_press">Подвійне натискання</string>
+     <string name="ai_button_double_press_desc">Налаштуйте функції Mi AI</string>
+     <string name="ai_button_long_press">Натискання та утримання</string>
+     <string name="ai_button_long_press_desc">Скажіть команду і відпустіть кнопку</string>
+     <string name="ai_button_single_press">Просте натискання</string>
+     <string name="ai_button_single_press_desc">Виклик Mi AI</string>
+     <string name="ai_button_title">Про кнопку AI</string>
+     <string name="poco_agree_terms_other">(включно з Політикою конфіденційності та Угодою користувача POCO Launcher)</string>
+	 <string name="voice_assist_advice">Mi AI дозволяє використовувати голосові засоби управління, але споживає більше енергії (+1% за годину).</string>
      <string name="voice_assist_condition">"Mi AI можна використовувати:
 1. Коли екран увімкнений.
 2. Коли ви слухаєте музику із увімкненим екраном."</string>	

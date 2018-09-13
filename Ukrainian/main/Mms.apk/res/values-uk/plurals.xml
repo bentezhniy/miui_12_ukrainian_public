@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="confirm_delete_conversation">
+     <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Позначено як %2$s %1$d користувачами</item>
+        <item quantity="one">Позначено як %2$s %1$d користувачем</item>
+     </plurals>
+	 <plurals name="confirm_delete_conversation">
         <item quantity="other">Видалити діалоги? (%1$s)</item>
         <item quantity="one">Видалити діалог?</item>
      </plurals>

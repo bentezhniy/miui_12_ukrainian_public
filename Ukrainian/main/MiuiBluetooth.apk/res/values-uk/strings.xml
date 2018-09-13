@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_name">Miui Bluetooth</string>
+     <string name="fast_connect_device_box">Кейс</string>
+     <string name="fast_connect_device_box_name">Кейс %1$s</string>
+     <string name="fast_connect_device_connect_cancel">Скасувати</string>
+     <string name="fast_connect_device_connect_ok">Підключити</string>
+     <string name="fast_connect_device_connect_retry">Повтор</string>
+     <string name="fast_connect_device_connect_setup">Налаштування</string>
+     <string name="fast_connect_device_connect_success">Готово</string>
+     <string name="fast_connect_device_headset_l">Лівий</string>
+     <string name="fast_connect_device_headset_r">Правий</string>
+     <string name="fast_connect_device_headset_reset">Натисніть і утримуйте кнопку на кейсі</string>
+     <string name="fast_connect_device_title_connect_fail">Неможливо підключити %1$s</string>
+     <string name="fast_connect_device_title_connecting">Підключення…</string>
+     <string name="fast_connect_device_title_find_headset">Пошук навушників: %1$s</string>
+     <string name="fast_connect_device_title_find_headset_others">Пошук навушників: %1$s інших</string>
+	 <string name="app_name">MIUI Bluetooth</string>
      <string name="device_picker">Bluetooth пристрою</string>
      <string name="bluetooth_preference_scan_title">Пошук пристроїв</string>
 	 <string name="bluetooth_preference_connected_devices">Під\'єднані пристрої</string>
