@@ -94,7 +94,7 @@
      <string name="wifi_auto_sel_wapi_cert">Автоматичний вибір</string>
      <string name="wifi_cant_connect">"Помилка підключення"</string>
      <string name="wifi_cant_connect_to_ap">"Не вдалось підключитися до мережі \"%1$s\""</string>
-     <string name="wifi_check_password_try_again">"Можливо, ви вказали неправильний пароль. Повторіть спробу."</string>
+     <string name="wifi_check_password_try_again">"Можливо, Ви вказали неправильний пароль. Повторіть спробу."</string>
      <string name="wifi_disabled_by_recommendation_provider">"Підключення неможливо через низьку якість мережі"</string>
      <string name="wifi_hand_sel_wapi_cert">Сертифікат WAPI</string>
      <string name="wifi_p2p_allow_passive_listen">Дозволити пасивне прослуховування Wi-Fi P2p</string>

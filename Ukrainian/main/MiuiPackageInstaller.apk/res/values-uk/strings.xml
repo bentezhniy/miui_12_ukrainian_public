@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
+     <string name="increment_install_pause_for_wifi">Очікування Wi-Fi</string>
+	 <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
      <string name="dlg_game_center_intercept_install">Інсталювати</string>
      <string name="dlg_game_center_intercept_msg">Інсталяція сторонніх ігор може бути небезпечною. Рекомендується інсталювати ігри з офіційного джерела.</string>
      <string name="dlg_game_center_intercept_title">Попередження</string>
@@ -45,7 +46,7 @@
      <string name="wifi_ap_unable_to_handle_new_sta">До точки доступу підключено забагато пристроїв</string>
      <string name="wifi_cant_connect">Не вдається підключити</string>
      <string name="wifi_cant_connect_to_ap">Не вдалося підключитися до мережі \"%1$s\"</string>
-     <string name="wifi_check_password_try_again">Можливо, ви вказали неправильний пароль. Повторіть спробу.</string>
+     <string name="wifi_check_password_try_again">Можливо, Ви вказали неправильний пароль. Повторіть спробу.</string>
      <string name="wifi_p2p_allow_passive_listen">Дозволити пасивне прослуховування Wi-Fi P2p</string>
      <string name="wifi_p2p_allow_passive_listen_summary">Дозволити/заборонити пасивне прослуховування Wi-Fi P2p, пристрій не може сканувати інші пристрої, але інші пристрої можуть сканувати поточний.</string>
 	 <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>

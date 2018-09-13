@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	    <string name="miui_screen_rotation_freeze_message">Автоповорот вимкнений</string>
-     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+	 <string name="miui_screen_rotation_freeze_message">Автоповорот вимкнений</string>
+     <string name="face_unlock_sc_status">Натисніть на екран знизу для запуску камери</string>
+	 <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
      <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
      <string name="keyguard_charging_back_to_lockscreen">Назад на екран блокування</string>
      <string name="keyguard_left_torch">Ліхтарик</string>
@@ -26,7 +27,7 @@
      <string name="config_rat_3g">3G</string>
      <string name="config_rat_4g">4G</string>
      <string name="config_rat_unknown" />
-     <string name="data_saver_description">Щоб зменшити використання мобільного трафіку, функція економії трафіку не дозволить деяким програмам завантажувати дані у фоновому режимі. Програма, яку ви в даний час використовуєте, може завантажувати дані, але робити це рідше. Наприклад, зображення можуть не завантажуватися до тих пір, поки ви на них не натиснете.</string>
+     <string name="data_saver_description">Щоб зменшити використання мобільного трафіку, функція економії трафіку не дозволить деяким програмам завантажувати дані у фоновому режимі. Програма, яку Ви в даний час використовуєте, може завантажувати дані, але робити це рідше. Наприклад, зображення можуть не завантажуватися до тих пір, поки Ви на них не натиснете.</string>
      <string name="data_saver_enable_button">Увімкнути</string>
      <string name="data_saver_enable_title">Увімкнути економію трафіку?</string>
      <string name="default_theme">За замовчуванням</string>
@@ -37,7 +38,7 @@
      <string name="dlg_summary_close_theme">Обмеження анімацій тем</string>
      <string name="dlg_summary_close_wifi">Вимкнення Wi-Fi, Bluetooth і точки доступа.</string>
      <string name="dlg_summary_nfc">Вимкнення NFC</string>
-     <string name="dlg_summary_title">Екстремальне енергозбереження обмежує всю фонову активність, коли ви виходите на робочий стіл. Ви можете налаштувати список винятків для програм.</string>
+     <string name="dlg_summary_title">Екстремальне енергозбереження обмежує всю фонову активність, коли Ви виходите на робочий стіл. Ви можете налаштувати список винятків для програм.</string>
      <string name="doze_brightness_sensor_type" />
      <string name="doze_pickup_subtype_performs_proximity_check" />
      <string name="enable_extreme_power_save_mode">Екстремальне енергозбереження</string>

@@ -61,7 +61,7 @@
      <string name="passport_country_code_notice">Код країни</string>
      <string name="passport_delete_account">Вийти</string>
      <string name="passport_downlink_reg">Реєстрація за номером телефону</string>
-     <string name="passport_dspt_provision">За допомогою Mi аккаунта ви зможете користуватися різними сервісами Xiaomi з будь-якого пристрою</string>
+     <string name="passport_dspt_provision">За допомогою Mi аккаунта Ви зможете користуватися різними сервісами Xiaomi з будь-якого пристрою</string>
      <string name="passport_dspt_provision2">Детальніше</string>
      <string name="passport_email">Email</string>
      <string name="passport_email_address_notice">Email</string>
@@ -127,7 +127,7 @@
      <string name="passport_login_using_other_ways"><u>Інші способи </u></string>
      <string name="passport_login_with_email_or_id"><u>Авторизуватись за допомогою Email або Mi ID </u></string>
      <string name="passport_message_dialog_title">Код перевірки</string>
-     <string name="passport_miui_provision_find_status_text">"Цей номер телефону прив'язаний до Mi аккаунту (%1$s), якщо він активований, ви не зможете використовувати інший акаунт. (ID розблокування:%2$s)"</string>
+     <string name="passport_miui_provision_find_status_text">"Цей номер телефону прив'язаний до Mi аккаунту (%1$s), якщо він активований, Ви не зможете використовувати інший акаунт. (ID розблокування:%2$s)"</string>
      <string name="passport_next">Далі</string>
      <string name="passport_notification_title">Помилка %1$s</string>
      <string name="passport_password">Введіть пароль</string>
@@ -197,7 +197,7 @@
      <string name="passport_uplink_reg">За номером телефону</string>
      <string name="passport_uplink_slot1_reg">Використовувати SIM 1</string>
      <string name="passport_uplink_slot2_reg">Використовувати SIM 2</string>
-     <string name="passport_use_generated_pwd_message">"Переконайтеся, що ви запам'ятали свій пароль. Ви можете використовувати його для авторизації в різних Mi сервісах."</string>
+     <string name="passport_use_generated_pwd_message">"Переконайтеся, що Ви запам'ятали свій пароль. Ви можете використовувати його для авторизації в різних Mi сервісах."</string>
      <string name="passport_use_generated_pwd_title">"Запам'ятайте пароль!"</string>
      <string name="passport_user_agreement">Умови використання</string>
      <string name="passport_user_agreement_p1">Прийняти</string>
@@ -217,7 +217,7 @@
      <string name="passport_wrong_password">Неправильний пароль</string>
      <string name="passport_wrong_phone_number_format">Неправильний формат номера телефону</string>
      <string name="passport_wrong_vcode">Некоректний код перевірки</string>
-     <string name="passport_xiaomi_account_dspt">За допомогою Mi акаунта ви зможете користуватися різними сервісами від Xiaomi</string>
+     <string name="passport_xiaomi_account_dspt">За допомогою Mi акаунта Ви зможете користуватися різними сервісами від Xiaomi</string>
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2">Для входу в Mi акаунт потрібне підключення до інтернету</string>
      <string name="passport_xiaomi_account_sec_dspt2_vip">Для входу в Mi акаунт потрібне підключення до інтернету. Доступ до місця розташування і Mi Cloud буде включений автоматично.</string>

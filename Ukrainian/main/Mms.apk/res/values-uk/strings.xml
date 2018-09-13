@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="attach_rcs_file">Файл</string>
+     <string name="mark_number_by_own_dialog_subtitle">Позначено як %1$s</string>
+     <string name="rcs_dspt_unavailable">Неможливо використовувати цю функцію. SIM-карта China Mobile не використовується за умовчанням</string>
+     <string name="rcs_service_agreement">Угода користувача</string>
+     <string name="attach_rcs_file">Файл</string>
      <string name="attach_rcs_location">Місцезнаходження</string>
      <string name="can_not_send_by_rcs">Неможливо використовувати повідомлення China Mobile</string>
      <string name="converting_vcard_failed">Неможливо конвертувати контакт</string>
@@ -35,7 +38,7 @@
      <string name="rcs_auto_resume">автоматичне продовження завантаження</string>
      <string name="rcs_auto_resume_only_by_wifi">автоматичне продовження завантаження тільки по Wi-Fi</string>
      <string name="rcs_create_new_group">Створити нову групу</string>
-     <string name="rcs_dspt">Після того, як користувачі China Mobile включать функцію, ви зможете відправляти повідомлення через інтернет.</string>
+     <string name="rcs_dspt">Після того, як користувачі China Mobile включать функцію, Ви зможете відправляти повідомлення через інтернет.</string>
      <string name="rcs_forward_faild">Неможливо переслати</string>
      <string name="rcs_forward_successful">Повідомлення переслано</string>
      <string name="rcs_group_notification_invitation">Запрошення до групи</string>

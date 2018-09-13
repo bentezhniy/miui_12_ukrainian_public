@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="def_audio_title">Регулювання гучності за замовчуванням</string>
+     <string name="accessibility_summary_source">Підтримка: %s</string>
+     <string name="bootloader_device_bind_no_data_network">Вимкніть Wi-Fi та додайте свій акаунт і пристрій за допомогою мобільного інтернету</string>
+     <string name="bootloader_device_bind_server_token_expired_1">Неможливо перевірити. Спробуйте додати акаунт та пристрій знову</string>
+     <string name="bootloader_device_bind_server_token_expired_2">Неможливо перевірити. Увійдіть до свого акаунту знову та спробуйте ще раз</string>
+     <string name="credentials_title_verification">Перевірка</string>
+     <string name="following_us_title">Підпишіться на нас</string>
+     <string name="def_audio_title">Регулювання гучності за замовчуванням</string>
      <string name="failed_to_erase_text">Перед виконання операції 1217 вимкніть пароль екрану блокування</string>
      <string name="failed_to_erase_title">Заборонена операція</string>
      <string name="navigation_guide_appswitch_anim_summary">Проведіть по екрану від краю, щоб повернутися до попередньої програми</string>
@@ -2381,7 +2387,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="force_hw_ui_summary">Використовувати апаратне прискорення 2D у програмах</string>
      <string name="force_immersive_compatibility_dont_hide">Показати</string>
      <string name="force_immersive_compatibility_hide">Приховати</string>
-     <string name="force_immersive_compatibility_hint_message">Деякі програми можуть працювати некоректно, якщо ви приховаєте екранні клавіші</string>
+     <string name="force_immersive_compatibility_hint_message">Деякі програми можуть працювати некоректно, якщо Ви приховаєте екранні клавіші</string>
      <string name="force_immersive_compatibility_hint_title">Проблеми сумісності</string>
      <string name="force_msaa">Увімкнути 4x MSAA</string>
      <string name="force_msaa_summary">Увімкнути 4x MSAA у програмах OpenGL ES 2.0</string>
@@ -4175,7 +4181,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="phone_language">Мова</string>
      <string name="phone_language_summary" />
      <string name="physical_keyboard_title">Фізична клавіатура</string>
-     <string name="pick_up_gesture_wakeup_title">Вмикати екран, коли ви берете пристрій</string>
+     <string name="pick_up_gesture_wakeup_title">Вмикати екран, коли Ви берете пристрій</string>
      <string name="pico_installed">Встановлено</string>
      <string name="pico_languages_and_voices">Мови й голос</string>
      <string name="pico_not_installed">Не встановлено</string>
@@ -4339,7 +4345,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="priority_storage_summary">"Виберіть пам\'ять за замовчуванням для збереження даних"</string>
      <string name="priority_storage_title">"Налаштування пам\'яті"</string>
      <string name="privacy_applock">Програми</string>
-     <string name="privacy_authorize_cloud_msg">Якщо ви хочете скасувати авторизацію для сервісів Mi Cloud, включно зі синхронізацією, перейдіть на i.mi.com</string>
+     <string name="privacy_authorize_cloud_msg">Якщо Ви хочете скасувати авторизацію для сервісів Mi Cloud, включно зі синхронізацією, перейдіть на i.mi.com</string>
      <string name="privacy_authorize_dialog_agree">ОК</string>
      <string name="privacy_authorize_dialog_exit">Вихід</string>
      <string name="privacy_authorize_dialog_message">Потрібно прийняти &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Політику конфіденційності&lt;/a> та &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Угоду користувача&lt;/a></string>
@@ -6719,7 +6725,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="vpn_replace_always_on_vpn_enable_message">"Ви заміните поточну VPN-мережу, а доступ до Інтернету з\'явиться тільки після підключення до нової мережі."</string>
      <string name="vpn_replace_always_on_vpn_message">Ви вже підключені. Якщо Ви підключіться до іншої мережі, поточну VPN-мережу буде замінено</string>
      <string name="vpn_replace_always_on_vpn_title">Змінити існуючу мережу VPN?</string>
-     <string name="vpn_replace_vpn_message">"Ви вже під\'єднані. Якщо ви під\'єднаєтеся до іншої VPN-мережі, то заміните поточну."</string>
+     <string name="vpn_replace_vpn_message">"Ви вже під\'єднані. Якщо Ви під\'єднаєтеся до іншої VPN-мережі, то заміните поточну."</string>
      <string name="vpn_replace_vpn_title">"Змінити поточну VPN-мережу?"</string>
      <string name="vpn_require_connection">"Блокувати з\'єднання без VPN"</string>
      <string name="vpn_require_connection_title">"Використовувати мережу VPN?"</string>
@@ -7553,8 +7559,8 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="foreground_notifications_title">Сповіщення фонових процесів</string>
      <string name="forget_password_dialog_button_text">Назад</string>
      <string name="forget_password_dialog_content_four"> <Data>2. Оберіть пункт &lt;font color=#e6e6e6>[Wipe data]&lt;/font> і дочекайтеся перезавантаження.</Data> </string>
-     <string name="forget_password_dialog_content_one"> <Data>Якщо ви забули пароль, ви не зможете відновити його. Щоб скинути пароль, потрібно виконати загальне скидання пристрою (всі фото, контакти та інші данні будуть очищені). Створіть бекап важливих даних</Data> </string>
-     <string name="forget_password_dialog_content_three">1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки ви не побачите іконку</string>
+     <string name="forget_password_dialog_content_one"> <Data>Якщо Ви забули пароль, Ви не зможете відновити його. Щоб скинути пароль, потрібно виконати загальне скидання пристрою (всі фото, контакти та інші данні будуть очищені). Створіть бекап важливих даних</Data> </string>
+     <string name="forget_password_dialog_content_three">1. Вимкніть пристрій. Одночасно натисніть клавіші живлення і гучності вгору, поки Ви не побачите іконку</string>
      <string name="forget_password_dialog_content_two">Слідуйте інструкції, щоб виконати загальне скидання:</string>
      <string name="forget_password_dialog_title">Скидання паролю</string>
      <string name="gamebooster_summary_dx">При запуску сервісу прискорення ігор буде додано ярлик на робочий стіл</string>
@@ -7626,8 +7632,8 @@ Email: portal.miroom@gmail.com</string>
      <string name="status_bar_settings_customer_feedback">звіт</string>
      <string name="status_bar_settings_function_description">Інформація</string>
      <string name="status_bar_settings_user_fold_description1">Функція дозволяє фільтрувати неважливі повідомлення і групувати їх в окрему категорію.</string>
-     <string name="status_bar_settings_user_fold_description2">"Система запам'ятає, на які повідомлення ви натискаєте, а які ігноруєте, щоб визначити їх важливість."</string>
-     <string name="status_bar_settings_user_fold_description3">Якщо повідомлення, які ви вважаєте важливими, як і раніше потрапляють в категорію \"Неважливі повідомлення\", надішліть звіт команді розробників MIUI.</string>
+     <string name="status_bar_settings_user_fold_description2">"Система запам'ятає, на які повідомлення Ви натискаєте, а які ігноруєте, щоб визначити їх важливість."</string>
+     <string name="status_bar_settings_user_fold_description3">Якщо повідомлення, які Ви вважаєте важливими, як і раніше потрапляють в категорію \"Неважливі повідомлення\", надішліть звіт команді розробників MIUI.</string>
      <string name="status_bar_settings_user_fold_disable">Вимкнено</string>
      <string name="status_bar_settings_user_fold_enable">Увімкнено</string>	
 </resources>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="contact_entries">
+     <string-array name="second_guide_contents_pad_or_inter">
+        <item>Голосові нотатки</item>
+        <item>Ви можете створювати голосові нотатки</item>
+     </string-array>
+	 <string-array name="contact_entries">
         <item>Ім\'я</item>
         <item>Нік</item>
         <item>Телефон</item>

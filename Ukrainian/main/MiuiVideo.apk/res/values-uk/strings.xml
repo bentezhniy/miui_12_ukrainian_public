@@ -1157,7 +1157,7 @@
      <string name="vip_setup">Активувати VIP</string>
      <string name="vip_video_title">VIP відео</string>
      <string name="vp_mobile_network_using_positive_new">Переглянути</string>
-     <string name="vp_mobile_network_using_warning_new">Зараз ви використовуєте мобільну мережу. При відтворенні відео може стягуватися плата за трафік</string>
+     <string name="vp_mobile_network_using_warning_new">Зараз Ви використовуєте мобільну мережу. При відтворенні відео може стягуватися плата за трафік</string>
 	 <string name="comment_reply" formatted="false">%s відповів(-ла) %s</string>
      <string name="cta_tips">Долучитися до програми покращення якості?</string>
      <string name="permission_content">Для перегляду відео необхідно надати дозволи</string>

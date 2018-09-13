@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_intent_done_retry">Перезняти</string>
+     <string name="fps960_toast">Уповільнена зйомка почнеться, коли таймер досягне білої крапки</string>
+     <string name="module_name_new_slow_motion">Уповільнена зйомка</string>
+     <string name="portrait_mode_use_hint_for_bokeh">Спробуйте портретний режим</string>
+     <string name="pref_new_slow_motion_video_quality_240_720only">Ви можете записувати відео тільки у форматі 720P з частотою 240 кадрів на секунду</string>
+     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+	 <string name="accessibility_intent_done_retry">Перезняти</string>
      <string name="beauty_fragment_tab_name_3d_makeup">Макіяж</string>
      <string name="edit_blusher">"Рум'янець"</string>
      <string name="edit_eyebrow_dye">Брови</string>
