@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	<string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+     <string name="added_to_favorites_desc">Додано в обрані</string>
+     <string name="card_delete_description">Видалити історію?</string>
+     <string name="card_delete_negative_text">Скасувати</string>
+     <string name="card_delete_positive_text">Видалити</string>
+     <string name="card_delete_title">Видалити історію</string>
+     <string name="card_title_annual_selection">Звіт за рік</string>
+     <string name="card_title_from_to">%1$s - %2$s</string>
+     <string name="card_title_last2years_someone">Найкраще</string>
+     <string name="card_title_last_week_end">Останній тиждень</string>
+     <string name="card_title_last_year_today">Що було рівно рік назад</string>
+     <string name="card_title_lastweek_meet">Разом</string>
+     <string name="card_title_one_day">Незабутній день</string>
+     <string name="card_title_past_year_today">Цей день на протязі багатьох років</string>
+     <string name="card_title_period_last_month">Звіт за місяць</string>
+     <string name="card_title_period_last_week">Звіт за тиждень</string>
+     <string name="card_title_period_six_month">Останні 6 місяців</string>
+     <string name="card_title_period_three_month">Останні 3 місяці</string>
+     <string name="card_title_recent_place">Нещодавні: %1$s</string>
+     <string name="card_title_someone">Дружба</string>
+     <string name="card_title_somewhere">%1$s</string>
+     <string name="empty_title_no_cards">Порожньо</string>
+     <string name="operation_favorites">Обране</string>
+     <string name="removed_from_favorites_desc">Видалено із обраних</string>
+     <string name="rename_dialog_hint">"Введіть ім'я"</string>
+     <string name="rename_dialog_title">Перейменувати історію</string>
+     <string name="story_action_remove">Видалити із історії</string>
+     <string name="story_action_share">Надіслати</string>
+     <string name="story_option_menu_rename">Перейменувати</string>
+     <string name="story_remove_confirm_message">"Видалені фотографії більше не з'являться в цій історії, але вони як і раніше будуть доступні в галереї"</string>
+     <string name="story_remove_confirm_positive">Видалити</string>
+     <string name="story_remove_confirm_title">Видалення фото</string>
+     <string name="story_rename_invalid_char">Неможливо використовувати \"%s\" в назві історії. Використовуйте букви і цифри.</string>
+     <string name="story_rename_invalid_prefix">Назва історії не повинна починатися з \".\" або \"_\"</string>
+     <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
      <string name="collage_drawable_rect_date_month_day">dd MMM</string>
      <string name="collage_drawable_rect_date_year">yyyy</string>
      <string name="privacy_permission_request_message">Програмі потрібний доступ до %3$s. Перед використанням також необхідно прийняти %1$s і %2$s.</string>
@@ -88,7 +121,7 @@
      <string name="adjust_vignette">Віньєтка</string>
      <string name="ai_album_open_switch_button_title">Почати аналізування фото</string>
      <string name="ai_album_requesting_title">Алгоритм АІ все ще обробляє ваші фото. Зачекайте.</string>
-     <string name="ai_album_setting_sub_title">"Дозвольте алгоритму АІ розпізнавати людей, місця та об'єкти на фото, щоб Ви могли знаходити їх швидше."</string>
+     <string name="ai_album_setting_sub_title">"Дозвольте алгоритму АІ розпізнавати людей, місця та об'єкти на фото, щоб ви могли знаходити їх швидше."</string>
      <string name="ai_album_setting_title">"Розпізнавати об'єкти на фото"</string>
      <string name="album_already_exists">"Альбом з таким ім\'ям вже існує"</string>
      <string name="album_already_exists_check">Показати</string>
