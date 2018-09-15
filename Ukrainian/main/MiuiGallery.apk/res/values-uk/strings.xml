@@ -7,7 +7,6 @@
      <string name="card_delete_positive_text">Видалити</string>
      <string name="card_delete_title">Видалити історію</string>
      <string name="card_title_annual_selection">Звіт за рік</string>
-     <string name="card_title_from_to">%1$s - %2$s</string>
      <string name="card_title_last2years_someone">Найкраще</string>
      <string name="card_title_last_week_end">Останній тиждень</string>
      <string name="card_title_last_year_today">Що було рівно рік назад</string>
@@ -20,7 +19,6 @@
      <string name="card_title_period_three_month">Останні 3 місяці</string>
      <string name="card_title_recent_place">Нещодавні: %1$s</string>
      <string name="card_title_someone">Дружба</string>
-     <string name="card_title_somewhere">%1$s</string>
      <string name="empty_title_no_cards">Порожньо</string>
      <string name="operation_favorites">Обране</string>
      <string name="removed_from_favorites_desc">Видалено із обраних</string>
