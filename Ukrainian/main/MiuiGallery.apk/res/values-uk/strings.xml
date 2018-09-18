@@ -121,7 +121,7 @@
      <string name="ai_album_requesting_title">Алгоритм АІ все ще обробляє ваші фото. Зачекайте.</string>
      <string name="ai_album_setting_sub_title">"Дозвольте алгоритму АІ розпізнавати людей, місця та об'єкти на фото, щоб ви могли знаходити їх швидше."</string>
      <string name="ai_album_setting_title">"Розпізнавати об'єкти на фото"</string>
-     <string name="album_already_exists">"Альбом з таким ім\'ям вже існує"</string>
+     <string name="album_already_exists">"Альбом з таким ім'ям вже існує"</string>
      <string name="album_already_exists_check">Показати</string>
      <string name="album_already_exists_msg">Альбом \"%s\" вже існує</string>
      <string name="album_already_forced_top">Альбом закріплено</string>
