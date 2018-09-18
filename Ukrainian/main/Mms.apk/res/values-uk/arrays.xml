@@ -7,7 +7,7 @@
         <item>Вимкнено</item>
      </string-array>
 	 <string-array name="contact_entries">
-        <item>"Ім\'я"</item>
+        <item>"Ім'я"</item>
         <item>Нік</item>
         <item>Телефон</item>
         <item>Email</item>
@@ -18,7 +18,7 @@
         <item>Сайт</item>
         <item>Адреса</item>
         <item>Замітка</item>
-        <item>"Зв\'язок"</item>
+        <item>"Зв'язок"</item>
      </string-array>
      <string-array name="default_smiley_names">
         <item>Щасливий</item>
