@@ -7,7 +7,7 @@
      <string name="access_token_expired_warning">Термін дії акаунту Weibo закінчився</string>
      <string name="access_token_invalid_warning">Хибний запис Weibo</string>
      <string name="account">Мi акаунт</string>
-     <string name="account_bind_devices">"Прив\'язані пристрої"</string>
+     <string name="account_bind_devices">"Прив'язані пристрої"</string>
      <string name="account_bind_new_phone">Додати номер</string>
      <string name="account_bind_phone_notice">Використовуйте цей номер телефону для входу в акаунт, відновлення паролю й керування конфіденційністю.</string>
      <string name="account_bind_secure_email_title">Додати Email відновлення</string>
@@ -18,11 +18,11 @@
      <string name="account_dspt">За допомогою Мi акаунту Ви зможете синхронізувати будь-які дані</string>
      <string name="account_dspt_provision">Мi акаунт</string>
      <string name="account_dspt_provision2">" (детальніше)"</string>
-     <string name="account_empty_user_name">"Введіть ім\'я користувача Mi акаунту"</string>
-     <string name="account_error_all_space_user_name">"Ім\'я не повинно складатися з пробілів"</string>
+     <string name="account_empty_user_name">"Введіть ім'я користувача Mi акаунту"</string>
+     <string name="account_error_all_space_user_name">"Ім'я не повинно складатися з пробілів"</string>
      <string name="account_error_invalid_user_name">"Ім'я не повинне містити &lt;, >, /"</string>
-     <string name="account_error_longer_user_name">"Ім\'я не повинно містити більше 20 символів"</string>
-     <string name="account_error_shorter_user_name">"Ім\'я повинно містити не менше 2 символів"</string>
+     <string name="account_error_longer_user_name">"Ім'я не повинно містити більше 20 символів"</string>
+     <string name="account_error_shorter_user_name">"Ім'я повинно містити не менше 2 символів"</string>
      <string name="account_error_user_birthday">Хибна дата народження</string>
      <string name="account_error_user_name">"Ви ввели хибне ім'я"</string>
      <string name="account_global_region">Глобальний регіон</string>
