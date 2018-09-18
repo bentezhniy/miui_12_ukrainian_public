@@ -110,8 +110,8 @@
     <string name="rename_alert">Посля зміни разширення файлу його неможна буде відкрити</string>
     <string name="folder_exist">Тека вже існує</string>
     <string name="folder_name_illegal">Неприпустиме ім\'я теки</string>
-    <string name="folder_name_empty">Введіть им\'я теки</string>
-    <string name="folder_name_invalid">"Ім\'я теки не має містити наступні символи: /\\:*?&lt;>"</string>
+    <string name="folder_name_empty">Введіть ім\'я теки</string>
+    <string name="folder_name_invalid">"Ім'я теки не має містити наступні символи: /\\:*?&lt;>"</string>
     <string name="open_changed_file_title">Файл змінено</string>
     <string name="open_changed_file_message">Файл, котрий Ви намагаєтесь відкрити був змінений, Ви можете:\n1. Завантажити (обновити локальний файл)\n2. Завантажити (обновити файл в Mi Cloud)</string>
     <string name="file_change_btn_download">Завантаження файлу</string>
