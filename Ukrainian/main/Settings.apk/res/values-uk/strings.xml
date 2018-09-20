@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="emergency_sos_title">Екстренна допомога</string>
+     <string name="mipush_fake_channel_group_name">Mi Push</string>
+     <string name="miui_sos_audio_summary">Відтворювати повідомлення SOS, коли екстрений контакт відповідає на виклик.</string>
+     <string name="miui_sos_audio_title">Голосове повідомлення SOS</string>
+     <string name="miui_sos_call_log_duration">Затримка</string>
+     <string name="miui_sos_call_log_min">хв.</string>
+     <string name="miui_sos_call_log_none">Журнал викликів порожній протягом останньої години.</string>
+     <string name="miui_sos_call_log_sec">сек.</string>
+     <string name="miui_sos_call_log_stranger">Невідомий номер</string>
+     <string name="miui_sos_call_log_summary">Надсилати журнал викликів за останню годину на екстрений контакт</string>
+     <string name="miui_sos_call_log_title">Надсилати журнал викликів</string>
+     <string name="miui_sos_call_warning_sim_unable">Немає мережі. Неможливо надіслати SMS.</string>
+     <string name="miui_sos_calling_summary">Ваш пристрій буде автоматично здійснювати виклик на екстрені контакти і відтворювати голосове повідомлення SOS, яке ви записали. Виклик буде завершено після того, як голосове повідомлення SOS закінчиться. Автодозвон буде припинений після першої успішної спроби виклику.</string>
+     <string name="miui_sos_calling_title">Автовиклик</string>
+     <string name="miui_sos_contacts_add">Екстрені контакти</string>
+     <string name="miui_sos_contacts_category">Екстрені контакти</string>
+     <string name="miui_sos_emergency_contacts">Екстрені контакти</string>
+     <string name="miui_sos_emergency_contacts_quantity">Додано: %d</string>
+     <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) вже прийнято</string>
+     <string name="miui_sos_emergency_delivered_sms_noname">%1s вже прийнято</string>
+     <string name="miui_sos_emergency_failed_sms" formatted="false">Помилка надсилання повідомлення SMS: %1s (%2s)</string>
+     <string name="miui_sos_emergency_failed_sms_noname">Помилка надсилання повідомлення SMS: %1s</string>
+     <string name="miui_sos_enable_switch_summary">Швидко натисніть кнопку живлення 5 разів, щоб надіслати текстове повідомлення SOS з вашим місцезнаходженням на екстрені контакти.</string>
+     <string name="miui_sos_enable_switch_title">Екстренна допомога</string>
+     <string name="miui_sos_exit_dialog_cancel">Скасувати</string>
+     <string name="miui_sos_exit_dialog_message">Ви активували екстрену допомогу. Інформація про місцезнаходження надсилається на екстрені контакти. Всеодно вимкнути?</string>
+     <string name="miui_sos_exit_dialog_ok">ОК</string>
+     <string name="miui_sos_exit_dialog_title">Вимкнення екстреної допомоги</string>
+     <string name="miui_sos_green_guard_summary">Надсилання місцезнаходження в реальному часі</string>
+     <string name="miui_sos_green_guard_title">Батьківський контроль</string>
+     <string name="miui_sos_launch_error">Не вдається активувати екстрену допомогу</string>
+     <string name="miui_sos_launch_error_confirm">ОК</string>
+     <string name="miui_sos_launch_error_message">Неможливо підключитися до мобільного інтернету. Неможливо використовувати екстрену допомогу.</string>
+     <string name="miui_sos_launching_summary">Екстрена допомога активується через %d сек.</string>
+     <string name="miui_sos_launching_title">SOS</string>
+     <string name="miui_sos_menu_add">Додати</string>
+     <string name="miui_sos_menu_edit">Змінити</string>
+     <string name="miui_sos_msg_call_log_prefix">"Мій журнал викликів за останню годину: "</string>
+     <string name="miui_sos_play_voice">Відтворити екстрене повідомлення</string>
+     <string name="miui_sos_remind_add">Додати</string>
+     <string name="miui_sos_remind_infocontent">Ваш номер доданий в якості екстреного контакту. Ви отримаєте повідомлення з моєю інформацією про місцезнаходження, якщо я буду в надзвичайній ситуації. [Екстренна допомога]</string>
+     <string name="miui_sos_remind_open">Для екстреної допомоги потрібно як мінімум 1 екстрений контакт</string>
+     <string name="miui_sos_remind_sendinfo">Не забудьте повідомити цим людям, що їх номери є екстреними контактами. Таким чином вони зможуть швидше допомогти вам у разі надзвичайної ситуації.</string>
+     <string name="miui_sos_remind_sendnow">Надіслати</string>
+     <string name="miui_sos_remind_title">Попередження</string>
+     <string name="miui_sos_settings_alert_contacts_repeat">Контакт вже існує</string>
+     <string name="miui_sos_settings_alert_contacts_too_many">Ви можете додати до 3 екстрених контактів</string>
+     <string name="miui_sos_settings_category">Налаштування екстреної допомоги</string>
+     <string name="miui_sos_statusbar_summary">Натисніть для вимкнення</string>
+     <string name="miui_sos_statusbar_title">Екстрена допомога активована</string>
+     <string name="sos_privacy_and_content_policy">Угода користувача та політика конфіденційності</string>
+     <string name="sos_privacy_dialog_button_cancel">Скасувати</string>
+     <string name="sos_privacy_dialog_button_ok">Продовжити</string>
+     <string name="sos_privacy_dialog_message">"Перед використання функції екстреної допомоги необхідно прочитати і прийняти: %s. 
+ Для нормальної роботи функції екстреної допомоги може знадобитися доступ до вашого місцезнаходження, мобільного інтернету і контактів. Дозволити доступ?"</string>
+     <string name="sos_privacy_dialog_title">Умови користування</string>
+     <string name="talkback_watermark_enable">Водяний знак TalkBack</string>
      <string name="accessibility_summary_source">Підтримка: %s</string>
      <string name="bootloader_device_bind_no_data_network">Вимкніть Wi-Fi та додайте свій акаунт і пристрій за допомогою мобільного інтернету</string>
      <string name="bootloader_device_bind_server_token_expired_1">Неможливо перевірити. Спробуйте додати акаунт та пристрій знову</string>
