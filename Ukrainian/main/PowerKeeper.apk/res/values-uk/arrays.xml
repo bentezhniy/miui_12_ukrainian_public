@@ -99,6 +99,7 @@
 	 <string-array name="emode_app_groups">
         <item>Системні програми</item>
         <item>Встановлені програми</item>
+        <item>Вибрані програми</item>
      </string-array>
      <string-array name="hmode_app_classify1">
         <item>Користувацькі налаштування</item>
