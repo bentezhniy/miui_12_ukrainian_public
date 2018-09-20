@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="agree_btn">Прийняти</string>
+     <string name="blog">Weibo</string>
+     <string name="business_card">Візитка</string>
+     <string name="business_card_title">Наведіть камеру на візитку</string>
+     <string name="business_copy">Копіювати</string>
+     <string name="business_new_contacts">Новий контакт</string>
+     <string name="business_no_result">Не вдається розпізнати візитку</string>
+     <string name="calender">Календар</string>
+     <string name="call_anyone">Виклик</string>
+     <string name="confirm">ОК</string>
+     <string name="drag_crop_to_business_card">Переміщайте, щоб обрізати.</string>
+     <string name="fax">Факс</string>
+     <string name="got_it">ОК</string>
+     <string name="gps">Навігація</string>
+     <string name="module_title_business_card">Візитка</string>
+     <string name="new_schedule">Створити подію</string>
+     <string name="open_url">Відкрити URL</string>
+     <string name="send_mail">Надіслати Email</string>
+     <string name="tel">Телефон</string>
+     <string name="wifi_exist_fail">Точка доступу Wi-Fi \"%1$s\" вже існує. Видаліть її і повторіть спробу.</string>
      <string name="amazon_assistant_shopping_title">Пошук на Amazon</string>
-	 <string name="accept">ОК</string>
+     <string name="accept">ОК</string>
      <string name="access_sd_fail">SD картка недоступна</string>
      <string name="accessibility_shutter_button">Зйомка</string>
      <string name="action_search">Пошук</string>
