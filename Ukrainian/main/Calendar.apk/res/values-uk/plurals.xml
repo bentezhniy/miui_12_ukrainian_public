@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="event_reminders_to_max">
+        <item quantity="other">Можна встановити не більше %d нагадувань</item>
+        <item quantity="one">Можна встановити не більше %d нагадування</item>
+     </plurals>
      <plurals name="N_remaining_events">
         <item quantity="other">+ %d подій</item>
         <item quantity="one">+ %d подія</item>
