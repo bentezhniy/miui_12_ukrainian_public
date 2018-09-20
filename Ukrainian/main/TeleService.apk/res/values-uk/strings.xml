@@ -27,7 +27,7 @@
      <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK успішно розблоковано</string>
      <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">PIN для розблокування RUIM</string>
      <string name="PERSOSUBSTATE_RUIM_RUIM_IN_PROGRESS">Запит на розблокування RUIM…</string>
-     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ERROR">Помилка розблокування PUK</string>
+     <string name="PERSOSUB STATE_RUIM_RUIM_PUK_ERROR">Помилка розблокування PUK</string>
      <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_SUCCESS">PUK успішно розблоковано</string>
      <string name="PERSOSUBSTATE_RUIM_RUIM_SUCCESS">RUIM успішно розблоковано</string>
      <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ENTRY">PIN для розблокування сервіс-провайдера RUIM</string>
@@ -1598,7 +1598,7 @@
      <string name="path_fdn">Системні програми | Виклики | Додатково | Фіксовані номери</string>
      <string name="path_flash_when_ring_title">Системні програми | Виклики | Вхідні виклики | Сповіщення спалахом</string>
      <string name="path_handon_ringer_title">Системні програми | Виклики | Вхідні виклики | Тихий звук при відповіді</string>
-     <string name="path_incoming_video_show_pref_title">"Системні програми | Виклики | Додатково | Показувати відео профілю абонента</string>
+     <string name="path_incoming_video_show_pref_title">Системні програми | Виклики | Додатково | Показувати відео профілю абонента</string>
      <string name="path_missed_call_notify_times_title">Системні програми | Виклики | Додатково | Нагадування про пропущені виклики</string>
      <string name="path_preference_dial_pad_touch_tone_title">Системні програми | Виклики | Додатково | Звук набору номера</string>
      <string name="path_preference_telocation_title">Системні програми | Виклики | Місцезнаходження</string>
