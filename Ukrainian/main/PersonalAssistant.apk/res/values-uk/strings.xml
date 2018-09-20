@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="miot_device_click_show_detail">Детальніше</string>
      <string name="express_select_send_providers">Оберіть постачальника</string>
      <string name="express_send_not_available">Сервіс недоступний</string>
      <string name="tabao_filter_agent">Продавець:</string>
