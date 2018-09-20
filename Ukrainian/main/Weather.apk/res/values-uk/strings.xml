@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="content_desc_city_manage_del">Видалити</string>
+     <string name="content_desc_city_manage_edit">Керування містами</string>
      <string name="abrupt_weather_settings_summary_type_a">Незвичайне попередження про погоду</string>
      <string name="abrupt_weather_settings_summary_type_b">Незвичайне попередження про погоду</string>
      <string name="abrupt_weather_settings_title">Незвичайне попередження про погоду</string>
