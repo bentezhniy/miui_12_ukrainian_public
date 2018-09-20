@@ -245,7 +245,7 @@
      <string name="bluetooth_pairing_accept">Сполучення</string>
      <string name="bluetooth_pairing_accept_all_caps">Підключити</string>
      <string name="bluetooth_pairing_decline">Скасувати</string>
-     <string name="bluetooth_pairing_device_down_error_message">"Неможливо встановити з'єднання з пристроєм \"%1$s\" "</string>
+     <string name="bluetooth_pairing_device_down_error_message">Неможливо встановити з\'єднання з пристроєм \"%1$s\"</string>
      <string name="bluetooth_pairing_error_message">Неможливо підключитися до пристрою \"%1$s\"</string>
      <string name="bluetooth_pairing_pin_error_message">Неможливо підключитися до пристрою \"%1$s\", так як введено хибний PIN код або пароль</string>
      <string name="bluetooth_pairing_rejected_error_message">%1$s не дозволяє сполучення</string>
