@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="EmergencyCallWarningSummary">Для здійснення екстрених викликів потрібний доступ до мережі</string>
+     <string name="permgrouprequest_calendar">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до календаря?</string>
+     <string name="permgrouprequest_calllog">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до журналу викликів?</string>
+     <string name="permgrouprequest_camera">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до фото та запису відео?</string>
+     <string name="permgrouprequest_contacts">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до контактів?</string>
+     <string name="permgrouprequest_location">"Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до визначення локації?"</string>
+     <string name="permgrouprequest_microphone">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до запису аудіо?</string>
+     <string name="permgrouprequest_phone">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до здійснення викликів?</string>
+     <string name="permgrouprequest_sensors">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до даних датчиків про Ваші життєво важливі ознаки?</string>
+     <string name="permgrouprequest_sms">Надати &lt;b&gt;%1$s&lt;/b&gt; дозвіл на надсилання та читання повідомлень?</string>
+     <string name="permgrouprequest_storage">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до фото, медіа та файлів?</string>
+	 <string name="EmergencyCallWarningSummary">Для здійснення екстрених викликів потрібний доступ до мережі</string>
      <string name="EmergencyCallWarningTitle">Виклики через Wi-Fi активні</string>
      <string name="notification_channel_mobile_data_status">Статус мобільного трафіку</string>
      <string name="notification_reply_button_accessibility">Відповідь</string>
@@ -126,12 +136,12 @@
      <string name="add_account_button_label">Додати акаунт</string>
      <string name="add_account_label">Додати акаунт</string>
      <string name="addtodictionary">Додати до словника</string>
-     <string name="aerr_application">"У програмі \"%1$s\" відбулася помилка"</string>
+     <string name="aerr_application">"Помилка програми \"%1$s\""</string>
      <string name="aerr_application_repeated">У програмі \"%1$s\" знову стався збій</string>
      <string name="aerr_close">Закрити</string>
      <string name="aerr_close_app">Закрити програму</string>
      <string name="aerr_mute">Вимкнути до перезавантаження пристрою</string>
-     <string name="aerr_process">"У програмі \"%1$s\" відбулася помилка"</string>
+     <string name="aerr_process">"Помилка програми \"%1$s\""</string>
      <string name="aerr_process_repeated">У програмі \"%1$s\" знову стався збій</string>
      <string name="aerr_report">Надіслати звіт</string>
      <string name="aerr_restart">Перезапустити програму</string>

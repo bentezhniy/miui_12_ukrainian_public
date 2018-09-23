@@ -1352,7 +1352,7 @@
      <string name="input_password_after_boot_msg_must_enter_owner_space">Вам необхідно увійти до Першого сховища після перезавантаження пристрою</string>
      <string name="input_password_handle_sdcard_fs">Неможливо увійти до Другого сховища з екрану блокування. Увійдіть з Першого сховища</string>
      <string name="input_password_hint_text">Введіть пароль</string>
-     <string name="input_pattern_hint_text">Задайте графічний ключ</string>
+     <string name="input_pattern_hint_text">Введіть графічний ключ</string>
      <string name="input_pin_code">Введіть PIN-код</string>
      <string name="input_puk_code">Введіть PUK-код</string>
      <string name="installer_cd_button_title">Встановіть програму Передача файлів на Android для Mac</string>

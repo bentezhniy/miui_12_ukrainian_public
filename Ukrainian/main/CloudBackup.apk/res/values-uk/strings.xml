@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="error_retry_later">Помилка. Будь ласка, спробуйте пізніше.</string>
+	 <string name="error_retry_later">Помилка. Будь ласка, спробуйте пізніше</string>
      <string name="home_hint_other_launcher">Інший робочий стіл</string>
      <string name="unsupported_home">Потрібно оновити систему</string>
      <string name="about_to_recover">Iнформація</string>

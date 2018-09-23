@@ -191,9 +191,9 @@
      <string name="all_address_choose_hint">Усі регіони</string>
      <string name="already_close_gamebooster">Пришвидшення ігор вимкнено</string>
      <string name="alter_dialog_message">"Дозволити програмам зі списку виключень під'єднатися до інтернету в міжнародному роумінгу? 
-За використанням з'єднання з інтернетом може стягуватися додаткова плата оператором."</string>
+За використанням з'єднання з інтернетом може стягуватися додаткова плата оператором"</string>
      <string name="anim_gamebooster_text">Завантаження…</string>
-     <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів.</string>
+     <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів</string>
      <string name="anti_disturb_msg_title">Не турбувати</string>
      <string name="antispam_mode_details">Інформація про чорний список</string>
      <string name="antispam_notificaiton_type_show_all">Показувати</string>
@@ -441,15 +441,15 @@
      <string name="applock_login_and_add_account">Увійти та додати</string>
      <string name="applock_not_add_account">Пізніше</string>
      <string name="applock_not_login_account">Ви не авторизувалися</string>
-     <string name="apps_item_sign_dialog_content">Підписи програми \"%s\" не співпадають. Видаліть поточну версію та встановіть актуальну з Google Play. При видаленні буду очищено усі дані програми.</string>
+     <string name="apps_item_sign_dialog_content">Підписи програми \"%s\" не співпадають. Видаліть поточну версію та встановіть актуальну з Google Play. При видаленні буду очищено усі дані програми</string>
      <string name="apps_item_sign_dialog_title">Попередження</string>
      <string name="apps_item_sign_install_button_text">Реінсталювати</string>
      <string name="apps_item_sms_default_set_success">Готово</string>
      <string name="apps_item_sms_reset_button_text">Відновити до первинних</string>
      <string name="apps_item_sms_title">Первинні налаштування повідомлень</string>
-     <string name="apps_item_summary_sms">%s має доступ до Ваших повідомлень. Це може викликати проблеми з безпекою.</string>
-     <string name="apps_item_summary_system_rooted">ROOT-доступ дозволено. Відновіть налаштування до первинних щоб уникнути ризику безпеки.</string>
-     <string name="apps_item_summary_system_update">Деякі помилки були виправлені у новій версії програми для покращення безпеки платежів.</string>
+     <string name="apps_item_summary_sms">%s має доступ до Ваших повідомлень. Це може викликати проблеми з безпекою</string>
+     <string name="apps_item_summary_system_rooted">ROOT-доступ дозволено. Відновіть налаштування до первинних щоб уникнути ризику безпеки</string>
+     <string name="apps_item_summary_system_update">Деякі помилки були виправлені у новій версії програми для покращення безпеки платежів</string>
      <string name="apps_item_title_system">Оновлення системи</string>
      <string name="apps_item_virus_cleanup_success">Очищення завершене</string>
      <string name="apps_item_virus_cleanup_text">Очищення</string>
@@ -500,7 +500,7 @@
      <string name="auto_task_edit_task_name">"Ім'я"</string>
      <string name="auto_task_main_summary">Зміна налаштувань системи для певного періоду часу або залежно від рівня заряду батареї</string>
      <string name="auto_task_main_title">Автоматизація дій</string>
-     <string name="auto_task_mamange_activity_title">Автоматизація дій</string>
+     <string name="auto_task_mamange_activity_title">Автоматизація</string>
      <string name="auto_task_manage_delete_prompt">Видалити дії?</string>
      <string name="auto_task_manage_new_task">Нова дія</string>
      <string name="auto_task_manager_group_title">Автоматизація дій</string>
@@ -790,7 +790,7 @@
      <string name="card_main_speeddetailt_summary">Перегляд швидкості інтернету для кожної програми</string>
      <string name="card_main_xspace_action">Створити</string>
      <string name="card_main_xspace_summary">Клонування програм для окремого використання</string>
-     <string name="card_main_xspace_title">Клони програми</string>
+     <string name="card_main_xspace_title">Клонування</string>
      <string name="card_sms_report">Звіт по SMS</string>
      <string name="card_tc_failed">Неможливо налаштувати</string>
      <string name="card_tc_failed_content">"Можливі причини:
@@ -2648,7 +2648,7 @@
      <string name="resource_networkassistant_1">Трафік</string>
      <string name="resource_networkassistant_2">Налаштування тарифного плану</string>
      <string name="resource_networkassistant_3">Економія батареї</string>
-     <string name="resource_networkassistant_4">Діагностика мережі</string>
+     <string name="resource_networkassistant_4">Діагностика</string>
      <string name="resource_payment_security">Безпека платежів</string>
      <string name="resource_permcenter">Дозволи</string>
      <string name="resource_powercenter">Живлення</string>
@@ -3737,4 +3737,5 @@
      <string name="title_like">Подобається</string>
      <string name="title_reply">Відгук</string>
      <string name="video_repeat">Грати заново</string>
+	 <string name="card_main_hwtest_title">Тест пристрою</string>
 </resources>

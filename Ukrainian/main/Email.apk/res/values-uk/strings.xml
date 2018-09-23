@@ -815,7 +815,7 @@
      <string name="message_compose_insert_quick_response_list_title">Швидкі відповіді</string>
      <string name="message_compose_insert_quick_response_menu_title">Вставити швидку відповідь</string>
      <string name="message_count_spacer">  </string>
-     <string name="message_decode_error"> При розшифруванні повідомлення відбулася помилка</string>
+     <string name="message_decode_error"> При розшифруванні повідомлення сталася помилка</string>
      <string name="message_details_title">Деталі повідомлення</string>
      <string name="message_discarded">Повідомлення видалене</string>
      <string name="message_invite_accept">ОК</string>

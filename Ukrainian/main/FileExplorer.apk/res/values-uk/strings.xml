@@ -190,7 +190,7 @@
     <string name="networkView_notConnected">Немає доступних мереж</string>
     <string name="new_folder_name">Нова тека</string>
     <string name="no">Немає</string>
-    <string name="no_enough_storage_indication">Не вистачає вільної пам\'яті для вставки файлу. \nвидаліть непотрібні файли й спробуйте знову.</string>
+    <string name="no_enough_storage_indication">Не вистачає вільної пам\'яті для вставки файлу. \n\nВидаліть непотрібні файли й спробуйте знову</string>
     <string name="no_enough_storage_title">Недостатньо пам\'яті</string>
     <string name="no_file">Немає файлів</string>
     <string name="no_more_space">Не вистачає місця на диску</string>

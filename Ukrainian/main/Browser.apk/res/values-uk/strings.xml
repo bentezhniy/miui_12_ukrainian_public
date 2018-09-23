@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="action_one_touch">Відкрити сповіщення</string>
+     <string name="dialog_recovery_tabs_disc">Незакриті вкладки необхідно завантажити знову</string>
+     <string name="dialog_recovery_tabs_title">Відкрийте сторінку перед відновленням</string>
+	 <string name="pref_checkbox_tab_restore">"Запам'ятати вибір (цей параметр можна змінити у Додаткових налаштуваннях)"</string>
+	 <string name="exit_browser_confirmation">Натисніть знову, щоб вийти</string>
+	 <string name="action_one_touch">Відкрити сповіщення</string>
      <string name="bubble_guide_logined_text">Увійдіть, щоб виграти</string>
      <string name="bubble_guide_unlogined_text">Увійдіть для додаткових можливостей</string>
      <string name="expand_button_title">Додатково</string>
@@ -1309,7 +1313,7 @@
      <string name="nav_screen_cancel_incognitotab">Вийти з режиму \"Інкогніто\"</string>
      <string name="nav_screen_container_tab_incognito">Інкогніто</string>
      <string name="nav_screen_container_tab_normal">Стандартно</string>
-     <string name="nav_screen_incognito_message">"Історія переглядів та пошуку не зберігатиметься у режимі \"Інкогніто\". 
+     <string name="nav_screen_incognito_message">"Історія переглядів і пошуку не зберігатиметься. 
 Файли та закладинки зберігатимуться, як завжди"</string>
      <string name="nav_screen_incognito_time">За %s сек. буде створено нову сторінку</string>
      <string name="nav_screen_incognito_title">Інкогнито</string>

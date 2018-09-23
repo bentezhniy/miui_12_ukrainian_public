@@ -37,7 +37,7 @@
      <string name="pc_activity_title">Оптимізація живлення</string>
      <string name="pm_lable_name">ROOT доступ</string>
 	 <string name="add_game">Додати</string>
-     <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів.</string>
+     <string name="anti_disturb_msg_detail">Вимкнути усі сповіщення, окрім вхідних викликів</string>
      <string name="anti_disturb_msg_title">Не турбувати</string>
      <string name="application_item_already_permission">Дозволено</string>
      <string name="application_item_disable">Заборонено</string>

@@ -569,7 +569,7 @@
      <string name="cit_right_button_light">Підсвічування правої клавіші</string>
      <string name="cit_sar_sensor_check_summary">Значення для сенсорних каналів SAR повинні відображатися нижче. Закрийте нижню частину телефону, якщо дані змінилися, функція працює</string>
      <string name="cit_sar_sensor_check_title">Датчик SAR</string>
-     <string name="cit_sd_fail">Відбулася помилка</string>
+     <string name="cit_sd_fail">Сталася помилка</string>
      <string name="cit_sd_mount">Підключити SD карту</string>
      <string name="cit_sd_mount_sucess">SD карта готова до використання</string>
      <string name="cit_sd_mp3_not_existed">"Файл з іменем \"music.mp3\" відсутній на SD карті. 

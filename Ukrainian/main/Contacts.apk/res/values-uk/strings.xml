@@ -1497,7 +1497,7 @@
      <string name="sim_contact_dropdown_menu_select_all_miui">" Вибрати усе "</string>
      <string name="sim_contact_existing">Контакт на SIM-карті вже існує</string>
      <string name="sim_contact_invalid">Некоректний контакт SIM-карти</string>
-     <string name="sim_contact_search_error">Відбулася помилка при пошуку контактів з SIM-карти</string>
+     <string name="sim_contact_search_error">Сталася помилка при пошуку контактів з SIM-карти</string>
      <string name="sim_contacts">Контакти на SIM-карті</string>
      <string name="sim_error_anr_full">Пам\’ять для номерів заповнена</string>
      <string name="sim_error_email_full">Пам\’ять для Email заповнена</string>

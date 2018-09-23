@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="emergency_sos_title">Екстренна допомога</string>
+     <string name="dark_ui_mode">Нічний режим</string>
+     <string name="dark_ui_mode_title">Нічний режим</string>
+	 <string name="emergency_sos_title">Екстренна допомога</string>
      <string name="mipush_fake_channel_group_name">Mi Push</string>
      <string name="miui_sos_audio_summary">Відтворювати повідомлення SOS, коли екстрений контакт відповідає на виклик.</string>
      <string name="miui_sos_audio_title">Голосове повідомлення SOS</string>
@@ -124,7 +126,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="access_control_need_to_unlock">Уведіть графічний ключ</string>
      <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
      <string name="access_control_password_title">Використовувати пароль</string>
-     <string name="access_control_recording_intro_header">Задайте графічний ключ</string>
+     <string name="access_control_recording_intro_header">Введіть графічний ключ</string>
      <string name="access_control_reset_by_account">Увійдіть в Mi акаунт для оновлення пароля</string>
      <string name="access_point_names">Імена точок доступу</string>
      <string name="accessibility_autoclick_delay_preference_title">Затримка перед натисканням</string>
@@ -347,8 +349,12 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="always_running">Постійно (%s)</string>
      <string name="amber_alerts_summary">Отримувати сповіщення про зниклих дітей</string>
      <string name="amber_alerts_title">Сповіщення AMBER</string>
+	 <string name="ambient_display_category_triggers">Коли відображати</string>
      <string name="ambient_display_pickup_summary">"Для перегляду часу, піктограм сповіщень та іншої інформації, візьміть пристрій"</string>
      <string name="ambient_display_pickup_title">"Перегляд сповіщень у вертикальному положенні пристрою"</string>
+	 <string name="ambient_display_screen_summary_always_on">"Завжди увімкнено / Збільшення використання заряду"</string>
+     <string name="ambient_display_screen_summary_notifications">Нові сповіщення</string>
+     <string name="ambient_display_screen_title">Економний дисплей</string>
      <string name="ambient_display_summary">"Для перегляду часу, піктограм сповіщень та іншої інформації двічі торкніться екрану"</string>
      <string name="ambient_display_title">"Перегляд часу і сповіщень подвійним дотиком"</string>
      <string name="anc_switch_title">Активний контроль шумів</string>
@@ -2029,7 +2035,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="double_twist_for_camera_mode_title">"Зміна камери"</string>
      <string name="download_current_rom">Завантажити останню версію</string>
      <string name="downloading_description">Завантаження…</string>
-     <string name="doze_summary">Увімкнення екрану, коли Ви берете пристрій в руки або отримуєте сповіщення.</string>
+     <string name="doze_summary">Увімкнення екрану, коли Ви берете пристрій в руки або отримуєте сповіщення</string>
      <string name="doze_title">Заборона режиму сну</string>
      <string name="draw_overlay">Накладання поверх інших вікон</string>
      <string name="draw_overlay_title">Накладання поверх інших вікон</string>
@@ -3110,7 +3116,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="lockpattern_recording_incorrect_too_short">"З\'єднайте точки (мінімум %d)"</string>
      <string name="lockpattern_recording_inprogress">Запис графічного ключа</string>
      <string name="lockpattern_recording_intro_footer">Для довідки натисніть \"Меню\"</string>
-     <string name="lockpattern_recording_intro_header">Задайте графічний ключ</string>
+     <string name="lockpattern_recording_intro_header">Введіть графічний ключ</string>
      <string name="lockpattern_recording_intro_header_second_space">Введіть ключ для другого простору</string>
      <string name="lockpattern_restart_button_text">Відтворити повторно</string>
      <string name="lockpattern_retry_button_text">Повтор</string>
@@ -4479,11 +4485,11 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="privacy_settings_title">Відновлення й скидання</string>
      <string name="private_gallery_confirm_before_reset">Накресліть старий графічний ключ:</string>
      <string name="private_gallery_need_to_unlock">Введіть графічний ключ</string>
-     <string name="private_gallery_recording_intro_header">Задайте графічний ключ</string>
+     <string name="private_gallery_recording_intro_header">Введіть графічний ключ</string>
      <string name="private_gallery_reset_by_account">Щоб скинути пароль, увійдіть в Mi акаунт.</string>
      <string name="private_gallery_title_change_pattern">Змінити графічний ключ</string>
      <string name="private_gallery_title_confirm_pattern">Підтвердіть графічний ключ</string>
-     <string name="private_gallery_title_set_pattern">Задайте графічний ключ</string>
+     <string name="private_gallery_title_set_pattern">Введіть графічний ключ</string>
      <string name="private_sms_need_to_unlock">Введіть пароль</string>
      <string name="private_sms_recording_intro_header">Намалюйте графічний ключ</string>
      <string name="private_sms_reset_by_account">Увійдіть в Mi акаунт для оновлення пароля</string>
@@ -4744,7 +4750,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="restrict_background_data_notification_summary">Програми не зможуть підключатися до мережі, якщо встановлена заборона на передачу даних у фоновому режимі</string>
      <string name="restrict_background_data_title">Заборона фонових даних</string>
      <string name="restrict_bg_app">Заборонити</string>
-     <string name="restrict_max_aspect_ratio_title">Запропонувати вимкнути максимальне співвідношення сторін</string>
+     <string name="restrict_max_aspect_ratio_title">Не запускати у повноекранному режимі</string>
      <string name="restriction_bluetooth_config_summary">Дозволити зміну налаштувань Bluetooth-підключення</string>
      <string name="restriction_bluetooth_config_title">Bluetooth</string>
      <string name="restriction_location_enable_summary">Дозволити програмам використовувати дані про ваше місцезнаходження</string>
@@ -4817,7 +4823,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="sc_bad_request">Помилковий запит</string>
      <string name="sc_internal_server_error">Внутрішня помилка сервера</string>
      <string name="sc_network_unavailable">Інтернет недоступний</string>
-     <string name="sc_others">Відбулася помилка</string>
+     <string name="sc_others">Сталася помилка</string>
      <string name="sc_precondition_failed">"До Вашого Mi акаунту необхідно прив\'язати адресу Email"</string>
      <string name="sc_request_timeout">Час очікування минув</string>
      <string name="sc_service_unavailable">Mi Cloud недоступний</string>
@@ -4843,8 +4849,8 @@ UT-інтерфейс: %5$s"</string>
      <string name="screen_key_press">Просте натискання</string>
      <string name="screen_key_press_action">Функція натискання</string>
      <string name="screen_locking_sounds_title">Звук блокування екрану</string>
-     <string name="screen_max_aspect_ratio_desc">Чи може програма працювати у повноекранному режимі</string>
-     <string name="screen_max_aspect_ratio_title">Максимальне співвідношення сторін</string>
+     <string name="screen_max_aspect_ratio_desc">Запуск програм у повноекранному режимі</string>
+     <string name="screen_max_aspect_ratio_title">Повноекранний режим</string>
      <string name="screen_monochrome_mode_apps_loading">Завантаження…</string>
      <string name="screen_monochrome_mode_apps_title">Монохромний режим</string>
      <string name="screen_monochrome_mode_global_summary">Використовувати монохромний режим для всіх програм</string>
@@ -5942,7 +5948,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="sub_deactivate_success">Успішно деактивовано</string>
      <string name="subs_settings">SUBS статус</string>
      <string name="succeed">Успішно завершене</string>
-     <string name="suggest_unrestrict_max_aspect_ratio_title">Запропонувати дозволити максимальне співвідношення сторін</string>
+     <string name="suggest_unrestrict_max_aspect_ratio_title">Дозволити запуск у повноекранному режимі</string>
      <string name="suggested_fingerprint_lock_settings_summary">Розблокуйте пристрій за допомогою відбитка пальця</string>
      <string name="suggested_fingerprint_lock_settings_title">"Використовуйте сканер відбитків пальців"</string>
      <string name="suggested_lock_settings_summary">Захистіть пристрій</string>
@@ -6398,7 +6404,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="unlock_set_unlock_summary">Встановіть пароль для увімкнення захисту</string>
      <string name="unlock_setup_wizard_fingerprint_details">Увімкнувши блокування екрану, зайдіть у налаштування конфіденційності, щоб відсканувати і зберегти відбиток пальця.</string>
      <string name="unmount_inform_text">SD карта буде вимкнена</string>
-     <string name="unrestrict_max_aspect_ratio_title">Максимальне співвідношення сторін</string>
+     <string name="unrestrict_max_aspect_ratio_title">Повноекранний режим</string>
      <string name="unrestricted_app_summary">Дозволити в режимі економії трафіку</string>
      <string name="unrestricted_app_title">Необмежена передача даних</string>
      <string name="unrestricted_data_saver">Необмежений доступ до даних</string>

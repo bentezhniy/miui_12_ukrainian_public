@@ -213,7 +213,7 @@
      <string name="available_playlist_name_format">Новий плейлист %d</string>
      <string name="avoid_to_use_traffic_summary">Завантажувати онлайн музику тільки по Wi-Fi мережі</string>
      <string name="avoid_to_use_traffic_title">Онлайн музика по Wi-Fi мережі</string>
-     <string name="back_confirm">Натисніть \"Назад\", щоб музика грала у фоновому режимі.</string>
+     <string name="back_confirm">Натисніть \"Назад\", щоб музика грала у фоні</string>
      <string name="backup_complete">Усю музику синхронізовано з Mi Cloud</string>
      <string name="backup_empty_button">Обрано: 0</string>
      <string name="backup_immediate">Бекап</string>
