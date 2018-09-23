@@ -11,4 +11,11 @@
     <string name="data_transmitted">Надіслано:</string>
     <string name="data_received">Отримано:</string>
     <string name="data_value_format">%1$s б | Пакетів: %2$s</string>
+	<string name="always_on_disconnected_message">"%1$s налаштовано, щоб залишатися на зв'язку постійно, але зараз цю мережу неможливо підключити. Ваш пристрій використовуватиме загальну мережу, доки знову не зможе підключитися до %1$s"</string>
+    <string name="always_on_disconnected_message_lockdown">"%1$s налаштовано, щоб залишатися на зв'язку постійно, але зараз цю мережу неможливо підключити. Ви не матимете з'єднання, доки VPN не зможе знову підключитися"</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Змінити налаштування VPN</string>
+    <string name="always_on_disconnected_title">"Неможливо підключитися до постійного VPN"</string>
+    <string name="dismiss">Відхилити</string>
+    <string name="open_app">Відкрити</string>
 </resources>
