@@ -113,7 +113,7 @@
         <item>Нокс</item>
         <item>Маренго</item>
         <item>Санкт-Петербург</item>
-        <item>Скажіть місто</item>
+        <item>Телл-Сіті</item>
         <item>Вівэй</item>
         <item>Венсен</item>
         <item>Винамак</item>
@@ -124,7 +124,6 @@
         <item>Луїсвілл</item>
         <item>Манагуа</item>
         <item>Мартініка</item>
-        <item>Мендоса</item>
         <item>Метлакатла</item>
         <item>Мехіко</item>
         <item>Монтеррей</item>
@@ -169,7 +168,6 @@
         <item>Хеврон</item>
         <item>Хо Ши Мін</item>
         <item>Гонконг</item>
-        <item>Стамбул</item>
         <item>Джакарта</item>
         <item>Єрусалим</item>
         <item>Кабул</item>
@@ -197,7 +195,7 @@
         <item>Бермуди</item>
         <item>Канарські</item>
         <item>Кабо-Верде</item>
-        <item>"Рейк\'явік"</item>
+        <item>"Рейк'явік"</item>
         <item>Стенлі</item>
         <item>Аделаїда</item>
         <item>Брісбен</item>
@@ -229,7 +227,6 @@
         <item>Гельсінкі</item>
         <item>Острів Мен</item>
         <item>Стамбул</item>
-        <item>Київ</item>
         <item>Лісабон</item>
         <item>Лондон</item>
         <item>Люксембург</item>
@@ -246,7 +243,7 @@
         <item>Сан-Марино</item>
         <item>Сараєво</item>
         <item>Сімферополь</item>
-        <item>"Скоп\'є"</item>
+        <item>"Скоп'є"</item>
         <item>Софія</item>
         <item>Стокгольм</item>
         <item>Таллінн</item>
@@ -288,7 +285,7 @@
         <item>Сіетл</item>
         <item>Луї</item>
         <item>Вашингтон</item>
-        <item>"Х\'юстон"</item>
+        <item>"Х'юстон"</item>
         <item>Сан-Антоніо</item>
         <item>Джексонвілле</item>
         <item>Балтімор</item>
@@ -305,13 +302,14 @@
         <item>Тампа</item>
         <item>Піттсбург</item>
         <item>Цинциннаті</item>
-        <item>"Маунтін-В\'ю"</item>
+        <item>"Маунтін-В'ю"</item>
         <item>Рено</item>
         <item>Місто Чорного Року</item>
         <item>Доха</item>
         <item>Пекін</item>
         <item>Мумбаї</item>
         <item>Делі</item>
+        <item>Нью-Делі</item>
         <item>Осака</item>
         <item>Лахор</item>
         <item>Сану</item>
@@ -339,10 +337,9 @@
         <item>Монровія</item>
         <item>Коломбо</item>
         <item>Чихуахуа</item>
-        <item>Сальвадор</item>
         <item>Гургаон</item>
         <item>Манчестер</item>
-        <item>Львів</item>
+        <item>Київ</item>
         <item>Санкт-Петербург</item>
         <item>Краків</item>
         <item>Вроцлав</item>
@@ -354,7 +351,7 @@
         <item>Парамарібо</item>
         <item>Кіто</item>
      </string-array>
-	 <string-array name="cities_names_miui">
+     <string-array name="cities_names_miui">
         <item>Абіджан</item>
         <item>Аккра</item>
         <item>Аддіс-Абеба</item>
@@ -414,7 +411,7 @@
         <item>Нокс</item>
         <item>Маренго</item>
         <item>Санкт-Петербург</item>
-        <item>Скажіть місто</item>
+        <item>Телл-Сіті</item>
         <item>Вівэй</item>
         <item>Венсен</item>
         <item>Винамак</item>
@@ -425,7 +422,6 @@
         <item>Луїсвілл</item>
         <item>Манагуа</item>
         <item>Мартініка</item>
-        <item>Мендоса</item>
         <item>Метлакатла</item>
         <item>Мехіко</item>
         <item>Монтеррей</item>
@@ -470,7 +466,6 @@
         <item>Хеврон</item>
         <item>Хо Ши Мін</item>
         <item>Гонконг</item>
-        <item>Стамбул</item>
         <item>Джакарта</item>
         <item>Єрусалим</item>
         <item>Кабул</item>
@@ -498,7 +493,7 @@
         <item>Бермуди</item>
         <item>Канарські</item>
         <item>Кабо-Верде</item>
-        <item>"Рейк\'явік"</item>
+        <item>"Рейк'явік"</item>
         <item>Стенлі</item>
         <item>Аделаїда</item>
         <item>Брісбен</item>
@@ -530,7 +525,6 @@
         <item>Гельсінкі</item>
         <item>Острів Мен</item>
         <item>Стамбул</item>
-        <item>Київ</item>
         <item>Лісабон</item>
         <item>Лондон</item>
         <item>Люксембург</item>
@@ -547,7 +541,7 @@
         <item>Сан-Марино</item>
         <item>Сараєво</item>
         <item>Сімферополь</item>
-        <item>"Скоп\'є"</item>
+        <item>"Скоп'є"</item>
         <item>Софія</item>
         <item>Стокгольм</item>
         <item>Таллінн</item>
@@ -589,7 +583,7 @@
         <item>Сіетл</item>
         <item>Луї</item>
         <item>Вашингтон</item>
-        <item>"Х\'юстон"</item>
+        <item>"Х'юстон"</item>
         <item>Сан-Антоніо</item>
         <item>Джексонвілле</item>
         <item>Балтімор</item>
@@ -606,13 +600,14 @@
         <item>Тампа</item>
         <item>Піттсбург</item>
         <item>Цинциннаті</item>
-        <item>"Маунтін-В\'ю"</item>
+        <item>"Маунтін-В'ю"</item>
         <item>Рено</item>
         <item>Місто Чорного Року</item>
         <item>Доха</item>
         <item>Пекін</item>
         <item>Мумбаї</item>
         <item>Делі</item>
+        <item>Нью-Делі</item>
         <item>Осака</item>
         <item>Лахор</item>
         <item>Сану</item>
@@ -640,10 +635,9 @@
         <item>Монровія</item>
         <item>Коломбо</item>
         <item>Чихуахуа</item>
-        <item>Сальвадор</item>
         <item>Гургаон</item>
         <item>Манчестер</item>
-        <item>Львів</item>
+        <item>Київ</item>
         <item>Санкт-Петербург</item>
         <item>Краків</item>
         <item>Вроцлав</item>
@@ -756,7 +750,7 @@
         <item>Канада</item>
         <item>Канада</item>
         <item>Антарктида</item>
-        <item>Шпіцберген і Ян-Маєн</item>
+        <item>Свальбард і Ян-Маєн</item>
         <item>Казахстан</item>
         <item>Йорданія</item>
         <item>Росія</item>
@@ -913,6 +907,7 @@
         <item>США</item>
         <item>Катар</item>
         <item>Китай</item>
+        <item>Індія</item>
         <item>Індія</item>
         <item>Індія</item>
         <item>Японія</item>

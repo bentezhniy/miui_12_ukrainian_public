@@ -369,7 +369,7 @@
      <string name="worldclock_world_time">Часовий пояс</string>
      <string name="worldcolock_timezone_current">Поточний: %1$s</string>
      <string name="worldcolock_timezone_date">d MMMM</string>
-     <string name="worldcolock_timezone_gap">Година</string>
+     <string name="worldcolock_timezone_gap">г.</string>
      <string name="worldcolock_timezone_local">Такий самий, як і місцевий час</string>
      <string name="year_picker_description">Список років</string>
      <string name="zone_time_offset_ahead">%1$d г. %2$d хв. більше</string>
