@@ -527,8 +527,8 @@
      <string name="export_to_sim2">Експорт на SIM-карту 2</string>
      <string name="export_to_sim_prepare_title">Підготовка…</string>
      <string name="export_to_sim_title">Експортування…</string>
-     <string name="export_to_storage">"Експорт в пам\'ять"</string>
-     <string name="export_vcard_description">"Експорт vСard у пам\'ять телефону"</string>
+     <string name="export_to_storage">Експорт в пам\'ять</string>
+     <string name="export_vcard_description">Експорт vСard у пам\'ять телефону</string>
      <string name="exporting_contact_failed_message">"Не вдалося експортувати дані.
 Причина: %s"</string>
      <string name="exporting_contact_failed_title">Не вдалося експортувати</string>
