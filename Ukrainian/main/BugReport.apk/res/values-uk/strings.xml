@@ -67,11 +67,11 @@
      <string name="err_type_signal">Мережа</string>
      <string name="err_type_suggestion">Пропозиції</string>
      <string name="err_type_system">Система</string>
-     <string name="err_type_system_summary">"Проблеми з продуктивністю та пам\'ятю"</string>
+     <string name="err_type_system_summary">Проблеми з продуктивністю та пам\'яттю</string>
      <string name="err_type_systemapp">Система</string>
      <string name="err_type_translate">Мова</string>
      <string name="err_type_wifi">Wi-Fi</string>
-     <string name="err_type_xiaomi_family">"Mi Сім\'я"</string>
+     <string name="err_type_xiaomi_family">Mi Сім\'я</string>
      <string name="err_type_xiaomi_service">Обслуговування користувачів</string>
      <string name="error_no_connection">Неможливо підключитися до інтернету</string>
      <string name="feedback_bug_status_change_notification_desc">%1$s проблема \"%2$s\"</string>
