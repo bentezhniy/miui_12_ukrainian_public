@@ -19,9 +19,9 @@
      <string name="cloud_record_tip">Синхронізація записів із Mi Cloud</string>
      <string name="cloud_service_state_open_reminder">Увімкніть синхронізацію з Mi Cloud, щоб синхронізувати записи</string>
      <string name="cloud_status_full_dialog_cancel">Скасувати</string>
-     <string name="cloud_status_full_dialog_msg">"Пам\'ять в Mi Cloud заповнено. Записи не будуть синхронізуватися."</string>
+     <string name="cloud_status_full_dialog_msg">Пам\'ять в Mi Cloud заповнено. Записи не будуть синхронізуватися.</string>
      <string name="cloud_status_full_dialog_ok">ОК</string>
-     <string name="cloud_status_full_dialog_title">"Пам\'ять в Mi Cloud заповнена"</string>
+     <string name="cloud_status_full_dialog_title">Пам\'ять в Mi Cloud заповнена</string>
      <string name="data_connection_body">При завантаженні по мобільному інтернету може стягуватися додаткова плата</string>
      <string name="data_connection_button_text">ОК</string>
      <string name="data_connection_title">Попередження</string>
