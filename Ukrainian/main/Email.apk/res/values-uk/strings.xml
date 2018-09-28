@@ -910,7 +910,7 @@
      <string name="outbox_alert_description_fail_authentication">"Неправильне ім\'я користувача або пароль"</string>
      <string name="outbox_alert_description_fail_network">Помилка мережі</string>
      <string name="outbox_alert_description_http_error">Помилка HTTP під час синхронізації теки \"Вихідні\"</string>
-     <string name="outbox_alert_description_insufficient_storage_error">"Пам\'ять заповнена на сервері пошти"</string>
+     <string name="outbox_alert_description_insufficient_storage_error">Пам\'ять заповнена на сервері пошти</string>
      <string name="outbox_alert_description_provision_error">Помилка положення під час синхронізації теки \"Вихідні\"</string>
      <string name="outbox_alert_description_reject_by_server">Відхилено: %s</string>
      <string name="outbox_alert_description_sent_failed">Розмір прикріпленого файлу занадто великий</string>
@@ -1234,7 +1234,7 @@
      <string name="smtp_password_error">Неправильний пароль сервера вихідних повідомлень</string>
      <string name="sort_attachment">Сортування</string>
      <string name="status_network_error">Не вдалося підключитися до інтернету. Перевірте підключення і повторіть помилку.</string>
-     <string name="storage">"Пам\'ять"</string>
+     <string name="storage">Пам\'ять</string>
      <string name="str_select_all">Вибрати усе</string>
      <string name="str_select_none">Зняти вибір</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
