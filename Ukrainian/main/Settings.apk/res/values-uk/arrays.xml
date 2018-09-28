@@ -57,7 +57,7 @@
         <item>PAP або CHAP</item>
      </string-array>
      <string-array name="app_install_location_entries">
-        <item>Внутрішня пам\’ять</item>
+        <item>Внутрішня пам\'ять</item>
         <item>SD карта</item>
         <item>Автоматично</item>
      </string-array>
@@ -1122,8 +1122,8 @@
      </string-array>
      <string-array name="description_secondary">
         <item>4 ядра по 2.5 ГГц</item>
-        <item>"Внутрішня пам\'ять"</item>
-        <item>"Пам\'ять LPDDR3"</item>
+        <item>Внутрішня пам\'ять</item>
+        <item>Пам\'ять LPDDR3</item>
         <item>Екран Full HD</item>
         <item>Інтернет</item>
         <item>Роздільна здатність камери</item>
