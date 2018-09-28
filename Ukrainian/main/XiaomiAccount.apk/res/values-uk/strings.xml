@@ -416,7 +416,7 @@
      <string name="micloud_user_name">"Ім\'я"</string>
      <string name="micloud_user_nick_name">Нік</string>
      <string name="micloud_user_phone">Номер телефону</string>
-     <string name="micloud_user_space_title">"Пам\'ять"</string>
+     <string name="micloud_user_space_title">Пам\'ять</string>
      <string name="micloud_via_int_sms_alert">Буде надіслано SMS у роумінгу для підтвердження Вашого телефонного номера</string>
      <string name="micloud_via_sms_alert">За це оператором може стягуватися додаткова плата</string>
      <string name="micloud_welcome_skip_login">Пропустити</string>
