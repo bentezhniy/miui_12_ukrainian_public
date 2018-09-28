@@ -532,8 +532,8 @@
      <string name="dialog_geolocation_reject">Скасувати</string>
      <string name="dialog_geolocation_share">ОК</string>
      <string name="dialog_insufficient_space_on_cache">Помилка завантаження</string>
-     <string name="dialog_insufficient_space_on_external">"Недостатньо пам\'яті"</string>
-     <string name="dialog_media_not_found">"Неможливо завантажити. Зовнішня пам\'ять відсутня."</string>
+     <string name="dialog_insufficient_space_on_external">Недостатньо пам\'яті</string>
+     <string name="dialog_media_not_found">Неможливо завантажити. Зовнішня пам\'ять відсутня.</string>
      <string name="dialog_queued_body">Файл вже доданий до черги</string>
      <string name="dialog_title_not_available">Помилка завантаження</string>
      <string name="dialog_title_queued_body">Файл більше недоступний</string>
@@ -772,7 +772,7 @@
      <string name="media_error_failure">Помилка відтворення відео</string>
      <string name="media_error_format">Помилка формату відео</string>
      <string name="media_error_network_unreachable">Інтернет недоступний</string>
-     <string name="media_error_nomemory">"Пам\'ять пристрою заповнена"</string>
+     <string name="media_error_nomemory">Пам\'ять пристрою заповнена</string>
      <string name="media_error_source">Помилка джерела відео</string>
      <string name="media_error_timeout">Час очікування вийшов</string>
      <string name="media_error_video_not_exist">Відео не існує</string>
