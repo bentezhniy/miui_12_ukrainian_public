@@ -207,7 +207,7 @@
      <string name="install">Встановити</string>
      <string name="install_failed">Неможливо установити %1$s</string>
      <string name="installing">Встановлення…</string>
-     <string name="insufficient_space">"Недостатньо пам\'яті"</string>
+     <string name="insufficient_space">Недостатньо пам\'яті</string>
      <string name="invalid_address">Неправильний шлях</string>
      <string name="jump_rank_hint">Перегляньте рейтинг завантажень ></string>
      <string name="keep_queued_download">Залишити</string>
@@ -498,7 +498,7 @@
      <string name="xl_privilege_play_info">Продовжити незавершені завантаження</string>
      <string name="xl_privilege_speedup">Прискорення завантаження</string>
      <string name="xl_privilege_speedup_info">Високошвидкісний канал і підтримка локальних завантажень</string>
-     <string name="xl_privilege_storage">"Хмарна пам\'ять"</string>
+     <string name="xl_privilege_storage">Хмарна пам\'ять</string>
      <string name="xl_privilege_storage_info">Там досить місця для всіх Ваших завантажень</string>
      <string name="xl_privilege_support">Декілька пристроїв</string>
      <string name="xl_privilege_title">Підписка Xunlei</string>
