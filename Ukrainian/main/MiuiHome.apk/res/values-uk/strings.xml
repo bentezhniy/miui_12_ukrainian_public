@@ -281,12 +281,12 @@
      <string name="photo_confirm">Готово</string>
      <string name="photo_load_failed">Не вдалося завантажити фото</string>
      <string name="pref_cell_layout_size">Сітка робочого столу</string>
-     <string name="pref_enable_drawing_cache_summary">"Вимкніть, щоб звільнити пам\'ять. Можливе пригальмовування системи."</string>
+     <string name="pref_enable_drawing_cache_summary">Вимкніть, щоб звільнити пам\'ять. Можливе пригальмовування системи.</string>
      <string name="pref_enable_drawing_cache_title">Кеш графіки</string>
      <string name="pref_icon_shadow_summary">Увімкнути ефект тіні від іконок на робочому столі</string>
      <string name="pref_icon_shadow_title">Тінь від іконок</string>
-     <string name="pref_keep_in_memory_summary">"Заборонити вивантажувати робочий стіл з оперативної пам\'яті"</string>
-     <string name="pref_keep_in_memory_title">"Тримати в пам\'яті"</string>
+     <string name="pref_keep_in_memory_summary">Заборонити вивантажувати робочий стіл з оперативної пам\'яті</string>
+     <string name="pref_keep_in_memory_title">Тримати в пам\'яті</string>
      <string name="pref_keep_layout_summary">Перемикання сітки робочого столу може порушити положення іконок. Увімкніть для збереження положення іконок.</string>
      <string name="pref_keep_layout_title">Зберігати розстановку</string>
      <string name="pref_render_in_truecolor_summary">Поліпшення якості кольору</string>
