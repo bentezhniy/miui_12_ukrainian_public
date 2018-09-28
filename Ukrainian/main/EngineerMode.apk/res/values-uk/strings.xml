@@ -179,7 +179,7 @@
     <string name="memory_dialog_title">Помилка</string>
     <string name="memory_dialog_message">Не реалізовано</string>
     <string name="memory_dialog_ok">OK</string>
-    <string name="memory_help_msg">"Ім'я функції: пам\'ять
+    <string name="memory_help_msg">"Ім'я функції: пам'ять
 
   Використовується для перевірки flash, файлової системи і інформації про розділи.
 
