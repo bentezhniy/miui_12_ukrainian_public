@@ -257,7 +257,7 @@
      <string name="cloud_loading_message">Пошук музики…</string>
      <string name="cloud_music">Музика онлайн</string>
      <string name="cloud_settings">Налаштування синхронізації</string>
-     <string name="cloud_space_full">"Пам\'ять заповнена"</string>
+     <string name="cloud_space_full">Пам\'ять заповнена</string>
      <string name="cloud_space_full_message">Недостатньо місця у Mi Cloud для завантаження нових треків. Оновіть Mi акаунт, щоб отримати більше місця.</string>
      <string name="cloud_state_cloud_space_full">"Недостатньо пам'яті у Mi Cloud. Синхронізацію зупинено."</string>
      <string name="cloud_state_low_power">Підключіть зарядний пристрій для продовження синхронізації</string>
@@ -354,7 +354,7 @@
      <string name="dialog_hint_network_error">Неможливо підключитися до інтернету</string>
      <string name="dialog_insufficient_space_on_cache">"Помилка завантаження. Недостатньо пам\'яті."</string>
      <string name="dialog_insufficient_space_on_external">"Помилка завантаження. Недостатньо пам\'яті."</string>
-     <string name="dialog_media_not_found">"Помилка завантаження. Пам\'ять недоступна."</string>
+     <string name="dialog_media_not_found">Помилка завантаження. Пам\'ять недоступна.</string>
      <string name="dialog_not_show_again">"Запам\'ятати"</string>
      <string name="dialog_queued_body">Завантаження додане до черги</string>
      <string name="dialog_remove_descript">"Видалити обране? 
