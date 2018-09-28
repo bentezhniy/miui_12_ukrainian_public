@@ -126,7 +126,7 @@
      <string name="activity_title_garbage_cleanup">Очищення</string>
      <string name="activity_title_large_file">Файли</string>
      <string name="activity_title_license_manager">Дозволи</string>
-     <string name="activity_title_memory">"Пам\'ять"</string>
+     <string name="activity_title_memory">Пам\'ять</string>
      <string name="activity_title_network_speed_detail">З\'єднання</string>
      <string name="activity_title_networkassistants">Трафік</string>
      <string name="activity_title_notification_bar_manager">Керування повідомленнями</string>
