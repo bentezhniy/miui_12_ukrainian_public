@@ -242,10 +242,10 @@
         <item quantity="few">Буде скинуто %1$d акаунти</item>
      </plurals>
      <plurals name="memory_usage_apps_summary">
-        <item quantity="other">"%1$d програм використовують пам\'ять (%2$s)"</item>
-        <item quantity="one">"%1$d програма використовує пам\'ять (%2$s)"</item>
-        <item quantity="few">"%1$d програми використовують пам\'ять (%2$s)"</item>
-        <item quantity="many">"%1$d програм використовують пам\'ять (%2$s)"</item>
+        <item quantity="other">"%1$d програм використовують пам'ять (%2$s)"</item>
+        <item quantity="one">"%1$d програма використовує пам'ять (%2$s)"</item>
+        <item quantity="few">"%1$d програми використовують пам'ять (%2$s)"</item>
+        <item quantity="many">"%1$d програм використовують пам'ять (%2$s)"</item>
      </plurals>
      <plurals name="minutes">
         <item quantity="one">%s хвилина</item>
