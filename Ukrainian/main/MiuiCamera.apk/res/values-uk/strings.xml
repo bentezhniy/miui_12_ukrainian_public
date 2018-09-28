@@ -338,7 +338,7 @@
      <string name="no_save">Скасувати</string>
      <string name="no_storage">Вставте SD карту перед використанням камери</string>
      <string name="no_thumbnail">Немає ескізу</string>
-     <string name="not_enough_space">"Пам\'ять заповнена"</string>
+     <string name="not_enough_space">Пам\'ять заповнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режимі сюжету</string>
      <string name="object_track_enable_toast">"Проведіть по вікну попереднього перегляду, щоб увімкнути відстеження об\'єкту"</string>
      <string name="ok">ОК</string>
@@ -738,7 +738,7 @@
      <string name="pref_grp_picture_settings">Налаштування фото</string>
      <string name="pref_grp_restore_settings">Скидання налаштувань</string>
      <string name="pref_manual_exposure_title">Витримка</string>
-     <string name="pref_priority_storage_title">"Зберігати на зовнішню пам\'ять"</string>
+     <string name="pref_priority_storage_title">Зберігати на зовнішню пам\'ять</string>
      <string name="pref_qc_focus_position_title">Фокус</string>
      <string name="pref_retain_camera_mode_summary">Перемикати камеру у останній режим при запуску програми</string>
      <string name="pref_retain_camera_mode_title">"Запам'ятовувати режим"</string>
