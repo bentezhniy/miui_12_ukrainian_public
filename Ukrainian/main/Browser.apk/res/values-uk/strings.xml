@@ -1717,9 +1717,9 @@
      <string name="save_bookmark">У закладки</string>
      <string name="save_button_text">Зберегти</string>
      <string name="save_dialog_title">Зберегти</string>
-     <string name="save_file">Завантаження: %s</string>
+     <string name="save_file">Зберегти</string>
      <string name="save_file_already_exist_alert_message">"Файл вже існує. 
-перезаписати його?"</string>
+Перезаписати його?"</string>
      <string name="save_file_already_exist_alert_title">Попередження</string>
      <string name="save_form_data_confirm_message">При вимкненні цієї функції можливе надмірне використання мобільного трафіку</string>
      <string name="save_image_failed">Не вдалося зберегти зображення</string>
