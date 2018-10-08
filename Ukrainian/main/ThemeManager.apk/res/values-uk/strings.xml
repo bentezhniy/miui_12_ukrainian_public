@@ -446,7 +446,7 @@
      <string name="resource_local_picker">Вибрати мелодію локально</string>
      <string name="resource_menu_refresh">Оновити</string>
      <string name="resource_mute">Немає</string>
-     <string name="resource_my">Пристрій</string>
+     <string name="resource_my">Телефон</string>
      <string name="resource_network_diagnostics"><u>Діагностика інтернету</u></string>
      <string name="resource_no_match_app">Тип файлу не підтримується</string>
      <string name="resource_no_network_text">Неможливо підключитися до інтернету</string>
@@ -589,7 +589,7 @@
      <string name="theme_component_title_boot_animation">Анімація завантаження</string>
      <string name="theme_component_title_boot_audio">Мелодія завантаження</string>
      <string name="theme_component_title_clock">Годинник</string>
-     <string name="theme_component_title_contact">Пристрій</string>
+     <string name="theme_component_title_contact">Телефон</string>
      <string name="theme_component_title_font">Шрифт</string>
      <string name="theme_component_title_framework">Система</string>
      <string name="theme_component_title_icon">Іконки</string>
