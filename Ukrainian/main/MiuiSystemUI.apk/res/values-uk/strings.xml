@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="lock_screen_carrier_airplane_mode_on">Режим польоту</string>
+     <string name="lock_screen_no_sim_card_emergency_only">SOS</string>
+     <string name="lock_screen_no_sim_card_no_service">Немає мережі</string>
+     <string name="notch_sos_status_bar_title">SOS</string>
+     <string name="quick_settings_toast_drag_to_enable_custom_tile">Щоб додати елемент, натисніть і утримуйте його, а потім перетягніть його в верхню частину панелі.</string>
+     <string name="sos_status_bar_summary">Натисніть для виходу</string>
+     <string name="sos_status_bar_title">SOS</string>
+     <string name="torch_high_temperature_warning">Неможливо увімкнути ліхтарик. Пристрій перегрітий.</string>
 	 <string name="miui_screen_rotation_freeze_message">Автоповорот вимкнений</string>
      <string name="face_unlock_sc_status">Натисніть на екран знизу для запуску камери</string>
 	 <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
