@@ -3054,7 +3054,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="lockpassword_choose_your_pin_header">Введіть код</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Встановіть PIN код 
 для другого простору"</string>
-     <string name="lockpassword_choose_your_pin_title">Введіть 4-16 цифр</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Введіть %d-%d цифр</string>
      <string name="lockpassword_confirm_for_second_user">Підтвердіть пароль</string>
      <string name="lockpassword_confirm_passwords_dont_match">Паролі не збігаються</string>
      <string name="lockpassword_confirm_pins_dont_match">Коди не збігаються</string>
@@ -6399,7 +6399,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="unlock_set_unlock_password_title">Пароль</string>
      <string name="unlock_set_unlock_pattern_summary">Середній рівень захисту</string>
      <string name="unlock_set_unlock_pattern_title">Графічний ключ</string>
-     <string name="unlock_set_unlock_pin_summary">Рівень захисту від середнього до високого</string>
+      <string name="unlock_set_unlock_pin_summary" formatted="false">Введіть %d-%d цифр для розблокування пристрою</string>
      <string name="unlock_set_unlock_pin_title">Код</string>
      <string name="unlock_set_unlock_summary">Встановіть пароль для увімкнення захисту</string>
      <string name="unlock_setup_wizard_fingerprint_details">Увімкнувши блокування екрану, зайдіть у налаштування конфіденційності, щоб відсканувати і зберегти відбиток пальця.</string>

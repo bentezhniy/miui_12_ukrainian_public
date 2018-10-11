@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="book_start_interval">
+        <item quantity="other">%d дн. до відправлення</item>
+        <item quantity="one">%d дн. до відправлення</item>
+     </plurals>
     <plurals name="time_minute_ago">
         <item quantity="other">%d хвилин тому</item>
         <item quantity="one">%d хвилину тому</item>
