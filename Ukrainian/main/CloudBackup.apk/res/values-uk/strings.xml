@@ -4,8 +4,6 @@
      <string name="load_backup_failed">Помилка завантаження бекапу</string>
      <string name="loading_user_backup">Завантаження бекапу…</string>
      <string name="main_space">Перший простір</string>
-     <string name="pattern_backup_name_with_home">%1$s (%3$s%2$s: %4$s)</string>
-     <string name="pattern_backup_name_without_home">%1$s (%3$s%2$s)</string>
      <string name="second_space">Другий простір</string>
      <string name="self_device">" цього пристрою"</string>
      <string name="try_continue">Натисніть для продовження</string>
