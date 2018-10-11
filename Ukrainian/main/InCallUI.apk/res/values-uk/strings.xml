@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="volume_boost_text">Гучність збільшена</string>
      <string name="description_message_list_title">Перелік швидких відповідей</string>
 	 <string name="sim1_description">SIM1</string>
      <string name="sim2_description">SIM2</string>
