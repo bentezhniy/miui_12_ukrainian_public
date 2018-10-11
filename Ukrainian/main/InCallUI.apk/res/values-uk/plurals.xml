@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="duration_hours">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+     </plurals>
+     <plurals name="duration_seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+     </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Підключення для передачі даних відсутні %s хв.</item>
         <item quantity="one">Підключення для передачі даних відсутнє %s хв.</item>
