@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="timer_can_continue_in_timer">Відкрийте таймер для продовження</string>
+     <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
+     <string name="timer_alert_mute_on">Будильник не буде лунати після зупинки таймеру</string>
+     <string name="timer_alert_mute_remind">Вимкнути будильник</string>
+     <string name="timer_alert_mute_switch">Перемкнути звук таймеру</string>
+	 <string name="timer_can_continue_in_timer">Відкрийте таймер для продовження</string>
      <string name="timer_cancel_hint">Стоп</string>
      <string name="timer_end_time">Таймер зупиниться о %s</string>
      <string name="timer_end_time_format">HH:mm d MMM</string>

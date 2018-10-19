@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="event_reminders_to_max">
+     <plurals name="daily">
+        <item quantity="other">Кожні %d днів</item>
+        <item quantity="few">Кожні %d дні</item>
+        <item quantity="one">Щоденно</item>
+     </plurals>
+     <plurals name="endByCount">
+        <item quantity="other">; кожні %d раз</item>
+        <item quantity="one">; кожен %d раз</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+        <item quantity="other">Протягом %d подій</item>
+        <item quantity="one">Протягом %d події</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожні %d днів</item>
+        <item quantity="few">Кожні %d дні</item>
+        <item quantity="one">Кожен %d день</item>
+     </plurals>
+     <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожні %d місяців</item>
+        <item quantity="few">Кожні %d місяці</item>
+        <item quantity="one">Кожен %d місяць</item>
+     </plurals>
+     <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Кожні %d тижнів</item>
+        <item quantity="few">Кожен %d тиждень</item>
+        <item quantity="one">Кожен %d тиждень</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожні %d років</item>
+        <item quantity="few">Кожні %d роки</item>
+        <item quantity="one">Кожен %d рік</item>
+     </plurals>
+     <plurals name="weekly">
+        <item quantity="other">Кожні %1$d тижнів у %2$s</item>
+        <item quantity="few">Кожен %1$d тиждень у %2$s</item>
+        <item quantity="one">Щотижнево %2$s</item>
+     </plurals>
+	 <plurals name="event_reminders_to_max">
         <item quantity="other">Можна встановити не більше %d нагадувань</item>
         <item quantity="one">Можна встановити не більше %d нагадування</item>
      </plurals>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="security_permission_network_failed_text">Не вдається підключитися до інтернету</string>
+     <string name="security_permission_open_wifi_settings">Налаштування Wi-Fi</string>
+	 <string name="security_permission_network_failed_text">Не вдається підключитися до інтернету</string>
      <string name="talk_back_water_mark_string1">TalkBack увімкнено</string>
      <string name="talk_back_water_mark_string2">Утримуйте клавіші \"Гучність+\" та \"Гучність-\" напротязі 3 секунд для вимкнення</string>
      <string name="miui_warning_button_cancel">Скасувати</string>

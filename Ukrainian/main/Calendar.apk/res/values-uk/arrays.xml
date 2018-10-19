@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="edit_event_dislike">
+     <string-array name="backup_country_names">
+        <item>Сен-Мартен</item>
+        <item>Карибскі острови</item>
+        <item>Кюрасао</item>
+        <item>Південний Судан</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+     </string-array>
+     <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+     </integer-array>
+	 <string-array name="edit_event_dislike">
         <item>Немає потрібного типу події</item>
         <item>Інші налаштування</item>
         <item>Деякі налаштування не працюють</item>
@@ -193,15 +236,22 @@
      </string-array>
      <string-array name="preferences_default_reminder_labels">
         <item>Не нагадувати</item>
-        <item>По факту</item>
-        <item>За 5 хвилин</item>
-        <item>За 10 хвилин</item>
-        <item>За 15 хвилин</item>
-        <item>За 30 хвилин</item>
-        <item>За годину</item>
-        <item>За день</item>
+        <item>За фактом</item>
+        <item>За 1 хв.</item>
+        <item>За 5 хв.</item>
+        <item>За 10 хв.</item>
+        <item>За 15 хв.</item>
+        <item>За 20 хв.</item>
+        <item>За 25 хв.</item>
+        <item>За 30 хв.</item>
+        <item>За 45 хв.</item>
+        <item>За 1 год.</item>
+        <item>За 2 год.</item>
+        <item>За 3 год.</item>
+        <item>За 12 год.</item>
+        <item>За 24 год.</item>
         <item>За 2 дні</item>
-        <item>За тиждень</item>
+        <item>За 1 тиждень</item>
      </string-array>
      <string-array name="preferences_skip_reminders_labels">
         <item>Тільки при відмові</item>
@@ -226,16 +276,22 @@
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
-        <item>Не нагадувати</item>
-        <item>По факту</item>
-        <item>За 5 хвилин</item>
-        <item>За 10 хвилин</item>
-        <item>За 15 хвилин</item>
-        <item>За 30 хвилин</item>
-        <item>За годину</item>
-        <item>За день</item>
+        <item>За фактом</item>
+        <item>За 1 хв.</item>
+        <item>За 5 хв.</item>
+        <item>За 10 хв.</item>
+        <item>За 15 хв.</item>
+        <item>За 20 хв.</item>
+        <item>За 25 хв.</item>
+        <item>За 30 хв.</item>
+        <item>За 45 хв.</item>
+        <item>За 1 год.</item>
+        <item>За 2 год.</item>
+        <item>За 3 год.</item>
+        <item>За 12 год.</item>
+        <item>За 24 год.</item>
         <item>За 2 дні</item>
-        <item>За тиждень</item>
+        <item>За 1 тиждень</item>
      </string-array>
      <string-array name="repeat_by_nth_fri">
         <item>"кожну першу п\'ятницю"</item>

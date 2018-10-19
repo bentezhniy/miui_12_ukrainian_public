@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="add_to_album_cloud_photo_count_tip">
+     <plurals name="creation_max_image">
+        <item quantity="other">Оберіть до %d фото</item>
+        <item quantity="one">Оберіть до %d фото</item>
+     </plurals>
+	 <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
         <item quantity="one">Додано %d фото до Mi Cloud. Вимкніть функцію \"Тільки локальні альбоми\" для перегляду.</item>
      </plurals>

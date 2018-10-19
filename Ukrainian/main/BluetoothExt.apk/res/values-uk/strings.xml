@@ -42,4 +42,6 @@
     <string name="ftp_notif_connected">Передача файлів по Bluetooth на \"%1$s\"</string>
     <string name="map_notif_active_session">Активна сесія Bluetooth MAP</string>
     <string name="map_notif_connected">Доступ до повідомлень по Bluetooth на \"%1$s\"</string>
+	<string name="dun_notification_group">Мережа віддаленого доступу</string>
+    <string name="ftp_notification_group">FTP</string>
 </resources>

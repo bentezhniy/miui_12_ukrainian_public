@@ -5,4 +5,8 @@
         <item quantity="one">Виявлено %d обличчя</item>
         <item quantity="few">Виявлено %d обличчя</item>
     </plurals>
+	<plurals name="delete_selection">
+        <item quantity="other">Видалити обране?</item>
+        <item quantity="one">Видалити обране?</item>
+     </plurals>
 </resources>

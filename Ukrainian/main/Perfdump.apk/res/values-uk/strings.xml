@@ -67,4 +67,6 @@
      <string name="regulators">Регулятори</string>
      <string name="sync">Синхронізація</string>
      <string name="workq">Багатозадачність</string>
+	 <string name="action_other_log_setting">Інші налаштування журналів</string>
+     <string name="other_log_hint">Зберегти більше журналів з systrace</string>
 </resources>

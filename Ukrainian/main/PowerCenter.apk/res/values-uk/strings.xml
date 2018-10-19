@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ok">ОК</string>
+    <string name="auto_back_booster">Зупинити прискорення</string>
+    <string name="auto_booster_suc">Прискорення запущено</string>
+    <string name="battery_history_activity_title">Історія</string>
+    <string name="cpu_usage_android_system">Система Android</string>
+    <string name="enter_gamemode_tip">Запуск гри…</string>
+    <string name="firewall_network_allow">Для %1$s дозволено використовувати %2$s</string>
+    <string name="firewall_network_restrict_notify_mobile">Мобільний інтернет</string>
+    <string name="firewall_temp_rule_reason">Для %2$s заборонено використовувати %1$s</string>
+    <string name="firewall_wifi">Wi-Fi</string>
+    <string name="game_booster">Прискорення ігор</string>
+    <string name="gb_antimsg_summary">Не турбувати</string>
+    <string name="gb_description_image_button_answer">Відповісти</string>
+    <string name="gb_description_image_button_reject">Відхилити</string>
+    <string name="gb_net_summary">Оптимізація підключення</string>
+    <string name="gb_preformance_summary">Краща продуктивність для ігор</string>
+    <string name="pc_battery_history_show_imei">IMEI:</string>
+    <string name="uninstall_app_dialog_msg">При видаленні буде очищено усі дані</string>
+    <string name="uninstall_app_dialog_title">Видалити програму?</string>
+    <string name="uninstall_app_done">Видалено</string>
+	<string name="ok">ОК</string>
     <string name="cancel">Скасувати</string>
     <string name="hints_loading_text">Завантаження…</string>
     <string name="power_center_title">Батарея</string>

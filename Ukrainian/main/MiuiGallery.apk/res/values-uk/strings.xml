@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="added_to_favorites_desc">Додано в обрані</string>
+     <string name="collage_select_image_range">Колажі можуть складатися з 1-4 фото</string>
+     <string name="frame_not_support_image_ratio">Це співвідношення сторін не підтримується</string>
+     <string name="operation_produce">Творчій підхід</string>
+     <string name="photo_editor_crop_auto_tips">Кадровано автоматично</string>
+     <string name="photo_editor_frame">Рамка</string>
+     <string name="photo_movie_select_image_range">Кліпи можуть містити 3-6 фото</string>
+     <string name="select_image_operation">Додавання фото</string>
+     <string name="unsupport_video">%s не працює з відео</string>
+	 <string name="added_to_favorites_desc">Додано в обрані</string>
      <string name="card_delete_description">Видалити історію?</string>
      <string name="card_delete_negative_text">Скасувати</string>
      <string name="card_delete_positive_text">Видалити</string>

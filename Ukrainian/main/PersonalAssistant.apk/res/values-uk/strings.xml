@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	     <string name="app_setting_fail">Помилка інсталяції</string>
-     <string name="arr_airport">Прибуття в аеропорт</string>
+	 <string name="app_setting_fail">Помилка інсталяції</string>
+     <string name="card_banner_close_never">Більше не запитувати</string>
+     <string name="card_banner_close_tomorrow">Нагадати завтра</string>
+	 <string name="arr_airport">Прибуття в аеропорт</string>
      <string name="arr_airport_example">Приклад: Shanghai Pudong T2</string>
      <string name="arr_city">Прибуття в місто</string>
      <string name="arr_city_example">Приклад: Шанхай</string>

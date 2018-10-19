@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="device_manager_apply_step_1">Активувати адміністратора пристрою для цієї програми?</string>
+     <string name="gamebox_app_not_find">Спочатку інсталюйте програму</string>
+     <string name="gs_gamebox_slip">Проведіть по екрану донизу для запуску</string>
+     <string name="summary_rcs_switch">Спілкуйтеся з користувачами China Mobile без додаткових витрат</string>
+     <string name="title_rcs_switch">Увімкніть повідомлення China Mobile</string>
+	 <string name="device_manager_apply_step_1">Активувати адміністратора пристрою для цієї програми?</string>
      <string name="device_manager_apply_step_2">"Активація адміністратора пристрою для цієї програми може призвести до втрати особистих даних.
 Всі дані на Вашому пристрої можуть бути очищені, включно з паролем блокування екрана"</string>
      <string name="device_manager_apply_step_3">Перед тем, як продовжити, переконайтеся, що Ви усвідомлюєте можливі ризики. Активувати адміністратора пристрою для для цієї програми?</string>

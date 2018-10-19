@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="fps960_toast">Уповільнена зйомка почнеться, коли таймер досягне білої крапки</string>
+     <string name="camera_hdr_auto">Авто</string>
+     <string name="camera_hdr_off">Вимк</string>
+     <string name="camera_hdr_on">Увімк</string>
+     <string name="pref_hdr_indicator_entry_auto">Авто</string>
+     <string name="pref_hdr_indicator_entry_off">Вимк</string>
+     <string name="pref_hdr_indicator_entry_on">Увімк</string>
+	 <string name="fps960_toast">Уповільнена зйомка почнеться, коли таймер досягне білої крапки</string>
      <string name="module_name_new_slow_motion">Уповільнена зйомка</string>
      <string name="portrait_mode_use_hint_for_bokeh">Спробуйте портретний режим</string>
      <string name="pref_new_slow_motion_video_quality_240_720only">Ви можете записувати відео тільки у форматі 720P з частотою 240 кадрів на секунду</string>
