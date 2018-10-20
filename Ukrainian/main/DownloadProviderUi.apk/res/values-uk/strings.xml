@@ -126,7 +126,7 @@
      <string name="download_list_open_xl_title">Відкрити сервіс завантаження Xunlei</string>
      <string name="download_list_title_browser">Завантаження</string>
      <string name="download_no_application">Немає програм для відкриття цього типу файлу</string>
-     <string name="download_no_application_title">Не можу відкрити файл</string>
+     <string name="download_no_application_title">Немає програми для відкриття файлу</string>
      <string name="download_paused">Завантаження припинене</string>
      <string name="download_pending">Очікування завантаження</string>
      <string name="download_queued">У черзі</string>

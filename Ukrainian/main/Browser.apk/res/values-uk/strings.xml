@@ -52,7 +52,7 @@
      <string name="suggestion_clear_record_message">Підтвердити запис?</string>
      <string name="suggestion_hotwords_title_change_button_text">ЗМІНИТИ ЩЕ</string>
      <string name="suggestion_hotwords_title_text">Швидкий пошук</string>
-     <string name="suggestion_input_history_title_text">ВВЕДІТЬ ІСТОРІЮ</string>
+     <string name="suggestion_input_history_title_text">ОБЕРІТЬ З ІСТОРІЇ</string>
      <string name="suggestion_input_hitory_clear_text">ОЧИСТИТИ</string>
      <string name="suggestion_lottery_detail_pour">%s ЗАМІТКА</string>
      <string name="suggestion_lottery_detail_price">КОЖНА ЗАМІТКА %s ЮАНЬ</string>

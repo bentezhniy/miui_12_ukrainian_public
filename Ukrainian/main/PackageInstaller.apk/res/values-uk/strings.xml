@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
+     <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="bluetooth_active_no_battery_level">Активний</string>
+     <string name="bluetooth_battery_level">%1$s батареї</string>
+     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_hearing_aid_profile_summary_connected">Підключено до слухового апарату</string>
+     <string name="bluetooth_hearing_aid_profile_summary_use_for">Використовувати для слухового апарату</string>
+     <string name="bluetooth_hearingaid_left_battery_level">Лівий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_left_pairing_message">Сполучення лівого навушника…</string>
+     <string name="bluetooth_hearingaid_right_battery_level">Правий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_right_pairing_message">Сполучення правого навушника…</string>
+	 <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
      <string name="Parse_error_dlg_title">Синтаксична помилка</string>
      <string name="allow_source_dlg_text">%1$s прагне інсталювати інші програми.\n\nДозволити і запам\'ятати вибір?</string>
      <string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>

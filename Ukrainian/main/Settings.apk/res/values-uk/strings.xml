@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="dark_ui_mode">Нічний режим</string>
+     <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
+	 <string name="keyguard_vertical_clock_title">Вертикальний годинник</string>
+	 <string name="status_bar_settings_notification_use_app_icon">Іконки програм для сповіщень</string>
+     <string name="status_bar_settings_peek_notification_icon">Показувати іконки для сповіщень програм</string>
+	 <string name="abort_restore_confirm">Зупинити відновлення?</string>
+     <string name="alert_button_agree_and_continue">ОК</string>
+     <string name="alert_button_deny">Скасувати</string>
+     <string name="alert_message_backup_to_miasist">Mi PC Suite запитує дозвіл на створення бекапу на ПК. Дозволити?</string>
+     <string name="alert_message_restore_from_miasist">Mi PC Suite запитує дозвіл на відновлення бекапу з ПК. Дозволити?</string>
+     <string name="alert_miasist_occupy_backup">Створення бекапу за допомогою Mi PC Suite…</string>
+     <string name="alert_miasist_occupy_restore">Відновлення бекапу за допомогою Mi PC Suite…</string>
+     <string name="alert_phone_occupy_backup">Неможливо використовувати Mi PC Suite. Дочекайтеся завершення процесу і спробуйте ще раз</string>
+     <string name="alert_second_space_not_support_miasist">Неможливо використовувати Mi PC Suite в другому просторі. Перейдіть до першого</string>
+     <string name="alert_title_backup_to_miasist">Створити бекап за допомогою Mi PC Suite?</string>
+     <string name="alert_title_restore_from_miasist">Відновити бекап?</string>
+     <string name="backup_empty_info_onpad">Створюйте бекап для Ваших даних</string>
+     <string name="backup_hint_onpad">Не вимикайте пристрій</string>
+     <string name="backup_security_tips_message">Створення та відновлення бекапу може бути недоступне для деяких програм</string>
+     <string name="backup_security_tips_title">Попередження</string>
+     <string name="btn_got_it">ОК</string>
+     <string name="button_clean_garbage">Очищення</string>
+     <string name="button_got_it">ОК</string>
+     <string name="button_import">Імпорт</string>
+     <string name="button_quit">Вихід</string>
+     <string name="button_send">Надіслати</string>
+     <string name="cancel_moving_dialog_message">Зупинити імпорт?</string>
+     <string name="cancel_moving_dialog_title">Зупинка імпорту</string>
+     <string name="click_to_view">Натисніть для перегляду</string>
+     <string name="close_twice_auth_btn">Двоетапна аутентифікація</string>
+     <string name="close_twice_auth_note">"Примітка:
+Після створення нового питання безпеки і підтвердження Вашої дати народження функція двоетапної аутентифікації буде відключена. Якщо ви не бачите варіант відключення подвійної аутентифікації на сторінці акаунту Apple ID, Ви не можете відключити її."</string>
+     <string name="close_twice_auth_operation">"Доступ з ПК:
+https://appleid.apple.com/#!&amp;page=signin"</string>
+     <string name="close_twice_auth_step_1">1. Перейдіть на сторінку акаунту Apple ID</string>
+     <string name="close_twice_auth_step_2">2. В розділі безпеки натисніть \"Змінити\"</string>
+     <string name="close_twice_auth_step_3">3. Вимкніть двоетапну аутентифікацію</string>
+     <string name="close_twice_auth_steps">Вимкніть двоетапну аутентифікацію в такий спосіб:</string>
+     <string name="close_twice_auth_tutor">Вимкніть двоетапну аутентифікацію Apple ID</string>
+     <string name="comma_seperator">", "</string>
+	 <string name="status_bar_settings_expand_top_notification">Розгорнути перше сповіщення</string>
+	 <string name="dark_ui_mode">Нічний режим</string>
      <string name="dark_ui_mode_title">Нічний режим</string>
 	 <string name="emergency_sos_title">Екстренна допомога</string>
      <string name="mipush_fake_channel_group_name">Mi Push</string>

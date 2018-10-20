@@ -134,7 +134,7 @@
      <string name="screen_button_notification_text">Натисніть для увімкнення</string>
      <string name="screen_button_notification_title">Клавіші вимкнені</string>
      <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть клавіші \"Назад\"+\"Гучність +\"</string>
-     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Для вимкнення цієї функції натисніть клавішу збільшення гучності</string>
+     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Вимкніть цю функції клавішею Гучність +</string>
      <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину пристрою</string>
      <string name="screen_on_proximity_sensor_title">Запобігання випадковим натисканням</string>
      <string name="screen_paper_mode_enter_toast">Режим читання увімкнено. Ви можете вмикати й вимикати цю функцію в додаткових налаштуваннях.</string>

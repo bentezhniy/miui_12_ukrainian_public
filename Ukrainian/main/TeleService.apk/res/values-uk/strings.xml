@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN для розблокування корпоративної RUIM</string>
+     <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="bluetooth_active_no_battery_level">Активний</string>
+     <string name="bluetooth_battery_level">%1$s батареї</string>
+     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_hearing_aid_profile_summary_connected">Підключено до слухового апарату</string>
+     <string name="bluetooth_hearing_aid_profile_summary_use_for">Використовувати для слухового апарату</string>
+     <string name="bluetooth_hearingaid_left_battery_level">Лівий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_left_pairing_message">Сполучення лівого навушника…</string>
+     <string name="bluetooth_hearingaid_right_battery_level">Правий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_right_pairing_message">Сполучення правого навушника…</string>
+	 <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
+     <string name="bluetooth_show_devices_without_names">Показувати Bluetooth пристрої без імен</string>
+     <string name="bluetooth_show_devices_without_names_summary">Bluetooth пристрої без імен (лише MAC адреси) відображатимуться</string>
+     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+     <string name="bluetooth_talkback_computer">ПК</string>
+     <string name="bluetooth_talkback_headphone">Навушники</string>
+     <string name="bluetooth_talkback_headset">Гарнітура</string>
+     <string name="bluetooth_talkback_imaging">Зображення</string>
+     <string name="bluetooth_talkback_input_peripheral">Периферійні пристрої</string>
+     <string name="bluetooth_talkback_phone">Телефон</string>
+	 <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN для розблокування корпоративної RUIM</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Запит на розблокування корпоративної RUIM…</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK успішно розблоковано</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">PUK успішно розблоковано</string>

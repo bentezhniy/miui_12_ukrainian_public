@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="bluetooth_active_no_battery_level">Активний</string>
+     <string name="bluetooth_battery_level">%1$s батареї</string>
+     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
+     <string name="bluetooth_hearing_aid_profile_summary_connected">Підключено до слухового апарату</string>
+     <string name="bluetooth_hearing_aid_profile_summary_use_for">Використовувати для слухового апарату</string>
+     <string name="bluetooth_hearingaid_left_battery_level">Лівий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_left_pairing_message">Сполучення лівого навушника…</string>
+     <string name="bluetooth_hearingaid_right_battery_level">Правий - %1$s батарея</string>
+     <string name="bluetooth_hearingaid_right_pairing_message">Сполучення правого навушника…</string>
+	 <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
+     <string name="bluetooth_show_devices_without_names">Показувати Bluetooth пристрої без імен</string>
+     <string name="bluetooth_show_devices_without_names_summary">Bluetooth пристрої без імен (лише MAC адреси) відображатимуться</string>
+     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+     <string name="bluetooth_talkback_computer">ПК</string>
+     <string name="bluetooth_talkback_headphone">Навушники</string>
+     <string name="bluetooth_talkback_headset">Гарнітура</string>
+     <string name="bluetooth_talkback_imaging">Зображення</string>
+     <string name="bluetooth_talkback_input_peripheral">Периферійні пристрої</string>
+     <string name="bluetooth_talkback_phone">Телефон</string>
 	 <string name="lock_screen_carrier_airplane_mode_on">Режим польоту</string>
      <string name="lock_screen_no_sim_card_emergency_only">SOS</string>
      <string name="lock_screen_no_sim_card_no_service">Немає мережі</string>
      <string name="notch_sos_status_bar_title">SOS</string>
-     <string name="quick_settings_toast_drag_to_enable_custom_tile">Щоб додати елемент, натисніть і утримуйте його, а потім перетягніть його в верхню частину панелі.</string>
+     <string name="quick_settings_toast_drag_to_enable_custom_tile">Щоб додати елемент, натисніть і утримуйте його, а потім перетягніть його в верхню частину панелі</string>
      <string name="sos_status_bar_summary">Натисніть для виходу</string>
      <string name="sos_status_bar_title">SOS</string>
      <string name="torch_high_temperature_warning">Неможливо увімкнути ліхтарик. Пристрій перегрітий.</string>
