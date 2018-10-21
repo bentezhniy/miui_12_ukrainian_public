@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="gamebox_app_not_find">Спочатку інсталюйте програму</string>
+     <string name="card_main_deepclean_whatsapp_title">Очищення WA</string>
+	 <string name="gamebox_app_not_find">Спочатку інсталюйте програму</string>
      <string name="gs_gamebox_slip">Проведіть по екрану донизу для запуску</string>
      <string name="summary_rcs_switch">Спілкуйтеся з користувачами China Mobile без додаткових витрат</string>
      <string name="title_rcs_switch">Увімкніть повідомлення China Mobile</string>
@@ -490,7 +491,7 @@
      <string name="auto_task_condition_time_text">О %s</string>
      <string name="auto_task_dialog_button_close">Готово</string>
      <string name="auto_task_edit_abandon_change">Скасувати зміни?</string>
-     <string name="auto_task_edit_activity_title">Автоматизація дій</string>
+     <string name="auto_task_edit_activity_title">Автоматизація</string>
      <string name="auto_task_edit_adandon_button_text">ОК</string>
      <string name="auto_task_edit_choose_condition_title">Умова</string>
      <string name="auto_task_edit_choose_new_operation">Додати дію</string>
@@ -503,11 +504,11 @@
      <string name="auto_task_edit_step2">2.</string>
      <string name="auto_task_edit_task_name">"Ім'я"</string>
      <string name="auto_task_main_summary">Зміна налаштувань системи для певного періоду часу або залежно від рівня заряду батареї</string>
-     <string name="auto_task_main_title">Автоматизація дій</string>
+     <string name="auto_task_main_title">Автоматизація</string>
      <string name="auto_task_mamange_activity_title">Автоматизація</string>
      <string name="auto_task_manage_delete_prompt">Видалити дії?</string>
      <string name="auto_task_manage_new_task">Нова дія</string>
-     <string name="auto_task_manager_group_title">Автоматизація дій</string>
+     <string name="auto_task_manager_group_title">Автоматизація</string>
      <string name="auto_task_notify_do_task_title">Дію запущено</string>
      <string name="auto_task_notify_exit_task_title">Дію завершено</string>
      <string name="auto_task_notify_task_cancel_count_down">Дію буде зупинено через через 5 секунд</string>
