@@ -119,7 +119,7 @@
      <string name="save_finish_with_failing_items">Імпорт перервано. Деякі дані було імпортовано, інші вимагають повторного імпорту</string>
      <string name="saving_data">Імпорт даних з iCloud. Не вимикайте Wi-Fi мережу</string>
      <string name="saving_data_no_time">Відновлення даних</string>
-     <string name="saving_data_space_low">Недостатньо пам'яті. Звільніть %s</string>
+     <string name="saving_data_space_low">Недостатньо пам\'яті. Звільніть %s</string>
      <string name="select_empty">Оберіть елементи для імпорту</string>
      <string name="select_item_calendar">Календар</string>
      <string name="select_item_contacts">Контакти</string>
