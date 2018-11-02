@@ -1,7 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="connect_wifi">Підключіть Wi-Fi</string>
+     <string name="trans_intro_desc_9_method_1_dec">Перейдіть на Робочий стіл > Інструменти > Звіти</string>
+     <string name="trans_intro_desc_9_method_1_title">1. Надішліть звіт</string>
+     <string name="trans_intro_desc_9_method_2_dec">Надішліть свій звіт на пошту miui-mover@xiaomi.com.</string>
+     <string name="trans_intro_desc_9_method_2_title">2. Надішліть нам Email</string>
+     <string name="trans_intro_desc_9_method_3_dec">Група Mi Mover у QQ: 687338378</string>
+     <string name="trans_intro_desc_9_method_3_title">3. Повідомте про проблеми у QQ</string>
+     <string name="trans_intro_desc_account">З міркувань безпеки Вам необхідно знову увійти до облікового запису на новому пристрій</string>
+     <string name="trans_intro_desc_multiapp">Mi Mover не може передати дані клонованих програм, щоб уникнути конфліктів між файлами</string>
+     <string name="trans_intro_desc_multiuser">Mi Mover не може отримати доступ до елементів у другому просторі. Перемістіть їх до першого простору</string>
+     <string name="trans_intro_desc_new">Натисніть \"Отримати\". Буде створено QR-код для сканування</string>
+     <string name="trans_intro_desc_old">Натисніть \"Надіслати\". Відскануйте QR-код на новому пристрої та дочекайтеся передачі файлів</string>
+     <string name="trans_intro_desc_old_market">Натисніть \"Почати\". Відскануйте QR-код на новому пристрої і дочекайтеся, поки Mi Mover визначить, які файли можна надіслати, потім натисніть \"Надіслати\"</string>
+     <string name="trans_intro_desc_private">Mi Mover не може отримати доступ до фото у приватному альбомі, оскільки вони зашифровані. Ви можете відновити ці фото за допомогою Mi Cloud на новому пристрої</string>
+     <string name="trans_intro_question_1">%d. Як передати дані з Apple пристроїв?</string>
+     <string name="trans_intro_question_2">%d. Як передати дані з Android пристроїв?</string>
+     <string name="trans_intro_question_3">%d. Чому я не можу використовувати Wi-Fi під час передачі?</string>
+     <string name="trans_intro_question_4">%d. Чому Mi Mover вказує, що на моєму старому пристрої недостатньо місця?</string>
+     <string name="trans_intro_question_5">%d. Чому деякі програми не передаються?</string>
+     <string name="trans_intro_question_6">%d. Чому деякі програми не запускаються на новому пристрої?</string>
+     <string name="trans_intro_question_7">%d. Чому історія WeChat не передається повністю?</string>
+     <string name="trans_intro_question_8">%d. Що робити, якщо Mi Mover не відповідає?</string>
+     <string name="trans_intro_question_9">%d. Які дані не можуть бути передані?</string>
+     <string name="trans_intro_question_9_market">%d. Звіти</string>
+     <string name="trans_intro_title">Допомога</string>
+     <string name="trans_intro_title_account">Акаунти і паролі:</string>
+     <string name="trans_intro_title_multiapp">Дані клонованих програм:</string>
+     <string name="trans_intro_title_multiuser">Дані програм другого простору:</string>
+     <string name="trans_intro_title_new">На новому пристрої:</string>
+     <string name="trans_intro_title_old">На старому пристрої:</string>
+     <string name="trans_intro_title_private">Приватний альбом:</string>
+     <string name="trans_main_tutor">Передача контактів, викликів, повідомлень, налаштувань, програм та інших даних зі старого пристрою на новий</string>
+     <string name="trans_my_device">Мій пристрій</string>
+     <string name="trans_native_no_space">"На пристрої недостатньо пам'яті.
+Необхідно %s"</string>
+     <string name="trans_old_phone_low_space_msg">"Недостатньо пам'яті для передачі файлів"</string>
+     <string name="trans_old_phone_low_space_title">"Пам'ять заповнена"</string>
+     <string name="trans_one_key_migrate">Mi Mover</string>
+     <string name="trans_open_camera_failed_message">Перезавантажте пристрій або перевірте, дозволений чи доступ до камери для Mi Mover</string>
+     <string name="trans_open_camera_failed_title">Чи не вдається підключитися до камері</string>
+     <string name="trans_open_location_button">Включити</string>
+     <string name="trans_open_location_message">Увімкніть визначення місця розташування, щоб отримати список доступних мереж Wi-Fi.</string>
+     <string name="trans_open_location_title">Увімкніть місце розташування</string>
+     <string name="trans_operate_func_one">Спосіб A</string>
+     <string name="trans_operate_func_two">Спосіб B</string>
+     <string name="trans_operate_new_phone_tips">Запустіть \"Mi Mover\" на новому пристрої і натисніть кнопку \"Отримати\" для створення QR-коду</string>
+     <string name="trans_operate_old_phone_tips1">"
+Запустіть \"Mi Mover на старому пристрої та натисніть кнопку \"Надіслати\" для сканування QR-коду"</string>
+     <string name="trans_operate_old_phone_tips2">"
+1. Інсталюйте програму \"Mi Mover\" на старий пристрій.
+2. Відкрийте його і натисніть кнопку \"Надіслати\"
+3. Відскануйте QR-код зі старого пристрою"</string>
+     <string name="trans_operate_reconnect_new_tips">"Дочекайтеся на новому пристрої напису \"Пристрій вимкнено\".
+Потім натисніть [Повтор], щоб створити QR-код"</string>
+     <string name="trans_operate_reconnect_old_tips">"Дочекайтеся у старому пристрої напису \"Пристрій вимкнено\".
+Потім натисніть [Повтор], щоб відсканувати QR-код"</string>
+     <string name="trans_operate_tip_for_other_android">Запустіть Mi Mover у старому пристрої, натисніть \"Почати\" і відскануйте QR-код.</string>
+     <string name="trans_pausing">Пауза…</string>
+     <string name="trans_please_waiting">Завантаження…</string>
+     <string name="trans_progress_subdescript_br_receiver">Відновлення \"%1$s\" | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_br_sender">Створення бекапу \"%1$s\" | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_br_sender_finish">Бекап %s, очікування надсилання…</string>
+     <string name="trans_progress_subdescript_transing_receiver">Отримання \"%1$s\" | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_transing_receiver_finish">Отримано %s, очікування відновлення…</string>
+     <string name="trans_progress_subdescript_transing_sender">Надсилання \"%1$s\" | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Отримання файлів | Завершено: %s</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Надсилання файлів | Завершено: %s</string>
+     <string name="trans_progress_subdescript_transingsddata_receiver">Отримання %1$s | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_transingsddata_sender">Надсилання %1$s | Завершено: %2$s</string>
+     <string name="trans_progress_subdescript_waiting">Очікування отримання \"%s\"</string>
+     <string name="trans_receiver">Отримати</string>
+     <string name="trans_receiver_time_remained">"Лишилося: %s.
+Забороняється відключати точку доступу Wi-Fi"</string>
+     <string name="trans_receiving_completed">Файли отримано</string>
+     <string name="trans_restoring">Відновлення…</string>
+     <string name="trans_restoring_no_items">Синхронізація даних…</string>
+     <string name="trans_retry">Повтор</string>
+     <string name="trans_scan_invalid_qrcode">Хибний QR-код</string>
+     <string name="trans_scan_qr_code_tips">Відскануйте QR-код з нового пристрою</string>
+     <string name="trans_security_tips_message">Деякі програми не підтримують передачу через Mi Mover</string>
+     <string name="trans_security_tips_title">Попередження</string>
+     <string name="trans_select_data">Оберіть дані</string>
+     <string name="trans_select_data_no_space">"Вільно %s на новому пристрої.
+ 
+Оберіть інші файли або звільніть пам'ять"</string>
+     <string name="trans_select_data_tips">"Оберіть файли для надсилання.
+ 
+Схожі файли на пристрої буде перезаписано"</string>
+     <string name="trans_select_data_too_large">"Розмір даних занадто великий, що призведе до більш довгої передачі.
+Рекомендується передавати тільки важливі дані"</string>
+     <string name="trans_select_device_receive">Оберіть пристрій</string>
+     <string name="trans_select_device_send">Оберіть пристрій</string>
+     <string name="trans_select_notification_message">Натисніть для перегляду</string>
+     <string name="trans_select_notification_title">Mi Mover запущено…</string>
+     <string name="trans_sender">Надіслати</string>
+     <string name="trans_sender_connectting">Очікування підтвердження…</string>
+     <string name="trans_sender_searching">Пошук пристрою…</string>
+     <string name="trans_sender_searching_ensurance">Переконайтеся, що на пристрої запущено Mi Mover</string>
+     <string name="trans_sender_time_remained">"Лишилося: %s.
+Забороняється відключати Wi-Fi мережу"</string>
+     <string name="trans_sending_completed">Надсилання завершене</string>
+     <string name="trans_show_qr_code_label">Підключення старого пристрою</string>
+     <string name="trans_show_qr_code_tips">Скануйте QR-код зі старого пристрою</string>
+     <string name="trans_start_failed_message">Повторіть спробу або перезавантажте пристрій</string>
+     <string name="trans_start_failed_title">Помилка запуску</string>
+     <string name="trans_success_dialog_button_market_comment">Відгук</string>
+     <string name="trans_success_dialog_button_market_favourable_comment">Оцінити Mi Mover</string>
+     <string name="trans_success_dialog_button_survey">Опитування</string>
+     <string name="trans_success_dialog_market_comment_and_survey_title">Напишіть відгук про Mi Mover</string>
+     <string name="trans_success_dialog_market_comment_title">"Тепер Ваш новий пристрій готовий до користування.
+Вам сподобався Mi Mover?"</string>
+     <string name="trans_success_dialog_survey_title">Ми цінуємо Вашу думку</string>
+     <string name="trans_success_survey_hint">Потрібно заповнити усі поля</string>
+     <string name="trans_switching_5g">Перемикання на Wi-Fi 5 ГГц…</string>
+     <string name="trans_time_format_second">Менше хвилини</string>
+     <string name="trans_time_spent">"
+Час відправки: %s"</string>
+     <string name="trans_wait_trans_data">Підключено до старого пристрою. Очікування надсилання…</string>
+     <string name="trans_waiting_ensurance">Переконайтеся, що на пристрої запущено Mi Mover</string>
+     <string name="trans_waiting_for_sender">Очікування підключення пристрою…</string>
+     <string name="trans_wlan_tips_message">Не вимикайте Wi-Fi мережу під час передачі, щоб уникнути помилок</string>
+     <string name="trans_wlan_tips_title">Не вимикайте Wi-Fi</string>
+     <string name="usb_backup_select_data_too_large">"Обрані файли занадто великі. Переконайтеся, що на USB-накопичувачі досить місця.
+Передавайте лише важливі файли"</string>
+     <string name="usb_restore_select_data_too_large">"Файли бекапу занадто великі. Вони можуть відновлюватися тривалий час.
+Відновлюйте тільки важливі файли"</string>
+     <string name="usb_trans_native_no_space">"На пристрої доступно лише %s.
+Рекомендується звільнити більше місця"</string>
+     <string name="usb_trans_old_phone_low_space_msg">Недостатньо місця для продовження передачі. Ви можете звільнити місце або передати лише важливі файли</string>
+     <string name="usb_trans_old_phone_low_space_title">"Недостатньо пам'яті"</string>
+     <string name="usb_trans_select_data_no_space">"На пристрої доступно лише %s.
+Ви можете звільнити місце або передати тільки важливі файли."</string>
+     <string name="user_name">Apple ID або Email</string>
+     <string name="user_name_null">"Введіть ім'я користувача"</string>
+     <string name="user_notice_declaration_ignore">"Запам'ятати"</string>
+     <string name="user_notice_message">Для роботи деяких функцій потрібне підключення до інтернету</string>
+     <string name="user_notice_title">Попередження</string>
+     <string name="view_password_description">Показати пароль</string>
+     <string name="xiaomi_bytes_unit">%1$s Б</string>
+     <string name="xiaomi_connect_download_manager_fail">Помилка завантаження</string>
+     <string name="xiaomi_external_storage_unavailable">"Зовнішня пам'ять недоступна"</string>
+     <string name="xiaomi_kilobytes_unit">%1$s кБ</string>
+     <string name="xiaomi_megabytes_unit">%1$s МБ</string>
+     <string name="xiaomi_update_dialog_message">"Нова версія: %1$s
+Розмір: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s
+Розмір оновлення: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Доступна нова версія</string>
+     <string name="SMS_and_MMS">SMS та MMS</string>
+     <string name="about_autostart">Про автозапуск</string>
+     <string name="activity_title_apps_manager">Програми</string>
+     <string name="activity_title_auto_start_manager">Автозапуск</string>
+     <string name="activity_title_permission_manager">Дозволи</string>
+     <string name="activity_title_permissions_manager">Дозволи</string>
+     <string name="button_text_known">ОК</string>
+     <string name="call_and_contact">Виклики та контакти</string>
+     <string name="camera_front">Фронтальна  %s</string>
+     <string name="camera_rear">Задня  %s</string>
+     <string name="confirm_prompt_all_permission">Запитати дозволу для всіх програм?</string>
+     <string name="confirm_reject_all_permission">Заборонити всім програмам використовувати цю функцію?</string>
+     <string name="dangerous_option_switch_title">Повідомляти про функції з високим ризиком</string>
+     <string name="device_camera">Камера</string>
+     <string name="dialog_msg_auto_start_declare">Деякі програми можуть працювати у фоновому режимі некоректно без автозапуску. Ви можете додавати необхідні програми до списку автозапуску вручну</string>
+     <string name="dialog_title_auto_start_declare">Інформація про автозапуск</string>
+     <string name="empty_title_auto_start_list">Немає програм з автозапуском</string>
+     <string name="empty_title_perm_apps">Немає програм з дозволами</string>
+     <string name="empty_title_permission_apps_list">Немає програм</string>
+     <string name="game_mode_cta_dialog_agree">Погодитися</string>
+     <string name="game_mode_cta_dialog_cancel">Скасувати</string>
+     <string name="game_mode_cta_dialog_message">Для роботи прискорення ігор необхідно підключення до інтернету</string>
+     <string name="game_mode_cta_dialog_title">Потрібен дозвіл</string>
+     <string name="game_mode_summary">Краща продуктивність для ігор</string>
+     <string name="hide_system_app">Приховати системні програми</string>
+     <string name="info_and_call">Виклики та повідомлення</string>
+     <string name="ok">ОК</string>
+     <string name="old_sdk_deny_warning">Програма може бути несумісна з поточною версією Android</string>
+     <string name="permission_action_accept">Дозволити</string>
+     <string name="permission_action_prompt">Із запитом</string>
+     <string name="permission_action_reject">Заборонити</string>
+     <string name="permission_permission_control_closed_desc_dialog_msg">Програми не будуть запитувати дозволу на доступ до Ваших даних та функцій пристрою. Ви можете активувати керування дозволами у налаштуваннях безпеки</string>
+     <string name="permission_permission_control_closed_desc_dialog_title">Керування дозволами вимкнено</string>
+     <string name="permission_with_SMS_and_MMS">Доступ до SMS та MMS</string>
+     <string name="permission_with_call_and_contact">Доступ до контактів та викликів</string>
+     <string name="pm_auto_start_by_other">Сторонній запуск</string>
+     <string name="pm_auto_start_by_other_app">Запускати іншими програмами</string>
+     <string name="pm_auto_start_by_system">Системний запуск</string>
+     <string name="pm_auto_start_by_system_event">Запускати програму автоматично</string>
+     <string name="pm_auto_start_proc_is_running">Запущено</string>
+     <string name="prompt_all">Запитувати завжди</string>
+     <string name="reject_all">Заборонити</string>
+     <string name="show_system_app">Показати системні програми</string>
+     <string name="status_bar_settings_peek_notification_icon">Показувати іконки повідомлень</string>
+	 <string name="connect_wifi">Підключіть Wi-Fi</string>
      <string name="connect_wifi_tip">Інтернет недоступний. Для імпорту даних з iCloud необхідне підключення до Wi-Fi</string>
      <string name="current_pad_location">Планшет</string>
      <string name="data_detail_description">Інформація</string>
