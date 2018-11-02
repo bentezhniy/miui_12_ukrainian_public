@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="camera_hdr_auto">Авто</string>
+     <string name="portrait_india_effect_entry_memory">"Пам'ять"</string>
+     <string name="portrait_india_effect_entry_mono">Моно</string>
+     <string name="portrait_india_effect_entry_pink">Рожево</string>
+     <string name="portrait_india_effect_entry_portrait">Портрет</string>
+     <string name="portrait_india_effect_entry_retro">Ретро</string>
+     <string name="portrait_india_effect_entry_romantic">Романтика</string>
+     <string name="portrait_india_effect_entry_strong">Сила</string>
+     <string name="portrait_india_effect_entry_sunny">Сонячно</string>
+     <string name="portrait_india_effect_entry_sweet">Милість</string>
+     <string name="portrait_india_effect_entry_warm">Тепло</string>
+     <string name="portrait_india_effect_entry_young">Молодість</string>
+	 <string name="camera_hdr_auto">Авто</string>
      <string name="camera_hdr_off">Вимк</string>
      <string name="camera_hdr_on">Увімк</string>
      <string name="pref_hdr_indicator_entry_auto">Авто</string>

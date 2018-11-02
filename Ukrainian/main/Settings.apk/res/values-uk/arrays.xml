@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>	
-    <string-array name="dark_ui_mode_entries">
+    <string-array name="keyguard_notification_status_entries">
+        <item>Увімкнути екран</item>
+        <item>Показати анімацію</item>
+        <item>Не вмикати екран</item>
+     </string-array>
+	<string-array name="dark_ui_mode_entries">
         <item>Автоматичний (залежно від часу доби)</item>
         <item>Завжди увімкнено</item>
         <item>Завжди вимкнено</item>

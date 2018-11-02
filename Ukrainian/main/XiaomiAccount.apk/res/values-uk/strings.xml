@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-      <string name="account_invalid_user_avatar">Неприпустиме фото</string>
+     <string name="passport_input_phone_password">Введіть пароль для телефону %s</string>
+     <string name="passport_international_register_by_email">Реєстрація по Email</string>
+     <string name="passport_sms_verification_code_login_or_register">Увійти або зареєструватися по SMS</string>
+	 <string name="account_invalid_user_avatar">Неприпустиме фото</string>
      <string name="about_device_info">Про пристрій</string>
      <string name="access_denied">Доступ заборонено</string>
      <string name="access_token_expired_warning">Термін дії акаунту Weibo закінчився</string>

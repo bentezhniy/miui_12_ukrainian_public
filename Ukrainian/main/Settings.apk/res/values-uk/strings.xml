@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="trans_intro_desc_9_method_1_dec">Перейдіть на Робочий стіл > Інструменти > Звіти</string>
+     <string name="bootloader_tips">Після додавання Mi акаунту не виходьте з нього. Після скидання налаштувань треба знову увійти до акаунту, щоб розблокувати пристрій</string>
+     <string name="bootloader_tips_ok">ОК</string>
+     <string name="call_records_name_1">Петро</string>
+     <string name="call_records_name_2">Анджей</string>
+     <string name="call_records_name_3">Хіларі</string>
+     <string name="call_records_summary_1">9:35 | 26 сек. | Київ</string>
+     <string name="call_records_summary_2">24 серпня | 1 хв. 16 сек. | Варшава</string>
+     <string name="call_records_summary_3">16 серпня | 2 хв. 24 сек. | Вашингтон</string>
+     <string name="keyguard_notification_status_title">Сповіщення</string>
+     <string name="launcher_icon">Іконки</string>
+     <string name="page_layout_34">Телефон</string>
+     <string name="page_layout_35">Нотатки</string>
+     <string name="words_title">Текст</string>
+	 <string name="trans_intro_desc_9_method_1_dec">Перейдіть на Робочий стіл > Інструменти > Звіти</string>
      <string name="trans_intro_desc_9_method_1_title">1. Надішліть звіт</string>
      <string name="trans_intro_desc_9_method_2_dec">Надішліть свій звіт на пошту miui-mover@xiaomi.com.</string>
      <string name="trans_intro_desc_9_method_2_title">2. Надішліть нам Email</string>
