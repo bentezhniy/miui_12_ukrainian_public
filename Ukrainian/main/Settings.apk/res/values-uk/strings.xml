@@ -204,7 +204,6 @@
      <string name="prompt_all">Запитувати завжди</string>
      <string name="reject_all">Заборонити</string>
      <string name="show_system_app">Показати системні програми</string>
-     <string name="status_bar_settings_peek_notification_icon">Показувати іконки повідомлень</string>
 	 <string name="connect_wifi">Підключіть Wi-Fi</string>
      <string name="connect_wifi_tip">Інтернет недоступний. Для імпорту даних з iCloud необхідне підключення до Wi-Fi</string>
      <string name="current_pad_location">Планшет</string>
