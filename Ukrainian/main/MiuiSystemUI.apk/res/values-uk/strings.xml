@@ -1982,4 +1982,8 @@
      <string name="zen_priority_introduction">Вас не будуть турбувати звуки та вібрація, крім від будильників, нагадувань, подій та дзвінків від вказаних користувачів. Ви все ще будете чути все, що Ви захочете під час гри, включаючи музику, відео та ігри</string>
      <string name="zen_silence_introduction">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор</string>
      <string name="zen_silence_introduction_voice">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор. Ви все ще зможете робити телефонні дзвінки</string>
+     <string name="enable_atrace">Увімкнути ATrace</string>
+     <string name="enable_atrace_summary">Запис подій ядра з використанням ATracee</string>
+     <string name="structure_face_unlock_tof_covered">Не вдається додати дані обличчя. Тримайте телефон подалі від обличчя.</string>
+     <string name="download_lock_wallpaper">Натисніть двічі для завантаження щоденних шпалер</string>
 </resources>
