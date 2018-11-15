@@ -215,5 +215,6 @@
      <string name="user_switching_dialog_text">Перемикання…</string>
      <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>
+     <string name="xspace_head">Клонована програма</string>
      <string name="xspace_resolver_activity_title">Оберіть програму</string>
 </resources>
