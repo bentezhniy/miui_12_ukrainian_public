@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Провайдер кроків</string>
-    <string name="permstep_label">Зчитування кроків</string>
-    <string name="permstep_description">Дозволяє програмі зчитувати інформацію про кроки</string>
-	<string name="action_settings">Налаштування</string>
+     <string name="action_settings">Налаштування</string>
      <string name="activity_title_fakecell">Захист від підроблених мереж</string>
+     <string name="app_name">Провайдер кроків</string>
      <string name="detect_fakecell">Розпізнавання SMS від підроблених мереж</string>
      <string name="forbidden_fakecell">Захист від підроблених мереж</string>
      <string name="forbidden_fakecell_summary">Запобігати підключенню телефону до підроблених мереж</string>
+     <string name="foreground_text">Використовуйте сервіс, щоб збільшити пріоритет.</string>
+     <string name="foreground_title">Отримання</string>
      <string name="hello_world">Привіт, світ!</string>
+     <string name="joyose_name">Joyose</string>
+     <string name="lab_switch_server">Перемикання серверів</string>
      <string name="not_support_forbidden_fakecell">Пристрій не підтримує захист від підроблених мереж на апаратному рівні</string>
+     <string name="permstep_description">Дозволяє програмі зчитувати інформацію про кроки</string>
+     <string name="permstep_label">Зчитування кроків</string>
      <string name="restart_details">Перезавантажити пристрій для застосування?</string>
      <string name="restart_later">Пізніше</string>
      <string name="restart_now">ОК</string>
      <string name="support_forbidden_fakecell">Запобігання підключень до підробленим мереж може вплинути на рівень сигналу</string>
-	 <string name="foreground_text">Використовуйте сервіс, щоб збільшити пріоритет.</string>
-     <string name="foreground_title">Отримання</string>
-     <string name="lab_switch_server">Перемикання серверів</string>
      <string name="switch_international">Перемкнутися на міжнародний сервер</string>
      <string name="switch_to_official">Перемкнутися на офіційний сервер</string>
      <string name="switch_to_staging">Перемкнутися на тестовий сервер</string>
