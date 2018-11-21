@@ -772,7 +772,7 @@
      <string name="expand_desc">Ще</string>
      <string name="expand_people">Показать інші обличчя</string>
      <string name="exposure_time">Витримка</string>
-     <string name="ext_sdcard_first_entrance_request_failed_text">Ви можете вибрати місце для зберігання фото й відео в налаштуваннях пам'яті</string>
+     <string name="ext_sdcard_first_entrance_request_failed_text">Ви можете вибрати місце для зберігання фото й відео в налаштуваннях пам\'яті</string>
      <string name="ext_sdcard_first_entrance_request_failed_title">Не вдається отримати дозволи</string>
      <string name="ext_sdcard_guide_first_page_button_text">Далі</string>
      <string name="ext_sdcard_guide_last_page_button_text">Потрібні дозволи</string>
