@@ -199,7 +199,7 @@
      <string name="development_settings_title">Для розробників</string>
      <string name="dial_conference_fail_prompt">Неможливо набрати конференцію напряму. Поточна мережа не підтримує VoLTE.</string>
      <string name="dial_vt_fail_prompt">Поточна мережа не підтримує VoLTE. Здійснити звичайний виклик?</string>
-     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цей додаток після перезавантаження, спершу потрібно буде розблокувати телефон</string>
+     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цю програму після перезавантаження, спершу потрібно буде розблокувати телефон</string>
      <string name="disable_overlays">Вимкнути накладення</string>
      <string name="disable_overlays_summary">Завжди використовувати GPU для відтворення екрану</string>
      <string name="disabled">Вимкнено</string>
@@ -352,7 +352,7 @@
      <string name="show_hw_screen_updates_summary">Показати дані у вікнах під час промальовування з GPU</string>
      <string name="show_non_rect_clip">Налагодження непрямокутного перетину</string>
      <string name="show_notification_channel_warnings">Показувати застереження про канал</string>
-     <string name="show_notification_channel_warnings_summary">З’являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
+     <string name="show_notification_channel_warnings_summary">"З’являється застереження, коли програма надсилає сповіщення через недійсний канал"</string>
      <string name="show_screen_updates">Оновлення екрану</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>

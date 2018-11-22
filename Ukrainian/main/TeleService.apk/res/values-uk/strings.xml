@@ -741,7 +741,7 @@
      <string name="dialpad_two">2</string>
      <string name="dialpad_wxyz">ЬЮЯ</string>
      <string name="dialpad_zero">0</string>
-     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цей додаток після перезавантаження, спершу потрібно буде розблокувати телефон</string>
+     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цю програму після перезавантаження, спершу потрібно буде розблокувати телефон</string>
      <string name="disable">Вимкнути</string>
      <string name="disable_all_cf">Вимкнути всі переадресації</string>
      <string name="disable_cfb_forbidden">Ваш оператор не підтримує вимкнення переадресації дзвінків, якщо телефон зайнятий</string>
@@ -2055,7 +2055,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="show_hw_screen_updates_summary">Показувати дані у вікнах під час малювання з GPU</string>
      <string name="show_non_rect_clip">Налагодження непрямокутного перетину</string>
      <string name="show_notification_channel_warnings">Показувати застереження про канал</string>
-     <string name="show_notification_channel_warnings_summary">З’являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
+     <string name="show_notification_channel_warnings_summary">"З’являється застереження, коли програма надсилає сповіщення через недійсний канал"</string>
      <string name="show_screen_updates">Оновлення екрану</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>
