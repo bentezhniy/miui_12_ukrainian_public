@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="mi_pay_indonesia">Akun Mi Pay</string>
+     <string name="accessibility_vibration_intensity_high">Високий</string>
+     <string name="accessibility_vibration_intensity_low">Низький</string>
+     <string name="accessibility_vibration_intensity_medium">Середній</string>
+     <string name="accessibility_vibration_intensity_off">Вимкнено</string>
+	 <string name="date_time_24hour_auto">Автоматичний 24-годинний формат</string>
+	 <string name="date_time_24hour_auto_summary">Використовувати локальний формат часу</string>
+	 <string name="mi_pay_indonesia">Akun Mi Pay</string>
 	 <string name="bootloader_tips">Після додавання Mi акаунту не виходьте з нього. Після скидання налаштувань треба знову увійти до акаунту, щоб розблокувати пристрій</string>
      <string name="bootloader_tips_ok">ОК</string>
      <string name="call_records_name_1">Петро</string>
