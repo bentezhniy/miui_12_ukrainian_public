@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="passport_input_phone_password">Введіть пароль для телефону %s</string>
+     <string name="collect_diagnosis_log">Збір звітів діагностики</string>
+     <string name="diagnosis_log_send_failed">Неможливо надіслати звіт діагностики</string>
+     <string name="diagnosis_log_sent_format">"Звіт про діагностику надіслано.
+ID:%s
+Надішліть цей код технічному спеціалісту"</string>
+     <string name="for_diagnosis_usage_only">Використовуйте цю інформацію лише для діагностики</string>
+     <string name="ok">ОК</string>
+     <string name="send_diagnosis_log">Надсилання звіту діагностики</string>
+     <string name="sending">Надсилання</string>
+     <string name="temporary_not_available">Тимчасово недоступно</string>
+	 <string name="passport_input_phone_password">Введіть пароль для телефону %s</string>
      <string name="passport_international_register_by_email">Реєстрація по Email</string>
      <string name="passport_sms_verification_code_login_or_register">Увійти або зареєструватися по SMS</string>
 	 <string name="account_invalid_user_avatar">Неприпустиме фото</string>

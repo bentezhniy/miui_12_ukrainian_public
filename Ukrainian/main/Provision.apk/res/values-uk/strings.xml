@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="ai_button_desc">Використовуйте цю кнопку для запуску Mi AI і завершення задач на телефоні голосом</string>
+     <string name="zone_picker_title">Оберіть часовий пояс</string>
+	 <string name="ai_button_desc">Використовуйте цю кнопку для запуску Mi AI і завершення задач на телефоні голосом</string>
      <string name="ai_button_double_press">Подвійне натискання</string>
      <string name="ai_button_double_press_desc">Налаштуйте функції Mi AI</string>
      <string name="ai_button_long_press">Натискання та утримання</string>
