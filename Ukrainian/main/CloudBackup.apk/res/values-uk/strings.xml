@@ -162,7 +162,7 @@
      <string name="provision_error_connect_msg">Перевірте підключення до інтернету та спробуйте знову</string>
      <string name="provision_error_connect_title">Помилка підключення</string>
      <string name="query_restore_back_view">Бекап Mi Cloud</string>
-     <string name="query_restore_description">Відновити програми робочого столу та налаштування використовуючи цей бекап. Це замінить дані програм, встановлених на цьому пристрої. Програми, не включені до бекапу будуть переміщені на крайній екран робочого столу.</string>
+     <string name="query_restore_description">Відновити програми робочого столу та налаштування використовуючи цей бекап. Це замінить дані програм, встановлених на цьому пристрої. Програми, не включені до бекапу будуть переміщені на крайній екран робочого столу</string>
      <string name="query_restore_summary">Знайдено бекап Mi Cloud для цього пристрою. Відновити програми робочого столу та налаштування або використовувати його як новий пристрій і видалити старий бекап з Mi Cloud?</string>
      <string name="recover_from_micloud">Відновлення з Mi Cloud</string>
      <string name="recover_home_settings">Відновлення налаштувань робочого столу</string>

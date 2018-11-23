@@ -1589,7 +1589,7 @@
      <string name="miui_toast_zen_to_dnd">Звуки та вібрація відключені</string>
      <string name="miui_toast_zen_to_standard">Мелодії дзвінків та сповіщень відключені</string>
      <string name="miui_toast_zen_to_standard_when_shield_media">Мелодії дзвінків, звуки сповіщень та медіа будуть відключені</string>
-     <string name="mobile_data">Мобільний інтернет</string>
+     <string name="mobile_data">Мобільні дані</string>
      <string name="monitoring_description_app">Було запущено програму %1$s, яка може відстежувати ваші дії в мережі, включаючи роботу з електронною поштою, програмами та сайтами</string>
      <string name="monitoring_description_app_personal">Було запущено програму %1$s, яка може відстежувати ваші особисті дії в мережі, включаючи роботу з електронною поштою, програмами та сайтами</string>
      <string name="monitoring_description_app_personal_work">"Ваш робочий профіль управляється %1$s. Було запущено програму %2$s, яка може відстежувати дії у мережі, у тому числі роботу з ел. поштою, програмами та веб-сайтами.

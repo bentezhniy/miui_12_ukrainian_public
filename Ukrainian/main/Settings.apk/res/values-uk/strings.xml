@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_vibration_intensity_high">Високий</string>
+     <string name="decryption_settings_summary">Телефон не зашифровано</string>
+	 <string name="accessibility_disable_animations">Вимкнути анімацію</string>
+	 <string name="accessibility_vibration_settings_title">Рівень вібрації</string>
+	 <string name="accessibility_vibration_intensity_high">Високий</string>
      <string name="accessibility_vibration_intensity_low">Низький</string>
      <string name="accessibility_vibration_intensity_medium">Середній</string>
      <string name="accessibility_vibration_intensity_off">Вимкнено</string>
@@ -526,8 +529,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="check_importance_dialog_cancel">Скасувати</string>
      <string name="handy_mode_tips_full_screen">Коли Ви використовуєте повноекранні  жести, Ви можете увімкнути режим керування однією рукою, використовуючи помічник натискань. Ви також можете перемкнутися на екранні клавіші замість повноекранних жестів</string>
      <string name="close_aod">Ця функція не може працювати, коли увімкнено режим \"Always On Display\". Спочатку вимкніть режим</string>
-     <string name="close_fod">Розблокування екрану відбитком пальцю буде працювати лише при увімкненому екрані</string>
-     <string name="close_fod_aod">Розблокування екрану відбитком пальцю буде працювати лише при увімкненому екрані. Режим \"Always On Display\" також буде недоступний</string>
+     <string name="close_fod">Розблокування екрану відбитком пальця буде працювати лише при увімкненому екрані</string>
+     <string name="close_fod_aod">Розблокування екрану відбитком пальця буде працювати лише при увімкненому екрані. Режим \"Always On Display\" також буде недоступний</string>
      <string name="to_close">Вимкнути</string>
      <string name="Accounts_settings_title">Акаунти</string>
      <string name="status_bar_settings_notification_led_custom">Користувацький колір</string>
@@ -1824,7 +1827,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="cloud_last_backup">Останній бекап:</string>
      <string name="cloud_no_backup">Немає бекапів</string>
      <string name="cloud_restore_guide">Натисніть \"Почати\" для відновлення \"%s\"</string>
-     <string name="cloud_restore_section_summary">Відновлення програм, налаштувань системи і робочого столу.</string>
+     <string name="cloud_restore_section_summary">Відновлення програм, налаштувань системи і робочого столу</string>
      <string name="cloud_restore_section_title">Відновлення з Mi Cloud</string>
      <string name="cloud_restore_title">Відновити</string>
      <string name="cloud_restore_window_title">Відновлення з Mi Cloud</string>
@@ -3019,7 +3022,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="gxzw_add_fingerprint_move_title">Переміщайте палець повільніше</string>
      <string name="gxzw_add_fingerprint_put_finger_message">Натисніть сильніше і відпустіть палець після вібрації. Повторіть декілька разів</string>
      <string name="gxzw_add_fingerprint_put_finger_title">Натисніть сильніше і відпустіть після вібрації</string>
-     <string name="gxzw_add_fingerprint_title">Додати відбиток пальцю</string>
+     <string name="gxzw_add_fingerprint_title">Додати відбиток пальця</string>
      <string name="handy_mode">Керування однією рукою</string>
      <string name="handy_mode_enable">Керування однією рукою</string>
      <string name="handy_mode_enter_ask">Запит при вході в режим</string>
@@ -3429,8 +3432,8 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="location_neighborhood_level_wifi">Місцезнаходження визначається по Wi-Fi мережах</string>
      <string name="location_network_based">Wi-Fi і мобільні мережі</string>
      <string name="location_no_recent_apps">Немає програм</string>
-     <string name="location_off_summary">ВИМК.</string>
-     <string name="location_on_summary">УВІМК./%1$s</string>
+     <string name="location_off_summary">Вимкнено</string>
+     <string name="location_on_summary">Увімкнено</string>
      <string name="location_scanning_bluetooth_always_scanning_description">Для більш точного знаходження місцезнаходження, дозвольте системним програмам і сервісам постійно шукати пристрої Bluetooth поблизості</string>
      <string name="location_scanning_bluetooth_always_scanning_title">Сканування Bluetooth</string>
      <string name="location_scanning_screen_title">Сканування</string>
@@ -4349,7 +4352,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="okay">ОК</string>
      <string name="oldman_app_label">Для літніх</string>
      <string name="oldman_installed_current_btn">Відновити стандартний робочий стіл</string>
-     <string name="oldman_installed_current_des">Ви встановили робочий стіл для літніх як типовий. Натисніть кнопку нижче, щоб повернутися до стандартного робочого столу.</string>
+     <string name="oldman_installed_current_des">Ви встановили робочий стіл для літніх як типовий. Натисніть кнопку нижче, щоб повернутися до стандартного робочого столу</string>
      <string name="oldman_installed_not_current_btn">Встановити стандартний робочий стіл</string>
      <string name="oldman_installed_not_current_des">Робочий стіл для літніх встановлено. Ви можете встановити його як типовий</string>
      <string name="oldman_mode_confirm_title">Перезавантажити пристрій?</string>

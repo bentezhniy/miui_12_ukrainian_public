@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="dialog_recovery_tabs_disc">Незакриті вкладки необхідно завантажити знову</string>
+     <string name="document_download_immediate">Розпочати завантаження</string>
+     <string name="document_download_normal">Завантажити</string>
+     <string name="document_download_recommending">Безпечне завантаження (рекомендовано)</string>
+	 <string name="dialog_recovery_tabs_disc">Незакриті вкладки необхідно завантажити знову</string>
      <string name="dialog_recovery_tabs_title">Відкрийте сторінку перед відновленням</string>
 	 <string name="pref_checkbox_tab_restore">"Запам'ятати вибір (цей параметр можна змінити у Додаткових налаштуваннях)"</string>
 	 <string name="exit_browser_confirmation">Натисніть знову, щоб вийти</string>
