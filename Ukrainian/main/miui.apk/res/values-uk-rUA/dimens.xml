@@ -2,4 +2,5 @@
 <resources>
 	<dimen name="action_button_max_width">130.0dip</dimen>
 	<dimen name="action_bar_tab_text_size">12.0sp</dimen>
+  <dimen name="normal_text_size">14.0sp</dimen>
 </resources>
