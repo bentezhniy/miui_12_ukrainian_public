@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="add">Додати</string>
+     <string name="add">Додати</string>
+	 <string name="sar_sensor_data_check_summary_1">"Тримайте верхню частину телефону однією рукою.
+Переконайтеся, що кут нахилу становить близько 45 градусів.
+Тримайте іншу руку подалі від телефону.
+Подивіться на значення CS0.
+Після того, як значення CS0 буде менше 500, а значення CS2 більше 5000,
+перемістіть іншу руку ближче до нижньої частини телефону.
+Подивіться на значення CS0.
+Значення CS0 має змінюватися від 3000 до 30000"</string>
      <string name="audio_rule">Парсер аудіо xml</string>
      <string name="back_mic_check_record_tip">Виконується запис. Скажіть що-небудь в мікрофон на задній панелі пристрою.</string>
      <string name="battery_id">ID батареї:</string>

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="portrait_india_effect_entry_memory">"Пам'ять"</string>
+     <string name="accessibility_camera_record_start">Почати запис</string>
+     <string name="accessibility_camera_record_stop">Зупинити запис</string>
+     <string name="accessibility_record_button">Кнопка зйомки</string>
+     <string name="accessibility_ultra_pixel_photography_off">48 МП вимкнено</string>
+     <string name="accessibility_ultra_pixel_photography_on">48 МП увімкнено</string>
+     <string name="accessibility_video_resume_button">Продовжити запис</string>
+     <string name="ai_scene_top_moon_off">Ніч</string>
+     <string name="live_speed_extreme_fast">Прискорення</string>
+     <string name="live_speed_extreme_slow">Уповільнення</string>
+     <string name="live_speed_fast">Швидка</string>
+     <string name="live_speed_fragment_tab_name">Швидкість</string>
+     <string name="live_speed_normal">Нормальна</string>
+     <string name="live_speed_slow">Повільна</string>
+     <string name="module_name_professional">Pro</string>
+     <string name="pref_camera_normal_wide_ldc_description">Виправити спотвореного обличчя по краю фото</string>
+     <string name="pref_camera_ultra_wide_ldc_description">Виправлення спотвореного зображення у ширококутному режимі</string>
+     <string name="ultra_pixel_photography_close_tip">48 МП вимкнено</string>
+     <string name="ultra_pixel_photography_open_tip">48 МП увімкнено</string>
+	 <string name="portrait_india_effect_entry_memory">"Пам'ять"</string>
      <string name="portrait_india_effect_entry_mono">Моно</string>
      <string name="portrait_india_effect_entry_pink">Рожево</string>
      <string name="portrait_india_effect_entry_portrait">Портрет</string>

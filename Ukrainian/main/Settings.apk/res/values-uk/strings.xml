@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="decryption_settings_summary">Телефон не зашифровано</string>
+     <string name="default_launcher_set_jeejen_message">Натисніть клавішу \"Додому\" для налаштування робочого столу для літніх людей</string>
+     <string name="default_launcher_set_system_message">Натисніть клавішу \"Додому\" для відновлення стандартного робочого столу</string>
+     <string name="dump_log">Звіт про помилки</string>
+     <string name="dump_log_summary">Ця функція призначена для створення звітів про помилки у версіях MIUI Alpha та Beta. Використовуйте з обережністю. Ви можете переглядати звіти у провіднику</string>
+     <string name="dump_log_title">Інформація</string>
+	 <string name="decryption_settings_summary">Телефон не зашифровано</string>
 	 <string name="accessibility_disable_animations">Вимкнути анімацію</string>
 	 <string name="accessibility_vibration_settings_title">Рівень вібрації</string>
 	 <string name="accessibility_vibration_intensity_high">Високий</string>
