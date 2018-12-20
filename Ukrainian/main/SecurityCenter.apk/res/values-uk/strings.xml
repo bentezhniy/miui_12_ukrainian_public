@@ -1231,7 +1231,7 @@
      <string name="game_net_title">Захист мережі</string>
      <string name="game_setting">Загальні</string>
      <string name="gamebooster_lowbattery_notification_summary">Заряджайте пристрій до його вимкнення</string>
-     <string name="gamebooster_lowbattery_notification_title">Заряд батареї менше 5%%</string>
+     <string name="gamebooster_lowbattery_notification_title">Заряд батареї менше 5%</string>
      <string name="gamebooster_main_activity_back">Повернутися до пришвидшення ігор</string>
      <string name="gamebooster_network_dialog_message">Дозволити програмі підключатися до інтернету для використання всіх функцій режиму прискорення ігор?</string>
      <string name="gamebooster_network_dialog_title">Попередження</string>

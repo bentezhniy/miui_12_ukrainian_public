@@ -156,7 +156,7 @@
      <string name="forget_password"><u>Забули пароль?</u></string>
      <string name="free_space_has_received">Безкоштовне місце вже отримане в цьому місяці</string>
      <string name="free_space_receive_fail">Неможливо оновити</string>
-     <string name="full_space">Пам\’ять заповнена</string>
+     <string name="full_space">Пам\'ять заповнена</string>
      <string name="get_first_month_gb">Одержати %s безкоштовного місця за перший раз</string>
      <string name="get_this_month_gb">Одержати %s безкоштовного місця в цьому місяці</string>
      <string name="google_100gb">100 ГБ</string>
@@ -516,7 +516,7 @@
      <string name="micloud_warn_low_title">Обмаль місця…</string>
      <string name="micloud_web_discription">Відвідайте i.mi.com щоб керувати файлами будь-якого пристрою</string>
      <string name="micloud_web_discription_01">i.mi.com</string>
-     <string name="micloud_web_discription_02">Доступ до Ваших даних з комп\’ютера</string>
+     <string name="micloud_web_discription_02">Доступ до Ваших даних з комп\'ютера</string>
      <string name="micloud_web_discription_international">Відвідайте www.mi.com/micloud</string>
      <string name="micloud_web_discription_place_holder">Відвідайте %1$s</string>
      <string name="micloud_website">Хмарні дані</string>
@@ -604,9 +604,9 @@
      <string name="soundrecorder_sync_only_in_wifi">Синхронізація лише по Wi-Fi</string>
      <string name="soundrecorder_sync_only_in_wifi_summary">Синхронізувати записи диктофону лише по Wi-Fi мережі</string>
      <string name="soundrecorder_sync_records">Синхронізація з Mi Cloud</string>
-     <string name="space">Пам\’ять</string>
+     <string name="space">Пам\'ять</string>
      <string name="start_micloud">Почати</string>
-     <string name="storage">Пам\’ять</string>
+     <string name="storage">Пам\'ять</string>
      <string name="sub_alert_notif_content">Увімкніть Mi Cloud</string>
      <string name="sub_alert_notif_dspt_add">Не синхронізовано %s</string>
      <string name="sub_alert_notif_dspt_no">Синхронізовано</string>
@@ -624,7 +624,7 @@
      <string name="sync_dspt_entrance_provision_confirm_title">Пропустити авторизацію Mi Cloud?</string>
      <string name="sync_dspt_entrance_provision_network">"Для роботи програми необхідне підключення до інтернету. "</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Пропустити</u></string>
-     <string name="sync_dspt_provision">"Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення й інші дані між пристроями. Також Ви можете переглядати дані з комп\’ютера через сайт "</string>
+     <string name="sync_dspt_provision">"Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення й інші дані між пристроями. Також Ви можете переглядати дані з комп\'ютера через сайт "</string>
      <string name="sync_dspt_provision3">".
 "</string>
      <string name="sync_dspt_provision_header">Синхронізація</string>
