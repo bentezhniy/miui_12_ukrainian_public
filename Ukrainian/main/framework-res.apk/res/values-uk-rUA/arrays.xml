@@ -183,6 +183,14 @@
         <item>Тримайте палець на сканері відбитків довше</item>
         <item></item>
         <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+		<item>Трохи перемістіть палець</item>
+        <item>Відбиток цього пальця додано. Додайте інший палець</item>
     </string-array>
 	<string-array name="network_switch_type_name">
         <item>мобільний інтернет</item>

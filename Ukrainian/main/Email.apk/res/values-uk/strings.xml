@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_file_exception">Спробуйте додати інші шляхи у виключення</string>
+     <string name="account_cache_provider">Сховище кешу акаунту</string>
+     <string name="bank_card_list_card_num_fmt">****%s</string>
+     <string name="bcc_heading">"Прихована копія: "</string>
+     <string name="cc_attribution">Копія: %1$s</string>
+     <string name="conversation_content_provider">Сховище діалогів</string>
+     <string name="dialog_agree">ОК</string>
+     <string name="dialog_disagree">Скасувати</string>
+     <string name="forward_subject_label">"Fwd: "</string>
+     <string name="list_empty_to_fresh">Листів немає</string>
+     <string name="notify_channel_no_disterb">Не турбувати</string>
+     <string name="privacy_des">Звіт містить інформацію про пристрій та помилки. Оберіть \"%1$s\", щоб погодитися з \"%2$s\"</string>
+     <string name="reply_subject_label">"Re: "</string>
+     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+	 <string name="add_file_exception">Спробуйте додати інші шляхи у виключення</string>
      <string name="chinese">Китайська</string>
      <string name="mail_search_lab">пошук</string>
      <string name="notify_channel_new_mail">Сповіщення про нові повідомлення</string>

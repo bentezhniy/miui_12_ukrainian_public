@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="suggestion_topic_tips">
+     <string-array name="dianping">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+     </string-array>
+     <string-array name="dianping_in_list">
+        <item>search_dianping</item>
+        <item>ic_search_engine_dianping</item>
+        <item>dianping</item>
+     </string-array>
+     <string-array name="pref_fling_gesture_entries">
+        <item>Попередня сторінка</item>
+        <item>Перемикання вкладок</item>
+        <item>Немає дій</item>
+     </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Завжди запитувати</item>
+        <item>Увімкнути</item>
+        <item>Вимкнути</item>
+     </string-array>
+     <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="sm">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+     </string-array>
+	 <string-array name="suggestion_topic_tips">
         <item>Перегляд фокуса</item>
         <item>Центральна проблема</item>
      </string-array>

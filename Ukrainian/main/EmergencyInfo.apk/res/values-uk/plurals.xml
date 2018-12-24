@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Підключено %1$d пристроїв</item>
+        <item quantity="one">Підключено %1$d пристрій</item>
+        <item quantity="few">Підключено %1$d пристрої</item>
+     </plurals>
+</resources>

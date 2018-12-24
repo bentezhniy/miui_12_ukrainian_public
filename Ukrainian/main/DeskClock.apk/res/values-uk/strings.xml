@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
+     <string name="repeat_count">Повтори</string>
+     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+     <string name="snooze_duration">Відкласти</string>
+     <string name="snooze_duration_value">Інтервал (хвилин)</string>
+     <string name="symbol_colon">:</string>
+	 <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
      <string name="timer_alert_mute_on">Будильник не буде лунати після зупинки таймеру</string>
      <string name="timer_alert_mute_remind">Вимкнути будильник</string>
      <string name="timer_alert_mute_switch">Перемкнути звук таймеру</string>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="Nhours_description">
+     <plurals name="snooze_duration_summary">
+        <item quantity="other">%2$s раз з інтервалом %1$s хв.</item>
+        <item quantity="one">%2$s раз з інтервалом %1$s хв.</item>
+        <item quantity="few">%2$s рази з інтервалом %1$s хв.</item>
+     </plurals>
+	 <plurals name="Nhours_description">
         <item quantity="other">%d г.</item>
         <item quantity="one">1 г.</item>
      </plurals>

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="action_cancel">Скасувати</string>
+     <string name="feedback_status_commit_in_queue_title">Очікування звіту</string>
+     <string name="pic_view_format">%1$s/%2$s</string>
+     <string name="title_first_aid">Перша допомога</string>
+     <string name="toast_catch_full_log_open_failed">Неможливо розпочати запис звіту</string>
+	 <string name="action_cancel">Скасувати</string>
      <string name="action_confirm">Вибрати</string>
      <string name="action_submit">Надіслати</string>
      <string name="announcement">Попередження</string>

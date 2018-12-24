@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add">Додати</string>
+     <string name="can_not_get_numbers_of_keys">Неможливо отримати номер клавіш</string>
+     <string name="cit_audio_cali_fast_test_title">Швидкий тест калібрування посилювача динаміку</string>
+     <string name="cit_camera_fast_check_title">Швидкий тест камери</string>
+     <string name="cit_diag_chaging_summary">Копіювання журналів зарядки до SD-карти</string>
+     <string name="cit_diag_chaging_title">Читання журналів зарядки</string>
+     <string name="cit_diag_chaging_wait">Копіювання файлів…</string>
+     <string name="cit_fast_screen_touch_check_title">Швидкий тест сенсору</string>
+     <string name="cit_front_rear_dual_camera_check_title">Передня та задня подвійні камери</string>
+     <string name="cit_front_rear_sub_camera_check_title">Передня та задня додаткові камери</string>
+     <string name="cit_hall_phone_slider_status_down">Стан слайдеру: відкриття</string>
+     <string name="cit_hall_phone_slider_status_up">Стан слайдеру: закриття</string>
+     <string name="cit_headset_pull_finish_test">Навушники вимкнено. Тест завершено</string>
+     <string name="cit_hvdcp_charger_in">Зарядка по (USB_HVDCP)</string>
+     <string name="cit_keyboard_ai_key">Клавіша: AI_KEY</string>
+     <string name="cit_rear_dual_second_camera_check_title">Подвійна додаткова камера</string>
+     <string name="cit_rear_sub_second_camera_check_title">Задня додаткова камера</string>
+     <string name="cit_slider_hall_miui_test_summary">Повністю відкрийте та закрийте слайдер</string>
+     <string name="cit_slider_hall_test_summary">Повністю відкрийте та закрийте слайдер</string>
+     <string name="cit_slider_hall_test_title">Слайдер</string>
+     <string name="cit_tool_bluetooth_tx_m">Увійти до режиму частоти Bluetooth BR/EDR 2.441 ГГц</string>
+     <string name="cit_vga_camera_cameraid_fail">Помилка: cameraid  не налаштовано</string>
+     <string name="cit_vga_camera_cameralist_fail">Помилка: cameralist не співпадає</string>
+     <string name="fingerprint_input_title">Тест відбитку пальця</string>
+     <string name="keys_times">Час клавіш:</string>
+     <string name="phone_not_been_restarted">Телефон не перезавантажувався</string>
+     <string name="reboot_times">Час перезавантаження:</string>
+     <string name="refresh_number_of_keys">Оновити номер клавіш</string>
+     <string name="sar_sensor_data_check_description">Збір даних датчику Sar</string>
+     <string name="sar_sensor_data_check_summary">Поверніть телефон, помістіть його до приладдя. Вимірюйте відстань від телефону</string>
+	 <string name="add">Додати</string>
 	 <string name="sar_sensor_data_check_summary_1">"Тримайте верхню частину телефону однією рукою.
 Переконайтеся, що кут нахилу становить близько 45 градусів.
 Тримайте іншу руку подалі від телефону.

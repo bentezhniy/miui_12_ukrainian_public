@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="close_shortcut">Закрити</string>
+     <string name="find_device_dspt_provision_2">i.mi.com</string>
+     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+     <string name="micloud_footer_international_url">mi.com/micloud</string>
+     <string name="micloud_footer_normal_url">i.mi.com</string>
+     <string name="sync_dspt_provision2">i.mi.com</string>
+	 <string name="close_shortcut">Закрити</string>
      <string name="micloud_dspt_provision_xms">Використовуйте Mi Cloud для синхронізації даних</string>
      <string name="micloud_main_cancel_sync_now">Скасування…</string>
      <string name="micloud_main_simple_last_sync_time">Востаннє синхронізовано: %s</string>

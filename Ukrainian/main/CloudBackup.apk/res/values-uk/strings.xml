@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="other_device_main_space">Перший простір</string>
+     <string name="backup_stopped_msg">Якщо продовжите, хмарний бекап буде поєднано з існуючим</string>
+     <string name="backup_stopped_title">Хмарний бекап зупинено</string>
+     <string name="dialog_btn_cancel_backup">Скасувати</string>
+     <string name="dialog_btn_overwrite_backup">ОК</string>
+     <string name="dialog_msg_overwrite_backup">Є велика різниця між хмарним та локальним бекапами. Створити новий хмарний бекап?</string>
+	 <string name="other_device_main_space">Перший простір</string>
      <string name="other_device_second_space">Другий простір</string>
      <string name="self_device_main_space">Перший простір цього пристрою</string>
      <string name="self_device_second_space">Другий простір цього пристрою</string>
