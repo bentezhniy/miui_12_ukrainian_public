@@ -595,8 +595,8 @@
      <string name="connect_disconnect_vibrate_title">Вібрація при відповіді співрозмовника</string>
      <string name="connect_disconnect_vibrate_weak">Вібрувати слабко</string>
      <string name="connect_later">Неможливо підключитися до цієї мережі. Повторіть спробу пізніше</string>
-     <string name="connected_via_network_scorer">Автоматично під'єднано через %1$s</string>
-     <string name="connected_via_network_scorer_default">Автоматично під'єднано через постачальника оцінки якості мережі</string>
+     <string name="connected_via_network_scorer">Автоматично під\'єднано через %1$s</string>
+     <string name="connected_via_network_scorer_default">Автоматично під\'єднано через постачальника оцінки якості мережі</string>
      <string name="connected_via_passpoint">Підключено через %1$s</string>
      <string name="connected_via_wfa">Підключено через Wi-Fi помічника</string>
      <string name="connection_service_default_label">Підключення до вбудованного сервісу</string>
@@ -2537,7 +2537,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="wifi_calling_use_call_assistant">Використовувати асистента викликів</string>
      <string name="wifi_calling_use_call_assistant_summary">Керування мережами, що використовуються для викликів.</string>
      <string name="wifi_connected_no_internet">Підключено. Доступ до інтернету відсутній</string>
-     <string name="wifi_disabled_by_recommendation_provider">Не під'єднано через низьку якість мережі</string>
+     <string name="wifi_disabled_by_recommendation_provider">Не під\'єднано через низьку якість мережі</string>
      <string name="wifi_disabled_generic">Відключено</string>
      <string name="wifi_disabled_network_failure">Підключено</string>
      <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
