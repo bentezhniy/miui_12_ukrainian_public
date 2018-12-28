@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="can_not_get_numbers_of_keys">Неможливо отримати номер клавіш</string>
+     <string name="cit_charger_in">Підключено зарядний пристрій</string>
+     <string name="cit_charger_test_tips_electric">Поточний проект повинен перевірити значення струму зарядки понад 1А</string>
+     <string name="cit_charger_test_tips_hvdcp">Поточний проект повинен перевірити</string>
+     <string name="sar_sensor_collect_data">Розпочати збір даних</string>
+     <string name="sar_sensor_collect_data_test_summary">"Поверніть пристрій, щоб переконатися, що кут складає від 130 до 140 градусів.
+Тримайте вільну руку подалі від пристрою. Натисніть на клавішу початку збору даних.
+Після успішного калібрування зверніть увагу, що абсолютне значення CS0i та CS1 менше 200, а значення CS1 більше 300. Після п'яти послідовних спроб покладіть вільну руку на нижню частину пристрою. Значення CS0 повинне підсвічуватися тричі між 3000 та 30000"</string>
+	 <string name="can_not_get_numbers_of_keys">Неможливо отримати номер клавіш</string>
      <string name="cit_audio_cali_fast_test_title">Швидкий тест калібрування посилювача динаміку</string>
      <string name="cit_camera_fast_check_title">Швидкий тест камери</string>
      <string name="cit_diag_chaging_summary">Копіювання журналів зарядки до SD-карти</string>
@@ -40,9 +47,9 @@
 Подивіться на значення CS0.
 Значення CS0 має змінюватися від 3000 до 30000"</string>
      <string name="audio_rule">Парсер аудіо xml</string>
-     <string name="back_mic_check_record_tip">Виконується запис. Скажіть що-небудь в мікрофон на задній панелі пристрою.</string>
+     <string name="back_mic_check_record_tip">Виконується запис. Скажіть будь-що в мікрофон на задній панелі пристрою</string>
      <string name="battery_id">ID батареї:</string>
-     <string name="battery_plug_wirelee_summary">Бездротовий зарядний пристрій для кожного підключення. Одноразове відключення.</string>
+     <string name="battery_plug_wirelee_summary">Бездротовий зарядний пристрій для кожного підключення. Одноразове відключення</string>
      <string name="battery_plug_wirelee_title">Тест бездротової зарядки</string>
      <string name="battery_plugin_wirelee">Бездротова зарядка підключена</string>
      <string name="battery_plugout_wirelee">Підключіть бездротову зарядку</string>

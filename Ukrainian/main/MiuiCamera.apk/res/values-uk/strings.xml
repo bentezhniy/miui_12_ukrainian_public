@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_camera_record_start">Почати запис</string>
+     <string name="live_music_change_bgm">Замінити музику</string>
+     <string name="live_music_downloading_tips">Завантаження…</string>
+     <string name="live_music_hot_title">Популярна</string>
+     <string name="live_music_local_title">Локальна</string>
+     <string name="live_music_network_exception">Інтернет недоступний</string>
+     <string name="live_music_network_exception_tips">Перевірте підключення до інтернету</string>
+	 <string name="accessibility_lighting_panel_off">Вимкнути освітлення</string>
+     <string name="accessibility_lighting_panel_on">Увімкнути освітлення</string>
+     <string name="live_music_close_cancel_message">Скасувати</string>
+     <string name="live_music_close_message">Вимкнути музику?</string>
+     <string name="live_music_close_sure_message">ОК</string>
+	 <string name="accessibility_camera_record_start">Почати запис</string>
      <string name="accessibility_camera_record_stop">Зупинити запис</string>
      <string name="accessibility_record_button">Кнопка зйомки</string>
      <string name="accessibility_ultra_pixel_photography_off">48 МП вимкнено</string>

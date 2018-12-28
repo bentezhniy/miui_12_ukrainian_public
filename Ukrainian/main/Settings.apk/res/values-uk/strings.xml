@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="default_launcher_set_jeejen_message">Натисніть клавішу \"Додому\" для налаштування робочого столу для літніх людей</string>
+     <string name="set_jeejen_prompt_message">Робочий стіл для літніх людей буде встановлено як стандартний</string>
+     <string name="set_jeejen_prompt_title">Встановити як стандартний?</string>
+     <string name="work_sound_permission_dialog_button_text_known">ОК</string>
+     <string name="work_sound_permission_dialog_message">Ви не можете використовувати теми на корпоративному пристрої. Зверніться до керівника, щоб отримати дозвіл на це</string>
+     <string name="work_sound_permission_dialog_title">Корпоративне обмеження</string>
+	 <string name="default_launcher_set_jeejen_message">Натисніть клавішу \"Додому\" для налаштування робочого столу для літніх людей</string>
      <string name="default_launcher_set_system_message">Натисніть клавішу \"Додому\" для відновлення стандартного робочого столу</string>
      <string name="dump_log">Звіт про помилки</string>
      <string name="dump_log_summary">Ця функція призначена для створення звітів про помилки у версіях MIUI Alpha та Beta. Використовуйте з обережністю. Ви можете переглядати звіти у провіднику</string>

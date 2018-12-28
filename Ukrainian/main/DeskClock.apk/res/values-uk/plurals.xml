@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="snooze_duration_summary">
+     <plurals name="day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+        <item quantity="few">%d дн.</item>
+     </plurals>
+     <plurals name="hour">
+        <item quantity="other">%d год.</item>
+        <item quantity="one">%d год.</item>
+        <item quantity="few">%d год.</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+        <item quantity="few">%d дн.</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+     </plurals>
+	 <plurals name="snooze_duration_summary">
         <item quantity="other">%2$s раз з інтервалом %1$s хв.</item>
         <item quantity="one">%2$s раз з інтервалом %1$s хв.</item>
         <item quantity="few">%2$s рази з інтервалом %1$s хв.</item>
