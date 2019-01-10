@@ -33,14 +33,14 @@
 	<string name="comment_upload_account_not_activitied">Ваш акаунт не активований, будь ласка, активуйте й спробуйте знову.</string>
 	<string name="comment_upload_data_invalid">Вибачте, відгуки є недійсними</string>
 	<string name="comment_upload_failed">Помилка надсилання</string>
-	<string name="comment_upload_hint">Ваш відгук з\’явиться після перевірки</string>
+	<string name="comment_upload_hint">Ваш відгук з\'явиться після перевірки</string>
 	<string name="comment_upload_login_cancel">Скасувати</string>
 	<string name="comment_upload_login_ok">ОК</string>
 	<string name="comment_upload_need_login">Увійти в акаунт, щоб залишити відгук?</string>
 	<string name="comment_upload_not_logined">Будь ласка, спочатку увійдіть в акаунт</string>
 	<string name="comment_upload_success">Відгуки надіслані!</string>
 	<string name="comment_version_name">(версія %1$s)</string>
-	<string name="connect_fail">Помилка з\’єднання, встановлення перерване</string>
+	<string name="connect_fail">Помилка з\'єднання, встановлення перерване</string>
 	<string name="connect_no_enough_space">Не вистачає місця для встановлення програми. Будь ласка, звільніть місце та спробуйте знову.</string>
 	<string name="connect_no_fit_fail">Помилка встановлення. Програма несумісна</string>
 	<string name="connecting">Підключення…</string>
@@ -89,7 +89,7 @@
 	<string name="install_sign_not_same_message">%1$s \nпідписи програм не збігаються. Перед встановленням оновлення потрібно видалити стару версію програми. Продовжити?</string>
 	<string name="install_sign_not_same_title">Підписи не збігаються</string>
 	<string name="install_start_cleanup">Почати очищення</string>
-	<string name="install_storage_not_enough">Встановлення не завершене. Недостатньо пам\’яті</string>
+	<string name="install_storage_not_enough">Встановлення не завершене. Недостатньо пам\'яті</string>
 	<string name="install_this_month">У цьому місяці</string>
 	<string name="install_this_week">На цьому тижні</string>
 	<string name="install_time">Час встановлення: %1$s</string>
@@ -126,7 +126,7 @@
 	<string name="menu_preferences">Налаштування</string>
 	<string name="menu_refresh">Оновити</string>
 	<string name="menu_sort">Сортування</string>
-	<string name="menu_sort_by_name">Ім\’я</string>
+	<string name="menu_sort_by_name">Ім\'я</string>
 	<string name="menu_sort_by_size">Розмір</string>
 	<string name="menu_sort_by_time">Дата</string>
 	<string name="menu_update">Оновити</string>

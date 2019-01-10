@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="certificate_capabilities_warning">Примітка. Видавець цього сертифікату може переглядати весь трафік, що отримується пристроєм і надсилається з нього</string>
 	<string name="app_name">Програма встановлення сертифіката</string>
 	<string name="cert_is_added">%s встановлено.</string>
 	<string name="cert_missing_error">Встановлення завершилася зі збоєм. Неможливо знайти файл сертифіката.</string>

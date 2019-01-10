@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="conference_call_disable_tip">Неможливо зробити виклик. Переконайтеся, що ваш пристрій підключено до мережі 4G з підтримкою VoLTE.</string>	
+     <string name="label_duplicate_count">(%1$d)</string>
+	 <string name="description_image_button_sim1_named_dial">Виклик з SIM1 %s</string>
+     <string name="description_image_button_sim2_named_dial">Виклик з SIM2 %s</string>
+     <string name="scan_business_card">Сканувати візитівку</string>
+     <string name="scan_bussiness_card_merge_tip">Дані з конфліктом замінено</string>
+	 <string name="conference_call_disable_tip">Неможливо зробити виклик. Переконайтеся, що ваш пристрій підключено до мережі 4G з підтримкою VoLTE.</string>	
      <string name="preference_privacy_policy_title">Політика конфіденційності</string>
      <string name="rcs_app_name">Міні програма</string>
      <string name="accessibility_calllog_detail">Журнал викликів</string>
@@ -38,11 +43,11 @@
      <string name="add_to_my_contacts">Додати до \"Моїх контактів\"</string>
      <string name="add_wait">Додати очікування</string>
      <string name="add_xiaomi_account_dialog_btn">В Mi акаунт</string>
-     <string name="add_xiaomi_account_dialog_msg">Рекомендується зберігати контакти до Mi акаунту. Він дозволяє робити синхронізацію й резервне копіювання контактної інформації й керувати контактами на Вашому комп\’ютері</string>
+     <string name="add_xiaomi_account_dialog_msg">Рекомендується зберігати контакти до Mi акаунту. Він дозволяє робити синхронізацію й резервне копіювання контактної інформації й керувати контактами на Вашому комп\'ютері</string>
      <string name="add_xiaomi_account_dialog_title">Виберіть акаунт</string>
      <string name="aggregation_suggestion_edit_dialog_message">Перемкнутися на редагування обраного контакту? Введена інформація буде скопійована</string>
      <string name="aggregation_suggestion_edit_dialog_title">Редагувати обрані контакти</string>
-     <string name="aggregation_suggestion_join_dialog_message">Об\’єднати поточний контакт із обраним контактом?</string>
+     <string name="aggregation_suggestion_join_dialog_message">Об\'єднати поточний контакт із обраним контактом?</string>
      <string name="all_list_empty">Немає контактів</string>
      <string name="all_resources">Все</string>
      <string name="antispam_mark_my_contribution">Показувати іншим користувачам, що я відмітив цей номер.</string>
@@ -60,8 +65,8 @@
 
 Дані, які зберігаються у Mi Cloud також будуть видалені."</string>
      <string name="blacklist">Блокувати</string>
-     <string name="bluetooth_connection_failed_toast">Bluetooth з\’єднання перерване</string>
-     <string name="blurbJoinContactDataWith">Виберіть контакт, який хочете об\’єднати з \"%s\":</string>
+     <string name="bluetooth_connection_failed_toast">Bluetooth з\'єднання перерване</string>
+     <string name="blurbJoinContactDataWith">Виберіть контакт, який хочете об\'єднати з \"%s\":</string>
      <string name="btn_delete_multi_contacts">Видалити контакти (%d)</string>
      <string name="btn_delete_one_contact">Видалити</string>
      <string name="btn_rotation">Повертання</string>
@@ -223,7 +228,7 @@
      <string name="confirm_delete_sim_entry_miui_title">Видалити</string>
      <string name="confirm_export_message">Список контактів буде експортований у файл \"%s\"</string>
      <string name="confirm_export_title">Експорт контактів</string>
-     <string name="connections">Зв\’язки</string>
+     <string name="connections">Зв\'язки</string>
      <string name="contactDetailAbout">Інформація</string>
      <string name="contactDetailCalllog">Журнал викликів</string>
      <string name="contactDetailUpdates">Стрічка активності</string>
@@ -292,7 +297,7 @@
      <string name="contactsAllLabel">Контакти</string>
      <string name="contactsFavoritesLabel">Обрані</string>
      <string name="contactsGroupsLabel">Групи</string>
-     <string name="contactsJoinedMessage">Контакти об\’єднано</string>
+     <string name="contactsJoinedMessage">Контакти об\'єднано</string>
      <string name="contactsList">Контакти</string>
      <string name="contacts_hybrid_activity_label">Відтворення контактів</string>
      <string name="contacts_in_call_show">Відео %s</string>
@@ -331,8 +336,8 @@
      <string name="delete_call_log_title">Видалити обраний виклик?</string>
      <string name="delete_contact_calllog_title">Видалити журнал викликів?</string>
      <string name="delete_dial_input">Видалити</string>
-     <string name="delete_duplicate">Об\’єднати</string>
-     <string name="delete_duplicate_message">Об\’єднання контактів…</string>
+     <string name="delete_duplicate">Об\'єднати</string>
+     <string name="delete_duplicate_message">Об\'єднання контактів…</string>
      <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? Контакти не будуть видалені</string>
      <string name="delete_group_dialog_title">Видалення групи</string>
      <string name="delete_selected_sim_entry_miui">Видалити обрані контакти</string>
@@ -364,9 +369,9 @@
      <string name="description_image_button_comma">кома</string>
      <string name="description_image_button_dial">виклик</string>
      <string name="description_image_button_eight">вісім</string>
-     <string name="description_image_button_five">п\’ять</string>
+     <string name="description_image_button_five">п\'ять</string>
      <string name="description_image_button_four">чотири</string>
-     <string name="description_image_button_nine">дев\’ять</string>
+     <string name="description_image_button_nine">дев\'ять</string>
      <string name="description_image_button_one">один</string>
      <string name="description_image_button_plus">плюс</string>
      <string name="description_image_button_pound">решітка</string>
@@ -477,7 +482,7 @@
      <string name="display_options_sort_by_given_name">За іменем</string>
      <string name="display_options_sort_list_by">Сортувати контакти</string>
      <string name="display_options_view_family_name_first">Спочатку прізвище</string>
-     <string name="display_options_view_given_name_first">Спочатку ім\’я</string>
+     <string name="display_options_view_given_name_first">Спочатку ім\'я</string>
      <string name="display_options_view_names_as">Показувати в контактах</string>
      <string name="display_sim_contacts">Контакти SIM-карти</string>
      <string name="display_ungrouped">Усі інші контакти</string>
@@ -504,7 +509,7 @@
      <string name="emergency_number_label">Екстрений виклик</string>
      <string name="emptyGroup">Немає людей у цій групі</string>
      <string name="empty_divider_title">Ви можете</string>
-     <string name="enter_contact_name">Ім\’я контакту</string>
+     <string name="enter_contact_name">Ім\'я контакту</string>
      <string name="eventLabelsGroup">День народження</string>
      <string name="eventTypeCustom">Користувацький</string>
      <string name="event_edit_field_hint_text">Дата</string>
@@ -544,7 +549,7 @@
      <string name="fail_reason_failed_to_collect_vcard_meta_info">Неможливо одержати інформацію з vСard</string>
      <string name="fail_reason_failed_to_read_files">Один або кілька файлів не можуть бути імпортовані (%s)</string>
      <string name="fail_reason_io_error">Помилка вводу-виводу</string>
-     <string name="fail_reason_low_memory_during_import">Недостатньо пам\’яті. Можливо файл занадто великий</string>
+     <string name="fail_reason_low_memory_during_import">Недостатньо пам\'яті. Можливо файл занадто великий</string>
      <string name="fail_reason_no_exportable_contact">Немає контактів для експорту</string>
      <string name="fail_reason_not_supported">Формат не підтримується</string>
      <string name="fail_reason_too_long_filename">Занадто довга назва: %s</string>
@@ -565,7 +570,7 @@
      <string name="frequency_three_days">Кожні 3 дні</string>
      <string name="frequency_weekly">Кожну неділю</string>
      <string name="frequentList">Часті контакти</string>
-     <string name="full_name">Ім\’я</string>
+     <string name="full_name">Ім\'я</string>
      <string name="gallery">Галерея</string>
      <string name="generic_no_account_prompt">Тримаєте свої контакти в безпеці, навіть якщо Ви втратите свій телефон: синхронізація з онлайн-сервісом</string>
      <string name="generic_no_account_prompt_title">Додати акаунт</string>
@@ -631,7 +636,7 @@
      <string name="import_from_sim1">Імпорт із SIM-карти 1</string>
      <string name="import_from_sim2">Імпорт із SIM-карти 2</string>
      <string name="import_multiple_vcard_string">Імпорт декількох vСard</string>
-     <string name="import_name">Ім\’я</string>
+     <string name="import_name">Ім\'я</string>
      <string name="import_one_vcard_string">Імпорт vСard</string>
      <string name="import_percent">0%</string>
      <string name="import_selected_sim_entries_miui">Імпорт обраних контактів</string>
@@ -737,7 +742,7 @@
      <string name="login_ok">Вхід</string>
      <string name="low_memory_toast">"Пам'ять заповнена"</string>
      <string name="lunarBirthdayLabelsGroup">Місячний день народження</string>
-     <string name="make_primary">Запам\’ятати</string>
+     <string name="make_primary">Запам\'ятати</string>
      <string name="map_custom">Перегляд адреси: %s</string>
      <string name="map_home">Переглянути домашню адресу</string>
      <string name="map_other">Перегляд адреси</string>
@@ -780,7 +785,7 @@
      <string name="menu_export_database">Експорт контактів</string>
      <string name="menu_help">Допомога</string>
      <string name="menu_import_export">Імпорт та експорт</string>
-     <string name="menu_joinAggregate">Об\’єднати</string>
+     <string name="menu_joinAggregate">Об\'єднати</string>
      <string name="menu_newContact">Новий контакт</string>
      <string name="menu_newContactButton">Додати</string>
      <string name="menu_new_contact_action_bar">Додати</string>
@@ -883,13 +888,13 @@
      <string name="my_in_call_show">Моє відео</string>
      <string name="my_phone_not_provider_bluetooth">Мій телефон не підтримує Bluetooth</string>
      <string name="my_phone_provider_bluetooth">Мій телефон підтримує Bluetooth</string>
-     <string name="nameLabelsGroup">Ім\’я</string>
+     <string name="nameLabelsGroup">Ім\'я</string>
      <string name="name_family">Прізвище</string>
-     <string name="name_given">Ім\’я</string>
+     <string name="name_given">Ім\'я</string>
      <string name="name_middle"> По батькові</string>
      <string name="name_phonetic">Транскрипція імені</string>
      <string name="name_phonetic_family">Прізвище (транскрипція)</string>
-     <string name="name_phonetic_given">Ім\’я (транскрипція)</string>
+     <string name="name_phonetic_given">Ім\'я (транскрипція)</string>
      <string name="name_phonetic_middle"> По батькові (транскрипція)</string>
      <string name="name_prefix"> Форма звертання</string>
      <string name="name_suffix">Звання</string>
@@ -898,8 +903,8 @@
      <string name="nfc_vcard_file_name">Контакт отриманий по NFC</string>
      <string name="nicknameLabelsGroup">Нік</string>
      <string name="nickname_editor_title">Змінити нік</string>
-     <string name="nickname_picker_name_column">Ім\’я контакту</string>
-     <string name="nickname_picker_nickname_column">Ім\’я</string>
+     <string name="nickname_picker_name_column">Ім\'я контакту</string>
+     <string name="nickname_picker_nickname_column">Ім\'я</string>
      <string name="noAccounts">Для створення груп потрібний акаунт</string>
      <string name="noContactHelpTextAccountsInfo" />
      <string name="noContactHelpTextImportXiaomiAccountInfo">Відновити контакти з резервної копії в Mi акаунті</string>
@@ -1076,7 +1081,7 @@
      <string name="picker_email_title">Виберіть адресу Email</string>
      <string name="picker_favorites_list_empty">Немає обраних</string>
      <string name="picker_groups_list_empty">Немає груп</string>
-     <string name="picker_join_title">Об\’єднання з \"%s\"</string>
+     <string name="picker_join_title">Об\'єднання з \"%s\"</string>
      <string name="picker_number_title">Виберіть номер</string>
      <string name="picker_postal_title">Виберіть поштовий індекс</string>
      <string name="picker_recent_list_empty">Немає нещодавніх контактів</string>
@@ -1135,7 +1140,7 @@
      <string name="preference_others">Інше</string>
      <string name="preference_phone">Пристрій</string>
      <string name="preference_phone_more_title">Виклики</string>
-     <string name="preference_remove_duplicate">Об\’єднання дублікатів</string>
+     <string name="preference_remove_duplicate">Об\'єднання дублікатів</string>
      <string name="preference_show_firewall_calllog">Показувати заблоковані виклики в журналі викликів</string>
      <string name="preference_show_yellowpage_tab_description">Показувати вкладку сервісів</string>
      <string name="preference_show_yellowpage_tab_title">Вкладка сервісів</string>
@@ -1185,7 +1190,7 @@
      <string name="quick_dial_setting_title">Швидкий набір</string>
      <string name="quickcontact_missing_app">Немає програми для виконання цієї дії</string>
      <string name="quit_dialog_confirm_message">У Вас немає об\`єднаних контактів</string>
-     <string name="quit_dialog_confirm_title">Вийти з режиму об\’єднання?</string>
+     <string name="quit_dialog_confirm_title">Вийти з режиму об\'єднання?</string>
      <string name="rcs_account_type_title">Акаунт конвергентних мереж</string>
      <string name="rcs_contact_detail_profile_binded_label">"Прив\'язано"</string>
      <string name="rcs_fetion_not_exist">Конвергентні мережі не знайдені</string>
@@ -1226,9 +1231,9 @@
      <string name="remove_blacklist">Видалити із чорного списку</string>
      <string name="remove_blacklist_dialog_message">Розблокувати цей номер?</string>
      <string name="remove_blacklist_dialog_title">Розблокувати ці номери?</string>
-     <string name="remove_duplicate">"Система допоможе знайти дублікати контактів і об\’єднати їх.
+     <string name="remove_duplicate">"Система допоможе знайти дублікати контактів і об\'єднати їх.
 
-Натисніть клавішу \"Об\’єднати\", щоб продовжити"</string>
+Натисніть клавішу \"Об\'єднати\", щоб продовжити"</string>
      <string name="report_inquiry_mms">Звіт у SMS</string>
      <string name="resource_account_abnormal_state">Помилка акаунту. Спробуйте пізніше.</string>
      <string name="resource_account_fail_to_add">Не вдалося додати акаунт</string>
@@ -1499,15 +1504,15 @@
      <string name="sim_contact_invalid">Некоректний контакт SIM-карти</string>
      <string name="sim_contact_search_error">Сталася помилка при пошуку контактів з SIM-карти</string>
      <string name="sim_contacts">Контакти на SIM-карті</string>
-     <string name="sim_error_anr_full">Пам\’ять для номерів заповнена</string>
-     <string name="sim_error_email_full">Пам\’ять для Email заповнена</string>
+     <string name="sim_error_anr_full">Пам\'ять для номерів заповнена</string>
+     <string name="sim_error_email_full">Пам\'ять для Email заповнена</string>
      <string name="sim_error_email_too_long">Адреса Email занадто довга</string>
      <string name="sim_error_generic_failure">Помилка</string>
      <string name="sim_error_not_ready">Завантаження контактів SIM-карти…</string>
      <string name="sim_error_number_too_long">Номер занадто довгий</string>
      <string name="sim_error_password_error">Неправильний пароль</string>
      <string name="sim_error_storage_full">SIM-карта заповнена</string>
-     <string name="sim_error_text_too_long">Ім\’я занадто довге</string>
+     <string name="sim_error_text_too_long">Ім\'я занадто довге</string>
      <string name="sim_export_error">SIM-карта не готова. Спробуйте знову пізніше</string>
      <string name="sim_export_loading">Читання SIM-карти…</string>
      <string name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-карті, повинна бути між %2$d і %3$d</string>
@@ -1582,7 +1587,7 @@
      <string name="take_photo">Зняти фото</string>
      <string name="telecom_fraud_insurance">Страхування від шахрайства</string>
      <string name="telecom_fraud_insurance_description">Гарантія 10000 юанів | Xiaomi | 9.9 юанів в рік</string>
-     <string name="titleJoinContactDataWith">Об\’єднати контакти</string>
+     <string name="titleJoinContactDataWith">"Об'єднати контакти"</string>
      <string name="title_other_devices">Інші доступні пристрої</string>
      <string name="title_paired_devices">Сполучені пристрої</string>
      <string name="to_activate_the_account">Активуйте Mi акаунт</string>
@@ -1596,7 +1601,7 @@
      <string name="toast_finish_delete_selected_call_log">Видалення завершене</string>
      <string name="toast_for_failed_saving_nickname">Не вдалося зберегти зміни</string>
      <string name="toast_for_saving_nickname">Зміни збережені</string>
-     <string name="toast_join_with_empty_contact">Вкажіть ім\’я контакту, який хочете об\’єднати</string>
+     <string name="toast_join_with_empty_contact">Вкажіть ім\'я контакту, який хочете об\'єднати</string>
      <string name="toast_making_personal_copy">Копіювання…</string>
      <string name="toast_start_intent_failed">Немає програм для обробки</string>
      <string name="toast_text_copied">Текст скопійовано</string>
@@ -1622,7 +1627,7 @@
      <string name="upgrade_in_progress">Список контактів оновлюється…</string>
      <string name="upgrade_out_of_memory">"Список контактів оновлюється. 
 
-Процес оновлення вимагає близько %s МБ пам\’яті.
+Процес оновлення вимагає близько %s МБ пам\'яті.
 
 Оберіть один з наступних варіантів:"</string>
      <string name="upgrade_out_of_memory_retry">Повторити спробу відновлення</string>

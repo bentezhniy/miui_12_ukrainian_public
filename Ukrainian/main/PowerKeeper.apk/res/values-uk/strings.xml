@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="high_temp_state">Висока температура</string>
+    <string name="atrace_saved">Збережено</string>
+    <string name="atrace_saving">Збереження звіту atrace…</string>
+    <string name="atrace_start">Збереження звіту atrace…</string>
+	<string name="high_temp_state">Висока температура</string>
     <string name="high_temp_state_message">Захист від перегріву, дані, точка доступу, GPS, камера та інші компонети будуть обмежені.</string>
     <string name="app_name">Оптимізація живлення</string>
 	<string name="enable_sleep_mode">Увімкнення режиму сну для оптимізації режиму очікування</string>

@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="add">Додати</string>
+     <string name="cit_charger_in">Підключено зарядний пристрій</string>
+     <string name="cit_charger_test_tips_electric">Поточний проект повинен перевірити значення струму зарядки понад 1А</string>
+     <string name="cit_charger_test_tips_hvdcp">Поточний проект повинен перевірити</string>
+     <string name="sar_sensor_collect_data">Розпочати збір даних</string>
+     <string name="sar_sensor_collect_data_test_summary">"Поверніть пристрій, щоб переконатися, що кут складає від 130 до 140 градусів.
+Тримайте вільну руку подалі від пристрою. Натисніть на клавішу початку збору даних.
+Після успішного калібрування зверніть увагу, що абсолютне значення CS0i та CS1 менше 200, а значення CS1 більше 300. Після п'яти послідовних спроб покладіть вільну руку на нижню частину пристрою. Значення CS0 повинне підсвічуватися тричі між 3000 та 30000"</string>
+	 <string name="can_not_get_numbers_of_keys">Неможливо отримати номер клавіш</string>
+     <string name="cit_audio_cali_fast_test_title">Швидкий тест калібрування посилювача динаміку</string>
+     <string name="cit_camera_fast_check_title">Швидкий тест камери</string>
+     <string name="cit_diag_chaging_summary">Копіювання журналів зарядки до SD-карти</string>
+     <string name="cit_diag_chaging_title">Читання журналів зарядки</string>
+     <string name="cit_diag_chaging_wait">Копіювання файлів…</string>
+     <string name="cit_fast_screen_touch_check_title">Швидкий тест сенсору</string>
+     <string name="cit_front_rear_dual_camera_check_title">Передня та задня подвійні камери</string>
+     <string name="cit_front_rear_sub_camera_check_title">Передня та задня додаткові камери</string>
+     <string name="cit_hall_phone_slider_status_down">Стан слайдеру: відкриття</string>
+     <string name="cit_hall_phone_slider_status_up">Стан слайдеру: закриття</string>
+     <string name="cit_headset_pull_finish_test">Навушники вимкнено. Тест завершено</string>
+     <string name="cit_hvdcp_charger_in">Зарядка по (USB_HVDCP)</string>
+     <string name="cit_keyboard_ai_key">Клавіша: AI_KEY</string>
+     <string name="cit_rear_dual_second_camera_check_title">Подвійна додаткова камера</string>
+     <string name="cit_rear_sub_second_camera_check_title">Задня додаткова камера</string>
+     <string name="cit_slider_hall_miui_test_summary">Повністю відкрийте та закрийте слайдер</string>
+     <string name="cit_slider_hall_test_summary">Повністю відкрийте та закрийте слайдер</string>
+     <string name="cit_slider_hall_test_title">Слайдер</string>
+     <string name="cit_tool_bluetooth_tx_m">Увійти до режиму частоти Bluetooth BR/EDR 2.441 ГГц</string>
+     <string name="cit_vga_camera_cameraid_fail">Помилка: cameraid  не налаштовано</string>
+     <string name="cit_vga_camera_cameralist_fail">Помилка: cameralist не співпадає</string>
+     <string name="fingerprint_input_title">Тест відбитку пальця</string>
+     <string name="keys_times">Час клавіш:</string>
+     <string name="phone_not_been_restarted">Телефон не перезавантажувався</string>
+     <string name="reboot_times">Час перезавантаження:</string>
+     <string name="refresh_number_of_keys">Оновити номер клавіш</string>
+     <string name="sar_sensor_data_check_description">Збір даних датчику Sar</string>
+     <string name="sar_sensor_data_check_summary">Поверніть телефон, помістіть його до приладдя. Вимірюйте відстань від телефону</string>
+	 <string name="add">Додати</string>
+	 <string name="sar_sensor_data_check_summary_1">"Тримайте верхню частину телефону однією рукою.
+Переконайтеся, що кут нахилу становить близько 45 градусів.
+Тримайте іншу руку подалі від телефону.
+Подивіться на значення CS0.
+Після того, як значення CS0 буде менше 500, а значення CS2 більше 5000,
+перемістіть іншу руку ближче до нижньої частини телефону.
+Подивіться на значення CS0.
+Значення CS0 має змінюватися від 3000 до 30000"</string>
      <string name="audio_rule">Парсер аудіо xml</string>
-     <string name="back_mic_check_record_tip">Виконується запис. Скажіть що-небудь в мікрофон на задній панелі пристрою.</string>
+     <string name="back_mic_check_record_tip">Виконується запис. Скажіть будь-що в мікрофон на задній панелі пристрою</string>
      <string name="battery_id">ID батареї:</string>
-     <string name="battery_plug_wirelee_summary">Бездротовий зарядний пристрій для кожного підключення. Одноразове відключення.</string>
+     <string name="battery_plug_wirelee_summary">Бездротовий зарядний пристрій для кожного підключення. Одноразове відключення</string>
      <string name="battery_plug_wirelee_title">Тест бездротової зарядки</string>
      <string name="battery_plugin_wirelee">Бездротова зарядка підключена</string>
      <string name="battery_plugout_wirelee">Підключіть бездротову зарядку</string>
@@ -340,7 +384,7 @@
      <string name="cit_audio_lb_frontmic_to_speaker_title">Перевірка переднього мікрофона</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Основний мікрофон</string>
      <string name="cit_audio_lb_phonecall_title">Імітація виклику</string>
-     <string name="cit_audio_lb_summary_backmic_to_speaker">"Перевірка заднього мікрофона на зворотний зв’язок.
+     <string name="cit_audio_lb_summary_backmic_to_speaker">"Перевірка заднього мікрофона на зворотний зв'язок.
 Говоріть у задній мікрофон, Ви повинні почути свій голос з динаміка."</string>
      <string name="cit_audio_lb_summary_frontmic_to_speaker">"Перевірка переднього мікрофона на зворотний зв'язок. Говоріть в передній мікрофон і Ви повинні почути свій голос з динаміка."</string>
      <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Перевірка основного мікрофона на зворотній зв'язок. Тримайте телефон біля вуха, ніби то Ви здійснюєте виклик, говоріть в основний мікрофон і Ви повинні почути голос з динаміку."</string>
@@ -496,7 +540,7 @@
      <string name="cit_headset_button_stop">Стоп</string>
      <string name="cit_headset_button_unknown">Невідомо</string>
      <string name="cit_headset_loopback_check_summary">Підключіть гарнітуру та говоріть у мікрофон. Якщо мікрофон працює, то Ви почуєте свій голос у навушниках.</string>
-     <string name="cit_headset_loopback_check_title">Зворотній зв\’язок гарнітури</string>
+     <string name="cit_headset_loopback_check_title">Зворотній зв\'язок гарнітури</string>
      <string name="cit_headset_plug_detect_summary">"Після підключення гарнітури нижче повинен з\'явитися напис \"Гарнітура підключена\""</string>
      <string name="cit_headset_plug_detect_title">Гарнітура</string>
      <string name="cit_headset_plug_finish">Гарнітура підключена</string>
@@ -589,12 +633,12 @@
      <string name="cit_sim_check_title">SIM-карта</string>
      <string name="cit_sim_error_unknown">Невідомо</string>
      <string name="cit_sim_network_operator">Оператор стільникової мережі:</string>
-     <string name="cit_sim_network_operator_name">Ім\’я оператора мережі:</string>
+     <string name="cit_sim_network_operator_name">Ім\'я оператора мережі:</string>
      <string name="cit_sim_network_type">Тип мережі:</string>
      <string name="cit_sim_serial_number">Номер SIM-карти:</string>
      <string name="cit_sim_sim_country">Країна:</string>
      <string name="cit_sim_sim_operator">Код постачальника SIM:</string>
-     <string name="cit_sim_sim_operator_name">Ім\’я постачальника SIM:</string>
+     <string name="cit_sim_sim_operator_name">Ім\'я постачальника SIM:</string>
      <string name="cit_sim_state_absent">Немає SIM-карти</string>
      <string name="cit_sim_state_network_locked">PIN</string>
      <string name="cit_sim_state_pin_required">Потрібний PIN код</string>
@@ -737,7 +781,7 @@
      <string name="cit_tool_log_toast">Звіт збережений у %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Створення звіту про помилку(триватиме близько 1 хвилини)</string>
      <string name="cit_tool_modem">Інструменти модему</string>
-     <string name="cit_tool_modem_bugreport">Дамп пам\’яті модему</string>
+     <string name="cit_tool_modem_bugreport">Дамп пам\'яті модему</string>
      <string name="cit_tool_modem_cta_test">Відкрити/закрити протокол відповідності тесту</string>
      <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
      <string name="cit_tool_modem_cu_volte_no">Вимкнути CU VoLTE</string>
@@ -783,8 +827,8 @@
      <string name="cit_tool_wifi_band_5">група: 5G</string>
      <string name="cit_tool_wifi_band_change">Далі</string>
      <string name="cit_tool_wifi_exit">Вихід</string>
-     <string name="cit_tool_wifi_rx_ap_name">Введіть ім\’я AP</string>
-     <string name="cit_tool_wifi_rx_ap_not_null">Ім\’я або тип AP не може бути порожнім</string>
+     <string name="cit_tool_wifi_rx_ap_name">Введіть ім\'я AP</string>
+     <string name="cit_tool_wifi_rx_ap_not_null">Ім\'я або тип AP не може бути порожнім</string>
      <string name="cit_tool_wifi_rx_ap_type_error">Помилка AP, введіть заново (bss/adhoc)</string>
      <string name="cit_tool_wifi_rx_chan">Rx: канал</string>
      <string name="cit_tool_wifi_rx_count_error">Вихідне значення не є числом</string>

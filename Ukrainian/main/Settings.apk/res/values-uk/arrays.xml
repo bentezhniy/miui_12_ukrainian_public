@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>	
-    <string-array name="dark_ui_mode_entries">
+    <string-array name="keyguard_notification_status_entries">
+        <item>Увімкнути екран</item>
+        <item>Показати анімацію</item>
+        <item>Не вмикати екран</item>
+     </string-array>
+	<string-array name="dark_ui_mode_entries">
         <item>Автоматичний (залежно від часу доби)</item>
         <item>Завжди увімкнено</item>
         <item>Завжди вимкнено</item>
@@ -1327,9 +1332,9 @@
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
-        <item>Якщо Ви встановите цей драйвер, пам\’ять телефону з\’явиться на комп\’ютері</item>
-        <item>В Windows Vista або версіях вище, музичний програвач з\’явиться на Вашому комп\’ютері автоматично.</item>
-        <item>Якщо Ви встановите цей драйвер, комп\’ютер автоматично відкриє і прочитає пам\’ять телефону</item>
+        <item>Якщо Ви встановите цей драйвер, пам\'ять телефону з\'явиться на комп\'ютері</item>
+        <item>В Windows Vista або версіях вище, музичний програвач з\'явиться на Вашому комп\'ютері автоматично.</item>
+        <item>Якщо Ви встановите цей драйвер, комп\'ютер автоматично відкриє і прочитає пам\'ять телефону</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_summary">
@@ -1416,8 +1421,8 @@
         <item>Відео</item>
      </string-array>
      <string-array name="priority_storage_entries">
-        <item>Внутрішня пам\’ять</item>
-        <item>Зовнішня пам\’ять</item>
+        <item>Внутрішня пам\'ять</item>
+        <item>Зовнішня пам\'ять</item>
      </string-array>
      <string-array name="privacy_password_function_specfication_names">
         <item>Повідомлення</item>
@@ -1845,7 +1850,7 @@
      <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Пошук…</item>
-        <item>З\’єднання з мережею %1$s…</item>
+        <item>З\'єднання з мережею %1$s…</item>
         <item>Аутентифікація в мережі %1$s…</item>
         <item>Отримання IP-адреси від %1$s…</item>
         <item>Підключено до %1$s</item>

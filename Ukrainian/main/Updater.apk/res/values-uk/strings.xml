@@ -127,8 +127,8 @@
      <string name="sina_share_fail">Помилка надсилання</string>
      <string name="sina_share_pendding">Надсилання…</string>
      <string name="sina_share_success">Надсилання завершене</string>
-     <string name="sina_token_expired_warning">Термін дії акаунту Weibo минув. Повторіть прив\’язку</string>
-     <string name="sina_token_invalid_warning">Хибний акаунт Weibo. Будь ласка. Повторіть прив\’язку</string>
+     <string name="sina_token_expired_warning">Термін дії акаунту Weibo минув. Повторіть прив\'язку</string>
+     <string name="sina_token_invalid_warning">Хибний акаунт Weibo. Будь ласка. Повторіть прив\'язку</string>
      <string name="stable_build">стабільна збірка</string>
      <string name="start_update">Почати оновлення</string>
      <string name="submit">Надіслати</string>
@@ -224,7 +224,7 @@
      <string name="set_network_title">Інтернет недоступний</string>
      <string name="set_only_wifi">Встановити перевірку тільки по Wi-Fi</string>
      <string name="space_not_enough_msg">Недостатньо місця для завантаження прошивки</string>
-     <string name="space_not_enough_title">Пам\’ять заповнена</string>
+     <string name="space_not_enough_title">Пам\'ять заповнена</string>
 	 <string name="test">Тест</string>
      <string name="timer_title">Перезавантаження через %d сек.</string>
 	 <string name="unkown_error_title">Невідома помилка</string>

@@ -557,4 +557,15 @@
      <string name="hourly_forecast_title_hourly_desc">Погодинний прогноз</string>
      <string name="privacy_policy">Політика конфіденційності</string>
      <string name="user_agreement">Умови користування</string>
+	 <string name="activity_find_city_dialog_message_global">Надати програмі доступ до інформації про місцезнаходження?</string>
+     <string name="aqi_detail_co_unit">Одиниці виміру: мг/м³</string>
+     <string name="aqi_first_sub_desc_locate">Станція: %1$s (%2$s)</string>
+     <string name="aqi_first_sub_desc_no_locate">Середній ІЯП: %1$s</string>
+     <string name="feedback_cloudy">Хмарно</string>
+     <string name="feedback_foggy">Туман</string>
+     <string name="feedback_haze">Мряка</string>
+     <string name="feedback_moderate_rain">Дощ</string>
+     <string name="feedback_moderate_snow">Сніг</string>
+     <string name="feedback_report_privacy_msg">Звіт буде містити дані про Ваше місцезнаходження</string>
+     <string name="feedback_sandy">Пил</string>
 </resources>

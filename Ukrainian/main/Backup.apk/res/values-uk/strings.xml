@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="trans_cancel_dialog_survey_title">Чому Ви перервали передачу?</string>
+	 <string name="trans_cancel_dialog_survey_title">Чому Ви перервали передачу?</string>
      <string name="trans_dialog_survey_finish">Надіслати</string>
      <string name="trans_success_dialog_button_market_comment">Відгук</string>
      <string name="trans_success_dialog_button_survey">Опитування</string>

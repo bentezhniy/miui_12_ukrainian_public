@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="ai_button_desc">Використовуйте цю кнопку для запуску Mi AI і завершення задач на телефоні голосом</string>
+     <string name="zone_picker_title">Оберіть часовий пояс</string>
+	 <string name="ai_button_desc">Використовуйте цю кнопку для запуску Mi AI і завершення задач на телефоні голосом</string>
      <string name="ai_button_double_press">Подвійне натискання</string>
      <string name="ai_button_double_press_desc">Налаштуйте функції Mi AI</string>
      <string name="ai_button_long_press">Натискання та утримання</string>
@@ -115,7 +116,7 @@
      <string name="other_settings_mifg_online_content_summary">Отримувати щодня нові шпалери для екрану блокування</string>
 	 <string name="other_settings_auto_update">Автоматичне оновлення</string>
      <string name="other_settings_auto_update_summary">Система буде автоматично завантажувати та встановлювати оновлення</string>
-     <string name="other_settings_upload_debug_log_summary">Система буде автоматично надсилати діагностичні дані, інформацію про пристрій, систему та програми. Ці дані будуть використовуватися для виявлення та аналізу проблем</string>
+     <string name="other_settings_upload_debug_log_summary">Система надсилатиме діагностичні дані, інформацію про пристрій, систему та програми. Дані використовуватимуться для виявлення помилок</string>
      <string name="other_settings_upload_debug_log_title">Надсилання діагностичних даних</string>
 	 <string name="language_picker_other_languages_title">Інші мови</string>
      <string name="language_picker_popular_languages_title">Популярні мови</string>
@@ -130,7 +131,7 @@
      <string name="other_settings_taplus_summary">Тривале натискання для отримання додаткової інформації</string>
      <string name="two_dimensional_code_scan">Сканер QR-кодів</string>
      <string name="user_strayed_warning">Сторінка призначена для заводських тестів. Натисніть \"Назад\", щоб вийти</string>
-	 <string name="item_fingerprint">Відбиток пальцю</string>
+	 <string name="item_fingerprint">Відбиток пальця</string>
      <string name="item_lock_screen_password">Блокування паролем</string>
      <string name="language_settings">Налаштування мови</string>
 	 <string name="accessibility_enabled">Доступність увімкнено</string>

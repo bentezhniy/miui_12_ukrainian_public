@@ -245,8 +245,8 @@
      <string name="radio_button_icon_switch_title">Використовувати ярлик</string>
      <string name="radio_button_password_switch_title">Використовувати пароль</string>
      <string name="removeSuccess">Видалення завершене</string>
-     <string name="remove_button">Видалити і перезавантажити</string>
-     <string name="remove_button_time">Видалити і перезавантажити (%d сек.)</string>
+     <string name="remove_button">Видалити</string>
+     <string name="remove_button_time">Видалити (%d сек.)</string>
      <string name="remove_second_space_msg">Всі дані другого простору будуть очищені</string>
      <string name="remove_user_click_message">"*Якщо у вас немає важливих даних у другому просторі, %s"</string>
      <string name="remove_user_click_message_action">Ви можете видалити другий простір та перезавантажити пристрій</string>
@@ -363,7 +363,7 @@
      <string name="start_new_fingerprint">Новий відбиток</string>
      <string name="start_new_fingerprint_tips">Використовуйте відбиток для входу до режиму другого простору</string>
      <string name="start_setting_guide_desc_title">Майстер налаштування</string>
-     <string name="stop_xspace_alert_content">Ви видалили всі клоновані програми. Видалити також їх акаунти і дані?</string>
+     <string name="stop_xspace_alert_content">Ви видалили всі клоновані програми. Видалити також їх акаунти і дані? Пристрій перезавантажиться</string>
      <string name="stop_xspace_alert_title">Видалення даних</string>
      <string name="summary_switch_apps_settings">Оберіть програми, які будуть доступні для другого простору.</string>
      <string name="support_desc">Підтримка: Graphite</string>
