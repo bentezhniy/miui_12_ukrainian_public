@@ -644,7 +644,7 @@
      <string name="theme_user_agreement_content5">.</string>
      <string name="theme_user_agreement_exit">Вихід</string>
      <string name="theme_user_agreement_remind_again">Запитувати доступ до інтернету</string>
-     <string name="theme_user_agreement_remind_never">Запам\'ятати</string>
+     <string name="theme_user_agreement_remind_never">Запам\’ятати</string>
      <string name="theme_user_agreement_remind_summary">Запит доступу до інтернету при кожному запуску програми</string>
      <string name="theme_user_agreement_title">Дозволити доступ до інтернету?</string>
      <string name="theme_yes">ОК</string>

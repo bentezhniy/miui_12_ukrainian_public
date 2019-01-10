@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="avrcp_notification_name">Функція AVRCP</string>
-     <string name="bluetooth_advanced_feat_description">Перегляд файлів по Bluetooth</string>
-     <string name="bluetooth_opp_file_limit_exceeded">Неможливо передавати файли більші за 4 ГБ</string>
-     <string name="bluetooth_rc_feat_content">Підтримка однорангової мережі</string>
-     <string name="bluetooth_rc_feat_subtext">Повторіть спорядження з одноранговою мережею</string>
-     <string name="bluetooth_rc_feat_title">Перегляд медіа по Bluetooth</string>
-	 <string name="Errortoomanyrequests">Обробляється занадто багато запитів. Повторіть спробу пізніше.</string>
+     <string name="Errortoomanyrequests">Обробляється занадто багато запитів. Повторіть спробу пізніше.</string>
      <string name="ack_record">Запис підтвердження</string>
      <string name="airplane_error_msg">У режимі польоту не можна використовувати Bluetooth</string>
      <string name="airplane_error_title">Режим польоту</string>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Повторіть за %d секунд</item>
-        <item quantity="one">Повторіть за %d секунду</item>
-        <item quantity="few">Повторіть за %d секунди</item>
-    </plurals>
-	<plurals name="num_seconds_ago">
+    <plurals name="num_seconds_ago">
         <item quantity="other">%d сек. назад</item>
         <item quantity="one">1 секунду назад</item>
     </plurals>

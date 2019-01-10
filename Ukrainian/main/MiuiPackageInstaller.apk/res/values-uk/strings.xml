@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="dlg_mimarket_intercept_mimarket_install">Інсталяція з Mi Маркету</string>
-     <string name="dlg_mimarket_intercept_msg">Інсталяція сторонніх програм може зашкодити Вашому пристрою. Рекомендується використовувати Mi Маркет для для інсталяції програм</string>
-     <string name="mimarket_install">Інсталювати з Mi Маркету</string>
-     <string name="mimarket_install_tips">Використовуйте Mi Маркет</string>
-     <string name="mimarket_intercept_warning_msg">Програма не перевірялася антивірусом. Інсталюйте цю програму з Mi Маркету, що запобігти ризикам</string>
-	 <string name="increment_install_pause_for_wifi">Очікування Wi-Fi</string>
+     <string name="increment_install_pause_for_wifi">Очікування Wi-Fi</string>
 	 <string name="dlg_game_center_intercept_game_center_install">Інсталювати з Mi ігор</string>
      <string name="dlg_game_center_intercept_install">Інсталювати</string>
-     <string name="dlg_game_center_intercept_msg">Інсталяція сторонніх ігор може бути небезпечною. Рекомендується інсталювати ігри з офіційного джерела</string>
+     <string name="dlg_game_center_intercept_msg">Інсталяція сторонніх ігор може бути небезпечною. Рекомендується інсталювати ігри з офіційного джерела.</string>
      <string name="dlg_game_center_intercept_title">Попередження</string>
      <string name="game_center_install">Інсталювати з Mi ігор</string>
      <string name="game_center_install_tips">Інсталюйте Mi гри, щоб отримати більше можливостей</string>
      <string name="game_center_intercept_trust_app">Я довіряю цій програмі</string>
-     <string name="game_center_intercept_warning_msg">Ця програма не була перевірена в Xiaomi на наявність вірусів. Інсталювати цю програму з Mi ігор, щоб уникнути загрози безпеки</string>
+     <string name="game_center_intercept_warning_msg">Ця програма не була перевірена в Xiaomi на наявність вірусів. Інсталювати цю програму з Mi ігор, щоб уникнути загрози безпеки.</string>
      <string name="game_center_lunch_error">Спочатку інсталюйте Mi гри</string>
-     <string name="increment_install_downloading">Завантаження…</string>
+     <string name="increment_install_downloading">Завантаження ...</string>
      <string name="increment_install_network_error_cancel">Скасування</string>
      <string name="increment_install_network_error_msg">Помилка мережі. Продовжити інсталяцію неофіційної програми?</string>
      <string name="increment_install_network_error_ok">Продовжити</string>
      <string name="increment_install_network_error_title">Попередження</string>
-     <string name="increment_install_pathing">Перевірка пакету…</string>
-     <string name="increment_preparing">Підготовка…</string>
+     <string name="increment_install_pathing">Перевірка пакету ...</string>
+     <string name="increment_preparing">Підготовка ...</string>
      <string name="mobil_net_work_warning_cancel">Скасувати</string>
      <string name="mobil_net_work_warning_msg">Для інсталяції цієї програми потрібно %1$s мобільного трафіку. Продовжити?</string>
      <string name="mobil_net_work_warning_ok">ОК</string>
@@ -168,7 +163,7 @@
      <string name="button_text_next_step">Далі</string>
      <string name="button_text_next_step_timer">Далі (%d)</string>
      <string name="package_delete_confirm_step_1">Видалити %s?</string>
-     <string name="package_delete_confirm_step_2">Видалення цієї програми може вплинути на роботу системи</string>
+     <string name="package_delete_confirm_step_2">Видалення цієї програми може вплинути на роботу системи.</string>
      <string name="package_delete_confirm_step_3">Всі дані програми будуть також видалені.</string>
 	 <string name="app_store_install_hint">Установити</string>
      <string name="app_store_installing_message">Інсталяція Mi Маркету…</string>
@@ -584,7 +579,7 @@
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мовлення</string>
      <string name="tts_default_sample_string">Приклад синтезу мовлення</string>
-     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з'єднання з інтернетом"</string>
+     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з’єднання з інтернетом"</string>
      <string name="tts_engine_preference_section_title">Вподобання</string>
      <string name="tts_engine_security_warning">Система синтезу мовлення може записувати вимовлені слова, з урахуванням особистих даних, такі як паролі та номери кредитних карт. Це здійснює система %s. Дозволити використання цієї системи синтезу мовлення?</string>
      <string name="tts_engine_settings_button">Налаштування синтезу мовлення</string>
@@ -684,7 +679,7 @@
 	 <string name="ads_install_button_isDownloading">Завантаження…</string>
 	 <string name="miui_not_uninstall_system_app">Неможливо видалити системну програму</string>
 	 <string name="miui_message_staging_0">"Інсталяція   "</string>
-     <string name="miui_message_staging_1">"Інсталяція…  "</string>
+     <string name="miui_message_staging_1">"Інсталяція.  "</string>
      <string name="miui_message_staging_2">"Інсталяція.. "</string>
      <string name="miui_message_staging_3">"Інсталяція..."</string>
      <string name="miui_virus_scanning_0">"Сканування   "</string>

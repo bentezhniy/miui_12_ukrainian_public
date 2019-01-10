@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="backup_stopped_msg">Якщо продовжите, хмарний бекап буде поєднано з існуючим</string>
-     <string name="backup_stopped_title">Хмарний бекап зупинено</string>
-     <string name="dialog_btn_cancel_backup">Скасувати</string>
-     <string name="dialog_btn_overwrite_backup">ОК</string>
-     <string name="dialog_msg_overwrite_backup">Є велика різниця між хмарним та локальним бекапами. Створити новий хмарний бекап?</string>
-	 <string name="other_device_main_space">Перший простір</string>
-     <string name="other_device_second_space">Другий простір</string>
-     <string name="self_device_main_space">Перший простір цього пристрою</string>
-     <string name="self_device_second_space">Другий простір цього пристрою</string>
-	 <string name="load_backup_failed">Помилка завантаження бекапу</string>
+     <string name="load_backup_failed">Помилка завантаження бекапу</string>
      <string name="loading_user_backup">Завантаження бекапу…</string>
      <string name="main_space">Перший простір</string>
      <string name="second_space">Другий простір</string>
@@ -171,7 +162,7 @@
      <string name="provision_error_connect_msg">Перевірте підключення до інтернету та спробуйте знову</string>
      <string name="provision_error_connect_title">Помилка підключення</string>
      <string name="query_restore_back_view">Бекап Mi Cloud</string>
-     <string name="query_restore_description">Відновити програми робочого столу та налаштування використовуючи цей бекап. Це замінить дані програм, встановлених на цьому пристрої. Програми, не включені до бекапу будуть переміщені на крайній екран робочого столу</string>
+     <string name="query_restore_description">Відновити програми робочого столу та налаштування використовуючи цей бекап. Це замінить дані програм, встановлених на цьому пристрої. Програми, не включені до бекапу будуть переміщені на крайній екран робочого столу.</string>
      <string name="query_restore_summary">Знайдено бекап Mi Cloud для цього пристрою. Відновити програми робочого столу та налаштування або використовувати його як новий пристрій і видалити старий бекап з Mi Cloud?</string>
      <string name="recover_from_micloud">Відновлення з Mi Cloud</string>
      <string name="recover_home_settings">Відновлення налаштувань робочого столу</string>

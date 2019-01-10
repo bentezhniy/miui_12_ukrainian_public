@@ -88,7 +88,7 @@
      <string name="common_google_play_services_enable_text">Для роботи програми \"%1$s\" потрібно увімкнути сервіси Google Play</string>
      <string name="common_google_play_services_enable_title">Увімкніть сервіси Google Play</string>
      <string name="common_google_play_services_install_button">Інсталювати</string>
-     <string name="common_google_play_services_install_text">Програма %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
      <string name="common_google_play_services_install_text_phone">Для роботи програми \"%1$s\" потрібно інсталювати сервіси Google Play</string>
      <string name="common_google_play_services_install_text_tablet">Для роботи додатки \"%1$s\" потрібно інсталювати сервіси Google Play</string>
      <string name="common_google_play_services_install_title">Інсталюйте сервіси Google Play</string>

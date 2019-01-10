@@ -41,7 +41,7 @@
      <string name="error_file_access">Файл не існує або пошкоджений</string>
      <string name="error_filename_illegal_char">Назва файлу містить неприпустимі символи</string>
      <string name="error_filename_too_long">Назва файлу занадто довга</string>
-     <string name="error_sdcard_access">Не вдалося одержати доступ до внутрішньої або зовнішньої пам\'яті</string>
+     <string name="error_sdcard_access">Не вдалося одержати доступ до внутрішньої або зовнішньої пам\’яті</string>
      <string name="error_sdcard_unmounted">Накопичувач відключений</string>
      <string name="export_to_note">Експортувати в нотатки</string>
      <string name="fm_record">Записи радіо (%d)</string>
@@ -77,7 +77,7 @@
      <string name="notification_recording_ticker">Запис…</string>
      <string name="notification_stopped">Запис завершений</string>
      <string name="notification_title_all_paused">Завантаження припинене</string>
-     <string name="notification_warning">Мало пам\'яті (залишилося %d хв.)</string>
+     <string name="notification_warning">Мало пам\’яті (залишилося %d хв.)</string>
      <string name="path_soundrecorder_setting">Системні програми | Диктофон</string>
      <string name="pause">Пауза</string>
      <string name="play_record">Відтворити</string>

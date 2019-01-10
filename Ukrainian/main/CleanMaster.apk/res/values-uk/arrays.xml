@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="wechat_sort">
-        <item>Дата</item>
-        <item>Розмір</item>
-     </string-array>
-	 <string-array name="apk_clean_menu">
+     <string-array name="apk_clean_menu">
         <item>Видалити</item>
         <item>Встановити</item>
         <item>Показати файл</item>

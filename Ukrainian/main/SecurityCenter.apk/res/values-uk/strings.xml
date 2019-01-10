@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_manager_full_screen_summary">Дозволити обраним програмам запускатися у повноекранному режимі</string>
-     <string name="app_manager_full_screen_title">Повноекранний режим</string>
-	 <string name="card_main_deepclean_whatsapp_title">Очищення WA</string>
+     <string name="card_main_deepclean_whatsapp_title">Очищення WA</string>
 	 <string name="gamebox_app_not_find">Спочатку інсталюйте програму</string>
      <string name="gs_gamebox_slip">Проведіть по екрану донизу для запуску</string>
      <string name="summary_rcs_switch">Спілкуйтеся з користувачами China Mobile без додаткових витрат</string>
@@ -1233,7 +1231,7 @@
      <string name="game_net_title">Захист мережі</string>
      <string name="game_setting">Загальні</string>
      <string name="gamebooster_lowbattery_notification_summary">Заряджайте пристрій до його вимкнення</string>
-     <string name="gamebooster_lowbattery_notification_title">Заряд батареї менше 5%</string>
+     <string name="gamebooster_lowbattery_notification_title">Заряд батареї менше 5%%</string>
      <string name="gamebooster_main_activity_back">Повернутися до пришвидшення ігор</string>
      <string name="gamebooster_network_dialog_message">Дозволити програмі підключатися до інтернету для використання всіх функцій режиму прискорення ігор?</string>
      <string name="gamebooster_network_dialog_title">Попередження</string>

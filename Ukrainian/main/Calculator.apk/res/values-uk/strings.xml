@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	 <string name="not_supported_due_to_language">Ця функція доступна тільки для китайської мови</string>
+     <string name="not_supported_due_to_language">Ця функція доступна тільки для китайської мови</string>
      <string name="tax_thershold_native_new">%s (нове)</string>
      <string name="tax_thershold_native_new_description">Податки будуть розраховуватися відповідно до нового податкового законодавства від 1 жовтня 2018 року</string>
      <string name="preference_other">Інше</string>

@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="operation_set_slide_wallpaper">Встановити слайд-шоу як шпалери</string>
-     <string name="picker_origin_request_progress_fail">Неможливо завантажити оригінальне зображення</string>
-     <string name="set_as_slide_wallpaper_description">Це ескіз зображення. Завантажити оригінальний розмір?</string>
-     <string name="set_as_slide_wallpaper_title">Встановити слайд-шоу як шпалери</string>
-	 <string name="collage_select_image_range">Колажі можуть складатися з 1-4 фото</string>
+     <string name="collage_select_image_range">Колажі можуть складатися з 1-4 фото</string>
      <string name="frame_not_support_image_ratio">Це співвідношення сторін не підтримується</string>
-     <string name="operation_produce">Творчість</string>
+     <string name="operation_produce">Творчій підхід</string>
      <string name="photo_editor_crop_auto_tips">Кадровано автоматично</string>
      <string name="photo_editor_frame">Рамка</string>
      <string name="photo_movie_select_image_range">Кліпи можуть містити 3-6 фото</string>
@@ -630,11 +627,6 @@
      <string name="disable_auto_upload_title">Відключення синхронізації</string>
      <string name="do_not_remind_me">"Запам\'ятати"</string>
      <string name="do_not_save">Не зберігати</string>
-     <string name="document_provider_guide_step_1">1. Натисніть кнопку \"Ще\".</string>
-     <string name="document_provider_guide_step_2">2. Натисніть \"Показати внутрішню пам\'ять\".</string>
-     <string name="document_provider_guide_step_3">3. Натисніть кнопку \"Меню\".</string>
-     <string name="document_provider_guide_step_4">4. Виберіть \"SD-карта\".</string>
-     <string name="document_provider_guide_step_5">5. Натисніть \"Вибрати\".</string>
      <string name="documentary">Документальні</string>
      <string name="done">Готово</string>
      <string name="doodle">Малюнок</string>
@@ -772,18 +764,6 @@
      <string name="expand_desc">Ще</string>
      <string name="expand_people">Показать інші обличчя</string>
      <string name="exposure_time">Витримка</string>
-     <string name="ext_sdcard_first_entrance_request_failed_text">Ви можете вибрати місце для зберігання фото й відео в налаштуваннях пам\'яті</string>
-     <string name="ext_sdcard_first_entrance_request_failed_title">Не вдається отримати дозволи</string>
-     <string name="ext_sdcard_guide_first_page_button_text">Далі</string>
-     <string name="ext_sdcard_guide_last_page_button_text">Потрібні дозволи</string>
-     <string name="ext_sdcard_guide_text">Галерея запитує доступ до SD-карти. Виконайте такі дії:</string>
-     <string name="ext_sdcard_operation_failed_text">Потрібен доступ до SD-карти</string>
-     <string name="ext_sdcard_operation_failed_title">Не вдається завершити дію</string>
-     <string name="ext_sdcard_permission_request_button_text">ОК</string>
-     <string name="ext_sdcard_permission_request_reason">Галерея запитує доступ до SD-карти. Це дасть ій змогу керувати фото і відео на SD-карті.</string>
-     <string name="ext_sdcard_permission_request_title">Потрібні дозволи</string>
-     <string name="ext_sdcard_request_failed_button_text">ОК</string>
-     <string name="ext_sdcard_request_succeed_toast_text">Готово</string>
      <string name="external_sd_card">SD карта</string>
      <string name="external_sdcard_root">"Коренева тека у зовнішній пам\'яті"</string>
      <string name="external_usb_device">USB накопичувач</string>

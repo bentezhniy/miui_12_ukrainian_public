@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	 <string name="recents_title_app_manager">Програми</string>
-     <string name="recents_title_game">Ігри</string>
-     <string name="recents_title_garbage_cleanup">Сміття</string>
-     <string name="recents_title_garbage_deepclean">Очищення</string>
-     <string name="recents_title_market">Пошук</string>
-     <string name="recents_title_security_scan">Антивірус</string>
 	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
      <string name="bluetooth_active_no_battery_level">Активний</string>
      <string name="bluetooth_battery_level">%1$s батареї</string>
@@ -648,8 +642,8 @@
      <string name="notification_low_battery_title">Батарея розряджена: %d%%</string>
 	 <string name="accessibility_display_daltonizer_preference_subtitle">Це експериментальна функція. Вона може вплинути на продуктивність пристрою.</string>
      <string name="accessibility_display_daltonizer_preference_title">Корекція кольору</string>
-     <string name="adb_keys_warning_message">"Скасувати доступ до налагодження по USB для всіх комп'ютерів, які раніше отримали таке право?"</string>
-     <string name="adb_warning_message">"Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп'ютером та пристроєм, встановлення програм на Вашому пристрої без сповіщення та читання даних журналу."</string>
+     <string name="adb_keys_warning_message">"Скасувати доступ до налагодження по USB для всіх комп’ютерів, які раніше отримали таке право?"</string>
+     <string name="adb_warning_message">"Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп’ютером та пристроєм, встановлення програм на Вашому пристрої без сповіщення та читання даних журналу."</string>
      <string name="adb_warning_title">Дозволити налагодження по USB?</string>
      <string name="allow_mock_location">Фіктивні місцезнаходження</string>
      <string name="allow_mock_location_summary">Дозволити використання фіктивних місцезнаходжень</string>
@@ -830,7 +824,7 @@
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мовлення</string>
      <string name="tts_default_sample_string">Це приклад синтезу мовлення</string>
-     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з'єднання з інтернетом"</string>
+     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з’єднання з інтернетом"</string>
      <string name="tts_engine_preference_section_title">Система за замовчуванням</string>
      <string name="tts_engine_security_warning">"Ця система синтезу мовлення може збирати всі відтворювані тексти, зокрема особисті дані, такі як паролі та номери кредитних карток. Вона походить від системи %s. Увімкнути використання цієї системи синтезу мовлення?"</string>
      <string name="tts_engine_settings_button">Налаштування синтезу мовлення</string>
@@ -1595,7 +1589,7 @@
      <string name="miui_toast_zen_to_dnd">Звуки та вібрація відключені</string>
      <string name="miui_toast_zen_to_standard">Мелодії дзвінків та сповіщень відключені</string>
      <string name="miui_toast_zen_to_standard_when_shield_media">Мелодії дзвінків, звуки сповіщень та медіа будуть відключені</string>
-     <string name="mobile_data">Мобільні дані</string>
+     <string name="mobile_data">Мобільний інтернет</string>
      <string name="monitoring_description_app">Було запущено програму %1$s, яка може відстежувати ваші дії в мережі, включаючи роботу з електронною поштою, програмами та сайтами</string>
      <string name="monitoring_description_app_personal">Було запущено програму %1$s, яка може відстежувати ваші особисті дії в мережі, включаючи роботу з електронною поштою, програмами та сайтами</string>
      <string name="monitoring_description_app_personal_work">"Ваш робочий профіль управляється %1$s. Було запущено програму %2$s, яка може відстежувати дії у мережі, у тому числі роботу з ел. поштою, програмами та веб-сайтами.
@@ -1988,8 +1982,4 @@
      <string name="zen_priority_introduction">Вас не будуть турбувати звуки та вібрація, крім від будильників, нагадувань, подій та дзвінків від вказаних користувачів. Ви все ще будете чути все, що Ви захочете під час гри, включаючи музику, відео та ігри</string>
      <string name="zen_silence_introduction">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор</string>
      <string name="zen_silence_introduction_voice">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор. Ви все ще зможете робити телефонні дзвінки</string>
-     <string name="enable_atrace">Увімкнути ATrace</string>
-     <string name="enable_atrace_summary">Запис подій ядра з використанням ATracee</string>
-     <string name="structure_face_unlock_tof_covered">Не вдається додати дані обличчя. Тримайте телефон подалі від обличчя</string>
-     <string name="download_lock_wallpaper">Натисніть двічі для завантаження щоденних шпалер</string>
 </resources>

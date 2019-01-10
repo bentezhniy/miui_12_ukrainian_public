@@ -542,7 +542,7 @@
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мовлення</string>
      <string name="tts_default_sample_string">Приклад синтезу мовлення</string>
-     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з'єднання з інтернетом"</string>
+     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з’єднання з інтернетом"</string>
      <string name="tts_engine_preference_section_title">Вподобання</string>
      <string name="tts_engine_security_warning">Система синтезу мовлення може записувати вимовлені слова, з урахуванням особистих даних, такі як паролі та номери кредитних карт. Це здійснює система %s. Дозволити використання цієї системи синтезу мовлення?</string>
      <string name="tts_engine_settings_button">Налаштування синтезу мовлення</string>

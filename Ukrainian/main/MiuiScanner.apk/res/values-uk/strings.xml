@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="agree_btn">Прийняти</string>
      <string name="blog">Weibo</string>
@@ -184,7 +185,6 @@
      <string name="sdk_not_ready">Підготовка SDK…</string>
      <string name="secure_access_web_url">Перейти на сайт</string>
      <string name="see_app_details">Детальніше</string>
-     <string name="select_dialog_confirm">ОК</string>
      <string name="settings">Налаштування</string>
      <string name="shopping_searching">Пошук продукції…</string>
      <string name="shopping_title">Сфотографуйте продукт</string>
@@ -199,19 +199,6 @@
      <string name="switch_open">Увімкнути</string>
      <string name="tips_message">Для перевірки безпечності сайту необхідне підключення до інтернету</string>
      <string name="title">Назва:</string>
-     <string name="translate_auto_lock">Заблокувати переклад</string>
-     <string name="translate_auto_unlock">Розблокувати переклад</string>
-     <string name="translate_copy_success">Скопійовано</string>
-     <string name="translate_dest_lang">Мова перекладу</string>
-     <string name="translate_fail">Не вдається перекласти</string>
-     <string name="translate_loading">Переклад…</string>
-     <string name="translate_save_fail">Не вдається зберегти нотатки</string>
-     <string name="translate_src_lang">Вихідна мова</string>
-     <string name="translate_text_compare">Порівняти</string>
-     <string name="translate_text_compare_copy">Копіювати</string>
-     <string name="translate_text_compare_save">Зберегти</string>
-     <string name="translate_try_again">Натисніть, щоб повторити</string>
-     <string name="translate_type_take_pic">Фото</string>
      <string name="translation_language_chinese">Китайська</string>
      <string name="translation_language_english">Англійська</string>
      <string name="translation_language_french">Французька</string>

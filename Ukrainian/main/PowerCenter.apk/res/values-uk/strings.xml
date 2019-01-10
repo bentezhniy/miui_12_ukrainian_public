@@ -170,14 +170,14 @@
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Пристрій налаштовано на підключення до цього режиму за розкладом. Необхідно змінити параметри перед видаленням.</string>
     <string name="power_mode_chooser_button_text">Застосувати</string>
     <string name="power_20s_enter_mode">При %1$d%% режим \"%2$s\"</string>
-    <string name="power_notify_lowbattery">Заряд батареї менше %1$d%</string>
+    <string name="power_notify_lowbattery">Заряд батареї менше %1$d%%</string>
     <string name="power_recovery_mode">Відновлено \"%1$s\"</string>
     <string name="power_subtitle_lowbattery">Енергозбереження при розрядженій батареї</string>
     <string name="power_subtitle_ontime">Енергозбереження за розкладом</string>
     <string name="power_exitlowbattery_whencharge">Вихід при зарядці</string>
     <string name="power_button_delete">Видалити</string>
     <string name="power_mode_my_mode">Свій режим</string>
-    <string name="power_mode_my_mode_summary">користувацький режим енергозбереження</string>
+    <string name="power_mode_my_mode_summary">користувальницький режим енергозбереження</string>
     <string name="power_apply_toast">Переключено в режим %s</string>
     <string name="power_customize_giveup_change">Скасувати зміни?</string>
     <string name="menu_item_force_stop">Зупинити</string>
