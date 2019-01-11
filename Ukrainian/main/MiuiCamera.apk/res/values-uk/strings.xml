@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="camera_hdr_auto">Авто</string>
+     <string name="accessibility_ultra_pixel_photography_32mp_off">32 МП вимкнено</string>
+     <string name="accessibility_ultra_pixel_photography_32mp_on">32 МП увімкнено</string>
+     <string name="accessibility_ultra_pixel_photography_48mp_off">48 МП вимкнено</string>
+     <string name="accessibility_ultra_pixel_photography_48mp_on">48 МП увімкнено</string>
+     <string name="hand_gesture_open_tip">Витягніть руку та почніть зворотній відлік</string>
+     <string name="hand_gesture_tip">Жест зйомки фото</string>
+     <string name="live_share_moments">Moments</string>
+     <string name="live_share_qq">QQ</string>
+     <string name="live_share_qzone">QZone</string>
+     <string name="live_share_tik">TikTok</string>
+     <string name="live_share_wechat">WeChat</string>
+     <string name="live_share_weibo">WeiBo</string>
+     <string name="network_access_user_notice_title">Підключення до інтернету</string>
+     <string name="pref_menu_ultra_pixel_photography_32mp">32 МП</string>
+     <string name="pref_new_slow_motion_video_quality_960_720only">Ви можете записувати відео з частотою 960fps лише у форматі 720p</string>
+     <string name="ultra_pixel_photography_32mp_close_tip">32 МП вимкнено</string>
+     <string name="ultra_pixel_photography_32mp_open_tip">32 МП увімкнено</string>
+     <string name="ultra_pixel_photography_48mp_close_tip">48 МП вимкнено</string>
+     <string name="ultra_pixel_photography_48mp_open_tip">48 МП увімкнено</string>
+     <string name="ultra_wide_mode_use_hint_text">Режим дозволяє знімати фото з широким кутом</string>
+     <string name="zoom_no_support_tip_48M">Наближення недоступне в режимі 48 МП</string>
+	 <string name="accessibility_pull_down_to_open_camera">Проведіть донизу для запуску камери</string>
+	 <string name="camera_hdr_auto">Авто</string>
      <string name="camera_hdr_off">Вимк</string>
      <string name="camera_hdr_on">Увімк</string>
      <string name="pref_hdr_indicator_entry_auto">Авто</string>

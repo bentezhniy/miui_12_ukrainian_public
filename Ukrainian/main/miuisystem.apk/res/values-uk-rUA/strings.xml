@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="alwaysUsePrompt">Запам\'ятати</string>
+     <string name="dewdrops">Краплі роси</string>
+	 <string name="alwaysUsePrompt">"Запам'ятати"</string>
 	 <string name="miclassic">MiClassic</string>
      <string name="app_no_notification">Повідомлення відключені</string>
      <string name="app_notificaiton_on_notificationbar">Панель сповіщень</string>

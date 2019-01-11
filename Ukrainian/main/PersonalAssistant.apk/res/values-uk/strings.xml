@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="notification_channel_card">Карти</string>
+     <string name="notification_channel_default">Стандартно</string>
+     <string name="shopping_setting_pinduoduo">Pinduoduo</string>
 	 <string name="app_setting_fail">Помилка інсталяції</string>
      <string name="card_banner_close_never">Більше не запитувати</string>
      <string name="card_banner_close_tomorrow">Нагадати завтра</string>

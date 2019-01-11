@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="add">Додати</string>
+     <string name="pop_camera">Pop камера</string>
+     <string name="pop_push_camera_test_summary">Перевірка Pop та Push камери</string>
+     <string name="pop_push_camera_test_title">Pop та Push</string>
+     <string name="push_camera">Push камера</string>
+     <string name="sar_sensor_collect_test_summary">"Поверніть телефон, поставте його на пристрій.
+Натисніть кнопку \"Почати збір даних\".
+Переміщуйте телефон ближче та далі"</string>
+	 <string name="add">Додати</string>
      <string name="audio_rule">Парсер аудіо xml</string>
      <string name="back_mic_check_record_tip">Виконується запис. Скажіть що-небудь в мікрофон на задній панелі пристрою.</string>
      <string name="battery_id">ID батареї:</string>

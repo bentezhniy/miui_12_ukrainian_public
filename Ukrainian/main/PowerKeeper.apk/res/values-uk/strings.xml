@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="high_temp_state">Висока температура</string>
+    <string name="dark_mode">Темний режим</string>
+    <string name="dark_mode_summary">Увімкнення темного режиму для економії заряду батареї</string>
+    <string name="open_dark_mode">Увімкнути темний режим?</string>
+    <string name="open_dark_mode_tip">Якість відображення деяких елементів може погіршитися</string>
+	<string name="high_temp_state">Висока температура</string>
     <string name="high_temp_state_message">Захист від перегріву, дані, точка доступу, GPS, камера та інші компонети будуть обмежені.</string>
     <string name="app_name">Оптимізація живлення</string>
 	<string name="enable_sleep_mode">Увімкнення режиму сну для оптимізації режиму очікування</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="gxzw_long_press_tip">Утримуйте для доступу до додаткових функцій</string>
 	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
      <string name="bluetooth_active_no_battery_level">Активний</string>
      <string name="bluetooth_battery_level">%1$s батареї</string>

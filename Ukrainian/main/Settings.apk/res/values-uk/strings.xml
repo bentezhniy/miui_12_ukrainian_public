@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="eq_return">Назад</string>
+     <string name="page_layout_confirm_message_enlarge">Текст, зображення та іконки буде збільшено. Деякі іконки програм можуть змінити своє положення</string>
+     <string name="page_layout_confirm_message_narrow">Текст, зображення та іконки буде зменшено. Деякі іконки програм можуть змінити своє положення</string>
+     <string name="page_layout_confirm_title_enlarge">Великий інтерфейс</string>
+     <string name="page_layout_confirm_title_narrow">Маленький інтерфейс</string>
+     <string name="screen_optimize_disabled">Неможливо змінити контрастність, коли увімкнено режим читання</string>
+	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
