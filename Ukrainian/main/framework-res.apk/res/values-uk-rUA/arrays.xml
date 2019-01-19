@@ -23,9 +23,6 @@
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
-	<string-array name="config_ephemeralResolverPackage">
-        <item>com.google.android.gms</item>
-     </string-array>
     <string-array name="organizationtypes">
         <item>Робочий</item>
         <item>Інше</item>
@@ -148,11 +145,6 @@
         <item>Інша</item>
         <item>Вибрати</item>
      </string-array>
-	 <string-array name="config_locationProviderPackageNames">
-        <item>com.android.location.fused</item>
-        <item>com.google.android.gms</item>
-        <item>com.amap.android.location</item>
-    </string-array>
 	 <string-array name="wfcOperatorErrorAlertMessages">
         <item>"Щоб здійснювати виклики та надсилати повідомлення по Wi-Fi, необхідно спочатку звернутися до оператора зв'язку та підключити цю послугу. Після цього Ви зможете знову обрати цей параметр у налаштуваннях."</item>
      </string-array>

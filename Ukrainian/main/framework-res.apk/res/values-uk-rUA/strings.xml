@@ -296,7 +296,6 @@
      <string name="common_name">Стандартна назва:</string>
      <string name="condition_provider_service_binding_label">Провайдер стану</string>
      <string name="conference_call">"Конференц-зв'язок"</string>
-     <string name="config_networkLocationProviderPackageName">com.google.android.gms</string>
      <string name="configure_input_methods">Налаштувати спосіб введення</string>
      <string name="contentServiceSync">Синхронізація</string>
      <string name="contentServiceSyncNotificationTitle">Синхронізація</string>
