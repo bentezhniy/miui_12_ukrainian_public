@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="edit_event_dislike_title">Чому Ви скасовуєте?</string>
+     <string name="city_limit_back_icon_tip">Домашній екран</string>
+     <string name="city_limit_set_icon_tip">Нагадування</string>
+     <string name="lottery_blue_ball_tip">Синій шар</string>
+     <string name="lottery_red_ball_tip">Червоний шар</string>
+     <string name="select_today_tip">Сьогодні</string>
+     <string name="today_icon_voice_contentdescription">Повернутися на сьогоднішній день</string>
+	 <string name="edit_event_dislike_title">Чому Ви скасовуєте?</string>
      <string name="accessbility_suggestion_dropdown_closed">Доступних рекомендацій немає</string>
      <string name="accessbility_suggestion_dropdown_opened">Пропозицію контактів увімкнено</string>
      <string name="accessibility_add_attendee">Додати учасника</string>

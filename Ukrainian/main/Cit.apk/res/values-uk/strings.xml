@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="pop_camera">Pop камера</string>
+     <string name="dsi_sar_on_off_tips">Живлення Dsi Sar</string>
+     <string name="receiver_off">Ресивер вимкнено</string>
+     <string name="receiver_on">Ресивер увімкнено</string>
+     <string name="receiver_on_off_tips">Живлення ресивера</string>
+     <string name="sar_authentation_test_title">Тест аутентифікації Sar</string>
+     <string name="sar_off">Sar вимкнено</string>
+     <string name="sar_on">Sar увімкнено</string>
+     <string name="set_dsi_tips">Установити DSI</string>
+	 <string name="cit_tof_sensor_check_summary">"Значення для TOF мають з'явитись нижче"</string>
+     <string name="cit_tof_sensor_check_title">TofSensor</string>
+	 <string name="pop_camera">Pop камера</string>
      <string name="pop_push_camera_test_summary">Перевірка Pop та Push камери</string>
      <string name="pop_push_camera_test_title">Pop та Push</string>
      <string name="push_camera">Push камера</string>

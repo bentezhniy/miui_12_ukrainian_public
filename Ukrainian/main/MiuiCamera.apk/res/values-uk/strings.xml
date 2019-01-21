@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_ultra_pixel_photography_32mp_off">32 МП вимкнено</string>
+     <string name="autozoom_click_hint">"Натисніть на об'єкт"</string>
+     <string name="autozoom_disabled_hint">Автозум вимкнено</string>
+     <string name="autozoom_hint">Автозум</string>
+	 <string name="accessibility_video_btn_play">Програвання відео</string>
+	 <string name="accessibility_ultra_pixel_photography_32mp_off">32 МП вимкнено</string>
      <string name="accessibility_ultra_pixel_photography_32mp_on">32 МП увімкнено</string>
      <string name="accessibility_ultra_pixel_photography_48mp_off">48 МП вимкнено</string>
      <string name="accessibility_ultra_pixel_photography_48mp_on">48 МП увімкнено</string>

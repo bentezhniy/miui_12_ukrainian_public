@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="eq_return">Назад</string>
+     <string name="miui_ime_xiaoai_voice_hint">Більш швидкий та зручний спосіб введення тексту</string>
+     <string name="miui_ime_xiaoai_voice_title">Голосове введення Mi AI</string>
+	 <string name="eq_return">Назад</string>
      <string name="page_layout_confirm_message_enlarge">Текст, зображення та іконки буде збільшено. Деякі іконки програм можуть змінити своє положення</string>
      <string name="page_layout_confirm_message_narrow">Текст, зображення та іконки буде зменшено. Деякі іконки програм можуть змінити своє положення</string>
      <string name="page_layout_confirm_title_enlarge">Великий інтерфейс</string>

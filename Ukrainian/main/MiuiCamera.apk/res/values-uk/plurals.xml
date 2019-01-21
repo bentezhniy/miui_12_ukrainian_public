@@ -9,4 +9,8 @@
         <item quantity="other">Видалити обране?</item>
         <item quantity="one">Видалити обране?</item>
      </plurals>
+	 <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Знято %1$s фото</item>
+        <item quantity="one">Знято %1$s фото</item>
+     </plurals>
 </resources>
