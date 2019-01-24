@@ -3,7 +3,7 @@
     <string-array name="menu_copy_or_move">
         <item>Перемістити</item>
         <item>Копіювати</item>
-        <item>@string/cancel</item>
+        <item>Скасувати</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Минулий місяць</item>
