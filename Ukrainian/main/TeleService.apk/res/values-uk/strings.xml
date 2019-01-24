@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
+     <string name="vowifi_emergency_notification_channel">Попередження</string>
+     <string name="vowifi_emergency_notification_content">Екстрені виклики доступні лише в зоні дії стільникової мережі</string>
+     <string name="vowifi_emergency_notification_title">Wi-Fi виклики Vodafone</string>
+     <string name="vowifi_emergency_warning_check">"Запам'ятати"</string>
+     <string name="vowifi_emergency_warning_message">"Екстрені виклики доступні лише в зоні дії стільникової мережі.
+
+Пристрій автоматично перемкнеться на стільникову мережу для екстреного виклику"</string>
+     <string name="vowifi_emergency_warning_title">Виклики ECC по Wi-Fi</string>
+     <string name="wifi_call_setting_vodafone_de">Wi-Fi виклики</string>
+     <string name="wifi_call_setting_vodafone_uk">Wi-Fi виклики</string>
+	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
      <string name="bluetooth_active_no_battery_level">Активний</string>
      <string name="bluetooth_battery_level">%1$s батареї</string>
      <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_file_exception">Спробуйте додати інші шляхи у виключення</string>
+     <string name="notify_channel_service">Повідомлення синхронізації</string>
+	 <string name="add_file_exception">Спробуйте додати інші шляхи у виключення</string>
      <string name="chinese">Китайська</string>
      <string name="mail_search_lab">пошук</string>
      <string name="notify_channel_new_mail">Сповіщення про нові повідомлення</string>

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="collage_select_image_range">Колажі можуть складатися з 1-4 фото</string>
+     <string name="download_with_metered_network_msg">Під час завантаження вихідних файлів може стягуватися додаткова плата оператором. Продовжити завантаження через мобільний інтернет?</string>
+     <string name="download_with_metered_network_title">Попередження</string>
+     <string name="month_view_tip_button_text">ОК</string>
+     <string name="month_view_tip_sub_title">Використовуйте жест зменшення, щоб перемкнутися в режим перегляду місяця</string>
+     <string name="month_view_tip_title">Перегляд місяця</string>
+     <string name="movie_download_with_metered_network_msg">При завантаження вихідних файлів може стягуватися додаткова плата оператором. Продовжити завантаження через мобільний інтернет?</string>
+     <string name="movie_download_with_metered_network_title">Попередження</string>
+     <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
+     <string name="photo_font_cancel_download">Скасувати</string>
+     <string name="photo_font_download">Завантажити</string>
+     <string name="photo_font_download_failed_for_notwork">Неможливо завантажити. Перевірте підключення до інтернету</string>
+     <string name="photo_font_download_without_wifi_msg">При завантаженні файлів через мобільний інтернет може стягуватися додаткова плата оператором</string>
+     <string name="photo_font_download_without_wifi_title">Попередження</string>
+     <string name="text_tab_bubble">Пузирі</string>
+     <string name="text_tab_watermark">Водяні знаки</string>
+     <string name="video_editor_download_with_metered_network_msg">Під час завантаження вихідних файлів може стягуватися додаткова плата оператором. Продовжити завантаження через мобільний інтернет?</string>
+     <string name="video_editor_download_with_metered_network_title">Попередження</string>
+	 <string name="channel_default_name">Нові можливості</string>
+     <string name="channel_low_name">Нові повідомлення</string>
+     <string name="channel_min_name">Повідомлення програм</string>
+     <string name="filter_bi_bw">ЧБ</string>
+     <string name="filter_bi_dusk">Сутінки</string>
+     <string name="filter_bi_lilt">Ритм</string>
+     <string name="filter_bi_sepia">Сепія</string>
+     <string name="filter_bi_tea">Чай</string>
+     <string name="motion_photo_play">Програти</string>
+     <string name="movie_content_describe_add">Додати фото</string>
+     <string name="movie_content_describe_delete">Видалити фото</string>
+     <string name="movie_content_describe_pause">Пауза</string>
+     <string name="movie_content_describe_play">Програти</string>
+	 <string name="collage_select_image_range">Колажі можуть складатися з 1-4 фото</string>
      <string name="frame_not_support_image_ratio">Це співвідношення сторін не підтримується</string>
      <string name="operation_produce">Творчій підхід</string>
      <string name="photo_editor_crop_auto_tips">Кадровано автоматично</string>

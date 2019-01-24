@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="aod_dual_togother">HH:MM</string>
+     <string name="aod_dual_togother_12">hh:mm aa</string>
+     <string name="face_unlock_not_roi">Обличчя має знаходитися у рамці</string>
+	 <string name="description_image_icon_sim_card">SIM-карта %1$d</string>
+     <string name="stream_voice_assist">Голосовий помічник</string>
+     <string name="usb_port_overheated_dialog_content">"Порт живлення перегрівся. Від'єднайте зарядний пристрій та перевірте, чи порт чистий"</string>
+     <string name="usb_port_overheated_notification_content">"Від'єднайте зарядний пристрій та перевірте, чи порт чистий"</string>
+     <string name="usb_port_overheated_title">"Порт живлення перегрівся. Від'єднайте зарядний пристрій"</string>
 	 <string name="gxzw_long_press_tip">Утримуйте для доступу до додаткових функцій</string>
 	 <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
      <string name="bluetooth_active_no_battery_level">Активний</string>

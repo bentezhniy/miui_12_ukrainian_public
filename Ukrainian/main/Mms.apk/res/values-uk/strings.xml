@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="auto_identify_btn_text_only_smart_messaging">Розумні повідомлення</string>
+     <string name="auto_identify_btn_text_when_all_disabled">Перевіряти ID адресата автоматично</string>
+     <string name="auto_identify_btn_title">Повідомлення від невідомого номера</string>
+     <string name="auto_identify_confirmation">Для активації цієї функції може знадобитися декілька хвилин</string> 
      <string name="mark_number_by_own_dialog_subtitle">Позначено як %1$s</string>
      <string name="rcs_dspt_unavailable">Неможливо використовувати цю функцію. SIM-карта China Mobile не використовується за умовчанням</string>
      <string name="rcs_service_agreement">Угода користувача</string>

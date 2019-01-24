@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="favorite_title_modify_failed">"Неможливо змінити ім'я"</string>
+     <string name="miot_device_personal_assistant_eula">Угоду користувача</string>
+     <string name="miot_device_personal_assistant_eula_priv">" та "</string>
+     <string name="miot_device_personal_assistant_priv">Політику конфіденційності</string>
+     <string name="notification_channel_default_description">Інші сповіщення</string>
+     <string name="notification_channel_favorite_description">Сповіщення про елементи, додані до обраного у різних програмах</string>
+     <string name="notification_channel_payment_description">Сповіщення про платежі</string>
+     <string name="notification_channel_shopping_description">Сповіщення про товари, додані до обраного або у Ваш кошик</string>
 	 <string name="notification_channel_card">Карти</string>
      <string name="notification_channel_default">Стандартно</string>
      <string name="shopping_setting_pinduoduo">Pinduoduo</string>

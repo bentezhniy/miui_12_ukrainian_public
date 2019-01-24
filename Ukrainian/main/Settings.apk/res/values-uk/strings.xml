@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="miui_ime_xiaoai_voice_hint">Більш швидкий та зручний спосіб введення тексту</string>
+     <string name="aod_dual_togother">HH:MM</string>
+     <string name="aod_dual_togother_12">hh:mm aa</string>
+     <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+     <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+     <string name="aod_mode_bg">Фон</string>
+     <string name="aod_mode_clock">Годинник</string>
+     <string name="aod_mode_style">Стиль годинника</string>
+     <string name="aod_sample_date">Четвер, 10 травня</string>
+     <string name="aod_sample_hour">2</string>
+     <string name="aod_sample_hour_vertical">02</string>
+     <string name="aod_sample_minute">38</string>
+     <string name="aod_sample_time">2:38</string>
+     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Адаптивний режим Bluetooth Audio aptX</string>
+     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Bluetooth Audio
+Адаптивний aptX: режим кодеку"</string>
+     <string name="dark_color_mode">Темний режим</string>
+     <string name="dark_color_summary">Використовувати темне тло для сумісних програм</string>
+     <string name="open_dark_mode_dialog_summary">Деякі програми та налаштування екрану несумісні з темним режимом</string>
+     <string name="open_dark_mode_dialog_title">Увімкнути темний режим?</string>
+     <string name="screen_cancel">Скасувати</string>
+     <string name="screen_confirm">ОК</string>
+	 <string name="switch_select_to_speak_on">Оберіть для розмови</string>
+	 <string name="miui_ime_xiaoai_voice_hint">Більш швидкий та зручний спосіб введення тексту</string>
      <string name="miui_ime_xiaoai_voice_title">Голосове введення Mi AI</string>
 	 <string name="eq_return">Назад</string>
      <string name="page_layout_confirm_message_enlarge">Текст, зображення та іконки буде збільшено. Деякі іконки програм можуть змінити своє положення</string>

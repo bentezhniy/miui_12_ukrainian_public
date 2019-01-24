@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="theme_update_local_resource_notifaction">
+	<plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Доступно оновлень тем: %1$d</item>
         <item quantity="one">Доступно оновлень тем: %1$d</item>
 		<item quantity="few">Доступно оновлень тем: %1$d</item>

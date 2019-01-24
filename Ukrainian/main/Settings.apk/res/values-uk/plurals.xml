@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+     <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s год. %2$s"</item>
+     </plurals>
+	 <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">Додано: %d</item>
+     </plurals>
+	 <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="one">Надкоротка затримка (%1$d мсек.)</item>
         <item quantity="few">Надкоротка затримка (%1$d мсек.)</item>
         <item quantity="many">Надкоротка затримка (%1$d мсек.)</item>

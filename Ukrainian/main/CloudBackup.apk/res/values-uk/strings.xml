@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="cloud_back_up_subscribe_vip_confirm">Оновити</string>
+     <string name="restore_finish_description">Відновлення завершено</string>
+     <string name="restore_init_description">Почати відновлення</string>
+     <string name="restoring_file_title_no_progress">Відновлення файлів…</string>
+     <string name="restoring_settings">Відновлення налаштувань…</string>
+	 <string name="cloud_back_up_subscribe_vip_confirm">Оновити</string>
      <string name="cloud_back_up_subscribe_vip_discription">Отримайте більше місця та можливостей</string>
      <string name="cloud_back_up_subscribe_vip_title">Оновіть Mi акаунт</string>
 	 <string name="load_backup_failed">Помилка завантаження бекапу</string>

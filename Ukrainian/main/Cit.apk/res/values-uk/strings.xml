@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="dsi_sar_on_off_tips">Живлення Dsi Sar</string>
+     <string name="cit_no_sim_check_summary">Переконайтеся, що в телефоні немає SIM-карти</string>
+     <string name="cit_no_sim_check_title">Немає SIM-карти</string>
+     <string name="fp_fod_calibration">Калібрування сканера відбитків</string>
+	 <string name="cit_nfc_sim_check_summary">Переконайтеся, що нижче вказано вірний стан та інформація про SIM-карту NFC, тільки дві SIM-карти NFC можуть працювати одночасно</string>
+	 <string name="dsi_sar_on_off_tips">Живлення Dsi Sar</string>
      <string name="receiver_off">Ресивер вимкнено</string>
      <string name="receiver_on">Ресивер увімкнено</string>
      <string name="receiver_on_off_tips">Живлення ресивера</string>
