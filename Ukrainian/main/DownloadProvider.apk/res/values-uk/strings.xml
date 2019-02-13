@@ -39,7 +39,6 @@
      <string name="download_queued">В черзі</string>
      <string name="download_remaining">Залишилося %s</string>
      <string name="download_running">У процесі</string>
-     <string name="download_running_percent">Завантаження %s</string>
      <string name="download_unknown_title">&lt;без назви></string>
      <string name="enter_garbage_clean">"Очищення пам\'яті"</string>
      <string name="insufficient_space">"Недостатньо пам\'яті для завантаження"</string>
