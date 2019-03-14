@@ -148,7 +148,7 @@
      <string name="alert_device_error">Помилка на аудіо пристрою</string>
      <string name="alert_dialog_close">Закрийте профіль</string>
      <string name="alert_dialog_dismiss">Закрити</string>
-     <string name="alert_dialog_in_ecm_call">Обрана дія неможлива в режимі екстреного зв\’язку</string>
+     <string name="alert_dialog_in_ecm_call">Обрана дія неможлива в режимі екстреного зв\'язку</string>
      <string name="alert_dialog_no">Ні</string>
      <string name="alert_dialog_ok">ОК</string>
      <string name="alert_dialog_yes">Так</string>
@@ -185,8 +185,8 @@
      <string name="audio_mode_earpiece">Динамік</string>
      <string name="audio_mode_speaker">"Гучний зв'язок"</string>
      <string name="audio_mode_wired_headset">Гарнітура</string>
-     <string name="auth_username_summary">Ім\’я користувача для аутентифікації</string>
-     <string name="auth_username_title">Ім\’я користувача</string>
+     <string name="auth_username_summary">Ім\'я користувача для аутентифікації</string>
+     <string name="auth_username_title">Ім\'я користувача</string>
      <string name="auto_answer_delay_entries_delay_10s">10 секунд</string>
      <string name="auto_answer_delay_entries_delay_3s">3 секунди</string>
      <string name="auto_answer_delay_entries_delay_5s">5 секунд</string>
@@ -407,7 +407,7 @@
      <string name="call_record_setting">Запис викликів</string>
      <string name="call_record_whitelist_custom">Обрані номери</string>
      <string name="call_recording_notification_message">Натисніть, щоб прослухати.</string>
-     <string name="call_recording_notification_message_low_storage">Запис зупинено. Недостатньо пам\’яті</string>
+     <string name="call_recording_notification_message_low_storage">Запис зупинено. Недостатньо пам\'яті</string>
      <string name="call_recording_notification_message_sd_unmounted">Запис зупинено. Накопичувач вимкнений</string>
      <string name="call_recording_notification_summary">Показувати повідомлення в рядку стану при завершенні запису</string>
      <string name="call_recording_notification_title">Повідомлення про запис</string>
@@ -435,7 +435,7 @@
      <string name="callind">Налаштування можливостей</string>
      <string name="callind_multi_sim">Налаштування підписок</string>
      <string name="calling_via_template">Виклик через %s</string>
-     <string name="callwait_open_hint">Послуга \"Очікування виклику\" надається оператором, якщо Ви бачите помилку коду MMI, зверніться до Вашого оператора для з\’ясування подробиць</string>
+     <string name="callwait_open_hint">Послуга \"Очікування виклику\" надається оператором, якщо Ви бачите помилку коду MMI, зверніться до Вашого оператора для з\'ясування подробиць</string>
      <string name="can_not_call_self">Не можна здійснити виклик на свій номер</string>
      <string name="can_not_use_for_not_data_sim">(слід встановити типову SIM-карту)</string>
      <string name="cancel">Скасувати</string>
@@ -446,8 +446,8 @@
      <string name="card_title_MTcall_forwarding">Вхідний виклик переадресується</string>
      <string name="card_title_call_deflected">Виклик відхилений</string>
      <string name="card_title_call_ended">Виклик завершено</string>
-     <string name="card_title_callconnectedect">З\’єднання встановлене</string>
-     <string name="card_title_callconnectingect">З\’єднання виклику</string>
+     <string name="card_title_callconnectedect">З\'єднання встановлене</string>
+     <string name="card_title_callconnectingect">З\'єднання виклику</string>
      <string name="card_title_calliswaiting">Очікування виклику</string>
      <string name="card_title_callonhold">Утримання</string>
      <string name="card_title_callonhold_released">Виклик знято з очікування</string>
@@ -605,8 +605,8 @@
      <string name="connect_disconnect_vibrate_title">Вібрація при відповіді співрозмовника</string>
      <string name="connect_disconnect_vibrate_weak">Вібрувати слабко</string>
      <string name="connect_later">Неможливо підключитися до цієї мережі. Повторіть спробу пізніше</string>
-     <string name="connected_via_network_scorer">Автоматично під’єднано через %1$s</string>
-     <string name="connected_via_network_scorer_default">Автоматично під’єднано через постачальника оцінки якості мережі</string>
+     <string name="connected_via_network_scorer">Автоматично під'єднано через %1$s</string>
+     <string name="connected_via_network_scorer_default">Автоматично під'єднано через постачальника оцінки якості мережі</string>
      <string name="connected_via_passpoint">Підключено через %1$s</string>
      <string name="connected_via_wfa">Підключено через Wi-Fi помічника</string>
      <string name="connection_service_default_label">Підключення до вбудованного сервісу</string>
@@ -683,9 +683,9 @@
      <string name="description_dialpad_back">Назад</string>
      <string name="description_dialpad_overflow">Ще</string>
      <string name="description_image_button_eight">вісім</string>
-     <string name="description_image_button_five">п\’ять</string>
+     <string name="description_image_button_five">п\'ять</string>
      <string name="description_image_button_four">чотири</string>
-     <string name="description_image_button_nine">дев\’ять</string>
+     <string name="description_image_button_nine">дев\'ять</string>
      <string name="description_image_button_one">один</string>
      <string name="description_image_button_plus">Плюс</string>
      <string name="description_image_button_pound">решітка</string>
@@ -769,7 +769,7 @@
      <string name="disabled_by_admin_summary_text">Контролюється адміністратором</string>
      <string name="disconnect_data_confirm">Дані сервісу будуть вимкнені. Продовжити?</string>
      <string name="display_name_summary">&lt;Збігається з іменем користувача></string>
-     <string name="display_name_title">Відображуване ім\’я</string>
+     <string name="display_name_title">Відображуване ім\'я</string>
      <string name="dm_lock">DM заблоковано</string>
      <string name="dm_unlock">DM розблоковано</string>
      <string name="do_not_ask">"Запам'ятати"</string>
@@ -868,7 +868,7 @@
      <string name="enhanced_4g_lte_mode_title">Розширений режим 4G LTE</string>
      <string name="enhanced_4g_lte_mode_title_variant">Розширений виклик</string>
      <string name="ensure_info">ОК</string>
-     <string name="enterName">Ім\’я:</string>
+     <string name="enterName">Ім\'я:</string>
      <string name="enterNumber">Номер телефону:</string>
      <string name="enter_callbarring_password">Введіть пароль заборони викликів (4 символи)</string>
      <string name="enter_input" formatted="false">USSD запит повинен містити від %d до %d символів. Повторіть знову</string>
@@ -909,7 +909,7 @@
      <string name="fdn">Фіксовані номери</string>
      <string name="fdnListLabel">Фіксовані номери</string>
      <string name="fdn_activation">Активація фіксованих номерів</string>
-     <string name="fdn_check_failure">Увімкнено функцію набору фіксованих номерів. У результаті чого, деякі функції, пов\’язані з викликом можуть не працювати</string>
+     <string name="fdn_check_failure">Увімкнено функцію набору фіксованих номерів. У результаті чого, деякі функції, пов\'язані з викликом можуть не працювати</string>
      <string name="fdn_contact_added">Номер фіксованого набору додано</string>
      <string name="fdn_contact_deleted">Номер фіксованого набору вилучено</string>
      <string name="fdn_contact_name_number_invalid">"Ім'я або номер не можуть бути порожніми в той самий час."</string>
@@ -951,7 +951,7 @@
      <string name="force_rtl_layout_all_locales">Примусова розкладка RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Примусово показувати розкладку RTL для усіх мов</string>
      <string name="fw_change_failed">"Не вдалося змінити номер переадресації викликів.
-якщо проблема не буде вирішена, зв\’яжіться зі своїм оператором"</string>
+якщо проблема не буде вирішена, зв\'яжіться зі своїм оператором"</string>
      <string name="fw_get_in_vm_failed">"Не вдалося зберегти поточні налаштування переадресації.
 все рівно змінити провайдера?"</string>
      <string name="gemini_3g_disable_warning_case0">Спочатку Ви повинні увімкнути  роумінг даних для цієї SIM-карти, що може нести з собою значні витрати на роумінг! Ви впевнені, що хочете увімкнути  роумінг даних для цієї SIM-карти?</string>
@@ -1352,9 +1352,9 @@
      <string name="msim_enable_sim">Увімкнути</string>
      <string name="msim_general_setting">Загальні</string>
      <string name="msim_has_been_disabled">(відключено)</string>
-     <string name="msim_info_editor_name">Змінити ім\’я SIM-карти</string>
+     <string name="msim_info_editor_name">Змінити ім\'я SIM-карти</string>
      <string name="msim_info_editor_number">Змінити номер SIM-карти</string>
-     <string name="msim_info_editor_set_name_error">Неможливо змінити ім\’я</string>
+     <string name="msim_info_editor_set_name_error">Неможливо змінити ім\'я</string>
      <string name="msim_mode_progress_activating_message">Увімкнення…</string>
      <string name="msim_mode_progress_deactivating_message">Вимкнення…</string>
      <string name="msim_not_set_summary">Не встановлено</string>
@@ -1393,8 +1393,8 @@
      <string name="multi_category_disable">Добірка з декількох категорій вимкнена</string>
      <string name="multi_category_enable">Добірка з декількох категорій увімкнена</string>
      <string name="multi_sim_settings_title">Налаштування двох SIM-карток</string>
-     <string name="name">Ім\’я</string>
-     <string name="name_hint_text">Ім\’я</string>
+     <string name="name">Ім\'я</string>
+     <string name="name_hint_text">Ім\'я</string>
      <string name="national_disable">Національні новини вимкнені</string>
      <string name="national_enable">Національні новини увімкнені</string>
      <string name="net_or_simcard_busy">Мережа або SIM-карта зайнята, будь ласка спробуйте пізніше.</string>
@@ -1418,7 +1418,7 @@
      <string name="network_settings_auto_select_title">Вимкнути автовибір мережі?</string>
      <string name="network_settings_automatically_option">Автоматичний вибір мережі оператора (%s)</string>
      <string name="network_settings_confirm_message">Мережа може бути недоступна</string>
-     <string name="network_settings_data_connected_change">Неможливо змінити тип мережі під час активного інтернет з\’єднання. Вимкнути поточне інтернет з\’єднання й перемкнути мережу?</string>
+     <string name="network_settings_data_connected_change">Неможливо змінити тип мережі під час активного інтернет з\'єднання. Вимкнути поточне інтернет з\'єднання й перемкнути мережу?</string>
      <string name="network_settings_duringcall">Операція недоступна під час виклику</string>
      <string name="network_settings_forbidden">%s (заборонене)</string>
      <string name="network_settings_information">Інформація</string>
@@ -1558,7 +1558,7 @@
      <string name="operator_mins_first_close">Виключити</string>
      <string name="operator_remain_mins">Пакет хвилин оператора</string>
      <string name="operator_remain_mins_value">%1$s хв.</string>
-     <string name="optional_summary">&lt;Необов\’язково></string>
+     <string name="optional_summary">&lt;Необов\'язково></string>
      <string name="order_by_name">За іменем</string>
      <string name="order_by_recent">За частотою використання</string>
      <string name="order_error_network">Помилка завантажування. Мережа недосяжна.</string>
@@ -1596,7 +1596,7 @@
      <string name="ota_unsuccessful">"Ваш пристрій не активовано.
 Можливо, Вам слід знайти зону з більш високим рівнем сигналу (у вікна або на вулиці).
 
-Повторіть спробу або зв\’яжіться зі службою підтримки."</string>
+Повторіть спробу або зв\'яжіться зі службою підтримки."</string>
      <string name="other">Інше</string>
      <string name="other_available_phone_accounts">Інші доступні акаунти</string>
      <string name="other_countries_and_regions">Інші регіони</string>
@@ -1681,7 +1681,7 @@
      <string name="pin2_changed">PIN2 змінений</string>
      <string name="pin2_error_exception">Помилка мережі або SIM-карти</string>
      <string name="pin2_invalid">Номер фіксованого набору не оновлений: Ви ввели хибний PIN.</string>
-     <string name="pin2_invalid_or_name_is_too_long">Ви ввели хибний PIN або занадто довге ім\’я</string>
+     <string name="pin2_invalid_or_name_is_too_long">Ви ввели хибний PIN або занадто довге ім\'я</string>
      <string name="pin2_lock_warning">"
 функціонал PIN2 буде заблокований при невдалій спробі введення"</string>
      <string name="pin2_or_fdn_invalid">"FDN не оновлене. PIN2-код введено неправильно або номер телефону був відхилений."</string>
@@ -1891,13 +1891,13 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="registration_status_checking_status">Перевірка стану…</string>
      <string name="registration_status_done">Виклики ухвалюються</string>
      <string name="registration_status_failed_try_later">Не вдалося зареєструвати обл.запис (%s). Нову спробу буде здійснено пізніше</string>
-     <string name="registration_status_invalid_credentials">Не вдалося зареєструвати обл.запис: хибне ім\’я користувача або пароль</string>
+     <string name="registration_status_invalid_credentials">Не вдалося зареєструвати обл.запис: хибне ім\'я користувача або пароль</string>
      <string name="registration_status_no_data">Реєстрація обл.запису перервана: відстуне підключення до інтернету.</string>
      <string name="registration_status_no_wifi_data">Реєстрація обл.запису перервана: відсутнє підключення до Wi-Fi мережі.</string>
      <string name="registration_status_not_receiving">Виклики не ухвалюються</string>
      <string name="registration_status_not_running">Не вдалося зареєструвати обл.запис</string>
      <string name="registration_status_registering">Реєстрація…</string>
-     <string name="registration_status_server_unreachable">Не вдалося зареєструвати обл.запис: хибне ім\’я серверу.</string>
+     <string name="registration_status_server_unreachable">Не вдалося зареєструвати обл.запис: хибне ім\'я серверу.</string>
      <string name="registration_status_still_trying">Зачекайте…</string>
      <string name="reject_via_sms">Швидкі відповіді</string>
      <string name="reject_via_sms_summary">Шаблони для швидких відповідей по SMS</string>
@@ -2042,7 +2042,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="show_hw_screen_updates_summary">Показувати дані у вікнах під час малювання з GPU</string>
      <string name="show_non_rect_clip">Налагодження непрямокутного перетину</string>
      <string name="show_notification_channel_warnings">Показувати застереження про канал</string>
-     <string name="show_notification_channel_warnings_summary">З’являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
+     <string name="show_notification_channel_warnings_summary">З'являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
      <string name="show_screen_updates">Оновлення екрану</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>
@@ -2067,7 +2067,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="sim_cards_network_mode_changed_title">Виявлена нова SIM-карта</string>
      <string name="sim_change_data_message">Використовувати %1$s замість %2$s для мобільного інтернету?</string>
      <string name="sim_change_data_title">Заміна SIM-карти</string>
-     <string name="sim_contact_name">Ім\’я</string>
+     <string name="sim_contact_name">Ім\'я</string>
      <string name="sim_contact_number">Номер</string>
      <string name="sim_description_default">Слот SIM-картки: %s</string>
      <string name="sim_description_emergency_calls">Тільки екстрені виклики</string>
@@ -2207,7 +2207,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="telocation_custom_empty">Немає кодів</string>
      <string name="telocation_custom_location_summary">Керування кодами регіонів і країн</string>
      <string name="telocation_custom_location_title">Коди регіонів</string>
-     <string name="telocation_custom_name_hint">Ім\’я</string>
+     <string name="telocation_custom_name_hint">Ім\'я</string>
      <string name="telocation_custom_number_hint">Код регіону</string>
      <string name="telocation_edit_custom_location_title">Додавання коду</string>
      <string name="telocation_enable_title">Показувати місце розташування</string>
@@ -2270,7 +2270,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мовлення</string>
      <string name="tts_default_sample_string">Приклад синтезу мовлення</string>
-     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з’єднання з інтернетом"</string>
+     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з'єднання з інтернетом"</string>
      <string name="tts_engine_preference_section_title">Вподобання</string>
      <string name="tts_engine_security_warning">Система синтезу мовлення може записувати вимовлені слова, з урахуванням особистих даних, такі як паролі та номери кредитних карт. Це здійснює система %s. Дозволити використання цієї системи синтезу мовлення?</string>
      <string name="tts_engine_settings_button">Налаштування синтезу мовлення</string>
@@ -2332,7 +2332,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="use_range">Використання</string>
      <string name="use_system_language_to_select_input_method_subtypes">Використовувати мови системи</string>
      <string name="user_guest">Гість</string>
-     <string name="username_title">Ім\’я користувача</string>
+     <string name="username_title">Ім\'я користувача</string>
      <string name="ussdRunning">Виконується USSD запит…</string>
      <string name="ussdrunning">Виконується USSD запит…</string>
      <string name="ut_not_support">UT не підтримується</string>
@@ -2352,7 +2352,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="video_call">Голосовий виклик</string>
      <string name="video_calling_settings_title">Відеовиклики</string>
      <string name="vm_change_failed">"Не вдалося змінити номер голосової пошти.
-якщо проблема не буде вирішена, зв\’яжіться зі своїм оператором"</string>
+якщо проблема не буде вирішена, зв\'яжіться зі своїм оператором"</string>
      <string name="vm_change_pin_error_invalid">Новий PIN-код містить недопустимі символи</string>
      <string name="vm_change_pin_error_mismatch">Старий PIN-код вказано невірно</string>
      <string name="vm_change_pin_error_system_error">Неможливо змінити PIN-код</string>
@@ -2524,7 +2524,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="wifi_calling_use_call_assistant">Використовувати асистента викликів</string>
      <string name="wifi_calling_use_call_assistant_summary">Керування мережами, що використовуються для викликів.</string>
      <string name="wifi_connected_no_internet">Підключено. Доступ до інтернету відсутній</string>
-     <string name="wifi_disabled_by_recommendation_provider">Не під’єднано через низьку якість мережі</string>
+     <string name="wifi_disabled_by_recommendation_provider">Не під'єднано через низьку якість мережі</string>
      <string name="wifi_disabled_generic">Відключено</string>
      <string name="wifi_disabled_network_failure">Підключено</string>
      <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>

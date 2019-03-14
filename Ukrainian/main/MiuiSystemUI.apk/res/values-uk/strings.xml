@@ -651,8 +651,8 @@
      <string name="notification_low_battery_title">Батарея розряджена: %d%%</string>
 	 <string name="accessibility_display_daltonizer_preference_subtitle">Це експериментальна функція. Вона може вплинути на продуктивність пристрою.</string>
      <string name="accessibility_display_daltonizer_preference_title">Корекція кольору</string>
-     <string name="adb_keys_warning_message">"Скасувати доступ до налагодження по USB для всіх комп’ютерів, які раніше отримали таке право?"</string>
-     <string name="adb_warning_message">"Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп’ютером та пристроєм, встановлення програм на Вашому пристрої без сповіщення та читання даних журналу."</string>
+     <string name="adb_keys_warning_message">"Скасувати доступ до налагодження по USB для всіх комп'ютерів, які раніше отримали таке право?"</string>
+     <string name="adb_warning_message">"Налагодження USB застосовується лише з метою розробки. Його можна використовувати для копіювання даних між комп'ютером та пристроєм, встановлення програм на Вашому пристрої без сповіщення та читання даних журналу."</string>
      <string name="adb_warning_title">Дозволити налагодження по USB?</string>
      <string name="allow_mock_location">Фіктивні місцезнаходження</string>
      <string name="allow_mock_location_summary">Дозволити використання фіктивних місцезнаходжень</string>
@@ -833,7 +833,7 @@
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мовлення</string>
      <string name="tts_default_sample_string">Це приклад синтезу мовлення</string>
-     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з’єднання з інтернетом"</string>
+     <string name="tts_engine_network_required">"Для увімкнення синтезу мовлення цією мовою потрібно мати з'єднання з інтернетом"</string>
      <string name="tts_engine_preference_section_title">Система за замовчуванням</string>
      <string name="tts_engine_security_warning">"Ця система синтезу мовлення може збирати всі відтворювані тексти, зокрема особисті дані, такі як паролі та номери кредитних карток. Вона походить від системи %s. Увімкнути використання цієї системи синтезу мовлення?"</string>
      <string name="tts_engine_settings_button">Налаштування синтезу мовлення</string>

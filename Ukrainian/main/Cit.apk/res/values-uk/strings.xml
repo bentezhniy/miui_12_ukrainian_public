@@ -361,7 +361,7 @@
      <string name="cit_audio_lb_frontmic_to_speaker_title">Перевірка переднього мікрофона</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Основний мікрофон</string>
      <string name="cit_audio_lb_phonecall_title">Імітація виклику</string>
-     <string name="cit_audio_lb_summary_backmic_to_speaker">"Перевірка заднього мікрофона на зворотний зв’язок.
+     <string name="cit_audio_lb_summary_backmic_to_speaker">"Перевірка заднього мікрофона на зворотний зв'язок.
 Говоріть у задній мікрофон, Ви повинні почути свій голос з динаміка."</string>
      <string name="cit_audio_lb_summary_frontmic_to_speaker">"Перевірка переднього мікрофона на зворотний зв'язок. Говоріть в передній мікрофон і Ви повинні почути свій голос з динаміка."</string>
      <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Перевірка основного мікрофона на зворотній зв'язок. Тримайте телефон біля вуха, ніби то Ви здійснюєте виклик, говоріть в основний мікрофон і Ви повинні почути голос з динаміку."</string>
@@ -517,7 +517,7 @@
      <string name="cit_headset_button_stop">Стоп</string>
      <string name="cit_headset_button_unknown">Невідомо</string>
      <string name="cit_headset_loopback_check_summary">Підключіть гарнітуру та говоріть у мікрофон. Якщо мікрофон працює, то Ви почуєте свій голос у навушниках.</string>
-     <string name="cit_headset_loopback_check_title">Зворотній зв\’язок гарнітури</string>
+     <string name="cit_headset_loopback_check_title">Зворотній зв\'язок гарнітури</string>
      <string name="cit_headset_plug_detect_summary">"Після підключення гарнітури нижче повинен з\'явитися напис \"Гарнітура підключена\""</string>
      <string name="cit_headset_plug_detect_title">Гарнітура</string>
      <string name="cit_headset_plug_finish">Гарнітура підключена</string>
@@ -610,12 +610,12 @@
      <string name="cit_sim_check_title">SIM-карта</string>
      <string name="cit_sim_error_unknown">Невідомо</string>
      <string name="cit_sim_network_operator">Оператор стільникової мережі:</string>
-     <string name="cit_sim_network_operator_name">Ім\’я оператора мережі:</string>
+     <string name="cit_sim_network_operator_name">Ім\'я оператора мережі:</string>
      <string name="cit_sim_network_type">Тип мережі:</string>
      <string name="cit_sim_serial_number">Номер SIM-карти:</string>
      <string name="cit_sim_sim_country">Країна:</string>
      <string name="cit_sim_sim_operator">Код постачальника SIM:</string>
-     <string name="cit_sim_sim_operator_name">Ім\’я постачальника SIM:</string>
+     <string name="cit_sim_sim_operator_name">Ім\'я постачальника SIM:</string>
      <string name="cit_sim_state_absent">Немає SIM-карти</string>
      <string name="cit_sim_state_network_locked">PIN</string>
      <string name="cit_sim_state_pin_required">Потрібний PIN код</string>
@@ -758,7 +758,7 @@
      <string name="cit_tool_log_toast">Звіт збережений у %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Створення звіту про помилку(триватиме близько 1 хвилини)</string>
      <string name="cit_tool_modem">Інструменти модему</string>
-     <string name="cit_tool_modem_bugreport">Дамп пам\’яті модему</string>
+     <string name="cit_tool_modem_bugreport">Дамп пам\'яті модему</string>
      <string name="cit_tool_modem_cta_test">Відкрити/закрити протокол відповідності тесту</string>
      <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
      <string name="cit_tool_modem_cu_volte_no">Вимкнути CU VoLTE</string>
@@ -804,8 +804,8 @@
      <string name="cit_tool_wifi_band_5">група: 5G</string>
      <string name="cit_tool_wifi_band_change">Далі</string>
      <string name="cit_tool_wifi_exit">Вихід</string>
-     <string name="cit_tool_wifi_rx_ap_name">Введіть ім\’я AP</string>
-     <string name="cit_tool_wifi_rx_ap_not_null">Ім\’я або тип AP не може бути порожнім</string>
+     <string name="cit_tool_wifi_rx_ap_name">Введіть ім\'я AP</string>
+     <string name="cit_tool_wifi_rx_ap_not_null">Ім\'я або тип AP не може бути порожнім</string>
      <string name="cit_tool_wifi_rx_ap_type_error">Помилка AP, введіть заново (bss/adhoc)</string>
      <string name="cit_tool_wifi_rx_chan">Rx: канал</string>
      <string name="cit_tool_wifi_rx_count_error">Вихідне значення не є числом</string>

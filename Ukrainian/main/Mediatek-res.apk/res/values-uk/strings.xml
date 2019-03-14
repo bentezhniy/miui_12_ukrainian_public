@@ -277,7 +277,7 @@
      <string name="virtual_sim_on_slot3">Віртуальна SIM 3 увімкнена</string>
      <string name="virtual_sim_on_slot4">Віртуальна SIM 4 увімкнена</string>
      <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI буде відключений при підключенні WiDi. Продовжити?</string>
-     <string name="wifi_display_change_resolution_reminder">При зміні розширення екрану WiDi буде перепідключено</string>
+     <string name="wifi_display_change_resolution_reminder">При зміні роздільної здатності екрану WiDi буде перепідключено</string>
      <string name="wifi_display_connection_is_not_steady">Нестабільне з\'єднання WiDi</string>
      <string name="wifi_display_disconnect_then_reconnect">WiDi вимкнений. Перепідключити?</string>
      <string name="wifi_display_disconnected">WiDi вимкнений</string>

@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="aod_dual_togother">HH:MM</string>
+     <string name="battery_abnormal_apps_summary">"Кількість програм, що працюють неправильно: %1$d"</string>
+     <string name="battery_abnormal_details_title">"Програми з надлишковим споживанням програм"</string>
+     <string name="battery_abnormal_location_summary">"Пристрій занадто часто запитує інформацію про геолокацію"</string>
+     <string name="battery_abnormal_wakelock_summary">"Пристрій не переходить у режим сну"</string>
+     <string name="battery_abnormal_wakeup_alarm_summary">"режим сну вимикається у фоновому режимі"</string>
+     <string name="battery_active_for">"Час роботи: ^1"</string>
+     <string name="battery_auto_restriction_summary">"Виявляти програми з надмірним споживанням батареї"</string>
+     <string name="battery_auto_restriction_title">"Використовувати Battery Manager"</string>
+     <string name="battery_full_charge_last">"Час роботи при повному заряді батареї"</string>
+     <string name="battery_manager_off">"Вимкнено"</string>
+     <string name="battery_manager_on">"Увімкнено функцію виявлення програм з надмірним споживанням батареї"</string>
+     <string name="battery_saver_auto_title">"Вмикати автоматично"</string>
+     <string name="battery_saver_button_turn_off">"Вимкнути"</string>
+     <string name="battery_saver_button_turn_on">"Увімкнути"</string>
+     <string name="battery_saver_master_switch_title">"Використовувати режим енергозбереження"</string>
+     <string name="battery_saver_off_scheduled_summary">"Автоматичне увімкнення при рівні заряду %1$s"</string>
+     <string name="battery_saver_seekbar_title">"При рівні заряду %1$s"</string>
+     <string name="battery_saver_seekbar_title_placeholder">"Увімкнути"</string>
+     <string name="battery_suggestion_summary"></string>
+     <string name="battery_suggestion_title">"Збільшіть час роботи від батареї"</string>
+     <string name="battery_tip_dialog_message">"Пристрій використовується довше, ніж зазвичай. Батарея скоро розрядиться.
+
+Топ-%1$d програм з високим споживанням заряду (з моменту останньої зарядки):"</string>
+     <string name="battery_tip_dialog_summary_message">"Ваші програми споживають заряд нормально. При надмірному споживанні Ви отримаєте рекомендації про те, що можна покращити.
+
+Якщо заряд батареї знизиться до мінімального, Ви можете увімкнути режим енергозбереження"</string>
+     <string name="battery_tip_early_heads_up_done_summary">"Функціональність деяких сервісів може бути обмежена"</string>
+     <string name="battery_tip_early_heads_up_done_title">"Режим енергозбереження увімкнено"</string>
+     <string name="battery_tip_early_heads_up_summary">"Споживання батареї швидше, ніж зазвичай"</string>
+     <string name="battery_tip_early_heads_up_title">"Увімкніть режим енергозбереження"</string>
+     <string name="battery_tip_high_usage_summary">"Батарея скоро розрядиться"</string>
+     <string name="battery_tip_high_usage_title">"Пристрій використовується довше, ніж зазвичай"</string>
+     <string name="battery_tip_low_battery_summary">"Час роботи пристрою без підзарядки обмежений"</string>
+     <string name="battery_tip_low_battery_title">"Низька ємність батареї"</string>
+     <string name="battery_tip_restrict_app_dialog_message">"Для економії заряду батареї зупиніть роботу програми \"%1$s\" у фоні. Це може обмежити її функціональність та спричинити затримку сповіщень"</string>
+     <string name="battery_tip_restrict_app_dialog_ok">"Обмежити"</string>
+     <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"Для економії заряду батареї зупиніть роботу вказаних програм у фоні. Це може обмежити їх функціональність та спричинити затримку сповіщень.
+
+Програми:"</string>
+     <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"Для економії заряду батареї зупиніть роботу вказаних програм у фоні. Це може обмежити їх функціональність та спричинити затримку сповіщень.
+
+Програми:
+%1$s"</string>
+     <string name="battery_tip_smart_battery_summary">"Увімкнути Battery Manager"</string>
+     <string name="battery_tip_smart_battery_title">"Зробіть час роботи батареї тривалішим"</string>
+     <string name="battery_tip_summary_summary">"Пристрій споживає заряд як зазвичай"</string>
+     <string name="battery_tip_summary_title">"Програми працюють нормально"</string>
+     <string name="battery_tip_unrestrict_app_dialog_cancel">"Скасувати"</string>
+     <string name="battery_tip_unrestrict_app_dialog_message">"Ця програма буде споживати заряд батареї у фоновому режимі. Пристрій розрядиться швидше, ніж зазвичай"</string>
+     <string name="battery_tip_unrestrict_app_dialog_ok">"Скасувати"</string>
+     <string name="battery_tip_unrestrict_app_dialog_title">"Скасувати обмеження?"</string>
+	 <string name="status_bar_settings_notification_style">Стиль сповіщень</string>
+	 <string name="gxzw_quick_open_enable_summary">Використовуйте ярлики для запуску різноманітних функцій під час розблокування екрану</string> 
+     <string name="gxzw_quick_open_enable_title">Ярлики відбитків пальців</string> 
+     <string name="gxzw_quick_open_fast_summary">Проведіть пальцем, щоб використовувати ярлик під час розблокування екрану</string> 
+     <string name="gxzw_quick_open_fast_title">Швидка прокрутка (додатково)</string> 
+     <string name="gxzw_quick_open_slow_summary">Натисніть та утримуйте іконку відбитка пальця, щоб відкрити контекстне меню. Проведіть пальцем, щоб використовувати ярлик</string> 
+     <string name="gxzw_quick_open_slow_title">Натиснути та утримувати</string> 
+     <string name="gxzw_quick_open_title">Ярлики</string>
+	 <string name="aod_dual_togother">HH:MM</string>
      <string name="aod_dual_togother_12">hh:mm aa</string>
      <string name="aod_lock_screen_date">EEEE, d MMMM</string>
      <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>

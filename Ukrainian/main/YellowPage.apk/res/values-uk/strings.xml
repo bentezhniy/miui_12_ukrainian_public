@@ -359,7 +359,7 @@
      <string name="loading_resource_detail_info">Завантаження…</string>
      <string name="online_no_network">Неможливо підключитися до інтернету</string>
      <string name="online_search_hint">Введіть ключові слова</string>
-     <string name="remember_preference">Запам\’ятати</string>
+     <string name="remember_preference">Запам\'ятати</string>
      <string name="resource_account_abnormal_state">Помилка обл.запису. Спробуйте пізніше.</string>
      <string name="resource_account_fail_to_add">Не вдалося додати акаунт</string>
      <string name="resource_account_login">Вхід</string>

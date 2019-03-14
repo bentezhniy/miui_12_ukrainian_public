@@ -44,7 +44,7 @@
      <string name="abc_shareactionprovider_share_with_application">Надіслати за допомогою %s</string>
      <string name="accessibility_guide_first">Оберіть автоматичне налаштування 139 Mailbox у вкладці \"Сервіси\"</string>
      <string name="accessibility_guide_second">Потім натисніть на перемикач, розташований на верхньому правому куті та оберіть \"Підтвердити\".</string>
-     <string name="account_duplicate_dlg_message_fmt">Це ім\’я користувача вже використовується в акаунті \"%s\"</string>
+     <string name="account_duplicate_dlg_message_fmt">Це ім\'я користувача вже використовується в акаунті \"%s\"</string>
      <string name="account_duplicate_dlg_title">Копіювати акаунт</string>
      <string name="account_failure">Помилка акаунту</string>
      <string name="account_folder_list_summary_drafts">Чернетки</string>
@@ -85,14 +85,14 @@
      <string name="account_settings_incoming_label">Вхідні</string>
      <string name="account_settings_incoming_summary">Налаштування сервера вхідної пошти</string>
      <string name="account_settings_list_title">Виберіть поштову службу:</string>
-     <string name="account_settings_login_dialog_content_fmt">Неправильне ім\’я користувача або пароль акаунту %s. Оновити дані?</string>
+     <string name="account_settings_login_dialog_content_fmt">Неправильне ім\'я користувача або пароль акаунту %s. Оновити дані?</string>
      <string name="account_settings_login_dialog_reason_fmt" formatted="false">Помилка авторизації в %s. Відповідь сервера: %s. Оновити логін і пароль?</string>
      <string name="account_settings_login_dialog_title">Не вдалося увійти в акаунт</string>
      <string name="account_settings_mail_check_frequency_dialog_title">Вам необхідно оновити поту самостійно, щоб синхронізувати повідомлення</string>
      <string name="account_settings_mail_check_frequency_dialog_title_eas">Якщо Ви активуєте ручний режим, Вам буде необхідно самостійно оновлювати повідомлення та дані календаря</string>
      <string name="account_settings_mail_check_frequency_label">Періодичність перевірки повідомлень</string>
      <string name="account_settings_mibill_resolve_label">Аналіз звітів</string>
-     <string name="account_settings_name_label">Ім\’я</string>
+     <string name="account_settings_name_label">Ім\'я</string>
      <string name="account_settings_notifications">Сповіщення</string>
      <string name="account_settings_notify_label">Сповіщення про пошту</string>
      <string name="account_settings_notify_summary">Показувати сповіщення при одержанні нових повідомлень</string>
@@ -149,9 +149,9 @@
      <string name="account_setup_failed_auth_required">Методи аутентифікації не підтримуються сервером</string>
      <string name="account_setup_failed_certificate_inaccessible">Сертифікат недійсний або недоступний</string>
      <string name="account_setup_failed_certificate_required">Необхідний сертифікат клієнта. Підключитися до сервера?</string>
-     <string name="account_setup_failed_check_credentials_message">Помилка сервера. Перевірте ім\’я користувача й пароль і повторіть  спробу</string>
-     <string name="account_setup_failed_dlg_auth_message">Неправильне ім\’я користувача або пароль</string>
-     <string name="account_setup_failed_dlg_auth_message_fmt">"Неправильне ім\’я користувача або пароль
+     <string name="account_setup_failed_check_credentials_message">Помилка сервера. Перевірте ім\'я користувача й пароль і повторіть  спробу</string>
+     <string name="account_setup_failed_dlg_auth_message">Неправильне ім\'я користувача або пароль</string>
+     <string name="account_setup_failed_dlg_auth_message_fmt">"Неправильне ім\'я користувача або пароль
 (%s)"</string>
      <string name="account_setup_failed_dlg_bar_title">Авторизація %s</string>
      <string name="account_setup_failed_dlg_certificate_message">Не вдалося встановити захищене підключення до сервера</string>
@@ -170,7 +170,7 @@
      <string name="account_setup_failed_ioerror">Не вдалося підключитися до сервера</string>
      <string name="account_setup_failed_protocol_unsupported">Введена неправильна адреса сервера або сервер запитує версію протоколу, яка не підтримується в пошті.</string>
      <string name="account_setup_failed_security">Не вдалося встановити підключення до сервера через помилку безпеки</string>
-     <string name="account_setup_failed_security_policies_unsupported">Ваш пристрій не підтримує обов\’язкові для сервера функції захисту: %s</string>
+     <string name="account_setup_failed_security_policies_unsupported">Ваш пристрій не підтримує обов\'язкові для сервера функції захисту: %s</string>
      <string name="account_setup_failed_tls_required">TLS не підтримується сервером</string>
      <string name="account_setup_failed_too_many_partnerships">Помилка авторизації. Досягнуто максимальну кількість підключень до сервера.</string>
      <string name="account_setup_incoming_delete_policy_delete_label">При видаленні із вхідних</string>
@@ -192,7 +192,7 @@
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (ухвалювати всі сертифікати)</string>
      <string name="account_setup_incoming_server_label">Сервер</string>
      <string name="account_setup_incoming_title">Налаштування акаунту</string>
-     <string name="account_setup_incoming_username_label">Ім\’я користувача</string>
+     <string name="account_setup_incoming_username_label">Ім\'я користувача</string>
      <string name="account_setup_incoming_username_label_default_hint">Містить домен</string>
      <string name="account_setup_index_label">Додати акаунт</string>
      <string name="account_setup_index_other_mails">Інші</string>
@@ -200,7 +200,7 @@
      <string name="account_setup_names_headline">Акаунт налаштований</string>
      <string name="account_setup_names_title">Налаштування акаунту</string>
      <string name="account_setup_names_user_name_empty_error">Це поле повинне бути заповнене</string>
-     <string name="account_setup_names_user_name_label">Ім\’я (відображається у вихідних повідомленнях)</string>
+     <string name="account_setup_names_user_name_label">Ім\'я (відображається у вихідних повідомленнях)</string>
      <string name="account_setup_need_password_verification">Ваш акаунт був відкритий на іншому обладнанні. Потрібна повторна авторизація</string>
      <string name="account_setup_not_disturb_title">Не турбувати</string>
      <string name="account_setup_options_actionbar_title">Загальні налаштування</string>
@@ -240,13 +240,13 @@
      <string name="account_setup_outgoing_security_label">Тип безпеки</string>
      <string name="account_setup_outgoing_smtp_server_label">Сервер SMTP</string>
      <string name="account_setup_outgoing_title">Налаштування акаунту</string>
-     <string name="account_setup_outgoing_username_label">Ім\’я користувача</string>
+     <string name="account_setup_outgoing_username_label">Ім\'я користувача</string>
      <string name="account_setup_security_policies_required_fmt">Серверу %s потрібний дозвіл на віддалене керування деякими функціями безпеки пристрою. Завершити налаштування цього акаунту?</string>
      <string name="account_setup_security_required_title">Віддалене керування безпекою</string>
      <string name="account_setup_server_acc_manager_title">Акаунт</string>
      <string name="account_setup_service_not_set">Акаунт ще не налаштований</string>
      <string name="account_setup_username_password_toast">Введіть  дійсну адресу e-mail й пароль</string>
-     <string name="account_setup_username_uneditable_error">Неможливо змінити ім\’я користувача. Якщо хочете використовувати інше ім\’я, створіть новий акаунт.</string>
+     <string name="account_setup_username_uneditable_error">Неможливо змінити ім\'я користувача. Якщо хочете використовувати інше ім\'я, створіть новий акаунт.</string>
      <string name="account_sync_off">Синхронізація акаунту вимкнена</string>
      <string name="account_sync_settings_settings">Синхронізація контактів та календарів</string>
      <string name="account_sync_settingstip_description">Налаштування синхронізації</string>
@@ -289,7 +289,7 @@
      <string name="att_file_not_exists">Файл \"%s\" не знайдений</string>
      <string name="att_mgr_no_attachment">Немає вкладень</string>
      <string name="att_mgr_title_order_mime">Формат</string>
-     <string name="att_mgr_title_order_name">Ім\’я</string>
+     <string name="att_mgr_title_order_name">Ім\'я</string>
      <string name="att_mgr_title_order_rev_date">Дата</string>
      <string name="att_mgr_title_order_sender">Відправник</string>
      <string name="att_mgr_title_order_size">Розмір</string>
@@ -477,7 +477,7 @@
      <string name="conversation_item_mark_unread">Не прочитане</string>
      <string name="conversation_list_net_check">Неможливо підключитися до інтернету</string>
      <string name="conversation_msg_header_collapsed_sent_to">"Надіслати: "</string>
-     <string name="conversation_overload_toast">Це повідомлення занадто велике, прочитайте його з ком\’ютера.</string>
+     <string name="conversation_overload_toast">Це повідомлення занадто велике, прочитайте його з ком\'ютера.</string>
      <string name="conversation_photo_welcome_text">Натисніть на іконку контакту для вибору діалогу</string>
      <string name="conversation_pull_ad_content">Ефективний поштовий менеджер</string>
      <string name="conversation_quick_button_approve">Прийняти</string>
@@ -527,12 +527,12 @@
      <string name="dialog_auto_sync_setting_no_open">Синхронізація повідомлень вимкнена</string>
      <string name="dialog_change_sync_lookback">Повідомлення, отримані %s тому будуть автоматично видалені. Натисніть для зміни.</string>
      <string name="dialog_gmail_proxy_server_is_error">Помилка проксі сервера Gmail</string>
-     <string name="dialog_insufficient_space_for_single_account_on_internal">Недостатньо пам\’яті у \"%s\"</string>
-     <string name="dialog_insufficient_space_on_external">Недостатньо місця в зовнішній пам\’яті</string>
-     <string name="dialog_insufficient_space_on_internal">Недостатньо місця у внутрішній пам\’яті</string>
+     <string name="dialog_insufficient_space_for_single_account_on_internal">Недостатньо пам\'яті у \"%s\"</string>
+     <string name="dialog_insufficient_space_on_external">Недостатньо місця в зовнішній пам\'яті</string>
+     <string name="dialog_insufficient_space_on_internal">Недостатньо місця у внутрішній пам\'яті</string>
      <string name="dialog_system_auto_sync_account_no_open">Синхронізацію вимкнено</string>
      <string name="dialog_system_auto_sync_master_no_open">Синхронізацію вимкнено</string>
-     <string name="disable_admin_warning">Відключення прав на адміністрування Вашого пристрою для програми \"Пошта\" приведе до видалення всіх акаунтів e-mail, які використовують ці права. Крім того, будуть видалені всі повідомлення, контакти, календарі й інші дані, пов\’язані із цими акаунтуми.</string>
+     <string name="disable_admin_warning">Відключення прав на адміністрування Вашого пристрою для програми \"Пошта\" приведе до видалення всіх акаунтів e-mail, які використовують ці права. Крім того, будуть видалені всі повідомлення, контакти, календарі й інші дані, пов\'язані із цими акаунтуми.</string>
      <string name="discard">Скасувати</string>
      <string name="discard_drafts">Видалити чернетку</string>
      <string name="dismiss_tip_hover_text">Порада</string>
@@ -726,7 +726,7 @@
      <string name="long_press_to_select_tip">Натисніть і втримуйте для множинного вибору</string>
      <string name="long_string"> дооооооооооооооооооооооооовгий рядок</string>
      <string name="mail">Пошта</string>
-     <string name="mail_body_turncated">Це повідомлення занадто велике, буде показана тільки його частина. Щоб прочитати повний вміст, відкрийте повідомлення з ком\’ютера.</string>
+     <string name="mail_body_turncated">Це повідомлення занадто велике, буде показана тільки його частина. Щоб прочитати повний вміст, відкрийте повідомлення з ком\'ютера.</string>
      <string name="mail_description_content">Програма дозволяє керувати декількома поштовими скриньками, надсилати та отримувати листи та багато іншого.</string>
      <string name="mail_description_title">Про пошту</string>
      <string name="mail_header_downloading_message_body">Завантаження…</string>
@@ -844,7 +844,7 @@
      <string name="move_to_selection_dialog_title">Перемістити в іншу теку</string>
      <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
      <string name="mute">Без повідомлень</string>
-     <string name="name_or_number_is_error">Неправильне ім\’я користувача або пароль</string>
+     <string name="name_or_number_is_error">Неправильне ім\'я користувача або пароль</string>
      <string name="navigation_menu">Навігація</string>
      <string name="net_check_title">Неможливо підключитися до інтернету</string>
      <string name="network_error">Помилка підключення</string>
@@ -870,7 +870,7 @@
      <string name="no_matched_attachment">Немає результатів</string>
      <string name="no_recognize_describe">Неможливо знайти листи з білетами або бронюванням. Спробуйте перевірити у іншій email-скриньці.</string>
      <string name="no_remind">Не нагадувати</string>
-     <string name="no_wifi_promot">Немає з\’єднання по Wi-Fi мережі. Стежте за Вашим трафіком</string>
+     <string name="no_wifi_promot">Немає з\'єднання по Wi-Fi мережі. Стежте за Вашим трафіком</string>
      <string name="non_synced_folder_description">Синхронізуйте теку для перегляду діалогів</string>
      <string name="not_subject">Немає  теми</string>
      <string name="not_synced_title">акаунт не синхронізований</string>
@@ -984,9 +984,9 @@
      <string name="policy_dont_allow_consumer_email">Не дозволяти використовувати пошту</string>
      <string name="policy_dont_allow_html">Не дозволяти використовувати пошту HTML</string>
      <string name="policy_dont_allow_internet_sharing">Не дозволяти надсилання через інтернет</string>
-     <string name="policy_dont_allow_irda">Не дозволяти використовувати інфрачервоні з\’єднання</string>
+     <string name="policy_dont_allow_irda">Не дозволяти використовувати інфрачервоні з\'єднання</string>
      <string name="policy_dont_allow_pop_imap">Не дозволяти використовувати акаунти POP і IMAP</string>
-     <string name="policy_dont_allow_storage_cards">Не дозволяти використовувати карту пам\’яті</string>
+     <string name="policy_dont_allow_storage_cards">Не дозволяти використовувати карту пам\'яті</string>
      <string name="policy_dont_allow_text_messaging">Не дозволяти використовувати SMS</string>
      <string name="policy_dont_allow_unsigned_apps">Не дозволяти використовувати програми без підписів</string>
      <string name="policy_dont_allow_unsigned_installers">Не дозволяти використовувати APK без підписів</string>
@@ -1031,7 +1031,7 @@
      <string name="protocol">Протокол</string>
      <string name="protocol_setting_toast">Натисніть на правий верхній кут, щоб відкрити налаштування.</string>
      <string name="provider_note_live">Доступ по протоколу POP, що дозволяє цій програмі підключатися, дозволений тільки в деяких акаунтах Плюс. Якщо Вам не вдається увійти за допомогою своєї адреси e-mail й пароля, швидше за все, у Вас безкоштовний акаунт (не Плюс). Щоб увійти в такий акаунт, використовуйте браузер</string>
-     <string name="provider_note_t_online">Перш ніж додавати акаунт, перейдіть на сайт оператора зв\’язку та установіть пароль для доступу до e-mail по протоколу POP3.</string>
+     <string name="provider_note_t_online">Перш ніж додавати акаунт, перейдіть на сайт оператора зв\'язку та установіть пароль для доступу до e-mail по протоколу POP3.</string>
      <string name="pull_to_refresh">Потягніть вниз для оновлення</string>
      <string name="pull_up_to_load_more">Завантажити ще</string>
      <string name="push_wps_better_confirm_download">Завантажити</string>
@@ -1205,7 +1205,7 @@
      <string name="ser_resp_err_map_max_connections">Забагато спроб підключення</string>
      <string name="ser_resp_err_map_nouser">Такого користувача немає</string>
      <string name="ser_resp_err_map_or">%1$s або %2$s</string>
-     <string name="ser_resp_err_map_pserr">Неправильне ім/’я користувача або пароль</string>
+     <string name="ser_resp_err_map_pserr">Неправильне ім/'я користувача або пароль</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
@@ -1248,7 +1248,7 @@
      <string name="sync_contacts_fail_permission">Необхідно дозволити доступ до контактів</string>
      <string name="sync_contacts_req_per_ignored">Доступ до контактів заборонено</string>
      <string name="sync_error">Синхронізація не вдалася</string>
-     <string name="sync_error_message">Недостатньо пам\’яті для синхронізації</string>
+     <string name="sync_error_message">Недостатньо пам\'яті для синхронізації</string>
      <string name="syncing_wait_restart">Повторити</string>
      <string name="syncing_wait_restart_title">Час очікування підключення минув</string>
      <string name="system_account_create_failed">Не вдалося створити акаунт</string>
@@ -1333,7 +1333,7 @@
      <string name="view_more_conversations">Показати інші діалоги</string>
      <string name="wait_for_manual_sync_body">"Цей акаунт не налаштований для автоматичної синхронізації.
 Натисніть <b>Синхронізувати</b> для синхронізації або <b>Налаштування синхронізації</b> для налаштування синхронізації."</string>
-     <string name="wait_for_sync_body">Пошта незабаром з\’явиться</string>
+     <string name="wait_for_sync_body">Пошта незабаром з\'явиться</string>
      <string name="wait_for_sync_body_2">Сервер Exchange буде відкритий протягом 1-30 секунд. Будь ласка, підтвердьте параметри безпеки й активуйте акаунт. Зверніть увагу на систему оповіщення</string>
      <string name="wait_for_sync_body_txt_array_1">Сервер Exchange відповість протягом</string>
      <string name="wait_for_sync_body_txt_array_2">1-30</string>
@@ -1356,7 +1356,7 @@
      <string name="wipe_account_fail_title">Неможливо видалити особисті дані</string>
      <string name="wrong_password">Неправильний пароль</string>
      <string name="xiaomi_bytes_unit">%1$s б</string>
-     <string name="xiaomi_external_storage_unavailable">Пам\’ять недоступна, перевірте стан SD карти</string>
+     <string name="xiaomi_external_storage_unavailable">Пам\'ять недоступна, перевірте стан SD карти</string>
      <string name="xiaomi_kilobytes_unit">%1$s кБ</string>
      <string name="xiaomi_megabytes_unit">%1$s МБ</string>
      <string name="xiaomi_update_dialog_message">"Доступна версія: %1$s 
