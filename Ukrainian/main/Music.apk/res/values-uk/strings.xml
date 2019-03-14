@@ -560,9 +560,9 @@
      <string name="exo_track_selection_title_text">Текст</string>
      <string name="exo_track_selection_title_video">Відео</string>
      <string name="exo_track_stereo">Стерео</string>
-     <string name="exo_track_surround">Об'ємний звук</string>
-     <string name="exo_track_surround_5_point_1">Об'ємний звук у форматі 5.1</string>
-     <string name="exo_track_surround_7_point_1">Об'ємний звук у форматі 7.1</string>
+     <string name="exo_track_surround">Об\'ємний звук</string>
+     <string name="exo_track_surround_5_point_1">Об\'ємний звук у форматі 5.1</string>
+     <string name="exo_track_surround_7_point_1">Об\'ємний звук у форматі 7.1</string>
      <string name="exo_track_unknown">Невідомо</string>
      <string name="expired"> Термін дії минув</string>
      <string name="expires">Завершується в цьому місяці:</string>

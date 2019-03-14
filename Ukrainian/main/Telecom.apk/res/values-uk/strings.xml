@@ -153,8 +153,8 @@
      <string name="close">Закрити</string>
      <string name="confirm_enable_oem_unlock_text">УВАГА! Функції захисту пристрою не будуть працювати, поки увімкнено це налаштування</string>
      <string name="confirm_enable_oem_unlock_title">Дозволити заводське розблокування?</string>
-     <string name="connected_via_network_scorer">Автоматично під'єднано через %1$s</string>
-     <string name="connected_via_network_scorer_default">Автоматично під'єднано через постачальника оцінки якості мережі</string>
+     <string name="connected_via_network_scorer">Автоматично під\'єднано через %1$s</string>
+     <string name="connected_via_network_scorer_default">Автоматично під\'єднано через постачальника оцінки якості мережі</string>
      <string name="connected_via_passpoint">Підключено через %1$s</string>
      <string name="connected_via_wfa">Підключено через Wi-Fi помічника</string>
      <string name="content_description_menu_button">Меню</string>
@@ -352,7 +352,7 @@
      <string name="show_hw_screen_updates_summary">Показати дані у вікнах під час промальовування з GPU</string>
      <string name="show_non_rect_clip">Налагодження непрямокутного перетину</string>
      <string name="show_notification_channel_warnings">Показувати застереження про канал</string>
-     <string name="show_notification_channel_warnings_summary">З'являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
+     <string name="show_notification_channel_warnings_summary">З\'являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
      <string name="show_screen_updates">Оновлення екрану</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>
@@ -434,7 +434,7 @@
      <string name="wifi_allow_scan_with_traffic_summary">Вмикати чи вимикати пошук Wi-Fi мереж під час передачі даних в залежності від обсягу трафіку</string>
      <string name="wifi_auth_password_wrong">Пароль може бути невірним</string>
      <string name="wifi_connected_no_internet">Підключено. Немає доступу до інтернету</string>
-     <string name="wifi_disabled_by_recommendation_provider">Не під'єднано через низьку якість мережі</string>
+     <string name="wifi_disabled_by_recommendation_provider">Не під\'єднано через низьку якість мережі</string>
      <string name="wifi_disabled_generic">Вимкнено</string>
      <string name="wifi_disabled_network_failure">Увімкнено</string>
      <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>

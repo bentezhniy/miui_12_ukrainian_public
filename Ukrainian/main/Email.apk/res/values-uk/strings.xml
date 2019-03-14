@@ -1205,7 +1205,7 @@
      <string name="ser_resp_err_map_max_connections">Забагато спроб підключення</string>
      <string name="ser_resp_err_map_nouser">Такого користувача немає</string>
      <string name="ser_resp_err_map_or">%1$s або %2$s</string>
-     <string name="ser_resp_err_map_pserr">Неправильне ім/'я користувача або пароль</string>
+     <string name="ser_resp_err_map_pserr">Неправильне ім\'я користувача або пароль</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
