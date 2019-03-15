@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="content_desc_city_manage_del">Видалити</string>
+     <string name="act_location_error_to_find_city">Неможливо отримати інформацію про місцезнаходження</string>
+     <string name="activity_find_city_dialog_message_global">Надати програмі доступ до інформації про місцезнаходження?</string>
+     <string name="activity_main_pub_time">Опубліковано о %1$s</string>
+     <string name="aqi_detail_co_unit">Одиниці виміру: мг/м³</string>
+     <string name="aqi_first_sub_desc_locate">Станція: %1$s (%2$s)</string>
+     <string name="aqi_first_sub_desc_no_locate">Середній ІЯП: %1$s</string>
+     <string name="empty_view_net_loading">Оновлення…</string>
+     <string name="empty_view_net_unavailable">Неможливо підключитися до інтернету</string>
+     <string name="empty_view_refresh">Повтор</string>
+     <string name="feedback_cloudy">Хмарно</string>
+     <string name="feedback_foggy">Туман</string>
+     <string name="feedback_haze">Серпанок</string>
+     <string name="feedback_moderate_rain">Дощ</string>
+     <string name="feedback_moderate_snow">Сніг</string>
+     <string name="feedback_report_privacy_msg">Звіт міститиме інформацію про Ваше місцезнаходження</string>
+     <string name="feedback_sandy">Пил</string>
+     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
+     <string name="index_item_downloading">Завантаження…</string>
+     <string name="index_item_installing2">Інсталяція…</string>
+     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
+     <string name="information_time_source">%1$s | %2$s</string>
+     <string name="install_progress">%1$s%%</string>
+     <string name="international_details_wind_connect">%1$s %2$s</string>
+     <string name="location_provider_btn_text">Місцезнаходження</string>
+     <string name="radar_cloud_update_time">До %1$s</string>
+     <string name="share_weather_desc_alert">%1$s%2$s</string>
+	 <string name="content_desc_city_manage_del">Видалити</string>
      <string name="content_desc_city_manage_edit">Керування містами</string>
      <string name="abrupt_weather_settings_summary_type_a">Незвичайне попередження про погоду</string>
      <string name="abrupt_weather_settings_summary_type_b">Незвичайне попередження про погоду</string>
