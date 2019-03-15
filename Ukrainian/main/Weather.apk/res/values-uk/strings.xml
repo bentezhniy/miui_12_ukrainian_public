@@ -17,17 +17,10 @@
      <string name="feedback_moderate_snow">Сніг</string>
      <string name="feedback_report_privacy_msg">Звіт міститиме інформацію про Ваше місцезнаходження</string>
      <string name="feedback_sandy">Пил</string>
-     <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-     <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
      <string name="index_item_downloading">Завантаження…</string>
      <string name="index_item_installing2">Інсталяція…</string>
-     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-     <string name="information_time_source">%1$s | %2$s</string>
-     <string name="install_progress">%1$s%%</string>
-     <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="location_provider_btn_text">Місцезнаходження</string>
      <string name="radar_cloud_update_time">До %1$s</string>
-     <string name="share_weather_desc_alert">%1$s%2$s</string>
 	 <string name="content_desc_city_manage_del">Видалити</string>
      <string name="content_desc_city_manage_edit">Керування містами</string>
      <string name="abrupt_weather_settings_summary_type_a">Незвичайне попередження про погоду</string>
