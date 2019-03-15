@@ -5,8 +5,6 @@
      <string name="ad_download_download_now">Завантажити</string>
      <string name="component_title_settings_video_wallpaper">Відео шпалери</string>
      <string name="dynamic_video_wallpaper">Динамічні шпалери</string>
-     <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="find_more_font">Показати ще</string>
      <string name="float_wallpaper_is_here">Прозорі шпалери</string>
      <string name="incall_show_apply">Відео профілю для викликів</string>
@@ -19,7 +17,6 @@
      <string name="incall_show_remove">Видалити відео профілю</string>
      <string name="incall_show_remove_dialog_message">Видалити відео профілю?</string>
      <string name="incall_show_remove_success">Відео профілю видалено</string>
-     <string name="item_resource_audio_divider">│</string>
      <string name="lab">Бета-функції</string>
      <string name="mix_global_option">Загальні</string>
      <string name="mix_global_option_des">Панель сповіщень, телефон, повідомлення та інші системні компоненти</string>
@@ -28,11 +25,6 @@
      <string name="mix_lockscreen_option_des">Шпалери та годинник</string>
      <string name="mix_tip">Компоненти теми</string>
      <string name="present_local_fonts">Шрифти</string>
-     <string name="resource_price_format">(%1$s)</string>
-     <string name="resource_ring_ranking_list_divider">-</string>
-     <string name="resource_ring_ranking_list_rank_1">1</string>
-     <string name="resource_ring_ranking_list_rank_2">2</string>
-     <string name="resource_ring_ranking_list_rank_3">3</string>
      <string name="resource_trial_end_checkbox_hint">Спочатку отримайте Mi Credits</string>
      <string name="resource_trial_end_get_mibi">Отримати Mi Credits</string>
      <string name="resource_trial_end_jump_hint">Перенаправлення…</string>
@@ -41,7 +33,6 @@
      <string name="theme_detail_tab_comment">Відгуки</string>
      <string name="theme_detail_tab_recommend">Рекомендації</string>
      <string name="theme_detail_tab_theme">Теми</string>
-     <string name="theme_name">%1$s</string>
      <string name="theme_staggered_item_text">Отримати Mi Credits</string>
      <string name="theme_to_comment">Оцінити програму</string>
      <string name="transparent_wallpaper">Прозорі шпалери</string>
