@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-      <string name="account_invalid_user_avatar">Неприпустиме фото</string>
+     <string name="collect_diagnosis_log">Збір звітів діагностики</string>
+     <string name="confirm_new_pwd">Підтвердіть новий пароль</string>
+     <string name="diagnosis_log_send_failed">Неможливо надіслати звіт діагностики</string>
+     <string name="diagnosis_log_sent_format">"Звіт діагностики надіслано.
+ID:%s
+Надашліть цей код технічному спеціалісту"</string>
+     <string name="for_diagnosis_usage_only">Використовуйте цю інформацію лише для діагностики</string>
+     <string name="i_agree">ОК</string>
+     <string name="i_agree_continue">Продовжити</string>
+     <string name="inconsistent_pwd">Паролі не співпадають</string>
+     <string name="input_new_pwd">Введіть новий пароль</string>
+     <string name="kr_license_desc">Перед використанням Mi акаунту та Mi Cloud необхідно погодитися з Угодою користувача та Політикою конфіденційності</string>
+     <string name="kr_permission_contacts_desc">Використовується для читання інформації про контакти</string>
+     <string name="kr_permission_desc">Необхідні дозволи</string>
+     <string name="kr_permission_phone_desc">Використовується для безпеки акаунту</string>
+     <string name="kr_permission_sms_desc">Використовується для автоматичного заповнення коду підтвердження</string>
+     <string name="kr_permission_storage_desc">"Використовується для діагностики пам'яті"</string>
+     <string name="mi_finance">Фінанси</string>
+     <string name="mi_finance_info">Бонуси для нових користувачів</string>
+     <string name="ok">ОК</string>
+     <string name="optional_permissions">"Необов'язкові дозволи"</string>
+     <string name="passport_input_phone_password">Введіть пароль для телефону %s</string>
+     <string name="passport_international_register_by_email">Реєстрація з e-mail</string>
+     <string name="passport_privacy_policy_required">Політика конфіденційності (необхідно)</string>
+     <string name="passport_sms_verification_code_login_or_register">Вхід та реєстрація за допомогою SMS</string>
+     <string name="passport_user_agreement_required">Угода користувача (необхідно)</string>
+     <string name="permission_group_contacts">Контакти</string>
+     <string name="permission_group_phone">Телефон</string>
+     <string name="permission_group_sms">Повідомлення</string>
+     <string name="permission_group_storage">"Пам'ять"</string>
+     <string name="same_new_and_old_pwd">Оберіть новий пароль</string>
+     <string name="select_all">Обрати усе</string>
+     <string name="send_diagnosis_log">Надсилання звіту діагностики</string>
+     <string name="sending">Надсилання…</string>
+     <string name="sim_card">SIM-карта</string>
+     <string name="temporary_not_available">Тимчасово недоступно</string>
+     <string name="used_cloud_storage_info">Зайнято: %s</string>
+	 <string name="account_invalid_user_avatar">Неприпустиме фото</string>
      <string name="about_device_info">Про пристрій</string>
      <string name="access_denied">Доступ заборонено</string>
      <string name="access_token_expired_warning">Термін дії акаунту Weibo закінчився</string>
