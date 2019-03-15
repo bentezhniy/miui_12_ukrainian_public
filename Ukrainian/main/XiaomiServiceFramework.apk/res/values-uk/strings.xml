@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accept">OK</string>
+     <string name="activate_sms_postfix">[Ця SMS використовується для активації Вашого пристрою]</string>
+     <string name="pop_up_allow_notify_dialog">Дозволити</string>
+     <string name="pop_up_deny_notify_dialog">Заборонити</string>
+	 <string name="accept">OK</string>
      <string name="activate">Активувати</string>
      <string name="activate_auto_sms_notification_desc_1_card">Для активації функції \"Пошук пристрою\" надіслана SMS</string>
      <string name="activate_auto_sms_notification_desc_2_cards">Для активації функції \"Пошук пристрою\" надіслана SMS c SIM-карти %s</string>

@@ -22,4 +22,9 @@
         <item quantity="few">%d відгуки</item>
         <item quantity="one">%d відгук</item>
      </plurals>
+	 <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s робіт</item>
+        <item quantity="one">%1$s робота</item>
+        <item quantity="few">%1$s роботи</item>
+     </plurals>
 </resources>
