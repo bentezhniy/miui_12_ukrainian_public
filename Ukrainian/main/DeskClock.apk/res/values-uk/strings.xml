@@ -14,10 +14,8 @@
      <string name="module_download_msg_replace">Доступно оновлення звуків для розумного будильника (≈20 МБ). Завантажити?</string>
      <string name="repeat_count">Повтори</string>
      <string name="search_menu_title">Пошук</string>
-     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="snooze_duration">Відкласти</string>
      <string name="snooze_duration_value">Інтервал (хвилин)</string>
-     <string name="symbol_colon">:</string>
 	 <string name="star_wy_alarm_speech">Meet Roy Wang</string>
 	 <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
      <string name="timer_alert_mute_on">Будильник не буде лунати після зупинки таймеру</string>

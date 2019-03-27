@@ -22,7 +22,6 @@
 "</string>
      <string name="complain_upload">Скаргу надіслано</string>
      <string name="current_data_version">Версія Mi повідомлень</string>
-     <string name="flatshow_page_no">%1$d</string>
      <string name="imageview_ad">Реклама</string>
      <string name="menu_traffic_destination">Пункт призначення</string>
      <string name="messaging">Повідомлення</string>
@@ -40,7 +39,6 @@
      <string name="select_different_audio">Оберіть інше аудіо</string>
      <string name="select_different_picture">Оберіть інше зображення</string>
      <string name="select_different_video">Оберіть інше відео</string>
-     <string name="send_to_index_contact">Надіслано %1$s з %2$s</string>
      <string name="sim1">SIM 1</string>
      <string name="sim2">SIM 2</string>
      <string name="smart_messages_network_allow_message">Дозволити доступ до інтернету для Mi повідомлень?</string>
