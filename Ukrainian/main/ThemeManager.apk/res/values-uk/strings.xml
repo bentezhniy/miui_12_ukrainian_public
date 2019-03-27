@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+	 <string name="ad_tag_text_1">Топ</string>
+     <string name="ad_tag_text_2">Реклама</string>
+     <string name="incall_show_title">Відео профілю</string>
 	 <string name="ad_begin_to_install_tip">Встановлення…</string>
      <string name="ad_download_download_now">Завантажити</string>
      <string name="component_title_settings_video_wallpaper">Відео шпалери</string>

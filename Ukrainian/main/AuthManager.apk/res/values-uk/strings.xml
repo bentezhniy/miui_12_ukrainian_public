@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Dashboard_App">Програми</string>
+     <string name="HIPS_Perm_UDevice_ID">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід?</string>
+     <string name="HIPS_Perm_UDevice_ID_DESC">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід. Дозволити?</string>
+	 <string name="Dashboard_App">Програми</string>
      <string name="Dashboard_HIPS_Disable_Content">"Вимкнення цієї функції може піддати систему небезпеці.
 Продовжити?"</string>
      <string name="Dashboard_HIPS_Disable_Title">Монітор доступу</string>

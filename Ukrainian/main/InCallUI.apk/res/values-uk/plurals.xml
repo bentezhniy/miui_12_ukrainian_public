@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="antispam_marked_count">
+        <item quantity="other">Позначено %d користувачами MIUI</item>
+        <item quantity="one">Позначено %d користувачем MIUI</item>
+     </plurals>
+     <plurals name="call_title_redialing_with_times">
+        <item quantity="other">%d повторних викликів</item>
+        <item quantity="one">%d повторний виклик</item>
+        <item quantity="few">%d повторних виклики</item>
+     </plurals>
+     <plurals name="conference_call_number">
+        <item quantity="other">%s користувачів</item>
+        <item quantity="one">%s користувач</item>
+        <item quantity="few">%s користувача</item>
+     </plurals>
 	<plurals name="duration_hours">
         <item quantity="other">%d г.</item>
         <item quantity="one">%d г.</item>

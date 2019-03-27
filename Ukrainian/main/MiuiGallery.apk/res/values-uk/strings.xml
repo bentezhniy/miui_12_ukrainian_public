@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="download_with_metered_network_msg">Під час завантаження вихідних файлів може стягуватися додаткова плата оператором. Продовжити завантаження через мобільний інтернет?</string>
+     <string name="cleaner_similar_action">Видалити</string>
+     <string name="cleaner_similar_description">Видалення дублікатів фото</string>
+     <string name="cleaner_similar_title">Дублікати</string>
+     <string name="cleaner_video_action">Видалити</string>
+     <string name="cleaner_video_description">Видалення відео, що займають багато місця</string>
+     <string name="cleaner_video_pick_delete_selected">Видалити обрані відео</string>
+     <string name="cleaner_video_title">Видалення відео</string>
+     <string name="print_log">Лог друку</string>
+     <string name="screen_doodle_talkback_size">Ширина лінії</string>
+     <string name="screen_editor_finish">Готово</string>
+     <string name="screen_save_dialog_btn_cancel">Скасувати</string>
+     <string name="screen_save_dialog_btn_delete">Видалити скріншот</string>
+     <string name="screen_save_dialog_btn_save">Зберегти до Галереї</string>
+     <string name="similar_keep_clear">Зберігати найкращі</string>
+	 <string name="download_with_metered_network_msg">Під час завантаження вихідних файлів може стягуватися додаткова плата оператором. Продовжити завантаження через мобільний інтернет?</string>
      <string name="download_with_metered_network_title">Попередження</string>
      <string name="month_view_tip_button_text">ОК</string>
      <string name="month_view_tip_sub_title">Використовуйте жест зменшення, щоб перемкнутися в режим перегляду місяця</string>

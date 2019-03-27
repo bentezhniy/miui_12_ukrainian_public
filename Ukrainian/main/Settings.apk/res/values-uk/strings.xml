@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="battery_abnormal_apps_summary">"Кількість програм, що працюють неправильно: %1$d"</string>
+     <string name="auto_dual_clock_summary">Показувати подвійний годинник, якщо поточний час відрізняється від часу другого годинника</string>
+     <string name="auto_dual_clock_title">Подвійний годинник</string>
+     <string name="cutout_type_desc">Увімкнути згладжування країв екранного вирізу</string>
+     <string name="cutout_type_title">Згладжування країв вирізу</string>
+     <string name="dual_clock">Подвійний годинник</string>
+     <string name="dual_clock_aod_hint">"\"Подвійний годинник\" доступний за наступних умов: 1. У режимі \"Always on Display\" (вмикається у налаштуваннях екрану); 2. На екрані блокування (необхідно використовувати стандартний екран блокування); 3. На робочому столі (необхідно використовувати стандартний віджет годинника)"</string>
+     <string name="dual_clock_hint">"\"Подвійний годинник\" доступний за наступних умов: 1. На екрані блокування (необхідно використовувати стандартний екран блокування); 2. На робочому столі (необхідно використовувати стандартний віджет годинника)"</string>
+     <string name="dual_clock_ok">ОК</string>
+     <string name="dual_clock_open_message">Подвійний годинник буде відображатися на екрані блокування, робочому столі та в режимі \"Always on Display\"</string>
+     <string name="more_installed_services_title">Інші завантажені сервіси</string>
+     <string name="otg_button">OTG</string>
+     <string name="otg_closed">Вимкнено</string>
+     <string name="otg_opened">Увімкнено</string>
+     <string name="otg_settings">OTG</string>
+     <string name="otg_tip">"USB OTG (On-The-Go) дозволяє USB-накопичувачам та портативним клавіатурам підключатися до мобільного пристрою та обмінюватися даними.
+
+OTG вимикається автоматично через 10 хвилин бездіяльності"</string>
+     <string name="resident_timezone_summary">Другий годинник</string>
+     <string name="toast_sta_ap_works_wifi_display_disable">Трансляція недоступна за активної мережі Wi-Fi або точки доступу</string>
+	 <string name="battery_abnormal_apps_summary">"Кількість програм, що працюють неправильно: %1$d"</string>
      <string name="battery_abnormal_details_title">"Програми з надлишковим споживанням програм"</string>
      <string name="battery_abnormal_location_summary">"Пристрій занадто часто запитує інформацію про геолокацію"</string>
      <string name="battery_abnormal_wakelock_summary">"Пристрій не переходить у режим сну"</string>

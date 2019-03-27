@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="creation_max_image">
+     <plurals name="photo_count_format">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+     </plurals>
+     <plurals name="video_count_format">
+        <item quantity="other">%1$d відео</item>
+        <item quantity="one">%1$d відео</item>
+        <item quantity="few">%1$d відео</item>
+     </plurals>
+	 <plurals name="creation_max_image">
         <item quantity="other">Оберіть до %d фото</item>
         <item quantity="one">Оберіть до %d фото</item>
      </plurals>

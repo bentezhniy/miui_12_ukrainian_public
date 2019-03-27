@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="traffic_setting_fragment_title_guide">Оператори та тарифи</string>
+     <string name="security_center_slogan">Безпека у кращому вигляді</string>
+     <string name="third_desktop_dialog_content">"Так як робочі столи від сторонніх розробників можуть стати причиною витоку даних, високого споживання батареї і т. ін., в якості робочого столу за замовчуванням можна обрати лише програми, інстальовані системою MIUI</string>
+     <string name="third_desktop_dialog_ok">ОК</string>
+     <string name="third_desktop_dialog_title">Попередження</string>
+	 <string name="traffic_setting_fragment_title_guide">Оператори та тарифи</string>
      <string name="traffic_usage_warning_body">Використано %s трафіку цього місяця</string>
      <string name="traffic_usage_warning_limit">Попередження про ліміт трафіку</string>
      <string name="traffic_usage_warning_title">Попередження про трафік</string>

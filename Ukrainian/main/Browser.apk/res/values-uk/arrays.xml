@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="suggestion_topic_tips">
+     <string-array name="pref_fling_gesture_entries">
+        <item>Попередня сторінка</item>
+        <item>Перемикання вкладинок</item>
+        <item>Немає дій</item>
+     </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Завжди запитувати</item>
+        <item>Увімкнути</item>
+        <item>Вимкнути</item>
+     </string-array>
+	 <string-array name="suggestion_topic_tips">
         <item>Перегляд фокуса</item>
         <item>Центральна проблема</item>
      </string-array>

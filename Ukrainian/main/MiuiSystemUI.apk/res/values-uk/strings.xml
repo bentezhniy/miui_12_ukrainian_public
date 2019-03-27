@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+     <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+	 <string name="face_unlock_success">Обличчя розпізнане</string>
 	 <string name="aod_dual_togother">HH:MM</string>
      <string name="aod_dual_togother_12">hh:mm aa</string>
      <string name="face_unlock_not_roi">Обличчя має знаходитися у рамці</string>
