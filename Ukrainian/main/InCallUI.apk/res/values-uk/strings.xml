@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="antispam_marked_title">%1$s</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="supp_service_notification_call_waiting">Номер абонента зайнятий. Очікуйте на відповідь</string>
      <string name="volte_call">Виклик VoLTE</string>
 	 <string name="call_not_support_high_frequency_click">Не натискайте цю кнопку занадто часто</string>

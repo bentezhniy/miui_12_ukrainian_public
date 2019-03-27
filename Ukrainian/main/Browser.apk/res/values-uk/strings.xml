@@ -50,7 +50,6 @@
      <string name="slide_guide">Проведіть для перегляду</string>
      <string name="suggestion_sliding_ads_info_mark_text">Реклама</string>
      <string name="suggestion_sliding_item_more_text">Показати ще</string>
-     <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
 	 <string name="dialog_recovery_tabs_disc">Незакриті вкладки необхідно завантажити знову</string>
      <string name="dialog_recovery_tabs_title">Відкрийте сторінку перед відновленням</string>
 	 <string name="pref_checkbox_tab_restore">"Запам'ятати вибір (цей параметр можна змінити у Додаткових налаштуваннях)"</string>
