@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>	
-    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+     <string-array name="ai_key_item_name">
+        <item>Запуск Google асистенту</item>
+        <item>Запуск Google пошуку</item>
+        <item>Запуск камери</item>
+        <item>Запуск фронтальної камери</item>
+        <item>Запуск попередньої програми</item>
+        <item>Увімкнення ліхтарика</item>
+        <item>Увімкнення режиму читання</item>
+        <item>Немає дії</item>
+     </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, активно</item>
+        <item>, активно (медіа)</item>
+        <item>, активно (телефон)</item>
+     </string-array>
+     <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Стандартно: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+     </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>Вмикати екран</item>
+        <item>Показувати анімацію</item>
+        <item>Немає дії</item>
+     </string-array>
+     <string-array name="trans_cancel_survey_title">
+        <item>Передача занадто тривала</item>
+        <item>"З'єднання перервано"</item>
+        <item>Обрані файли неможливо передати</item>
+        <item>Забагато дій</item>
+        <item>Батарея розряджена</item>
+        <item>Передані файли ушкоджено</item>
+        <item>Передачу запущено помилково</item>
+        <item>Інше</item>
+     </string-array>
+     <string-array name="trans_succeed_survey_title">
+        <item>Загальна оцінка</item>
+        <item>Швидкість передачі</item>
+        <item>Простота процесу</item>
+        <item>Зручність</item>
+     </string-array>
+     <string-array name="wifi_hidden_entries">
+        <item>Ні</item>
+        <item>Так</item>
+     </string-array>
+     <string-array name="wifi_metered_entries">
+        <item>Визначати автоматично</item>
+        <item>З тарифікацією</item>
+        <item>Без тарифікації</item>
+     </string-array>
+	 <string-array name="reason_type">
+        <item>Шахрайство</item>
+        <item>Недопустимий контент</item>
+        <item>Спам</item>
+        <item>Інше</item>
+        <item>Скасувати</item>
+     </string-array>
+	<string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
         <item>Режим високої якості (стандартно)</item>
         <item>Режим низької затримки</item>
      </string-array>

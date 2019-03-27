@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="auto_identify_btn_text_only_smart_messaging">Розумні повідомлення</string>
+	 <string name="allow_network_hint">Необхідний доступ до інтернету</string>
+     <string name="already_updated">Оновлення вже інстальовано</string>
+     <string name="button_close">Вимкнути</string>
+     <string name="click_to_update">Перевірити оновлення</string>
+     <string name="cm_privacy_dialog_allow">Дозволити</string>
+     <string name="cm_privacy_dialog_cancel">Скасувати</string>
+     <string name="cm_privacy_dialog_spannable_tips">Політикою конфіденційності</string>
+     <string name="cm_privacy_dialog_tips">Послуги розумних повідомлень надаються Вашим оператором. Для надання цих послуг необхідне підключення до інтернету та доступ до геолокації. Перед використанням необхідно погодитися з: %1s.</string>
+     <string name="cm_privacy_dialog_title">Попередження</string>
+     <string name="cmcc_privacy">Угода користувача оператора China Mobile</string>
+     <string name="complain_input_number">Введіть номер телефону</string>
+     <string name="complain_jump">Пропустити</string>
+     <string name="complain_message_title">Поскаржитися</string>
+     <string name="complain_ok">ОК</string>
+     <string name="complain_phone_number">номер телефону</string>
+     <string name="complain_reason">Оберіть причину</string>
+     <string name="complain_success">Готово</string>
+     <string name="complain_tips">"Зміст повідомлення буде завантажено на сервери Xiaomi, а також вказаний номер телефону
+"</string>
+     <string name="complain_upload">Скаргу надіслано</string>
+     <string name="current_data_version">Версія Mi повідомлень</string>
+     <string name="flatshow_page_no">%1$d</string>
+     <string name="imageview_ad">Реклама</string>
+     <string name="menu_traffic_destination">Пункт призначення</string>
+     <string name="messaging">Повідомлення</string>
+     <string name="more">Ще</string>
+     <string name="mx_message">Mi повідомлення</string>
+     <string name="net_sms_subscribed">Ви підписалися</string>
+     <string name="net_sms_unsubscribe">Ви відписалися</string>
+     <string name="number_recognition_partner">Партнери розпізнавання номеру</string>
+     <string name="packages_select_sim_cards_title">Оберіть SIM-карту</string>
+     <string name="rcs_unavailable">Неможливо використовувати повідомлення China Mobile. SIM-карту China Mobile не встановлено стандартно</string>
+     <string name="repayment_network_error">Інтернет недоступний</string>
+     <string name="repayment_title">Оплата</string>
+     <string name="repayment_way">Спосіб оплати</string>
+     <string name="select_different_attachment">Оберіть інше вкладення</string>
+     <string name="select_different_audio">Оберіть інше аудіо</string>
+     <string name="select_different_picture">Оберіть інше зображення</string>
+     <string name="select_different_video">Оберіть інше відео</string>
+     <string name="send_to_index_contact">Надіслано %1$s з %2$s</string>
+     <string name="sim1">SIM 1</string>
+     <string name="sim2">SIM 2</string>
+     <string name="smart_messages_network_allow_message">Дозволити доступ до інтернету для Mi повідомлень?</string>
+     <string name="smart_messages_network_allow_title">Попередження</string>
+     <string name="subscribe">Підписатися</string>
+     <string name="summary_pref_cm_smart_sms">Шаблони візитівок, сервісні номери та багато іншого</string>
+     <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
+     <string name="train_edit_destination">Додати</string>
+     <string name="updating">Оновлення…</string>
+	 <string name="auto_identify_btn_text_only_smart_messaging">Розумні повідомлення</string>
      <string name="auto_identify_btn_text_when_all_disabled">Перевіряти ID адресата автоматично</string>
      <string name="auto_identify_btn_title">Повідомлення від невідомого номера</string>
      <string name="auto_identify_confirmation">Для активації цієї функції може знадобитися декілька хвилин</string> 
@@ -50,8 +99,7 @@
      <string name="rcs_message_disable">Неможливо переглянути повідомлення в другому просторі</string>
      <string name="rcs_msg">Повідомлення China Mobile</string>
      <string name="rcs_not_online">Неможливо використовувати повідомлення China Mobile. Перевірте підключення до інтернету.</string>
-     
-	<string name="rcs_offline_hint">Повідомлення China Mobile відключені. Неможливо переслати.</string>
+     <string name="rcs_offline_hint">Повідомлення China Mobile відключені. Неможливо переслати.</string>
      <string name="rcs_recipient_type_contact">Переслати контакту</string>
      <string name="rcs_recipient_type_group">Переслати групі</string>
      <string name="rcs_recipient_type_pc">"Переслати на комп'ютер"</string>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="mark_number_dialog_subtitle">
+     <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Повідомлення отримано від %1$s та %2$d інших контактів</item>
+        <item quantity="one">Повідомлення отримано від %1$s та %2$d іншого контакту</item>
+     </plurals>
+	 <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Позначено як %2$s %1$d користувачами</item>
         <item quantity="one">Позначено як %2$s %1$d користувачем</item>
      </plurals>

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="contacts_default_notification_channel">Повідомлення</string>
+     <string name="account_dual_sdn">SDN %s</string>
+     <string name="account_dual_sim">SIM-карта %s</string>
+     <string name="description_image_button_sim1_named_dial">Виклик з SIM1 %s</string>
+     <string name="description_image_button_sim2_named_dial">Виклик з SIM2 %s</string>
+     <string name="import_weibo_progress_percent">%1$d%%</string>
+     <string name="label_duplicate_count">(%1$d)</string>
+     <string name="phone_info_divider">" | "</string>
+     <string name="scan_business_card">Сканувати візитівку</string>
+     <string name="scan_bussiness_card_merge_tip">Конфліктуючі дані замінено</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+	 <string name="contacts_default_notification_channel">Повідомлення</string>
 	 <string name="conference_call_disable_tip">Неможливо зробити виклик. Переконайтеся, що ваш пристрій підключено до мережі 4G з підтримкою VoLTE.</string>	
      <string name="preference_privacy_policy_title">Політика конфіденційності</string>
      <string name="rcs_app_name">Міні програма</string>

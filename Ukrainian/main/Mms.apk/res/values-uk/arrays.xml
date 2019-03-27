@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="recv_type">
+	 <string-array name="recv_type">
         <item>Отримувати та сповіщувати</item>
         <item>Лише отримувати</item>
         <item>Вимкнено</item>

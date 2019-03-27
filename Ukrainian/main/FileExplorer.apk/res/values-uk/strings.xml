@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="menu_set_wallpaper">Встановити як шпалери</string>
+    <string name="rename_input_null">"Введіть нове ім'я"</string>
+	<string name="menu_set_wallpaper">Встановити як шпалери</string>
 	<string name="operation_show_privacy_policy">Політика конфіденційності</string>
     <string name="recent_apk_status_install">ІНСТАЛЬОВАНО</string>
 	<string name="account_bind_prompt"> Перенесення даних користувача\nПеренесення даних може зайняти деякий час,\nВаш акаунт тимчасово буде недоступний, будь ласка почекайте…</string>

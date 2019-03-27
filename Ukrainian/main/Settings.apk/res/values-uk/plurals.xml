@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="aod_dual_togother_city">
+     <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d днів тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+     </plurals>
+     <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+     </plurals>
+     <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d років тому</item>
+        <item quantity="one">%d рік тому</item>
+        <item quantity="few">%d роки тому</item>
+     </plurals>
+     <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d файлів програм</item>
+        <item quantity="one">%d файл програми</item>
+        <item quantity="few">%d файли програм</item>
+     </plurals>
+     <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d системних файлів</item>
+        <item quantity="one">%d системний файл</item>
+        <item quantity="few">%d системних файли</item>
+     </plurals>
+     <plurals name="battery_manager_app_restricted">
+        <item quantity="one">%1$d програма з обмеженим доступом</item>
+        <item quantity="few">%1$d програми з обмеженим доступом</item>
+        <item quantity="many">%1$d програм з обмеженим доступом</item>
+        <item quantity="other">%1$d програми з обмеженим доступом</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="one">Обмежити роботу %1$d програми?</item>
+        <item quantity="few">Обмежити роботу %1$d програм?</item>
+        <item quantity="many">Обмежити роботу %1$d програм?</item>
+        <item quantity="other">Обмежити роботу %1$d програм?</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="one">Ці програми не можуть працювати у фоні</item>
+        <item quantity="few">Ці програми не можуть працювати у фоні</item>
+        <item quantity="many">Ці програми не можуть працювати у фоні</item>
+        <item quantity="other">Ці програми не можуть працювати у фоні</item>
+     </plurals>
+	 <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s год. %2$s"</item>
      </plurals>
 	 <plurals name="miui_sos_emergency_contacts_quantity">

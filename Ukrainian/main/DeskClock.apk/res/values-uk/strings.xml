@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="star_wy_alarm_speech">Meet Roy Wang</string>
+     <string name="check_theme_app_install">Переконайтеся, що на пристрої встановлено програму \"Теми\"</string>
+     <string name="check_voice_assist_app_version">Оновіть Mi AI до останньої версії</string>
+     <string name="korea_permission_calendar">Календар</string>
+     <string name="korea_permission_calendar_desc">Доступ до інформації про події</string>
+     <string name="korea_permission_phone">Телефон</string>
+     <string name="korea_permission_phone_desc">Доступ до стану телефону</string>
+     <string name="korea_permission_storage">"Пам'ять"</string>
+     <string name="korea_permission_storage_desc">"Доступ до пам'яті для збереження будильників"</string>
+     <string name="life_post_weather_no_network">"Підключіться до інтернету, щоб оновити інформацію про погоду"</string>
+     <string name="module_download_data_msg_replace">Доступно оновлення звуків для розумного будильника (≈20 МБ). Дозволити завантаження за допомогою мобільного інтернету?</string>
+     <string name="module_download_msg_replace">Доступно оновлення звуків для розумного будильника (≈20 МБ). Завантажити?</string>
+     <string name="repeat_count">Повтори</string>
+     <string name="search_menu_title">Пошук</string>
+     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+     <string name="snooze_duration">Відкласти</string>
+     <string name="snooze_duration_value">Інтервал (хвилин)</string>
+     <string name="symbol_colon">:</string>
+	 <string name="star_wy_alarm_speech">Meet Roy Wang</string>
 	 <string name="timer_alert_mute_off">Будильник лунатиме після зупинки таймеру</string>
      <string name="timer_alert_mute_on">Будильник не буде лунати після зупинки таймеру</string>
      <string name="timer_alert_mute_remind">Вимкнути будильник</string>

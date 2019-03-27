@@ -128,8 +128,10 @@
         <item quantity="one">Видалити контакти з SIM-карти? (%d)</item>
      </plurals>
      <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Скопійовано контактів: %d</item>
-        <item quantity="one">Скопійовано контактів: %d</item>
+        <item quantity="other">Скопійовано %d контактів</item>
+        <item quantity="one">Скопійовано %d контакт</item>
+        <item quantity="few">Скопійовано %d контакти</item>
+        <item quantity="many">Скопійовано %d контактів</item>
      </plurals>
      <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM-карта може зберігати контактів: %d</item>
