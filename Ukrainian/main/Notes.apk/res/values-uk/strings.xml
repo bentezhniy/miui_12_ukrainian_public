@@ -5,7 +5,6 @@
      <string name="cta_confirm_ok">Дозволити</string>
      <string name="cta_dialog_message">Для нормальної роботи програми необхідний доступ до інтернету, мікрофону та контактів</string>
      <string name="cta_dialog_title">Попередження</string>
-     <string name="micloud_state_total_count">%1$s</string>
 	 <string name="action_folder_description">Показати теки</string>
      <string name="action_mode_switcher_grid_description">Сітка</string>
      <string name="action_mode_switcher_list_description">Список</string>
