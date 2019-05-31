@@ -686,7 +686,7 @@
      <string name="micloud_sync_off">Синхронізацію з Mi Cloud вимкнено</string>
      <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронізацію увімкнено лише для контактів, календаря та нотаток. Щоб синхронізувати усі дані, перейдіть до налаштувань Mi Cloud.</string>
      <string name="micloud_sync_result_already_in_progress">Обробка попередньої синхронізації\u2026</string>
-     <string name="micloud_sync_result_auth_exception">Помилка аккаунта</string>
+     <string name="micloud_sync_result_auth_exception">Помилка акаунта</string>
      <string name="micloud_sync_result_cancel">Синхронізація була перервана</string>
      <string name="micloud_sync_result_cloud_storage_full">Сховище Mi Cloud заповнене</string>
      <string name="micloud_sync_result_common_message">Не вдалося синхронізувати. Зачекайте хвилинку та повторіть спробу.</string>

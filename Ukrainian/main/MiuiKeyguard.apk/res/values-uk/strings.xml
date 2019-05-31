@@ -4,7 +4,7 @@
      <string name="access_control_need_password"><xliff:g id="ACCESS">%s</xliff:g> захищено
 </string>
      <string name="access_control_need_to_unlock">Введіть пароль:</string>
-     <string name="access_control_reset_by_account">Увійдіть до Mi аккаунту для скидання пароля</string>
+     <string name="access_control_reset_by_account">Увійдіть до Mi акаунту для скидання пароля</string>
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
      <string name="add_back_fingerprint_instruction_msg">Помістіть палець на сенсор</string>
      <string name="add_facerecoginition_text">Додати дані про обличчя</string>
@@ -29,8 +29,8 @@
      <string name="app_name">Блокування екрану</string>
      <string name="apply_fingerprint_to_category_title">Застосувати відбиток\u2026</string>
      <string name="bind_xiaomi_account_confirm">Додати</string>
-     <string name="bind_xiaomi_account_dialog_summery">Ви збираєтеся додати Mi аккаунт <xliff:g id="ACCOUNT">%s</xliff:g>. Якщо ви забудете ваш пароль, то ви можете використати аккаунт для його скидання.</string>
-     <string name="bind_xiaomi_account_success">Mi аккаунт додано успішно</string>
+     <string name="bind_xiaomi_account_dialog_summery">Ви збираєтеся додати Mi акаунт <xliff:g id="ACCOUNT">%s</xliff:g>. Якщо ви забудете ваш пароль, то ви можете використати акаунт для його скидання.</string>
+     <string name="bind_xiaomi_account_success">Mi акаунт додано успішно</string>
      <string name="biometric_weak_improve_matching_title">Покращити зіставлення облич</string>
      <string name="biometric_weak_liveliness_summary">Вимагати моргання очима для розблокування</string>
      <string name="biometric_weak_liveliness_title">Перевіряти ознаки життя</string>
@@ -41,13 +41,13 @@
      <string name="confirm_bind_xiaomi_account_dialog_title">Додати</string>
      <string name="confirm_fingerprint_msg">Помістіть палець на сенсор</string>
      <string name="confirm_frp_credential_message">Налаштування пристрою були скинуті. Ви можете розблокувати його за допомогою свого попереднього пароля.</string>
-     <string name="confirm_frp_credential_skip_txt">Використовувати аккаунт Google</string>
+     <string name="confirm_frp_credential_skip_txt">Використовувати акаунт Google</string>
      <string name="confirm_frp_credential_title">Розблокування після скидання</string>
      <string name="confirm_pin_msg">Введіть PIN повторно</string>
      <string name="confirm_privacy_password">Введіть пароль для захисту конфіденційності</string>
      <string name="confirm_privacy_password_fingerprint">Відскануйте відбиток пальця або введіть пароль для захисту конфіденційності</string>
      <string name="contact_carrier_message">"Зв\'яжіться з Вашим мобільним оператором, якщо виникли питання."</string>
-     <string name="credentials_configure_lock_screen_hint">Перш ніж використовувати сховище аккаунту, необхідно задати код або пароль для блокування екрана.</string>
+     <string name="credentials_configure_lock_screen_hint">Перш ніж використовувати сховище акаунту, необхідно задати код або пароль для блокування екрана.</string>
      <string name="custom_lock_wallpaper_enter">Відкрити</string>
      <string name="default_lockscreen_unlock_hint_text">Розблокувати</string>
      <string name="delete">Очистити</string>
@@ -153,8 +153,8 @@
      <string name="fingerprint_try_again_text">Повторення</string>
      <string name="forget_password_string">Забули пароль?</string>
      <string name="forget_pattern"><u>Забули графічний ключ?</u></string>
-     <string name="forget_privacy_password_setting">Додати Mi аккаунт</string>
-     <string name="forget_privacy_password_summary">Використовуйте Mi аккаунт для скидання пароля</string>
+     <string name="forget_privacy_password_setting">Додати Mi акаунт</string>
+     <string name="forget_privacy_password_summary">Використовуйте Mi акаунт для скидання пароля</string>
      <string name="gallery_privacy_password_role_instruction">Ваші особисті фото будуть зберігатися тут.</string>
      <string name="gxzw_add_fingerprint_continue">Продовжити</string>
      <string name="gxzw_add_fingerprint_edge_message">Здвиньте палець, щоб сенсор міг записати краї вашого відбитку.</string>
@@ -389,14 +389,14 @@ EEEE"</string>
      <string name="privacy_notes">Нотатки</string>
      <string name="privacy_password">Пароль для захисту конфіденційності</string>
      <string name="privacy_password_add_account">Додати</string>
-     <string name="privacy_password_add_account_info">Додайте Mi аккаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете</string>
-     <string name="privacy_password_add_account_setting">Аккаунт та приватність</string>
-     <string name="privacy_password_bind_account">Додати Mi аккаунт</string>
+     <string name="privacy_password_add_account_info">Додайте Mi акаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете</string>
+     <string name="privacy_password_add_account_setting">Акаунт та приватність</string>
+     <string name="privacy_password_bind_account">Додати Mi акаунт</string>
      <string name="privacy_password_bind_account_immediate">Додати</string>
      <string name="privacy_password_confirm_SecondSpace_Password">Підтвердіть пароль для другого сховища</string>
      <string name="privacy_password_confirm_use_finger">Розблокувати відбитком пальця</string>
      <string name="privacy_password_enter_privacy">Введіть пароль для захисту конфіденційності</string>
-     <string name="privacy_password_exit_account_info">Аккаунт буде видалено автоматично після виходу</string>
+     <string name="privacy_password_exit_account_info">Акаунт буде видалено автоматично після виходу</string>
      <string name="privacy_password_fingerprint_confirm_failed">Не вдалося перевірити відбиток пальця</string>
      <string name="privacy_password_fingerprint_confirm_succes">Відбиток пальця перевірено</string>
      <string name="privacy_password_fingerprint_dialog_error_title">Не вдалося відсканувати відбиток пальця, спробуйте ще раз</string>
@@ -406,8 +406,8 @@ EEEE"</string>
      <string name="privacy_password_never_remind">Більше не запитувати</string>
      <string name="privacy_password_not_add_account">Не зараз</string>
      <string name="privacy_password_not_login_account">Вхід не здійснено</string>
-     <string name="privacy_password_remind_bind_notlogin_account">Додайте Mi аккаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете.</string>
-     <string name="privacy_password_remind_bindaccount_title">Додати Mi аккаунт</string>
+     <string name="privacy_password_remind_bind_notlogin_account">Додайте Mi акаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете.</string>
+     <string name="privacy_password_remind_bindaccount_title">Додати Mi акаунт</string>
      <string name="privacy_password_settings">Використовувати пароль для захисту конфіденційності</string>
      <string name="privacy_password_settings_next">Далі</string>
      <string name="privacy_password_settings_titles">Пароль для захисту конфіденційності працює для ваших повідомлень, фото, файлів та нотаток.</string>

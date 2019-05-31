@@ -467,7 +467,7 @@
      <string name="xspace_label">Клоновані програми</string>
      <string name="xspace_loading_msg">Завантаження програм…</string>
      <string name="xspace_qq_title">QQ</string>
-     <string name="xspace_remove">Видалити аккаунти клонів</string>
+     <string name="xspace_remove">Видалити акаунти клонів</string>
      <string name="xspace_setting_label">Клонування акаунту</string>
      <string name="xspace_uninstall_completed">Клоновану програму видалено</string>
      <string name="xspace_uninstall_dialog_content">Будуть видалені всі дані</string>

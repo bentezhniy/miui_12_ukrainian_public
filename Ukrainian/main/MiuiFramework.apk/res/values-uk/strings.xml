@@ -199,7 +199,7 @@
      <string name="security_permission_open_wifi_settings">Відкрити налаштування Wi-Fi</string>
      <string name="security_permission_validate_warning">Дякуємо, ви допомагаєте зробити MIUI краще!</string>
      <string name="security_permission_wifi_and_data_opened_text">Wi-Fi та мобільний інтернет увімкнено</string>
-     <string name="security_permission_xiaomi_account_missed_text">Введіть ID свого Mi аккаунту</string>
+     <string name="security_permission_xiaomi_account_missed_text">Введіть ID свого Mi акаунту</string>
      <string name="select">Вибрати</string>
      <string name="select_all">Вибрати усе</string>
      <string name="set_password_action">Встановити пароль</string>
@@ -222,7 +222,7 @@
      <string name="standard_description">Вимкнення звуку для вхідних викликів та сповіщень</string>
      <string name="standard_title">Без звуку</string>
      <string name="start_dump_log">Почати збирати журнали проблем</string>
-     <string name="start_security_permission_verify_text">Перевірте дозволи за допомогою вашого Mi аккаунту</string>
+     <string name="start_security_permission_verify_text">Перевірте дозволи за допомогою вашого Mi акаунту</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Підсвічування</string>
      <string name="status_bar_toggle_battery_saver">Енергозбереження</string>
