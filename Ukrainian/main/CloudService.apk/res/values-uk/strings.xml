@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="close_shortcut">Закрити</string>
-     <string name="micloud_dspt_provision_xms">Використовуйте Mi Cloud для синхронізації даних</string>
-     <string name="micloud_main_cancel_sync_now">Скасування…</string>
-     <string name="micloud_main_simple_last_sync_time">Востаннє синхронізовано: %s</string>
-     <string name="micloud_main_simple_off">Синхронізація відключена</string>
-     <string name="micloud_main_simple_pending">Очікування</string>
-     <string name="micloud_main_simple_synced">Синхронізовано</string>
-     <string name="micloud_main_simple_syncing">Синхронізація…</string>
-     <string name="micloud_storage_unit_gb">%s ГБ</string>
-     <string name="micloud_storage_unit_mb">%s МБ</string>
-	 <string name="access_denied">Доступ заборонений</string>
+     <string name="access_denied">Доступ заборонений</string>
      <string name="account">Акаунт</string>
      <string name="account_related">"Ваш пристрій прив\'язано до Mi акаунту (%s). Підключіться до інтернету для активації пристрою."</string>
      <string name="activate">Активувати</string>
@@ -53,6 +43,7 @@
      <string name="close_cloud_app_backup_notification_message">Натисніть для перегляду</string>
      <string name="close_cloud_app_backup_notification_title">Повідомлення Mi Cloud</string>
      <string name="close_cloud_app_backup_title">Попередження</string>
+     <string name="close_shortcut">Закрити</string>
      <string name="cloud_app_back_up_quit_notification_content1">Можливість створення бекапу для сторонніх програм буде зупинено і видалено 1 травня 2015 року. Збережіть необхідні дані програм з допомогою локального бекапу.</string>
      <string name="cloud_app_back_up_quit_notification_content2">Синхронізація контактів, повідомлень, фото та інших даних залишиться як і раніше.</string>
      <string name="cloud_app_back_up_quit_notification_content3">Бекап програм</string>
@@ -120,6 +111,8 @@
      <string name="find_device_disabling">Вимкнення…</string>
      <string name="find_device_dspt">Вимкнено блокування пристроїв або очищення даних</string>
      <string name="find_device_dspt_provision">"Якщо Ви втратили свій пристрій, перейдіть на сайт %s"</string>
+     <string name="find_device_dspt_provision_2">"i.mi.com"</string>
+     <string name="find_device_dspt_provision_2_int">"www.mi.com/micloud"</string>
      <string name="find_device_dspt_provision_3">" для пошуку, блокування й очищення даних.
 "</string>
      <string name="find_device_dspt_provision_4">Якщо Ви змінити SIM-карту, буде автоматично надіслано SMS для активації цієї функції.</string>
@@ -156,7 +149,7 @@
      <string name="forget_password"><u>Забули пароль?</u></string>
      <string name="free_space_has_received">Безкоштовне місце вже отримане в цьому місяці</string>
      <string name="free_space_receive_fail">Неможливо оновити</string>
-     <string name="full_space">Пам\'ять заповнена</string>
+     <string name="full_space">"Пам\'ять заповнена"</string>
      <string name="get_first_month_gb">Одержати %s безкоштовного місця за перший раз</string>
      <string name="get_this_month_gb">Одержати %s безкоштовного місця в цьому місяці</string>
      <string name="google_100gb">100 ГБ</string>
@@ -179,6 +172,122 @@
      <string name="internet">Інтернет</string>
      <string name="internet_access_dspt">"Для нормальної роботи цієї програми потрібне з\'єднання з інтернетом."</string>
      <string name="internet_disconnected">Мобільний інтернет недоступний</string>
+     <string name="korea_permission_groups_descriptions">
+        <item>Визначення об\'єктів синхронізації</item>
+        <item>Синхронізація повідомлень</item>
+        <item>Синхронізація контактів</item>
+        <item>Синхронізація подій</item>
+        <item>Синхронізація об\'єктів з сервісами, які використовують пам\'ять</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Телефон</item>
+        <item>SMS</item>
+        <item>Контакти</item>
+        <item>Календар</item>
+        <item>Пам\'ять</item>
+    </string-array>
+    <!-- For settings search -->
+    <string-array name="settings_search_contacts">
+        <item>Синхронізація контактів з Mi Cloud</item>
+        <item>Увімкнути/налаштувати синхронізацію</item>
+        <item>Контакти;Історія викликів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Синхронізація повідомлень з Mi Cloud</item>
+        <item>Увімкнути/налаштувати синхронізацію</item>
+        <item>Повідомлення;SMS;MMS;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Синхронізація Галереї з Mi Cloud</item>
+        <item>Увімкнути/налаштувати синхронізацію</item>
+        <item>Галерея;Фото;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Синхронізація історії викликів з Mi Cloud</item>
+        <item>Увімкнути/налаштувати синхронізацію</item>
+        <item>Історія викликів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Синхронізація записів з Mi Cloud</item>
+        <item>Увімкнути/налаштувати синхронізацію</item>
+        <item>Диктофон;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Синхронізація музики з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Музика;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Синхронізація нотаток з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Нотатки;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Синхронізація налаштувань Wi-Fi з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Синхронізація Календаря з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Календар;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Синхронізація Браузера з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Браузер;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Синхронізація Безпеки з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Безпека;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Синхронізація Стрічки віджетів з Mi Cloud</item>
+        <item>Увімкнути синхронізацію</item>
+        <item>Стрічка віджетів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Всі послуги Мі в одному місці.</item>
+        <item>Доступ до фото, контактів, повідомлень і пристроїв з будь-якого місця</item>
+        <item>Недостатньо місця;Підписка;Пам\'ять;Вільне місце;Хмара;Синхронізація;Хмарні послуги;Mi Cloud;Кошик;Видалені об\'єкти;Безпека</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Пошук пристрою</item>
+        <item>Зітріть дані та блокуйте пристрій при його втраті</item>
+        <item>Пошук пристрою;Втрата;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Пошук пристрою</item>
+        <item>Зітріть дані та блокуйте пристрій при його втраті</item>
+        <item>Пошук пристрою;Втрата;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Видалені об\'єкти в Mi Cloud</item>
+        <item>Відновити контакти, фото, повідомлення і т.д.</item>
+        <item>Сміття;Видалені об\'єкти;Кошик;Відновити;Хмарні послуги;Мі Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Підписка Mi Cloud</item>
+        <item>Оновіть підписку, отримайте більше місця і захистіть свої дані</item>
+        <item>Недостатньо пам\'яті;Членство;Сховище;Пам\'ять сховища;Хмара;Синхронізація;Хмарні послуги;Мі Cloud;Мега;Ультра;VIP;Створити резервну копію;Резервна копія;Відновити;Сміття;Видалені об\'єкти;Кошик</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Створити бекап робочого столу у Mi Cloud</item>
+        <item>Резервування розкладки робочого столу, встановлених програм і налаштувань системи</item>
+        <item>Хмара;Резервна копія;Створити резервну копію;Хмарні послуги;Mi Cloud;Робочий стіл;Ярлик;Програми;Керування резервними копіями;Відновити</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Бекапи</item>
+        <item>Створити резервну копію всіх об\'єктів</item>
+        <item>Хмара;Резервна копія;Створити резервну копію;Хмарні послуги;Mi Cloud;Робочий стіл;Ярлик;Програми;Керування резервними копіями;Відновити</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Віддновити об\'єкти з Mi Cloud</item>
+        <item>Завантажити резервні копії на пристрій</item>
+        <item>Хмара;Резервна копія;Відновити;Хмарні послуги;Mi Cloud</item>
+    </string-array>
+    <string name="enable_sync_setting_title">Налаштування хмарних послуг\u2026</string>
      <string name="ks_certificate_udpate_time">Оновлення сертифікату</string>
      <string name="ks_certificate_version">Номер сертифікату</string>
      <string name="ks_download_certificate">Завантажити сертифікат</string>
@@ -188,6 +297,7 @@
      <string name="ks_name_alipay">Alipay</string>
      <string name="ks_name_fido">FIDO</string>
      <string name="ks_name_soter">WeChat</string>
+     <string name="ks_name_widevine">Widevine (L1)</string>
      <string name="ks_status_available">Доступно</string>
      <string name="ks_status_unavailable">Недоступно</string>
      <string name="ks_update_certificate">Сертифікат</string>
@@ -197,6 +307,8 @@
      <string name="ks_update_fail_request_timeout">Час очікування підключення минув</string>
      <string name="ks_update_success">Оновлено</string>
      <string name="ks_update_wait">Завантаження…</string>
+     <string name="last_sync_time_just_now">Щойно</string>
+     <string name="last_sync_time_yesterday">Вчора</string>
      <string name="less_flow_mode">Режим синхронізації</string>
      <string name="license_host_unreachable">Неможливо підключитися до інтернету. Для перегляду інформації, перейдіть на %s.</string>
      <string name="loading">Завантаження…</string>
@@ -206,6 +318,19 @@
      <string name="master_alert_notif_dspt_no">Дані синхронізовані</string>
      <string name="master_alert_notif_title">Увімкніть Mi Cloud</string>
      <string name="member_due_date">Дата завершення: %s</string>
+     <string name="member_entrance_normal_title">Змініть тариф Mi Cloud</string>
+     <string name="member_entrance_title_free_high_case_a">Отримайте більше місця</string>
+     <string name="member_entrance_title_free_high_case_b">Змініть тариф Mi Cloud</string>
+     <string name="member_entrance_title_free_low_case_a">Отримайте більше місця</string>
+     <string name="member_entrance_title_free_low_case_b">Змініть тариф Mi Cloud</string>
+     <string name="member_entrance_title_premium_high_case_a">Змініть тариф Mi Cloud</string>
+     <string name="member_entrance_title_premium_high_case_b">Оновлення</string>
+     <string name="member_entrance_title_premium_low_case_a">Отримайте більше місця</string>
+     <string name="member_entrance_title_premium_low_case_b">Змініть тариф Mi Cloud</string>
+     <string name="member_entrance_title_ultra_high_case_a">Оновлення</string>
+     <string name="member_entrance_title_ultra_high_case_b">Оновлення</string>
+     <string name="member_entrance_title_ultra_low_case_a">Оновлення</string>
+     <string name="member_entrance_title_ultra_low_case_b">Оновлення</string>
      <string name="member_menu_vipname_free">Безкоштовно</string>
      <string name="member_menu_vipname_mega">Мега</string>
      <string name="member_menu_vipname_premium">Преміум</string>
@@ -294,6 +419,20 @@
      <string name="micloud_dialog_sync_now_title">Попередження</string>
      <string name="micloud_dspt">Використовуйте Mi Cloud для синхронізації даних та пошуку пристрою</string>
      <string name="micloud_dspt_provision">Використовуйте Mi Cloud для синхронізації даних, пошуку пристрою й обміну інформацією з друзями.</string>
+     <string name="micloud_dspt_provision_xms">Використовуйте Mi Cloud для синхронізації даних</string>
+     <string name="micloud_entrance_titleArray">
+        <item>Синхронізація даних</item>
+        <item>Бекап робочого столу</item>
+        <item>Бекап системних налаштувань</item>
+        <item>Пошук пристрою</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Синхронізовуйте контакти, повідомлення, нотатки, календар та багато іншого</item>
+        <item>Створюйте бекап програм, розкладки робочого столу та шпалер</item>
+        <item>Створюйте бекап важливих налаштувань, включаючи Wi-Fi та екран</item>
+        <item>Блокуйте пристрій віддалено, у випадку його втрати</item>
+    </string-array>
+    <string name="micloud_manual_all_sync_off_summary">Відновіть дані на нових пристроях за допомогою Mi Cloud</string>
      <string name="micloud_find_device_close_alert_content">Якщо Ви деактивуєте цю функцію, Ви не зможете знайти пристрій у випадку його втрати</string>
      <string name="micloud_find_device_close_alert_negtive">Деактивувати</string>
      <string name="micloud_find_device_close_alert_positive">Залишити</string>
@@ -326,12 +465,15 @@
      <string name="micloud_find_device_open_fail">Неможливо увімкнути пошук пристрою</string>
      <string name="micloud_find_device_opened">Пошук пристрою увімкнено</string>
      <string name="micloud_find_device_opened_content">Знайдіть свій пристрій через %s</string>
+     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
      <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_find_device_sms_alert">Для активації цього сервісу може бути надіслано SMS. Оператор може стягувати додаткову плату за відправлене повідомлення. При перемиканні SIM-карт повідомлення може автоматично повторно відправлятися для активації</string>
      <string name="micloud_find_device_verify_button">Активуйте пошук пристрою повторно</string>
      <string name="micloud_find_device_verify_close">Деактивуйте пошук пристрою</string>
      <string name="micloud_find_device_verify_fail">Неможливо активувати пошук пристрою</string>
      <string name="micloud_find_device_verify_progress">Повторна активація пошуку пристрою…</string>
+     <string name="micloud_footer_international_url">mi.com/micloud</string>
+     <string name="micloud_footer_normal_url">i.mi.com</string>
      <string name="micloud_full_influence_dspt">"Всі Ваші фото, відео, нотатки й дані програм будуть зберігатися в Mi Cloud. 
 Таким чином, якщо Ви втратите або ушкодите пристрій, Ваші дані усе ще будуть у безпеці. 
 Коли Mi Cloud буде заповнений, Ваші нові дані не будуть синхронізуватися.
@@ -349,6 +491,7 @@
      <string name="micloud_main_button_authorize">Авторизувати</string>
      <string name="micloud_main_button_set_internet">Налаштувати</string>
      <string name="micloud_main_cancel_sync">Скасування…</string>
+     <string name="micloud_main_cancel_sync_now">Скасування…</string>
      <string name="micloud_main_clear_now">Очистити</string>
      <string name="micloud_main_data_unsynced">Даних для синхронізації: %d</string>
      <string name="micloud_main_detail">Інформація</string>
@@ -363,6 +506,7 @@
      <string name="micloud_main_head_menu_state_open">Увімкнено</string>
      <string name="micloud_main_head_menu_state_unavailable">Недоступно</string>
      <string name="micloud_main_last_sync_time">Остання синхронізація: %s</string>
+     <string name="micloud_main_manual_sync">Синхронізовувати вручну</string>
      <string name="micloud_main_master_sync_on">Синхронізацію увімкнено</string>
      <string name="micloud_main_memory_low_message">Для синхронізації даних видаліть непотрібні файли з Mi Cloud</string>
      <string name="micloud_main_memory_low_title">"Недостатньо пам\'яті"</string>
@@ -383,6 +527,11 @@
      <string name="micloud_main_save_battery_on">Увімкнений режим енергозбереження</string>
      <string name="micloud_main_see_unsynced_data">Перевірте дані, що синхронізуються</string>
      <string name="micloud_main_set_internet">Налаштування</string>
+     <string name="micloud_main_simple_last_sync_time">Востаннє синхронізовано: %s</string>
+     <string name="micloud_main_simple_off">Синхронізація відключена</string>
+     <string name="micloud_main_simple_pending">Очікування</string>
+     <string name="micloud_main_simple_synced">Синхронізовано</string>
+     <string name="micloud_main_simple_syncing">Синхронізація…</string>
      <string name="micloud_main_space_full">"Пам\'ять заповнена"</string>
      <string name="micloud_main_space_full_message">Ви отримаєте більше місця у Mi Cloud</string>
      <string name="micloud_main_space_full_title">"Пам\'ять в Mi Cloud заповнена"</string>
@@ -394,6 +543,8 @@
      <string name="micloud_main_suggest_sync">Ваші дані в Mi Cloud застаріли. Потрібна синхронізація</string>
      <string name="micloud_main_sync_exception">Помилка синхронізації</string>
      <string name="micloud_main_sync_init">Отримання інформації</string>
+     <string name="micloud_main_sync_mode_summary">Всі об\'єкти, крім фото та відео, будуть синхронізуватися в режимі реального часу. Ця функція збільшить споживання енергії.</string>
+     <string name="micloud_main_sync_mode_title">Синхронізація в руальному часі</string>
      <string name="micloud_main_sync_need_charge">Очікування зарядки</string>
      <string name="micloud_main_sync_need_charge_or_sleep">Зарядіть пристрій</string>
      <string name="micloud_main_sync_now">Синхронізувати</string>
@@ -418,6 +569,34 @@
      <string name="micloud_main_wait_wlan_charge_sleep">Очікування Wi-Fi мережі, підключення зарядного пристрою та вимкнення екрану</string>
      <string name="micloud_main_wlan_sync_data_count">Не синхронізовано по Wi-Fi: %d</string>
      <string name="micloud_manage_space_data">Керування даними Mi Cloud</string>
+     <string name="micloud_manaul_sync_success_button_text">Переглянути деталі</string>
+     <string name="micloud_manaul_sync_success_title">Синхронізовано успішно</string>
+     <string name="micloud_manual_activating">Активація\u2026</string>
+     <string name="micloud_manual_all_sync_off_button_text">Увімкнути</string>
+     <string name="micloud_manual_all_sync_off_title">Синхронізацію з Mi Cloud вимкнено</string>
+     <string name="micloud_manual_buy_vip">Змінити тариф Mi Cloud</string>
+     <string name="micloud_manual_cloud_storage_full_button_text">Оновити</string>
+     <string name="micloud_manual_cloud_storage_full_summary">Змініть свій тариф Mi Cloud, щоб синхронізовувати фото, контакти і т.д.</string>
+     <string name="micloud_manual_cloud_storage_full_title">Пам\'ять Mi Cloud заповнено. Синхронізацію було зупинено.</string>
+     <string name="micloud_manual_cloud_storage_low_button_text">Змінити</string>
+     <string name="micloud_manual_cloud_storage_low_summary">Змініть свій тариф Mi Cloud, щоб отримати більше місця</string>
+     <string name="micloud_manual_cloud_storage_low_title">Закінчується пам\'ять Mi Cloud. Ваші фото можуть не бути синхронізовані.</string>
+     <string name="micloud_manual_grant_permission">Надати дозволи</string>
+     <string name="micloud_manual_local_storage_low_button_text">Очистити</string>
+     <string name="micloud_manual_local_storage_low_summary">Не вдалося продовжити синхронізацію. Недостатньо пам\'яті.</string>
+     <string name="micloud_manual_local_storage_low_title">Закінчується пам\'ять</string>
+     <string name="micloud_manual_network_disconnet_button_text">Налаштування мережі</string>
+     <string name="micloud_manual_network_disconnet_title">Не вдалося підключитися до мережі</string>
+     <string name="micloud_manual_paused">Призупинено</string>
+     <string name="micloud_manual_pausing">Пауза</string>
+     <string name="micloud_manual_pending">Очікування\u2026</string>
+     <string name="micloud_manual_reactivate">Активувати</string>
+     <string name="micloud_manual_sync_all">Синхронізувати всі об\‘єкти</string>
+     <string name="micloud_manual_sync_now">Синхронізувати</string>
+     <string name="micloud_manual_sync_pause">Синхронізація зупинена</string>
+     <string name="micloud_manual_sync_resume">Відновити синхронізацію</string>
+     <string name="micloud_manual_syncing">Синхронізація\u2026</string>
+     <string name="micloud_manual_title">Синхронізація вручну</string>
      <string name="micloud_member">Преміум</string>
      <string name="micloud_member_advantage">Отримати більше місця</string>
      <string name="micloud_member_buy_content" formatted="false">"Діє: %s-%s-%s
@@ -458,6 +637,8 @@
      <string name="micloud_notif_title_sync_progress">Синхронізація</string>
      <string name="micloud_notif_title_sync_with_off">Синхронізація з Mi Cloud</string>
      <string name="micloud_other_product_price">Інші аналогічні зберігання:</string>
+     <string name="micloud_preference_last_sync_time">Остання синхронізація: %s</string>
+     <string name="micloud_preference_syncing">Синхронізація\u2026</string>
      <string name="micloud_privacy_cloud_off">Синхронізацію вимкнено</string>
      <string name="micloud_privacy_cloud_sync">Активація Mi Cloud</string>
      <string name="micloud_privacy_explanation">Активуйте Mi Cloud після авторизації</string>
@@ -495,6 +676,8 @@
      <string name="micloud_storage_expires_soon_title">Термін дії купленого місця в Mi Cloud закінчується</string>
      <string name="micloud_storage_expires_very_soon_title">Термін дії купленого місця в Mi Cloud закінчується</string>
      <string name="micloud_storage_full">"Пам\'ять в Mi Cloud заповнена"</string>
+     <string name="micloud_storage_unit_gb">%s ГБ</string>
+     <string name="micloud_storage_unit_mb">%s МБ</string>
      <string name="micloud_storage_usage" formatted="false">Зайняте: %s | Усього: %s</string>
      <string name="micloud_sync_alert_dialog_message">Синхронізуйте фото, контакти, нотатки та багато чого іншого між Вашими пристроями.</string>
      <string name="micloud_sync_alert_dialog_negative">Скасувати</string>
@@ -502,6 +685,20 @@
      <string name="micloud_sync_alert_dialog_title">Mi Cloud</string>
      <string name="micloud_sync_off">Синхронізацію з Mi Cloud вимкнено</string>
      <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронізацію увімкнено лише для контактів, календаря та нотаток. Щоб синхронізувати усі дані, перейдіть до налаштувань Mi Cloud.</string>
+     <string name="micloud_sync_result_already_in_progress">Обробка попередньої синхронізації\u2026</string>
+     <string name="micloud_sync_result_auth_exception">Помилка аккаунта</string>
+     <string name="micloud_sync_result_cancel">Синхронізація була перервана</string>
+     <string name="micloud_sync_result_cloud_storage_full">Сховище Mi Cloud заповнене</string>
+     <string name="micloud_sync_result_common_message">Не вдалося синхронізувати. Зачекайте хвилинку та повторіть спробу.</string>
+     <string name="micloud_sync_result_cta_permission_error">Спочатку підключіться до мережі</string>
+     <string name="micloud_sync_result_internal_error">Внутрішня помилка</string>
+     <string name="micloud_sync_result_io_exception">Помилка вводу-виводу</string>
+     <string name="micloud_sync_result_parse_exception">Не вдалося проаналізувати дані</string>
+     <string name="micloud_sync_result_permission_error">Помилка дозволу</string>
+     <string name="micloud_sync_result_request_error">Помилка запиту синхронізації</string>
+     <string name="micloud_sync_result_secure_space_limit">Не синхронізовувати елементи з Другого сховища</string>
+     <string name="micloud_sync_result_sim_activated_error">Помилка активація SIM-карти</string>
+     <string name="micloud_sync_result_wifi_only">Синхронізація тільки по Wi-Fi</string>
      <string name="micloud_title_dspt" formatted="false">"Використано: %s | Всього: %s"</string>
      <string name="micloud_title_dspt_remain">Залишилося: %s</string>
      <string name="micloud_title_full_dspt">"Пам\'ять заповнена"</string>
@@ -516,7 +713,7 @@
      <string name="micloud_warn_low_title">Обмаль місця…</string>
      <string name="micloud_web_discription">Відвідайте i.mi.com щоб керувати файлами будь-якого пристрою</string>
      <string name="micloud_web_discription_01">i.mi.com</string>
-     <string name="micloud_web_discription_02">Доступ до Ваших даних з комп\'ютера</string>
+     <string name="micloud_web_discription_02">"Доступ до Ваших даних з комп\'ютера"</string>
      <string name="micloud_web_discription_international">Відвідайте www.mi.com/micloud</string>
      <string name="micloud_web_discription_place_holder">Відвідайте %1$s</string>
      <string name="micloud_website">Хмарні дані</string>
@@ -570,6 +767,7 @@
      <string name="privacy_policy">Політика конфіденційності</string>
      <string name="provision_arrow_back">&lt;</string>
      <string name="provision_arrow_next">></string>
+     <string name="provision_sync_items_loading">Підготовка до синхронізації даних</string>
      <string name="reading_status">Завантаження статусу…</string>
      <string name="reading_status_failure">Неможливо завантажити статус</string>
      <string name="recommend_open_all_sync">Синхронізувати все</string>
@@ -604,9 +802,9 @@
      <string name="soundrecorder_sync_only_in_wifi">Синхронізація лише по Wi-Fi</string>
      <string name="soundrecorder_sync_only_in_wifi_summary">Синхронізувати записи диктофону лише по Wi-Fi мережі</string>
      <string name="soundrecorder_sync_records">Синхронізація з Mi Cloud</string>
-     <string name="space">Пам\'ять</string>
+     <string name="space">"Пам\'ять"</string>
      <string name="start_micloud">Почати</string>
-     <string name="storage">Пам\'ять</string>
+     <string name="storage">"Пам\'ять"</string>
      <string name="sub_alert_notif_content">Увімкніть Mi Cloud</string>
      <string name="sub_alert_notif_dspt_add">Не синхронізовано %s</string>
      <string name="sub_alert_notif_dspt_no">Синхронізовано</string>
@@ -615,6 +813,8 @@
      <string name="sub_sync_item_sms_title_wifi_only">MMS тільки по Wi-Fi</string>
      <string name="success_upgraded_space">%s отримане</string>
      <string name="sync">Синхронізація</string>
+     <string name="sync_detail_summary_off">Вимк</string>
+     <string name="sync_detail_text">Результат синхронізації</string>
      <string name="sync_dspt">Увімкнути синхронізацію</string>
      <string name="sync_dspt_entrance_provision">"Синхронізуйте фото, контакти і повідомлення на %s. "</string>
      <string name="sync_dspt_entrance_provision_2">Детальніше</string>
@@ -625,6 +825,8 @@
      <string name="sync_dspt_entrance_provision_network">"Для роботи програми необхідне підключення до інтернету. "</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Пропустити</u></string>
      <string name="sync_dspt_provision">"Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення й інші дані між пристроями. Також Ви можете переглядати дані з комп\'ютера через сайт "</string>
+     <string name="sync_dspt_provision2">"i.mi.com"</string>
+     <string name="sync_dspt_provision2_int">"www.mi.com/micloud"</string>
      <string name="sync_dspt_provision3">".
 "</string>
      <string name="sync_dspt_provision_header">Синхронізація</string>
@@ -666,12 +868,31 @@
      <string name="user_agreement_p7">"Умовами користування Mi Cloud"</string>
      <string name="user_agreement_p8"> </string>
      <string name="user_agreement_title">Умови користування Mi Cloud</string>
+     <string name="user_detail_fixed_items">
+        <item>Переглянути синхронізовані об\'єкти</item>
+        <item>Статус пам\'яті</item>
+    </string-array>
+    <string name="user_detail_agreement">Угода користувача</string>
+     <string name="user_detail_privacy_policy">Політика конфіденційності</string>
+     <string name="user_storage_info_available_text_prefix">Доступно: %s</string>
      <string name="vcode">Перевірочний код</string>
      <string name="verify">Перевірити</string>
      <string name="view_storage_title">Місце в Mi Cloud</string>
      <string name="virtual_sim_desc">Увімкніть Mi SIM для пошуку пристрою без SIM-картки</string>
      <string name="voip_choose_sim">Оберіть номер телефону для активації Mi VoIP</string>
      <string name="voip_dspt">Mi VoIP</string>
+     <string name="warning_bar_action_add_short_cut">Додати</string>
+     <string name="warning_bar_action_close">Закрити</string>
+     <string name="warning_bar_action_turn_on_master_sync">Увімкнути</string>
+     <string name="warning_bar_action_turn_on_sync">Увімкнути</string>
+     <string name="warning_bar_action_upgrade_vip">Змінити тариф Mi Cloud</string>
+     <string name="warning_bar_add_short_cut_success">Додано успішно</string>
+     <string name="warning_bar_title_cloud_space_already_full">Закінчується пам\'ять Mi Cloud. Ваші фото можуть не бути синхронізовані.</string>
+     <string name="warning_bar_title_cloud_space_full">Пам\'ять Mi Cloud заповнено. Синхронізацію було зупинено.</string>
+     <string name="warning_bar_title_master_sync_off">Автосинхронізація вимкнена</string>
+     <string name="warning_bar_title_network_unconnected">Не вдалося підключитися до мережі</string>
+     <string name="warning_bar_title_short_cut">Додати ярлик Mi Cloud на робочий стіл?</string>
+     <string name="warning_bar_title_sync_off">Синхронізацію з Mi Cloud вимкнено</string>
      <string name="wifi">Wi-Fi</string>
      <string name="wifi_disconnected">Wi-Fi мережа недоступна</string>
      <string name="wifi_sync">Синхронізація по Wi-Fi</string>

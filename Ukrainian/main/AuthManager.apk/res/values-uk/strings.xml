@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="HIPS_Perm_UDevice_ID">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід?</string>
-     <string name="HIPS_Perm_UDevice_ID_DESC">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід. Дозволити?</string>
-	 <string name="Dashboard_App">Програми</string>
+     <string name="Dashboard_App">Програми</string>
      <string name="Dashboard_HIPS_Disable_Content">"Вимкнення цієї функції може піддати систему небезпеці.
 Продовжити?"</string>
      <string name="Dashboard_HIPS_Disable_Title">Монітор доступу</string>
@@ -285,6 +283,8 @@
      <string name="HIPS_Perm_Systemalert">Спливаючі вікна</string>
      <string name="HIPS_Perm_Systemalert_Desc">Доступ до спливаючих вікон</string>
      <string name="HIPS_Perm_Systemalert_Hint">Доступ до спливаючих вікон (%1$s)</string>
+     <string name="HIPS_Perm_UDevice_ID">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід?</string>
+     <string name="HIPS_Perm_UDevice_ID_DESC">Надсилати інформацію про пристрій розробникам ігор, щоб допомогти їм поліпшити ігровий досвід. Дозволити?</string>
      <string name="HIPS_Perm_VideoRecorder">Камера</string>
      <string name="HIPS_Perm_VideoRecorder_Desc">Доступ до камери</string>
      <string name="HIPS_Perm_VideoRecorder_Hint">Доступ до камери (%1$s)</string>
@@ -310,6 +310,8 @@
      <string name="HIPS_Perm_add_voicemail_Desc">Додавання системних голосових повідомлень</string>
      <string name="HIPS_Perm_background_start_activity">Запуск у фоновому режимі</string>
      <string name="HIPS_Perm_background_start_activity_Desc">Запуск у фоновому режимі</string>
+     <string name="HIPS_Perm_deamon_notification">Постійні сповіщення</string>
+     <string name="HIPS_Perm_deamon_notification_Desc">Показати тимчасовi сповіщення</string>
      <string name="HIPS_Perm_get_accounts">Доступ до акаунтів</string>
      <string name="HIPS_Perm_get_accounts_Desc">Доступ до всіх акаунтів на пристрої</string>
      <string name="HIPS_Perm_get_installed_apps">Інформація про встановлені програми</string>

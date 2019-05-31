@@ -116,6 +116,10 @@
         <item>Очистити</item>
         <item>Показати файл</item>
      </string-array>
+     <string-array name="wechat_sort">
+        <item>Дата</item>
+        <item>Розмір</item>
+     </string-array>
      <string-array name="white_list_ad">
         <item>/MIUI/debug_log</item>
      </string-array>

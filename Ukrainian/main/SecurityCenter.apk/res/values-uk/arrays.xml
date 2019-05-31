@@ -78,7 +78,7 @@
         <item>"Вчора "</item>
         <item>"Сьогодні "</item>
         <item>"Минулий місяць "</item>
-		<item>"Поточний місяць "</item>
+        <item>"Поточний місяць "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
         <item>"На цьому тижні: "</item>
@@ -88,6 +88,12 @@
      <string-array name="installed_app_sort_type">
         <item>За частотою використання</item>
         <item>За розміром</item>
+     </string-array>
+     <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
      </string-array>
      <string-array name="large_file_sort_type">
         <item>За розміром</item>
@@ -205,6 +211,11 @@
         <item>Час інсталяції</item>
         <item>Джерело оновлення</item>
         <item>Востаннє оновлено</item>
+     </string-array>
+     <string-array name="traffic_package_type">
+        <item>Місячний тарифний план</item>
+        <item>Щоденний тарифний план</item>
+        <item>Безлімітний тарифний план</item>
      </string-array>
      <string-array name="traffic_saving_compress_level_string_array">
         <item>Без стиснення</item>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="cd_scanning">Сканування</string>
      <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
      <string name="activity_title_ad">Реклама</string>
      <string name="activity_title_apk">APK</string>
@@ -36,6 +35,10 @@
      <string name="apk_status_installed_old">Стара версія</string>
      <string name="apk_status_uninstalled">Не інстальовано</string>
      <string name="apk_title_alipay_plugin">Плагін Alipay</string>
+     <string name="app_clean_group_document_recv">Отримані</string>
+     <string name="app_clean_group_document_send">Відправлені</string>
+     <string name="app_clean_group_image_recv">Отримані</string>
+     <string name="app_clean_group_image_send">Відправлені</string>
      <string name="app_description_content">"Програма дозволяє звільняти місце у пам'яті пристрою шляхом видалення невикористовуваних файлів"</string>
      <string name="app_description_title">Про очищення</string>
      <string name="app_install_tips_go_to">Запустити</string>
@@ -118,6 +121,7 @@
      <string name="cd_list_item_collapse">Згорнуто</string>
      <string name="cd_list_item_expanded">Розгорнуто</string>
      <string name="cd_percent">Відсоток</string>
+     <string name="cd_scanning">Сканування</string>
      <string name="cd_settings">Налаштування</string>
      <string name="cd_sort_type">Сортування</string>
      <string name="clean_content_all">Очищати все</string>
@@ -125,6 +129,9 @@
      <string name="clean_content_three">3 елемента</string>
      <string name="clean_content_two">2 елемента</string>
      <string name="clean_content_zero">Не очищено</string>
+     <string name="clean_long_msg">"Очищення файлів: %1$d, завершено: %2$d 
+%3$d%% файлів/секунду, лишилось часу: %4$s"</string>
+     <string name="clean_summary">Очищено файлів: %1$s</string>
      <string name="clear_bigfiles">Видалення великих файлів, схожих фото та програм, що не часто використовуються</string>
      <string name="clear_immediately">Очищення</string>
      <string name="clear_safe_notify">Віджет в панелі сповіщень</string>
@@ -200,6 +207,7 @@
      <string name="dialog_title_uninstall_apps">Видалення</string>
      <string name="download">Завантажити</string>
      <string name="downloading">Завантаження…</string>
+     <string name="empty">" "</string>
      <string name="empty_content_no_ignore_image">Порожньо</string>
      <string name="empty_content_no_privacy">Порожньо</string>
      <string name="empty_content_no_similar_image">Немає копій</string>
@@ -215,6 +223,15 @@
      <string name="engine_cm">Clean Master</string>
      <string name="engine_init">Запуск…</string>
      <string name="engine_tm">Tencent</string>
+     <string name="facebook_clean_exit_confirm_cancel">Продовжити</string>
+     <string name="facebook_clean_exit_confirm_msg">Сканування Facebook не було завершено. Зупинити сканування?</string>
+     <string name="facebook_clean_exit_confirm_ok">Зупинити</string>
+     <string name="facebook_clean_exit_confirm_title">Зупинити сканування?</string>
+     <string name="facebook_cleaner">Очищення Facebook</string>
+     <string name="facebook_group_cache">Файли даних</string>
+     <string name="facebook_group_gif">GIF</string>
+     <string name="facebook_group_image">Зображення</string>
+     <string name="facebook_group_video">Відео</string>
      <string name="file">Файли</string>
      <string name="file_not_found">Файл не знайдено</string>
      <string name="flow_rank_title">Трафік</string>
@@ -257,6 +274,7 @@
      <string name="hints_garbage_cleanup_result_safe">Очищення не потрібно</string>
      <string name="hints_garbage_handle_item_content">Файлів: %1$d | %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Файлів: 0</string>
+     <string name="hints_header_left">%d</string>
      <string name="hints_install_apps_else">Зайнято: %s</string>
      <string name="hints_install_apps_interval">Запускалося %d дн. тому</string>
      <string name="hints_install_apps_new">Не запускалося</string>
@@ -399,6 +417,8 @@
      <string name="mainbtn_text_quick_cleanup_default">Очищення</string>
      <string name="megabyteShort">" МБ"</string>
      <string name="memeory_check_content">Програм: %1$d | Пам\`яті: %2$s</string>
+     <string name="memory_clean_icon_text">Очищення ОЗП</string>
+     <string name="memory_clean_no_trash_tip">Очищення непотрібне</string>
      <string name="menu_add_to_white_list">Додати до виключень</string>
      <string name="menu_clear">Очищення</string>
      <string name="menu_install">Інсталювати програму</string>
@@ -421,6 +441,12 @@
      <string name="news_change">Змінити</string>
      <string name="no_network">Неможливо підключитись до мережі</string>
      <string name="no_network_btn">Повторення</string>
+     <string name="notification_garbage_cleanup_summary">Розмір сміття досяг %s</string>
+     <string name="notification_garbage_cleanup_title">Необхідне очищення</string>
+     <string name="notification_low_memory_cache_summary">Залишилося менше 1.5 ГБ вільного місця</string>
+     <string name="notification_low_memory_cache_title">Необхідне очищення</string>
+     <string name="notification_low_memory_deepclean_summary">Глибоке очищення може звільнити пам\'ять</string>
+     <string name="notification_low_memory_deepclean_title">Закінчується пам\'ять</string>
      <string name="notification_summary_after_auto_cleanup">Очищено %s сміття</string>
      <string name="notification_summary_of_apps_cleanup">"Програми, що рідко використовуються займають %s пам\'яті пристрою"</string>
      <string name="notification_summary_of_garbage_cleanup">Натисніть для очищення</string>
@@ -428,6 +454,14 @@
      <string name="notification_title_of_garbage_cleanup">%s сміття</string>
      <string name="notify_when">Сповіщати, коли розмір сміття досягає 100 МБ.</string>
      <string name="ok">ОК</string>
+     <string name="one_tap_clean_GB">%sГБ</string>
+     <string name="one_tap_clean_M">%dМБ</string>
+     <string name="onekeyclean_boost_available">Вільно: %s</string>
+     <string name="onekeyclean_boost_cleaned">Очищено: %s</string>
+     <string name="onekeyclean_boosted_title">Очищення завершено</string>
+     <string name="onekeyclean_boosting_title">Прискорення</string>
+     <string name="onekeyclean_card_btn">Очищення</string>
+     <string name="onekeyclean_card_summery">Очищення сміття</string>
      <string name="open">Увімкнути</string>
      <string name="open_app">Відкрити</string>
      <string name="open_browser">Відкрити в браузері</string>
@@ -441,6 +475,7 @@
      <string name="petabyteShort">" ПБ"</string>
      <string name="phone_search">Пошук Google</string>
      <string name="positive_confirm">ОК</string>
+     <string name="pref_about_privacy_title">Політика конфіденційності</string>
      <string name="pref_category_title_auto_clean_config_settings">Автоматичне очищення</string>
      <string name="pref_category_title_auto_clean_settings">Очищення</string>
      <string name="pref_category_title_auto_update_cleanup_db">Оновлення бази очищення</string>
@@ -474,6 +509,7 @@
      <string name="pref_title_choose_engine">База очищення</string>
      <string name="pref_title_clean_alert">Автоочищення сміття</string>
      <string name="pref_title_cleanup_white_list">Список винятків очищення</string>
+     <string name="pref_title_create_onekeyclean_shortcut">Ярлик на робочий стіл</string>
      <string name="pref_title_expand_cache_group">Розкривати категорії кешу</string>
      <string name="pref_title_garbage_auto_clean_content">Елементи очищення</string>
      <string name="pref_title_garbage_cleanup_check_size">Розмір сміття</string>
@@ -523,6 +559,7 @@
      <string name="sc_allow_network_dialog_message">Дозволити програмі під\`єднуватися до інтернету для отримання оновлень?</string>
      <string name="scanning">Сканування…</string>
      <string name="search_history">Історія пошуку</string>
+     <string name="security_center_slogan">Безпека. Завжди на варті.</string>
      <string name="see_more">Ще</string>
      <string name="set_immediately">Увімкнути</string>
      <string name="seton_immediately">Увімкнути</string>
@@ -600,6 +637,8 @@
      <string name="toast_select_white_need_remove">Виберіть елементи для очищення</string>
      <string name="toast_selecte_group_restore_succeed">Фото відновлено</string>
      <string name="toast_uninstall_success">Видалення завершено</string>
+     <string name="toast_updater_close_4g_text">Програми не будуть оновлені через мережу 4G</string>
+     <string name="toast_updater_open_4g_text">Програми будуть оновлені через мережу 4G</string>
      <string name="total_clean">Очищено: %s</string>
      <string name="total_clean_text">Очищено</string>
      <string name="traffic_top">Топ 5 програм, що найчастіше використовуються</string>
@@ -694,19 +733,4 @@
      <string name="wqfile_group_chat_voice">Голосові повідомлення</string>
      <string name="year_month_day_format">d MMMM yyyy</string>
      <string name="yesterday">Вчора</string>
-     <string name="clean_long_msg">"Очищення файлів: %1$d, завершено: %2$d 
-%3$d%% файлів/секунду, лишилось часу: %4$s"</string>
-     <string name="clean_summary">Очищено файлів: %1$s</string>
-     <string name="memory_clean_icon_text">Очищення ОЗП</string>
-     <string name="memory_clean_no_trash_tip">Очищення непотрібне</string>
-     <string name="onekeyclean_boost_available">Вільно: %s</string>
-     <string name="onekeyclean_boost_cleaned">Очищено: %s</string>
-     <string name="onekeyclean_boosted_title">Очищення завершено</string>
-     <string name="onekeyclean_boosting_title">Прискорення</string>
-     <string name="onekeyclean_card_btn">Очищення</string>
-     <string name="onekeyclean_card_summery">Очищення сміття</string>
-     <string name="pref_about_privacy_title">Політика конфіденційності</string>
-     <string name="pref_title_create_onekeyclean_shortcut">Ярлик на робочий стіл</string>
-      <string name="toast_updater_close_4g_text">Програми не будуть оновлені через мережу 4G</string>
-     <string name="toast_updater_open_4g_text">Програми будуть оновлені через мережу 4G</string>
 </resources>

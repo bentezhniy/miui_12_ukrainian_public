@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="collect_diagnosis_log">Збір звітів діагностики</string>
+     <string name="account_user_gender_name">
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
+    </string-array>
+    <string name="account_user_birthday">День народження</string>
+     <string name="agreement_and_privacy">Політика конфіденційності та Умови використання</string>
+     <string name="facebook_app_id">2263965750590514</string>
+     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+     <string name="passport_first_login_prompt">Мі акаунт буде створено автоматично під час Вашого першого входу до системи</string>
+     <string name="passport_wx_bind_account_limit">Неможливо створити акаунт зараз. Спробуйте інші способи входу</string>
+     <string name="scan_barcode">Відскануйте QR-код</string>
+     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+	 <string name="collect_diagnosis_log">Збір звітів діагностики</string>
      <string name="confirm_new_pwd">Підтвердіть новий пароль</string>
      <string name="diagnosis_log_send_failed">Неможливо надіслати звіт діагностики</string>
      <string name="diagnosis_log_sent_format">"Звіт діагностики надіслано.

@@ -7,10 +7,12 @@
      <string name="HIPS_Perm_Location">Отримання місця розташування</string>
      <string name="HIPS_Perm_PhoneID">Отримання інформації про пристрій</string>
      <string name="HIPS_Perm_Settings">Зміна системних налаштувань</string>
+     <string name="HIPS_Perm_SystemAlert">Спливаючі вікна</string>
      <string name="HIPS_Perm_WIFI_Connectivity">Зміна Wi-Fi підключення</string>
      <string name="HIPS_Perm_background_start_activity">Запуск у фоновому режимі</string>
      <string name="HIPS_Perm_get_accounts">Доступ до акаунтів</string>
      <string name="HIPS_Perm_get_installed_apps">Отримання інформації про програми</string>
+     <string name="HIPS_Perm_show_when_locked">Показувати на екрані блокування</string>
      <string name="Register">register</string>
      <string name="Start">Розпочати</string>
      <string name="StartScan">Сканувати</string>
