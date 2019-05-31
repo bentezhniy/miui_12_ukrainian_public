@@ -1108,31 +1108,6 @@
         <item>Asia/Magadan</item>
         <item>Pacific/Tongatapu</item>
      </string-array>
-     <string-array name="click_bottom">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom08</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-     </string-array>
      <string-array name="color_mode_descriptions">
         <item>Покращені кольори</item>
         <item>Природні кольори, звичні оку</item>
@@ -1357,15 +1332,6 @@
         <item>Новий</item>
         <item>AOSP</item>
      </string-array>
-     <string-array name="key_and_gesture_shortcut_action">
-        <item>long_press_home_key</item>
-        <item>long_press_menu_key</item>
-        <item>long_press_back_key</item>
-        <item>key_combination_power_home</item>
-        <item>key_combination_power_menu</item>
-        <item>key_combination_power_back</item>
-        <item>key_none</item>
-     </string-array>
      <string-array name="keyguard_notification_status_entries">
         <item>Вмикати екран</item>
         <item>Показувати анімацію</item>
@@ -1420,43 +1386,6 @@
         <item>300000</item>
         <item>900000</item>
         <item>1800000</item>
-     </string-array>
-     <string-array name="long_press">
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom04</item>
-        <item>@drawable/clickbottom05</item>
-        <item>@drawable/clickbottom06</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom07</item>
-        <item>@drawable/clickbottom03</item>
-        <item>@drawable/clickbottom02</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
-        <item>@drawable/clickbottom01</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Невелика</item>
@@ -1608,62 +1537,6 @@
         <item>Зелений</item>
         <item>Пурпурний</item>
      </string-array>
-     <string-array name="power_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </string-array>
-     <string-array name="power_double_click">
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick02</item>
-        <item>@drawable/powerclick03</item>
-        <item>@drawable/powerclick04</item>
-        <item>@drawable/powerclick05</item>
-        <item>@drawable/powerclick06</item>
-        <item>@drawable/powerclick07</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-        <item>@drawable/powerclick01</item>
-     </string-array>
      <string-array name="power_mode_entries">
         <item>Продуктивний</item>
         <item>Збалансований</item>
@@ -1770,11 +1643,6 @@
      <string-array name="screen_resolution_entries">
         <item>Високе (2K)</item>
         <item>Середнє (720p)</item>
-     </string-array>
-     <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
      </string-array>
      <string-array name="screen_resolution_text">
         <item>2К</item>
@@ -1899,10 +1767,6 @@
         <item>tulip</item>
         <item>equuleus</item>
      </string-array>
-     <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-     </string-array>
      <string-array name="silent_mode_duration_text">
         <item>Завжди</item>
         <item>30 хвилин</item>
@@ -1973,31 +1837,6 @@
      <string-array name="status_bar_style_entries">
         <item>Одна сторінка</item>
         <item>Дві вкладки</item>
-     </string-array>
-     <string-array name="three_drop">
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop01</item>
-        <item>@drawable/threedrop02</item>
-        <item>@drawable/threedrop03</item>
-        <item>@drawable/threedrop04</item>
-        <item>@drawable/threedrop05</item>
-        <item>@drawable/threedrop06</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
-        <item>@drawable/threedrop07</item>
      </string-array>
      <string-array name="time_format_entries">
         <item>12-годинний 1:00 PM</item>
@@ -2180,10 +2019,6 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
-     </string-array>
-     <string-array name="wifi_ap_band_config_2G_5G">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
      </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрування</item>

@@ -146,7 +146,6 @@
      <string name="lack_of_storage">"Недостатньо пам'яті"</string>
      <string name="latest_backup_time_loading">Завантаження…</string>
      <string name="load_backup_failed">Помилка завантаження бекапу</string>
-     <string name="loading_progress_num">(%s%%)</string>
      <string name="loading_user_backup">Завантаження бекапу…</string>
      <string name="main_space">Перший простір</string>
      <string name="managespace_delete_backup">Видалити бекап</string>
@@ -172,8 +171,6 @@
      <string name="open_wifi_setting">Налаштування Wi-Fi</string>
      <string name="other_device_main_space">Перше сховище</string>
      <string name="other_device_second_space">Друге сховище</string>
-     <string name="pattern_backup_name_with_home">%1$s\u0020(%2$s:\u0020%3$s)</string>
-     <string name="pattern_backup_name_without_home">%1$s\u0020(%2$s)</string>
      <string name="process_whole_recovery">Відновлення \"%s\"</string>
      <string name="provision_arrow_back">&lt;</string>
      <string name="provision_arrow_next">></string>

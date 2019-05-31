@@ -89,12 +89,6 @@
         <item>За частотою використання</item>
         <item>За розміром</item>
      </string-array>
-     <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-     </string-array>
      <string-array name="large_file_sort_type">
         <item>За розміром</item>
         <item>За іменем</item>

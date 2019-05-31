@@ -111,8 +111,6 @@
      <string name="find_device_disabling">Вимкнення…</string>
      <string name="find_device_dspt">Вимкнено блокування пристроїв або очищення даних</string>
      <string name="find_device_dspt_provision">"Якщо Ви втратили свій пристрій, перейдіть на сайт %s"</string>
-     <string name="find_device_dspt_provision_2">"i.mi.com"</string>
-     <string name="find_device_dspt_provision_2_int">"www.mi.com/micloud"</string>
      <string name="find_device_dspt_provision_3">" для пошуку, блокування й очищення даних.
 "</string>
      <string name="find_device_dspt_provision_4">Якщо Ви змінити SIM-карту, буде автоматично надіслано SMS для активації цієї функції.</string>
@@ -465,15 +463,12 @@
      <string name="micloud_find_device_open_fail">Неможливо увімкнути пошук пристрою</string>
      <string name="micloud_find_device_opened">Пошук пристрою увімкнено</string>
      <string name="micloud_find_device_opened_content">Знайдіть свій пристрій через %s</string>
-     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
      <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
      <string name="micloud_find_device_sms_alert">Для активації цього сервісу може бути надіслано SMS. Оператор може стягувати додаткову плату за відправлене повідомлення. При перемиканні SIM-карт повідомлення може автоматично повторно відправлятися для активації</string>
      <string name="micloud_find_device_verify_button">Активуйте пошук пристрою повторно</string>
      <string name="micloud_find_device_verify_close">Деактивуйте пошук пристрою</string>
      <string name="micloud_find_device_verify_fail">Неможливо активувати пошук пристрою</string>
      <string name="micloud_find_device_verify_progress">Повторна активація пошуку пристрою…</string>
-     <string name="micloud_footer_international_url">mi.com/micloud</string>
-     <string name="micloud_footer_normal_url">i.mi.com</string>
      <string name="micloud_full_influence_dspt">"Всі Ваші фото, відео, нотатки й дані програм будуть зберігатися в Mi Cloud. 
 Таким чином, якщо Ви втратите або ушкодите пристрій, Ваші дані усе ще будуть у безпеці. 
 Коли Mi Cloud буде заповнений, Ваші нові дані не будуть синхронізуватися.
@@ -825,8 +820,6 @@
      <string name="sync_dspt_entrance_provision_network">"Для роботи програми необхідне підключення до інтернету. "</string>
      <string name="sync_dspt_entrance_provision_skip"><u>Пропустити</u></string>
      <string name="sync_dspt_provision">"Mi Cloud дозволяє синхронізувати фото, контакти, повідомлення й інші дані між пристроями. Також Ви можете переглядати дані з комп\'ютера через сайт "</string>
-     <string name="sync_dspt_provision2">"i.mi.com"</string>
-     <string name="sync_dspt_provision2_int">"www.mi.com/micloud"</string>
      <string name="sync_dspt_provision3">".
 "</string>
      <string name="sync_dspt_provision_header">Синхронізація</string>
