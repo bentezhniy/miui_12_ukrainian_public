@@ -170,122 +170,7 @@
      <string name="internet">Інтернет</string>
      <string name="internet_access_dspt">"Для нормальної роботи цієї програми потрібне з\'єднання з інтернетом."</string>
      <string name="internet_disconnected">Мобільний інтернет недоступний</string>
-     <string name="korea_permission_groups_descriptions">
-        <item>Визначення об\'єктів синхронізації</item>
-        <item>Синхронізація повідомлень</item>
-        <item>Синхронізація контактів</item>
-        <item>Синхронізація подій</item>
-        <item>Синхронізація об\'єктів з сервісами, які використовують пам\'ять</item>
-    </string-array>
-    <string-array name="korea_permission_groups_names">
-        <item>Телефон</item>
-        <item>SMS</item>
-        <item>Контакти</item>
-        <item>Календар</item>
-        <item>Пам\'ять</item>
-    </string-array>
-    <!-- For settings search -->
-    <string-array name="settings_search_contacts">
-        <item>Синхронізація контактів з Mi Cloud</item>
-        <item>Увімкнути/налаштувати синхронізацію</item>
-        <item>Контакти;Історія викликів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_sms">
-        <item>Синхронізація повідомлень з Mi Cloud</item>
-        <item>Увімкнути/налаштувати синхронізацію</item>
-        <item>Повідомлення;SMS;MMS;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_gallery">
-        <item>Синхронізація Галереї з Mi Cloud</item>
-        <item>Увімкнути/налаштувати синхронізацію</item>
-        <item>Галерея;Фото;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_dial">
-        <item>Синхронізація історії викликів з Mi Cloud</item>
-        <item>Увімкнути/налаштувати синхронізацію</item>
-        <item>Історія викликів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_recorder">
-        <item>Синхронізація записів з Mi Cloud</item>
-        <item>Увімкнути/налаштувати синхронізацію</item>
-        <item>Диктофон;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>Синхронізація музики з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Музика;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_notes">
-        <item>Синхронізація нотаток з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Нотатки;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_wlan">
-        <item>Синхронізація налаштувань Wi-Fi з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_calendar">
-        <item>Синхронізація Календаря з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Календар;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_browser">
-        <item>Синхронізація Браузера з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Браузер;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_security">
-        <item>Синхронізація Безпеки з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Безпека;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_personal_assistant">
-        <item>Синхронізація Стрічки віджетів з Mi Cloud</item>
-        <item>Увімкнути синхронізацію</item>
-        <item>Стрічка віджетів;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud. Всі послуги Мі в одному місці.</item>
-        <item>Доступ до фото, контактів, повідомлень і пристроїв з будь-якого місця</item>
-        <item>Недостатньо місця;Підписка;Пам\'ять;Вільне місце;Хмара;Синхронізація;Хмарні послуги;Mi Cloud;Кошик;Видалені об\'єкти;Безпека</item>
-    </string-array>
-    <string-array name="settings_search_find_phone">
-        <item>Пошук пристрою</item>
-        <item>Зітріть дані та блокуйте пристрій при його втраті</item>
-        <item>Пошук пристрою;Втрата;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_find_pad">
-        <item>Пошук пристрою</item>
-        <item>Зітріть дані та блокуйте пристрій при його втраті</item>
-        <item>Пошук пристрою;Втрата;Хмара;Синхронізація;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_recycle_bin">
-        <item>Видалені об\'єкти в Mi Cloud</item>
-        <item>Відновити контакти, фото, повідомлення і т.д.</item>
-        <item>Сміття;Видалені об\'єкти;Кошик;Відновити;Хмарні послуги;Мі Cloud</item>
-    </string-array>
-    <string-array name="settings_search_subscribe_vip">
-        <item>Підписка Mi Cloud</item>
-        <item>Оновіть підписку, отримайте більше місця і захистіть свої дані</item>
-        <item>Недостатньо пам\'яті;Членство;Сховище;Пам\'ять сховища;Хмара;Синхронізація;Хмарні послуги;Мі Cloud;Мега;Ультра;VIP;Створити резервну копію;Резервна копія;Відновити;Сміття;Видалені об\'єкти;Кошик</item>
-    </string-array>
-    <string-array name="settings_search_backup_setting">
-        <item>Створити бекап робочого столу у Mi Cloud</item>
-        <item>Резервування розкладки робочого столу, встановлених програм і налаштувань системи</item>
-        <item>Хмара;Резервна копія;Створити резервну копію;Хмарні послуги;Mi Cloud;Робочий стіл;Ярлик;Програми;Керування резервними копіями;Відновити</item>
-    </string-array>
-    <string-array name="settings_search_backup_manage">
-        <item>Бекапи</item>
-        <item>Створити резервну копію всіх об\'єктів</item>
-        <item>Хмара;Резервна копія;Створити резервну копію;Хмарні послуги;Mi Cloud;Робочий стіл;Ярлик;Програми;Керування резервними копіями;Відновити</item>
-    </string-array>
-    <string-array name="settings_search_restore_device">
-        <item>Віддновити об\'єкти з Mi Cloud</item>
-        <item>Завантажити резервні копії на пристрій</item>
-        <item>Хмара;Резервна копія;Відновити;Хмарні послуги;Mi Cloud</item>
-    </string-array>
-    <string name="enable_sync_setting_title">Налаштування хмарних послуг\u2026</string>
+     <string name="enable_sync_setting_title">Налаштування хмарних послуг\u2026</string>
      <string name="ks_certificate_udpate_time">Оновлення сертифікату</string>
      <string name="ks_certificate_version">Номер сертифікату</string>
      <string name="ks_download_certificate">Завантажити сертифікат</string>
@@ -418,18 +303,6 @@
      <string name="micloud_dspt">Використовуйте Mi Cloud для синхронізації даних та пошуку пристрою</string>
      <string name="micloud_dspt_provision">Використовуйте Mi Cloud для синхронізації даних, пошуку пристрою й обміну інформацією з друзями.</string>
      <string name="micloud_dspt_provision_xms">Використовуйте Mi Cloud для синхронізації даних</string>
-     <string name="micloud_entrance_titleArray">
-        <item>Синхронізація даних</item>
-        <item>Бекап робочого столу</item>
-        <item>Бекап системних налаштувань</item>
-        <item>Пошук пристрою</item>
-    </string-array>
-    <string-array name="micloud_entrance_subtitleArray">
-        <item>Синхронізовуйте контакти, повідомлення, нотатки, календар та багато іншого</item>
-        <item>Створюйте бекап програм, розкладки робочого столу та шпалер</item>
-        <item>Створюйте бекап важливих налаштувань, включаючи Wi-Fi та екран</item>
-        <item>Блокуйте пристрій віддалено, у випадку його втрати</item>
-    </string-array>
     <string name="micloud_manual_all_sync_off_summary">Відновіть дані на нових пристроях за допомогою Mi Cloud</string>
      <string name="micloud_find_device_close_alert_content">Якщо Ви деактивуєте цю функцію, Ви не зможете знайти пристрій у випадку його втрати</string>
      <string name="micloud_find_device_close_alert_negtive">Деактивувати</string>
@@ -861,10 +734,6 @@
      <string name="user_agreement_p7">"Умовами користування Mi Cloud"</string>
      <string name="user_agreement_p8"> </string>
      <string name="user_agreement_title">Умови користування Mi Cloud</string>
-     <string name="user_detail_fixed_items">
-        <item>Переглянути синхронізовані об\'єкти</item>
-        <item>Статус пам\'яті</item>
-    </string-array>
     <string name="user_detail_agreement">Угода користувача</string>
      <string name="user_detail_privacy_policy">Політика конфіденційності</string>
      <string name="user_storage_info_available_text_prefix">Доступно: %s</string>
