@@ -134,7 +134,6 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="dialog_backup_password_cancel">Скасувати</string>
      <string name="dialog_backup_password_change_machine_tips">Ви не зможете передавати резервні копії, захищені паролем. Перед використанням Mi Mover вимкніть захист резервних копій.</string>
      <string name="dialog_backup_password_to_settings">Налаштування</string>
-     <string name="digit_percent">%</string>
      <string name="dir_date_format">dd MMMM yyyy_HHmmss</string>
      <string name="disable_encrypt_description">Не шифрувати</string>
      <string name="disable_encrypt_title">Вимкнути шифрування</string>
@@ -670,11 +669,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Не закривайте сторінку до встановлення підключення.</string>
      <string name="waiting">Секундочку\u2026</string>
      <string name="wifi_title">Параметри Wi-Fi</string>
-     <string name="xiaomi_bytes_unit"><xliff:g id="size">%1$s</xliff:g>Б</string>
      <string name="xiaomi_connect_download_manager_fail">Помилка завантаження</string>
      <string name="xiaomi_external_storage_unavailable">"Зовнішня пам\'ять недоступна"</string>
-     <string name="xiaomi_kilobytes_unit"><xliff:g id="size">%1$s</xliff:g> кБ</string>
-     <string name="xiaomi_megabytes_unit"><xliff:g id="size">%1$s</xliff:g> МБ</string>
      <string name="xiaomi_router">Mi роутер</string>
      <string name="xiaomi_router_location">Mi роутер %s</string>
      <string name="xiaomi_update_dialog_message">"Нова версія: %1$s 

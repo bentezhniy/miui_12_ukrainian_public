@@ -207,7 +207,6 @@
      <string name="dialog_title_uninstall_apps">Видалення</string>
      <string name="download">Завантажити</string>
      <string name="downloading">Завантаження…</string>
-     <string name="empty">" "</string>
      <string name="empty_content_no_ignore_image">Порожньо</string>
      <string name="empty_content_no_privacy">Порожньо</string>
      <string name="empty_content_no_similar_image">Немає копій</string>
@@ -274,7 +273,6 @@
      <string name="hints_garbage_cleanup_result_safe">Очищення не потрібно</string>
      <string name="hints_garbage_handle_item_content">Файлів: %1$d | %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Файлів: 0</string>
-     <string name="hints_header_left">%d</string>
      <string name="hints_install_apps_else">Зайнято: %s</string>
      <string name="hints_install_apps_interval">Запускалося %d дн. тому</string>
      <string name="hints_install_apps_new">Не запускалося</string>

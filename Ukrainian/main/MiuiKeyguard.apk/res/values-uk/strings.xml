@@ -55,7 +55,6 @@
      <string name="delete_fingerprint_text">Видалити відбиток пальця</string>
      <string name="delete_legacy_fingerprint">Видалити</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">Видалити цей відбиток?</string>
-     <string name="digital_clock_dot">:</string>
      <string name="do_disclosure_generic">Цей пристрій керується Вашою організацією</string>
      <string name="do_disclosure_with_name">Цей пристрій керується %s</string>
      <string name="doze_pickup_subtype_performs_proximity_check" />

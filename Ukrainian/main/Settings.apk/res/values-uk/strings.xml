@@ -1236,7 +1236,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bootloader_summary">Прошивка пристрою через USB</string>
      <string name="bootloader_tips">Після прив\'язування Mi акаунта не виходьте з нього, не виконуйте скидання налаштувань або очищення даних системних програм. Якщо ви виконали якусь дію із перерахованих, ще раз прив\'яжіть акаунт з пристроєм, інакше ви не зможете розблокувати завантажувач.</string>
      <string name="bootloader_tips_ok">Зрозуміло</string>
-     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
      <string name="breathing_light_color_menu_title">Колір індикатору</string>
      <string name="breathing_light_color_summary">Колір індикатору для повідомлень</string>
      <string name="breathing_light_freq_summary">Періодичність мерехтіння індикатору </string>
@@ -4657,7 +4656,6 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="power_cell">Мобільна мережа</string>
      <string name="power_center">Керування живленням</string>
      <string name="power_charge_remaining">До повного заряду: %1$s</string>
-     <string name="power_charging"><xliff:g id="level">%1$s</xliff:g> - <xliff:g id="state">%2$s</xliff:g></string>
      <string name="power_charging_duration">%1$s - %2$s до повного заряду</string>
      <string name="power_charging_duration_ac">%1$s - %2$s  до повного заряду (від мережі)</string>
      <string name="power_charging_duration_usb">%1$s - %2$s до повного заряду (від USB)</string>
@@ -4701,7 +4699,6 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="power_remaining_less_than_duration_only">Залишилося менше <xliff:g id="threshold">%1$s</xliff:g></string>
      <string name="power_remaining_more_than_subtext">Залишилося більше <xliff:g id="time_remaining">%1$s</xliff:g> (<xliff:g id="level">%2$s</xliff:g>)</string>
      <string name="power_remaining_only_more_than_subtext">Залишилося більше <xliff:g id="time_remaining">%1$s</xliff:g></string>
-     <string name="power_remaining_settings_home_page" formatted="false"><xliff:g id="percentage" example="10%">%1$s</xliff:g> - <xliff:g id="time_string" example="1 hour left based on your usage">%2$s</xliff:g></string>
      <string name="power_save_mode_enable">Енергозбереження</string>
      <string name="power_save_mode_summary">Моніторинг фонових процесів, відключення синхронізації і приховування системної анімації. Економія батареї автоматично вимикається, коли батарея заряджена на 60%.</string>
      <string name="power_screen">Екран</string>
@@ -4905,7 +4902,6 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="private_sms_recording_intro_header">Намалюйте графічний ключ</string>
      <string name="private_sms_reset_by_account">Увійдіть в Mi акаунт для оновлення пароля</string>
      <string name="process_dex2oat_label">Оптимізація програм</string>
-     <string name="process_kernel_label">ОС Android</string>
      <string name="process_mediaserver_label">Сервер медіа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s використовується</string>
      <string name="process_service_in_use_description">Служба %1$s використовується</string>
@@ -5691,7 +5687,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="security_encryption_attention_3">Необхідно встановити новий пароль екрану блокування.</string>
      <string name="security_encryption_attention_4">"Переконайтеся, що Ви запам\'ятали свій пароль екрану блокування, в іншому випадку Вам доведеться виконати загальне скидання і стерти всі дані на пристрої."</string>
      <string name="security_encryption_attention_info">Ви можете шифрувати акаунти, налаштування, програми з даними, медіа та інші файли.</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_encryption_attention_title">Попередження</string>
      <string name="security_encryption_close_dialog_info">Після відключення шифрування пристрою деякі сервіси Google можуть стати недоступними</string>
      <string name="security_encryption_close_dialog_title">Повернення до стандартного захисту</string>
@@ -6032,7 +6027,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="size_kilo_byte">кБ</string>
      <string name="size_mega_byte">МБ</string>
      <string name="size_peta_byte">ПБ</string>
-     <string name="size_suffix"><xliff:g id="number" example="123">%1$s</xliff:g><xliff:g id="unit" example="KB">%2$s</xliff:g></string>
      <string name="size_tera_byte">ТБ</string>
      <string name="skip_anyway_button_label">Все одно пропустити</string>
      <string name="skip_label">Далі</string>
@@ -6213,7 +6207,6 @@ UT-інтерфейс: %5$s"</string>
      <string name="status_bar_settings_all_app_display_loading">Завантаження…</string>
      <string name="status_bar_settings_app_notification_preferences">Налаштування програми</string>
      <string name="status_bar_settings_basic_settings">Загальні</string>
-     <string name="status_bar_settings_carrier_sim">SIM %1$s:\u0020</string>
      <string name="status_bar_settings_custom_carrier">"Змінити ім\'я оператора"</string>
      <string name="status_bar_settings_custom_notification">Керування сповіщеннями</string>
      <string name="status_bar_settings_custom_wifi_name">"Змінити ім\'я Wi-Fi"</string>
