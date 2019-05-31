@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	<string name="usage_state_app_timer">Час екрану</string>
+	 <string name="usage_state_app_timer">Час екрану</string>
      <string name="usage_state_app_usage_detail_title">Використання додатків</string>
      <string name="usage_state_app_usage_list_title">Час екрану додатків сьогодні</string>
      <string name="usage_state_app_usage_list_week_title">Час екрану додатків за тиждень</string>
@@ -2885,7 +2885,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="high_power_prompt_title">Не обмежувати витрати батареї?</string>
      <string name="high_power_system">Економія заряду недоступна</string>
      <string name="history_details_title">Докладна історія</string>
-     <string name="home">Налаштування</string>
+     <string name="home">Налаштунки</string>
      <string name="home_app">Головна програма</string>
      <string name="home_app_uninstall_button">Видалити програму</string>
      <string name="home_key">Клавіша \"Додому\"</string>
@@ -5627,8 +5627,8 @@ UT-інтерфейс: %5$s"</string>
      <string name="settings_backup_summary">Резервна копія налаштувань</string>
      <string name="settings_button">Налаштування</string>
      <string name="settings_forbidden_message">Цю функцію вимкнено</string>
-     <string name="settings_label">Налаштування</string>
-     <string name="settings_label_launcher">Налаштування</string>
+     <string name="settings_label">Налаштунки</string>
+     <string name="settings_label_launcher">Налаштунки</string>
      <string name="settings_license_activity_loading">Завантаження…</string>
      <string name="settings_license_activity_title">Ліцензії відкритого ПЗ</string>
      <string name="settings_license_activity_unavailable">При завантаженні ліцензій виникла несправність</string>
