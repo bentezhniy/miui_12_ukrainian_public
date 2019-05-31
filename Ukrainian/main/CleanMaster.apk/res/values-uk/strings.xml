@@ -454,8 +454,8 @@
      <string name="notification_title_of_garbage_cleanup">%s сміття</string>
      <string name="notify_when">Сповіщати, коли розмір сміття досягає 100 МБ.</string>
      <string name="ok">ОК</string>
-     <string name="one_tap_clean_GB">%sГБ</string>
-     <string name="one_tap_clean_M">%dМБ</string>
+     <string name="one_tap_clean_GB">%s ГБ</string>
+     <string name="one_tap_clean_M">%d МБ</string>
      <string name="onekeyclean_boost_available">Вільно: %s</string>
      <string name="onekeyclean_boost_cleaned">Очищено: %s</string>
      <string name="onekeyclean_boosted_title">Очищення завершено</string>
