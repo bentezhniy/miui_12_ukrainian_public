@@ -114,7 +114,7 @@
      <string name="close_list">"Закрити список"</string>
      <string name="collapse">"Згорнути"</string>
      <string name="comp_profile_benefits_description">"Робочий профіль надає змогу зберігати корпоративні програми разом"</string>
-     <string name="contact_device_provider">"Якщо у вас є питання, зверніться до %1$s."</string>
+     <string name="contact_device_provider">"Якщо у Вас є питання, зверніться до %1$s."</string>
      <string name="contact_your_admin_for_help">"Зверніться за допомогою до адміністратора"</string>
      <string name="continue_button">"Продовжити"</string>
      <string name="couldnt_set_up_device">"Не вдалося налаштувати пристрій. Зверніться за допомогою до адміністратора"</string>
@@ -140,7 +140,7 @@
      <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">"Це посилання небезпечне, тому його не можна відкрити, поки пристрій не налаштовано: %1$s"</string>
      <string name="managed_device_info">"Інформація про керований пристрій"</string>
      <string name="one_place_for_work_apps">"Один простір для всіх робочих програм"</string>
-     <string name="opening_paragraph_delete_profile">"У вас вже є робочий профіль. Ним керують за допомогою цієї програми:"</string>
+     <string name="opening_paragraph_delete_profile">"У Вас вже є робочий профіль. Ним керують за допомогою цієї програми:"</string>
      <string name="organization_admin">"адміністратора"</string>
      <string name="profile_benefits_description">"Робочий профіль надає змогу зберігати корпоративні дані окремо від особистих"</string>
      <string name="profile_owner_info">"Ви збираєтесь створити робочий профіль, який буде контролювати ваша організація. Будуть діяти умови використання"</string>

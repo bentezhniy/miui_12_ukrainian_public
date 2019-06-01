@@ -90,7 +90,7 @@
      <string name="common_google_play_services_enable_text">Для роботи програми \"%1$s\" потрібно увімкнути сервіси Google Play</string>
      <string name="common_google_play_services_enable_title">Увімкніть сервіси Google Play</string>
      <string name="common_google_play_services_install_button">Інсталювати</string>
-     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на Вашому пристрої.</string>
      <string name="common_google_play_services_install_text_phone">Для роботи програми \"%1$s\" потрібно інсталювати сервіси Google Play</string>
      <string name="common_google_play_services_install_text_tablet">Для роботи додатки \"%1$s\" потрібно інсталювати сервіси Google Play</string>
      <string name="common_google_play_services_install_title">Інсталюйте сервіси Google Play</string>
@@ -235,7 +235,7 @@
      <string name="gbk_summary">Стандартне кодування у китайській версії Windows</string>
      <string name="gbk_title">GBK</string>
      <string name="gcm_fallback_notification_channel_label">Інше</string>
-     <string name="have_lucky_draw">У вас все ще є шанс!</string>
+     <string name="have_lucky_draw">У Вас все ще є шанс!</string>
      <string name="help">Допомога</string>
      <string name="hybrid_provider">Підтримка: %1$s</string>
      <string name="i_know">ОК</string>
@@ -362,7 +362,7 @@
      <string name="receive_more">Отримати ще</string>
      <string name="received_files">Отримані файли</string>
      <string name="receiver_accept">Прийняти</string>
-     <string name="receiver_accept_connect">Інший пристрій прийняв ваш запит​</string>
+     <string name="receiver_accept_connect">Інший пристрій прийняв Ваш запит​</string>
      <string name="receiver_apk_file_current">Отримання програм: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_apk_file_current_multi">Отримання програм: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_apk_file_current_single">Отримання програм: %2$d​ | Відправник: %1$s</string>
@@ -394,7 +394,7 @@
      <string name="receiver_pic_file_current_single">Отримання фото: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_pic_file_num">Отримання фото: %2$d​ | Відправник: %1$s</string>
      <string name="receiver_reject">Відхилити</string>
-     <string name="receiver_reject_connect">Інший пристрій відхилив ваш запит</string>
+     <string name="receiver_reject_connect">Інший пристрій відхилив Ваш запит</string>
      <string name="receiver_succeed">Передачу завершено</string>
      <string name="receiver_succeed_ok">ОК</string>
      <string name="receiver_succeed_view">Показати</string>

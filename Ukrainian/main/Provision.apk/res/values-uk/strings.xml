@@ -113,8 +113,8 @@
      <string name="sim_card_detection_mobile_not_available">SIM-карта не підключається до мережі</string>
      <string name="sim_dectection_next">Продовжити</string>
      <string name="sim_redetection">Перевірити SIM-карту повторно</string>
-     <string name="sim_scard_detecting_check_mobile_not_available">Вашій SIM-картці не вдається підключитися до мережі. Переконайтеся, що у вас достатньо коштів на балансі і спробуйте підключитися знову</string>
-     <string name="skip_gesture_guide_dialog_message">Перед вибором цієї опції переконайтеся, що ви знаєте, як використовувати повноекранні жести.</string>
+     <string name="sim_scard_detecting_check_mobile_not_available">Вашій SIM-картці не вдається підключитися до мережі. Переконайтеся, що у Вас достатньо коштів на балансі і спробуйте підключитися знову</string>
+     <string name="skip_gesture_guide_dialog_message">Перед вибором цієї опції переконайтеся, що Ви знаєте, як використовувати повноекранні жести.</string>
      <string name="skip_gesture_guide_dialog_negative_btn">Скасувати</string>
      <string name="skip_gesture_guide_dialog_positive_btn">ОК</string>
      <string name="skip_gesture_guide_dialog_title">Повноекранні жести</string>

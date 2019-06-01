@@ -244,7 +244,7 @@
      <string name="development_settings_summary">Налаштування параметрів для розробників</string>
      <string name="development_settings_title">Для розробників</string>
      <string name="devicePerms">Доступ до пристрою</string>
-     <string name="dialog_title_cloud_virus">Хмарний антивірус дозволяє швидше та ефективніше знаходити шкідливі програми та віруси на вашому пристрої. Підключатися до мережі і використовувати Хмарний антивірус при кожній перевірці пристрою на наявність вірусів?</string>
+     <string name="dialog_title_cloud_virus">Хмарний антивірус дозволяє швидше та ефективніше знаходити шкідливі програми та віруси на Вашому пристрої. Підключатися до мережі і використовувати Хмарний антивірус при кожній перевірці пристрою на наявність вірусів?</string>
      <string name="dialog_title_stop_scan">При зупинці перевірки деякі віруси можуть залишитися непоміченими. Зупинити перевірку?</string>
      <string name="dialog_title_update">Доступне оновлення. Оновити зараз?</string>
      <string name="direct_boot_unaware_dialog_message">"Примітка. Щоб запустити цю програму після перезавантаження, розблокуйте екран."</string>
@@ -480,7 +480,7 @@
      <string name="miui_solution_msg">Рішення</string>
      <string name="miui_uninstall_success">Видалення завершене</string>
      <string name="miui_uninstalling">Видалення…</string>
-     <string name="miui_virus_content">Схоже, що цей пакет встановлення містить віруси, які можуть пошкодити ваш пристрій. Ми рекомендуємо вам видалити цю програму.</string>
+     <string name="miui_virus_content">Схоже, що цей пакет встановлення містить віруси, які можуть пошкодити Ваш пристрій. Ми рекомендуємо вам видалити цю програму.</string>
      <string name="miui_virus_deleted">Видалення вірусів завершене</string>
      <string name="miui_virus_found">Знайдено вірус</string>
      <string name="miui_virus_install"><u>Все одно інсталювати</u></string>

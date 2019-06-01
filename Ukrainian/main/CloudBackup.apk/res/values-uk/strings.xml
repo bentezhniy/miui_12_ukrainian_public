@@ -123,7 +123,7 @@
      <string name="dialog_cancel_backup_confirm">ОК</string>
      <string name="dialog_cancel_backup_msg">Якщо вимкнути цю функцію, створення поточного бекапу буде перервано</string>
      <string name="dialog_cancel_backup_title">Скасувати поточний бекап?</string>
-     <string name="dialog_msg_overwrite_backup">Локальна резервна копія відрізняється від копії в Mi Cloud. Якщо ви продовжите, поточна копія перезапише попередню.</string>
+     <string name="dialog_msg_overwrite_backup">Локальна резервна копія відрізняється від копії в Mi Cloud. Якщо Ви продовжите, поточна копія перезапише попередню.</string>
      <string name="dialog_msg_restore_require_wlan">Для відновлення резервних копій необхідне підключення по Wi-Fi.</string>
      <string name="dialog_title_require_wlan">Підключіться до Wi-Fi</string>
      <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -139,7 +139,7 @@
      <string name="error_retry_later">Помилка. Будь ласка, спробуйте пізніше</string>
      <string name="error_unknown">Трапилася помилка</string>
      <string name="get_device_id_error">Неможливо отримати ID пристрою</string>
-     <string name="hint_restore_cross_space">Зображення головного робочого столу може бути некоректне, якщо ви передаватиме об\'єкти мiж вiдступами.</string>
+     <string name="hint_restore_cross_space">Зображення головного робочого столу може бути некоректне, якщо Ви передаватиме об\'єкти мiж вiдступами.</string>
      <string name="home_hint_global_launcher">Робочий стіл</string>
      <string name="home_hint_other_launcher">Інший робочий стіл</string>
      <string name="home_restore_error">Неможливо відновити налаштування робочого столу</string>

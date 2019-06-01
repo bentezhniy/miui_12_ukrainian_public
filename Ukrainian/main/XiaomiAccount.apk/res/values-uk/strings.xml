@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="account_user_gender_name">
-        <item>Чоловіча</item>
-        <item>Жіноча</item>
-    </string-array>
-    <string name="account_user_birthday">День народження</string>
      <string name="agreement_and_privacy">Політика конфіденційності та Умови використання</string>
      <string name="facebook_app_id">2263965750590514</string>
      <string name="fb_login_protocol_scheme">fb2263965750590514</string>

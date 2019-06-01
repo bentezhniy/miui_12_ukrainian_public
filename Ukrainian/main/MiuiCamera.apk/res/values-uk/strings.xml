@@ -463,7 +463,7 @@
      <string name="mimoji_earring">Сережки</string>
      <string name="mimoji_edit_abandon_alert">Скасувати всі зміни?</string>
      <string name="mimoji_edit_abandon_capture_alert">Скасувати всі зміни?</string>
-     <string name="mimoji_edit_back_alert">Всі зміни будуть скасовані, якщо ви повернетеся назад. Повернутися назад?</string>
+     <string name="mimoji_edit_back_alert">Всі зміни будуть скасовані, якщо Ви повернетеся назад. Повернутися назад?</string>
      <string name="mimoji_edit_cancel_alert">Всі зміни будуть скасовані. Скасувати?</string>
      <string name="mimoji_edit_mimoji">Змінити Mimoji</string>
      <string name="mimoji_editor">Редагувати</string>
@@ -486,7 +486,7 @@
      <string name="mimoji_on_create">Створити Mimoji</string>
      <string name="mimoji_ornament">Аксесуари</string>
      <string name="mimoji_recapture">Почати знову</string>
-     <string name="mimoji_recapture_alert">Всі зміни будуть скасовані, якщо ви почнете спочатку. Почати спочатку?</string>
+     <string name="mimoji_recapture_alert">Всі зміни будуть скасовані, якщо Ви почнете спочатку. Почати спочатку?</string>
      <string name="mimoji_reset">Скинути</string>
      <string name="mimoji_save">Зберегти</string>
      <string name="mimoji_save_success">Збережено успішно</string>
@@ -1116,8 +1116,8 @@
      <string name="ultra_wide_close_tip">Режим Риб/\'яче око вимкнено</string>
      <string name="ultra_wide_mode">Риб\'яче око</string>
      <string name="ultra_wide_mode_use_hint_text">Режим дозволяє знімати фото з широким кутом</string>
-     <string name="ultra_wide_mode_use_hint_text_sat">Спробуйте надширококутний режим 0.6X, щоб охопити більше простору на вашому фото.
-Надширококутний режим допоможе, якщо ви не можете відійти подалі від об\'єкта.</string>
+     <string name="ultra_wide_mode_use_hint_text_sat">Спробуйте надширококутний режим 0.6X, щоб охопити більше простору на Вашому фото.
+Надширококутний режим допоможе, якщо Ви не можете відійти подалі від об\'єкта.</string>
      <string name="ultra_wide_open_tip">Режим Риб/\'яче око</string>
      <string name="ultra_wide_open_tip_sat">Надширококутний 0.6X</string>
      <string name="ultra_wide_recommend_tip_hint">Спробуйте режим Риб/\'яче око</string>

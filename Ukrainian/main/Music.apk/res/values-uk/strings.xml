@@ -41,7 +41,7 @@
      <string name="news_top_title">Новини</string>
      <string name="no_comment">Немає відгуків</string>
      <string name="notification_comment_fav_title">Коли ваші відгуки сподобалися</string>
-     <string name="notification_comment_reply_title">Коли на ваш відгук відповіли</string>
+     <string name="notification_comment_reply_title">Коли на Ваш відгук відповіли</string>
      <string name="notification_settings_summary">Дізнайтеся про нові тенденції в музиці</string>
      <string name="notification_settings_title">Повідомлення</string>
      <string name="notification_social_title">Соціальні повідомлення</string>
@@ -69,7 +69,7 @@
      <string name="song_group_float_to_save_picture">Збережено в %1$s</string>
      <string name="song_playing">Відтворення ...</string>
      <string name="swipe_to_load_head_complete_fail">Помилка оновлення</string>
-     <string name="swipe_to_load_head_complete_success">%1$s ваш %2$d рекомендації були оновлені</string>
+     <string name="swipe_to_load_head_complete_success">%1$s Ваш %2$d рекомендації були оновлені</string>
      <string name="swipe_to_load_head_pengding">Проведіть для оновлення</string>
      <string name="swipe_to_load_head_refreshing">Оновлення...</string>
      <string name="swipe_to_load_head_release">Відпустіть для оновлення</string>
@@ -276,12 +276,12 @@
      <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
      <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
      <string name="common_google_play_services_install_button">Установити</string>
-     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на Вашому пристрої.</string>
      <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
      <string name="common_google_play_services_notification_channel_name">Доступність сервісів Google Play</string>
      <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
      <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
-     <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+     <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на Вашому пристрої.</string>
      <string name="common_google_play_services_update_button">Оновити</string>
      <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
      <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
@@ -468,7 +468,7 @@
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
-     <!-- Original string: У вас залишилося %s мобільного інтернету. Використовувати мобільний інтернет для завантаження пісень? -->
+     <!-- Original string: У Вас залишилося %s мобільного інтернету. Використовувати мобільний інтернет для завантаження пісень? -->
      <string name="download_traffic_dialog_msg">При завантаженні музики через мобільний інтернет може стягуватися додаткова оплата оператором</string>
      <string name="download_traffic_dialog_msg_beyond">Мобільний трафік перевищено на %s. Продовжити завантаження через мобільний інтернет?</string>
      <string name="download_traffic_dialog_msg_serious">Лишилося %s мобільного трафіку. Продовжити завантаження через мобільний інтернет?</string>

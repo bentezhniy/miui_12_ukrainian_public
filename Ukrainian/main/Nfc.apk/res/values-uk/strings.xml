@@ -20,18 +20,18 @@
      <string name="complete_with">Завершено</string>
      <string name="confirm_pairing">Виконати сполучення Bluetooth-пристрою \"%1$s\"?</string>
      <string name="connect_headset_failed">Неможливо підключитися</string>
-     <string name="connect_peripheral_failed">Не вдалося підключитися до пристрою <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="connect_peripheral_failed">Не вдалося підключитися до пристрою %1$s</string>
      <string name="connected_headset">Підключено</string>
-     <string name="connected_peripheral">Підключено <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="connected_peripheral">Підключено %1$s</string>
      <string name="connecting_headset">Підключення…</string>
-     <string name="connecting_peripheral">Підключення <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="connecting_peripheral">Підключення %1$s</string>
      <string name="could_not_use_app">Неможливо використовувати  %1$s</string>
-     <string name="default_pay_app_removed">Ваш обраний сервіс оплати видалений. Вибрати інший?</string>
+     <string name="default_pay_app_removed">Ваш обраний сервіс оплати видалено. Обрати інший?</string>
      <string name="device">пристрій</string>
      <string name="disconnected_headset">Відключено</string>
-     <string name="disconnected_peripheral">Роз\'єднано <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="disconnected_peripheral">Роз\'єднано %1$s</string>
      <string name="disconnecting_headset">Відключення…</string>
-     <string name="disconnecting_peripheral">Роз\'єднання <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="disconnecting_peripheral">Роз\'єднання %1$s</string>
      <string name="failed_to_enable_bt">Неможливо увімкнути Bluetooth</string>
      <string name="inbound_me_profile_text">Натисніть для додавання користувача в контакти</string>
      <string name="inbound_me_profile_title">Контакти, отримані через NFC</string>
@@ -42,10 +42,10 @@
      <string name="pair_yes">ОК</string>
      <string name="pairing_headset">Сполучення…</string>
      <string name="pairing_headset_failed">Помилка сполучення</string>
-     <string name="pairing_peripheral">Прив\'язування <xliff:g id="device_name">%1$s</xliff:g></string>
-     <string name="pairing_peripheral_failed">Не вдалося прив\'язати <xliff:g id="device_name">%1$s</xliff:g></string>
+     <string name="pairing_peripheral">Прив\'язування %1$s</string>
+     <string name="pairing_peripheral_failed">Не вдалося прив\'язати %1$s</string>
      <string name="pay_with">Оплатити</string>
-     <string name="prompt_connect_to_network">Підключитися до мережі <xliff:g id="network_ssid">%1$s</xliff:g>?</string>
+     <string name="prompt_connect_to_network">Підключитися до мережі %1$s?</string>
      <string name="status_unable_to_connect">Неможливо підключитися до мережі</string>
      <string name="status_wifi_connected">Підключено</string>
      <string name="tap_again_to_complete">Натисніть знову, щоб завершити %1$s</string>

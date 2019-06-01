@@ -7,12 +7,6 @@
      <string name="ble_device_profile_header_title">Профілі</string>
      <string name="ble_device_profile_title">"Пристрій BLE під\'єднано"</string>
      <string name="ble_device_rename">Перейменувати</string>
-     <string name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-    </string-array>
-    <string name="some_app_taking">(ця функція вже використовується %1$s)</string>
      <string name="bluetooth_connected">"Під\'єднано"</string>
      <string name="bluetooth_connecting">"Під\'єднання…"</string>
      <string name="bluetooth_device_context_unpair">"Відв'язати"</string>

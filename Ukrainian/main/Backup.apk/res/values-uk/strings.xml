@@ -481,10 +481,10 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="trans_generate_qrcode_failed">Неможливо створити QR-код</string>
      <string name="trans_generating_qrcode">Створення QR-коду…</string>
      <string name="trans_install_guide_button_start">Старт</string>
-     <string name="trans_install_guide_page_title">Встановіть Mi Mover на ваш старий телефон</string>
-     <string name="trans_install_guide_scan_install_tip">"Відскануйте цей QR-код за допомогою вашого старого телефона
+     <string name="trans_install_guide_page_title">Встановіть Mi Mover на Ваш старий телефон</string>
+     <string name="trans_install_guide_scan_install_tip">"Відскануйте цей QR-код за допомогою Вашого старого телефона
 , щоб завантажити та встановити Mi Mover."</string>
-     <string name="trans_install_guide_step1_content">Відскануйте QR-код за допомогою вашого старого телефона, щоб завантажити та встановити \"Mi Mover\".</string>
+     <string name="trans_install_guide_step1_content">Відскануйте QR-код за допомогою Вашого старого телефона, щоб завантажити та встановити \"Mi Mover\".</string>
      <string name="trans_install_guide_step1_title">Крок 1</string>
      <string name="trans_install_guide_step2_content">Після завершення процесу встановлення, натисніть кнопку \"Старт\" нижче.</string>
      <string name="trans_install_guide_step2_title">Крок 2</string>
@@ -500,7 +500,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="trans_intro_desc_8">Скасуйте передачу, вийдіть з трансферу та почніть спочатку. Під час нової передачі файли, що дублюються, будуть перезаписані.</string>
      <string name="trans_intro_desc_9_method_1_dec">Перейдіть на Робочий стіл > Інструменти > Відгук.</string>
      <string name="trans_intro_desc_9_method_1_title">1. Надішліть ваші відгуки та пропозиції, використовуючи програму \"Відгук\".</string>
-     <string name="trans_intro_desc_9_method_2_dec">Надішліть ваш відгук на miui-mover@xiaomi.com.</string>
+     <string name="trans_intro_desc_9_method_2_dec">Надішліть Ваш відгук на miui-mover@xiaomi.com.</string>
      <string name="trans_intro_desc_9_method_2_title">2. Напишіть нам листа</string>
      <string name="trans_intro_desc_9_method_3_dec">Група Mi Mover у QQ: 687338378</string>
      <string name="trans_intro_desc_9_method_3_title">3. Повідомте про проблеми через QQ</string>
@@ -556,7 +556,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Після цього натисніть [Повторити], щоб створити QR-код"</string>
      <string name="trans_operate_reconnect_old_tips">"Дочекайтеся на старому пристрої напису \"Пристрій відключено\". 
 Після цього натисніть [Повторити], щоб сканувати QR-код"</string>
-     <string name="trans_operate_tip_for_other_android">Відкрийте Mi Mover на вашому старому пристрої, натисніть \"Старт\" та відскануйте QR-код вище.</string>
+     <string name="trans_operate_tip_for_other_android">Відкрийте Mi Mover на Вашому старому пристрої, натисніть \"Старт\" та відскануйте QR-код вище.</string>
      <string name="trans_pausing">Пауза…</string>
      <string name="trans_please_waiting">Завантаження…</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 2

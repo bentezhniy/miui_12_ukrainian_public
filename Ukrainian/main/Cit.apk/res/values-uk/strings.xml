@@ -76,7 +76,7 @@
 3. Система автоматично збереже фотографію
 4. Фотографія, яку Ви зробили, повинна відображатися на екрані. Натисніть \"Видалити\", щоб завершити тест."</string>
 	
-     <string name="cit_reset_ese_summary">Всі дані ваших банківських карт будуть видалені</string>
+     <string name="cit_reset_ese_summary">Всі дані Ваших банківських карт будуть видалені</string>
      <string name="cit_reset_ese_title">Скидання eSE</string>
      <string name="cit_reset_se">Скидання eSE</string>
      <string name="cit_reset_se_nfc_closed">Помилка: NFC потрібно увімкнути.</string>

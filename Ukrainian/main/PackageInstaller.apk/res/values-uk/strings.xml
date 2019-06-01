@@ -51,7 +51,7 @@
      <string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>
      <string name="animator_duration_scale_title">Швидкість анімації</string>
      <string name="anonymous_source_continue">Продовжити</string>
-     <string name="anonymous_source_warning">Ваш телевізор та особисті дані більш уразливі для атаки невідомими програмами. Встановлюючи цю програму, ви погоджуєтеся з відповідальністю за будь-який збиток, нанесений вашому телевізору або втрату даних, яка може виникнути в результаті її використання.</string>
+     <string name="anonymous_source_warning">Ваш телевізор та особисті дані більш уразливі для атаки невідомими програмами. Встановлюючи цю програму, Ви погоджуєтеся з відповідальністю за будь-який збиток, нанесений Вашому телевізору або втрату даних, яка може виникнути в результаті її використання.</string>
      <string name="apn_settings_not_available">Цей користувач не може змінювати налаштування точки доступу</string>
      <string name="app_name">Інсталяція програм</string>
      <string name="app_name_unknown">Невідомо</string>
@@ -216,7 +216,7 @@
      <string name="development_settings_summary">Налаштування параметрів для розробників</string>
      <string name="development_settings_title">Для розробників</string>
      <string name="devicePerms">Доступ до пристрою</string>
-     <string name="dialog_title_cloud_virus">Хмарний антивірус дозволяє швидше та ефективніше знаходити шкідливі програми та віруси на вашому пристрої. Підключатися до мережі і використовувати Хмарний антивірус при кожній перевірці пристрою на наявність вірусів?</string>
+     <string name="dialog_title_cloud_virus">Хмарний антивірус дозволяє швидше та ефективніше знаходити шкідливі програми та віруси на Вашому пристрої. Підключатися до мережі і використовувати Хмарний антивірус при кожній перевірці пристрою на наявність вірусів?</string>
      <string name="dialog_title_stop_scan">При зупинці перевірки деякі віруси можуть залишитися непоміченими. Зупинити перевірку?</string>
      <string name="dialog_title_update">Доступне оновлення. Оновити зараз?</string>
      <string name="disable_overlays">Вимкнути накладання</string>
@@ -395,7 +395,7 @@
      <string name="miui_app_detail">Інформація</string>
      <string name="miui_app_virus">Програма містить вірус. Рекомендовано видалити її.</string>
      <string name="miui_clean">Очищення</string>
-     <string name="miui_compatibility_desc">Ця програма не оптимізована для вашого пристрою. Якщо ви її встановите, вона може не працювати належним чином. Дочекайтеся, коли розробники вирішать проблеми сумісності та через деякий час встановіть нову версію програми.</string>
+     <string name="miui_compatibility_desc">Ця програма не оптимізована для Вашого пристрою. Якщо Ви її встановите, вона може не працювати належним чином. Дочекайтеся, коли розробники вирішать проблеми сумісності та через деякий час встановіть нову версію програми.</string>
      <string name="miui_delete">Видалити</string>
      <string name="miui_failed_already_exists">Програму вже інстальовано</string>
      <string name="miui_failed_conflicting_provider">Конфлікт постачальників послуг</string>
@@ -444,7 +444,7 @@
      <string name="miui_solution_msg">Рішення</string>
      <string name="miui_uninstall_success">Видалення завершене</string>
      <string name="miui_uninstalling">Видалення…</string>
-     <string name="miui_virus_content">Схоже, що цей пакет встановлення містить віруси, які можуть пошкодити ваш пристрій. Ми рекомендуємо вам видалити цю програму.</string>
+     <string name="miui_virus_content">Схоже, що цей пакет встановлення містить віруси, які можуть пошкодити Ваш пристрій. Ми рекомендуємо вам видалити цю програму.</string>
      <string name="miui_virus_deleted">Видалення вірусів завершене</string>
      <string name="miui_virus_found">Знайдено вірус</string>
      <string name="miui_virus_install"><u>Все одно інсталювати</u></string>

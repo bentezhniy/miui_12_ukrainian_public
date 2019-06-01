@@ -631,7 +631,7 @@
      <string name="passport_downlink_reg">Реєстрація за номером телефону</string>
      <string name="passport_email">Email</string>
      <string name="passport_email_or_id_hint_text">Email або ID Mi акаунту</string>
-     <string name="passport_email_reg_success_summary">"\"%1$s\" вже прив'язаний до вашого акаунту. Ви можете використовувати його для входу в систему або для скидання вашого пароля."</string>
+     <string name="passport_email_reg_success_summary">"\"%1$s\" вже прив'язаний до Вашого акаунту. Ви можете використовувати його для входу в систему або для скидання Вашого пароля."</string>
      <string name="passport_error_auth_fail">Термін сесії минув, увійдіть ще раз пізніше</string>
      <string name="passport_error_device_id">Не вдалося отримати ID пристрою</string>
      <string name="passport_error_dup_email">"Ця електронна адреса вже прив'язана до іншого акаунту."</string>
@@ -640,7 +640,7 @@
      <string name="passport_error_empty_email">Введіть адресу Email</string>
      <string name="passport_error_empty_phone_num">Введіть номер телефону</string>
      <string name="passport_error_empty_pwd">Введіть пароль</string>
-     <string name="passport_error_empty_username">Введіть ID вашого акаунту</string>
+     <string name="passport_error_empty_username">Введіть ID Вашого акаунту</string>
      <string name="passport_error_empty_vcode">Введіть код підтвердження</string>
      <string name="passport_error_illegal_pwd">Неправильний пароль</string>
      <string name="passport_error_invalid_dev_id">ID пристрою введено невірно.</string>
@@ -666,7 +666,7 @@
      <string name="passport_getting_verify_code">Отримання...</string>
      <string name="passport_i_know">Зрозуміло</string>
      <string name="passport_identification_expired">Термін дії коду закінчився, почніть спочатку</string>
-     <string name="passport_imei_permission_denied_message">Ми запитуємо дозвіл на доступ до IMEI вашого пристрою. Mi акаунт використовує IMEI для ідентифікації пристрою, на якому Ви авторизовуєтесь / реєструєтесь та допомагає тримати ваш Mi акаунт захищеним.</string>
+     <string name="passport_imei_permission_denied_message">Ми запитуємо дозвіл на доступ до IMEI Вашого пристрою. Mi акаунт використовує IMEI для ідентифікації пристрою, на якому Ви авторизовуєтесь / реєструєтесь та допомагає тримати Ваш Mi акаунт захищеним.</string>
      <string name="passport_imei_permission_denied_title">Запит дозволу IMEI</string>
      <string name="passport_input_captcha_hint">Введіть код із зображення</string>
      <string name="passport_input_password_for_login">"Цей номер пов'язаний з існуючим акаунтом, введіть пароль"</string>
@@ -707,7 +707,7 @@
      <string name="passport_quick_register_notice"><u>Немає Mi акаунту? Створіть його.</u></string>
      <string name="passport_re_get_verify_code">Отримати код знову</string>
      <string name="passport_re_register">Зареєструватися знову</string>
-     <string name="passport_recycle_account_prompt">Це ваш Mi акаунт?</string>
+     <string name="passport_recycle_account_prompt">Це Ваш Mi акаунт?</string>
      <string name="passport_recycle_login_other_account">Вони не мої. Я буду використовувати інший.</string>
      <string name="passport_reg_btn_using_other_phone">Використовувати інший номер</string>
      <string name="passport_reg_failed">Помилка реєстрації</string>
@@ -716,7 +716,7 @@
      <string name="passport_reg_recycle_account_no">Ні</string>
      <string name="passport_reg_recycle_account_yes">Так</string>
      <string name="passport_reg_success">Реєстрацію завершено</string>
-     <string name="passport_reg_success_summary">"\"%1$s\" вже прив'язаний до вашого акаунту. Ви можете використовувати його для входу в систему або для скидання вашого пароля."</string>
+     <string name="passport_reg_success_summary">"\"%1$s\" вже прив'язаний до Вашого акаунту. Ви можете використовувати його для входу в систему або для скидання Вашого пароля."</string>
      <string name="passport_reg_type_email">Електронна пошта</string>
      <string name="passport_reg_using_other_phone"><u>Використовувати інший номер</u></string>
      <string name="passport_reg_using_other_phone_number_prompt">"Створити новий акаунт, використовуючи "</string>
@@ -753,7 +753,7 @@
      <string name="passport_send_vcode_failed">Не вдалося надіслати код</string>
      <string name="passport_sending_vcode">Надсилання коду…</string>
      <string name="passport_set">Налаштовано</string>
-     <string name="passport_set_password_no_phone_msg">Додайте ваш номер телефону для захисту акаунту.</string>
+     <string name="passport_set_password_no_phone_msg">Додайте Ваш номер телефону для захисту акаунту.</string>
      <string name="passport_setting">Налаштування…</string>
      <string name="passport_skip_login">Пропустити</string>
      <string name="passport_skip_register">Пропустити реєстрацію</string>
@@ -761,7 +761,7 @@
      <string name="passport_skip_setup_account_title">Пропустити налаштування акаунту?</string>
      <string name="passport_sms_send_success">Відправлено</string>
      <string name="passport_sync_account_data">Синхронізація даних акаунту…</string>
-     <string name="passport_sync_account_data_failed_warning">Дані вашого акаунту синхронізуються, Ви можете авторизуватися через ID Mi акаунту. Якщо Ви хочете авторизуватися за допомогою номера телефону або електронної пошти, зачекайте на закінчення синхронізації.</string>
+     <string name="passport_sync_account_data_failed_warning">Дані Вашого акаунту синхронізуються, Ви можете авторизуватися через ID Mi акаунту. Якщо Ви хочете авторизуватися за допомогою номера телефону або електронної пошти, зачекайте на закінчення синхронізації.</string>
      <string name="passport_title_reg">Реєстрація акаунту</string>
      <string name="passport_trust_device">Додати цей пристрій до списку перевірених</string>
      <string name="passport_trying_read_verify_code_sms">Отримання коду підтвердження…</string>
@@ -769,13 +769,13 @@
      <string name="passport_uplink_slot1_reg">Використати SIM 1</string>
      <string name="passport_uplink_slot2_reg">Використати SIM 2</string>
      <string name="passport_use_generated_pwd_message">"Переконайтеся, що Ви запам'ятали свій пароль. Ви можете використовувати його для входу в інші Mi послуги."</string>
-     <string name="passport_use_generated_pwd_title">"Запам'ятайте ваш пароль"</string>
+     <string name="passport_use_generated_pwd_title">"Запам'ятайте Ваш пароль"</string>
      <string name="passport_user_agreement">Угода користувача</string>
      <string name="passport_user_agreement_p1">Прийняти</string>
      <string name="passport_user_agreement_p2">Угода користувача</string>
      <string name="passport_user_agreement_p3"> та </string>
      <string name="passport_user_agreement_p4">політику конфіденційності</string>
-     <string name="passport_user_id_notice">ID вашого Mi акаунту - %s.</string>
+     <string name="passport_user_id_notice">ID Вашого Mi акаунту - %s.</string>
      <string name="passport_user_reg_region">Країна/Регіон</string>
      <string name="passport_user_reg_region_warning">Ви не зможете змінити інформацію про вашу країну/область після створення акаунту.</string>
      <string name="passport_vcode_notification_title">Перевірка авторизації не завершена</string>

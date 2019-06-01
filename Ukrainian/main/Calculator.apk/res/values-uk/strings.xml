@@ -296,7 +296,7 @@
      <string name="tax_city_error">Введіть коректне місто</string>
      <string name="tax_city_located">Місцезнаходження</string>
      <string name="tax_city_picker">Місто</string>
-     <string name="tax_credit_input_your_pretax_bonuse">Введіть ваш бонус до вирахування податків</string>
+     <string name="tax_credit_input_your_pretax_bonuse">Введіть Ваш бонус до вирахування податків</string>
      <string name="tax_credit_monthly_salary">Місячна зарплатня</string>
      <string name="tax_credit_mortgage">Іпотечний</string>
      <string name="tax_credit_personal_income_tax">Особистий податок на прибуток</string>

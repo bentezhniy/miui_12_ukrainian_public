@@ -170,7 +170,7 @@
      <string name="express_entry_reserve">Застосовано</string>
      <string name="express_rom_start_install">Оновити через Recovery</string>
      <string name="express_update_reserve_check_text">Я розумію різницю між версіями прошивок</string>
-     <string name="express_update_reserve_content">Ви не можете оновитися до цієї версії прямо зараз. Подати заявку на оновлення (%1$s)? Ми надішлемо вам сповіщення, коли для вашого пристрою буде доступна версія %1$s. До тих пір Ви будете отримувати звичайні оновлення.</string>
+     <string name="express_update_reserve_content">Ви не можете оновитися до цієї версії прямо зараз. Подати заявку на оновлення (%1$s)? Ми надішлемо вам сповіщення, коли для Вашого пристрою буде доступна версія %1$s. До тих пір Ви будете отримувати звичайні оновлення.</string>
      <string name="express_update_reserve_content2">Після оновлення до стабільної прошивки дещо зміниться. Зокрема:
 1. ROOT-доступ буде заборонений, навіть, якщо Ви дозволили його раніше.
 2. Різні можливості бета-прошивок не будуть доступні в стабільних версіях.</string>
@@ -186,7 +186,7 @@
      <string name="file_path_error_title">Неправильний шлях</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Завантаження завершене</string>
-     <string name="format_cache_msg">На вашому пристрої в розділі кешу недостатньо вільного місця для оновлення. Натисніть \"Перезавантажити\" для очищення розділу кешу та для перезавантаження пристрою. Ваші дані залишаться без змін.</string>
+     <string name="format_cache_msg">На Вашому пристрої в розділі кешу недостатньо вільного місця для оновлення. Натисніть \"Перезавантажити\" для очищення розділу кешу та для перезавантаження пристрою. Ваші дані залишаться без змін.</string>
      <string name="format_cache_positive_button">Презавантажити</string>
      <string name="format_cache_title">Недостатньо місця у розділі кешу</string>
      <string name="fourgrid_hint_text">Дякуємо, що використовуєте щотижневі збірки MIUI (для розробників). Напишіть свої пропозиції, як зробити MIUI краще.</string>
@@ -227,7 +227,7 @@
      <string name="later_download">Завантажити пізніше</string>
      <string name="loading">Завантаження…</string>
      <string name="log_share">Поділитися</string>
-     <string name="log_status_locked_info">У вас немає доступу до списку змін</string>
+     <string name="log_status_locked_info">У Вас немає доступу до списку змін</string>
      <string name="log_status_locked_summary">Спробуйте авторизуватися</string>
      <string name="md5_check_cancelled">Перевірка MD5 скасована</string>
      <string name="menu_back_button">Назад</string>
@@ -255,7 +255,7 @@
      <string name="miui_summary_updating">"  Оновлення…  "</string>
      <string name="mobile_download">Завантажити через мобільний інтернет</string>
      <string name="mobile_download_end_time">Вимкнути автоматичні завантаження</string>
-     <string name="mobile_download_msg">Якщо у вас безлімітний тарифний план, Ви можете автоматично завантажувати оновлення через мобільний інтернет. Після увімкнення цієї функції оновлення будуть завантажуватися протягом заданого періоду часу.</string>
+     <string name="mobile_download_msg">Якщо у Вас безлімітний тарифний план, Ви можете автоматично завантажувати оновлення через мобільний інтернет. Після увімкнення цієї функції оновлення будуть завантажуватися протягом заданого періоду часу.</string>
      <string name="mobile_download_start_time">Увімкнути автоматичні завантаження</string>
      <string name="mobile_download_sum">Завантажувати оновлення автоматично під час заданого періоду часу через мобільний інтернет</string>
      <string name="mobile_download_title">Оновити через мобільний інтернет?</string>
@@ -404,7 +404,7 @@ http://miui.su/mi-pc-suite"</string>
      <string name="sdcard_is_not_present_dialog_title">Немає SD карти</string>
      <string name="security_space_button_neg">Перезавантажити зараз</string>
      <string name="security_space_button_pos">Не перезавантажувати</string>
-     <string name="security_space_msg">MIUI 9 має нову файлову систему. Якщо Ви перезавантажите ваш пристрій зараз, то не зможете використовувати Друге сховище. Перемістіть всі об\'єкти з Другого сховища до Першого сховища перед перезавантаженням.</string>
+     <string name="security_space_msg">MIUI 9 має нову файлову систему. Якщо Ви перезавантажите Ваш пристрій зараз, то не зможете використовувати Друге сховище. Перемістіть всі об\'єкти з Другого сховища до Першого сховища перед перезавантаженням.</string>
      <string name="security_space_title">Важливе оновлення</string>
      <string name="send_install_log">Надіслати журнал</string>
      <string name="send_install_log_error">Не вдалося надіслати журнал помилок</string>

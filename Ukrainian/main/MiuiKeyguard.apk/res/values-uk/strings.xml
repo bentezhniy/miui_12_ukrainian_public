@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="access_control_need_password"><xliff:g id="ACCESS">%s</xliff:g> захищено
+     <string name="access_control_need_password">%s захищено
 </string>
      <string name="access_control_need_to_unlock">Введіть пароль:</string>
      <string name="access_control_reset_by_account">Увійдіть до Mi акаунту для скидання пароля</string>
@@ -9,13 +9,13 @@
      <string name="add_back_fingerprint_instruction_msg">Помістіть палець на сенсор</string>
      <string name="add_facerecoginition_text">Додати дані про обличчя</string>
      <string name="add_fingerprint_cancel_button_text">Назад</string>
-     <string name="add_fingerprint_done_msg">Тепер ви можете розблоковувати пристрій відбитком пальця.</string>
+     <string name="add_fingerprint_done_msg">Тепер Ви можете розблоковувати пристрій відбитком пальця.</string>
      <string name="add_fingerprint_done_title">Все готово!</string>
-     <string name="add_fingerprint_edge_instruction_msg">Здвиньте палець, щоб сенсор міг записати краї вашого відбитку.</string>
+     <string name="add_fingerprint_edge_instruction_msg">Здвиньте палець, щоб сенсор міг записати краї Вашого відбитку.</string>
      <string name="add_fingerprint_edge_instruction_title">Трішки посуньте палець</string>
      <string name="add_fingerprint_failed_retry_text">Не вдалося додати відбиток пальця, спробуйте ще раз</string>
      <string name="add_fingerprint_finished_button_text">Готово</string>
-     <string name="add_fingerprint_instruction_msg">Сенсор відбитків вбудований в кнопку \"Додому\" на вашому пристрої.</string>
+     <string name="add_fingerprint_instruction_msg">Сенсор відбитків вбудований в кнопку \"Додому\" на Вашому пристрої.</string>
      <string name="add_fingerprint_instruction_title">Додайте власний відбиток пальця</string>
      <string name="add_fingerprint_name_suggest_text">Ім\'я відбитка пальця</string>
      <string name="add_fingerprint_put_finger_edge_msg">Трошки змініть розташування пальця і помістіть його на датчик ще раз, щоб додати різні частини відбитку.</string>
@@ -25,11 +25,11 @@
      <string name="add_fingerprint_success_msg">Додано успішно</string>
      <string name="add_fingerprint_text">Додати відбиток пальця</string>
      <string name="add_fingerprint_toast_text">Помістіть палець на сенсор</string>
-     <string name="add_front_fingerprint_instruction_msg">Сенсор відбитків вбудований в кнопку \"Додому\" на вашому пристрої.</string>
+     <string name="add_front_fingerprint_instruction_msg">Сенсор відбитків вбудований в кнопку \"Додому\" на Вашому пристрої.</string>
      <string name="app_name">Блокування екрану</string>
      <string name="apply_fingerprint_to_category_title">Застосувати відбиток\u2026</string>
      <string name="bind_xiaomi_account_confirm">Додати</string>
-     <string name="bind_xiaomi_account_dialog_summery">Ви збираєтеся додати Mi акаунт <xliff:g id="ACCOUNT">%s</xliff:g>. Якщо ви забудете ваш пароль, то ви можете використати акаунт для його скидання.</string>
+     <string name="bind_xiaomi_account_dialog_summery">Ви збираєтеся додати Mi акаунт %s. Якщо Ви забудете Ваш пароль, то Ви можете використати акаунт для його скидання.</string>
      <string name="bind_xiaomi_account_success">Mi акаунт додано успішно</string>
      <string name="biometric_weak_improve_matching_title">Покращити зіставлення облич</string>
      <string name="biometric_weak_liveliness_summary">Вимагати моргання очима для розблокування</string>
@@ -156,14 +156,14 @@
      <string name="forget_privacy_password_summary">Використовуйте Mi акаунт для скидання пароля</string>
      <string name="gallery_privacy_password_role_instruction">Ваші особисті фото будуть зберігатися тут.</string>
      <string name="gxzw_add_fingerprint_continue">Продовжити</string>
-     <string name="gxzw_add_fingerprint_edge_message">Здвиньте палець, щоб сенсор міг записати краї вашого відбитку.</string>
+     <string name="gxzw_add_fingerprint_edge_message">Здвиньте палець, щоб сенсор міг записати краї Вашого відбитку.</string>
      <string name="gxzw_add_fingerprint_edge_title">Трошки посуньте палець</string>
      <string name="gxzw_add_fingerprint_finish">Завершити</string>
      <string name="gxzw_add_fingerprint_indicate">Натисніть сильніше</string>
      <string name="gxzw_add_fingerprint_know">Зрозуміло</string>
      <string name="gxzw_add_fingerprint_message">Пальці та екран повинні бути чистими</string>
      <string name="gxzw_add_fingerprint_move_indicate">Трошки посуньте палець</string>
-     <string name="gxzw_add_fingerprint_move_message">Неможливо записати деякі області вашого відбитку. Трошки посуньте палець</string>
+     <string name="gxzw_add_fingerprint_move_message">Неможливо записати деякі області Вашого відбитку. Трошки посуньте палець</string>
      <string name="gxzw_add_fingerprint_move_title">Трошки посуньте палець</string>
      <string name="gxzw_add_fingerprint_put_finger_message">Натисніть сильніше та відпустіть палець після вібрації. Повторіть декілька разів.</string>
      <string name="gxzw_add_fingerprint_put_finger_title">Натисніть сильніше та відпустіть після вібрації</string>
@@ -250,10 +250,10 @@ EEEE"</string>
      <string name="lock_wallpaper_see_more">Ще ></string>
      <string name="lockpassword_choose_for_second_user">Встановити пароль для другого сховища</string>
      <string name="lockpassword_choose_lock_generic_header">Обрати екран блокування</string>
-     <string name="lockpassword_choose_your_password_header">Встановіть ваш пароль</string>
+     <string name="lockpassword_choose_your_password_header">Встановіть Ваш пароль</string>
      <string name="lockpassword_choose_your_password_second_space">Встановіть пароль 
  для Другого сховища</string>
-     <string name="lockpassword_choose_your_pattern_header">Встановіть ваш графічний ключ</string>
+     <string name="lockpassword_choose_your_pattern_header">Встановіть Ваш графічний ключ</string>
      <string name="lockpassword_choose_your_pin_header">"Встановіть PIN-код"</string>
      <string name="lockpassword_choose_your_pin_header_second_space">Встановіть PIN-код 
  для другого сховища</string>
@@ -263,11 +263,11 @@ EEEE"</string>
      <string name="lockpassword_confirm_workspace_password">Підтвердіть пароль</string>
      <string name="lockpassword_confirm_your_lock_password_header">Підтвердіть пароль</string>
      <string name="lockpassword_confirm_your_lock_pattern_header">Підтвердіть графічний ключ</string>
-     <string name="lockpassword_confirm_your_password_generic">Введіть пароль вашого пристрою для продовження.</string>
+     <string name="lockpassword_confirm_your_password_generic">Введіть пароль Вашого пристрою для продовження.</string>
      <string name="lockpassword_confirm_your_password_header">Підтвердіть пароль</string>
-     <string name="lockpassword_confirm_your_pattern_generic">Використовуйте графічний ключ вашого пристрою для продовження.</string>
+     <string name="lockpassword_confirm_your_pattern_generic">Використовуйте графічний ключ Вашого пристрою для продовження.</string>
      <string name="lockpassword_confirm_your_pattern_header">Підтвердіть графічний ключ</string>
-     <string name="lockpassword_confirm_your_pin_generic">Введіть PIN-код вашого пристрою для продовження.</string>
+     <string name="lockpassword_confirm_your_pin_generic">Введіть PIN-код Вашого пристрою для продовження.</string>
      <string name="lockpassword_confirm_your_pin_header">"Підтвердіть PIN-код"</string>
      <string name="lockpassword_confirm_your_private_password_header">Підтвердіть пароль</string>
      <string name="lockpassword_confirm_your_private_pattern_header">Підтвердіть графічний ключ</string>
@@ -303,7 +303,7 @@ EEEE"</string>
      <string name="lockpattern_settings_enable_title">Необхідний графічний ключ</string>
      <string name="lockpattern_settings_enable_visible_pattern_title">Відображати ключ</string>
      <string name="lockpattern_settings_help_how_to_record">Як намалювати графічний ключ</string>
-     <string name="lockpattern_settings_power_button_instantly_locks_summary">За винятком, коли було розблоковано <xliff:g id="trust_agent_name">%1$s</xliff:g></string>
+     <string name="lockpattern_settings_power_button_instantly_locks_summary">За винятком, коли було розблоковано %1$s</string>
      <string name="lockpattern_settings_title">Графічний ключ для розблокування</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">"Забагато невдалих спроб"</string>
      <string name="lockscreen_access_pattern_cell_added">Оператор доданий</string>
@@ -343,7 +343,7 @@ EEEE"</string>
      <string name="mms_privacy_password_role_instruction">Ваші діалоги з особистими контактами будуть зберігатися тут.</string>
      <string name="modify_instruction_password_settings">Встановити пароль</string>
      <string name="modify_privacy_password">Змінити пароль</string>
-     <string name="new_password_to_new_fingerprint_dialog_msg">Додайте відбиток пальця, щоб з його допомогою розблоковувати ваш пристрій.</string>
+     <string name="new_password_to_new_fingerprint_dialog_msg">Додайте відбиток пальця, щоб з його допомогою розблоковувати Ваш пристрій.</string>
      <string name="new_password_to_new_fingerprint_dialog_negative_msg">Скасувати</string>
      <string name="new_password_to_new_fingerprint_dialog_positive_msg">Додати</string>
      <string name="new_password_to_new_fingerprint_dialog_tittle">Додати відбиток пальця</string>
@@ -379,8 +379,8 @@ EEEE"</string>
      <string name="privacy_delete_space_dlg_message">Для зміни пароля Другого сховища вам необхідно видалити поточне сховище і створити нове.</string>
      <string name="privacy_dlg_button_cancel">Скасувати</string>
      <string name="privacy_factory_reset_dlg_button_text">Скинути</string>
-     <string name="privacy_factory_reset_dlg_message">Якщо ви забудете свій пароль, вам буде необхідно виконати скидання до заводських налаштувань, щоб встановити новий.</string>
-     <string name="privacy_factory_reset_dlg_title">Бекап ваших даних</string>
+     <string name="privacy_factory_reset_dlg_message">Якщо Ви забудете свій пароль, вам буде необхідно виконати скидання до заводських налаштувань, щоб встановити новий.</string>
+     <string name="privacy_factory_reset_dlg_title">Бекап Ваших даних</string>
      <string name="privacy_file">Файли</string>
      <string name="privacy_gallery">Фото</string>
      <string name="privacy_header_text_less_than_half">Замало. Перемістіть подалі.</string>
@@ -388,7 +388,7 @@ EEEE"</string>
      <string name="privacy_notes">Нотатки</string>
      <string name="privacy_password">Пароль для захисту конфіденційності</string>
      <string name="privacy_password_add_account">Додати</string>
-     <string name="privacy_password_add_account_info">Додайте Mi акаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете</string>
+     <string name="privacy_password_add_account_info">Додайте Mi акаунт, щоб мати змогу скинути Ваш пароль, якщо Ви його забудете</string>
      <string name="privacy_password_add_account_setting">Акаунт та приватність</string>
      <string name="privacy_password_bind_account">Додати Mi акаунт</string>
      <string name="privacy_password_bind_account_immediate">Додати</string>
@@ -405,11 +405,11 @@ EEEE"</string>
      <string name="privacy_password_never_remind">Більше не запитувати</string>
      <string name="privacy_password_not_add_account">Не зараз</string>
      <string name="privacy_password_not_login_account">Вхід не здійснено</string>
-     <string name="privacy_password_remind_bind_notlogin_account">Додайте Mi акаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете.</string>
+     <string name="privacy_password_remind_bind_notlogin_account">Додайте Mi акаунт, щоб мати змогу скинути Ваш пароль, якщо Ви його забудете.</string>
      <string name="privacy_password_remind_bindaccount_title">Додати Mi акаунт</string>
      <string name="privacy_password_settings">Використовувати пароль для захисту конфіденційності</string>
      <string name="privacy_password_settings_next">Далі</string>
-     <string name="privacy_password_settings_titles">Пароль для захисту конфіденційності працює для ваших повідомлень, фото, файлів та нотаток.</string>
+     <string name="privacy_password_settings_titles">Пароль для захисту конфіденційності працює для Ваших повідомлень, фото, файлів та нотаток.</string>
      <string name="privacy_password_settings_titles_elder_mode">Пароль для захисту конфіденційності захищає ваші фото, файли та нотатки.</string>
      <string name="privacy_password_settings_titles_second_space">Пароль для захисту конфіденційності захищає ваші повідомлення, фото, файли та нотатки.</string>
      <string name="privacy_password_title">Пароль для захисту конфіденційності</string>
@@ -456,16 +456,16 @@ EEEE"</string>
      <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Після вимкнення пароля екрану блокування, записані відбитки пальців будуть видалені. Ви не зможете розблокувати пристрій за допомогою відбитку пальця.</string>
      <string name="turn_on_keyguard_password">Увімкнути пароль для блокування екрану</string>
      <string name="turn_on_keyguard_password_alert">Запам\'ятайте пароль. Ви не зможете відновити його, якщо забудете.</string>
-     <string name="turn_on_keyguard_password_alert_choose">Запам\'ятайте пароль. Якщо ви забудете його, то вам прийдеться стерти всі дані на вашому пристрої та встановити новий.</string>
+     <string name="turn_on_keyguard_password_alert_choose">Запам\'ятайте пароль. Якщо Ви забудете його, то вам прийдеться стерти всі дані на Вашому пристрої та встановити новий.</string>
      <string name="turn_on_keyguard_password_alert_foget_cacel">Не зараз</string>
      <string name="turn_on_keyguard_password_alert_foget_ok">Зрозуміло</string>
-     <string name="turn_on_keyguard_password_alert_foget_ok_time">Зрозуміло (<xliff:g id="NUMBER">%d</xliff:g>сек)</string>
-     <string name="turn_on_keyguard_password_alert_forget_content">Запам\'ятайте ваш пароль блокування екрану. Якщо ви його забудете, то вам прийдеться стерти всі дані на вашому пристрої, включаючи фото та контакти, а потім встановити новий пароль.</string>
-     <string name="turn_on_keyguard_password_alert_forget_title">Запам\'ятайте ваш пароль</string>
+     <string name="turn_on_keyguard_password_alert_foget_ok_time">Зрозуміло (%d сек)</string>
+     <string name="turn_on_keyguard_password_alert_forget_content">Запам\'ятайте Ваш пароль блокування екрану. Якщо Ви його забудете, то вам прийдеться стерти всі дані на Вашому пристрої, включаючи фото та контакти, а потім встановити новий пароль.</string>
+     <string name="turn_on_keyguard_password_alert_forget_title">Запам\'ятайте Ваш пароль</string>
      <string name="turn_update_keyguard_password_wait_dialog">Зміна пароля\u2026</string>
      <string name="unlock_camera_steady">Намагайтеся не рухати камеру</string>
      <string name="unlock_change_lock_pin_title">"Змінити PIN-код"</string>
-     <string name="unlock_disable_frp_warning_content_profile">Захист профіля не буде працювати без вашого пароля.</string>
+     <string name="unlock_disable_frp_warning_content_profile">Захист профіля не буде працювати без Вашого пароля.</string>
      <string name="unlock_disable_frp_warning_title_profile">Видалити захист профілю?</string>
      <string name="unlock_disable_lock_pin_summary">"Вимкнути PIN-код"</string>
      <string name="unlock_failed">Внутрішня помилка</string>

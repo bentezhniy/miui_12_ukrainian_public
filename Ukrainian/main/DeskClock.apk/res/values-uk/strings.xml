@@ -132,7 +132,7 @@
      <string name="desk_clock_button_description">Годинник</string>
      <string name="dialog_confirm_abort">Скасувати зміни?</string>
      <string name="dialog_message_agree">Погодитися</string>
-     <string name="dialog_message_for_contact_permission">Для встановлення нагадувань про дні народження, годиннику необхідний доступ до ваших контактів. Згодні?</string>
+     <string name="dialog_message_for_contact_permission">Для встановлення нагадувань про дні народження, годиннику необхідний доступ до Ваших контактів. Згодні?</string>
      <string name="dialog_message_negative">Не згоден</string>
      <string name="dialog_message_not_remind">Більше не показувати</string>
      <string name="digital_gadget">Цифровий годинник</string>

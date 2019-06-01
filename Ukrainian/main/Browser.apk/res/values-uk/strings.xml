@@ -477,12 +477,12 @@
      <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
      <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
      <string name="common_google_play_services_install_button">Установити</string>
-     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на Вашому пристрої.</string>
      <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
      <string name="common_google_play_services_notification_channel_name">Доступність сервісів Google Play</string>
      <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
      <string name="common_google_play_services_unknown_issue">%1$s має проблеми з сервісами Google Play</string>
-     <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+     <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на Вашому пристрої.</string>
      <string name="common_google_play_services_update_button">Оновити</string>
      <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
      <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
@@ -1039,7 +1039,7 @@
      <string name="mw_autofill_address_summary_separator">", "</string>
      <string name="mw_autofill_card_unmask_expiration_date_separator">/</string>
      <string name="mw_autofill_card_unmask_new_card_link">Нова карта?</string>
-     <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Перевірте ваш CVC та повторіть спробу</string>
+     <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Перевірте Ваш CVC та повторіть спробу</string>
      <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">Перевірте дату закінчення та CVC і повторіть спробу</string>
      <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_date">Перевірте дату закінчення та повторіть спробу</string>
      <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_month">Перевірте місяць закінчення та повторіть спробу</string>
@@ -1083,7 +1083,7 @@
      <string name="mw_copy_to_clipboard_failure_message">Не вдалося скопіювати до буфера обміну</string>
      <string name="mw_data_traffic_prompt_change">Використання мобільного інтернету для перегляду відео може збільшити використання трафіку. Якщо Ви перевищите ліміт трафіку, то мобільний оператор може стягувати додаткову плату.</string>
      <string name="mw_data_traffic_prompt_message">Використання мобільного інтернету для перегляду відео може збільшити використання трафіку. Якщо Ви перевищите ліміт трафіку, то мобільний оператор може стягувати додаткову плату.</string>
-     <string name="mw_data_traffic_prompt_message_short">Використання мобільного інтернету для потокового відео може призвести до надмірного використання трафіку та вихід за межі вашого ліміту.</string>
+     <string name="mw_data_traffic_prompt_message_short">Використання мобільного інтернету для потокового відео може призвести до надмірного використання трафіку та вихід за межі Вашого ліміту.</string>
      <string name="mw_data_traffic_prompt_title">Попередження щодо трафіку</string>
      <string name="mw_date_picker_dialog_clear">Очистити</string>
      <string name="mw_date_picker_dialog_other_button_label">Інше</string>
@@ -1093,7 +1093,7 @@
      <string name="mw_external_payment_app_leave_incognito_warning">Вийти з режиму анонімного перегляду за допомогою зовнішньої програми. Продовжити?</string>
      <string name="mw_find_next">Шукати далі</string>
      <string name="mw_find_previous">Шукати в попередньому</string>
-     <string name="mw_http_post_warning">Сторінка, яку Ви шукаєте, використовує введену вами інформацію. Повернення на цю сторінку може призвести до повторення будь-якої зробленої вами дії. Продовжити?</string>
+     <string name="mw_http_post_warning">Сторінка, яку Ви шукаєте, використовує введену Вами інформацію. Повернення на цю сторінку може призвести до повторення будь-якої зробленої Вами дії. Продовжити?</string>
      <string name="mw_http_post_warning_resend">Продовжити</string>
      <string name="mw_js_dialog_before_unload">"%s
 
@@ -1156,13 +1156,13 @@
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Неможливо відкрити сайт. Підключення було скинуто.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Неможливо відкрити сайт через недійсний URL.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">Неможливо відкрити сайт. %s0 зараз недоступний.</string>
-     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">Неможливо відкрити сайт. %s0 перенаправляє вас небезпечним способом.</string>
+     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">Неможливо відкрити сайт. %s0 перенаправляє Вас небезпечним способом.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Неможливо відкрити сайт. Цей сайт в інтрамережі має такий же URL, як і зовнішній сайт.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Неможливо відкрити сайт. Не вдалося знайти адресу DNS для %s0.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Неможливо відкрити сайт. Адреса IP або номер порту недійсні.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Неможливо відкрити сайт. %s0 занадто довго не відповідає.</string>
      <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Неможливо відкрити сайт. %s0 використовує небезпечний номер порту.</string>
-     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Підключення було перервано, коли ваш пристрій перейшов у режим сну.</string>
+     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Підключення було перервано, коли Ваш пристрій перейшов у режим сну.</string>
      <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Підключення було перервано через зміну мережі.</string>
      <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Не вдалося знайти файл. Можливо його було переміщено або видалено.</string>
      <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Неможливо прочитати файл</string>
@@ -1174,8 +1174,8 @@
      <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Ця сторінка не працює. %s0 перервав підключення.</string>
      <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">Ця сторінка не працює через те, що %s0 не надіслав ніяких даних.</string>
      <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">Ця сторінка не працює через те, що %s0 надіслав неправильну відповідь.</string>
-     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">Ця сторінка не працює через те, що %s0 перенаправляв вас забагато разів.</string>
-     <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">Цей сайт не може забезпечити безпечне підключення через те, що %s0 не прийняв ваш сертифікат.</string>
+     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">Ця сторінка не працює через те, що %s0 перенаправляв Вас забагато разів.</string>
+     <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">Цей сайт не може забезпечити безпечне підключення через те, що %s0 не прийняв Ваш сертифікат.</string>
      <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">Цей сайт не може забезпечити безпечне підключення через те, що %s0 не відповідає стандартам безпеки.</string>
      <string name="mw_miuichromium_error_page_problem_security_error_reason_invalid_response">Цей сайт не може забезпечити безпечне підключення через те, що %s0 надіслав неправильну відповідь.</string>
      <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Цей сайт не може забезпечити безпечне підключення через те, що %s0 використовує непідтримуваний протокол.</string>
@@ -1183,13 +1183,13 @@
      <string name="mw_miuichromium_error_page_reload">Оновити</string>
      <string name="mw_miuichromium_error_page_safe_network">Безпечний режим</string>
      <string name="mw_miuichromium_error_page_server_error">Забагато пристроїв намагаються підключитися</string>
-     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Перевірте налаштування проксі програм, які встановлені на вашому пристрої.</string>
+     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Перевірте налаштування проксі програм, які встановлені на Вашому пристрої.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_connetion">Перевірте підключення до мережі.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Мобільний інтернет) Скиньте ваші %s1налаштування APN%s2.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_url">Перевірте адресу URL.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Перевірте ваші %s1налаштування проксі%s2.</string>
      <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Очистіть кеш (%s1Налаштування%s2 - Очистити дані).</string>
-     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Очистіть кеш та cookies (%s1Налаштування%s2 - Очистити дані. Інформація про ваш акаунт може бути втрачена).</string>
+     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Очистіть кеш та cookies (%s1Налаштування%s2 - Очистити дані. Інформація про Ваш акаунт може бути втрачена).</string>
      <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Очистити кеш та cookies (інформація про акаунт може бути втрачена).</string>
      <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Очистити кеш.</string>
      <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Підключіться до інтернету та оновіть сторінку</string>
@@ -1255,7 +1255,7 @@
      <string name="mw_payments_android_app_error">Неможливо відкрити програму для оплати</string>
      <string name="mw_payments_billing_address_required">Необхідна адреса оплати</string>
      <string name="mw_payments_card_and_address_settings">Ви можете керувати картами та адресами у BEGIN_LINKНалаштуванняхEND_LINK.</string>
-     <string name="mw_payments_card_and_address_settings_signed_in">Карти та адреси вказані в Chrome та у вашому акаунтіGoogle (%1$s). Ви можете керувати ними у BEGIN_LINKНалаштуванняхEND_LINK.</string>
+     <string name="mw_payments_card_and_address_settings_signed_in">Карти та адреси вказані в Chrome та у Вашому акаунтіGoogle (%1$s). Ви можете керувати ними у BEGIN_LINKНалаштуванняхEND_LINK.</string>
      <string name="mw_payments_card_and_address_settings_signed_out">Карти та адреси вказані в Chrome. Ви можете керувати ними у BEGIN_LINKНалаштуванняхEND_LINK.</string>
      <string name="mw_payments_card_billing_address_required">Необхідна адреса оплати карти</string>
      <string name="mw_payments_card_expiration_invalid_validation_message">Введіть дійсну дату закінчення терміну дії карти</string>
@@ -2170,7 +2170,7 @@
      <string name="mw_abc_searchview_description_voice">Голосовий пошук</string>
      <string name="mw_abc_shareactionprovider_share_with">Поділитися</string>
      <string name="mw_abc_shareactionprovider_share_with_application">Поділитися через %s</string>
-	 <string name="mw_common_google_play_services_unsupported_text">Сервіси Google Play, необхідні для роботм програми\"%1$s\", не підтримуюються на вашому пристрої. Зверніться до виробника</string>
+	 <string name="mw_common_google_play_services_unsupported_text">Сервіси Google Play, необхідні для роботм програми\"%1$s\", не підтримуюються на Вашому пристрої. Зверніться до виробника</string>
      <string name="mw_common_google_play_services_update_button">Оновити</string>
      <string name="mw_common_google_play_services_update_text">Щоб запустити програму \"%1$s\", оновіть сервіси Google Play</string>
      <string name="mw_common_google_play_services_update_title">Оновіть сервіси Google Play</string>

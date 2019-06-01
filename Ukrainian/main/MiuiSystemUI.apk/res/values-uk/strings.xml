@@ -1222,7 +1222,7 @@
      <string name="accessibility_work_mode">Робочий режим</string>
      <string name="accessibility_zero_bars">Поділки відсутні</string>
      <string name="activity_launch_on_secondary_display_failed_text">Програма не підтримує запуск на додаткових екранах</string>
-     <string name="activity_not_found">Програма не встановлена на вашому пристрої</string>
+     <string name="activity_not_found">Програма не встановлена на Вашому пристрої</string>
      <string name="add_tile">Додати заголовок</string>
      <string name="adjust_button_width">Налаштувати ширину кнопки</string>
      <string name="airplane_mode">Режим польоту</string>
@@ -1319,8 +1319,8 @@
      <string name="face_data_siggesstion_next">Далі</string>
      <string name="face_data_siggesstion_next_time">Далі (%d сек)</string>
      <string name="face_data_suggesstion_first">"Увага: розблокування за допомогою розпізнавання обличчя є менш безпечним, ніж використання PIN-коду, пароля або графічного ключа. Ваш пристрій може бути розблоковано фотографією, а також людьми або об'єктами зі схожою зовнішністю."</string>
-     <string name="face_data_suggesstion_second">Переконайтеся, що всі частини вашого обличчя нічим не закриті та чітко видимі. Ваше обличчя повинно бути добре освітлено</string>
-     <string name="face_unlock_adjust_distance">Переконайтеся, що відстань між вами і телефоном оптимальна</string>
+     <string name="face_data_suggesstion_second">Переконайтеся, що всі частини Вашого обличчя нічим не закриті та чітко видимі. Ваше обличчя повинно бути добре освітлено</string>
+     <string name="face_unlock_adjust_distance">Переконайтеся, що відстань між Вами і телефоном оптимальна</string>
      <string name="face_unlock_be_on_the_screen">Тримайте пристрій навпроти обличчя</string>
      <string name="face_unlock_by_notification_screen_on_msg">Ви можете розблоковувати пристрій за допомогою розблокування обличчя, коли екран вмикається під час надходження сповіщень. Це може викликати швидше зниження заряду батареї</string>
      <string name="face_unlock_by_notification_screen_on_title">Розпізнавати обличчя під час увімкнення екрану</string>
@@ -1611,13 +1611,13 @@
 
 Зв'яжіться з адміністратором, щоб дізнатися більше інформації."</string>
      <string name="monitoring_description_ca_cert_settings">Відкрити надійні облікові записи</string>
-     <string name="monitoring_description_do_body">"Ваш адміністратор може відстежувати та керувати налаштуваннями, корпоративним доступом, програмами, даними, пов'язаними з вашим пристроєм та інформацією про місцезнаходження вашого пристрою."</string>
+     <string name="monitoring_description_do_body">"Ваш адміністратор може відстежувати та керувати налаштуваннями, корпоративним доступом, програмами, даними, пов'язаними з вашим пристроєм та інформацією про місцезнаходження Вашого пристрою."</string>
      <string name="monitoring_description_do_header_generic">Ваш пристрій управляється %1$s</string>
      <string name="monitoring_description_do_header_with_name">%1$s використовує %2$s, щоб управляти вашим пристроєм</string>
      <string name="monitoring_description_do_learn_more">Дізнатися більше</string>
      <string name="monitoring_description_vpn">"Ви надали програмі дозвіл на встановлення VPN-підключення.
 
-Ця програма може відстежувати активність вашого пристрою та мережі, у тому числі ел. пошту, програми та веб-сайти."</string>
+Ця програма може відстежувати активність Вашого пристрою та мережі, у тому числі ел. пошту, програми та веб-сайти."</string>
      <string name="monitoring_description_vpn_profile_owned">"Ваш робочий профіль управляється %1$s.
 
 Ваш адміністратор може відстежувати активність у мережі, у тому числі ел. пошту, програми та веб-сайти.
@@ -1673,7 +1673,7 @@
      <string name="phone_locked_foget_password">Забули пароль?</string>
      <string name="phone_locked_foget_password_mehod_back">Назад</string>
      <string name="phone_locked_foget_password_method">Забули пароль?</string>
-     <string name="phone_locked_foget_password_method_content"><Data>Вам необхідно &lt;font color=#a5220e>стерти всі дані &lt;/font> на вашому пристрої, включаючи фото та контакти, а потім встановити новий пароль екрану блокування.;</Data></string>
+     <string name="phone_locked_foget_password_method_content"><Data>Вам необхідно &lt;font color=#a5220e>стерти всі дані &lt;/font> на Вашому пристрої, включаючи фото та контакти, а потім встановити новий пароль екрану блокування.;</Data></string>
      <string name="phone_locked_foget_password_method_next">Далі</string>
      <string name="phone_locked_foget_password_ok">Зрозуміло</string>
      <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Вимкніть пристрій, одночасно натисніть та утримуйте &lt;font color=#a5220e>кнопку живлення&lt;/font> та &lt;font color=#a5220e>кнопку збільшення гучності, &lt;/font>поки не побачите логотип Mi.;</Data></string>

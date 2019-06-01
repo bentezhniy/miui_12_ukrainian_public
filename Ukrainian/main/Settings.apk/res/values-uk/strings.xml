@@ -260,8 +260,8 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="alarm_sound_title">Будильник</string>
      <string name="alarm_stop">Переривати розклад будильником</string>
      <string name="alarm_stop_info">Якщо будильник пролунає до завершення розкладу, режим \"Без звуку\" може бути перервано.</string>
-     <string name="alarm_template">о <xliff:g id="when" example="7:00 AM">%1$s</xliff:g></string>
-     <string name="alarm_template_far">у <xliff:g id="when" example="Fri 7:00 AM">%1$s</xliff:g></string>
+     <string name="alarm_template">о %1$s</string>
+     <string name="alarm_template_far">у %1$s</string>
      <string name="alarm_volume_option_title">Будильник</string>
      <string name="alarm_volume_title">Будильник</string>
      <string name="alert_button_agree_and_continue">ОК</string>
@@ -781,13 +781,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="battery_info_uptime">Час із моменту увімкнення:</string>
      <string name="battery_info_voltage_label">Напруга батареї:</string>
      <string name="battery_info_voltage_units">мВ</string>
-     <string name="battery_labels" formatted="false">"
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
-    <!-- Label for length of time since the battery graph started [CHAR LIMIT=20] -->
-    <string name="charge_length_format"><xliff:g name="time" example="3 hours">%1$s</xliff:g> тому"</string>
+     <string name="charge_length_format">%1$s тому</string>
      <string name="battery_last_full_charge">"Остання повна зарядка"</string>
      <string name="battery_level_title">Рівень заряду батареї</string>
      <string name="battery_light_100">Індикатор після зарядки</string>
@@ -909,7 +903,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bluetooth_a2dp_profile_summary_connected">Підключено до мультимедійного аудіопристрою</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Використовувати для мультимедійного аудіопристрою</string>
      <string name="bluetooth_active_battery_level">Активний, %1$s батареї</string>
-     <string name="bluetooth_active_battery_level_untethered" formatted="false">Активно, Л: <xliff:g id="battery_level_as_percentage" example="25%">%1$s</xliff:g> заряду, П: <xliff:g id="battery_level_as_percentage" example="25%">%2$s</xliff:g> заряду</string>
+     <string name="bluetooth_active_battery_level_untethered" formatted="false">Активно, Л: %1$s заряду, П: %2$s заряду</string>
      <string name="bluetooth_active_no_battery_level">Активно</string>
      <string name="bluetooth_advanced_titlebar">Додатково</string>
      <string name="bluetooth_ask_disablement">"Програмі \"%1$s\" необхідно вимкнути Bluetooth"</string>
@@ -918,7 +912,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bluetooth_ask_discovery_no_name">"Програмі необхідно, щоб Ваш телефон був доступний для пошуку через Bluetooth на інших пристроях протягом %1$d сек."</string>
      <string name="bluetooth_ask_enablement">Дозвіл програмі увімкнути Bluetooth</string>
      <string name="bluetooth_ask_enablement_and_discovery">Програмі потрібно, щоб Ваш пристрій був доступний для пошуку протягом %1$d сек. Увімкнути Bluetooth?</string>
-     <string name="bluetooth_ask_enablement_and_discovery_detected">" просить підключення Bluetooth, щоб зробити ваш телефон видимим для інших пристроїв протягом %1$d сек."</string>
+     <string name="bluetooth_ask_enablement_and_discovery_detected">" просить підключення Bluetooth, щоб зробити Ваш телефон видимим для інших пристроїв протягом %1$d сек."</string>
      <string name="bluetooth_ask_enablement_and_discovery_no_name">"Програмі необхідно увімкнути Bluetooth і зробити Ваш телефон доступним для пошуку на інших пристроях протягом %1$d сек."</string>
      <string name="bluetooth_ask_enablement_and_lasting_discovery">Програмі потрібно, щоб Ваш пристрій був доступний для пошуку. Увімкнути Bluetooth?</string>
      <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" намагається увімкнути Bluetooth і видимість для інших пристроїв. Ви можете змінити це пізніше в налаштуваннях Bluetooth."</string>
@@ -930,41 +924,21 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bluetooth_ask_lasting_discovery_no_name">"Програмі необхідно зробити Ваш телефон доступним для пошуку через Bluetooth на інших пристроях. Пізніше ці налаштування можна буде змінити."</string>
      <string name="bluetooth_ask_start_broadcast">"%1$s намагається увімкнути Bluetooth для з\'єднання з іншими пристроями"</string>
      <string name="bluetooth_auto_connect">Автоматичне підключення</string>
-     <string name="bluetooth_battery_level">Заряд батареї <xliff:g id="battery_level_as_percentage">%1$s</xliff:g></string>
-     <string name="bluetooth_battery_level_untethered" formatted="false">Л: <xliff:g id="battery_level_as_percentage" example="25%">%1$s</xliff:g> заряду, П: <xliff:g id="battery_level_as_percentage" example="25%">%2$s</xliff:g> заряду</string>
+     <string name="bluetooth_battery_level">Заряд батареї %1$s</string>
+     <string name="bluetooth_battery_level_untethered" formatted="false">Л: %1$s заряду, П: %2$s заряду</string>
      <string name="bluetooth_broadcasting">Надсилання по Bluetooth</string>
      <string name="bluetooth_broadcasting_explaination">"Пристрій зможе з\'єднуватись з іншими пристроями. При надсиланні даних використовується сигнал Bluetooth з низьким енергоспоживанням."</string>
      <string name="bluetooth_confirm_passkey_msg">Підключення до пристрою: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>На ньому повинен відображатися код доступу:&lt;br>&lt;b>%2$s</string>
      <string name="bluetooth_connect_specific_profiles_title">Підключити до…</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Підключено<xliff:g id="active_device">%1$s</xliff:g> -->
      <string name="bluetooth_connected">Підключено</string>
-     <string name="bluetooth_connected_battery_level">Підключено\u0020|\u0020Заряд батареї <xliff:g id="battery_level_as_percentage">%1$s</xliff:g><xliff:g id="active_device">%2$s</xliff:g></string>
+     <string name="bluetooth_connected_battery_level">Підключено\u0020|\u0020Заряд батареї %1$s%2$s</string>
      <string name="bluetooth_connected_multiple_devices_summary">"Підключено до декількох пристроїв"</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Підключено (без аудіо) <xliff:g id="active_device">%1$s</xliff:g> -->
      <string name="bluetooth_connected_no_a2dp">Підключено (крім медіа)</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Підключено (без гарнітури) <xliff:g id="active_device">%1$s</xliff:g> -->
      <string name="bluetooth_connected_no_headset">Підключено (крім пристрою)</string>
      <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Підключено (без гарнітури та аудіо) <xliff:g id="active_device">%1$s</xliff:g> -->
      <string name="bluetooth_connected_no_headset_no_a2dp">Підключено (крім пристрою або медіа)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Підключено (без доступу до повідомлень) <xliff:g id="active_device">%1$s</xliff:g> -->
      <string name="bluetooth_connected_no_map">Підключено без доступу до повідомлень</string>
      <string name="bluetooth_connected_summary">"Підключено до пристрою %1$s"</string>
      <string name="bluetooth_connecting">Підключення…</string>
@@ -1031,9 +1005,9 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bluetooth_headset_profile_summary_use_for">Використовувати для аудіопристрою</string>
      <string name="bluetooth_hearing_aid_profile_summary_connected">Підключено до слухового апарату</string>
      <string name="bluetooth_hearing_aid_profile_summary_use_for">Використовувати для слухового апарату</string>
-     <string name="bluetooth_hearingaid_left_battery_level">Лівий - заряд батареї <xliff:g id="battery_level_as_percentage">%1$s</xliff:g></string>
+     <string name="bluetooth_hearingaid_left_battery_level">Лівий - заряд батареї %1$s</string>
      <string name="bluetooth_hearingaid_left_pairing_message">Підключення лівого слухового апарата\u2026</string>
-     <string name="bluetooth_hearingaid_right_battery_level">Правий - заряд батареї <xliff:g id="battery_level_as_percentage">%1$s</xliff:g></string>
+     <string name="bluetooth_hearingaid_right_battery_level">Правий - заряд батареї %1$s</string>
      <string name="bluetooth_hearingaid_right_pairing_message">Підключення правого слухового апарата\u2026</string>
      <string name="bluetooth_hid_profile_summary_connected">Підключено до пристрою введення</string>
      <string name="bluetooth_hid_profile_summary_use_for">Використовувати для введення</string>
@@ -1225,7 +1199,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bootloader_status_locked">Заблоковано</string>
      <string name="bootloader_status_locked_info">Завантажувач заблоковано</string>
      <string name="bootloader_status_locked_summary">Пристрій захищено</string>
-     <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
+     <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до Вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
      <string name="bootloader_status_privacy_dialog_no">Скасувати</string>
      <string name="bootloader_status_privacy_dialog_title">Необхідні дозволи</string>
      <string name="bootloader_status_privacy_dialog_url_text">Політика конфіденційності</string>
@@ -1234,7 +1208,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="bootloader_status_unlocked">Розблоковано</string>
      <string name="bootloader_status_unlocked_info">Завантажувач розблоковано</string>
      <string name="bootloader_summary">Прошивка пристрою через USB</string>
-     <string name="bootloader_tips">Після прив\'язування Mi акаунта не виходьте з нього, не виконуйте скидання налаштувань або очищення даних системних програм. Якщо ви виконали якусь дію із перерахованих, ще раз прив\'яжіть акаунт з пристроєм, інакше ви не зможете розблокувати завантажувач.</string>
+     <string name="bootloader_tips">Після прив\'язування Mi акаунта не виходьте з нього, не виконуйте скидання налаштувань або очищення даних системних програм. Якщо Ви виконали якусь дію із перерахованих, ще раз прив\'яжіть акаунт з пристроєм, інакше Ви не зможете розблокувати завантажувач.</string>
      <string name="bootloader_tips_ok">Зрозуміло</string>
      <string name="breathing_light_color_menu_title">Колір індикатору</string>
      <string name="breathing_light_color_summary">Колір індикатору для повідомлень</string>
@@ -1419,7 +1393,6 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="change_storage">"Змінити пам\'ять"</string>
      <string name="change_theme_reboot">Для застосування теми необхідне перезавантаження</string>
      <string name="channel_notifications_off_desc">"Android блокує сповіщення цієї категорії"</string>
-     <string name="charge_length_format">%1$s назад</string>
      <string name="charging_sounds_full_title">Звук завершення зарядки</string>
      <string name="charging_sounds_off">"Звук від'єднання зарядки"</string>
      <string name="charging_sounds_on">Звук підключення зарядки</string>
@@ -1439,9 +1412,8 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="children_mode_tips_off">Після увімкнення батьківського контролю натисніть клавішу \"Додому\"</string>
      <string name="children_mode_tips_on">Після вимкнення батьківського контролю натисніть клавішу \"Додому\" для повернення на робочий стіл</string>
      <string name="children_mode_title">Батьківський контроль</string>
-     <string name="choose_a_card_to_reset">Виберіть SIM-карту для скидання</string>
-     <string name="choose_assist_title">Виберіть програму-помічник</string>
-     <string name="choose_profile">Виберіть профіль</string>
+     <string name="choose_a_card_to_reset">Оберіть SIM-карту для скидання</string>
+     <string name="choose_assist_title">Оберіть програму-помічник</string>
      <string name="choose_smartcover_type">Оберіть тип чохла</string>
      <string name="choose_spell_checker">Перевірка правопису</string>
      <string name="choose_timezone">Часовий пояс</string>
@@ -1478,7 +1450,7 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="close_sdcard_optimization_warning_message">Пристрій буде перезавантажено після застосування налаштувань</string>
      <string name="close_twice_auth_btn">Двоетапна аутентифікація</string>
      <string name="close_twice_auth_note">"Примітка:
-Після створення нового питання безпеки і підтвердження Вашої дати народження функція двоетапної аутентифікації буде відключена. Якщо ви не бачите варіант відключення подвійної аутентифікації на сторінці акаунту Apple ID, Ви не можете відключити її."</string>
+Після створення нового питання безпеки і підтвердження Вашої дати народження функція двоетапної аутентифікації буде відключена. Якщо Ви не бачите варіант відключення подвійної аутентифікації на сторінці акаунту Apple ID, Ви не можете відключити її."</string>
      <string name="close_twice_auth_operation">"Доступ з ПК:
 https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="close_twice_auth_step_1">1. Перейдіть на сторінку акаунту Apple ID</string>
@@ -1511,24 +1483,11 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="color_black">Чорний</string>
      <string name="color_blue">Синій</string>
      <string name="color_calibration_none">Натуральний</string>
-     <string name="color_calibration_srgb">srgb</string>
+     <string name="color_calibration_srgb">SRGB</string>
      <string name="color_cyan">Блакитний</string>
      <string name="color_gray">Сірий</string>
      <string name="color_green">Зелений</string>
      <string name="color_magenta">Пурпурний</string>
-     <string name="color_mode_names">"
-        <item>Насичений (за замовчуванням)</item>
-        <item>Природний</item>
-        <item>Натуральний</item>
-    </string-array>
-    <!-- Description of each color mode for the display. [CHAR LIMIT=NONE] -->
-    <string-array name="color_mode_descriptions">
-        <item>Покращені кольори</item>
-        <item>Звичні оку натуральні кольори</item>
-        <item>Кольори, оптимізовані для цифрового контенту</item>
-    </string-array>
-    <!-- Settings item title for apps in standby (limiting background activity) [CHAR LIMIT=35] -->
-    <string name="inactive_apps_title">Неактивні програми"</string>
      <string name="color_none">Немає</string>
      <string name="color_orange">Помаранчевий</string>
      <string name="color_purple">Фіолетовий</string>
@@ -1603,7 +1562,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="connected">Підключено</string>
      <string name="connected_devices_dashboard_summary">"Bluetooth, трансляція, NFC"</string>
      <string name="connected_devices_dashboard_title">"Підключені пристрої"</string>
-     <string name="connected_via_app">Підключено через <xliff:g id="name" example="Wifi App">%1$s</xliff:g></string>
+     <string name="connected_via_app">Підключено через %1$s</string>
      <string name="connected_via_carrier">Підключено через %1$s</string>
      <string name="connected_via_network_scorer">Автоматично підключено через %1$s</string>
      <string name="connected_via_network_scorer_default">Автоматично підключено через постачальника послуг мережі</string>
@@ -2377,7 +2336,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="enterprise_privacy_enterprise_data">"Дані, пов\'язані з вашим робочим акаунтом, наприклад пошта та заходи в календарі"</string>
      <string name="enterprise_privacy_enterprise_installed_packages">"Встановлені програми"</string>
      <string name="enterprise_privacy_enterprise_set_default_apps">"Програми за замовчуванням"</string>
-     <string name="enterprise_privacy_exposure_category">"Які дані доступні вашій організації"</string>
+     <string name="enterprise_privacy_exposure_category">"Які дані доступні Вашій організації"</string>
      <string name="enterprise_privacy_exposure_changes_category">"Зміни, внесені адміністратором організації"</string>
      <string name="enterprise_privacy_failed_password_wipe_device">"Кількість невдалих спроб введення паролю, після яких дані будуть видалені з пристрою"</string>
      <string name="enterprise_privacy_failed_password_wipe_work">"Кількість невдалих спроб введення паролю, після яких дані робочого профілю будуть видалені"</string>
@@ -2783,7 +2742,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="gxzw_anim_pulse">Пульс</string>
      <string name="gxzw_anim_rhythm">Ритм</string>
      <string name="gxzw_anim_title">Анімація сканера відбитків</string>
-     <string name="gxzw_dialog_message">Для коректної роботи екранного сканера відбитків пальців рекомендується не використовувати захисні плівки та скла. Якщо захист екрану необхідний для вас, виберіть один з сумісних варіантів.</string>
+     <string name="gxzw_dialog_message">Для коректної роботи екранного сканера відбитків пальців рекомендується не використовувати захисні плівки та скла. Якщо захист екрану необхідний для Вас, виберіть один з сумісних варіантів.</string>
      <string name="gxzw_dialog_not_show_again">"Запам\'ятати"</string>
      <string name="gxzw_dialog_ok">ОК</string>
      <string name="gxzw_dialog_title">Про екранний сканер відбитків</string>
@@ -3728,10 +3687,10 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="miui_sos_call_log_sec">сек.</string>
      <string name="miui_sos_call_log_stranger">Невідомий номер</string>
      <string name="miui_sos_call_log_summary">Надсилати журнал викликів за останню годину на екстрений контакт</string>
-     <string name="miui_sos_call_log_time_unit"><xliff:g id="minutes">%1$d</xliff:g> хв <xliff:g id="seconds">%2$d</xliff:g> сек</string>
+     <string name="miui_sos_call_log_time_unit">%1$d хв %2$d сек</string>
      <string name="miui_sos_call_log_title">Надсилати журнал викликів</string>
      <string name="miui_sos_call_warning_sim_unable">Немає мережі. Неможливо надіслати SMS.</string>
-     <string name="miui_sos_calling_summary">Ваш пристрій буде автоматично здійснювати виклик на екстрені контакти і відтворювати голосове повідомлення SOS, яке ви записали. Виклик буде завершено після того, як голосове повідомлення SOS закінчиться. Автодозвон буде припинений після першої успішної спроби виклику.</string>
+     <string name="miui_sos_calling_summary">Ваш пристрій буде автоматично здійснювати виклик на екстрені контакти і відтворювати голосове повідомлення SOS, яке Ви записали. Виклик буде завершено після того, як голосове повідомлення SOS закінчиться. Автодозвон буде припинений після першої успішної спроби виклику.</string>
      <string name="miui_sos_calling_title">Автовиклик</string>
      <string name="miui_sos_contacts_add">Екстрені контакти</string>
      <string name="miui_sos_contacts_category">Екстрені контакти</string>
@@ -4137,8 +4096,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="notification_exit_power_save_mode">Енергозбереження вимкнено</string>
      <string name="notification_exit_power_save_mode_subtitle">Батарея заряджена на 60%</string>
      <string name="notification_fold_description1">Фільтр сповіщень був представлений у версії MIUI 9. Ця функція фільтрує неважливі повідомлення та переміщує їх в окрему папку.</string>
-     <string name="notification_fold_description2">MIUI запам\'ятає, які сповіщення ви відзначили, а потім використовує декілька критеріїв для визначення їх важливості.</string>
-     <string name="notification_fold_description3">Якщо сповіщення, які ви вважаєте важливими, як і раніше потрапляють до папки \"Сповіщення\", повідомте нам про цю проблему. Ми будемо вдячні вам за відгуки.</string>
+     <string name="notification_fold_description2">MIUI запам\'ятає, які сповіщення Ви відзначили, а потім використовує декілька критеріїв для визначення їх важливості.</string>
+     <string name="notification_fold_description3">Якщо сповіщення, які Ви вважаєте важливими, як і раніше потрапляють до папки \"Сповіщення\", повідомте нам про цю проблему. Ми будемо вдячні вам за відгуки.</string>
      <string name="notification_fold_footer_icon_summary">Показувати іконки програм під час групування неважливих сповіщень</string>
      <string name="notification_fold_footer_icon_title">Показувати іконки програми</string>
      <string name="notification_fold_summary">Всі неважливі сповіщення будуть з\'являтися в окремій папці</string>
@@ -4304,7 +4263,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="optimization_open">Увімкнути</string>
      <string name="osu_completing_sign_up">Завершення реєстрації\u2026</string>
      <string name="osu_connect_failed">Не вдалося підключитися</string>
-     <string name="osu_opening_provider">Відкриття <xliff:g id="passpointProvider" example="Passpoint Provider">%1$s</xliff:g></string>
+     <string name="osu_opening_provider">Відкриття %1$s</string>
      <string name="osu_sign_up_complete">Реєстрацію завершено. Підключення\u2026</string>
      <string name="osu_sign_up_failed">Не вдалося завершити реєстрацію. Повторіть спробу.</string>
      <string name="ota_disable_automatic_update">Автоматичні оновлення системи</string>
@@ -4661,14 +4620,14 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="power_charging_duration_usb">%1$s - %2$s до повного заряду (від USB)</string>
      <string name="power_charging_duration_wireless">%1$s - %2$s до повного заряду (бездротова)</string>
      <string name="power_checker">Моніторинг живлення</string>
-     <string name="power_discharge_by">Залишилося приблизно <xliff:g id="time">%1$s</xliff:g> (<xliff:g id="level">%2$s</xliff:g>)</string>
-     <string name="power_discharge_by_enhanced">Залишилося приблизно <xliff:g id="time">%1$s</xliff:g> при поточному рівні використання (<xliff:g id="level">%2$s</xliff:g>)</string>
-     <string name="power_discharge_by_only">Залишилося приблизно <xliff:g id="time">%1$s</xliff:g></string>
-     <string name="power_discharge_by_only_enhanced">Залишилося приблизно <xliff:g id="time">%1$s</xliff:g> при поточному рівні використання</string>
-     <string name="power_discharge_by_only_short">До <xliff:g id="time" example="12 PM">%1$s</xliff:g></string>
+     <string name="power_discharge_by">Залишилося приблизно %1$s (%2$s)</string>
+     <string name="power_discharge_by_enhanced">Залишилося приблизно %1$s при поточному рівні використання (%2$s)</string>
+     <string name="power_discharge_by_only">Залишилося приблизно %1$s</string>
+     <string name="power_discharge_by_only_enhanced">Залишилося приблизно %1$s при поточному рівні використання</string>
+     <string name="power_discharge_by_only_short">До %1$s</string>
      <string name="power_discharge_remaining">Батарея розрядиться через %1$s</string>
      <string name="power_discharging_duration">%1$s – залишилося близько %2$s</string>
-     <string name="power_discharging_duration_enhanced">Залишилося приблизно <xliff:g id="time_remaining">%1$s</xliff:g> при поточному рівні використання (<xliff:g id="level">%2$s</xliff:g>)</string>
+     <string name="power_discharging_duration_enhanced">Залишилося приблизно %1$s при поточному рівні використання (%2$s)</string>
      <string name="power_discharging_duration_short">%1$s. Залишилося: %2$s</string>
      <string name="power_flashlight">Ліхтарик</string>
      <string name="power_hide_mode_summary">Керування доступом програм у фоновому режимі для економії заряду батареї</string>
@@ -4691,20 +4650,20 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="power_phone">Голосові виклики</string>
      <string name="power_remaining_charging_duration_only">%1$s до повного заряду</string>
      <string name="power_remaining_duration_only">Залишилося приблизно %1$s</string>
-     <string name="power_remaining_duration_only_enhanced">Залишилося приблизно <xliff:g id="time_remaining">%1$s</xliff:g> при поточному рівні використання</string>
+     <string name="power_remaining_duration_only_enhanced">Залишилося приблизно %1$s при поточному рівні використання</string>
      <string name="power_remaining_duration_only_short">Залишилося: %1$s</string>
      <string name="power_remaining_duration_only_shutdown_imminent">Пристрій скоро відключиться</string>
-     <string name="power_remaining_duration_shutdown_imminent">Пристрій скоро відключиться (<xliff:g id="level">%1$s</xliff:g>)</string>
-     <string name="power_remaining_less_than_duration">Залишилося менше <xliff:g id="threshold">%1$s</xliff:g> (<xliff:g id="level">%2$s</xliff:g>)</string>
-     <string name="power_remaining_less_than_duration_only">Залишилося менше <xliff:g id="threshold">%1$s</xliff:g></string>
-     <string name="power_remaining_more_than_subtext">Залишилося більше <xliff:g id="time_remaining">%1$s</xliff:g> (<xliff:g id="level">%2$s</xliff:g>)</string>
-     <string name="power_remaining_only_more_than_subtext">Залишилося більше <xliff:g id="time_remaining">%1$s</xliff:g></string>
+     <string name="power_remaining_duration_shutdown_imminent">Пристрій скоро відключиться (%1$s)</string>
+     <string name="power_remaining_less_than_duration">Залишилося менше %1$s (%2$s)</string>
+     <string name="power_remaining_less_than_duration_only">Залишилося менше %1$s</string>
+     <string name="power_remaining_more_than_subtext">Залишилося більше %1$s (%2$s)</string>
+     <string name="power_remaining_only_more_than_subtext">Залишилося більше %1$s</string>
      <string name="power_save_mode_enable">Енергозбереження</string>
      <string name="power_save_mode_summary">Моніторинг фонових процесів, відключення синхронізації і приховування системної анімації. Економія батареї автоматично вимикається, коли батарея заряджена на 60%.</string>
      <string name="power_screen">Екран</string>
      <string name="power_service">"Служби"</string>
      <string name="power_settings_title">Продуктивність системи</string>
-     <string name="power_suggestion_extend_battery">Продовжити час роботи понад <xliff:g id="time" example="12 PM">%1$s</xliff:g></string>
+     <string name="power_suggestion_extend_battery">Продовжити час роботи понад %1$s</string>
      <string name="power_system">"Система"</string>
      <string name="power_unaccounted">Інше</string>
      <string name="power_usage_history">Використання батареї</string>
@@ -4734,26 +4693,18 @@ OTG вимикається автоматично через 10 хвилин б�
      <string name="pref_volume_wake_summary">Натискання клавіш регулювання гучності в заблокованому стані розбудить пристрій</string>
      <string name="pref_volume_wake_title">Будити клавішами гучності</string>
      <string name="preference_change_password_title">Змінити пароль</string>
-     <string name="preference_summary_default_combination"><xliff:g id="state" example="ON">%1$s</xliff:g> / <xliff:g id="description" example="High accuracy mode">%2$s</xliff:g></string>
+     <string name="preference_summary_default_combination">%1$s / %2$s</string>
      <string name="preferred_app_settings">Стандартно</string>
      <string name="preferred_app_settings_default">MIUI</string>
      <string name="preferred_app_settings_not_selected">Не вибрано</string>
      <string name="preferred_app_settings_reset">Скидання налаштувань</string>
      <string name="preferred_app_settings_reset_button">Скидання</string>
      <string name="preferred_app_settings_reset_message">Використовувати всі стандартні програми за замовчуванням?</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: За замовчуванням <xliff:g id="APPLICATION_LABEL">%s</xliff:g> -->
      <string name="preferred_application_title">Замінити програму за замовчуванням?</string>
      <string name="preferred_application_warning_message">"Заміна стандартної програми \"%1$s\" може збільшити споживання енергії, знизити швидкість роботи пристрою й піддати систему ризику. 
 рекомендується використовувати стандартну програму \"%2$s\"."</string>
      <string name="preferred_application_warning_replace">Замінити</string>
      <string name="preferred_application_warning_title">Заміна програми \"%s\"</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Застосовувати <xliff:g id="APPLICATION_LABEL">%s</xliff:g> -->
      <string name="preferred_application_warning_use_system">Скасувати</string>
      <string name="preferred_launcher_title">Вибір робочого столу</string>
      <string name="preferred_media_app_summary">Виберіть музичний плеєр</string>
@@ -6033,7 +5984,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="skip_lock_screen_confirm_msg">Всі функції екрану блокування будуть вимкнені</string>
      <string name="skip_step">Пропустити</string>
      <string name="slider_app_open">Відкрити програму</string>
-     <string name="slider_app_open_name">Відкрити <xliff:g id="slider_open">%1$s</xliff:g></string>
+     <string name="slider_app_open_name">Відкрити %1$</string>
      <string name="slider_app_open_none">Немає дій</string>
      <string name="slider_button_title">Змінити</string>
      <string name="slider_choose_app">Виберіть програму</string>
@@ -6107,7 +6058,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="sos_privacy_dialog_button_cancel">Скасувати</string>
      <string name="sos_privacy_dialog_button_ok">Продовжити</string>
      <string name="sos_privacy_dialog_message">"Перед використання функції екстреної допомоги необхідно прочитати і прийняти: %s. 
- Для нормальної роботи функції екстреної допомоги може знадобитися доступ до вашого місцезнаходження, мобільного інтернету і контактів. Дозволити доступ?"</string>
+ Для нормальної роботи функції екстреної допомоги може знадобитися доступ до Вашого місцезнаходження, мобільного інтернету і контактів. Дозволити доступ?"</string>
      <string name="sos_privacy_dialog_title">Умови користування</string>
      <string name="sound_category_call_ringtone_vibrate_title">Звуки</string>
      <string name="sound_category_calls_and_notification_title">Мелодія й повідомлення</string>
@@ -6166,7 +6117,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="standard_configuration_version_screen_size">"5.15\'"</string>
      <string name="standard_configuration_version_screen_size_mi3">"5\'"</string>
      <string name="standard_info">Вимкнення звуку для викликів та сповіщень</string>
-     <string name="standby_bucket_summary">Стан очікування: <xliff:g id="bucket">%s</xliff:g></string>
+     <string name="standby_bucket_summary">Стан очікування: %s</string>
      <string name="start_backup">Почати</string>
      <string name="start_restore">Відновити</string>
      <string name="start_silent_mode">Увімкнути режим \"Без звуку\"</string>
@@ -6791,33 +6742,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="tts_play">"Відтворити"</string>
      <string name="tts_play_example_summary">Відтворити коротку демонстрацію синтезованої мови</string>
      <string name="tts_play_example_title">Прослухати приклад</string>
-     <string name="tts_rate_entries">"
-        <item>Дуже повільна</item>
-        <item>Повільна</item>
-        <item>Середня</item>
-        <item>Помірно швидка</item>
-        <item>Швидка</item>
-        <item>Дуже швидка</item>
-        <item>Прискорена</item>
-        <item>Сильно прискорена</item>
-        <item>Максимальна</item>
-    </string-array>
-    <!-- Do not translate. -->
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
-    <!-- Do not translate. -->
-    <!-- Do not translate. -->
-    <!-- Title for profile selection dialog [CHAR LIMIT=30] -->
-    <string name="choose_profile">Виберіть профіль"</string>
+     <string name="choose_profile">Оберіть профіль</string>
      <string name="tts_reset">"Скинути"</string>
      <string name="tts_reset_speech_pitch_summary">Встановити стандартний тон при озвучуванні тексту</string>
      <string name="tts_reset_speech_pitch_title">Тон за замовчуванням</string>
@@ -7079,7 +7004,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="usagestats_device_notification_des_over">Досягнуто межу часу екрану на сьогодні</string>
      <string name="usagestats_device_notification_des_reset" formatted="false">Межа часу екрану сьогодні: %s | Залишилося: %s</string>
      <string name="usagestats_device_notification_title">Уведомление о времени экрана</string>
-     <string name="usagestats_device_timeout_des" formatted="false">"Сьогодні ви використовували пристрій понад %d год. %d хв. Час відпочити!"</string>
+     <string name="usagestats_device_timeout_des" formatted="false">"Сьогодні Ви використовували пристрій понад %d год. %d хв. Час відпочити!"</string>
      <string name="usagestats_device_timeout_negative">Нагадати пізніше</string>
      <string name="usagestats_device_timeout_positive">ОК</string>
      <string name="usagestats_device_timeout_title">Сповіщення про час екрану</string>
@@ -7537,7 +7462,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wfd_sink_guide_title">Як вийти?</string>
      <string name="wfd_sink_summary">Видно іншим</string>
      <string name="wfd_sink_toast_disconnect">Екран передачі відключений</string>
-     <string name="wfd_sink_toast_enjoy">З чужого пристрою - на ваш екран!</string>
+     <string name="wfd_sink_toast_enjoy">З чужого пристрою - на Ваш екран!</string>
      <string name="wfd_status_dialog_disconnect">Вимкнути</string>
      <string name="wfd_status_dialog_message">"Вміст екрану відображається на іншому пристрої за допомогою бездротового з'єднання"</string>
      <string name="wfd_status_dialog_title">WiDi</string>
@@ -7566,7 +7491,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wifi_allow_scan_with_traffic_summary">"Вмикати або вимикати пошук Wi-Fi мереж під час передачі даних в залежності від об\'єму трафіка"</string>
      <string name="wifi_and_mobile_skipped_message">"При активному інтернет з\'єднанні, пристрій не зможе перевірити наявність оновлень ПЗ."</string>
      <string name="wifi_ap_band_config">Діапазон частот Wi-Fi</string>
-     <string name="wifi_ap_bandwidth_chart_summary">Телефоном може по-своєму виміряти швидкість даних вашого носія.</string>
+     <string name="wifi_ap_bandwidth_chart_summary">Телефоном може по-своєму виміряти швидкість даних Вашого носія.</string>
      <string name="wifi_ap_bandwidth_chart_title">Швидкість даних у реальному часі</string>
      <string name="wifi_ap_bandwidth_enable">Активувати плавке регулювання смуги пропускання</string>
      <string name="wifi_ap_bandwidth_title">Користування смугою пропускання</string>
@@ -7603,7 +7528,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wifi_assistant_data_prompt">Попередження про трафік</string>
      <string name="wifi_assistant_data_prompt_summary">Показувати попередження про використання мобільного трафіку, коли Wi-Fi помічник перемикається на мобільний інтернет</string>
      <string name="wifi_assistant_description">"Як працює Wi-Fi помічник:
-1. Коли Wi-Fi підключення погане, Wi-Fi помічник спробує підключити ваш пристрій до інших доступних мереж Wi-Fi.
+1. Коли Wi-Fi підключення погане, Wi-Fi помічник спробує підключити Ваш пристрій до інших доступних мереж Wi-Fi.
 2. Якщо всі доступні Wi-Fi підключення виявляються поганими, а мобільний інтернет активний, Wi-Fi помічник перемкнеться на нього."</string>
      <string name="wifi_assistant_dialog_message">"Асистент Wi-Fi намагається встановити VPN-з'єднання, щоб відстежувати трафік мережі. Дозвольте цю дію, тільки якщо Ви довіряєте джерелу"</string>
      <string name="wifi_assistant_disconnect">Вимкнути</string>
@@ -7652,7 +7577,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wifi_calling_suggestion_title">Увімкніть дзвінки по Wi-Fi</string>
      <string name="wifi_cancel">Скасувати</string>
      <string name="wifi_cant_connect">Неможливо підключитися</string>
-     <string name="wifi_cant_connect_to_ap">"Не вдалося підключитися до \'<xliff:g id="ap_name">%1$s</xliff:g>\'"</string>
+     <string name="wifi_cant_connect_to_ap">"Не вдалося підключитися до \'%1$s\'"</string>
      <string name="wifi_cellular_data_fallback_summary">"Використовувати мобільний Інтернет, коли немає зв\'язку з Інтернетом через Wi-Fi. Може стягуватися додаткова плата."</string>
      <string name="wifi_cellular_data_fallback_title">"Автоматично підключатися до мобільного Інтернету"</string>
      <string name="wifi_certificate">Сертифікат</string>
@@ -8183,10 +8108,10 @@ Email: portal.miroom@gmail.com"</string>
      <string name="zen_access_empty_text">Встановлені програми не вимагають доступу до функції \"Не турбувати\"</string>
      <string name="zen_access_revoke_warning_dialog_summary">Усі правила режиму \"Не турбувати\", створені цією програмою, буде видалено</string>
      <string name="zen_access_revoke_warning_dialog_title">Скасувати доступ до режиму \"Не турбувати\" для програми %1$s?</string>
-     <string name="zen_access_warning_dialog_summary">Програма може вмикати та вимикати режим \"Не турбувати\", а також змінювати відповідні налаштування.</string>
+     <string name="zen_access_warning_dialog_summary">Програма може вмикати та вимикати режим \"Не турбувати\", а також змінювати відповідні налаштування</string>
      <string name="zen_access_warning_dialog_title">Дозволити програмі \"%1$s\" доступ до налаштувань режиму \"Не турбувати\"?</string>
-     <string name="zen_alarm_warning">Наступний будильник <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g>. Звук відключений.</string>
-     <string name="zen_alarm_warning_indef">Наступний будильник <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g>. Щоб почути сигнал, увімкніть звук</string>
+     <string name="zen_alarm_warning">Наступний будильник %1$s. Звук вимкнено</string>
+     <string name="zen_alarm_warning_indef">Наступний будильник %1$s. Щоб почути сигнал, увімкніть звук</string>
      <string name="zen_event_rule_enabled_toast">Налаштоване правило увімкнення режиму \"Не турбувати\" під час зазначених заходів</string>
      <string name="zen_event_rule_type_name">Захід</string>
      <string name="zen_interruption_level_priority">Тільки важливі</string>
@@ -8197,7 +8122,7 @@ Email: portal.miroom@gmail.com"</string>
      <string name="zen_mode_all_callers">Усі абоненти</string>
      <string name="zen_mode_all_messages">Усі повідомлення</string>
      <string name="zen_mode_all_visual_interruptions">Вимкнено</string>
-     <string name="zen_mode_and_condition"><xliff:g id="zen_mode" example="Priority interruptions only">%1$s</xliff:g>. <xliff:g id="exit_condition" example="For one hour">%2$s</xliff:g></string>
+     <string name="zen_mode_and_condition">%1$s. %2$s</string>
      <string name="zen_mode_automation_category">Автоматизація</string>
      <string name="zen_mode_automation_settings_title">Правила</string>
      <string name="zen_mode_automation_suggestion_summary">Налаштуйте вимикання звуку</string>
@@ -8230,7 +8155,7 @@ Email: portal.miroom@gmail.com"</string>
      <string name="zen_mode_event_rule_summary_calendar_template">Під час заходів %1$s</string>
      <string name="zen_mode_event_rule_summary_reply_template">З відповіддю %1$s</string>
      <string name="zen_mode_events">Нагадування</string>
-     <string name="zen_mode_forever">Поки ви не відключите</string>
+     <string name="zen_mode_forever">Поки Ви не відключите</string>
      <string name="zen_mode_from">Виклики та SMS від</string>
      <string name="zen_mode_from_anyone">Усі</string>
      <string name="zen_mode_from_call">"Виклики від "</string>

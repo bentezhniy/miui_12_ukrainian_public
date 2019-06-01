@@ -1039,7 +1039,7 @@
      <string name="net_unavailable">Неможливо підключитися до мережі</string>
 	
      <string name="agenda_disclaimer">Попередження</string>
-     <string name="agenda_disclaimer_content">Цей сервіс надається Alipay. Якщо у вас є які-небудь питання, зверніться в службу підтримки.</string>
+     <string name="agenda_disclaimer_content">Цей сервіс надається Alipay. Якщо у Вас є які-небудь питання, зверніться в службу підтримки.</string>
      <string name="agenda_i_known">ОК</string>
      <string name="agenda_need_install_alipay">Потрібно встановити Alipay</string>
      <string name="agenda_pay_is_not_available">Платежі недоступні</string>

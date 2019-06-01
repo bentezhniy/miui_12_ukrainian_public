@@ -17,8 +17,8 @@
      <string name="app_notificaiton_on_statusBar_and_notificationbar">Панель сповіщень і екран блокування</string>
      <string name="app_version_which_call">Версія: %s</string>
      <string name="apply_password_action">OK</string>
-     <string name="apply_password_confirm_dlg_msg">Використовуйте ваш поточний пароль блокування екрану, щоб отримати доступ до налаштувань <xliff:g id="businessName" example="Child mode">%s</xliff:g>.</string>
-     <string name="apply_password_confirm_dlg_title">Пароль <xliff:g id="businessName" example="Child mode">%s</xliff:g></string>
+     <string name="apply_password_confirm_dlg_msg">Використовуйте Ваш поточний пароль блокування екрану, щоб отримати доступ до налаштувань %s</string>
+     <string name="apply_password_confirm_dlg_title">Пароль %s</string>
      <string name="arbor_day">"День деревонасадження"</string>
      <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навігації вимкнені, натисніть 2 рази на будь-яку кнопку, щоб знову їх увімкнути</string>
      <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навігації увімкнені</string>
@@ -136,7 +136,7 @@
      <string name="miui_upgrading_notification_title">Система завантажується, деякі функції недоступні.</string>
      <string name="miui_warning_button_cancel">Скасувати</string>
      <string name="miui_warning_button_ok">ОК</string>
-     <string name="miui_warning_tip_info">Сталася помилка у <xliff:g id="application">%1$s</xliff:g>. Закрити програму зараз?</string>
+     <string name="miui_warning_tip_info">У %1$s сталася помилка. Закрити програму зараз?</string>
      <string name="national_day">День нації</string>
      <string name="national_father_day">День батька Guo Tung Shing</string>
      <string name="new_years_day">Новий рік</string>
@@ -158,10 +158,10 @@
      <string name="popup_camera_front_when_use">Програмі Камера знову потрібно відкрити фронтальну камеру. Відкрити її?</string>
      <string name="popup_camera_popup_falied_times_calibrate">Не вдалося відкрити фронтальну камеру декілька разів підряд. Спробуйте відкалібрувати камеру.</string>
      <string name="popup_camera_sure">Зрозуміло</string>
-     <string name="popup_camera_sure_wait">Зрозуміло (<xliff:g id="wait_time">%d</xliff:g>c)</string>
+     <string name="popup_camera_sure_wait">Зрозуміло %d</string>
      <string name="popup_camera_takeback_falied_times_calibrate">Не вдалося відкрити фронтальну камеру декілька разів підряд. Спробуйте відкалібрувати камеру.</string>
      <string name="popup_camera_tip">Увага</string>
-     <string name="popup_camera_using_camera_background"><xliff:g id="package_name">%s</xliff:g> використовує фронтальну камеру</string>
+     <string name="popup_camera_using_camera_background">%s використовує фронтальну камеру</string>
      <string name="presentation_payphone">Таксофон</string>
      <string name="presentation_private">Прихований номер</string>
      <string name="presentation_unknown">Невідомий номер</string>
@@ -197,7 +197,7 @@
      <string name="security_permission_failed_text">Сталася помилка, спробуйте пізніше</string>
      <string name="security_permission_network_failed_text">Не вдалося підключитися до мережі. Перевірте налаштування та повторіть спробу.</string>
      <string name="security_permission_open_wifi_settings">Відкрити налаштування Wi-Fi</string>
-     <string name="security_permission_validate_warning">Дякуємо, ви допомагаєте зробити MIUI краще!</string>
+     <string name="security_permission_validate_warning">Дякуємо, Ви допомагаєте зробити MIUI краще!</string>
      <string name="security_permission_wifi_and_data_opened_text">Wi-Fi та мобільний інтернет увімкнено</string>
      <string name="security_permission_xiaomi_account_missed_text">Введіть ID свого Mi акаунту</string>
      <string name="select">Вибрати</string>
@@ -210,7 +210,7 @@
      <string name="silence_mode">Безшумний режим</string>
      <string name="sim_added_reboot_confirm">Перезавантажити</string>
      <string name="sim_added_reboot_title">SIM-карту буде активовано після перезавантаження пристрою</string>
-     <string name="sim_lock_non_ais_msg">Ваша SIM-карта не повністю сумісна з цим телефоном, оскільки вона не відповідає умовам вашої підписки. Якщо у вас є будь-які запитання або вам потрібна додаткова інформація щодо цієї проблеми, зверніться в сервісний центр Xiaomi або в торгову організацію.</string>
+     <string name="sim_lock_non_ais_msg">Ваша SIM-карта не повністю сумісна з цим телефоном, оскільки вона не відповідає умовам вашої підписки. Якщо у Вас є будь-які запитання або вам потрібна додаткова інформація щодо цієї проблеми, зверніться в сервісний центр Xiaomi або в торгову організацію.</string>
      <string name="sim_lock_now_ais_title">SIM %1$d</string>
      <string name="slight_cold">Невеликий холод</string>
      <string name="slight_heat">Невелика спека</string>
@@ -222,7 +222,7 @@
      <string name="standard_description">Вимкнення звуку для вхідних викликів та сповіщень</string>
      <string name="standard_title">Без звуку</string>
      <string name="start_dump_log">Почати збирати журнали проблем</string>
-     <string name="start_security_permission_verify_text">Перевірте дозволи за допомогою вашого Mi акаунту</string>
+     <string name="start_security_permission_verify_text">Перевірте дозволи за допомогою Вашого Mi акаунту</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Підсвічування</string>
      <string name="status_bar_toggle_battery_saver">Енергозбереження</string>
@@ -257,9 +257,9 @@
      <string name="status_bar_toggle_vibrate">Вібрація</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
      <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
-     <string name="stop_operate_camera_frequently">Ви відкриваєте фронтальну камеру занадто часто.</string>
+     <string name="stop_operate_camera_frequently">Ви відкриваєте фронтальну камеру занадто часто</string>
      <string name="stopping_the_heat">Chushuben</string>
-     <string name="subinfo_default_name">SIM <xliff:g id="SLOT">%d</xliff:g></string>
+     <string name="subinfo_default_name">SIM %d</string>
      <string name="summer_begins">Початок літа</string>
      <string name="summer_solstice">День літнього сонцестояння</string>
      <string name="super_resolution_maintain_tips">Суперроздільна здатність ще недоступна.</string>
@@ -288,7 +288,7 @@
      <string name="unknown_caller">Невідомий абонент</string>
      <string name="user_switching_dialog_text">Перемикання\u2026</string>
      <string name="valentines_day">День Святого Валентина</string>
-     <string name="voice_begin">Що ви шукаєте?</string>
+     <string name="voice_begin">Що Ви шукаєте?</string>
      <string name="voice_button_action_down">Відпустіть для пошуку</string>
      <string name="voice_button_action_up">Натисніть і говоріть</string>
      <string name="voice_input_error_network">Не вдалося підключитися до мережі. Перевірте налаштування та повторіть спробу.</string>
