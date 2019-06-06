@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="edit_mode_top_menu_finish">Готово</string>
+     <string name="announce_for_search_bar">Рядок пошуку</string>
+     <string name="announce_for_xiaoai">Помічник</string>
+	 <string name="edit_mode_top_menu_finish">Готово</string>
      <string name="menu_finish">Готово</string>
      <string name="widgets_preview_title">Додати віджет</string>
 	 <string name="notification_reset_description">%1$s %1$s може скинути налаштування робочого столу до %2$s</string>

@@ -1,44 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="agps_apn_entries" tranlatable="false">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-     </string-array>
-     <string-array name="agps_apn_values" tranlatable="false">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="agps_network_entries" tranlatable="false">
-        <item>Домашня мережа</item>
-        <item>Всі мережі</item>
-     </string-array>
      <string-array name="agps_network_entries">
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
-     </string-array>
-     <string-array name="agps_network_values" tranlatable="false">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="agps_reset_type_entries" tranlatable="false">
-        <item>ГАРЯЧИЙ</item>
-        <item>ТЕПЛИЙ</item>
-        <item>ХОЛОДНИЙ</item>
      </string-array>
      <string-array name="agps_reset_type_entries">
         <item>ГАРЯЧИЙ</item>
         <item>ТЕПЛИЙ</item>
         <item>ХОЛОДНИЙ</item>
-     </string-array>
-     <string-array name="agps_reset_type_values" tranlatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="agps_si_mode_entries" mtranlatable="false">
-        <item>MSB</item>
-        <item>MSA</item>
      </string-array>
      <string-array name="ai_key_item_name">
         <item>Запуск Google асистенту</item>
@@ -360,12 +330,6 @@
         <item>, активно</item>
         <item>, активно (медіа)</item>
         <item>, активно (телефон)</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (стандартно)</item>
@@ -1287,11 +1251,6 @@
         <item>4.0 дюйми</item>
         <item>3.5 дюйми</item>
      </string-array>
-     <string-array name="handy_mode_size_value_entries" tranlatable="false">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-     </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Вимкнений</item>
         <item>Слабий</item>
@@ -2013,12 +1972,6 @@
         <item>Низька</item>
         <item>Середня</item>
         <item>Висока</item>
-     </string-array>
-     <string-array name="whetstone_level_values" tranlatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
      </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрування</item>

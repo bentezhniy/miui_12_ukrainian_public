@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="access_error">Запис неможливий у режимі \"Гість\"</string>
+     <string name="call_record_list_group_all">Усі</string>
+     <string name="call_record_list_group_connected">Підключені</string>
+     <string name="call_record_list_group_unconnected">Не підключені</string>
+     <string name="preference_status_bar_indicator_prompt">Показувати іконку в рядку стану під час запису</string>
+     <string name="shortcut_records">Записи</string>
+     <string name="shortcut_start_record">Почати запис</string>
+     <string name="shortcut_stop_record">Зупинити запис</string>
+	 <string name="access_error">Запис неможливий у режимі \"Гість\"</string>
      <string name="alert_message_clear_records">Видалити записи?</string>
      <string name="alert_message_delete_record">Видалити обраний запис?</string>
      <string name="alert_message_delete_record_title">Видалення запису</string>

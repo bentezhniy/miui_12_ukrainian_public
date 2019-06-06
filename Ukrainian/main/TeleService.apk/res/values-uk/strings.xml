@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="vowifi_emergency_notification_channel">Попередження</string>
+     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Авто WCDMA/GSM</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">Авто LTE/WCDMA/GSM</string>
+     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Тільки GSM</string>
+     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Тільки WCDMA</string>
+	 <string name="vowifi_emergency_notification_channel">Попередження</string>
      <string name="vowifi_emergency_notification_content">Екстрені виклики доступні лише в зоні дії стільникової мережі</string>
      <string name="vowifi_emergency_notification_title">Wi-Fi виклики Vodafone</string>
      <string name="vowifi_emergency_warning_check">"Запам'ятати"</string>
