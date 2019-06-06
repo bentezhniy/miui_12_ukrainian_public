@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="cleaner_similar_action">Видалити</string>
+     <string name="burst_image_download_item_title" formatted="false">Завантажити оригінальний файл? (%s|%s)</string>
+     <string name="burst_preview_title">Серійна зйомка</string>
+     <string name="burst_save_all">Зберегти все</string>
+     <string name="burst_save_choice_title" formatted="false">Вибрано %d із %d</string>
+     <string name="burst_save_confirm_dialog_title">Збереження фото</string>
+     <string name="burst_save_error_msg">Неможливо зберегти</string>
+     <string name="burst_save_processing">Збереження…</string>
+     <string name="decrypt_video_failed">Неможливо обробити відео</string>
+     <string name="decrypting_video">Обробка відео…</string>
+     <string name="editor_cancel">Скасувати</string>
+     <string name="editor_export">Зберегти</string>
+     <string name="editor_talkback_redo">Повторити</string>
+     <string name="editor_talkback_undo">Скасувати</string>
+     <string name="first_time_add_video_to_secret_tips">Оновіть Галерею для можливості приховати відео</string>
+     <string name="photo_editor_remove_watermark_on">Водяний знак</string>
+     <string name="photo_editor_talkback_crop_2_3">Два до трьох</string>
+     <string name="special_type_eye_repair">Закриті очі виправлено</string>
+     <string name="special_type_hdr">HDR</string>
+     <string name="special_type_night_beauty">Тон шкіри AI при слабкому освітленні</string>
+     <string name="special_type_night_mode">Нічний режим AI</string>
+     <string name="special_type_portrait">Портретна зйомка AI</string>
+     <string name="special_type_wide_angle">Ультра широкий кут AI</string>
+     <string name="video_editor_audio_antiquity">Ретро</string>
+     <string name="video_editor_audio_dream">Мрія</string>
+     <string name="video_editor_audio_electronics">Електро</string>
+     <string name="video_editor_audio_quiet">Тиша</string>
+     <string name="video_editor_audio_summertime">Літо</string>
+     <string name="video_editor_audio_vitality">Енергія</string>
+	 <string name="cleaner_similar_action">Видалити</string>
      <string name="cleaner_similar_description">Видалення дублікатів фото</string>
      <string name="cleaner_similar_title">Дублікати</string>
      <string name="cleaner_video_action">Видалити</string>

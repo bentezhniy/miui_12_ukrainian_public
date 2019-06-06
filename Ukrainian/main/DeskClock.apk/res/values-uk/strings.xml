@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="check_theme_app_install">Переконайтеся, що на пристрої встановлено програму \"Теми\"</string>
+     <string name="shortcut_new_alarm">Установити будильник</string>
+     <string name="shortcut_start_timer">Запустити таймер</string>
+     <string name="shortcut_stop_watch">Запустити секундомір</string>
+	 <string name="check_theme_app_install">Переконайтеся, що на пристрої встановлено програму \"Теми\"</string>
      <string name="check_voice_assist_app_version">Оновіть Mi AI до останньої версії</string>
      <string name="korea_permission_calendar">Календар</string>
      <string name="korea_permission_calendar_desc">Доступ до інформації про події</string>

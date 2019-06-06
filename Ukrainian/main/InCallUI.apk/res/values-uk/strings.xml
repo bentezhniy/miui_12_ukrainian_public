@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="supp_service_notification_call_waiting">Номер абонента зайнятий. Очікуйте на відповідь</string>
+     <string name="select_one_sim_title_for_heduohao">Можна використовувати тільки SIM %1$d Sub %2$d</string>
+     <string name="select_sim_hint_for_heduohao">Не можна використовувати інші, поки активна SIM %1$d Sub %2$d</string>
+     <string name="sim1_heduohao_card">Sub1</string>
+     <string name="sim2_heduohao_card">Sub2</string>
+     <string name="sim3_heduohao_card">Sub3</string>
+	 <string name="supp_service_notification_call_waiting">Номер абонента зайнятий. Очікуйте на відповідь</string>
      <string name="volte_call">Виклик VoLTE</string>
 	 <string name="call_not_support_high_frequency_click">Не натискайте цю кнопку занадто часто</string>
 	 <string name="volume_boost_text">Гучність збільшена</string>

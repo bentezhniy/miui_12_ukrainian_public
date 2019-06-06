@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Import">Імпорт</string>
+     <string name="pref_camera_zoom_mode_entry_macro">Макро</string>
+	 <string name="Import">Імпорт</string>
      <string name="access_sd_fail">Немає доступу до накопичувача</string>
      <string name="accessibilit_camera_video_switch_picker_and_state">Перемикання фото та відео камери (використовується %s)</string>
      <string name="accessibility_ai_scene_off">AI Камера вимкнена</string>
-     <string name="accessibility_ai_scene_on">AI rамера увімкнена</string>
+     <string name="accessibility_ai_scene_on">AI Камера увімкнена</string>
      <string name="accessibility_audio_shutter_bg">Фон аудіо зйомки</string>
      <string name="accessibility_back_preview_status">Перегляд основної камери</string>
      <string name="accessibility_beauty_panel_closed">Меню тону шкіри приховано</string>
@@ -21,7 +22,7 @@
      <string name="accessibility_camera_flashmode">Спалах вимкнений</string>
      <string name="accessibility_camera_lighting_close_panel">Меню ефектів освітлення закрито</string>
      <string name="accessibility_camera_lighting_open_panel">Відкрито меню ефектів освітлення</string>
-     <string name="accessibility_camera_liveshot_off">Динамічни знімки вимкнено</string>
+     <string name="accessibility_camera_liveshot_off">Динамічні знімки вимкнено</string>
      <string name="accessibility_camera_liveshot_on">Динамічні знімки увімкнено</string>
      <string name="accessibility_camera_picker">Перемикання камери</string>
      <string name="accessibility_camera_picker_finish">Камери перемкнуто</string>
@@ -113,7 +114,7 @@
      <string name="beauty_body_slim_count_tip">Мультизйомка недоступна для обраного режиму</string>
      <string name="beauty_body_whole">Тіло</string>
      <string name="beauty_clear">Очистити</string>
-     <string name="beauty_clear_toast">Ефекти Покращення видалені</string>
+     <string name="beauty_clear_toast">Ефекти Покращення видалено</string>
      <string name="beauty_fragment_tab_name_3d_beauty">Покращення</string>
      <string name="beauty_fragment_tab_name_3d_makeup">Макіяж</string>
      <string name="beauty_fragment_tab_name_3d_remodeling">Корекція</string>

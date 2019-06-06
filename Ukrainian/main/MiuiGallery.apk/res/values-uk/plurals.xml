@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="photo_count_format">
+     <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+     </plurals>
+     <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Зберегти %d обраних фото і видалити інші?</item>
+        <item quantity="one">Зберегти %d обране фото і видалити інші?</item>
+     </plurals>
+     <plurals name="burst_save_selected">
+        <item quantity="other">Зберегти %d обраних фото</item>
+        <item quantity="one">Зберегти %d обране фото</item>
+     </plurals>
+     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Видалити %d фото серійної зйомки з Mi Cloud і з усіх пристроїв?</item>
+        <item quantity="one">Видалити %d фото серійної зйомки з Mi Cloud і з усіх пристроїв?</item>
+     </plurals>
+     <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Видалити %d фото серійної зйомки?</item>
+        <item quantity="one">Видалити %d фото серійної зйомки?</item>
+     </plurals>
+     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Видалити %d фото серійної зйомки з Mi Cloud і з цього пристрою?</item>
+        <item quantity="one">Видалити %d фото серійної зйомки з Mi Cloud і з цього пристрою?</item>
+     </plurals>
+     <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Видалити %d фото серійної зйомки з цього пристрою?</item>
+        <item quantity="one">Видалити %d фото серійної зйомки з цього пристрою?</item>
+     </plurals>
+	 <plurals name="photo_count_format">
         <item quantity="other">%1$d фото</item>
         <item quantity="one">%1$d фото</item>
         <item quantity="few">%1$d фото</item>

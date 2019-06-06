@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="dirty_contacts_count">
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d частих фраз</item>
+        <item quantity="one">%d часта фраза</item>
+        <item quantity="few">%d часті фрази</item>
+     </plurals>
+	<plurals name="dirty_contacts_count">
         <item quantity="other">контактів: %d </item>
         <item quantity="one">контактів: %d</item>
     </plurals>
