@@ -5,7 +5,7 @@
 	 <string name="dialog_backup_password_auto_backup_tips">Перед резервним копіюванням вимкніть пароль бекапу</string>
      <string name="dialog_backup_password_change_device_restore_tips">Вимкніть пароль бекапу перед використанням Mi Mover</string>
      <string name="dialog_backup_password_restore_tips">Перед відновленням вимкніть пароль бекапу</string>
-     <string name="iCloud_ID_verification_tip">Введіть код підтвердження з SMS, відправлений на номер телефону, прив'язаний до вашого Apple ID</string>
+     <string name="iCloud_ID_verification_tip">Введіть код підтвердження з SMS, відправлений на номер телефону, прив\'язаний до вашого Apple ID</string>
      <string name="trans_complete_restoring">Передачу завершено. Відновлення даних…</string>
 	 <string name="abort_backup_confirm">Скасувати створення бекапу?</string>
      <string name="abort_restore_confirm">Зупинити відновлення?</string>
