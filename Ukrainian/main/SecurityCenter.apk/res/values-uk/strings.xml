@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="app_manager_thumbnail_blur_summary">Розмиття ескізів в меню нещодавніх програм</string>
+     <string name="app_manager_thumbnail_blur_title">Розмиття в меню нещодавніх</string>
+     <string name="power_center_battery_last">Залишилося %s</string>
+     <string name="power_center_dialog_msg_bottom">Ви можете продовжити автономність до %1$d год. %2$d хв. Увімкнути енергозбереження?</string>
+     <string name="power_center_dialog_msg_top">При увімкненні виконуватимуться наступні дії:</string>
+     <string name="power_center_one_key_save">Оптимізація</string>
+     <string name="power_center_power_save_summary_text">Збільшення автономності до %1$d год. %2$d хв.</string>
+     <string name="power_center_power_save_title_text">Енергозбереження</string>
+     <string name="power_center_super_save_summary_text">Збільшення автономності до %1$d год. %2$d хв.</string>
+     <string name="power_center_super_save_title_text">Ультра енергозбереження</string>
+     <string name="power_dialog_super_save_msg">Режим ультра енергозбереження обмежує більшість функцій і процесів, що витрачають заряд, а такод знижує працездатність пристрою, щоб забезпечити довшу автономність для основних функцій, таких як виклики, повідомлення та інтернет.</string>
+     <string name="power_dialog_super_save_title">Увімкнути ультра енергозбереження?</string>
+     <string name="power_setting_background_app_save_summary">Обмеження фонової активності програм</string>
+     <string name="power_setting_background_app_save_title">Фоновий режим</string>
+     <string name="power_setting_category_other">Додатково</string>
+     <string name="power_setting_power_save_summary_text">Оптимізація системних налаштувань для економії заряду батареї</string>
+     <string name="power_setting_super_save_summary_text">Обмеження більшості функцій і процесів для економії заряду батареї</string>
+     <string name="power_settings_lock_screen_saver_title">Налаштування блокування екрану</string>
+     <string name="quick_optimize_sub_battery_text">Залишилося приблизно %s</string>
+     <string name="quick_optimize_sub_summary_with_battery_text">Додано %1$s | Залишилося %2$s</string>
+     <string name="user_guide">Проведіть вгору, щоб отримати більше ігор.</string>
+     <string name="user_guide_title">Вибір джойстика</string>
      <string name="gb_add_game_hint">Додати із списку програм</string>
      <string name="gb_global_settings">Спільні налаштування</string>
 	 <string name="qucick_replay_instrument">Використовуйте швидкі відповіді в повідомленнях для обраних програм</string>
