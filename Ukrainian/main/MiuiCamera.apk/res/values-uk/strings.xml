@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="module_name_pixel">48 Мп</string>
      <string name="pref_camera_zoom_mode_entry_macro">Макро</string>
-	 <string name="Import">Імпорт</string>
+     <string name="Import">Імпорт</string>
      <string name="access_sd_fail">Немає доступу до накопичувача</string>
      <string name="accessibilit_camera_video_switch_picker_and_state">Перемикання фото та відео камери (використовується %s)</string>
      <string name="accessibility_ai_scene_off">AI Камера вимкнена</string>
