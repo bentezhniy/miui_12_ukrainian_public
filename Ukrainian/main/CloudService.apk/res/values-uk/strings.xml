@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="micloud_request_sync_too_frequent">Забагато запитів. Повторіть спробу пізніше.</string>
+     <string name="system_busy_or_network_error">Помилка сервера</string>
+     <string name="waiting_for_sync">Очікування…</string>
      <string name="access_denied">Доступ заборонений</string>
      <string name="account">Акаунт</string>
      <string name="account_related">"Ваш пристрій прив\'язано до Mi акаунту (%s). Підключіться до інтернету для активації пристрою."</string>
