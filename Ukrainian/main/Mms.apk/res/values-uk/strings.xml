@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	 <string name="allow_network_hint">Необхідний доступ до інтернету</string>
+     <string name="dialog_complain_tips">Надайте додатку доступ до інтернету для надсилання звітів</string>
+     <string name="allow_network_hint">Необхідний доступ до інтернету</string>
      <string name="already_updated">Оновлення вже інстальовано</string>
      <string name="button_close">Вимкнути</string>
      <string name="click_to_update">Перевірити оновлення</string>
