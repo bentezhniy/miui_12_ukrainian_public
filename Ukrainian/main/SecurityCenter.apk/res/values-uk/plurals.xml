@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">"%s дн. "</item>
+        <item quantity="one">"%s дн. "</item>
+     </plurals>
+     <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">"%s год. "</item>
+        <item quantity="one">"%s год. "</item>
+     </plurals>
+     <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
+     </plurals>
      <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Додати %d хвилин</item>
         <item quantity="one">Додати %d хвилину</item>
