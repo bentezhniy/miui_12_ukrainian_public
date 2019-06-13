@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="asend">Надсилання</string>
+     <string name="child">Дитинство</string>
+     <string name="citylight">Вогні міста</string>
+     <string name="countryside">Кантрі</string>
+     <string name="dance">Танець</string>
+     <string name="expect">Очікування</string>
+     <string name="frenchchic">Французький шик</string>
+     <string name="game">Гра</string>
+     <string name="glorious">Слава</string>
+     <string name="greenandblue">Зелений і синій</string>
+     <string name="hallofmemories">Зала спогадів</string>
+     <string name="hawaii">Гаваї</string>
+     <string name="makewishes">Бажання</string>
+     <string name="martix">Martix</string>
+     <string name="monet">Монета</string>
+     <string name="passionflower">Квітка пристрасті</string>
+     <string name="robot">Робот</string>
+     <string name="secretgarden">Секретний сад</string>
+     <string name="surprise">Сюрприз</string>
      <string name="dewdrops">Краплі роси</string>
-	 <string name="alwaysUsePrompt">"Запам'ятати"</string>
-	 <string name="miclassic">MiClassic</string>
+     <string name="alwaysUsePrompt">"Запам'ятати"</string>
+     <string name="miclassic">MiClassic</string>
      <string name="app_no_notification">Повідомлення відключені</string>
      <string name="app_notificaiton_on_notificationbar">Панель сповіщень</string>
      <string name="app_notificaiton_on_statusBar_and_notificationbar">Панель сповіщень і екран блокування</string>
