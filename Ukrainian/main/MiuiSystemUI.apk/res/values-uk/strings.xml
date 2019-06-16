@@ -1666,8 +1666,8 @@
      <string name="notification_more_settings">Більше налаштувань</string>
      <string name="notification_num_channels">Категорії сповіщень (%d)</string>
      <string name="notification_tap_again">Натисніть знову, щоб відкрити</string>
-     <string name="open_camera_hint_text">Посуньте вліво, щоб відкрити камеру</string>
-     <string name="open_remote_center_hint_text">Посуньте вправо, щоб відкрити Mi пульт</string>
+     <string name="open_camera_hint_text">Посуньте ліворуч, щоб відкрити камеру</string>
+     <string name="open_remote_center_hint_text">Посуньте праворуч, щоб відкрити меню</string>
      <string name="other">Інше</string>
      <string name="overview">Огляд</string>
      <string name="phone_hint">Проведіть від іконки, щоб відкрити телефон</string>
