@@ -68,16 +68,9 @@
      <string name="ims_reg_status_not_registered">"Не зареєстрований"</string>
      <string name="ims_reg_status_registered">"Зареєстрований"</string>
      <string name="ims_reg_title">"Статус реєстрації сервісу IMS"</string>
-     <string name="keyguard_charging_info_data_c">%s℃</string>
-     <string name="keyguard_charging_info_data_ma">%s мА</string>
-     <string name="keyguard_charging_info_data_percent">%s%%</string>
-     <string name="keyguard_charging_info_data_v">%s В</string>
      <string name="keyguard_charging_normal_and_level_tip">Зарядка %d%%</string>
      <string name="keyguard_charging_quick_and_level_tip">Швидка зарядка %d%%</string>
      <string name="keyguard_charging_super_quick_and_level_tip">Супер швидка зарядка %d%%</string>
-     <string name="keyguard_fancy_colon"></string>
-     <string name="keyguard_more_overflow_text">"+%d"</string>
-     <string name="list_delimeter">", "</string>
      <string name="lock_screen_date_two_lines">"EEEE
 d MMMM"</string>
      <string name="lock_screen_date_two_lines_12">"EEEE
@@ -88,20 +81,9 @@ d MMMM"</string>
      <string name="lock_screen_magazine_global_button_text">Ще</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Ще</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Відкрити</string>
-     <string name="miui_ringer_count_down_time">%s</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="notification_channel_dnd">Не турбувати</string>
      <string name="okay">"ОК"</string>
      <string name="open_lock_screen_magazine_hint_text">Проведіть праворуч для додаткових функцій</string>
-     <string name="pip_menu_bounds">596 280 1324 690</string>
-     <string name="pip_settings_bounds">662 756 1142 1026</string>
-     <string name="power_charging">%1$s – %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-     <string name="power_charging_duration_short">%1$s – %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
      <string name="power_discharge_by">"Заряду (%2$s) вистачить приблизно до %1$s"</string>
      <string name="power_discharge_by_enhanced">"За поточного рівня використання (%2$s) заряду вистачить приблизно до %1$s"</string>
      <string name="power_discharge_by_only">"Заряду вистачить приблизно до %1$s"</string>
@@ -124,7 +106,6 @@ d MMMM"</string>
      <string name="private_dns_mode_provider">"Ім'я хоста постачальника персонального DNS-сервера"</string>
      <string name="private_dns_mode_provider_failure">"Помилка підключення"</string>
      <string name="private_dns_mode_provider_hostname_hint">"Введіть ім'я хоста постачальника послуг DNS"</string>
-     <string name="process_kernel_label">ОС Android</string>
      <string name="rapid_charge_mode_tip">Швидка зарядка</string>
      <string name="recents_title_app_manager">Програми</string>
      <string name="recents_title_game">Ігри</string>
@@ -141,7 +122,6 @@ d MMMM"</string>
      <string name="speed_label_very_fast">"Дуже швидка"</string>
      <string name="speed_label_very_slow">"Дуже повільна"</string>
      <string name="standby_bucket_summary">"Статус програми в режимі очікування: %s"</string>
-     <string name="status_bar_network_name_separator">|</string>
      <string name="status_unavailable">"Недоступно"</string>
      <string name="structure_face_unlock_tof_covered">Неможливо додати дані обличчя. Тримайте пристрій далі від обличчя</string>
      <string name="tethering_hardware_offload">"Апаратне прискорення в режимі модема"</string>
@@ -152,7 +132,6 @@ d MMMM"</string>
      <string name="usb_port_short_circuit_recovered_content">Ви можете використовувати його для зарядки чи підключення до інших пристроїв</string>
      <string name="usb_port_short_circuit_recovered_title">USB-порт працює нормально</string>
      <string name="usb_port_short_circuit_title">До USB-порту потрапила волога</string>
-     <string name="velocity_tracker_impl">platform</string>
      <string name="wapi_all_sel_mode">Виберіть режим</string>
      <string name="wapi_auto_sel_cert">Автоматичний вибір</string>
      <string name="zen_interruption_level_priority">"Лише важливі"</string>
