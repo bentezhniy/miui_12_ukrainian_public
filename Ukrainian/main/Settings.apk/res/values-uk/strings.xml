@@ -86,10 +86,8 @@
      <string name="bluetooth_unpair_dialog_body">"З'єднання з пристроєм \"%1$s\" буде перервано"</string>
      <string name="bluetooth_unpair_dialog_forget_confirm_button">"ОК"</string>
      <string name="bluetooth_unpair_dialog_title">"Перервати з'єднання?"</string>
-     <string name="bootloader_unlock_webhome">https://miui.su/faq/informatsiya-o-zablokirovannom-bootloader-i-ego-razblokirovke</string>
      <string name="button_text_known">ОК</string>
      <string name="call_and_contact">Дзвінки і контакти</string>
-     <string name="call_manager_summary">%1$s</string>
      <string name="call_volume_option_title">"Гучність виклику"</string>
      <string name="camera_laser_sensor_switch">"Лазерний датчик камери"</string>
      <string name="card_main_hbassistant_title">Червоний конверт;червоний пакет;гроші</string>
@@ -206,9 +204,7 @@
      <string name="dialog_stop_ok">"Зупинити"</string>
      <string name="dialog_stop_title">"Зупинити програму?"</string>
      <string name="dialog_title_auto_start_declare">Інформація про автозапуску</string>
-     <string name="digital_clock_dot">:</string>
      <string name="directory_access">"Доступ до каталогами"</string>
-     <string name="directory_on_volume">"%1$s (%2$s)"</string>
      <string name="disable_encrypt_description">Не шифрувати</string>
      <string name="disabled_by_policy_title_suspend_packages">"Неможливо відкрити програма"</string>
      <string name="disabled_by_policy_title_turn_off_backups">"Неможливо відключити резервне копіювання"</string>
@@ -217,7 +213,6 @@
      <string name="display_cutout_emulation">"Емуляція екрану з вирізом"</string>
      <string name="display_cutout_emulation_keywords">"виріз на екрані, виїмка"</string>
      <string name="display_cutout_emulation_none">"Немає"</string>
-     <string name="dndm_auto_time_setting_summary">З %1$s до %2$s</string>
      <string name="double_tap_power_for_camera_suggestion_title">"Швидке увімкнення камери"</string>
      <string name="double_twist_for_camera_suggestion_title">"Швидке увімкнення фронтальної камери"</string>
      <string name="doze_always_on_summary">"Показувати час, значки повідомлень та іншу інформацію (батарея розряджається швидше)"</string>
@@ -256,7 +251,6 @@
      <string name="fingerprint_delete_title">"Видалити \"%1$s\"?"</string>
      <string name="fingerprint_gesture_screen_title">"Сканер відбитків"</string>
      <string name="fingerprint_swipe_for_notifications_suggestion_title">"Швидкий перегляд повідомлень"</string>
-     <string name="firmware_title">"Android"</string>
      <string name="flash_drive_backup_btn">Бекап на USB-накопичувач</string>
      <string name="flash_drive_backup_note">"Бекап додатки на USB-накопичувач.
 Переконайтеся, що на ньому достатньо місця"</string>
