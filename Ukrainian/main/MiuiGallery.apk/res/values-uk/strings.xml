@@ -1601,8 +1601,8 @@
      <string name="rotate">Поворот</string>
      <string name="rotate_tooltip">Щоб повернути фото, перетягніть його край</string>
      <string name="runtime_permission_ungranted">Галерея закрита через відсутність необхідного дозволу</string>
-     <string name="same_name_album_exist_and_toast">Альбом із таким ім\`ям уже існує. Створено альбом \"%s\"</string>
-     <string name="same_name_album_exists_alert">"Альбом з таким ім\'ям вже існує. Завантажувати фото в альбом автоматично?"</string>
+     <string name="same_name_album_exist_and_toast">"Альбом із таким ім'ям уже існує. Створено альбом \"%s\""</string>
+     <string name="same_name_album_exists_alert">"Альбом з таким ім'ям вже існує. Завантажувати фото в альбом автоматично?"</string>
      <string name="saturation">Насиченість</string>
      <string name="saturation_abbr">Н</string>
      <string name="save">Зберегти</string>

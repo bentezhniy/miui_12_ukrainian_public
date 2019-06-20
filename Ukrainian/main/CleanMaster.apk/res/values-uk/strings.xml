@@ -293,7 +293,7 @@
      <string name="hints_list_item_lock">Блокувати</string>
      <string name="hints_list_item_unlock">Очищення</string>
      <string name="hints_loading_text">Завантаження…</string>
-     <string name="hints_memory_header_left">Пам\`ять</string>
+     <string name="hints_memory_header_left">"Пам'ять"</string>
      <string name="hints_num">0</string>
      <string name="hints_privacy_header_left">Конфіденційність: %d</string>
      <string name="hints_quick_cleanning">Очищення…</string>
@@ -306,7 +306,7 @@
      <string name="hints_residual_header_left">Сміття</string>
      <string name="hints_scan_has_finish">Очищення завершено</string>
      <string name="hints_scanfinish">Очищення не потрібне</string>
-     <string name="hints_storage_clean_size">Звільнено пам\`яті: %s</string>
+     <string name="hints_storage_clean_size">"Звільнено пам'яті: %s"</string>
      <string name="hints_storage_free">Вільно</string>
      <string name="hints_storage_free_size">Всього: %1$s | Вільно: %2$s</string>
      <string name="hints_storage_news">Новини безпеки</string>
@@ -414,7 +414,7 @@
      <string name="mainbtn_text_quick_cleanup">Очистити %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Очищення</string>
      <string name="megabyteShort">" МБ"</string>
-     <string name="memeory_check_content">Програм: %1$d | Пам\`яті: %2$s</string>
+     <string name="memeory_check_content">"Програм: %1$d | Пам'яті: %2$s"</string>
      <string name="memory_clean_icon_text">Очищення ОЗП</string>
      <string name="memory_clean_no_trash_tip">Очищення непотрібне</string>
      <string name="menu_add_to_white_list">Додати до виключень</string>
@@ -554,7 +554,7 @@
      <string name="safety_check_detail">Кількість: %1$d | Очків: %2$d</string>
      <string name="safety_rank">Ви випереджуєте %d%% користувачів MIUI в плані безпеки</string>
      <string name="sc_allow_network_dialog_button">Дозволити</string>
-     <string name="sc_allow_network_dialog_message">Дозволити програмі під\`єднуватися до інтернету для отримання оновлень?</string>
+     <string name="sc_allow_network_dialog_message">"Дозволити програмі під'єднуватися до інтернету для отримання оновлень?"</string>
      <string name="scanning">Сканування…</string>
      <string name="search_history">Історія пошуку</string>
      <string name="security_center_slogan">Безпека. Завжди на варті.</string>

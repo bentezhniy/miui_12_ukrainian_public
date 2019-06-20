@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="abc_action_bar_home_description">Додому</string>
+     <string name="about_app_name">Про теми</string>
+     <string name="about_version_update">Перелік змін</string>
+     <string name="already_latest_version">Оновлення відсутні</string>
+     <string name="character_counter_content_description">о ліміт символів %1$d з %2$d</string>
+     <string name="check_has_new_version">Доступне оновлення</string>
+     <string name="common_applying">Застосування…</string>
+     <string name="common_downloading">Завантаження…</string>
+     <string name="common_format_date_no_year">d MMM</string>
+     <string name="common_skip">Пропустити</string>
+     <string name="current_version">Поточна версія: %1$s</string>
+     <string name="goto_purchased_list">Історія платежів</string>
+     <string name="goto_wechat">Акаунт WeChat \"%1$s\" скопійовано. Відкрити WeChat?</string>
+     <string name="lock_screen_apply">Встановити на екран блокування</string>
+     <string name="mtrl_chip_close_icon_content_description">Видалення %1$s</string>
+     <string name="network_exception">Неможливо підключитися до інтернету</string>
+     <string name="official_accounts">WeChat</string>
+     <string name="resource_is_off_shelf_can_not_share">Неможливо поділитися. Ресурс більше не доступний</string>
+     <string name="service_btn_text_know">ОК</string>
+     <string name="service_btn_text_try">Спробувати</string>
+     <string name="theme_comment_dialog_cancel">Пізніше</string>
+     <string name="version_update">Перевірити оновлення</string>
+     <string name="wechat_not_found">Спочатку встановіть WeChat</string>
+     <string name="weibo">Weibo</string>
+     <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Неможливо запустити завантаження</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Нова версія: %1$s
+Розмір: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Нова версія: %1$s
+Розмір оновлення: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">Оновлення %1$s</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">"Пам'ять недоступна. Перевірте SD-карту"</string>
+     <string name="xiaomi_update_sdk_kilobytes_unit">%1$s кБ</string>
+     <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
+	 <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Назад</string>
@@ -227,7 +260,7 @@
      <string name="incall_show_remove_success">Відео профілю видалено</string>
      <string name="incall_show_title">Відео профілю</string>
      <string name="incompatible_dialog_cancel">Не застосовувати</string>
-     <string name="incompatible_dialog_message">Ця тема сумісна з MIUI 8 частково. Деякі елементи можуть відображатися некоректно.</string>
+     <string name="incompatible_dialog_message">Ця тема сумісна з поточною версією MIUI частково. Деякі елементи можуть відображатися некоректно</string>
      <string name="incompatible_dialog_ok">ОК</string>
      <string name="incompatible_dialog_title">Проблеми із сумісністю</string>
      <string name="internal_online_precust_gorgeous_black_name">Cool Black</string>

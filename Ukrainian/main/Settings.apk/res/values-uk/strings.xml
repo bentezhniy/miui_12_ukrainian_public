@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="close_privacy_thumbnail_blur_title">Розмиття вимкнено</string>
+     <string name="choose_unlock_fingerprint_msg">Спочатку необхідно встановити блокування екрану</string>
+	 <string name="dark_color_summary_lcd">Використовувати темний режим для системних і сумісних програм.  Він дозволить зняти напругу очей, коли Ви використовуєте пристрій в темряві</string>
+     <string name="dark_color_summary_oled">Використовувати темний режим для системних і сумісних програм.  Він дозволить знизити споживання заряду батареї, а також зняти напругу очей, коли Ви використовуєте пристрій в темряві</string>
+     <string name="popup_led_summary">Показувати анімацію при появі і приховуванні камери</string>
+     <string name="popup_led_title">Візуальні ефекти</string>
+     <string name="popup_title">Ефекти фронтальної камери</string>
+     <string name="popup_title_cangmen">Двері</string>
+     <string name="popup_title_chilun">Шестірня</string>
+     <string name="popup_title_jijia">Пульс</string>
+     <string name="popup_title_mofa">Магія</string>
+     <string name="popup_title_muqin">Ксилофон</string>
+     <string name="popup_title_yingyan">Кондор</string>
+     <string name="popup_voice_summary">Відтворювати звук при появі і приховуванні камери</string>
+     <string name="popup_voice_title">Звуковий ефект</string>
+     <string name="usage_app_get_it">ОК</string>
+     <string name="usage_app_limit_alter_summary">Сьогодні Ви користувалися програмою довше обраного часу.  Все одно встановити сповіщення?</string>
+     <string name="usage_app_limit_alter_title">Попередження</string>
+     <string name="usage_app_limit_prelong">Продовжити</string>
+     <string name="usage_app_limit_reach_summay">Залишилося %s</string>
+     <string name="usage_app_limit_reach_title">Перевищений час екрану %s</string>
+     <string name="usage_app_limit_summary">Вибрані програми не будуть доступні при досягненні межі часу екрану</string>
+     <string name="usage_app_limit_title">Обмеження часу екрану</string>
+     <string name="usage_app_other_settings">Додатково</string>
+     <string name="usage_app_over_content">Сьогодні Ви використовували цей додаток вже %s</string>
+     <string name="usage_app_over_summary">Перевищена межа часу екрану</string>
+     <string name="usage_app_set_limit_time">Встановити межу</string>
+     <string name="usage_app_system_app_summary">Не можна обмежити час екрану для системних програм</string>
+     <string name="usage_app_weekday_limit">Будні</string>
+     <string name="usage_app_weekend_limit">Вихідні</string>
+	 <string name="popup_gesture_summary">Підніміть пристрій і подивіться на екран, щоб відкрити фронтальну камеру</string>
+     <string name="popup_gesture_title">Відкривати камеру при підйомі</string>
+	 <string name="close_privacy_thumbnail_blur_title">Розмиття вимкнено</string>
      <string name="confirm_fingerprint">Підтвердіть відбиток</string>
      <string name="confirm_password_with_fingerprint">Використовувати відбиток</string>
      <string name="confirm_password_with_password">Ввести пароль</string>

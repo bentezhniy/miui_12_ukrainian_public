@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">Застосовано на %1$d пристроїв</item>
+        <item quantity="one">Застосовано на %1$d пристрій</item>
+        <item quantity="few">Застосовано на %1$d пристрої</item>
+    </plurals>	
 	<plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Доступно оновлень тем: %1$d</item>
         <item quantity="one">Доступно оновлень тем: %1$d</item>

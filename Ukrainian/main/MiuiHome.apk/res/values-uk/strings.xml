@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="announce_for_search_bar">Рядок пошуку</string>
+     <string name="activity_not_unlocked">Дочекайтесь повного завантаження пристрою</string>
+     <string name="default_folder_title_meitu">Meitu</string>
+     <string name="shake_to_align_icons">Потрусіть пристрій для заповнення пустих комірок</string>
+     <string name="shake_to_align_icons_summary">Потрусіть пристрій в режимі редагування робочого столу, щоб автоматично заповнювати комірки ярликами</string>
+     <string name="shake_to_align_icons_title">Заповнення комірок струшуванням</string>
+	 <string name="announce_for_search_bar">Рядок пошуку</string>
      <string name="announce_for_xiaoai">Помічник</string>
 	 <string name="edit_mode_top_menu_finish">Готово</string>
      <string name="menu_finish">Готово</string>

@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="pc_main_power_center_battery_day">
+     <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s дн. до повної зарядки</item>
+        <item quantity="one">%s дн. до повної зарядки</item>
+     </plurals>
+     <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s год. до повної зарядки</item>
+        <item quantity="one">%s год. до повної зарядки</item>
+     </plurals>
+     <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s дн. до повної зарядки</item>
+        <item quantity="one">%s год. до повної зарядки</item>
+     </plurals>
+     <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Залишилося %s дн.</item>
+        <item quantity="one">Залишилося %s дн.</item>
+     </plurals>
+     <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Залишилося %s год.</item>
+        <item quantity="one">Залишилося %s год.</item>
+     </plurals>
+     <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">Залишилося %s хв.</item>
+        <item quantity="one">Залишилося %s хв.</item>
+     </plurals>
+     <plurals name="power_main_battery_last_day">
+        <item quantity="other">Залишилося %s дн.</item>
+        <item quantity="one">Залишилося %s дн.</item>
+     </plurals>
+     <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Залишилося %s год.</item>
+        <item quantity="one">Залишилося %s год.</item>
+     </plurals>
+     <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Залишилося %s год.</item>
+        <item quantity="one">Залишилося %s год.</item>
+     </plurals>
+	 <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">"%s дн. "</item>
         <item quantity="one">"%s дн. "</item>
      </plurals>

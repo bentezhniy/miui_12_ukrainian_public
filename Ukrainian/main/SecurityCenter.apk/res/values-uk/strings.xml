@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_manager_thumbnail_blur_summary">Розмиття ескізів в меню нещодавніх програм</string>
+     <string name="button_dark_mode">Виправити</string>
+     <string name="pc_main_battery_text_day">Додано %1$s хв. | Залишилося: %2$s дн.</string>
+     <string name="pc_main_battery_text_day_hour">Додано %1$s хв. | Залишилося: %2$s дн. %3$s год.</string>
+     <string name="pc_main_battery_text_hour">Додано %1$s хв. | Залишилося: %2$s год.</string>
+     <string name="pc_main_battery_text_hour_minute">Додано %1$s хв. | Залишилося: %2$s дн. %3$s хв.</string>
+     <string name="pc_main_battery_text_minute">Додано %1$s хв. | Залишилося: %2$s хв.</string>
+     <string name="pc_main_power_manager_day_hour">%1$s дн. %2$s год. до повної зарядки</string>
+     <string name="pc_main_power_manager_hour_minute">%1$s год. %2$s хв. до повної зарядки</string>
+     <string name="pc_main_sub_battery_text_day_hour">Залишилося %1$s дн. %2$s год.</string>
+     <string name="pc_main_sub_battery_text_hour_minute">Залишилося %1$s год. %2$s хв.</string>
+     <string name="power_main_battery_last_day_hour">Залишилося %1$s дн. %2$s год.</string>
+     <string name="power_main_battery_last_hour_minute">Залишилося %1$s год. %2$s хв.</string>
+     <string name="summary_dark_mode">Деякі сторінки відображаються темними через сторонні сервіси</string>
+     <string name="title_dark_mode">Деякі елементи відображаються некоректно</string>
+     <string name="toast_dark_mode_fixed">Виправлено. Відкрийте сторінку заново</string>
+	 <string name="app_manager_thumbnail_blur_summary">Розмиття ескізів в меню нещодавніх програм</string>
      <string name="app_manager_thumbnail_blur_title">Розмиття в меню нещодавніх</string>
      <string name="power_center_battery_last">Залишилося %s</string>
      <string name="power_center_dialog_msg_bottom">Ви можете продовжити автономність до %1$d год. %2$d хв. Увімкнути енергозбереження?</string>

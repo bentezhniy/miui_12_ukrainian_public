@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	 <string name="cta_dialog_text_new_user">Перед використанням необхідно погодитися з %1$s\"Угодою користувача\"%2$s, %3$s\"Політикою конфіденційності Xiaomi\"%4$s та %5$s\"Політикою конфіденційності програми\"%6$s. Для коректної роботи необхідне інтернет-підключення</string>
+     <string name="cta_dialog_text_old_user">Перед використанням необхідно погодитися з %1$s\"Угодою користувача\"%2$s</string>
 	 <string name="favorite_title_modify_failed">"Неможливо змінити ім'я"</string>
      <string name="miot_device_personal_assistant_eula">Угоду користувача</string>
      <string name="miot_device_personal_assistant_eula_priv">" та "</string>

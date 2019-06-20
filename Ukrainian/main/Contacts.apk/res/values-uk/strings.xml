@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="account_dual_sdn">SDN %s</string>
+     <string name="contact_is_deleted">Контакт видалено</string>
+     <string name="description_image_button_fuhao_named_dial">Виклик Sub</string>
+     <string name="heduohao_fuhao_call_menu_title">Виклик на sub%d</string>
+     <string name="heduohao_main_call_menu_title">Виклик на головній</string>
+	 <string name="account_dual_sdn">SDN %s</string>
      <string name="account_dual_sim">SIM-карта %s</string>
      <string name="description_image_button_sim1_named_dial">Виклик з SIM1 %s</string>
      <string name="description_image_button_sim2_named_dial">Виклик з SIM2 %s</string>
@@ -254,7 +258,7 @@
      <string name="contact_detail_miprofile_accept_fail_toast">Неможливо обмінятися візитками</string>
      <string name="contact_detail_miprofile_accept_success_toast">Обмін візитками завершено</string>
      <string name="contact_detail_miprofile_binded_label">Додано</string>
-     <string name="contact_detail_miprofile_exchange_closed">"Номер телефону не прив\`язано до цього Mi акаунту.
+     <string name="contact_detail_miprofile_exchange_closed">"Номер телефону не прив'язано до цього Mi акаунту.
 
 Візитки вимкнені."</string>
      <string name="contact_detail_miprofile_privacy_settings">Перегляд візитки за запитом</string>
@@ -268,7 +272,7 @@
      <string name="contact_detail_miprofile_settings_header">Налаштування обміну</string>
      <string name="contact_detail_miprofile_subtitle">Обмін візитками вже здійснено</string>
      <string name="contact_detail_picture_description">Змінити фото</string>
-     <string name="contact_detail_profile_switch_fail_network_toast">Неможливо під\`єднатися до інтернету</string>
+     <string name="contact_detail_profile_switch_fail_network_toast">"Неможливо під'єднатися до інтернету"</string>
      <string name="contact_detail_profile_switch_fail_toast">Помилка сервера</string>
      <string name="contact_detail_profile_switch_off">Вимкнути візитки</string>
      <string name="contact_detail_profile_switch_off_fail_toast">Неможливо вимкнути візитки</string>
@@ -813,9 +817,9 @@
      <string name="merge_contact_message"> Контактів, що дублюються: %1$d</string>
      <string name="messageShortcutActivityTitle">Вибрати номер для надсилання повідомлення</string>
      <string name="miprofile_account_type">Mi акаунт</string>
-     <string name="miprofile_alertdialog_edit">Введіть ім\`я</string>
-     <string name="miprofile_alertdialog_message">Показувати це ім\`я контактам при запиті візитки</string>
-     <string name="miprofile_alertdialog_title">Уведіть ім\`я</string>
+     <string name="miprofile_alertdialog_edit">"Введіть ім'я"</string>
+     <string name="miprofile_alertdialog_message">"Показувати це ім'я контактам при запиті візитки"</string>
+     <string name="miprofile_alertdialog_title">"Уведіть ім'я"</string>
      <string name="miprofile_bind_account_alertdialog_message">Необхідно додати номер телефону в Mi акаунт для використання цієї функції</string>
      <string name="miprofile_bind_account_alertdialog_positive">Додати номер</string>
      <string name="miprofile_bind_account_alertdialog_title">Додати номер телефону</string>
@@ -1192,10 +1196,10 @@
      <string name="quick_dial_setting_set_dialog_option_set">ОК</string>
      <string name="quick_dial_setting_title">Швидкий набір</string>
      <string name="quickcontact_missing_app">Немає програми для виконання цієї дії</string>
-     <string name="quit_dialog_confirm_message">У Вас немає об\`єднаних контактів</string>
-     <string name="quit_dialog_confirm_title">Вийти з режиму об\'єднання?</string>
+     <string name="quit_dialog_confirm_message">"У Вас немає об'єднаних контактів"</string>
+     <string name="quit_dialog_confirm_title">"Вийти з режиму об'єднання?"</string>
      <string name="rcs_account_type_title">Акаунт конвергентних мереж</string>
-     <string name="rcs_contact_detail_profile_binded_label">"Прив\'язано"</string>
+     <string name="rcs_contact_detail_profile_binded_label">"Прив'язано"</string>
      <string name="rcs_fetion_not_exist">Конвергентні мережі не знайдені</string>
      <string name="rcs_group_chat_name">Груповий чат</string>
      <string name="rcs_profile_name">Моя візитка конвергентних мереж</string>

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="aod_dual_togother_city">
+     <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Запит пароля через %d годин бездіяльності</item>
+        <item quantity="one">Запит пароля через %d годину бездіяльності</item>
+        <item quantity="few">Запит пароля через %d години бездіяльності</item>
+     </plurals>
+     <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Запит ключа через %d годин бездіяльності</item>
+        <item quantity="one">Запит ключа через %d годину бездіяльності</item>
+        <item quantity="few">Запит ключа через %d години бездіяльності</item>
+     </plurals>
+     <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Підключено %1$d пристроїв</item>
+        <item quantity="one">Підключено %1$d пристрій</item>
+        <item quantity="few">Підключено %1$d пристрої</item>
+     </plurals>
+	 <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s год. %2$s"</item>
      </plurals>
 	 <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">

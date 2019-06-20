@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="module_name_pixel">48 МП</string>
+     <string name="accessibility_ultra_pixel_photography_64mp_off">64 МП вимкнено</string>
+     <string name="accessibility_ultra_pixel_photography_64mp_on">64 МП увімкнено</string>
+     <string name="calibration_guide_tittle">Невідкалібрована камера</string>
+     <string name="calibration_hint_usage">Невідкалібрована камера негативно вплине на якість зображення</string>
+     <string name="pref_menu_ultra_pixel_photography_64mp">64 МП</string>
+     <string name="ultra_pixel_photography_64mp_close_tip">64 МП вимкнено</string>
+     <string name="ultra_pixel_photography_64mp_open_tip">64 МП</string>
+	 <string name="module_name_pixel">48 МП</string>
      <string name="pref_camera_zoom_mode_entry_macro">Макро</string>
      <string name="Import">Імпорт</string>
      <string name="access_sd_fail">Немає доступу до накопичувача</string>
