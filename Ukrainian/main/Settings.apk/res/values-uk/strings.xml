@@ -80,7 +80,7 @@
      <string name="bluetooth_preference_found_media_devices">"Доступні пристрою"</string>
      <string name="bluetooth_scanning_on_info_message">"Увімкніть Bluetooth, щоб підключатися до іншим Bluetooth-пристроїв.
  
-Для поліпшення роботи пристрою, в тому числі для підвищення точності геолокації, дозвольте додаткам і сервісам шукати сигнали пристроїв, розташованих поблизу, навіть якщо Bluetooth вимкнено. Цю функцію можна вимкнути в будь-який час в "<annotation id =" link ">" настройках сканування "</ annotation>""</string>
+Для поліпшення роботи пристрою, в тому числі для підвищення точності геолокації, дозвольте додаткам і сервісам шукати сигнали пристроїв, розташованих поблизу, навіть якщо Bluetooth вимкнено. Цю функцію можна вимкнути в будь-який час в настройках сканування"</string>
      <string name="bluetooth_tethering_subtext">"Відкрити доступ до інтернет-підключення телефону по Bluetooth"</string>
      <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Підтвердіть на браслеті</string>
      <string name="bluetooth_unpair_dialog_body">"З'єднання з пристроєм \"%1$s\" буде перервано"</string>
