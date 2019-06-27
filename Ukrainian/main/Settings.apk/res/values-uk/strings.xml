@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="bluetooth_disable_inband_ringing">Відключити відтворення мелодій</string>
+     <string name="bluetooth_disable_inband_ringing_summary">Не відтворювати мелодії виклику через Bluetooth навушники</string>
+     <string name="customize_function">Доступні жести</string>
+     <string name="gesture_c">C-жест</string>
+     <string name="gesture_m">M-жест</string>
+     <string name="gesture_open_alipay">Відкрити диктофон</string>
+     <string name="gesture_open_camera">Відкрити фронтальну камеру</string>
+     <string name="gesture_open_music">Відкрити музику</string>
+     <string name="gesture_open_wechat">Відкрити калькулятор</string>
+     <string name="gesture_w">W-жест</string>
+     <string name="gesture_z">Z-жест</string>
+     <string name="miui_lab_3d_gesture_desc">Відкрийте робочий стіл і намалюйте телефоном в повітрі один з жестів, щоб відкрити вибрані програми</string>
+     <string name="miui_lab_3d_gesture_slogan">Намалюйте жест в повітрі для запуску програми</string>
+     <string name="miui_lab_3d_gesture_summary">Намалюйте жест в повітрі для запуску програми</string>
+     <string name="miui_lab_3d_gesture_title">3D жести</string>
+     <string name="miui_lab_home_feed_desc">Яскраві ідеї. Захоплюючі можливості</string>
+     <string name="miui_lab_home_feed_title">Медіа центр</string>
+     <string name="support_gesture_title">3D жести</string>
      <string name="SMS_and_MMS">SMS і MMS</string>
      <string name="about_autostart">Про автозапуску</string>
      <string name="about_phone_device_name_warning">"У програм на телефоні є доступ до назви пристрою. Його можуть бачити інші користувачі, коли Ви підключаєтеся до пристроїв по Bluetooth або налаштовуєте точку доступу Wi-Fi"</string>
