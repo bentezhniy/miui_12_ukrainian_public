@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="contact_add_options">Додати до контактів</string>
+     <string name="contact_add_options_details1">Усі</string>
+     <string name="contact_add_options_details2">Тільки отримувачі</string>
+     <string name="get_oauth_code">Отримати код</string>
+     <string name="help_weixin_title">"Ви можете задати питання в нашому чаті WeChat: "</string>
+     <string name="login_qq_psw">Використовуйте для входу пароль або код QQ</string>
+     <string name="mi_sync_erroe_toast">"Помилка мережі: "</string>
+     <string name="mi_sync_erroe_toast_other">"Помилка сервера: "</string>
+     <string name="no_more_mail">Немає повідомлень</string>
+     <string name="no_search_results">Неможливо знайти результат</string>
+     <string name="pull_load_more">Потягніть вгору, щоб завантажити іще</string>
+     <string name="remote_search_body_too_large_prompt">"Забагато листів Email.
+Дочекайтеся повної синхронізації або перегляньте повідомлення на комп'ютері"</string>
+     <string name="search_remote_again">Інтернет недоступний</string>
+     <string name="sync_failed_mi_authority_view_detail">Показати інформацію</string>
      <string name="notify_channel_service">Повідомлення синхронізації</string>
 	 <string name="add_file_exception">Спробуйте додати інші шляхи у виключення</string>
      <string name="chinese">Китайська</string>
