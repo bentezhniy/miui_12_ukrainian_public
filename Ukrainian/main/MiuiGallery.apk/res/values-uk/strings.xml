@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="photo_editor_talkback_crop_3_2">Три до двох</string>
      <string name="burst_image_download_item_title" formatted="false">Завантажити оригінальний файл? (%s|%s)</string>
      <string name="burst_preview_title">Серійна зйомка</string>
      <string name="burst_save_all">Зберегти все</string>
