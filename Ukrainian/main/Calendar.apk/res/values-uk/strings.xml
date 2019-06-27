@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="birthday_term_chinese_calendar">День народження: %1$s</string>
+     <string name="content_confirm_close_chinese_calendar">Всі ваші події, засновані на традиційному китайському календарі, будуть перенесені в григоріанський календар після того, як ви вимкнете цю функцію</string>
+     <string name="lunar_to_solar_chinese_calendar">Китайський на григоріанський</string>
+     <string name="repeat_lunar_monthly_chinese_calendar">Місячний календар щомісяця</string>
+     <string name="repeat_lunar_yearly_chinese_calendar">Місячний календар щороку</string>
+     <string name="rest_day_indication_chinese_calendar">Вихідні</string>
+     <string name="setting_chinese_calendar">Китайський календар</string>
+     <string name="shortcut_new_event">Додати подію</string>
+     <string name="shortcut_next_agenda">Наступна подія</string>
+     <string name="shortcut_settings">Налаштування</string>
+     <string name="solar_to_lunar_chinese_calendar">Григоріанський на китайський</string>
+     <string name="title_confirm_close_chinese_calendar">Вимкнення китайського календаря</string>
+     <string name="work_day_indication_chinese_calendar">Будні</string>
      <string name="notification_channel_name">Нагадування календаря</string>
      <string name="search_menu_title">Пошук</string>
 	 <string name="city_limit_back_icon_tip">Домашній екран</string>
