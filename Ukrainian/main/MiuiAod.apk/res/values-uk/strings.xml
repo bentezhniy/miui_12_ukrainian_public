@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="always_style">Завжди</string>
+     <string name="aod_mode_preview">Перегляд</string>
+     <string name="aod_mode_style_title">Обрати стиль</string>
+     <string name="aod_show_style_title">Відображення</string>
+     <string name="scheduled_style">За розкладом</string>
+     <string name="summary">"Для зниження енергоспоживання режим \"Always on Display \" буде вимкнений в наступних ситуаціях:
+ 1. Коли пристрій довго лежить в темряві
+ 2. При використанні режиму \"Не турбувати\"
+ 3. При використанні режиму \"Енергозбереження\""</string>
+     <string name="temporary_style">10 секунд</string>
+</resources>

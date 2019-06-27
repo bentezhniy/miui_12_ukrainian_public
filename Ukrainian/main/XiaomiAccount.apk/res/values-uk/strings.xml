@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="agreement_and_privacy">Політика конфіденційності та Умови використання</string>
+     <string name="bind_google">"Прив'яжіть свій Google акаунт"</string>
+     <string name="bind_weixin">"Прив'яжіть свій акаунт WeChat"</string>
+     <string name="google">Google</string>
+     <string name="need_install_wechat">Спочатку встановіть WeChat</string>
+     <string name="weixin">WeChat</string>
+	 <string name="agreement_and_privacy">Політика конфіденційності та Умови використання</string>
      <string name="facebook_app_id">2263965750590514</string>
      <string name="fb_login_protocol_scheme">fb2263965750590514</string>
      <string name="passport_first_login_prompt">Мі акаунт буде створено автоматично під час Вашого першого входу до системи</string>

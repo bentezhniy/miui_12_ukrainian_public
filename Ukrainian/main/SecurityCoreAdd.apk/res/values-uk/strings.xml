@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Active">Активувати</string>
+     <string name="facebook_login">Увійти через Facebook</string>
+     <string name="facebook_send">Надіслати в Facebook</string>
+     <string name="instagram_send">Надіслати в Instagram</string>
+     <string name="use_google_open">Пробудження Google Помічником</string>
+     <string name="whatsapp_send">Надіслати в WhatsApp</string>
+     <string name="xspace_facebook_title">Facebook</string>
+     <string name="xspace_instagram_title">Instagram</string>
+     <string name="xspace_whatsapp_title">WhatsApp</string>
+	 <string name="Active">Активувати</string>
      <string name="PassWordGuard">Пароль другого простору</string>
      <string name="PrivacyContactDes1">Приватні повідомлення та контакти</string>
      <string name="PrivacyContactDes2">Якщо Ви використовуєте приватні повідомлення в режимі першого простору, ці повідомлення будуть доступні в режимі другого простору разом з контактами.</string>

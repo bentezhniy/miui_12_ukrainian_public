@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="bluetooth_disable_inband_ringing">Відключити відтворення мелодій</string>
+     <string name="bluetooth_disable_inband_ringing">Вимкнути відтворення мелодій</string>
      <string name="bluetooth_disable_inband_ringing_summary">Не відтворювати мелодії виклику через Bluetooth навушники</string>
      <string name="customize_function">Доступні жести</string>
      <string name="gesture_c">C-жест</string>
@@ -12,7 +12,7 @@
      <string name="gesture_open_wechat">Відкрити калькулятор</string>
      <string name="gesture_w">W-жест</string>
      <string name="gesture_z">Z-жест</string>
-     <string name="miui_lab_3d_gesture_desc">Відкрийте робочий стіл і намалюйте телефоном в повітрі один з жестів, щоб відкрити вибрані програми</string>
+     <string name="miui_lab_3d_gesture_desc">Відкрийте робочий стіл і намалюйте телефоном в повітрі один з жестів, щоб відкрити обрані програми</string>
      <string name="miui_lab_3d_gesture_slogan">Намалюйте жест в повітрі для запуску програми</string>
      <string name="miui_lab_3d_gesture_summary">Намалюйте жест в повітрі для запуску програми</string>
      <string name="miui_lab_3d_gesture_title">3D жести</string>

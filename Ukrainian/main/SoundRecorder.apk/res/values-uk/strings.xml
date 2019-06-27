@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="call_record_list_group_all">Усі</string>
+     <string name="text_btn_backward_3_seconds">3 сек. назад</string>
+     <string name="text_btn_forward_3_seconds">3 сек. вперед</string>
+     <string name="text_play_speed_0_5">Швидкість відтворення 0.5X</string>
+     <string name="text_play_speed_1_0">Звичайна швидкість відтворення</string>
+     <string name="text_play_speed_1_5">Швидкість відтворення 1.5X</string>
+     <string name="text_play_speed_2_0">Швидкість відтворення 2X</string>
+	 <string name="call_record_list_group_all">Усі</string>
      <string name="call_record_list_group_connected">Підключені</string>
      <string name="call_record_list_group_unconnected">Не підключені</string>
      <string name="preference_status_bar_indicator_prompt">Показувати іконку в рядку стану під час запису</string>

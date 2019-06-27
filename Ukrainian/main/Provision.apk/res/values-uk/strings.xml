@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accessibility_enabled">Доступність увімкнено</string>
+     <string name="other_settings_enhanced_lockscreen_privacy_index">Політика конфіденційності</string>
+	 <string name="accessibility_enabled">Доступність увімкнено</string>
      <string name="agree">ОК</string>
      <string name="agree_terms">Я прочитав(-ла) та погоджуюся з умовами користування</string>
      <string name="agree_terms_input_method_facemoji">Прийняти Політику конфіденційності Facemoji</string>

@@ -11,8 +11,8 @@
      <string name="mi_sync_erroe_toast_other">"Помилка сервера: "</string>
      <string name="no_more_mail">Немає повідомлень</string>
      <string name="no_search_results">Неможливо знайти результат</string>
-     <string name="pull_load_more">Потягніть вгору, щоб завантажити іще</string>
-     <string name="remote_search_body_too_large_prompt">"Забагато листів Email.
+     <string name="pull_load_more">Потягніть вгору, щоб завантажити ще</string>
+     <string name="remote_search_body_too_large_prompt">"Забагато листів.
 Дочекайтеся повної синхронізації або перегляньте повідомлення на комп'ютері"</string>
      <string name="search_remote_again">Інтернет недоступний</string>
      <string name="sync_failed_mi_authority_view_detail">Показати інформацію</string>

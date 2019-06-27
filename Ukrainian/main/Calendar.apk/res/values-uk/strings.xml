@@ -2,7 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="birthday_term_chinese_calendar">День народження: %1$s</string>
-     <string name="content_confirm_close_chinese_calendar">Всі ваші події, засновані на традиційному китайському календарі, будуть перенесені в григоріанський календар після того, як ви вимкнете цю функцію</string>
+     <string name="content_confirm_close_chinese_calendar">Всі Ваші події, засновані на традиційному китайському календарі, будуть перенесені в григоріанський календар після того, як Ви вимкнете цю функцію</string>
      <string name="lunar_to_solar_chinese_calendar">Китайський на григоріанський</string>
      <string name="repeat_lunar_monthly_chinese_calendar">Місячний календар щомісяця</string>
      <string name="repeat_lunar_yearly_chinese_calendar">Місячний календар щороку</string>
