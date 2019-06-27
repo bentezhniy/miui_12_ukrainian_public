@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="pref_camera_lying_summary">Коли пристрій розташований паралельно землі, в інтерфейсі камери будуть з'являтися підказки</string>
+     <string name="pref_camera_lying_title">Підказки нахилу пристрою</string>
+     <string name="pref_watermark_off">Вимкнений</string>
+     <string name="pref_watermark_on">Увімкнений</string>
+     <string name="pref_watermark_title">Водяний знак</string>
+     <string name="user_define_watermark_cancel">Скасувати</string>
+     <string name="user_define_watermark_save">Зберегти</string>
      <string name="accessibility_ultra_pixel_photography_64mp_off">64 МП вимкнено</string>
      <string name="accessibility_ultra_pixel_photography_64mp_on">64 МП увімкнено</string>
      <string name="calibration_guide_tittle">Невідкалібрована камера</string>
