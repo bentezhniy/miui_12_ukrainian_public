@@ -75,7 +75,6 @@
      <string name="launch_mdp_app_text">"Подивитися тарифний план"</string>
      <string name="launch_wifi_text">"Детальніше"</string>
      <string name="learn_more">"Детальніше"</string>
-     <string name="link_speed">%1$d Мбіт/с</string>
      <string name="list_footer_tip_title">Поради:</string>
      <string name="loading_data">Завантаження даних</string>
      <string name="local_select_audio">Аудіо</string>
@@ -145,7 +144,6 @@
      <string name="media_output_summary_unavailable">"Немає доступу"</string>
      <string name="media_output_title">"Де відтворювати"</string>
      <string name="meid_multi_sim">"MEID (слот SIM %1$d)"</string>
-     <string name="memory_use_running_format">%1$s / %2$s</string>
      <string name="miui_touch_filtered_touchassistant_warning">Діалог дозволів закрито помічником натискань. Посуньте помічника натискань або вимкніть його</string>
      <string name="model_summary">"Модель: %1$s"</string>
      <string name="multi_user_mode_backup_message">Неможливо використовувати бекап у другому просторі. Видаліть другий простір перед використанням бекапу</string>
@@ -159,7 +157,6 @@
      <string name="network_dashboard_summary_mobile">"моб. мережі"</string>
      <string name="new_device_suggestion_summary">"Познайомтеся зі своїм новим пристроєм"</string>
      <string name="new_device_suggestion_title">"Що нового?"</string>
-     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
      <string name="night_display_activation_off_custom">"Вимкнути до %1$s"</string>
      <string name="night_display_activation_off_manual">"Вимкнути"</string>
      <string name="night_display_activation_off_twilight">"Вимкнути до заходу"</string>
@@ -169,7 +166,6 @@
      <string name="night_display_status_title">"Статус"</string>
      <string name="night_display_suggestion_summary">"Автоматично змінювати відтінок екрану ввечорі"</string>
      <string name="night_display_suggestion_title">"Розклад нічного режиму"</string>
-     <string name="night_mode_summary">%s</string>
      <string name="no_carrier_update_now_text">"Оновлено щойно"</string>
      <string name="no_carrier_update_text">"Оновлене ^2 тому"</string>
      <string name="notif_calculating_app">Обчислення %1$s (%2$s)…</string>
@@ -200,7 +196,6 @@
      <string name="notification_channel_summary_low">"Середня важливість"</string>
      <string name="notification_channel_summary_min">"Низька важливість"</string>
      <string name="notification_group_title">"Група категорій повідомлень"</string>
-     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
      <string name="notification_importance_high_silent">"Спливаюче вікно"</string>
      <string name="notification_switch_label">"Увімкнути повідомлення"</string>
      <string name="notifications_enabled_with_info">"Увімкнено / %1$s"</string>
