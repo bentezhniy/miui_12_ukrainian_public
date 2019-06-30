@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
      <string name="notifications_title">"Сповіщення"</string>
-     <string name="notifications_two_items">%1$s / %2$s</string>
      <string name="oem_lock_info_message">"Щоб увімкнути захист пристрою, перезапустіть його"</string>
      <string name="ok">ОК</string>
      <string name="old_sdk_deny_warning">Програма може бути несумісною з поточною версією Android</string>
      <string name="ota_disable_automatic_update_summary">"Інстальовувати оновлення під час перезавантаження пристрою"</string>
      <string name="others">Інше</string>
-     <string name="owner_info_settings_status">%1$d з %2$d</string>
      <string name="password">Пароль</string>
      <string name="password_null">Введіть пароль</string>
      <string name="pause">Пауза</string>
@@ -27,7 +24,6 @@
      <string name="permission_permission_control_closed_desc_dialog_title">Керування дозволами вимкнено</string>
      <string name="permission_with_SMS_and_MMS">Доступ до SMS та MMS</string>
      <string name="permission_with_call_and_contact">Доступ до контактів та викликів</string>
-     <string name="physical_device_title">%1$s - %2$s</string>
      <string name="platform_chooser_item_android_mi">Mi телефон</string>
      <string name="platform_chooser_item_android_others">Інші бренди</string>
      <string name="platform_chooser_item_ios">Імпорт з пристрою Apple</string>
@@ -37,11 +33,6 @@
      <string name="pm_auto_start_by_system">Системний запуск</string>
      <string name="pm_auto_start_by_system_event">Запускати програму автоматично</string>
      <string name="pm_auto_start_proc_is_running">Запущено</string>
-     <string name="power_charging">%1$s - %2$s</string>
-     <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-     <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
      <string name="power_high_usage_title">"Велика витрата заряду"</string>
      <string name="power_usage_enhanced_debug">Залишилося: %1$s (новий ML)</string>
      <string name="power_usage_old_debug">Залишилося %1$s (старий)</string>
@@ -55,12 +46,7 @@
      <string name="prevent_ringing_option_vibrate_summary">"Увімкнено (вібрація)"</string>
      <string name="print_configuring_state_title_template">"%1$s - налаштування"</string>
      <string name="private_dns_help_message">"Детальніше "<annotation id="url">"Про персональний DNS-сервер"</annotation>"…"</string>
-     <string name="process_format">%1$s (%2$d)</string>
-     <string name="process_kernel_label">Ядро Android</string>
      <string name="prompt_all">Запитувати завжди</string>
-     <string name="proxy_exclusionlist_hint">example.com</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="radio_info_dl_kbps">"Пропускна здатність DL-каналу (кбіт/c:"</string>
      <string name="radio_info_imsi_label">IMSI:</string>
      <string name="radio_info_phy_chan_config">"Конфігурація фізичного каналу LTE:"</string>
@@ -91,7 +77,6 @@
      <string name="search_my_device">Інформація про пристрій; Про телефон; Мій телефон; Мій пристрій; Телефон; Пристрій; Девайс</string>
      <string name="search_pick_up_gesture_wakeup_title">Підйом; Пробудження</string>
      <string name="search_screen_shot">Скріншот; Знімок екрану; Запис екрану</string>
-     <string name="security_encryption_attention_symbol">•</string>
      <string name="security_settings_fingerprint_enroll_enrolling_skip">"Не зараз"</string>
      <string name="see_all_apps_title">"Показати всі програми (%1$d)"</string>
      <string name="select_empty">Оберіть елементи для імпорту</string>
@@ -102,8 +87,6 @@
      <string name="select_item_photos">Фото</string>
      <string name="select_item_summary_loading">Завантаження даних…</string>
      <string name="select_item_summary_wait">Очікування завантаження даних</string>
-     <string name="service_client_name">%1$s</string>
-     <string name="service_process_name">%1$s</string>
      <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">"Введення відбитків пальців триває 1-2 хвилини. Ви можете додати їх пізніше через налаштування пристрою"</string>
      <string name="setup_fingerprint_enroll_skip_title">"Не налаштовувати відбитки?"</string>
      <string name="setup_lock_settings_options_button_label">"Параметри блокування екрану"</string>
@@ -115,9 +98,7 @@
      <string name="show_operator_name_title">"Назва мережі"</string>
      <string name="show_system_app">Показати системні програми</string>
      <string name="sim_selection_channel_title">"Вибір SIM-карти"</string>
-     <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_status_title_sim_slot">"Статус SIM (слот SIM %1$d)"</string>
-     <string name="size_suffix">%1$s %2$s</string>
      <string name="smart_battery_footer">"Battery Manager визначає, які програми швидше за все витрачають заряд батареї, і пропонує обмежити їх роботу. Обмеження фонових процесів може привести до порушень функціональності програм і затримки сповіщень від них"</string>
      <string name="smart_battery_manager_title">"Battery Manager"</string>
      <string name="smart_battery_summary">"Обмежити роботу не часто використовуваних програм"</string>
@@ -125,8 +106,6 @@
      <string name="sort_order_frequent_notification">"Найчастіші"</string>
      <string name="sort_order_recent_notification">"Спочатку нові"</string>
      <string name="spell_checker_master_switch_title">"Увімкнути перевірку орфографії"</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="status_bar_settings_carrier_sim">SIM %1$s</string>
      <string name="status_data_network_type">"Тип мобільної мережі для передачі даних"</string>
      <string name="status_esim_id">"Ідентифікатор eSIM (EID)"</string>
      <string name="status_number_sim_slot">"Номер телефону (слот SIM %1$d)"</string>
@@ -177,12 +156,10 @@
      <string name="suggestions_more_title">"Ще %1$d"</string>
      <string name="suggestions_title_v2">"Рекомендовано"</string>
      <string name="summary_font_size_v2">Зміна розміру тексту, іконок та інших графічних елементів</string>
-     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
      <string name="swipe_up_to_switch_apps_suggestion_summary">"Використовувати новий жест для переходу між програмами"</string>
      <string name="swipe_up_to_switch_apps_suggestion_title">"Спробуйте нову кнопку на головному екрані"</string>
      <string name="swipe_up_to_switch_apps_summary">"Натисніть кнопку головного екрана і проведіть вгору, щоб перемикатися між програмами. Знову проведіть вгору, щоб побачити всі програми. Жест працює на будь-якому екрані. Кнопка огляду в нижньому правому куті екрану більше не буде використовуватися"</string>
      <string name="swipe_up_to_switch_apps_title">"Торкнутися кнопки головного екрана та провести вгору"</string>
-     <string name="sync_item_title">%s</string>
      <string name="systemui_theme_dark">"Темна"</string>
      <string name="systemui_theme_light">"Світла"</string>
      <string name="systemui_theme_wallpaper">"Автоматичний вибір (в залежності від шпалер)"</string>
@@ -555,7 +532,6 @@
      <string name="zen_mode_restrict_notifications_summary_hidden">"Вимкнути усі сповіщення"</string>
      <string name="zen_mode_restrict_notifications_summary_muted">"Вимкнути звук сповіщень"</string>
      <string name="zen_mode_restrict_notifications_title">"Сповіщення"</string>
-     <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
      <string name="zen_mode_settings_category">"Режим \"Не турбувати\""</string>
      <string name="zen_mode_settings_dnd_automatic_rule">"Режим \"Не турбувати\" було увімкнено правилом \"%s\""</string>
      <string name="zen_mode_settings_dnd_automatic_rule_app">"Режим \"Не турбувати\" було увімкнено програмою \"%s\""</string>
@@ -604,10 +580,8 @@
      <string name="zen_suggestion_summary">"Заблокуйте відволікаючі сповіщення"</string>
      <string name="zen_suggestion_title">"Увімкніть режим \"Не турбувати\""</string>
      <string name="zone_change_to_from_dst">"Перехід на %1$s: %2$s"</string>
-     <string name="zone_info_exemplar_location_and_offset">"%1$s (%2$s)"</string>
      <string name="zone_info_footer">"%1$s. Перехід на %2$s: %3$s"</string>
      <string name="zone_info_footer_no_dst">"%1$s, без переходу на літній час"</string>
-     <string name="zone_info_offset_and_name">"%2$s (%1$s)"</string>
      <string name="zone_menu_by_offset">"Різниця щодо UTC"</string>
      <string name="zone_menu_by_region">"Регіон"</string>
      <string name="zone_time_type_dst">"Літній час"</string>
