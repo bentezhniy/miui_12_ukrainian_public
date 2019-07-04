@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Сортувати за часом</item>
+        <item>Сортувати за кількістю</item>
+        <item>Програми, які можуть показувати сповіщення</item>
+        <item>Програми, які не можуть показувати сповіщення</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Показувати сповіщення повністю</item>
+        <item>Не показувати сповіщення</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Показувати зміст сповіщень</item>
+        <item>Приховувати зміст сповіщень</item>
+        <item>Не показувати сповіщення</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>
