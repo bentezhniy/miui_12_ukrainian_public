@@ -29,7 +29,6 @@
     <string name="off">Вимк</string>
     <string name="on">Увімк</string>
     <string name="show_badge_notifications">Іконки сповіщень</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">Спливаючі сповіщення вимкнені</string>
     <string name="summary_disable_lockscreen_notification">Сповіщення на екрані блокування вимкнені</string>
     <string name="summary_disable_show_badge_notification">Іконки сповіщень вимкнені</string>
