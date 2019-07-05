@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сповіщення</string>
+    <string name="default_list_type">Сортувати за часом</string>
+    <string name="disable_float_notification">Спливаючі сповіщення вимкнені</string>
+    <string name="disable_lockscreen_notification">Сповіщення на екрані блокування вимкнені</string>
+    <string name="disable_show_badge_notification">Іконки сповіщень вимкнені</string>
+    <string name="enable_float_notification">Спливаючі сповіщення увімкнені</string>
+    <string name="enable_lockscreen_notification">Сповіщення на екрані блокування увімкнені</string>
+    <string name="enable_show_badge_notification">Іконки сповіщень увімкнені</string>
+    <string name="expandable_under_keyguard">Доступ з екрану блокування</string>
+    <string name="float_notifications">Спливаючі сповіщення</string>
+    <string name="hint_search_all">Пошук програм</string>
+    <string name="hint_search_in_disabled_apps">Пошук програм, які не можуть показувати сповіщення</string>
+    <string name="hint_search_in_enabled_apps">Пошук програм, які можуть показувати сповіщення</string>
+    <string name="list_title_disable_notification">Сповіщення вимкнені</string>
+    <string name="loading">Секунду…</string>
+    <string name="lock_screen_display_rules">Формат</string>
+    <string name="lock_screen_tip_toast">Дозвольте сповіщення у \"Сповіщення програм\"</string>
+    <string name="lockscreen_notifications">Сповіщення на екрані блокування</string>
+    <string name="not_sent_recently">Сповіщень не було</string>
+    <string name="notification_display_setting">Панель сповіщень</string>
+    <string name="notification_display_style">Стиль сповіщень</string>
+    <string name="notification_fold_summary">"Всі неважливі сповіщення будуть з'являтися в окремій папці"</string>
+    <string name="notification_fold_title">Фільтр сповіщень</string>
+    <string name="notification_manager">Сповіщення програм</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Вимк</string>
+    <string name="on">Увімк</string>
+    <string name="show_badge_notifications">Іконки сповіщень</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_disable_float_notification">Спливаючі сповіщення вимкнені</string>
+    <string name="summary_disable_lockscreen_notification">Сповіщення на екрані блокування вимкнені</string>
+    <string name="summary_disable_show_badge_notification">Іконки сповіщень вимкнені</string>
+    <string name="summary_enable_float_notification">Спливаючі сповіщення увімкнені</string>
+    <string name="summary_enable_lockscreen_notification">Сповіщення на екрані блокування увімкнені</string>
+    <string name="summary_enable_show_badge_notification">Іконки сповіщень увімкнені</string>
+    <string name="summary_float_enable_notification_first">Дозвольте сповіщення для увімкнення спливаючих сповіщень</string>
+    <string name="summary_lock_screen_enable_notification_first">Дозвольте сповіщення для увімкнення сповіщень на екрані блокування</string>
+    <string name="summary_show_badge_enable_notification_first">Дозвольте сповіщення для увімкнення іконок сповіщень</string>
+</resources>
