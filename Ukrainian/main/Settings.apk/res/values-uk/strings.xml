@@ -747,7 +747,7 @@
      <string name="master_clear_desc_also_erases_esim"><li>"eSIM"</li></string>
      <string name="master_clear_desc_no_cancel_mobile_plan">"
  
-"Ви не втратите доступ до послуг оператора зв'язку""</string>
+ Ви не втратите доступ до послуг оператора зв'язку"</string>
      <string name="master_clear_short_title">"Видалити всі дані"</string>
      <string name="media_out_summary_ongoing_call_state">"Недоступно під час викликів"</string>
      <string name="media_output_default_summary">"Цей пристрій"</string>
