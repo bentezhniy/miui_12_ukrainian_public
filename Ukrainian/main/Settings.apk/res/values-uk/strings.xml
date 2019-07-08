@@ -3826,7 +3826,6 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="gesture_preference_title">"Жести"</string>
      <string name="gesture_setting_off">"Вимк."</string>
      <string name="gesture_setting_on">"Увімк."</string>
-     <string name="gesture_wakeup_title">Пробудження подвійним натисканням</string>
      <string name="getConfiguredNetworks">Конфігурація мереж</string>
      <string name="getConnectionInfo">Інформація про підключення</string>
      <string name="giga_hertz">" ГГц"</string>
