@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+   <string name="path_not_available">Шлях недоступний</string>
+	 <string name="path_no_available">Шлях недоступний</string>
 	 <string name="privacy_policy">Політика конфіденційності</string>
 	 <string name="DOWNLOAD_UNIT_BIT">б</string>
      <string name="DOWNLOAD_UNIT_GB">ГБ</string>
