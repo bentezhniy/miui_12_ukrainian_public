@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+<string name="greenguard_functional_description">Віддалене керування пристроями, перегляд інформації про місцезнаходження, контроль додатків і обмеження використання</string>
      <string name="facebook_login">Увійти через Facebook</string>
      <string name="facebook_send">Надіслати в Facebook</string>
      <string name="instagram_send">Надіслати в Instagram</string>
