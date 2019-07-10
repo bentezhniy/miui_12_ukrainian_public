@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="micloud_manaul_sync_success_time_prefix">Остання синхронізація: %s</string>
+     <string name="micloud_manual_sync_now_retry">Повтор</string>
+     <string name="micloud_sync_result_get_sim_info_error">Неможливо отримати інформацію про SIM-карту</string>
+     <string name="sync_detail_summary_master_sync_off">Синхронізацію вимкнено</string>
      <string name="micloud_last_sync_canceled">Синхронізацію скасовано. Повторіть спробу</string>
      <string name="micloud_request_sync_too_frequent">Забагато запитів. Повторіть спробу пізніше</string>
      <string name="system_busy_or_network_error">Помилка сервера</string>
