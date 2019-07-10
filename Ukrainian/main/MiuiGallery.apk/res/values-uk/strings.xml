@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="assistant_page_discovery">Обзор</string>
+     <string name="assistant_page_discovery">Огляд</string>
      <string name="assistant_page_server_error">Перевірте налаштування інтернету</string>
      <string name="movie_audio_antiquity">Ретро</string>
      <string name="movie_audio_dream">Мрія</string>
@@ -9,7 +9,7 @@
      <string name="movie_audio_quiet">Тиша</string>
      <string name="movie_audio_summertime">Літо</string>
      <string name="movie_audio_vitality">Сила</string>
-     <string name="movie_customer_unsupport_audio_file">Тип файлу не підтримується</string
+     <string name="movie_customer_unsupport_audio_file">Тип файлу не підтримується</string>
      <string name="photo_editor_talkback_crop_3_2">Три до двох</string>
      <string name="burst_image_download_item_title" formatted="false">Завантажити оригінальний файл? (%s|%s)</string>
      <string name="burst_preview_title">Серійна зйомка</string>
