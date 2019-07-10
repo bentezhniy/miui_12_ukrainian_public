@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="battery_desc_ambient_display">Споживання заряду режимом \"Always on Display\"</string>
+     <string name="power_ambient_display">Режим \"Always on Display\"</string>
+     <string name="st_antispam_title_mms">Повідомлення</string>
      <string name="delete_all_sms">Видалити всі</string>
      <string name="sms_delete_all_hint">Видалити всі повідомлення?</string>
 	 <string name="button_dark_mode">Виправити</string>
