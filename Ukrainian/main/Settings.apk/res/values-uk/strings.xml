@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="wireless_button">Бездротова зарядка інших пристроїв</string>
+     <string name="wireless_charging_settings">Бездротова зарядка інших пристроїв</string>
+     <string name="wireless_closed">Вимкнена</string>
+     <string name="wireless_opened">Увімкнена</string>
+     <string name="wireless_tip">Використовуйте свій телефон для бездротової зарядки інших пристроїв. \nЦя функція буде вимкнена автоматично, якщо зарядка не почалась впродовж 90 секунд</string>
      <string name="gesture_wakeup_summary">Ця функція доступна лише для теми за замовчуванням</string>
 	 <string name="notch_style_mod_description">Відображення рядка стану і вирізу</string>
      <string name="notch_style_mod_title">Приховування вирізу</string>
