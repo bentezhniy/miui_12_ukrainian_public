@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="gesture_wakeup_summary">Ця функція доступна лише для теми за замовчуванням</string>
+	 <string name="notch_style_mod_description">Відображення рядка стану і вирізу</string>
+     <string name="notch_style_mod_title">Приховування вирізу</string>
+     <string name="notch_style_show">Не приховувати</string>
+     <string name="notch_style_status_bar_inside">Приховувати без зміщення</string>
+     <string name="notch_style_status_bar_outside">Приховувати зі зміщенням</string>
+	 <string name="lock_screen_settings_title">Екран блокування</string>
+     <string name="xiaomi_cloud_service_description_contact">контакти та</string>
+     <string name="xiaomi_cloud_service_description_format">Mi Cloud синхронізує ваші %s фото, бекап програм і дозволяє використовувати сервіс пошуку пристрою</string>
      <string name="notifications_title">"Сповіщення"</string>
      <string name="oem_lock_info_message">"Щоб увімкнути захист пристрою, перезапустіть його"</string>
      <string name="ok">ОК</string>
