@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="aod_and_lock_screen_settings_title">Екран блокування</string>
+     <string name="aod_settings_category_name">Always on Display</string>
+     <string name="aod_settings_title">Режим \"Always on Display\"</string>
+     <string name="applications_settings_title">Програми</string>
+     <string name="feedback_settings">Зворотній зв'язок</string>
+     <string name="full_screen_display">Повноекранне керування</string>
+     <string name="game_booster_title">Game Turbo</string>
+     <string name="gmscore_settings_title">Сервіси Google</string>
+     <string name="google_account_title">Google</string>
+     <string name="google_service_title">Сервіси Google</string>
+     <string name="headset_settings_title">Гарнітура</string>
+     <string name="home_title">Робочий стіл</string>
+     <string name="key_shortcut_settings_title">Кнопки і жести</string>
+     <string name="lock_screen_display_category_name">Екран блокування</string>
+     <string name="lock_screen_tip_toast">Спочатку увімкніть сповіщення для програми</string>
+     <string name="miui_sos_emergency_delete">Видалити</string>
+     <string name="more_account_settings_title">Інші акаунти</string>
+     <string name="notch_and_status_bar_settings">Рядок стану</string>
+     <string name="notch_settings">Екранний виріз</string>
+     <string name="notification_center">Сповіщення</string>
+     <string name="other_sound_settings_title">Додатково</string>
+     <string name="password_security_settings_title">Паролі та безпека</string>
+     <string name="password_unlock_title">Розблокування паролем</string>
+     <string name="privacy_protection_title">Конфіденційність</string>
+     <string name="recommend_tip">Шукаєте інші налаштування?</string>
+     <string name="screen_settings">Екран блокування</string>
+     <string name="settings_new_version_btn">Оновлення</string>
+     <string name="status_bar_title">Рядок стану</string>
+     <string name="unlock_mode_title">Екран блокування</string>
+     <string name="volume_launch_camera_summary">Запуск камери подвійним натисканням клавіші гучності вниз при заблокованому екрані</string>
+     <string name="wakeup_and_sleep_settings_category_name">Увімкнення і вимкнення екрану</string>
+	 <string name="bootloader_tips_warning">Не вимикайте інтернет, не виходьте з Mi акаунта, не виконуйте загальне скидання налаштувань і не видаляйте системні дані</string>
+     <string name="disallow_lock_screen_summary">Спочатку увімкніть сповіщення в самій програмі</string>
+     <string name="manage_password">Керування паролями</string>
+     <string name="manage_password_summary">Автозаповнення збережених акаунтів і паролів</string>
      <string name="wireless_button">Бездротова зарядка інших пристроїв</string>
      <string name="wireless_charging_settings">Бездротова зарядка інших пристроїв</string>
      <string name="wireless_closed">Вимкнена</string>
