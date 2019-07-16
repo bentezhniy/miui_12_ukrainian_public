@@ -5,7 +5,7 @@
      <string name="aod_settings_category_name">Always on Display</string>
      <string name="aod_settings_title">Режим \"Always on Display\"</string>
      <string name="applications_settings_title">Програми</string>
-     <string name="feedback_settings">Зворотній зв'язок</string>
+     <string name="feedback_settings">"Зворотній зв'язок"</string>
      <string name="full_screen_display">Повноекранне керування</string>
      <string name="game_booster_title">Game Turbo</string>
      <string name="gmscore_settings_title">Сервіси Google</string>
