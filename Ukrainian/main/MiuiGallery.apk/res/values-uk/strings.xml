@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="generate_story_summary">Система проаналізує ваші фото і створить альбоми для історії</string>
+     <string name="generate_story_title">Історії</string>
+     <string name="image_selection_summary">Система проаналізує подібні фото і відзначить кращі знімки. Вимкніть цю функцію, щоб видалити мітки з фото</string>
+     <string name="image_selection_title">Вибір найкращих фото</string>
+     <string name="recommend_category_title">Рекомендації галереї</string>
      <string name="assistant_page_discovery">Огляд</string>
      <string name="assistant_page_server_error">Перевірте налаштування інтернету</string>
      <string name="movie_audio_antiquity">Ретро</string>
