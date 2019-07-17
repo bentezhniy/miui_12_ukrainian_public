@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+      <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d файлів занадто великі для синхронізації</item>
+        <item quantity="one">%d файл занадто великий для синхронізації</item>
+        <item quantity="few">%d файли занадто великі для синхронізації</item>
+     </plurals>
+     <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Колажі можуть містити 1-%d фото</item>
+        <item quantity="one">Колажі можуть містити 1-%d фото</item>
+     </plurals>
+     <plurals name="sync_oversized_count">
+        <item quantity="other">%d файлів занадто великі для синхронізації</item>
+        <item quantity="one">%d файл занадто великий для синхронізації</item>
+        <item quantity="few">%d файли занадто великі для синхронізації</item>
+     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d сек.</item>
         <item quantity="one">%1$d сек.</item>
