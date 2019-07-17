@@ -2,7 +2,7 @@
 <resources>
     <string-array name="activities_title">
         <item>Особливий день</item>
-        <item>Пам'ятний день</item>
+        <item>"Пам'ятний день"</item>
         <item>Яскраві моменти</item>
      </string-array>
      <string-array name="backup_automatically_key_words">
