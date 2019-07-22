@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="download_running_percent">Завантаження %d%%</string>
      <string name="app_label">Диспетчер завантаження</string>
      <string name="auto_restart_under_wifi">Автоматично завантажити файл через Wi-Fi</string>
      <string name="button_cancel_download">Скасувати</string>
