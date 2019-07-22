@@ -286,7 +286,7 @@
      <string name="privacy_grant_success">Авторизацію активовано</string>
      <string name="privacy_revoke_failed">Неможливо скасувати авторизацію</string>
      <string name="privacy_revoke_success">Авторизацію скасовано</string>
-     <string name="privacy_settings">Політику конфіденційності</string>
+     <string name="privacy_settings">Політика конфіденційності</string>
      <string name="pull_fresh_updated">Оновлено</string>
      <string name="pull_fresh_updating">Оновлення…</string>
      <string name="radar_cloud_image_title">Мапа</string>
