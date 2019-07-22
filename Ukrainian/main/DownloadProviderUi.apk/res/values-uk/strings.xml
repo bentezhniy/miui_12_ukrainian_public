@@ -2,11 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="ad">Реклама</string>
-     <string name="app_size">%1$s</string>
      <string name="close">Закрити</string>
      <string name="close_ad">Закрити рекламу</string>
-     <string name="download_num_size">Завантажень: %1$s | %2$s</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
    <string name="path_not_available">Шлях недоступний</string>
 	 <string name="path_no_available">Шлях недоступний</string>
 	 <string name="privacy_policy">Політика конфіденційності</string>

@@ -3,14 +3,11 @@
 <resources>
      <string name="call_feature_volte">VoLTE</string>
      <string name="call_feature_vowifi">VoWiFi</string>
-     <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="menu_share_qrcode">QR-код</string>
      <string name="menu_share_text">Текст</string>
      <string name="menu_share_vcard_file">Файл</string>
-     <string name="phone_info_divider">" | "</string>
      <string name="share_contact_as">Надіслати контакт</string>
      <string name="share_qrcode">Надіслати QR-код</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="contact_is_deleted">Контакт видалено</string>
      <string name="description_image_button_fuhao_named_dial">Виклик Sub</string>
      <string name="heduohao_fuhao_call_menu_title">Виклик на sub%d</string>
