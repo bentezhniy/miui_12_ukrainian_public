@@ -9145,14 +9145,13 @@ SD карта \"^1\" буде працювати тільки на цьому п
      <string name="wifi_traffic_priority_regular_summary">Використовувати пропускну здатність рівномірно для запущених програм і фонових процесів</string>
      <string name="wifi_traffic_priority_summary">Автоматичне визначення швидкості підключення</string>
      <string name="wifi_type_approval">"
-Переклад створено на основі репозиторію MiRoom
-Наш магазин: mi-room.ru
+Український переклад створено на основі репозиторію MiRoom
 MiRoom портал: portal.mi-room.ru
 Telegram чат: @michat
 Telegram канал: @miroom
 ВКонтакті: vk.com/mi_room_ru
 Email: portal.miroom@gmail.com"</string>
-     <string name="wifi_type_approval_dialog_title">Номер NTC</string>
+     <string name="wifi_type_approval_dialog_title">Інформація про переклад</string>
      <string name="wifi_type_approval_title">Підтвердження типу</string>
      <string name="wifi_unchanged">(не змінювалося)</string>
      <string name="wifi_unmetered_label">Безлімітна</string>
