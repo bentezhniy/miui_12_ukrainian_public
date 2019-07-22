@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="expand_button_title">Додатково</string>
+     <string name="search_menu_title">Пошук</string>
+     <string name="v7_preference_off">ВИМК.</string>
+     <string name="v7_preference_on">УВІМК.</string>
      <string name="fast_connect_headset_reset">Утримуйте кнопку на кейсі протягом %1$d сек.</string>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">Пристрої BLE MAC</string>
