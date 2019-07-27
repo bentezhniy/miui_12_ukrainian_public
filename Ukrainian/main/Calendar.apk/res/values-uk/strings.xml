@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="preferences_popup_alert_smart_summary_new">Точні події - це події з точним часом</string>
+     <string name="setting_desc_import_todo">Імпортувати завдання із нотаток</string>
+     <string name="setting_title_import_todo">Імпорт завдань</string>
+     <string name="todo_audio_event">"[голосове завдання] "</string>
+     <string name="todo_event">Майбутні завдання</string>
+     <string name="year_indicator_month">Перший день місячного календаря</string>
      <string name="birthday_term_chinese_calendar">День народження: %1$s</string>
      <string name="content_confirm_close_chinese_calendar">Всі Ваші події, засновані на традиційному китайському календарі, будуть перенесені в григоріанський календар після того, як Ви вимкнете цю функцію</string>
      <string name="lunar_to_solar_chinese_calendar">Китайський на григоріанський</string>
