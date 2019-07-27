@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="prefEntries_alerts_popup_new">
+        <item>Вимкнено</item>
+        <item>Для усіх подій</item>
+        <item>Для точних подій</item>
+     </string-array>
+     <string-array name="year_view_week_header_name">
+	    <item>НД</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+     </string-array>
+     <string-array name="year_view_week_header_name_other">
+	    <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+     </string-array>
      <string-array name="backup_country_names">
         <item>Сен-Мартен</item>
         <item>Карибскі острови</item>
