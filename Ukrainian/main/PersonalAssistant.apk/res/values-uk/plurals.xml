@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Через %d хв.</item>
+        <item quantity="one">Через %d хв.</item>
+     </plurals>
      <plurals name="book_start_interval">
         <item quantity="other">%d дн. до відправлення</item>
         <item quantity="one">%d дн. до відправлення</item>
