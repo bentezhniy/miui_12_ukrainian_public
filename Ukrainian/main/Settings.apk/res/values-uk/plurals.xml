@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Не більше %d</item>
+        <item quantity="one">Не більше %d</item>
+     </plurals>
+     <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Не більше %d</item>
+        <item quantity="one">Не більше %d</item>
+     </plurals>
 	<plurals name="usage_state_device_explain_today">
         <item quantity="other">Сьогодні розблоковано %d разів</item>
         <item quantity="one">Сьогодні розблоковано %d раз</item>
