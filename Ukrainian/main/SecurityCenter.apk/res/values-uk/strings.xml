@@ -13,7 +13,7 @@
      <string name="system_permission_perm_read_numbers">Читання контактів</string>
      <string name="system_permission_perm_send_mms">Відправлення повідомлень</string>
 	 <string name="call_delete_all_hint">Видалити всі заблоковані виклики?</string>
-     <string name="superpower_dialog_button_disable_dialog">Запам'ятати</string>
+     <string name="superpower_dialog_button_disable_dialog">"Запам'ятати"</string>
      <string name="superpower_dialog_button_ok">ОК</string>
      <string name="superpower_dialog_massage">Режим ультра енергозбереження обмежує більшість функцій і знижує продуктивність пристрою, щоб продовжити роботу основних функцій, наприклад, викликів і повідомлень. Увімкнути режим ультра енергозбереження?</string>
      <string name="superpower_dialog_title">Ультра енергозбереження</string>
