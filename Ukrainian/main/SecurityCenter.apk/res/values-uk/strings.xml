@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="system_permission_declare_agree">Прийняти</string>
+     <string name="system_permission_declare_double_link"><Data>Перед використанням необхідно прийняти &lt;a href =\"%1$s\">Користувацьку угоду&lt;/a> та &lt;a href =\"%2$s\">Політику конфіденційності&lt;/a>.</Data></string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Ласкаво просимо в %1s! Ця програма дозволяє використовувати наступну функцію: %2s.</string>
+     <string name="system_permission_declare_no_say_no">Ця програма буде працювати некоректно без необхідних дозволів</string>
+     <string name="system_permission_declare_privacy_declare">Ми поважаємо і захищаємо Вашу конфіденційність. \n%1s вимагають наступні дозволи:</string>
+     <string name="system_permission_declare_revoke_path">Ви можете видалити цю програму, вийти зі свого облікового запису або керувати своїми дозволами і авторизацією в налаштуваннях</string>
+     <string name="system_permission_declare_use_network">Підключення до інтернету</string>
+     <string name="system_permission_perm_answer_call">Здійснення викликів</string>
+     <string name="system_permission_perm_read_mms">Читання повідомлень</string>
+     <string name="system_permission_perm_read_numbers">Читання контактів</string>
+     <string name="system_permission_perm_send_mms">Відправлення повідомлень</string>
+	 <string name="call_delete_all_hint">Видалити всі заблоковані виклики?</string>
+     <string name="superpower_dialog_button_disable_dialog">Запам'ятати</string>
+     <string name="superpower_dialog_button_ok">ОК</string>
+     <string name="superpower_dialog_massage">Режим ультра енергозбереження обмежує більшість функцій і знижує продуктивність пристрою, щоб продовжити роботу основних функцій, наприклад, викликів і повідомлень. Увімкнути режим ультра енергозбереження?</string>
+     <string name="superpower_dialog_title">Ультра енергозбереження</string>
+     <string name="superpower_notification_hint_enter">Увімкнути</string>
+     <string name="superpower_notification_summary">Увімкнути ультра енергозбереження</string>
+     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
+     <string name="superpower_notification_title">Залишилося менше 10% заряду</string>
+     <string name="superpower_progress_content">Увімкнення ультра енергозбереження...</string>
+     <string name="superpower_progress_left_time">%1$d год. %2$d хв.</string>
+     <string name="superpower_progress_switch_home">Перемикання в темний режим</string>
+     <string name="superpower_progress_title">Залишилося часу</string>
+     <string name="superpower_progress_turndown_brightness">Зменшення яскравості екрану</string>
+     <string name="superpower_progress_turnoff_items">Обмеження енергоємної активності</string>
+     <string name="superpower_progress_turnoff_process">Обмеження фонової активності</string>
+     <string name="superpower_savemode_limit1">Темний режим</string>
+     <string name="superpower_savemode_limit2">Обмеження фонової активності</string>
+     <string name="superpower_savemode_limit3">Обмеження енергоємної активності (синхронізація, GPS, вібрація, Always on Display і т.д.)</string>
+     <string name="superpower_savemode_limit4">Дозволити обраним додаткам нормально працювати</string>
+     <string name="superpower_settings">Ультра енергозбереження</string>
+     <string name="superpower_settins_autoenter_summary">Вмикати режим ультра енергозбереження автоматично, коли заряд батареї менше 10%.</string>
+     <string name="superpower_settins_autoenter_title">Автоматичне увімкнення</string>
+     <string name="superpower_settins_autoleave_summary">Вимикати режим ультра енергозбереження автоматично, коли заряд батареї понад 50%.</string>
+     <string name="superpower_settins_autoleave_title">Автоматичне вимкнення</string>
+     <string name="superpower_settins_other">Додатково</string>
+     <string name="superpower_settins_switch_summary">Обмеження більшості функцій і зниження продуктивності пристрою, щоб продовжити роботу основних функцій, наприклад, викликів і повідомлень</string>
     <string name="battery_desc_ambient_display">Споживання заряду режимом \"Always on Display\"</string>
      <string name="power_ambient_display">Режим \"Always on Display\"</string>
      <string name="st_antispam_title_mms">Повідомлення</string>
