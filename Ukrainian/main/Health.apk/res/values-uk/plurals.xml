@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дні</item>
+        <item quantity="many">%1$d днів</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Мета: %1$d кр.</item>
+        <item quantity="one">Мета: %1$d кр.</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" кроків"</item>
+        <item quantity="one">" крок"</item>
+        <item quantity="few">" кроки"</item>
+        <item quantity="many">" кроків"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-денний період</item>
+        <item quantity="one">%1$d-денний період</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових сповіщень</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нових сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
+        <item quantity="one">Ви не записали %1$d день. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
+        <item quantity="few">Ви не записали %1$d дні. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
+        <item quantity="many">Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Цей період триває в цілому %1$d днів</item>
+        <item quantity="one">Цей період триває в цілому %1$d день</item>
+        <item quantity="few">Цей період триває в цілому %1$d дні</item>
+        <item quantity="many">Цей період триває в цілому %1$d днів</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">День %1$d цього менструального циклу</item>
+        <item quantity="one">День %1$d цього менструального циклу</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-денний цикл</item>
+        <item quantity="one">%1$d-денний цикл</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">День %1$d періоду</item>
+        <item quantity="one">День %1$d періоду</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d днів до наступного періоду</item>
+        <item quantity="one">%1$d день до наступного періоду</item>
+        <item quantity="few">%1$d дні до наступного періоду</item>
+        <item quantity="many">%1$d днів до наступного періоду</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Ймовірний день %1$d періоду</item>
+        <item quantity="one">Ймовірний день %1$d періоду</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d років</item>
+        <item quantity="one">%1$d рік</item>
+        <item quantity="few">%1$d роки</item>
+        <item quantity="many">%1$d років</item>
+    </plurals>
+</resources>
