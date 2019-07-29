@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Графічний</item>
+        <item>Відсотки всередині іконки</item>
+        <item>Відсотки поруч з іконкою в панелі сповіщень</item>
+     </string-array>
      <string-array name="agps_network_entries">
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
