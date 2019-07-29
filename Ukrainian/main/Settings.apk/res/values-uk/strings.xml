@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="privacy_password_settings_summary">Пароль конфіденційності використовується для програм, які можуть містити конфіденційну інформацію</string
+     <string name="privacy_password_settings_summary">Пароль конфіденційності використовується для програм, які можуть містити конфіденційну інформацію</string>
      <string name="aod_and_lock_screen_settings_title">Екран блокування</string>
      <string name="aod_settings_category_name">Always on Display</string>
      <string name="aod_settings_title">Режим \"Always on Display\"</string>
