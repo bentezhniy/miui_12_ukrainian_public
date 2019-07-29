@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="choose_radix">Виберіть систему числення</string> 
+    <string name="convertion_unit_radix">Система числення</string> 
+    <string name="item_title_radix">Система числення</string> 
+    <string name="mortgage_provider_east_money">Дані надані East Money</string> 
+    <string name="tax_rate_provider_east_money">Розраховано відповідно до нових податкових правил. Дані надані East Money</string> 
+    <string name="unit_data_display_currency_bdt">Бангладешські гроші</string> 
+     <string name="unit_data_display_radix_10">Десяткова</string>   
+     <string name="unit_data_display_radix_16">Шістнадцяткова</string> 
+     <string name="unit_data_display_radix_2">Двійкова</string> 
+     <string name="unit_data_display_radix_8">Вісімкова</string> 
      <string name="not_supported_due_to_language">Ця функція доступна тільки для китайської мови</string>
      <string name="tax_thershold_native_new">%s (нове)</string>
      <string name="tax_thershold_native_new_description">Податки будуть розраховуватися відповідно до нового податкового законодавства від 1 жовтня 2018 року</string>
