@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="shortcut_new_contact_label">Новий контакт</string>
+     <string name="shortcut_scan_label">Сканувати візитку</string>
      <string name="call_feature_volte">VoLTE</string>
      <string name="call_feature_vowifi">VoWiFi</string>
      <string name="menu_share_qrcode">QR-код</string>
