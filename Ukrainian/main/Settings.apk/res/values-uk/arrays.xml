@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="wide_notch_battery_indicator_style_entries">
-        <item>Графічний</item>
-        <item>Відсотки всередині іконки</item>
-        <item>Відсотки поруч з іконкою в панелі сповіщень</item>
-     </string-array>
      <string-array name="agps_network_entries">
         <item>Домашня мережа</item>
         <item>Всі мережі</item>
@@ -316,8 +311,8 @@
         <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
         <item>"LDAC"</item>
         <item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Включити додаткові кодекі"</item>
-        <item>"Відключити додаткові кодекі"</item>
+        <item>"Увімкнути додаткові кодеки"</item>
+        <item>"Вимкнути додаткові кодеки"</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>"Вибір системи (за замовчуванням)"</item>
@@ -327,8 +322,8 @@
         <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
         <item>"LDAC"</item>
         <item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Включити додаткові кодекі"</item>
-        <item>"Відключити додаткові кодекі"</item>
+        <item>"Увімкнути додаткові кодеки"</item>
+        <item>"Вимкнути додаткові кодеки"</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -384,10 +379,10 @@
         <item>IN</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_entries">
-        <item>Відключено</item>
+        <item>Вимкнено</item>
         <item>Увімкнено із фільтрацією</item>
-        <item>Увімкнений з фільтрацією заголовків</item>
-        <item>Увімкнений з фільтрацією медіапакетів</item>
+        <item>Увімкнено з фільтрацією заголовків</item>
+        <item>Увімкнено з фільтрацією медіапакетів</item>
         <item>Увімкнено</item>
      </string-array>
      <string-array name="button_light_timeout_entries">
@@ -1461,7 +1456,8 @@
      </string-array>
      <string-array name="notch_battery_indicator_style_entries">
         <item>Графічний</item>
-        <item>Відсотковий</item>
+        <item>Відсотки всередині іконки</item>
+        <item>Відсотки поруч з іконкою</item>
      </string-array>
      <string-array name="notification_shade_shortcut_entries">
         <item>Пошук</item>
