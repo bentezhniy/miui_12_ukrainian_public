@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="current_using_float_wallpaper_text">Прозорість</string>
+     <string name="enable_all_free_mode">Викупити</string>
+     <string name="enabling_all_free_mode">Викуп...</string>
+     <string name="has_mamual_hide_font">Приховані</string>
+     <string name="has_mamual_hide_theme">Приховані</string>
+     <string name="has_mamual_hide_wallpaper">Приховані</string>
+     <string name="hide_free_font">Приховати безкоштовні шрифти</string>
+     <string name="hide_free_theme">Приховати безкоштовні теми</string>
+     <string name="hide_free_wallpaper">Приховати безкоштовні шпалери</string>
+     <string name="hide_mamual_hide_font">Не показувати приховані шрифти</string>
+     <string name="hide_mamual_hide_theme">Не показувати приховані теми</string>
+     <string name="hide_mamual_hide_wallpaper">Не показувати приховані шпалери</string>
+     <string name="kuyin_user_agreement_content">Користувацька підписка на рингтони надається iFlytek. Перед використанням необхідно прийняти: %s</string>
+     <string name="kuyin_user_agreement_content_href">Політика конфіденційності iFlytek</string>
+     <string name="long_click_can_hide_resource">Утримуйте елементи для приховування</string>
+     <string name="more_sub_comment">Показати всі відгуки (%1$d)></string>
+     <string name="resource_hide">Приховати</string>
+     <string name="resource_hide_fail">Неможливо приховати</string>
+     <string name="resource_hide_succ">Приховано</string>
+     <string name="resource_restore">Відновити</string>
+     <string name="resource_restore_fail">Неможливо відновити</string>
+     <string name="resource_restore_succ">Відновлено</string>
+     <string name="show_free_font">Показати безкоштовні шрифти</string>
+     <string name="show_free_theme">Показати безкоштовні теми</string>
+     <string name="show_free_wallpaper">Показати безкоштовні шпалери</string>
+     <string name="show_mamual_hide_font">Показати приховані шрифти</string>
+     <string name="show_mamual_hide_theme">Показати приховані теми</string>
+     <string name="show_mamual_hide_wallpaper">Показати приховані шпалери</string>
+     <string name="theme_comment_detail_no_more">Більше немає</string>
+     <string name="theme_comment_detail_sub_comment_title">Усі відгуки</string>
+     <string name="theme_comment_detail_title">Інформація</string>
+     <string name="theme_comment_sub_comment_bar_hint">Діліться ідеями з нашою спільнотою</string>
+     <string name="transparent_wallpaper_is_running_in_background">Прозорі шпалери працюють у фоновому режимі</string>
+     <string name="unable_connect_network">Неможливо підключитися до інтернету</string>
+     <string name="wallpaper_24h">24г</string>
+     <string name="wallpaper_delete_all">Видалити вибране?</string>
+     <string name="wallpaper_dynamic">Динамічні</string>
+     <string name="wallpaper_online">Онлайн шпалери</string>
+     <string name="wallpaper_online_no_more">Більше немає</string>
+     <string name="wallpaper_online_tip">Підключіться до інтернету, щоб побачити більше ресурсів</string>
+     <string name="wallpaper_static">Статичні</string>
      <string name="about_app_name">Про теми</string>
      <string name="about_version_update">Перелік змін</string>
      <string name="already_latest_version">Оновлення відсутні</string>
