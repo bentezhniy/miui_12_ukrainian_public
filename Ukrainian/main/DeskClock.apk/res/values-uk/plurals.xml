@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Інтервал відкладення змінений на %d хв.</item>
+        <item quantity="one">Інтервал відкладення змінений на %d хв.</item>
+     </plurals>
      <plurals name="day">
         <item quantity="other">%d дн.</item>
         <item quantity="one">%d дн.</item>
