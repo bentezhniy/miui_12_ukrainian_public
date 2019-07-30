@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="module_update_success">Звуки для розумного будильника завантажені. Ви можете обрати їх в налаштуваннях</string>
+     <string name="module_update_success_control">ОК</string>
+     <string name="no_alarm_setting">Немає будильників</string>
+     <string name="no_worldclock">Немає годинників</string>
      <string name="edit_systemtime_setting_summary">Дата, час і подвійний годинник</string>
      <string name="worldclock_resident_city_text">Другий годинник: %s</string>
      <string name="worldclock_resident_city_text_detail">Подвійний годинник увімкнено</string>
