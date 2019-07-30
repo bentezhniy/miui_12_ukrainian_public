@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="content_description_dial">Виклик</string>
+     <string name="content_description_search">Пошук</string>
+     <string name="content_description_share">Надіслати</string>
+     <string name="content_description_translate">Переклад</string>
+     <string name="content_description_web_url">Сайт</string>
+     <string name="frequent_email">Часті Email</string>
+	 <string name="user_switching_dialog_switch_into_kid_space">Увімкнення дитячого простору…</string>
+     <string name="user_switching_dialog_switch_out_kid_space">Вихід із дитячого простору…</string>
      <string name="security_permission_open_wifi_settings">Налаштування Wi-Fi</string>
 	 <string name="security_permission_network_failed_text">Не вдається підключитися до інтернету</string>
      <string name="miui_warning_button_cancel">Скасувати</string>
