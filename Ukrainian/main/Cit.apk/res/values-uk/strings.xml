@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="cit_tool_modem_test_mode_close">Закрити тестовий режим</string
      <string name="motor_calibration">Калібрування мотора</string>
 	 <string name="cit_splash_check_summary">Переконайтеся, що чорний екран триває понад 5 секунд</string>
      <string name="cit_tool_splash_test_title">Тест сплешу</string>
