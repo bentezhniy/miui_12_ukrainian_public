@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="autofill_service_name">Керування паролями</string
      <string name="content_description_dial">Виклик</string>
      <string name="content_description_search">Пошук</string>
      <string name="content_description_share">Надіслати</string>
