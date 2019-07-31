@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Найкраща якість з\'єднання</item>
+        <item>Баланс якості звуку та з\'єднання</item>
+        <item>Найкраща якість звуку</item>
+        <item>Автоматично (авто бітрейт)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Найкраща якість з\'єднання (400 кбіт/с)</item>
+        <item>Баланс якості звуку та з\'єднання (500/560 кбіт/с)</item>
+        <item>Найкраща якість звуку (900 кбіт/с)</item>
+        <item>Автоматично (авто бітрейт)</item>
+     </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Коротка затримка</item>
         <item>Середня затримка</item>
