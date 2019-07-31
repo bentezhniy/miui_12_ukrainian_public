@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="missedcall_notification_public_version_title">Телефон</string>
      <string name="accessibility_call_muted">Виклик \"Без звуку\"</string>
      <string name="accessibility_display_daltonizer_preference_subtitle">Це експериментальна функція, що може вплинути на продуктивність</string>
      <string name="accessibility_display_daltonizer_preference_title">Корекція кольору</string>
