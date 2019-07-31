@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="at_least_one_channel">Не вибрано</string>
+     <string name="menstruation_card_default_title">Дані про менструацію відсутні</string>
+     <string name="menstruation_card_error_sub_title">Перезапустіть календар</string>
+     <string name="menstruation_card_error_title">Помилка</string>
+     <string name="menstruation_card_private_mode_sub_title">Наразі в приватному режимі</string>
+     <string name="menstruation_card_private_mode_title">Фізіологічний цикл****</string>
+     <string name="subscription_service">Сервіс підписки</string>
      <string name="preferences_popup_alert_smart_summary_new">Точні події - це події з точним часом</string>
      <string name="setting_desc_import_todo">Імпортувати завдання із нотаток</string>
      <string name="setting_title_import_todo">Імпорт завдань</string>
