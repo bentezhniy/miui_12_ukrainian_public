@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="date_calculate_days_after">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+     </plurals>
+     <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+     </plurals>
+     <plurals name="todo_N_days_after">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+     </plurals>
+     <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+     </plurals>
+     <plurals name="todo_alert_message_delete">
+        <item quantity="other">Видалити %1$s завдань?</item>
+        <item quantity="one">Видалити %1$s завдання?</item>
+        <item quantity="few">Видалити %1$s завдання?</item>
+     </plurals>
+     <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d дней тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дня тому</item>
+     </plurals>
+     <plurals name="todo_event_description_days_later">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+     </plurals>
+     <plurals name="todo_terms">
+        <item quantity="other">%1$s завдань</item>
+        <item quantity="one">%1$s завдання</item>
+        <item quantity="few">%1$s завдання</item>
+     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">Пошук \"%2$s\" (знайдено: %1$s)</item>
         <item quantity="one">Пошук \"%2$s\" (знайдено: %1$s)</item>
