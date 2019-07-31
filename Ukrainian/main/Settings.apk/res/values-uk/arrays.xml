@@ -26,8 +26,8 @@
         <item>ХОЛОДНИЙ</item>
      </string-array>
      <string-array name="ai_key_item_name">
-        <item>Запуск Google асистенту</item>
-        <item>Запуск Google пошуку</item>
+        <item>Запуск Google Помічника</item>
+        <item>Запуск Google Пошуку</item>
         <item>Запуск камери</item>
         <item>Запуск фронтальної камери</item>
         <item>Запуск попередньої програми</item>
@@ -318,27 +318,29 @@
         <item>"88,2 кГц"</item>
         <item>"96 кГц"</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_summaries">
+      <string-array name="bluetooth_a2dp_codec_summaries">
         <item>"Вибір системи (за замовчуванням)"</item>
-        <item>"SBC"</item>
-        <item>"AAC"</item>
-        <item>"Аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
-        <item>"LDAC"</item>
-        <item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Увімкнути додаткові кодеки"</item>
-        <item>"Вимкнути додаткові кодеки"</item>
+		<item>"SBC"</item>
+		<item>"AAC"</item>
+		<item>"Аудіокодек: Qualcomm® aptX™"</item>
+		<item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
+		<item>"LDAC"</item>
+		<item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
+		<item>"LHDC"</item>
+		<item>"Увімкнути додаткові кодеки"</item>
+		<item>"Вимкнути додаткові кодеки"</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>"Вибір системи (за замовчуванням)"</item>
-        <item>"SBC"</item>
-        <item>"AAC"</item>
-        <item>"Аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
-        <item>"LDAC"</item>
-        <item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
-        <item>"Увімкнути додаткові кодеки"</item>
-        <item>"Вимкнути додаткові кодеки"</item>
+        <item>"Вибір системи(за замовчуванням)"</item>
+		<item>"SBC"</item>
+		<item>"AAC"</item>
+		<item>"Аудіокодек: Qualcomm® aptX™"</item>
+		<item>"Аудіокодек: Qualcomm® aptX™ HD"</item>
+		<item>"LDAC"</item>
+		<item>"Адаптивний аудіокодек: Qualcomm® aptX™"</item>
+		<item>"LHDC"</item>
+		<item>"Увімкнути додаткові кодеки"</item>
+		<item>"Вимкнути додаткові кодеки"</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
