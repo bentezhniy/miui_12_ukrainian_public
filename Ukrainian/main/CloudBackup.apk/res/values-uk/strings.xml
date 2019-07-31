@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="restoring_data">Відновлення даних…</string
+     <string name="restoring_data">Відновлення даних…</string>
      <string name="backup_failed_reason_cloud_space_not_enough">Пам\'ять в Mi Cloud заповнена. Оновіть тариф або звільніть місце</string>
      <string name="backup_failed_reason_disk_space_not_enough">Пам\'ять заповнена</string>
      <string name="backup_failed_reason_network_error">Помилка мережі</string>
