@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="bluetooth_disable_mi_fast_connect">Вимкнути Mi Link</string>
+     <string name="bluetooth_disable_mi_fast_connect_summary">Вимкнути функції сервісу Mi Link</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_latency">Кодек звуку Bluetooth LHDC: затримка</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Виберіть кодек звуку Bluetooth LHDC:
+затримка"</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Кодек звуку Bluetooth LHDC: якість</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Виберіть кодек звуку Bluetooth LHDC:
+якість"</string>
+     <string name="bt_lhdc_declaration">Якщо пристрій Bluetooth підтримує кодек LHDC, він буде використовуватися за замовчуванням. LHDC забезпечує високоякісний звук, але підвищує енергоспоживання. Також можуть виникнути проблеми під час відтворення через апаратні обмеження Bluetooth</string>
+     <string name="bt_lhdc_dialog_summary">LHDC забезпечує високу якість звуку, але підвищує енергоспоживання. Цю функцію можна вимкнути в налаштуваннях</string>
+     <string name="bt_lhdc_dialog_title">Поточний пристрій підтримує LHDC:</string>
+     <string name="bt_lhdc_open_dialog_summary">LHDC забезпечує високоякісний звук, але підвищує енергоспоживання. Також можуть виникнути проблеми під час відтворення через апаратні обмеження Bluetooth</string>
+     <string name="bt_lhdc_open_dialog_title">Увімкнути кодек LHDC?</string>
+     <string name="bt_lhdc_pre_title">LHDC</string>
+     <string name="bt_lhdc_property">Атрибути</string>
+     <string name="gxzw_add_fingerprint_area">Сканер відбитків</string>
+     <string name="kid_space_settings">Дитячий простір</string>
+     <string name="mi_transfer">Mi Mover</string>
+	 <string name="color_led_charging_summary">Автоматично вимкнеться при розрядці батареї</string>
+     <string name="color_led_game_mode_summary">Показувати ефекти, коли увімкнений режим Game Turbo</string>
+     <string name="color_led_red_packets_summary">Показати ефекти для червоних конвертів</string>
+     <string name="color_led_special_scene_title">Спеціальні ефекти</string>
+     <string name="color_led_summary">Не працює в режимі \"Не турбувати\"</string>
      <string name="privacy_password_settings_summary">Пароль конфіденційності використовується для програм, які можуть містити конфіденційну інформацію</string>
      <string name="aod_and_lock_screen_settings_title">Екран блокування</string>
      <string name="aod_settings_category_name">Always on Display</string>
