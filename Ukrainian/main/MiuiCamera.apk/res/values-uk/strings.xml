@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="macro_mode_use_hint_text_body">Увімкніть режим макро, щоб детальніше побачити всю красу</string>
+     <string name="macro_mode_use_hint_text_title">Макро</string>
+     <string name="ultra_pixel_32mp">32 МП</string>
+     <string name="ultra_pixel_48mp">48 МП</string>
+     <string name="ultra_pixel_64mp">64 МП</string>
+     <string name="ultra_pixel_device">64 МП</string>
+     <string name="ultra_pixel_zoom_no_support_tip">Наближення не працює при роздільній здатності %s</string>
+	 <string name="ultra_pixel_portrait_hint">HD портрет</string>
     <string name="mimoji_app_name">MiMoji</string>
      <string name="pref_camera_touch_focus_delay_title">Затримка фокусування при натисканні</string>
      <string name="pref_camera_lying_summary">"Коли пристрій розташований паралельно землі, в інтерфейсі камери будуть з'являтися підказки"</string>
