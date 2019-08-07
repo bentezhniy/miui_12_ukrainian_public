@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+<string name="full_screen_keyboard_optimization">Покращити клавіатуру</string>
+     <string name="input_method_function_clipboard">Буфер обміну і шаблони</string>
+     <string name="input_method_function_clipboard_des">Натисніть для перегляду вмісту буфера обміну і шаблонів</string>
+     <string name="input_method_function_no_function">Немає</string>
+     <string name="input_method_function_no_function_des">Не показувати ярлики</string>
+     <string name="input_method_function_switch">Перемикання між клавіатурами</string>
+     <string name="input_method_function_switch_des">Натисніть для перемикання на іншу клавіатуру</string>
+     <string name="input_method_function_voice">Голосове введення</string>
+     <string name="input_method_function_voice_des">Натисніть для використання голосового введення</string>
+     <string name="input_method_function_xiaoai">Голосове введення Mi AI</string>
+     <string name="input_method_function_xiaoai_des">Натисніть для використання голосового введення Mi AI</string>
+     <string name="left_function_key">Лівий ярлик</string>
+     <string name="normal_bottom_height_of_keyboard">Звичайна</string>
+     <string name="power_usage_summary_title_new">Батарея</string>
+     <string name="raise_bottom_height_of_keyboard">Розширена</string>
+     <string name="raise_bottom_height_of_keyboard_sub_title">Панель з налаштовуваними ярликами з\'явиться під клавіатурою, якщо ви перейдете в розширений режим</string>
+     <string name="raise_bottom_height_of_keyboard_title">Налаштуйте клавіатуру на повноекранний режим</string>
+     <string name="right_function_key">Правий ярлик</string>
+     <string name="xiaomi_cloud_service_description_without_contacts">Хмара синхронізує фотографії, створює бекап програм і налаштувань, а також допомагає знайти телефон за допомогою функції пошуку пристрою</string>
      <string name="bluetooth_disable_mi_fast_connect">Вимкнути Mi Link</string>
      <string name="bluetooth_disable_mi_fast_connect_summary">Вимкнути функції сервісу Mi Link</string>
      <string name="bluetooth_select_a2dp_codec_lhdc_latency">Кодек звуку Bluetooth LHDC: затримка</string>
