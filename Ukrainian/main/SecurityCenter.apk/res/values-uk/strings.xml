@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="pc_search_keywords_battery">Батарея</string>
+     <string name="pc_search_keywords_battery_save">Економія батареї</string>
+     <string name="pc_search_keywords_battery_use">Використання батареї</string>
+     <string name="pc_search_keywords_capacity">Ємність батареї</string>
+     <string name="pc_search_keywords_property">Продуктивність</string>
     <string name="system_permission_declare_agree">Прийняти</string>
      <string name="system_permission_declare_double_link"><Data>Перед використанням необхідно прийняти &lt;a href =\"%1$s\">Користувацьку угоду&lt;/a> та &lt;a href =\"%2$s\">Політику конфіденційності&lt;/a>.</Data></string>
      <string name="system_permission_declare_main_purpose" formatted="false">Ласкаво просимо в %1s! Ця програма дозволяє використовувати наступну функцію: %2s.</string>
