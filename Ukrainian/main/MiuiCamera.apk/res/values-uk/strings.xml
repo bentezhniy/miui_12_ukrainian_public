@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="pref_camera_snap_entry_summary">Утримуйте кнопку гучності вниз для зйомки при заблокованому екрані</string>
      <string name="ultra_pixel_photography_open_tip">Ультра HD %s увімкнено</string>
     <string name="ultra_pixel_photography_close_tip">Ультра HD %s вимкнено</string>
     <string name="accessibility_ultra_pixel_photography_on">Ультра HD %s увімкнено</string>
