@@ -65,27 +65,27 @@
         <item>Конакрі</item>
         <item>Дакар</item>
         <item>Дар-ес-Салам</item>
-        <item>Джібуті</item>
+        <item>Джибуті</item>
         <item>Фрітаун</item>
         <item>Габороне</item>
         <item>Хараре</item>
-        <item>Йоганнесбург</item>
+        <item>Йоханнесбург</item>
         <item>Кампала</item>
         <item>Хартум</item>
-        <item>Кігалі</item>
+        <item>Кигалі</item>
         <item>Кіншаса</item>
         <item>Лагос</item>
         <item>Масеру</item>
-        <item>Могадішо</item>
+        <item>Могадишо</item>
         <item>Найробі</item>
         <item>Сан-Томе</item>
-        <item>Тімбукту</item>
-        <item>Тріполі</item>
+        <item>Тимбукту</item>
+        <item>Триполі</item>
         <item>Туніс</item>
-        <item>Анкоридж</item>
+        <item>Анкорідж</item>
         <item>Мендоса</item>
         <item>Аруба</item>
-        <item>Асунсьйон</item>
+        <item>Асунсьон</item>
         <item>Барбадос</item>
         <item>Беліз</item>
         <item>Богота</item>
@@ -96,7 +96,7 @@
         <item>Чикаго</item>
         <item>Коста-Ріка</item>
         <item>Кюрасао</item>
-        <item>Доусон Крік</item>
+        <item>Доусон Крик</item>
         <item>Денвер</item>
         <item>Детройт</item>
         <item>Домініка</item>
@@ -107,25 +107,26 @@
         <item>Гренада</item>
         <item>Гватемала</item>
         <item>Гайана</item>
-        <item>Галіфакс</item>
+        <item>Галвфакс</item>
         <item>Гавана</item>
         <item>Індіанаполіс</item>
         <item>Нокс</item>
         <item>Маренго</item>
-        <item>Санкт-Петербург</item>
-        <item>Телл-Сіті</item>
-        <item>Вівэй</item>
+        <item>Петербург</item>
+        <item>Скажіть міста</item>
+        <item>Вівей</item>
         <item>Венсен</item>
-        <item>Винамак</item>
+        <item>Вінамак</item>
         <item>Кінгстон</item>
         <item>Нуестра Сеньйора-де-Ла-Пас</item>
         <item>Ліма</item>
         <item>Лос-Анджелес</item>
         <item>Луїсвілл</item>
         <item>Манагуа</item>
-        <item>Мартініка</item>
+        <item>Мартиніка</item>
+        <item>Мендоса</item>
         <item>Метлакатла</item>
-        <item>Мехіко</item>
+        <item>Мексіко</item>
         <item>Монтеррей</item>
         <item>Монтевідео</item>
         <item>Монреаль</item>
@@ -145,12 +146,12 @@
         <item>Кітс</item>
         <item>Люсія</item>
         <item>Томас</item>
-        <item>Тіхуана</item>
+        <item>Тихуана</item>
         <item>Торонто</item>
         <item>Ванкувер</item>
         <item>Вінніпег</item>
         <item>Південний полюс</item>
-        <item>Лонгйір</item>
+        <item>Лонгйир</item>
         <item>Алмати</item>
         <item>Амман</item>
         <item>Анадир</item>
@@ -166,12 +167,13 @@
         <item>Дубай</item>
         <item>Гази</item>
         <item>Хеврон</item>
-        <item>Хо Ши Мін</item>
+        <item>Хо Ши Мин</item>
         <item>Гонконг</item>
+        <item>Стамбул</item>
         <item>Джакарта</item>
         <item>Єрусалим</item>
         <item>Кабул</item>
-        <item>Карачі</item>
+        <item>Карачи</item>
         <item>Катманду</item>
         <item>Куала-Лумпур</item>
         <item>Кувейт</item>
@@ -195,14 +197,14 @@
         <item>Бермуди</item>
         <item>Канарські</item>
         <item>Кабо-Верде</item>
-        <item>"Рейк'явік"</item>
+        <item>Рейк\'явік</item>
         <item>Стенлі</item>
         <item>Аделаїда</item>
-        <item>Брісбен</item>
+        <item>Брисбен</item>
         <item>Канберра</item>
         <item>Дарвін</item>
         <item>Мельбурн</item>
-        <item>Новий Південний Уельс</item>
+        <item>Новый Південний Уельс</item>
         <item>Перт</item>
         <item>Квінсленд</item>
         <item>Сідней</item>
@@ -224,10 +226,11 @@
         <item>Копенгаген</item>
         <item>Дублін</item>
         <item>Гібралтар</item>
-        <item>Гельсінкі</item>
+        <item>Хельсінки</item>
         <item>Острів Мен</item>
         <item>Стамбул</item>
-        <item>Лісабон</item>
+        <item>Київ</item>
+        <item>Ліссабон</item>
         <item>Лондон</item>
         <item>Люксембург</item>
         <item>Мадрид</item>
@@ -243,16 +246,16 @@
         <item>Сан-Марино</item>
         <item>Сараєво</item>
         <item>Сімферополь</item>
-        <item>"Скоп'є"</item>
+        <item>Скоп\'є</item>
         <item>Софія</item>
         <item>Стокгольм</item>
         <item>Таллінн</item>
         <item>Ватикан</item>
-        <item>Відень</item>
+        <item>Вена</item>
         <item>Вільнюс</item>
         <item>Варшава</item>
         <item>Загреб</item>
-        <item>Цюріх</item>
+        <item>Цюрих</item>
         <item>Антананаріву</item>
         <item>Мальдіви</item>
         <item>Маврикій</item>
@@ -282,10 +285,10 @@
         <item>Солт-Лейк-Сіті</item>
         <item>Сан-Хосе</item>
         <item>Сан-Сальвадор</item>
-        <item>Сіетл</item>
+        <item>Сієтл</item>
         <item>Луї</item>
         <item>Вашингтон</item>
-        <item>"Х'юстон"</item>
+        <item>Хьюстон</item>
         <item>Сан-Антоніо</item>
         <item>Джексонвілле</item>
         <item>Балтімор</item>
@@ -302,7 +305,7 @@
         <item>Тампа</item>
         <item>Піттсбург</item>
         <item>Цинциннаті</item>
-        <item>"Маунтін-В'ю"</item>
+        <item>Маунтін-Вью</item>
         <item>Рено</item>
         <item>Місто Чорного Року</item>
         <item>Доха</item>
@@ -312,7 +315,7 @@
         <item>Нью-Делі</item>
         <item>Осака</item>
         <item>Лахор</item>
-        <item>Сану</item>
+        <item>Сана</item>
         <item>Барселона</item>
         <item>Мюнхен</item>
         <item>Мілан</item>
@@ -333,10 +336,11 @@
         <item>Хайдарабад</item>
         <item>Рестон</item>
         <item>Белу-Орізонті</item>
-        <item>Сантьяго</item>
+        <item>Сант\'яго</item>
         <item>Монровія</item>
         <item>Коломбо</item>
         <item>Чихуахуа</item>
+        <item>Сальвадор</item>
         <item>Гургаон</item>
         <item>Манчестер</item>
         <item>Київ</item>
