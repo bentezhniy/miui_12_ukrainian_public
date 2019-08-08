@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+   <string name="location">Регіон</string>
+	 <string name="operator">Оператор</string>
+	 <string name="smsc_dialog_message">Переконайтеся, що номер вказаний вірно. Інакше ви не зможете відправляти або отримувати SMS. Зверніться до свого оператора для підтвердження вашого номера SMSC</string>
      <string name="network_mode_updating_title">Тип мережі</string>
      <string name="preferred_network_type_pref_entries_5g_preferred">Переважно 5G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Авто WCDMA/GSM</string>
