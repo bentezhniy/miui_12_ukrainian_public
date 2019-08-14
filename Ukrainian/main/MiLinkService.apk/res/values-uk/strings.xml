@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="privacy_agree">ОК</string>
+     <string name="privacy_text_1">  Сервіс проекції надається Milian.</string>
+     <string name="privacy_text_2">  Перед використанням прочитайте <a href="http://www.miui.com/res/doc/eula/ru.html">«Користувацьку угоду»</a>,<a href="http://www.miui.com/res/doc/privacy/ru.html">«Політику конфіденційності»</a> </string>
+     <string name="privacy_text_pemission">"  • Потрібен доступ до Wi-Fi для роботи сервісу.
+• Bluetooth використовується для виявлення і підключення пристроїв.
+• Читання пам\'яті телефону. Після прочитання вмісту, надішліть вміст на пристрій з великим екраном.
+• Читання інформації про телефон."</string>
      <string name="casting_tips">Трансляція...</string>
      <string name="console_guide_btn_got_it">ОК</string>
      <string name="console_guide_subtitle_hang_up">Не завершуйте трансляцію, коли екран телефону вимикається. Ця функція може збільшити енергоспоживання</string>
