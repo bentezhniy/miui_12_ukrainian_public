@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="description_image_button_bubble_answer">Динамік</string>
+     <string name="qs_open_night_mode_alert_summary">Деякі налаштування екрану не сумісні з темним режимом. Вони будуть відновлені після його вимкнення</string>
+     <string name="quick_settings_nightmode_label">Темний режим</string>
      <string name="recents_dimiss_task">Очищення</string>
      <string name="recents_forbid_dock_when_screening_toast_text">Неможливо розділити екран під час трансляції</string>
      <string name="recents_task_screening">Трансляція</string>
