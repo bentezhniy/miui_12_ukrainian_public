@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-<string name="full_screen_keyboard_optimization">Покращити клавіатуру</string>
+     <string name="miui_lab_aiasst_call_screen_desc">Дотримуйтесь підказок</string>
+     <string name="miui_lab_aiasst_call_screen_title">Підказки виклику</string>
+      <string name="full_screen_keyboard_optimization">Покращити клавіатуру</string>
      <string name="input_method_function_clipboard">Буфер обміну і шаблони</string>
      <string name="input_method_function_clipboard_des">Натисніть для перегляду вмісту буфера обміну і шаблонів</string>
      <string name="input_method_function_no_function">Немає</string>
