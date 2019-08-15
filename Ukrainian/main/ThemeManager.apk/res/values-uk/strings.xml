@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="author_attention">Підписатися</string>
+     <string name="author_attention_success">Ви підписалися</string>
+     <string name="author_dialog_message">Відписатися від автора?</string>
+     <string name="author_dynamic">Статус</string>
+     <string name="author_dynamic_no_resource">Немає результатів</string>
+     <string name="detail_author_attention_head">Підпишіться на найвидатніших дизайнерів</string>
+     <string name="detail_author_fans">"Підписники: "</string>
+     <string name="detail_author_works">"Теми: "</string>
+     <string name="wallpaper_no_favorite">Порожньо</string>
+     <string name="wallpaper_no_record">Порожньо</string>
     <string name="current_using_float_wallpaper_text">Прозорість</string>
      <string name="enable_all_free_mode">Викупити</string>
      <string name="enabling_all_free_mode">Викуп...</string>
