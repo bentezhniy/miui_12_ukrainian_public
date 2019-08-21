@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="connection_and_sharing">Підключення</string>
+     <string name="enable_screen_projection_summary">Вивід вмісту екрану на зовнішній екран</string>
+     <string name="open_game_accelerate">Увімкнути Game Turbo</string>
+     <string name="other">Інше</string>
+     <string name="screen_projection">Проекція</string>
+     <string name="screen_projection_characteristics">Спеціальні функції</string>
+     <string name="screen_projection_characteristics_off_screen_summary">Ви можете продовжувати трансляцію, коли екран вашого пристрою вимкнений. Ця функція знижує енергоспоживання</string>
+     <string name="screen_projection_characteristics_off_screen_title">Транслювати з вимкненим екраном</string>
+     <string name="screen_projection_characteristics_privacy_protect_summary">Не показувати спливаючі повідомлення, вхідні дзвінки та інші особисті дані на зовнішніх екранах</string>
+     <string name="screen_projection_characteristics_privacy_protect_title">Приховувати особисті дані</string>
+     <string name="screen_projection_characteristics_small_window_summary">Звертати поточне зображення в невелике вікно, щоб використовувати інші функції телефону</string>
+     <string name="screen_projection_characteristics_small_window_title">Звертати вікно</string>
+     <string name="screen_projection_example_document_summary">Показувати презентації на зовнішньому екрані, використовуючи телефон для перемикання між слайдами та переглядання нотаток. Перейдіть в програму \"Провідник\" і виберіть вкладку \"Документи\", щоб спробувати цю функцію</string>
+     <string name="screen_projection_example_document_title">Документи</string>
+     <string name="screen_projection_example_gallery_summary">Натисніть кнопку \"Поділитися\" під фото або відео в програмі \"Галерея\", щоб відобразити його на зовнішньому екрані</string>
+     <string name="screen_projection_example_gallery_title">Фото і відео</string>
+     <string name="screen_projection_example_game_summary">Game Turbo дозволяє транслювати ігри на зовнішній екран. Використовуйте ярлик на панелі інструментів Game Turbo, щоб увімкнути цю функцію</string>
+     <string name="screen_projection_example_game_title">Ігри</string>
+     <string name="screen_projection_help">Допомога</string>
+     <string name="screen_projection_sample_summary">Трансляція фото, відео, документів та ігор</string>
+     <string name="screen_projection_sample_title">Демо</string>
+     <string name="screen_projection_title">Проекція</string>
+     <string name="search_connection_and_sharing">Ще;Підключення;Трансляція;Проекція</string>
+     <string name="speaker">Динамік</string>
+     <string name="system_print_service_help">Про друк</string>
+     <string name="xiaomi_transfer">Mi Share</string>
      <string name="miui_lab_aiasst_call_screen_desc">Дотримуйтесь підказок</string>
      <string name="miui_lab_aiasst_call_screen_title">Підказки виклику</string>
       <string name="full_screen_keyboard_optimization">Покращити клавіатуру</string>
