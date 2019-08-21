@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="app_notification_info">Нотатки працюють в фоні</string>
+     <string name="check_in_todo_app">Показати завдання</string>
+     <string name="todo_float_permission_open_reminder">Надайте програмі \"Нотатки\" доступ до спливаючих вікон</string>
+     <string name="todo_menu_cancel">Скасувати</string>
+     <string name="todo_user_guide_fw_pop">Ярлик на робочий стіл</string>
+     <string name="todo_user_guide_tip5">Не пропустіть нічого важливого!</string>
      <string name="date_calculate_today">0 днів</string>
      <string name="date_picker_label_day" />
      <string name="date_picker_label_month" />
