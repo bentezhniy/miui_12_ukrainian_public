@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="full_screen_keyboard_settings">Налаштування повноекранної клавіатури</string>
+     <string name="input_method_bottom_close">Вимкнено</string>
+     <string name="input_method_bottom_open">Увімкнено</string>
+     <string name="input_method_manage">Керування клавіатурами</string>
+     <string name="input_method_settings_text">Параметри</string>
+     <string name="keyboard_mouse_touch">Клавіатура і миша</string>
+     <string name="other_input_settings">Додатково</string>
+	 <string name="link_turbo_prompt">Статистика на цій сторінці показує тільки обсяг даних, що використовуються для підвищення швидкості Wi-Fi з\'єднання. Вона не відображає фактичне використання мобільного інтернету</string>
+     <string name="link_turbo_settings_all_app_display_loading">Завантаження…</string>
+     <string name="link_turbo_settings_all_app_reach_max">Ви можете обрати до 15 програм</string>
+     <string name="link_turbo_usage_state_month">За місяць</string>
+     <string name="link_turbo_usage_state_month_total">За місяць</string>
+     <string name="link_turbo_usage_state_today">Сьогодні</string>
+     <string name="link_turbo_usage_state_today_total">Сьогодні</string>
+     <string name="wifi_link_turbo">Збільшення швидкості мобільним інтернетом</string>
+     <string name="wifi_link_turbo_app_settings_summary">Виберіть програми, які будуть використовувати функцію прискорення інтернету</string>
+     <string name="wifi_link_turbo_app_settings_title">Виберіть програми</string>
+     <string name="wifi_link_turbo_no_app">Програми відсутні</string>
+     <string name="wifi_link_turbo_off">Вимкнено</string>
+     <string name="wifi_link_turbo_on">Увімкнено</string>
+     <string name="wifi_link_turbo_summary">Збільште швидкість передачі даних для програм при поганому з\'єднанні Wi-Fi за допомогою мобільного інтернету</string>
      <string name="connection_and_sharing">Підключення</string>
      <string name="enable_screen_projection_summary">Вивід вмісту екрану на зовнішній екран</string>
      <string name="open_game_accelerate">Увімкнути Game Turbo</string>
