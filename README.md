@@ -9,7 +9,8 @@ At the moment it is used by **MiRoom**  and **xiaomi.eu**  teams.
 **Contributors:** 
 - bentezhniy;
 - romanua90;
-- AlexPechkin228.
+- AlexPechkin228;
+- ishkornik.
 
 #
 **Опис українською:**
@@ -21,7 +22,8 @@ At the moment it is used by **MiRoom**  and **xiaomi.eu**  teams.
 **Перекладачі:**
 - bentezhniy;
 - romanua90;
-- AlexPechkin228.
+- AlexPechkin228;
+- ishkornik.
 
 
 
