@@ -731,4 +731,24 @@
      <string name="wqfile_group_chat_voice">Голосові повідомлення</string>
      <string name="year_month_day_format">d MMMM yyyy</string>
      <string name="yesterday">Вчора</string>
+	  <string name="appcleaner_g_day_earlier">Раньше</string>
+     <string name="appcleaner_g_seven_day">Останній тиждень</string>
+     <string name="appcleaner_g_thirty_day">Останній місяць</string>
+     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Доступно %s кеша WeChat для очищення</string>
+     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Очищення кешу</string>
+     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Нагадування про очищення кешу WeChat</string>
+     <string name="appcleaner_wechat_pref_size_100_MB">100 МБ</string>
+     <string name="appcleaner_wechat_pref_size_1_GB">1 ГБ</string>
+     <string name="appcleaner_wechat_pref_size_300_MB">300 МБ</string>
+     <string name="appcleaner_wechat_pref_size_500_MB">500 МБ</string>
+     <string name="appcleaner_wechat_pref_time_every_day">Кожен день</string>
+     <string name="appcleaner_wechat_pref_time_fifteen_day">Кожні 15 днів</string>
+     <string name="appcleaner_wechat_pref_time_seven_day">Кожні 7 днів</string>
+     <string name="appcleaner_wechat_pref_time_three_day">Кожні 3 дня</string>
+     <string name="appcleaner_wechat_pref_title_clean_alert">Нагадування про очищення кешу WeChat</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Розмір кешу</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Нагадування</string>
+     <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Розмір кешу</string>
+     <string name="button_agree">Прийняти</string>
+     <string name="button_deny">Скасування</string>
 </resources>

@@ -1726,4 +1726,9 @@
      <string name="yellowpage_user_profile">Профіль</string>
      <string name="yesterday">Вчора</string>
      <string name="zero_items_selected">Оберіть контакти</string>
+	 <string name="callrecordview_menu_identify_numbers">Iдентифікація номерів</string>
+     <string name="contact_detail_calllog_correct_yellow_page">Виправити або повідомити</string>
+     <string name="contact_detail_more_calllog">Показати ще</string>
+	 <string name="yellowpage_address_tag">Адреса</string>
+     <string name="yellowpage_provider_label">Підтримка</string>
 </resources>

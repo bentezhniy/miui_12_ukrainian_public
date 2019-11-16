@@ -23,4 +23,8 @@
         <item quantity="few">Знайдено %d програми</item>
         <item quantity="many">Знайдено %d програм</item>
      </plurals>
+	 <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">До закінчення прискорення інтернету залишилося %d дн.</item>
+        <item quantity="one">До закінчення прискорення інтернету залишилося %d дн.</item>
+     </plurals>
 </resources>

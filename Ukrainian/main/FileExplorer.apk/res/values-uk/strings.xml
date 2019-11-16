@@ -534,6 +534,7 @@
     <string name="pick_folder">Виберіть теку</string>
     <string name="search_description">Пошук всіх файлів</string>
     <string name="add_private_files">Додати файли</string>
+    <string name="app_all_purpose">"Ви можете користуватися цією програмою для керування файлами на пристрої"</string>
     <string name="already_liked">Вже додано до обраного</string>
     <string name="cancel_operation">Скасувати</string>
     <string name="cancelled_by_user">Скасовано</string>

@@ -227,4 +227,8 @@
      <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>
      <string name="xspace_resolver_activity_title">Оберіть програму</string>
+	 <string name="flip_screen_camera_tip">Переверніть пристрій для використання камери</string>
+	 <string name="autofill_save_sub_message">Ви можете керувати паролями через налаштування > Паролі та безпека > %s.</string>
+	 <string name="input_method_clipboard_tips">Ці елементи будуть видалені з буфера обміну через 48 годин</string>
+	 <string name="data_usage_context">Якщо Wi-Fi не включений, ваш пристрій підключиться до мобільної мережі, що може привести до додаткових витрат в залежності від вашого плану.</string>
 </resources>

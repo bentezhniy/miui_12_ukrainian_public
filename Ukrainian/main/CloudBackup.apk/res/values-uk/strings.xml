@@ -253,4 +253,5 @@
      <string name="unselected">Не вибрано</string>
      <string name="unsupported_home">Потрібно оновити систему</string>
      <string name="wait_icon_download">Завантаження іконок програм</string>
+	 <string name="restoring_home_screen_apps">Відновлення з Xiaomi Cloud…</string>
 </resources>

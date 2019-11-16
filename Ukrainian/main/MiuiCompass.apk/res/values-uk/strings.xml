@@ -74,4 +74,7 @@
      <string name="using_camera_confirm_message">Дозволити програмі використовувати камеру?</string>
      <string name="using_camera_confirm_ok">ОК</string>
      <string name="using_camera_confirm_title">Попередження</string>
+	 <string name="permission_camera_desc">Використання рівня</string>
+     <string name="permission_location_desc">Відображення координат і атмосферного тиску</string>
+	 <string name="cta_v2_app_purpose">Відображення координат і атмосферного тиску</string>
 </resources>

@@ -54,5 +54,10 @@
         <item quantity="other">Минуло %1$s секунд після надсилання звіту</item>
         <item quantity="one">Минула %1$s секунда після надсилання звіту</item>
         <item quantity="few">Минуло %1$s секунди після надсилання звіту</item>
+	 <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Прогноз на %1$s дней</item>
+        <item quantity="one">Прогноз на %1$s день</item>
+        <item quantity="few">Прогноз на %1$s дня</item>
+     </plurals>
      </plurals>
 </resources>

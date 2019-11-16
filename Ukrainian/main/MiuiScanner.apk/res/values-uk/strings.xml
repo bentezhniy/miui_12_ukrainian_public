@@ -231,4 +231,15 @@
      <string name="wifi_pwd">Пароль:</string>
      <string name="wifi_security">Безпека:</string>
      <string name="wifi_ssid">SSID:</string>
+	 <string name="agree_app_use">Сканування QR-кодів і розпізнавання їх на зображеннях</string>
+     <string name="agree_camera_permission">Для зйомки фото і відео</string>
+     <string name="agree_storage_permission">Для доступу до файлів на вашому пристрої</string>
+     <string name="always">Завше</string>
+     <string name="choose_open_code_app">Виберіть програму</string>
+     <string name="close_hotspot_when_connecting_to_wifi">Точка доступу включена. Увімкніть Wi-Fi.</string>
+     <string name="once">Тільки зараз</string>
+     <string name="setting_function_sort">Сортування функцій</string>
+     <string name="to_install_title">Цей QR-код вимагає встановлення Програми. Завантажити цю програму?</string>
+     <string name="toinstall">Скачавши</string>
+	 <string name="flight_mode_connecting_to_wifi">Увімкніть Wi-Fi вручну, коли активний режим польоту.</string>
 </resources>

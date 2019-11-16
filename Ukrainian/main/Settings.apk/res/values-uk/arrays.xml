@@ -2144,4 +2144,14 @@
         <item>5x</item>
         <item>10x</item>
      </string-array>
+	 <string-array name="true_color_screen_optimize_summary">
+        <item>Використовуватися автоматичне регулювання кольору в залежності від поточного освітлення</item>
+        <item>Використовувати яскраві кольори</item>
+        <item>Використовувати стандартні кольори</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Авто (рекомендується)</item>
+        <item>Насичений</item>
+        <item>Стандарт</item>
+    </string-array>
 </resources>

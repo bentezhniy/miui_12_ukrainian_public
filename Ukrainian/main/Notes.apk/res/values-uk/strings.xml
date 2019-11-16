@@ -357,4 +357,21 @@
      <string name="setting_privacy">Політика конфіденційності</string>
      <string name="toast_notes_hidden_edit">Нотатку приховано. Для перегляду потягніть список донизу</string>
      <string name="toast_notes_hidden_home">Нотатку приховано. Для перегляду потягніть список донизу</string>
+	 <string name="confirm_cancel">Скасування</string>
+     <string name="confirm_ok">Приймати</string>
+     <string name="permission_get_account_desc">Синхронізація нотаток з хмарою</string>
+     <string name="permission_microphone_desc">Створення голосових нотаток</string>
+     <string name="permission_network_for_cloud_desc">Щоб синхронізувати нотатки з хмарою, потрібен доступ до інтернету. Дозволити підключення до мобільного інтернету?</string>
+     <string name="permission_read_contact_desc">"Прив'язка нотаток до викликів"</string>
+     <string name="permission_xiaoai_desc"><Data>Mi AI буде збирати ваші голосові записи і ID пристрої для створення голосових заміток. Дізнайтеся більше в &lt;a href=\"%1$s\">Політиці конфіденційності&lt;/a>.</Data></string>
+     <string name="pref_remind_type_summary">Відтворювати звуки нагадувань в режимі \"Без звуку\"</string>
+     <string name="pref_remind_type_title">Ігнорувати режим \"Без звуку\"</string>
+     <string name="remind_title">Нагадування</string>
+	 <string name="privacy_note_content_empty">Порожньо</string>
+	 <string name="audio_create_normal_state">Відпустіть для створення. Проведіть вгору для скасування.</string>
+     <string name="audio_create_will_cancel_state">Відпустіть для скасування</string>
+	 <string name="new_audio_create_cancel_talkback_des">Скасований</string>
+     <string name="new_audio_create_done_talkback_des">Створений</string>
+     <string name="new_audio_create_guide_tip">Утримуйте для створення голосової замітки</string>
+     <string name="new_audio_create_talkback_des">Натисніть, щоб створити текстову замітку. Утримуйте, щоб створити голосову. Відпустіть кнопку, щоб зупинити запис і створити замітку, або проведіть вгору, щоб відмінити.</string>
 </resources>

@@ -1341,4 +1341,33 @@
      <string name="session_create_error">Сервер повернувся з помилкою SESSION CREATE ERROR, будь ласка, повідомте SDK розробника!</string>
      <string name="signup_type_silent_default">тихо</string>
      <string name="signup_type_user_default">LoginSDK користувач</string>
+	 <string name="mi_message_title">Mi повідомлення</string>
+     <string name="mms_main_purpose">Потрібно доступ до інтернету для повноцінної роботи повідомлень</string>
+     <string name="mms_title">Повідомлення</string>
+     <string name="mx_main_purpose">Mi повідомлення дозволять користувачам MIUI обмінюватися повідомленнями безкоштовно через інтернет. Для активації буде надіслано SMS.</string>
+     <string name="mx_privacy_policy">Політика конфіденційності</string>
+     <string name="perm_purpose_mms_account">Для доступу до інформації аккаунта</string>
+     <string name="perm_purpose_mms_storage">Для збереження вкладень MMS</string>
+     <string name="perm_purpose_rcs_account">Для відображення керівництва для нових користувачів</string>
+     <string name="perm_purpose_rcs_phone_state">Для доступу до IMEI для ідентифікації вашого пристрою</string>
+     <string name="perm_purpose_rcs_storage">Для збереження зображень, відео, файлів і інших вкладень RCS.</string>
+     <string name="rcs_main_purpose">Ця функція дозволяє відправляти і отримувати повідомлення RCS. RCS повідомлення надаються China Mobile.</string>
+     <string name="rcs_message_title">RCS повідомлення</string>
+     <string name="smart_message_title">Розумні повідомлення</string>
+     <string name="smart_msg_main_purpose">Розумні повідомлення забезпечують розпізнавання відправника і додаткові сервіси</string>
+     <string name="smart_msg_privacy_policy">Політика конфіденційності</string>
+     <string name="system_permission_declare_agree">Прийняти</string>
+     <string name="system_permission_declare_disagree">Скасувати</string>
+     <string name="system_permission_declare_double_link" formatted="false">Перед використанням необхідно прийняти %1s и %2s</string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Ласкаво просимо в %1s! %2s</string>
+     <string name="system_permission_declare_no_say_no">Для коректної роботи програми необхідно дати всі дозволи</string>
+     <string name="system_permission_declare_privacy_declare">Ми поважаємо і захищаємо Вашу конфіденційність. \n%1s запитує наступні дозволи для коректної роботи:</string>
+     <string name="system_permission_declare_revoke_path">Ви можете відключити авторизацію для Mi повідомлень</string>
+     <string name="system_permission_declare_single_link">Перед використанням необхідно прийняти %1s</string>
+     <string name="system_permission_declare_triple_link" formatted="false">Перед використанням необхідно прийняти %1s, %2s, и %3s.</string>
+     <string name="system_permission_declare_use_network">Підключення до інтернету</string>
+     <string name="system_permission_perm_answer_call">Вчинення викликів</string>
+     <string name="system_permission_perm_read_mms">Читання MMS</string>
+     <string name="system_permission_perm_read_numbers">Читання номерів телефона</string>
+     <string name="system_permission_perm_send_mms">Відправлення MMS</string>
 </resources>

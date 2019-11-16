@@ -1165,4 +1165,8 @@
      <string name="which_call_to_activate">Який виклик активувати?</string>
      <string name="wild_prompt_str">Замінити універсальний символ</string>
      <string name="wrong_password">Помилка паролю</string>
+	 <string name="incoming_circle_text_video_answer">Потягніть для відповіді з відео</string>
+     <string name="incoming_circle_text_video_answer_p">Відповісти відео</string>
+     <string name="manager_conference_done">Готово</string>
+	 <string name="wifi_call">Виклик VoWifi</string>
 </resources>

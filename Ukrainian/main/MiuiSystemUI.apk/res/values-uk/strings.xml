@@ -2197,4 +2197,10 @@ d MMMM"</string>
      <string name="zen_priority_introduction">Вас не будуть турбувати звуки та вібрація, крім від будильників, нагадувань, подій та дзвінків від вказаних користувачів. Ви все ще будете чути все, що Ви захочете під час гри, включаючи музику, відео та ігри</string>
      <string name="zen_silence_introduction">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор</string>
      <string name="zen_silence_introduction_voice">Це заблокує ВСІ звуки та вібрацію, у тому числі від будильників, музики, відео та ігор. Ви все ще зможете робити телефонні дзвінки</string>
+	 <string name="face_data_apply_for_category_title">Розблокування по обличчю</string>
+     <string name="face_data_apply_for_keyguard_title">Екран блокування</string>
+     <string name="face_unlock_category_title">Налаштування екрану блокування</string>
+	 <string name="gxzw_quick_close">Закрыть</string>
+     <string name="gxzw_quick_open_title">Меню ярликів</string>
+	 <string name="quick_settings_sim_disabled">(відключений)</string>
 </resources>

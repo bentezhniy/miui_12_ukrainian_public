@@ -142,10 +142,17 @@
      <string name="description_direction_up">Проведіть вгору, щоб вимкнути</string>
      <string name="desk_clock_button_description">Годинник</string>
      <string name="dialog_confirm_abort">Скасувати зміни?</string>
+     <string name="dialog_legal_off_day">&lt;Data>Ви використовуєте будильники святкових днів. Для роботи цієї функції необхідне підключення до інтернету. Перед використанням ви повинні прочитати і прийняти нашу &lt;a href=\"%1$s\">Угоду користувача&lt;/a> та &lt;a href=\"%2$s\">Політику конфіденційності&lt;/a>. Ви погоджуєтеся?&lt;/Data></string>
+     <string name="dialog_legal_off_day_desc">Програмі Годинник не було надано дозвіл на підключення до інтернету для оновлення інформації про свята. Будильник буде спрацьовувати з Суботи по Неділю.</string>
+     <string name="dialog_legal_workday">&lt;Data>Ви використовуєте будильники робочих днів. Для роботи цієї функції необхідне підключення до інтернету. Перед використанням ви повинні прочитати і прийняти нашу &lt;a href=\"%1$s\">Угоду користувача&lt;/a> та &lt;a href=\"%2$s\">Політику конфіденційності&lt;/a>. Ви погоджуєтеся?&lt;/Data></string>
+     <string name="dialog_legal_workday_and_off_day">&lt;Data>Ви використовуєте щотижневі та святкові будильники. Для роботи цих функцій необхідне підключення до інтернету. Перед використанням ви повинні прочитати і прийняти нашу &lt;a href=\"%1$s\">Угоду користувача&lt;/a> та &lt;a href=\"%2$s\">Політику конфіденційності&lt;/a>. Ви погоджуєтеся?&lt;/Data></string>
+     <string name="dialog_legal_workday_and_off_day_desc">"Програмі Годинник не було надано дозвіл на підключення до інтернету для оновлення інформації про свята. Будильник буде спрацьовувати з Понеділка по П'ятницю."</string>
+     <string name="dialog_legal_workday_desc">"Програмі Годинник не було надано дозвіл на підключення до інтернету для оновлення інформації про робочі дні. Будильник буде спрацьовувати з Понеділка по П'ятницю."</string>
      <string name="dialog_message_agree">Погодитися</string>
      <string name="dialog_message_for_contact_permission">Для встановлення нагадувань про дні народження, годиннику необхідний доступ до Ваших контактів. Згодні?</string>
      <string name="dialog_message_negative">Не згоден</string>
      <string name="dialog_message_not_remind">Більше не показувати</string>
+     <string name="dialog_net_permission_in_repeat_type"><Data>Для роботи цієї функції необхідне підключення до інтернету. Перед використанням ви повинні прочитати і прийняти нашу &lt;a href=\"%1$s\">Угоду користувача&lt;/a> та &lt;a href=\"%2$s\">Політику конфіденційності&lt;/a>. Ви погоджуєтеся?</Data></string>
      <string name="digital_gadget">Цифровий годинник</string>
      <string name="disable_alarm">Вимкнути будильник</string>
      <string name="done">Готово</string>
@@ -407,4 +414,5 @@
      <string name="zone_time_offset_ahead_only_hour">%d г. більше</string>
      <string name="zone_time_offset_behind">%1$d г. %2$d хв. менше</string>
      <string name="zone_time_offset_behind_only_hour">%d г. менше</string>
+	 <string name="module_unzipping">Розпакування звуків…</string>
 </resources>

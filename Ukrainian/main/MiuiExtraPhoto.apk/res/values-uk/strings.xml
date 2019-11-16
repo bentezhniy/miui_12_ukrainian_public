@@ -49,4 +49,13 @@
      <string name="saving_image">Збереження фото…</string>
      <string name="saving_image_to_album">Збереження фото у %1$s…</string>
      <string name="wait_error">Завантаження…</string>
+	 <string name="motion_photo_cancel">Отмена</string>
+     <string name="motion_photo_save_fail">Не вдається зберегти</string>
+     <string name="motion_photo_save_gif">Зберегти як GIF</string>
+     <string name="motion_photo_save_gif_ing">Збереження GIF…</string>
+     <string name="motion_photo_save_image">Зберегти краще фото</string>
+     <string name="motion_photo_save_image_ing">Збереження кращого фото…</string>
+     <string name="motion_photo_save_video">Зберегти як відео</string>
+     <string name="motion_photo_save_video_ing">Збереження відео…</string>
+     <string name="motion_photo_toast_long_press_play">Утримуйте фото для відтворення</string>
 </resources>

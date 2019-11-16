@@ -65,4 +65,7 @@
      <string name="unbind_device_alert_content">"Зв\'язок з пристроєм \"%1$s\" відсутній тривалий час. Відв\'язати його для покращення продуктивності?"</string>
      <string name="unbind_device_alert_ok">ОК</string>
      <string name="unbind_device_alert_title">Попередження</string>
+	 <string name="fast_connect_device_headset">Батарея</string>
+	 <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
+     <string name="fast_connect_nzbt_reset">Утримуйте верхню кнопку протягом %1$s сек. у відключеному стані</string>
 </resources>

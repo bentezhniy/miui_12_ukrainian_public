@@ -627,4 +627,10 @@
         <item>Прозорий</item>
         <item>Білий</item>
      </string-array>
+	 <string-array name="response_labels2">
+        <item>Не відповідати</item>
+        <item>Прийняти</item>
+        <item>Вирішити пізніше</item>
+        <item>Відхиливши</item>
+     </string-array>
 </resources>

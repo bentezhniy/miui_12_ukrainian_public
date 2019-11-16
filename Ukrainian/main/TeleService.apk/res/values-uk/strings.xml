@@ -760,7 +760,7 @@
      <string name="dialpad_two">2</string>
      <string name="dialpad_wxyz">ЬЮЯ</string>
      <string name="dialpad_zero">0</string>
-     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цей додаток після перезавантаження, спершу потрібно буде розблокувати телефон</string>
+     <string name="direct_boot_unaware_dialog_message">Примітка: щоб запустити цей програма після перезавантаження, спершу потрібно буде розблокувати телефон</string>
      <string name="disable">Вимкнути</string>
      <string name="disable_all_cf">Вимкнути всі переадресації</string>
      <string name="disable_cfb_forbidden">Ваш оператор не підтримує вимкнення переадресації дзвінків, якщо телефон зайнятий</string>
@@ -2051,7 +2051,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="show_hw_screen_updates_summary">Показувати дані у вікнах під час малювання з GPU</string>
      <string name="show_non_rect_clip">Налагодження непрямокутного перетину</string>
      <string name="show_notification_channel_warnings">Показувати застереження про канал</string>
-     <string name="show_notification_channel_warnings_summary">З\'являється застереження, коли додаток надсилає сповіщення через недійсний канал</string>
+     <string name="show_notification_channel_warnings_summary">З\'являється застереження, коли програма надсилає сповіщення через недійсний канал</string>
      <string name="show_screen_updates">Оновлення екрану</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>
@@ -2566,4 +2566,16 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="wificall_switch_title">Виклики через Wi-Fi</string>
      <string name="wild_prompt_str">Замінити символ</string>
      <string name="window_animation_scale_title">Вікно: масштаб</string>
+	 <string name="prompt_to_suggest_to_open_volte_from_operator">"Не вдається здійснити виклик. Зв'яжіться з China Telecom, щоб включити послугу VoLTE."</string>
+     <string name="wifi_call_accept">ОК</string>
+     <string name="wifi_call_available_message">Ви можете здійснювати виклики по Wi-Fi</string>
+     <string name="wifi_call_available_title">Включення викликів по Wi-Fi</string>
+     <string name="wifi_call_cancel">Скасування</string>
+     <string name="wifi_call_help">Допомога</string>
+     <string name="wifi_call_help_message">Мобільні виклики будуть використовуватися за замовчуванням. У разі, якщо немає сигналу мобільної мережі або він дуже слабкий, буде використовуватися мережа Wi-Fi.</string>
+     <string name="wifi_call_help_title">Допомога за викликами Wi-Fi</string>
+     <string name="wifi_call_notification_message">Ця послуга надається Orange. Для активації цієї послуги може знадобитися кілька годин. Ви отримаєте SMS підтвердження.</string>
+     <string name="fiveg_power_secret_code_tip">Ви можете керувати цією функцією через програма Безпека - Батарея - Енергозбереження 5G</string>
+	 <string name="last_sim_callback_summary">При здійсненні виклику з журналу викликів буде використовуватися SIM-карта, з якою здійснювався попередній виклик.</string>
+     <string name="last_sim_callback_title">"Запам'ятовувати SIM-карту при виклику"</string>
 </resources>

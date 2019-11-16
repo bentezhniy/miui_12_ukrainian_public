@@ -92,4 +92,7 @@
      <string name="description_title">Про програму</string>
 	 <string name="app_notification_info">Запис екрану в фоновому режимі</string>
      <string name="recording_without_mic">Неможливо записати звук. Мікрофон використовується іншою програмою</string>
+	 <string name="permission_microphone_desc">Використання мікрофона в якості джерела звуку для запису екрану</string>
+     <string name="settings_other">Інше</string>
+     <string name="settings_privacy">Політика конфіденційності</string>
 </resources>

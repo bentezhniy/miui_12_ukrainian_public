@@ -951,4 +951,8 @@ SMS (%1$d), MMS (%2$d)."</string>
      <string name="notification_channel_sim2_name">Повідомлення SIM2</string>
      <string name="notification_group_name">Обмін повідомленнями</string>
      <string name="unsubscribe">Відписатися</string>
+	 <string name="cloud_recommend_view_tip">Увімкніть синхронізацію, щоб відновити важливі повідомлення.</string>
+	 <string name="mx_main_purpose_short">Mi повідомлення дозволяють користувачам MIUI спілкуватися між собою через інтернет</string>
+	 <string name="contact_card_unknown_contact">Невідомий номер</string>
 </resources>
+

@@ -577,4 +577,26 @@
      <string name="hourly_forecast_title_hourly_desc">Погодинний прогноз</string>
      <string name="privacy_policy">Політика конфіденційності</string>
      <string name="user_agreement">Умови користування</string>
+	 <string name="about_weather_setting">Про програму</string>
+     <string name="about_weather_setting_feedback">"Зворотний зв'язок"</string>
+     <string name="abrupt_weather_settings_summary_type">Отримувати сповіщення про очікувані опади, зміни якості повітря та інші значні зміни.</string>
+     <string name="alert_weather_enable_settings_summary">Отримувати офіційні попередження про погоду</string>
+     <string name="alert_weather_enable_settings_title">Попередження про погоду</string>
+     <string name="feedback">Повідомити про неточні дані</string>
+     <string name="request_permission_location_dialog_content">Для відображення інформації про погоду по вашому місцю розташування</string>
+     <string name="request_permission_main_purpose">Відображення прогнозу</string>
+     <string name="request_permission_read_phone_state_dialog_content">Для ідентифікації вашого пристрою</string>
+     <string name="request_permission_storage_dialog_content">Для обміну інформацією про погоду у вигляді зображення</string>
+     <string name="warning_weather_day_and_night_settings_summary">тримувати щоденні зведення погодних даних в 7:00 і 19:00</string>
+     <string name="warning_weather_day_and_night_settings_title">Щоденні зведення</string>
+	 <string name="life_index_title">Індекс погоди</string>
+	 <string name="q_version_location_provider_btn_text">Увімкніть доступ до місця розташування для точного визначення вашого місця розташування</string>
+	 <string name="refresh_empty_data">Не вдається оновити дані</string>
+	 <string name="view_indexes_item_day_after_tommorrow">Через 2 дні</string>
+	 <string name="accessibility_ad_close">Відключити рекомендації</string>
+     <string name="accessibility_webview_share">Поділитися</string>
+     <string name="card_item_ad_text">Реклама</string>
+     <string name="index_item_download_pause">Продовжити завантаження</string>
+     <string name="weather_list_info">Додатково</string>
+     <string name="weather_list_title">Погода</string>
 </resources>

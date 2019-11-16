@@ -55,8 +55,6 @@
      <string name="sport_headline">Активність сьогодні</string>
      <string name="timeline_headline">Інформація</string>
      <string name="vertical_separator">|</string>
-	 <string name="cta_dialog_text_new_user">Перед використанням необхідно погодитися з %1$s\"Угодою користувача\"%2$s, %3$s\"Політикою конфіденційності Xiaomi\"%4$s та %5$s\"Політикою конфіденційності програми\"%6$s. Для коректної роботи необхідне інтернет-підключення</string>
-     <string name="cta_dialog_text_old_user">Перед використанням необхідно погодитися з %1$s\"Угодою користувача\"%2$s</string>
 	 <string name="favorite_title_modify_failed">"Неможливо змінити ім'я"</string>
      <string name="miot_device_personal_assistant_eula">Угода користувача</string>
      <string name="miot_device_personal_assistant_eula_priv">" та "</string>
@@ -223,7 +221,11 @@
      <string name="cta_dialog_positive">ОК</string>
      <string name="cta_dialog_text1">Перед використанням Mi Помічника необхідно прийняти</string>
      <string name="cta_dialog_text2">\"Угоду користувача\"</string>
+	 <string name="cta_dialog_text_new_user">Прочитайте і погоджуйтеся з нашими %1$sУгода користувача%2$s і %3$sПолітика конфіденційності%4$s.</string>
      <string name="cta_dialog_text3">та</string>
+	 <string name="cta_not_now">Не зараз</string>
+     <string name="cta_old_not_use">Не зараз</string>
+	 <string name="cta_old_start">Старт</string>
      <string name="cta_dialog_text4">\"Політику конфіденційності\".</string>
      <string name="cta_dialog_text5">Також потрібно підключення до інтернету. Продовжити?</string>
      <string name="cta_dialog_title">Умови користування</string>
@@ -1179,4 +1181,9 @@
      <string name="shopping_search">Пошук по магазину</string>
      <string name="tb_setting_xiaoai">Голосовий помічник</string>
      <string name="team_selected">Обрано:%s</string>
+     <string name="display_weather_default">Натисніть, щоб отримати інформацію про погоду</string>
+	 <string name="app_suggest_setting_title">Програми</string>
+     <string name="all_function_title">Усі ярлики</string>
+	 <string name="selected_shortcuts_title">Особливості</string>
+	 <string name="app_suggest_setting_brief">Показати нещодавно використані програми</string>
 </resources>

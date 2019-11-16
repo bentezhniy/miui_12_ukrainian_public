@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="settings_clear_data_confirmation">
+        <item quantity="other">"Якщо ви видалите паролі, вам буде потрібно ввести їх вручну при наступній авторизації.\u000d
+Видалити паролі для %1$s додатків?"</item>
+        <item quantity="one">"Якщо ви видалите паролі, вам буде потрібно ввести їх вручну при наступній авторизації.\u000d
+Видалити паролі для %1$s додатка?"</item>
+    </plurals>
+</resources>

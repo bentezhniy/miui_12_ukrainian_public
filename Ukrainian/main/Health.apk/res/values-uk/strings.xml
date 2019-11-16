@@ -314,4 +314,13 @@
 грунтуючись на Вашій особистій інформації"</string>
     <string name="splash_header_subtitle">"Регулярні фізичні вправи і сон\u000d
 можуть покращити Ваше здоров\'я"</string>
+     <string name="dialog_sleep_purpose">"Ласкаво просимо в сервіс відстеження активності Mi Health! Ви можете використовувати цей сервіс для відстеження вашого сну. M iHealth автоматично запише ваш сон на основі використання вашого телефону, статистики активності, а також встановленого вами часу засинання і пробудження. Щоб забезпечити точність даних сну, Mi Health потрібен дозвіл на автозапуск. Всі дані, пов'язані з цією функцією, будуть зберігатися локально на вашому пристрої."</string>
+     <string name="go_back_to_today">Сьогодні</string>
+     <string name="label_average_daily_sleep_time2">Середній час засипання</string>
+     <string name="label_sleep2">Засипання</string>
+     <string name="label_sleep_time2">Час засипання</string>
+     <string name="permission_check_result_failed">Не вдається встановити</string>
+     <string name="sleep_need_auto_start">Дозвольте Mi Health автозапуск, щоб забезпечити більш точні дані сну.</string>
+     <string name="sleep_need_background_run">Вибрати \"Без обмежень\", щоб забезпечити більш точні дані сну.</string>
+     <string name="sleep_need_necessary_permissions">Надайте необхідні дозволи, щоб забезпечити більш точні дані сну.</string>
 </resources>

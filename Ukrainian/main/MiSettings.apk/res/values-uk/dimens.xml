@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="usage_state_device_usage_explain_text_size">14.0dip</dimen>
+    <dimen name="usage_state_text_size60">16.0sp</dimen>
+    <dimen name="usage_state_text_size70">18.0sp</dimen>
+    <dimen name="usage_state_text_size75">22.0sp</dimen>
+    <dimen name="usage_stats_app_usage_list_title_text_size">16.0sp</dimen>
+</resources>

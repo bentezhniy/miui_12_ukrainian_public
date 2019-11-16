@@ -115,4 +115,6 @@
      <string name="printer_info_desc">Детальні відомості про принтер</string>
      <string name="recommended_services_title">Рекомендовані служби</string>
      <string name="select_to_add_printers">Оберіть, щоб додати принтер</string>
+	 <string name="copies_decrease">Мінус одна копія</string>
+     <string name="copies_increase">Плюс одна копія</string>
 </resources>

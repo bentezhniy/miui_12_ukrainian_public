@@ -637,4 +637,9 @@
      <string name="year" />
      <string name="younger_brother">Молодший брат</string>
      <string name="younger_sister">Молодша сестра</string>
+	 <string name="network_purpose">Ласкаво просимо в калькулятор! Калькулятор дозволяє конвертувати валюти, розраховувати виплати по іпотечних кредитах і багато іншого.</string>
+	 <string name="preference_use_voice_summary">Використовувати озвучування введення під час обчислень</string>
+     <string name="preference_use_voice_title">Озвучування введення</string>
+     <string name="preference_user_feedback_title">Відкликання</string>
+     <string name="voice_guide_text">Ви можете включити озвучування введення</string>
 </resources>

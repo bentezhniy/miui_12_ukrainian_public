@@ -281,4 +281,6 @@
      <string name="vip_feedback_enable">Увімкнути VIP автозвіт</string>
      <string name="warm_configure">Налаштування термоконтролю</string>
      <string name="warm_performance_tip">У продуктивному режимі температура пристрою збільшиться</string>
+	 <string name="permstep_description">Дозволяє додатку відстежувати інформацію про кроки</string>
+	 <string name="permstep_label">Відстеження кроків</string>
 </resources>

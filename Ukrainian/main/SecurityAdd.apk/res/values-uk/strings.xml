@@ -141,4 +141,27 @@
 	 <string name="gb_alipays_can_not_complete">Неможливо здійснити платіж. Інсталюйте, щоб продовжити</string>
      <string name="gb_weixinpay_can_not_complete">Неможливо здійснити платіж. Інсталюйте, щоб продовжити</string>
 	 <string name="xunyou_pay_webview">Сервіси Xunyou</string>
+	 <string name="camera_perm_dialog_btn_cancel">Отмена</string>
+     <string name="camera_perm_dialog_btn_ok">ОК</string>
+     <string name="camera_perm_dialog_message">"Дозволити доступ до камери для роботи цієї функції?"</string>
+     <string name="camera_perm_dialog_title">Попередження</string>
+     <string name="superpower_app_contact">Контакты</string>
+     <string name="superpower_app_delete">Видалити</string>
+     <string name="superpower_app_edit">Змінивши</string>
+     <string name="superpower_app_exit">Вихід</string>
+	 <string name="superpower_app_isadded">Доданий</string>
+     <string name="superpower_app_mms">Повідомлення</string>
+     <string name="superpower_app_phone">Телефон</string>
+	 <string name="superpower_settings_launcher">Ультра енергозбереження</string>
+	 <string name="superpower_toast_app_select_full">Ви можете додати до 6 часто використовуваних додатків</string>
+	 <string name="cancel">Отмена</string>
+     <string name="fingerprint_not_remind">"Запам'ятавши"</string>
+     <string name="free_send_net_booster">Безкоштовне прискорення інтернету</string>
+     <string name="free_send_net_booster_busniess">Отримати безкоштовне прискорення Xunlei</string>
+     <string name="free_send_net_booster_busniess_tip">Одержавши</string>
+     <string name="free_send_net_booster_tip">Насолоджуйтесь плавними іграми з безкоштовним прискоренням Інтернету</string>
+     <string name="net_booster_expire_notification">Сеанс прискорення інтернету закінчується</string>
+     <string name="net_booster_overdue_notification">Сеанс прискорення iнтернету добігає кінця</string>
+     <string name="net_booster_overdue_notification_tip">Прискорення інтернету закінчилося. Відновивши?</string>
+     <string name="renew_now">Відновивши</string>
 </resources>

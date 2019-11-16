@@ -485,4 +485,9 @@
      <string name="xspace_uninstalling">Видалення…</string>
      <string name="xspace_weibo_title">Weibo</string>
      <string name="xspace_weixin_title">WeChat</string>
+	 <string name="xspace_disable">Не створено</string>
+     <string name="xspace_enable">Створений</string>
+     <string name="xspace_notification">Повідомлення клонованих додатків</string>
+     <string name="xspace_notification_error">Увійдіть до клонованого WeChat і спробуйте знову</string>
+     <string name="xspace_settins">Установивши</string>
 </resources>

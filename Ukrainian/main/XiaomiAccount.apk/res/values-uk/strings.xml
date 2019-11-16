@@ -985,4 +985,15 @@ ID:%s
      <string name="xiaomi_traffic_pass_used">Використовується пакет %s</string>
      <string name="xiaomi_traffic_pass_warning">Слабкий сигнал підключення</string>
      <string name="xiaomi_traffic_return">Назад</string>
+	 <string name="passport_ticket_login_select_sim_card">Виберіть SIM-карту</string>
+     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+     <string name="passport_ticket_login_select_sim_card_cancel">Скасування</string>
+	 <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">При активації SIM-картки не вдалося отримати номер</string>
+     <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">При активації SIM-карти не вдалося отримати номер, але оператор прийняв номер: %s</string>
+     <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">SIM-карта активована: %s</string>
+     <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Помилка активації SIM-карти</string>
+     <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">SIM-карта активована: %s</string>
+	 <string name="pwd_width_phone_number_or_mail_num">Пароль не може містити ваш номер телефону, адресу Email або ідентифікатор Mi облікового запису.</string>
+	 <string name="risky_pwd_not_allow">Новий пароль небезпечний. Встановіть інший.</string>
 </resources>

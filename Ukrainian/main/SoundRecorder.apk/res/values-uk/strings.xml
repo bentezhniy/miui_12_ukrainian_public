@@ -216,4 +216,10 @@
      <string name="wifi_recommended_title">Попередження про трафік</string>
      <string name="privacy_policy_title">Політика конфіденційності</string>
 	 <string name="alert_message_delete_local_record">Видалити запис?</string>
+	 <string name="usage_description">Запис звуку і синхронізація з Mi Cloud</string>
+	 <string name="online_recognize_progress">Конвертація %s…</string>
+     <string name="search_empty">Немає результатів</string>
+     <string name="search_hint">Пошук</string>
+	 <string name="cancel_rename">Скасування</string>
+     <string name="loading_more">Завантаження…</string>
 </resources>

@@ -31,4 +31,9 @@
         <item quantity="other">Пам\'ять закінчується (менше %d хвилин)</item>
         <item quantity="one">Пам\'ять закінчується (менше %d хвилини)</item>
      </plurals>
+	  <plurals name="search_result">
+        <item quantity="other">Знайдений %d запис</item>
+        <item quantity="one">Знайдений %d запис</item>
+        <item quantity="few">Знайдений %d запис</item>
+     </plurals>
 </resources>
