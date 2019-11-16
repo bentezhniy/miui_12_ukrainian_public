@@ -446,4 +446,21 @@
      <string name="screen_overlay_message">Для зміни цього дозволу необхідно вимкнути графічні накладки в налаштуваннях</string>
      <string name="screen_overlay_title">Виявлення графічних накладок</string>
      <string name="wakepath_confirm_start_activity">Дозволити \"%1$s\" відкривати %2$s?</string>
+	 <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ до номера телефону і IMSI</string>
+     <string name="permdesc_camera">Зйомка фото і відео</string>
+     <string name="permdesc_in_calls">Доступ до вхідних викликів</string>
+     <string name="permdesc_location">Доступ до місця розташування</string>
+     <string name="permdesc_microphone">Запис викликів і звуку</string>
+     <string name="permdesc_out_calls">Доступ до вихідних викликів</string>
+     <string name="permdesc_read_calendar">Доступ до подій календаря</string>
+     <string name="permdesc_read_storage">"Доступ до файлів на пристрої"</string>
+     <string name="permdesc_recognition">"Доступ до даних активності і здоров'я"</string>
+     <string name="permdesc_sensors">Доступ до даних датчиків тіла</string>
+     <string name="permdesc_write_calendar">Доступ до управління подіями календаря</string>
+     <string name="permdesc_write_storage">Доступ до управління файлами на пристрої</string>
+	 <string name="preference_use_voice_summary">Використовувати озвучування введення під час обчислень</string>
+     <string name="preference_use_voice_title">Озвучування введення</string>
+     <string name="preference_user_feedback_title">Відкликання</string>
+     <string name="voice_guide_text">Ви можете включити озвучування введення</string>
+	 <string name="permdesc_location_background">Доступ до місця розташування у фоновому режимі</string>
 </resources>
