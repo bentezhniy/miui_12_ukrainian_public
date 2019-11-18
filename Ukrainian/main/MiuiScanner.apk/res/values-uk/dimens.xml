@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="translation_text_max_width">120.0dip</dimen>
-	<dimen name="translation_language_pair_list_width">150.0dip</dimen>
-</resources>
