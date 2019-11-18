@@ -4088,7 +4088,6 @@
 	 <string name="power_save_settings">Налаштування батареї</string>
 	 <string name="battery_and_property">Батарея</string>
 	 <string name="battery_statistics_activity_title">Використання батареї</string>
-	 <string name="battery_statistics_activity_title">Споживання енергії</string>
      <string name="pc_battery_history_consume_rank_menu_item">Рейтинг</string>
      <string name="pc_battery_history_battery_detail_menu_item">Деталі</string>
      <string name="pc_battery_history_rank_percent_menu_item">Відсотки</string>
@@ -4124,7 +4123,6 @@
      <string name="privacy_notification_title_mic">%1s використовує мікрофон у фоновому режимі</string>
 	 <string name="power_center_scan_item_title_5g">"5G з'єднання"</string>
 	 <string name="power_dialog_super_save_msg_5g">"Ультра енергозбереження обмежує більшість функцій з високим енергоспоживанням (наприклад, 5G з'єднання), а також знижує продуктивність пристрою. Включити ультра енергозбереження?"</string>
-     <string name="power_dialog_super_save_title">Ультра енергозбереження</string>
 	 <string name="power_optimize_disable_5g">"Обмеження 5G з'єднання"</string>
 	 <string name="power_save_ps_close_setting_5g">"Обмежити функції з високим енергоспоживанням (синхронізація, 5G з'єднання, GPS)"</string>
 	 <string name="privacyapp_number_masked_text">Зміст повідомлення приховано</string>
