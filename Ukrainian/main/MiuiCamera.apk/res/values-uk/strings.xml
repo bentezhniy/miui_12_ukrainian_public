@@ -1212,9 +1212,6 @@
      <string name="location_permission_des">Додавати інформацію про місцезнаходження на фото і відео</string>
      <string name="manually_raw_hint">RAW</string>
      <string name="network_access_user_notice_agree">ОК</string>
-     <string name="network_access_user_notice_message_live_video">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
-     <string name="network_access_user_notice_message_sticker">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
-     <string name="network_access_user_notice_message_voice_caption">"Перед использованием этой функции необходимо принять "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="pref_video_subtitle">Розпізнавання слів</string>
      <string name="reset_manually_parameter_confirmed">ОК</string>
      <string name="reset_manually_parameter_hint">Скидання</string>
