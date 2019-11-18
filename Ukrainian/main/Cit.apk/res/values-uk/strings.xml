@@ -1050,7 +1050,7 @@
      <string name="battery_reverse_wireless_charge_time_out">Час очікування зворотного бездротова зарядки вийшло</string>
      <string name="battery_reverse_wireless_charge_title">Зворотна бездротова зарядка</string>
      <string name="cit_depth_camera_check_title">Камера глибини</string>
-     <string name="cit_flicker_sensor_check_summary">Значення для мерехтіння повинні з'явитися нижче</string>
+     <string name="cit_flicker_sensor_check_summary">Значення для мерехтіння повинні з\'явитися нижче</string>
      <string name="cit_flicker_sensor_check_title">Датчик мерехтіння</string>
      <string name="cit_tele_camera_check_title">Теле камера</string>
 	 <string name="cit_tool_wifi_rxax_test">Rx: ax</string>
