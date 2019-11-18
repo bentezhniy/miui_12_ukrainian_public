@@ -16,7 +16,7 @@
      <string name="mr_dialog_transferable_header">Грати в групі</string>
      <string name="not_set">Не встановлено</string>
      <string name="osu_completing_sign_up">Завершення входу...</string>
-     <string name="osu_connect_failed">Неможливо з'єднатися</string>
+     <string name="osu_connect_failed">Неможливо з\'єднатися</string>
      <string name="osu_opening_provider">Запуск %1$s</string>
      <string name="osu_sign_up_complete">Вхід завершено. Підключення...</string>
      <string name="osu_sign_up_failed">Неможливо увійти</string>
