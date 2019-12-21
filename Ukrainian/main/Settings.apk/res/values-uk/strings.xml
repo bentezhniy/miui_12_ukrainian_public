@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="full_screen_keyboard_settings">Налаштування повноекранної клавіатури</string>
+     <string name="privacy_dashboard_title">Конфіденційність</string>
+     <string name="wifi_privacy_settings">Конфіденційність</string>
+	 <string name="full_screen_keyboard_settings">Налаштування повноекранної клавіатури</string>
      <string name="input_method_bottom_close">Вимкнено</string>
      <string name="input_method_bottom_open">Увімкнено</string>
      <string name="input_method_manage">Керування клавіатурами</string>
-     <string name="input_method_settings_text">Параметри</string>
+     <string name="input_method_settings_text">Налаштування</string>
      <string name="keyboard_mouse_touch">Клавіатура і миша</string>
      <string name="other_input_settings">Додатково</string>
 	 <string name="link_turbo_prompt">Статистика на цій сторінці показує тільки обсяг даних, що використовуються для підвищення швидкості Wi-Fi з\'єднання. Вона не відображає фактичне використання мобільного інтернету</string>
@@ -4088,7 +4090,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="high_power_prompt_title">Не обмежувати витрати батареї?</string>
      <string name="high_power_system">Економія заряду недоступна</string>
      <string name="history_details_title">Докладна історія</string>
-     <string name="home">Параметри</string>
+     <string name="home">Налаштування</string>
      <string name="home_app">Головна програма</string>
      <string name="home_app_uninstall_button">Видалити програму</string>
      <string name="home_key">Клавіша \"Додому\"</string>
@@ -6717,7 +6719,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="search_fluency_mode">Режим плавності</string>
      <string name="search_font">шрифт</string>
      <string name="search_force_touch">3D натискання</string>
-     <string name="search_gesture_wakeup_title">Пробудження подвійним натисканням</string>
+     <string name="gesture_wakeup_title">Пробудження подвійним натисканням</string>
      <string name="search_gps">GPS</string>
      <string name="search_handy_mode">керування однією рукою</string>
      <string name="search_hint">Налаштування пошуку</string>
@@ -7035,8 +7037,8 @@ UT-інтерфейс: %5$s"</string>
      <string name="settings_backup_summary">Резервна копія налаштувань</string>
      <string name="settings_button">Налаштування</string>
      <string name="settings_forbidden_message">Цю функцію вимкнено</string>
-     <string name="settings_label">Параметри</string>
-     <string name="settings_label_launcher">Параметри</string>
+     <string name="settings_label">Налаштування</string>
+     <string name="settings_label_launcher">Налаштування</string>
      <string name="settings_license_activity_loading">Завантаження…</string>
      <string name="settings_license_activity_title">Ліцензії відкритого ПЗ</string>
      <string name="settings_license_activity_unavailable">При завантаженні ліцензій виникла несправність</string>
@@ -7100,7 +7102,7 @@ UT-інтерфейс: %5$s"</string>
      <string name="show_cpu_usage">Показувати завантаження ЦП</string>
      <string name="show_cpu_usage_summary">Відображення поточного завантаження процесора</string>
      <string name="show_dev_already">Ви вже розробник</string>
-     <string name="show_dev_on">Параметри розробника відкриті</string>
+     <string name="show_dev_on">Налаштування розробника відкриті</string>
      <string name="show_fc">Показувати помилки FC</string>
      <string name="show_fc_summary">Показувати інформацію про критичні помилки програм</string>
      <string name="show_hw_layers_updates">Відновлення шарів</string>

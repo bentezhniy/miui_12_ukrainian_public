@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-    <string name="no_space_toast_when_click_widget">Немає вільного місця</string>
-    <string name="unstable_dialog_content">Це тестова версія системи Android, яка може бути змінена. Використання цієї системи регулюється Ліцензійною угодою попереднього перегляду Android SDK. Тестов версія системи Android не є стабільною версією і може містити помилки, які можуть призвести до втрати даних. Тестова версія Android не піддавалася такому ж тестуванню, як заводська ОС, і може привести до припинення роботи цього пристрою, встановлених служб або програм</string>
+     <string name="system_shortcuts_more_operation">Інфо</string>
+	 <string name="no_space_toast_when_click_widget">Немає вільного місця</string>
+     <string name="unstable_dialog_content">Це тестова версія системи Android, яка може бути змінена. Використання цієї системи регулюється Ліцензійною угодою попереднього перегляду Android SDK. Тестов версія системи Android не є стабільною версією і може містити помилки, які можуть призвести до втрати даних. Тестова версія Android не піддавалася такому ж тестуванню, як заводська ОС, і може привести до припинення роботи цього пристрою, встановлених служб або програм</string>
      <string name="activity_not_unlocked">Дочекайтесь повного завантаження пристрою</string>
      <string name="default_folder_title_meitu">Meitu</string>
      <string name="shake_to_align_icons">Потрусіть пристрій для заповнення пустих комірок</string>

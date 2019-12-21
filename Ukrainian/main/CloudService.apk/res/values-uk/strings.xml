@@ -426,7 +426,7 @@
      <string name="micloud_main_sync_exception">Помилка синхронізації</string>
      <string name="micloud_main_sync_init">Отримання інформації</string>
      <string name="micloud_main_sync_mode_summary">Всі об\'єкти, крім фото та відео, будуть синхронізуватися в режимі реального часу. Ця функція збільшить споживання енергії.</string>
-     <string name="micloud_main_sync_mode_title">Синхронізація в руальному часі</string>
+     <string name="micloud_main_sync_mode_title">Синхронізація в реальному часі</string>
      <string name="micloud_main_sync_need_charge">Очікування зарядки</string>
      <string name="micloud_main_sync_need_charge_or_sleep">Зарядіть пристрій</string>
      <string name="micloud_main_sync_now">Синхронізувати</string>
