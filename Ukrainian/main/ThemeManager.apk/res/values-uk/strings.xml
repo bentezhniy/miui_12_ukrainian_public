@@ -6,7 +6,6 @@
      <string name="audition_ringtone">Грати</string>
      <string name="count_down_tip">Залишилося %ds сек.</string>
      <string name="enable_transparent_wallpaper">Використовувати прозорі шпалери</string>
-     <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
      <string name="like_list">Вподобані</string>
      <string name="multi_sim_mms_ringtone_settings_dialog_message">Ця мелодія буде застосована для обох SIM-карт</string>
      <string name="playing_ringtone">Відтворення</string>
