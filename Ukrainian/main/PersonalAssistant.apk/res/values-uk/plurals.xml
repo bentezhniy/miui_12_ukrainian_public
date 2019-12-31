@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="agenda_count_down">
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Додано %d номери</item>
+        <item quantity="one">Додано %d номер</item>
+     </plurals>
+	<plurals name="agenda_count_down">
         <item quantity="other">Через %d хв.</item>
         <item quantity="one">Через %d хв.</item>
      </plurals>

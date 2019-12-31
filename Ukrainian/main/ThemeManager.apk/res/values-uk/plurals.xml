@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="detail_update_time_hour">
+     <plurals name="resource_rating">
+        <item quantity="other">%1$.1f бали</item>
+        <item quantity="one">%1$.1f бал</item>
+     </plurals>
+     <plurals name="ringtone_nums">
+        <item quantity="other">%1$s мелодії дзвінка</item>
+        <item quantity="one">%1$s мелодія дзвінка</item>
+     </plurals>
+     <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Шукати серед %1$d програм</item>
+        <item quantity="one">Шукати серед %1$d програми</item>
+     </plurals>
+     <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">Знайдено %1$d програм</item>
+        <item quantity="one">%1$d програму знайдено</item>
+     </plurals>
+     <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Ви зможете спробувати \"%2$s\" безкоштовно на %1$d годин"</item>
+        <item quantity="one">"Ви зможете спробувати \"%2$s\" безкоштовно на %1$d година"</item>
+     </plurals>
+     <plurals name="try_3_day">
+        <item quantity="other">3-денна безкоштовна пробна версія (%1$d елементів залишилося на сьогодні)</item>
+        <item quantity="one">3-денна безкоштовна пробна версія (%1$d елемент залишився на сьогодні)</item>
+     </plurals>
+	 <plurals name="detail_update_time_hour">
         <item quantity="other">%d год. тому</item>
         <item quantity="one">%d год. тому</item>
      </plurals>
@@ -44,5 +68,6 @@
         <item quantity="other">%1$s робіт</item>
         <item quantity="one">%1$s робота</item>
         <item quantity="few">%1$s роботи</item>
+		<item quantity="many">%1$s робіт</item>
      </plurals>
 </resources>

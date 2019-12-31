@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="bind_google">"Прив'яжіть свій Google акаунт"</string>
+     <string name="passport_can_not_receive_verification_code">Не отримали код підтвердження?</string>
+	 <string name="bind_google">"Прив'яжіть свій Google акаунт"</string>
      <string name="bind_weixin">"Прив'яжіть свій акаунт WeChat"</string>
      <string name="google">Google</string>
      <string name="need_install_wechat">Спочатку встановіть WeChat</string>

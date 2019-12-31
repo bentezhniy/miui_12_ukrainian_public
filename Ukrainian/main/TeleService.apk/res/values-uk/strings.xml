@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-   <string name="location">Регіон</string>
+     <string name="advanced_mobile_settings">Додатково</string>
+     <string name="fiveg_sa_switch_open_dialog_content">"5G з'єднання може бути нестабільним в автономному режимі, що може вплинути на якість зв'язку. Все одно увімкнути режим SA?"</string>
+     <string name="fiveg_sa_switch_open_dialog_title">Попередження</string>
+     <string name="fiveg_sa_switch_summary">Дозволити підключення до мереж 5G в автономному режимі</string>
+     <string name="fiveg_sa_switch_title">Мережа SA</string>
+     <string name="main_netcheck_summary">"Тестове з'єднання для виявлення проблем"</string>
+     <string name="mobile_advanced_dns_server_title">Адреса DNS-сервера</string>
+     <string name="mobile_advanced_ip_address_title">IP-адреса</string>
+     <string name="mobile_connection_management">Керування підключенням до мобільної мережі</string>
+     <string name="mobile_property">Властивості мобільної мережі</string>
+     <string name="netcheck_title">Діагностика мобільної мережі</string>
+     <string name="prompt_to_suggest_no_call_service_notification_content">Сервіс VoLTE вимкнено для вашої SIM (China Telecom)</string>
+     <string name="prompt_to_suggest_no_call_service_notification_content2">Сервіс VoLTE вимкнено для SIM %d (China Telecom)</string>
+     <string name="prompt_to_suggest_no_call_service_notification_title">Неможливо здійснювати виклики</string>
+     <string name="prompt_to_suggest_to_open_volte_from_operator2">"Неможливо здійснювати виклики з SIM %d. Зв'яжіться з China Telecom для активації сервісу VoLTE"</string>
+     <string name="location">Регіон</string>
 	 <string name="operator">Оператор</string>
 	 <string name="smsc_dialog_message">Переконайтеся, що номер вказаний вірно. Інакше ви не зможете відправляти або отримувати SMS. Зверніться до свого оператора для підтвердження вашого номера SMSC</string>
      <string name="network_mode_updating_title">Тип мережі</string>
