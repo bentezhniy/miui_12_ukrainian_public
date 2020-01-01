@@ -14,7 +14,6 @@
      <string name="location_access_allow">Дозволити</string>
      <string name="miservice_notification_content">Натисніть для перегляду інформації</string>
      <string name="miservice_notification_title">Функції камери</string>
-     <string name="network_access_user_notice_message_live_video">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="network_access_user_notice_message_sticker">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="network_access_user_notice_message_voice_caption">"Перед использованием этой функции необходимо принять "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="parameter_description_pro_capture_title">Професійна камера</string>
