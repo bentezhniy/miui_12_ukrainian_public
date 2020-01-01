@@ -73,7 +73,6 @@
      <string name="dialog_feedback_purpose2">Для відправки відкликання</string>
      <string name="dialog_feedback_title">Відкликання</string>
      <string name="dialog_health_applicator">Вкажіть свою дату народження</string>
-     <string name="dialog_juveniles_link">Відповідно до нашої <a href=\"%1$s\">Політикою конфіденційності</a>, користуватися цією програмою можуть особи старше 18 років.</string>
      <string name="dialog_menstruation_purpose">Ласкаво просимо в програму \"Здоров'я\"! Функція \"Менструація\" дозволяє вести записи про менструації, визначати приблизні дати початку циклів, а також отримувати корисні повідомлення. Всі дані зберігаються локально на пристрої, що дозволяє легко управляти ними.</string>
      <string name="dialog_no_more_prompt">Більше не показувати</string>
      <string name="dialog_open">Дозволяти</string>
