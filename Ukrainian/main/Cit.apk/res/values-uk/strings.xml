@@ -81,7 +81,7 @@
      <string name="cit_reset_ese_title">Скидання eSE</string>
      <string name="cit_reset_se">Скидання eSE</string>
      <string name="cit_reset_se_nfc_closed">Помилка: NFC потрібно увімкнути.</string>
-     <string name="cit_reset_se_start">Скидання eSE...</string>
+     <string name="cit_reset_se_start">Скидання eSE…</string>
      <string name="cit_reverse_charge_check_summary">Підключіть OTG для зарядки</string>
      <string name="cit_soft_torch">"Фронтальний м'який спалах"</string>
      <string name="cit_soft_torch_on">"Увімкнути м'який спалах"</string>
@@ -119,7 +119,7 @@
      <string name="fod_check_unknown_sensor_type">Невідомий тип сканера відбитків. Неможливо завершити тест.</string>
      <string name="fod_fingerprint_input_description">Тест сканера відбитків</string>
      <string name="fod_fingerprint_input_title">Тест сканера відбитків</string>
-     <string name="fod_pressure_sensor_pressure_data_collection">Збір даних про натисканя ...</string>
+     <string name="fod_pressure_sensor_pressure_data_collection">Збір даних про натисканя …</string>
      <string name="fod_pressure_sensor_test_exception">Читання виключення файлу вузла</string>
      <string name="fod_pressure_sensor_test_pressure_too_big">"Занадто сильне натискання: %1$d
 Натисніть кнопку скасувати."</string>

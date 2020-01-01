@@ -2585,7 +2585,7 @@ SIM-карта буде очищена при невдалій спробі вв
      <string name="wifi_call_accept">ОК</string>
      <string name="wifi_call_available_message">Ви можете здійснювати виклики по Wi-Fi</string>
      <string name="wifi_call_available_title">Включення викликів по Wi-Fi</string>
-     <string name="wifi_call_cancel">Скасування</string>
+     <string name="wifi_call_cancel">Скасувати</string>
      <string name="wifi_call_help">Допомога</string>
      <string name="wifi_call_help_message">Мобільні виклики будуть використовуватися за замовчуванням. У разі, якщо немає сигналу мобільної мережі або він дуже слабкий, буде використовуватися мережа Wi-Fi.</string>
      <string name="wifi_call_help_title">Допомога за викликами Wi-Fi</string>

@@ -1,6 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="day_index">
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Проходьте хоча б %1$d кроків кожен день</item>
+        <item quantity="one">Проходьте хоча б %1$d крок кожен день</item>
+        <item quantity="few">Проходьте хоча б %1$d кроки кожен день</item>
+        <item quantity="many">Проходьте хоча б %1$d кроків кожен день</item>
+     </plurals>
+     <plurals name="dialog_choose_items">
+        <item quantity="other">Вибраний: %1$d</item>
+        <item quantity="one">Вибраний: %1$d</item>
+     </plurals>
+     <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Видалити %1$d запис?</item>
+        <item quantity="one">Видалити %1$d запис?</item>
+        <item quantity="few">Видалити %1$d запис?</item>
+        <item quantity="many">Видалити %1$d запис?</item>
+     </plurals>
+     <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d кроків</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d кроки</item>
+        <item quantity="many">%1$d кроків</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d г.</item>
+        <item quantity="one">%1$d г.</item>
+        <item quantity="few">%1$d г.</item>
+        <item quantity="many">%1$d г.</item>
+     </plurals>
+     <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d днів з останнього зважування</item>
+        <item quantity="one">%1$d день з останнього зважування</item>
+        <item quantity="few">%1$d дня з останнього зважування</item>
+        <item quantity="many">%1$d днів з останнього зважування</item>
+     </plurals>
+     <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d днів з останнього зважування</item>
+        <item quantity="one">%1$d день з останнього зважування</item>
+        <item quantity="few">%1$d дня з останнього зважування</item>
+        <item quantity="many">%1$d днів з останнього зважування</item>
+     </plurals>
+     <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">День %1$d (очікуваний)</item>
+        <item quantity="one">День %1$d (очікуваний)</item>
+        <item quantity="few">День %1$d (очікуваний)</item>
+        <item quantity="many">День %1$d (очікуваний)</item>
+     </plurals>
+     <plurals name="mesens_card_title_days">
+        <item quantity="other">День %1$d</item>
+        <item quantity="one">День %1$d</item>
+        <item quantity="few">День %1$d</item>
+        <item quantity="many">День %1$d</item>
+     </plurals>
+     <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Наступний період через %1$d день</item>
+        <item quantity="one">Наступний період через %1$d день</item>
+        <item quantity="few">Наступний період через %1$d день</item>
+        <item quantity="many">Наступний період через %1$d день</item>
+     </plurals>
+     <plurals name="minutes">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+        <item quantity="many">%1$d хв</item>
+     </plurals>
+     <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Мета: %1$d г.</item>
+        <item quantity="one">Мета: %1$d г.</item>
+     </plurals>
+     <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"Поточні налаштування не гарантують Вам %1$d г. сну. Потрібно більше."</item>
+        <item quantity="one">"Поточні налаштування не гарантують Вам %1$d г. сну. Потрібно більше."</item>
+        <item quantity="few">"Поточні налаштування не гарантують Вам %1$d г. сну. Потрібно більше."</item>
+        <item quantity="many">"Поточні налаштування не гарантують Вам %1$d г. сну. Потрібно більше."</item>
+     </plurals>
+     <plurals name="step_num_format">
+        <item quantity="other">%1$d кроків</item>
+        <item quantity="one">%1$d крок</item>
+        <item quantity="few">%1$d кроку</item>
+     </plurals>
+     <plurals name="times_format">
+        <item quantity="other">%1$d раз</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d рази</item>
+     </plurals>
+     <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d кроків сьогодні</item>
+        <item quantity="one">%1$d крок сьогодні</item>
+        <item quantity="few">%1$d кроку сьогодні</item>
+        <item quantity="many">%1$d кроків сьогодні</item>
+     </plurals>
+     <plurals name="unit_days">
+        <item quantity="other">" днів"</item>
+        <item quantity="one">" день"</item>
+        <item quantity="few">" дня"</item>
+        <item quantity="many">" днів"</item>
+     </plurals>
+	<plurals name="day_index">
         <item quantity="other">%1$d днів</item>
         <item quantity="one">%1$d день</item>
         <item quantity="few">%1$d дні</item>
@@ -9,6 +105,8 @@
     <plurals name="goal_format_with_unit">
         <item quantity="other">Мета: %1$d кр.</item>
         <item quantity="one">Мета: %1$d кр.</item>
+        <item quantity="few">Мета: %1$d кр.</item>
+        <item quantity="many">Мета: %1$d кр.</item>
     </plurals>
     <plurals name="goal_unit">
         <item quantity="other">" кроків"</item>
@@ -17,8 +115,10 @@
         <item quantity="many">" кроків"</item>
     </plurals>
     <plurals name="menstruation_sum_days">
-        <item quantity="other">%1$d-денний період</item>
-        <item quantity="one">%1$d-денний період</item>
+        <item quantity="other">%1$d-денна менструація</item>
+        <item quantity="one">%1$d-денна менструація</item>
+        <item quantity="few">%1$d-денна менструація</item>
+        <item quantity="many">%1$d-денна менструація</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d нових сповіщень</item>
@@ -45,14 +145,20 @@
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">День %1$d цього менструального циклу</item>
         <item quantity="one">День %1$d цього менструального циклу</item>
+        <item quantity="few">День %1$d цього менструального циклу</item>
+        <item quantity="many">День %1$d цього менструального циклу</item>
     </plurals>
     <plurals name="sum_cycle_days">
         <item quantity="other">%1$d-денний цикл</item>
         <item quantity="one">%1$d-денний цикл</item>
+        <item quantity="few">%1$d-денний цикл</item>
+        <item quantity="many">%1$d-денний цикл</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">День %1$d періоду</item>
-        <item quantity="one">День %1$d періоду</item>
+        <item quantity="other">%1$d день менструації</item>
+        <item quantity="one">%1$d день менструації</item>
+        <item quantity="few">%1$d день менструації</item>
+        <item quantity="many">%1$d день менструації</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
         <item quantity="other">%1$d днів до наступного періоду</item>
@@ -61,8 +167,10 @@
         <item quantity="many">%1$d днів до наступного періоду</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Ймовірний день %1$d періоду</item>
-        <item quantity="one">Ймовірний день %1$d періоду</item>
+        <item quantity="other">Приблизно %1$d день менструації</item>
+        <item quantity="one">Приблизно %1$d день менструації</item>
+        <item quantity="few">Приблизно %1$d день менструації</item>
+        <item quantity="many">Приблизно %1$d день менструації</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d років</item>

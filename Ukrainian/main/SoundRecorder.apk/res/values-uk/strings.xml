@@ -220,6 +220,6 @@
 	 <string name="online_recognize_progress">Конвертація %s…</string>
      <string name="search_empty">Немає результатів</string>
      <string name="search_hint">Пошук</string>
-	 <string name="cancel_rename">Скасування</string>
+	 <string name="cancel_rename">Скасувати</string>
      <string name="loading_more">Завантаження…</string>
 </resources>

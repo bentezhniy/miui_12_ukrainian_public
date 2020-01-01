@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="scan_not_installed">Спочатку інсталюйте сканер</string>
+     <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
+     <string name="bind_simcard_menu">Встановити SIM-карту за замовчуванням для викликів</string>
+     <string name="bind_simcard_no_dual">Дві SIM-карти не знайдені</string>
+     <string name="bind_simcard_not_set">Не обрано</string>
+     <string name="bind_simcard_title">SIM-карта за замовчуванням для викликів</string>
+     <string name="cloud_upgrade_recommend">Не вдається синхронізувати контакти через брак місця в хмарному сховищі. Оновіть тариф або звільніть місце</string>
+	 <string name="scan_not_installed">Спочатку інсталюйте сканер</string>
      <string name="shortcut_new_contact_label">Новий контакт</string>
      <string name="shortcut_scan_label">Сканувати візитку</string>
      <string name="call_feature_volte">VoLTE</string>

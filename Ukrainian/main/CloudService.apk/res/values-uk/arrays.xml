@@ -12,4 +12,16 @@
         <item>Бекап усіх важливих системних налаштувань</item>
         <item>Віддалене керування пристроєм</item>
     </string-array>
+	<string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Для ідентифікації пристрою</item>
+        <item>Для пошуку пристрою</item>
+     </string-array>
+     <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Для синхронізації календаря</item>
+        <item>Для синхронізації повідомлень</item>
+        <item>Для синхронізації повідомлень</item>
+        <item>Для синхронізації контактів</item>
+        <item>Для синхронізації контактів</item>
+        <item>"Для збереження файлів в пам'яті пристрою (фото, відео, музика)"</item>
+     </string-array>
 </resources>

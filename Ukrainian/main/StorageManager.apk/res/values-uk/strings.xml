@@ -16,7 +16,7 @@
     <string name="available_via_passpoint">Доступ через %1$s</string>
     <string name="wifi_connected_no_internet">Під\'єднано, але немає доступу до Інтернету</string>
     <string name="bluetooth_disconnected">Роз\'єднано</string>
-    <string name="bluetooth_disconnecting">Відключення...</string>
+    <string name="bluetooth_disconnecting">Відключення…</string>
     <string name="bluetooth_connecting">Підключення…</string>
     <string name="bluetooth_connected">Підключено</string>
     <string name="bluetooth_pairing">Підключення…</string>
@@ -436,7 +436,7 @@
      <string name="wapi_cert_manage_error">Помилка налаштування сертифіката WAPI</string>
      <string name="wapi_cert_manage_summary">Додавання та видалення сертифікатів WAPI</string>
      <string name="wapi_cert_manage_title">Управління сертифікатами WAPI</string>
-     <string name="wapi_cert_roaming">Підключення...</string>
+     <string name="wapi_cert_roaming">Підключення…</string>
      <string name="wapi_no">Ні</string>
      <string name="wapi_no_vaild_cert">Немає доступних сертифікатів. Встановити?</string>
      <string name="wapi_password_hex_format_add">Кількість шістнадцяткових символів не може бути непарним числом</string>

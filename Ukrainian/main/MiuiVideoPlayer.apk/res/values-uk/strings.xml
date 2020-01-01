@@ -2,17 +2,17 @@
 <resources>
 <string name="account_auth_fail">Помилка аутентифікації акаунта</string>
      <string name="account_status_exception">Час авторизації минув. Авторизуйтесь повторно.</string>
-     <string name="alert_dialog_download_install_task">Очікування установки плагіна ...</string>
+     <string name="alert_dialog_download_install_task">Очікування установки плагіна …</string>
      <string name="already_buy_vip">VIP уже куплений</string>
      <string name="create_tencent_shortcut_message">Ярлик доданий на робочий стіл</string>
      <string name="current_price">Поточна ціна</string>
      <string name="detail">Інформація</string>
      <string name="do_not_buy_vip">Не купувати VIP</string>
      <string name="download_app_use_mimarket_dialog_downloadsuccess">Програму завантажено</string>
-     <string name="download_app_use_mimarket_dialog_exists">Програма в процесі встановлення...</string>
-     <string name="download_app_use_mimarket_dialog_installing">Як призначити програму...</string>
+     <string name="download_app_use_mimarket_dialog_exists">Програма в процесі встановлення…</string>
+     <string name="download_app_use_mimarket_dialog_installing">Як призначити програму…</string>
      <string name="download_app_use_mimarket_dialog_installsuccess">Програму встановлено</string>
-     <string name="download_app_use_mimarket_dialog_prepare">Запуск Mi маркету...</string>
+     <string name="download_app_use_mimarket_dialog_prepare">Запуск Mi маркету…</string>
      <string name="download_app_use_mimarket_dialog_title">Завантаження з Mi маркету</string>
      <string name="download_insufficient_space">Недостатньо місця</string>
      <string name="enter_detail">Інша інформація</string>
@@ -35,7 +35,7 @@
      <string name="passport_account_not_actived">Ваш акаунт не активований</string>
      <string name="passport_account_notice">Акаунт</string>
      <string name="passport_active_email_visit">Перевірте вашу пошту %s</string>
-     <string name="passport_activing_account">Активація ...</string>
+     <string name="passport_activing_account">Активація …</string>
      <string name="passport_app_name">Mi акаунт</string>
      <string name="passport_area_code_hot">Популярні</string>
      <string name="passport_area_code_title">Код країни</string>
@@ -44,13 +44,13 @@
      <string name="passport_bad_authentication">"Неправильне ім'я користувача або пароль"</string>
      <string name="passport_barcode_add_account_prompt">Скануйте QR-код для підключення</string>
      <string name="passport_btn_return">Назад</string>
-     <string name="passport_button_cancel">Скасування</string>
+     <string name="passport_button_cancel">Скасувати</string>
      <string name="passport_captcha">Введіть код</string>
      <string name="passport_change_account"><u>Змінити акаунт</u></string>
      <string name="passport_change_phone_number">Змінити номер</string>
 	
-     <string name="passport_checking_account">Авторизація...</string>
-     <string name="passport_checking_input">Перевірка даних...</string>
+     <string name="passport_checking_account">Авторизація…</string>
+     <string name="passport_checking_input">Перевірка даних…</string>
      <string name="passport_choose_which_one_sim">Виберіть номер телефону</string>
      <string name="passport_click_email_to_valid">Для активації облікового запису перейдіть за посиланням в отриманому повідомленні на Email</string>
      <string name="passport_completed">Готово</string>
@@ -98,7 +98,7 @@
      <string name="passport_forget_password_no_underline">Забули пароль</string>
      <string name="passport_get_back_pwd">Отримати пароль акаунта</string>
      <string name="passport_get_verify_code">Отримати код</string>
-     <string name="passport_getting_verify_code">Отримання...</string>
+     <string name="passport_getting_verify_code">Отримання…</string>
      <string name="passport_i_know">ОК</string>
      <string name="passport_identitfication_expired">Термін дії перевірочного коду закінчився</string>
      <string name="passport_imei_permission_denied_message">Mi акаунт запитує IMEI пристрою для ідентифікації та забезпечення безпечної авторизації</string>
@@ -110,9 +110,9 @@
      <string name="passport_input_vcode_hint">Введіть перевірочний код</string>
      <string name="passport_input_verify_code_hint">Введіть перевірочний код</string>
      <string name="passport_license_host_unreachable">Неможливо підключитися до інтернету. Для перегляду інформації перейдіть: %s</string>
-     <string name="passport_loading">Завантаження ...</string>
+     <string name="passport_loading">Завантаження …</string>
      <string name="passport_login">Вхід</string>
-     <string name="passport_login_check_find_device">Перевірка пошуку пристрою ...</string>
+     <string name="passport_login_check_find_device">Перевірка пошуку пристрою …</string>
      <string name="passport_login_check_find_device_failed">Неможливо перевірити статус. Інтернет недоступний.</string>
      <string name="passport_login_check_find_device_failed_message">Неможливо перевірити статус пошуку пристрою</string>
      <string name="passport_login_check_find_device_failed_title">Інтернет недоступний</string>
@@ -120,7 +120,7 @@
      <string name="passport_login_find_device_bind">"Це пристрій прив'язаний до існуючого ID Mi акаунта (%s). Авторизуйтесь для активації пристрою."</string>
      <string name="passport_login_instead_reg">Використовувати цей номер</string>
      <string name="passport_login_instead_reg_with_email">Використовувати цей Email</string>
-     <string name="passport_login_notice">Авторизація ...</string>
+     <string name="passport_login_notice">Авторизація …</string>
      <string name="passport_login_prompt">Один Mi акаунт. Все Mi сервіси.</string>
      <string name="passport_login_short">Вхід</string>
      <string name="passport_login_title">Увійдіть в Mi акаунт</string>
@@ -139,7 +139,7 @@
      <string name="passport_privacy_policy">Політика конфіденційності</string>
      <string name="passport_provision_skip_login"><u>Пропустити</u></string>
      <string name="passport_pwd_generate_failure">Неможливо створити пароль</string>
-     <string name="passport_pwd_generating">Створення...</string>
+     <string name="passport_pwd_generating">Створення…</string>
      <string name="passport_quick_login_dialog_step2_title">Двохетапна авторизація</string>
      <string name="passport_quick_login_dialog_title">Перевірка пароля</string>
      <string name="passport_quick_login_step2_title">Двохетапна авторизація</string>
@@ -161,7 +161,7 @@
      <string name="passport_reg_using_other_phone_number_prompt">Реєстрація за іншим номером телефону</string>
      <string name="passport_reg_using_phone_number_prompt">Реєстрація за номером телефону</string>
      <string name="passport_reg_via_sms_alert">При активації по SMS можуть потребувати додаткової оплати оператором</string>
-     <string name="passport_reging">Реєстрація...</string>
+     <string name="passport_reging">Реєстрація…</string>
      <string name="passport_register">Реєстрація</string>
      <string name="passport_register_account_goto_email">Увійдіть в папку \"Вхідні\"</string>
      <string name="passport_register_account_verified_confirm">Акаунт вже підтверджено</string>
@@ -185,7 +185,7 @@
      <string name="passport_retry">Повтор</string>
      <string name="passport_select_reg_ways_title">Інші способи</string>
      <string name="passport_send_too_many_code">На цей номер було відправлено занадто багато кодів підтвердження. Спробуйте ще раз за 24 години.</string>
-     <string name="passport_setting">Налаштування...</string>
+     <string name="passport_setting">Налаштування…</string>
      <string name="passport_sim_index_info">SIM-карта %1$ d - %2$s</string>
      <string name="passport_skip_login">Пропустити</string>
      <string name="passport_skip_register">Пропустити реєстрацію</string>
@@ -193,7 +193,7 @@
      <string name="passport_skip_setup_account_title">Пропустити налаштування акаунта?</string>
      <string name="passport_title_reg">Реєстрація облікового запису</string>
      <string name="passport_trust_device">Довіряти цьому пристрою</string>
-     <string name="passport_trying_read_verify_code_sms">Отримання перевірочного коду...</string>
+     <string name="passport_trying_read_verify_code_sms">Отримання перевірочного коду…</string>
      <string name="passport_uplink_reg">За номером телефону</string>
      <string name="passport_uplink_slot1_reg">Використовувати SIM 1</string>
      <string name="passport_uplink_slot2_reg">Використовувати SIM 2</string>

@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="system_shortcuts_more_operation">Інфо</string>
+     <string name="add">Додати</string>
+     <string name="add_custom_category">Додати</string>
+     <string name="added_all_category">Доданий</string>
+     <string name="all_app_category_all">Весь</string>
+     <string name="all_app_category_communication">Спілкування</string>
+     <string name="all_app_category_default">Категорія</string>
+     <string name="all_app_category_entertainment">Розвага</string>
+     <string name="all_app_category_finance_business">Фінанси</string>
+     <string name="all_app_category_games">Iгри</string>
+     <string name="all_app_category_knowledge_education">Освіта</string>
+     <string name="all_app_category_lifestyle">Спосіб життя</string>
+     <string name="all_app_category_news_reading">Читання</string>
+     <string name="all_app_category_personalization">Персоналізація</string>
+     <string name="all_app_category_photography">Фотографія</string>
+     <string name="all_app_category_shopping">Магазини</string>
+     <string name="all_app_category_tools">Інструменти</string>
+     <string name="all_apps_setting_min_category_limit">Категорії не вибрані</string>
+     <string name="auto_delete_category_dialog_content">Після удалення іконки пошук категорії не буде збережений. Продолжить?</string>
+     <string name="auto_delete_category_dialog_title">Удаление категорій</string>
+     <string name="cate_order_reset">Скидання</string>
+     <string name="category_already_exists">Ця категорія вже існує</string>
+     <string name="category_cannot_empty">"Введіть ім'я категорії"</string>
+     <string name="category_choose_no_app_select_tip">Програмы для категорії не обрані</string>
+     <string name="category_drawer_name_hint">"Введіть ім'я категорії"</string>
+     <string name="category_group">Категорії програм</string>
+     <string name="category_group_summary">Сортувати програми по категоріям</string>
+     <string name="category_not_selected">Доступні програми</string>
+     <string name="default_folder_title_other_apps">Iнші</string>
+     <string name="delete_category_dialog_content">Категорія буде видалена безповоротно</string>
+     <string name="delete_category_dialog_title">Видалити цю категорію?</string>
+     <string name="edit">Змінити</string>
+     <string name="manager_group_settings">Управління категоріями</string>
+     <string name="reset_cate_tip_content">Сортування додатків за категоріями буде відновлена за замовчуванням</string>
+     <string name="reset_cate_tip_title">Скинути категорії?</string>
+     <string name="system_shortcuts_remove">Прибрати</string>
+	 <string name="system_shortcuts_more_operation">Інфо</string>
 	 <string name="no_space_toast_when_click_widget">Немає вільного місця</string>
      <string name="unstable_dialog_content">Це тестова версія системи Android, яка може бути змінена. Використання цієї системи регулюється Ліцензійною угодою попереднього перегляду Android SDK. Тестов версія системи Android не є стабільною версією і може містити помилки, які можуть призвести до втрати даних. Тестова версія Android не піддавалася такому ж тестуванню, як заводська ОС, і може привести до припинення роботи цього пристрою, встановлених служб або програм</string>
      <string name="activity_not_unlocked">Дочекайтесь повного завантаження пристрою</string>

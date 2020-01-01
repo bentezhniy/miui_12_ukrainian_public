@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_error">Закриття програми…</string>
+     <string name="extra_photo_common_save_fail">Помилка збереження</string>
+	 <string name="app_error">Закриття програми…</string>
      <string name="background_effect">Ефекти</string>
      <string name="cancel">Скасувати</string>
      <string name="extra_photo_common_saving">Збереження\u2026</string>

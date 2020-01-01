@@ -7,7 +7,7 @@
 • Bluetooth використовується для виявлення і підключення пристроїв.
 • Читання пам\'яті телефону. Після прочитання вмісту, надішліть вміст на пристрій з великим екраном.
 • Читання інформації про телефон."</string>
-     <string name="casting_tips">Трансляція...</string>
+     <string name="casting_tips">Трансляція…</string>
      <string name="console_guide_btn_got_it">ОК</string>
      <string name="console_guide_subtitle_hang_up">Не завершуйте трансляцію, коли екран телефону вимикається. Ця функція може збільшити енергоспоживання</string>
      <string name="console_guide_subtitle_private">Не передавайте спливаючі сповіщення, сповіщення про вхідні дзвінки та інші елементи, які можуть містити особисту інформацію</string>
@@ -19,14 +19,14 @@
      <string name="dialog_connect_verify_perssion">Спочатку авторизуйтесь на ТБ</string>
      <string name="dialog_connect_verify_perssion_fail">Не вдалося авторизувати трансляцію на ТБ. Спробуйте знову</string>
      <string name="dialog_connected">Підключено</string>
-     <string name="dialog_connecting">Підключення...</string>
+     <string name="dialog_connecting">Підключення…</string>
      <string name="dialog_ok">ОК</string>
      <string name="dialog_only_suport_content">Передача фотографій, відео або музики</string>
      <string name="dialog_open_wifi_bt">Увімкнути</string>
      <string name="dialog_please_make_sure_tv_ok">Увімкніть бездротовий екран на цільовому пристрої</string>
      <string name="dialog_recent_connected">Нещодавні</string>
      <string name="dialog_retry">Повторити</string>
-     <string name="dialog_scanning_device">Пошук пристроїв поблизу...</string>
+     <string name="dialog_scanning_device">Пошук пристроїв поблизу…</string>
      <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на телефоні, щоб використовувати бездротовий екран</string>
      <string name="dialog_select_tv">Виберіть пристрій для підключення</string>
      <string name="dialog_show_help">Допомога</string>
@@ -114,7 +114,7 @@
      <string name="notification_rc_title">Віддалене керування Xiaomi</string>
      <string name="service_name">Сервіс UniPlay</string>
 	   <string name="san_wait_msg_1">На цільовому пристрої повинна бути включена функція бездротового екрана</string>
-     <string name="san_wait_msg_2">Пошук пристроїв...</string>
+     <string name="san_wait_msg_2">Пошук пристроїв…</string>
      <string name="san_wait_msg_3">Пристрої знайти легше, якщо вони підключені до тієї ж мережі, що і ваш телефон.</string>
      <string name="san_wait_msg_4">Перегляньте Допомога, якщо не виходить знайти пристрої.</string>
 </resources>

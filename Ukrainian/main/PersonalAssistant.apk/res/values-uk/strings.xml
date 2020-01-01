@@ -265,14 +265,14 @@
      <string name="detail_action_settings">Налаштування</string>
      <string name="detail_action_share">Надіслати</string>
      <string name="dialog_cancel_like">Вилучено</string>
-     <string name="dialog_delete_cancel">Скасування</string>
+     <string name="dialog_delete_cancel">Скасувати</string>
      <string name="dialog_delete_delete">Видалити</string>
      <string name="dialog_delete_desc">Видалити з обраного?</string>
      <string name="dialog_delete_title">Видалити з обраного</string>
      <string name="dialog_font_background">Тло</string>
      <string name="dialog_font_light">Яскравість</string>
      <string name="dialog_mark_like">Помічено як важливе</string>
-     <string name="dialog_report_cancel">Скасування</string>
+     <string name="dialog_report_cancel">Скасувати</string>
      <string name="dialog_report_confirm">ОК</string>
      <string name="dialog_report_desc">Надіслати звіт про помилку?</string>
      <string name="dialog_report_title">Невірний формат</string>
@@ -550,7 +550,7 @@
      <string name="send_action_title">Додати до обраних</string>
      <string name="service_unavailiable">Перевірте підключення до інтернету та спробуйте знову</string>
      <string name="setting_address">Додати популярні місця</string>
-     <string name="setting_authorization_canceled_dialog_cancel">Скасування</string>
+     <string name="setting_authorization_canceled_dialog_cancel">Скасувати</string>
      <string name="setting_authorization_canceled_dialog_message">Система більше не буде записувати Ваші платежі</string>
      <string name="setting_authorization_canceled_dialog_ok">Видалити</string>
      <string name="setting_authorization_canceled_dialog_title">Видалення</string>
@@ -565,7 +565,7 @@
      <string name="setting_cards_all_added">Усі додані</string>
      <string name="setting_cards_more">Інші</string>
      <string name="setting_common_private">Безпека</string>
-     <string name="setting_dialog_cancel">Скасування</string>
+     <string name="setting_dialog_cancel">Скасувати</string>
      <string name="setting_dialog_quit">Вийти</string>
      <string name="setting_dialog_title">Все зміни буде втрачено. Усе одно вийти?</string>
      <string name="setting_didi_always_sdk">Завжди використовувати клієнт DiDi</string>
@@ -1131,7 +1131,7 @@
      <string name="app_setting">Налаштування</string>
      <string name="app_setting_add_header_bg">Вибрати обкладинку</string>
      <string name="app_setting_datetime">Показувати дату</string>
-     <string name="app_setting_dialog_cancel">Скасування</string>
+     <string name="app_setting_dialog_cancel">Скасувати</string>
      <string name="app_setting_has_not_setted">Не встановлено​​</string>
      <string name="app_setting_has_setted">Встановлено</string>
      <string name="app_setting_more_setting">Додатково</string>

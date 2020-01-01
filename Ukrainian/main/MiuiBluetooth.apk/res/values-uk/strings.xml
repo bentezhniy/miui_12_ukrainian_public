@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="expand_button_title">Додатково</string>
+     <string name="fast_connect_wbs_name">ZMI WBS01</string>
+     <string name="fast_connect_wbs_reset">Утримуйте верхню кнопку протягом %1$s сек. у вимкненому стані</string>
+	 <string name="expand_button_title">Додатково</string>
      <string name="search_menu_title">Пошук</string>
      <string name="v7_preference_off">ВИМК.</string>
      <string name="v7_preference_on">УВІМК.</string>

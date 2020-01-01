@@ -115,8 +115,8 @@
      <string name="rcs_summary_auto_resend_mms">Перетворення MMS повідомлень China Mobile в SMS. Оригінальне повідомлення буде недоступно для відправки. Може стягуватися додаткова плата оператором.</string>
      <string name="rcs_summary_auto_resend_sms">Перетворення SMS повідомлень China Mobile в SMS. Оригінальне повідомлення буде недоступно для відправки. Може стягуватися додаткова плата оператором."</string>
      <string name="rcs_summary_silence_message">"Вимкнути сповіщення, коли клієнт запущений на комп'ютері."</string>
-     <string name="rcs_wait_for_retry_text">Очікування...</string>
-     <string name="recommend_bar_cancel">Скасування</string>
+     <string name="rcs_wait_for_retry_text">Очікування…</string>
+     <string name="recommend_bar_cancel">Скасувати</string>
      <string name="recommend_bar_message_mx">Mi повідомлення дозволяють користувачам MIUI спілкуватися між собою без використання грошових коштів.</string>
      <string name="recommend_bar_message_mx_rcs">повідомлення дозволяють користувачам з MIUI і China Mobile спілкуватися між собою без використання грошових коштів</string>
      <string name="recommend_bar_message_rcs">Повідомлення China Mobile дозволяють спілкуватися без використання грошових коштів</string>

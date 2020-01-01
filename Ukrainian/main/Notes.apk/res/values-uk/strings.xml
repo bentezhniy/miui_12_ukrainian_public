@@ -19,7 +19,7 @@
      <string name="pref_title_todo_shorcut">Завдання</string>
      <string name="time_picker_label_hour">год</string>
      <string name="time_picker_label_minute">хв</string>
-     <string name="toast_pic_is_not_really">Збереження зображення...</string>
+     <string name="toast_pic_is_not_really">Збереження зображення…</string>
      <string name="todo_alert_title_delete">Видалити завершені завдання</string>
      <string name="todo_audio_default_content">"[голосове завдання] "</string>
      <string name="todo_custom_remind_tag_pattern_with_md">dd.MM HH:mm</string>
@@ -357,7 +357,7 @@
      <string name="setting_privacy">Політика конфіденційності</string>
      <string name="toast_notes_hidden_edit">Нотатку приховано. Для перегляду потягніть список донизу</string>
      <string name="toast_notes_hidden_home">Нотатку приховано. Для перегляду потягніть список донизу</string>
-	 <string name="confirm_cancel">Скасування</string>
+	 <string name="confirm_cancel">Скасувати</string>
      <string name="confirm_ok">Приймати</string>
      <string name="permission_get_account_desc">Синхронізація нотаток з хмарою</string>
      <string name="permission_microphone_desc">Створення голосових нотаток</string>

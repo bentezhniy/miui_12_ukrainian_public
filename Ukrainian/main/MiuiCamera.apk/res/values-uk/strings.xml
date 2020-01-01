@@ -1,12 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-    <string name="pref_camera_snap_entry_summary">Утримуйте кнопку гучності вниз для зйомки при заблокованому екрані</string>
+     <string name="camera_settings_category_development">Експериментальні функції</string>
+     <string name="document_blackwhite">Чорно-білий</string>
+     <string name="document_blur_warn">Розмити текст</string>
+     <string name="document_origin">Оригінал</string>
+     <string name="document_strengthen">Поліпшити</string>
+     <string name="fragment_tab_name_bokeh">Боке</string>
+     <string name="id_card_mode_hint_back">Скануйте зворотну сторону посвідчення особи</string>
+     <string name="id_card_mode_hint_front">Скануйте лицьову сторону посвідчення особи</string>
+     <string name="id_card_mode_use_hint_text_body">Двостороння зйомка посвідчення особи. Копія А4 1: 1 для простої відправки і роздруківки.</string>
+     <string name="id_card_mode_use_hint_text_title">Режим фотокопії посвідчення особи</string>
+     <string name="location_access_allow">Дозволити</string>
+     <string name="miservice_notification_content">Натисніть для перегляду інформації</string>
+     <string name="miservice_notification_title">Функції камери</string>
+     <string name="network_access_user_notice_message_live_video">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
+     <string name="network_access_user_notice_message_sticker">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
+     <string name="network_access_user_notice_message_voice_caption">"Перед использованием этой функции необходимо принять "<a href;="%1$s">Угоду користувача</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
+     <string name="parameter_description_pro_capture_title">Професійна камера</string>
+     <string name="parameter_description_pro_video_title">Професійне відео</string>
+     <string name="parameter_description_sub_title">Інформація про функції</string>
+     <string name="parameter_ef_split_description">"Відстань між об'єктивом і точкою фокусування. Ви можете змінювати положення точки фокусування натисканням на об'єкт."</string>
+     <string name="parameter_ef_split_title">Точка фокусування</string>
+     <string name="parameter_et_description">Інтервал часу, протягом якого світло експонує ділянку світлочутливого матеріалу або світлочутливої матриці. Одна з двох складових експозиції.</string>
+     <string name="parameter_et_title">Витримка</string>
+     <string name="parameter_exposure_description">Регулювання значення експозиції, щоб зробити зображення яскравішим або темнішим.</string>
+     <string name="parameter_exposure_feecback_description">Відображення в режимі реального часу умов надмірної експозиції (червона область) і недостатньої експозиції (синя область) для допомоги в налаштування експозиції</string>
+     <string name="parameter_exposure_feecback_title">Жива експозиція</string>
+     <string name="parameter_exposure_title">Експозиція</string>
+     <string name="parameter_focus_description">"Включає автофокус і ручне фокусування. Ручне фокусування виконується зрушенням по шкалі значень. У міру збільшення значення фокус буде зміщуватися далі від об'єктива."</string>
+     <string name="parameter_focus_title">Фокус</string>
+     <string name="parameter_histogram_description">Графік статистичного розподілу елементів цифрового зображення з різною яскравістю, в якому по горизонтальній осі представлена яскравість, а по вертикалі — відносна кількість пікселів з конкретним значенням яскравості.</string>
+     <string name="parameter_histogram_title">Гістограма</string>
+     <string name="parameter_iso_description">Автоматичний і ручний режим світлочутливості. В автоматичному режимі камера підбирає відповідне значення ISO з урахуванням результатів виміру. При високих значеннях світлочутливості можуть бути шуми на фото.</string>
+     <string name="parameter_iso_title">ISO</string>
+     <string name="parameter_lens_description">"Доступні об'єктиви:
+"</string>
+     <string name="parameter_lens_marco">"Макро (макрооб'єктив)
+"</string>
+     <string name="parameter_lens_st">Комбо (комбінований зум)
+</string>
+     <string name="parameter_lens_t">"Теле (телеоб'єктив)
+"</string>
+     <string name="parameter_lens_tele_2x">"Теле 2X (телеоб'єктив)
+"</string>
+     <string name="parameter_lens_tele_5x">"Теле 5X (телеоб'єктив)
+"</string>
+     <string name="parameter_lens_title">"Об'єктив"</string>
+     <string name="parameter_lens_uw">Ультра (ультра ширококутний)
+</string>
+     <string name="parameter_lens_w">Широкий (ширококутний)
+</string>
+     <string name="parameter_log_format_description">В режимі VLOG відео записуються частинами, після чого автоматично склеюються з використанням різних ефектів і музики.</string>
+     <string name="parameter_log_format_title">Режим VLOG</string>
+     <string name="parameter_metering_description">Середньозважений: середнє значення по всіх областях зображення, що підходить для рівномірно освітлених зображеньй. 
+Центрально-зважений: враховує дані з усього знімка, але основна інформація, яка найбільше впливає на обчислення, береться з центру кадру. 
+Точковий: виконує вимір експозиції тільки в одній точці, розмір якої дорівнює приблизно 2.5% від усього кадру.</string>
+     <string name="parameter_metering_title">Тип експозиції</string>
+     <string name="parameter_peak_focus_description">Використовується для відображення фокусу при ручному фокусуванні. Область з найбільш чітким фокусуванням буде виділятися червоним кольором.</string>
+     <string name="parameter_peak_focus_title">Пикинг фокус</string>
+     <string name="parameter_peak_raw_description">Зберігайте необроблені дані зображень, придатні для подальшої обробки зображень</string>
+     <string name="parameter_peak_raw_title">Формат RAW</string>
+     <string name="parameter_wb_description">Включає в себе як передвстановлені (лампа розжарювання, денне світло, флуоресцентний, хмарний) так і власні пресети балансу білого (можна встановити діапазон колірної температури 2000-8000K).</string>
+     <string name="parameter_wb_title">Баланс білого</string>
+     <string name="parameter_zoom_slider_description">Для ефекту плавного масштабування перетягуйте повзунок вгору і вниз</string>
+     <string name="parameter_zoom_slider_title">Масштабування</string>
+     <string name="pref_camera_common_settings">Основні налаштування</string>
+     <string name="pref_camera_exposuretime_entry_1_2">1/2 сек.</string>
+     <string name="pref_camera_exposuretime_entry_auto_abbr">Авто</string>
+     <string name="pref_camera_focusmode_entry_auto_abbr">Авто</string>
+     <string name="pref_camera_heic_image_format_description">Зйомка фото у високоефективному форматі HEIC</string>
+     <string name="pref_camera_heic_image_format_title">Формат HEIC</string>
+     <string name="pref_camera_iso_entry_auto_abbr">Авто</string>
+     <string name="pref_camera_iso_title_abbr">ISO</string>
+     <string name="pref_camera_manually_exposure_value_abbr">Експозиція</string>
+     <string name="pref_camera_quick_settings">Швидкі налаштування</string>
+     <string name="pref_camera_whitebalance_entry_auto_abbr">Авто</string>
+     <string name="pref_camera_whitebalance_title_abbr">ББ</string>
+     <string name="pref_camera_zoom_mode_entry_macro_abbr">Макро</string>
+     <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">Теле 2X</string>
+     <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">Теле 5X</string>
+     <string name="pref_camera_zoom_mode_entry_tele_abbr">Теле</string>
+     <string name="pref_camera_zoom_mode_entry_ultra_abbr">Ультра</string>
+     <string name="pref_camera_zoom_mode_entry_wide_abbr">Широкий</string>
+     <string name="pref_camera_zoom_mode_title_abbr">Лінза</string>
+     <string name="pref_document_mode">Режим \"Документ\"</string>
+     <string name="pref_manual_exposure_title_abbr">Эксп</string>
+     <string name="pref_qc_focus_position_title_abbr">Фокус</string>
+     <string name="video_effect_entry_central">Центр</string>
+     <string name="video_effect_entry_color_retention">Затримка кольору</string>
+     <string name="video_effect_entry_fantasy">Фантазія</string>
+     <string name="video_effect_entry_lost">Втрата</string>
+     <string name="video_effect_entry_meet">Зустріч</string>
+     <string name="video_effect_entry_northern_europe">Європа</string>
+     <string name="video_effect_entry_rome">Рим</string>
+     <string name="video_effect_entry_summer_day">Літній день</string>
+     <string name="video_effect_entry_wind_sing">Пісня вітру</string>
+	 <string name="pref_camera_snap_entry_summary">Утримуйте кнопку гучності вниз для зйомки при заблокованому екрані</string>
      <string name="ultra_pixel_photography_open_tip">Ультра HD %s увімкнено</string>
-    <string name="ultra_pixel_photography_close_tip">Ультра HD %s вимкнено</string>
-    <string name="accessibility_ultra_pixel_photography_on">Ультра HD %s увімкнено</string>
-    <string name="accessibility_ultra_pixel_photography_off">Ультра HD %s вимкнено</string>
-    <string name="pref_menu_ultra_pixel_photography">Ультра HD %s</string>
+     <string name="ultra_pixel_photography_close_tip">Ультра HD %s вимкнено</string>
+     <string name="accessibility_ultra_pixel_photography_on">Ультра HD %s увімкнено</string>
+     <string name="accessibility_ultra_pixel_photography_off">Ультра HD %s вимкнено</string>
+     <string name="pref_menu_ultra_pixel_photography">Ультра HD %s</string>
      <string name="macro_mode_use_hint_text_body">Увімкніть режим макро, щоб детальніше побачити всю красу</string>
      <string name="macro_mode_use_hint_text_title">Макро</string>
      <string name="ultra_pixel_32mp">32 МП</string>
@@ -15,7 +110,7 @@
      <string name="ultra_pixel_device">64 МП</string>
      <string name="ultra_pixel_zoom_no_support_tip">Наближення не працює при роздільній здатності %s</string>
 	 <string name="ultra_pixel_portrait_hint">HD портрет</string>
-    <string name="mimoji_app_name">MiMoji</string>
+     <string name="mimoji_app_name">MiMoji</string>
      <string name="pref_camera_touch_focus_delay_title">Затримка фокусування при натисканні</string>
      <string name="pref_camera_lying_summary">"Коли пристрій розташований паралельно землі, в інтерфейсі камери будуть з'являтися підказки"</string>
      <string name="pref_camera_lying_title">Підказки нахилу пристрою</string>

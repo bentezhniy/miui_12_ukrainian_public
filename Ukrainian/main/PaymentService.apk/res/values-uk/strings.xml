@@ -663,7 +663,7 @@
      <string name="passport_get_back_pwd">Відновити пароль акаунту</string>
      <string name="passport_get_verify_code">Отримати код</string>
      <string name="passport_getting_activator_phone">Отримання інформації SIM…</string>
-     <string name="passport_getting_verify_code">Отримання...</string>
+     <string name="passport_getting_verify_code">Отримання…</string>
      <string name="passport_i_know">Зрозуміло</string>
      <string name="passport_identification_expired">Термін дії коду закінчився, почніть спочатку</string>
      <string name="passport_imei_permission_denied_message">Ми запитуємо дозвіл на доступ до IMEI Вашого пристрою. Mi акаунт використовує IMEI для ідентифікації пристрою, на якому Ви авторизовуєтесь / реєструєтесь та допомагає тримати Ваш Mi акаунт захищеним.</string>

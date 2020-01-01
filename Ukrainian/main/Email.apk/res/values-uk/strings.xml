@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="contact_add_options">Додати до контактів</string>
+     <string name="account_settings_smime_title">S/MIME(абревіатура: Secure/Multipurpose Internet Mail Extensions)</string>
+     <string name="account_smime">S/MIME</string>
+     <string name="account_smime_cert_title">Сертифікат</string>
+     <string name="account_smime_encrypt">Шифрування S/MIME </string>
+     <string name="account_smime_install_cert">Установка сертифіката</string>
+     <string name="account_smime_sign">Підпис S/MIME</string>
+     <string name="certificate_add_failed">Сертифікат \"%s\" не може бути встановлений</string>
+     <string name="certificate_added">Сертифікат \"%s\" доданий</string>
+     <string name="certificate_alias_prompt_certificate_name">"Ім'я сертифіката"</string>
+     <string name="certificate_alias_prompt_title">"Ім'я сертифіката"</string>
+     <string name="certificate_alias_prompt_w">"Таке ім'я вже використовується"</string>
+     <string name="certificate_password_hit">Введіть пароль</string>
+     <string name="certificate_password_prompt_title">Розпакувати сертифікат</string>
+     <string name="certificate_password_tips">Введіть пароль для розпакування сертифіката</string>
+     <string name="certificate_password_tips_w">Введіть коректний пароль</string>
+     <string name="conversation_cert_distrust">Скасувати довіру</string>
+     <string name="conversation_cert_info_tips">Відправник підписав це повідомлення довіреним сертифікатом</string>
+     <string name="conversation_cert_info_title">Підписаний</string>
+     <string name="conversation_cert_trust">Довіряти підписи</string>
+     <string name="conversation_message_encrypt_tips">Це повідомлення зашифровано. Встановіть файл сертифіката, щоб розшифрувати це повідомлення.</string>
+     <string name="no_open_smime_toast">Спочатку встановіть сертифікат S/MIME</string>
+     <string name="obtain_new_auth_code">Отримати новий код підтвердження</string>
+     <string name="qq_changepw_dialog_tips">Введіть код підтвердження: %s</string>
+     <string name="send_encrypt_dialog_fail_content">Цей лист не може бути зашифрований, оскільки одержувач не має довіреного сертифіката підпису. Відправити в незашифрованому вигляді?</string>
+     <string name="send_encrypt_dialog_fail_title">Попередження</string>
+     <string name="user_new_auth_code">Увійдіть з новим кодом підтвердження</string>
+     <string name="xiaomi_auth_toastbar">Потрібна авторизація</string>
+     <string name="xiaomi_email">Mi Mail</string>
+     <string name="xiaomi_under_certification">Авторизація</string>
+	 <string name="contact_add_options">Додати до контактів</string>
      <string name="contact_add_options_details1">Усі</string>
      <string name="contact_add_options_details2">Тільки отримувачі</string>
      <string name="get_oauth_code">Отримати код</string>

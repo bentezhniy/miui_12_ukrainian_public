@@ -67,11 +67,11 @@
      <string name="song_group_float_save_picture">Зберегти зображення</string>
      <string name="song_group_float_save_picture_success">Збережено</string>
      <string name="song_group_float_to_save_picture">Збережено в %1$s</string>
-     <string name="song_playing">Відтворення ...</string>
+     <string name="song_playing">Відтворення …</string>
      <string name="swipe_to_load_head_complete_fail">Помилка оновлення</string>
      <string name="swipe_to_load_head_complete_success">%1$s Ваш %2$d рекомендації були оновлені</string>
      <string name="swipe_to_load_head_pengding">Проведіть для оновлення</string>
-     <string name="swipe_to_load_head_refreshing">Оновлення...</string>
+     <string name="swipe_to_load_head_refreshing">Оновлення…</string>
      <string name="swipe_to_load_head_release">Відпустіть для оновлення</string>
      <string name="tab_comment">Відгук</string>
      <string name="tab_like">Подобається</string>

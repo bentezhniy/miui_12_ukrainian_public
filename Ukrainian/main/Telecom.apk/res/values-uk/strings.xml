@@ -84,7 +84,7 @@
      <string name="bluetooth_pairing">Сполучення…</string>
      <string name="bluetooth_pairing_accept">Сполучення</string>
      <string name="bluetooth_pairing_accept_all_caps">Підключити</string>
-     <string name="bluetooth_pairing_decline">Скасування</string>
+     <string name="bluetooth_pairing_decline">Скасувати</string>
      <string name="bluetooth_pairing_device_down_error_message">"Неможливо встановити з'єднання з пристроєм \"%1$s\""</string>
      <string name="bluetooth_pairing_error_message">"Помилка з'єднання з пристроєм \"%1$s\""</string>
      <string name="bluetooth_pairing_pin_error_message">"Помилка з'єднання з пристроєм \"%1$s\", внаслідок неправильного введення PIN-коду або паролю"</string>

@@ -24,7 +24,7 @@
     <string name="autofill_hint_password">Пароль</string>
     <string name="autofill_hint_phone">Номер телефону</string>
     <string name="auth_fingerprint_title">Перевірка відбитка</string>
-    <string name="auth_fingerprint_content">Читання відбитків пальців ...</string>
+    <string name="auth_fingerprint_content">Читання відбитків пальців …</string>
     <string name="auth_fingerprint_content_message">Покладіть палець на датчик</string>
     <string name="auth_fingerprint_content_message_error">Неможливо сканувати відбиток пальця</string>
     <string name="save_content_tip">"Наступні дані будуть збережені: "</string>

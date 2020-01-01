@@ -22,7 +22,7 @@
      <string name="print_help_label">Допомога</string>
      <string name="print_help_tip">Переконайтеся, що ваш пристрій і принтер підключені до однієї і тієї ж мережі Wi-Fi</string>
      <string name="print_help_tip_reg">Допомога</string>
-     <string name="print_searching_printers">Пошук принтерів...</string>
+     <string name="print_searching_printers">Пошук принтерів…</string>
      <string name="print_submited">Готово до друку</string>
      <string name="print_title">Друк…</string>
      <string name="printer">Друк</string>

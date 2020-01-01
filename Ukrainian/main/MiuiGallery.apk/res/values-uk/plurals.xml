@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-      <plurals name="backup_file_over_size_title">
+     <plurals name="photo_remain_days">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+     </plurals>
+     <plurals name="photo_remain_hours">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Видалити безповоротно %d файл?</item>
+        <item quantity="one">Видалити безповоротно %d файл?</item>
+        <item quantity="few">Видалити безповоротно %d файл?</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Видалити безповоротно %d файл?</item>
+        <item quantity="one">Видалити безповоротно %d файл?</item>
+        <item quantity="few">Видалити безповоротно %d файл?</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Видалити безповоротно %d файл?</item>
+        <item quantity="one">Видалити безповоротно %d файл?</item>
+        <item quantity="few">Видалити безповоротно %d файл?</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Файли можуть бути відновлені протягом %1$d день (%2$s)</item>
+        <item quantity="one">Файли можуть бути відновлені протягом %1$d день (%2$s)</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Файли можуть бути відновлені протягом %1$d день. Оновіть тариф, щоб збільшити термін зберігання.</item>
+        <item quantity="one">Файли можуть бути відновлені протягом %1$d день. Оновіть тариф, щоб збільшити термін зберігання.</item>
+     </plurals>
+	 <plurals name="backup_file_over_size_title">
         <item quantity="other">%d файлів занадто великі для синхронізації</item>
         <item quantity="one">%d файл занадто великий для синхронізації</item>
         <item quantity="few">%d файли занадто великі для синхронізації</item>

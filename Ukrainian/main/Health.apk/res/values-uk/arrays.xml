@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="arr_prompt_label">
+    <string-array name="week">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>"П'ятниця"</item>
+        <item>Субота</item>
+     </string-array>
+	<string-array name="arr_prompt_label">
         <item>Резонний</item>
         <item>Довго</item>
         <item>Занадто довго</item>

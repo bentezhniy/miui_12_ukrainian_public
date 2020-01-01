@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="daily">
+     <plurals name="other_all_day_events">
+        <item quantity="other">%d інших подій</item>
+        <item quantity="one">%d інша подія</item>
+        <item quantity="few">%d інші події</item>
+     </plurals>
+	 <plurals name="daily">
         <item quantity="other">Кожні %d днів</item>
         <item quantity="few">Кожні %d дні</item>
         <item quantity="one">Щоденно</item>

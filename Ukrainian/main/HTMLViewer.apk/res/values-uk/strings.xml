@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="poco_privacy_policy">Політика конфіденційності і угода користувача POCO Launcher</string>
+    <string name="legal_written_offer">Письмова пропозиція</string>
+	<string name="poco_privacy_policy">Політика конфіденційності і угода користувача POCO Launcher</string>
     <string name="app_label">Перегляд HTML</string>
     <string name="loading">Завантаження…</string>
     <string name="app_name_which_call">Програма: %s</string>

@@ -428,7 +428,7 @@
      <string name="miui_message_staging_0">Підготовка до встановлення</string>
      <string name="miui_message_staging_1">Підготовка до встановлення.</string>
      <string name="miui_message_staging_2">Підготовка до встановлення..</string>
-     <string name="miui_message_staging_3">Підготовка до встановлення...</string>
+     <string name="miui_message_staging_3">Підготовка до встановлення…</string>
      <string name="miui_no_perms">Дозволи не потребуються</string>
      <string name="miui_not_uninstall_system_app">Неможливо видалити системні програми</string>
      <string name="miui_other_relative">Інше</string>
@@ -452,7 +452,7 @@
      <string name="miui_virus_scanning_0"> Сканування&#160;&#160;&#160;</string>
      <string name="miui_virus_scanning_1"> Сканування.&#160;&#160;</string>
      <string name="miui_virus_scanning_2"> Сканування..&#160;</string>
-     <string name="miui_virus_scanning_3"> Сканування...</string>
+     <string name="miui_virus_scanning_3"> Сканування…</string>
      <string name="miui_virus_title">Виявлено загрози</string>
      <string name="mobil_net_work_warning_cancel">Скасувати</string>
      <string name="mobil_net_work_warning_msg">Ви використовуєте мобільний інтернет. Для встановлення цієї програми необхідно %1$s мобільного трафіку. Продовжити?</string>

@@ -6,4 +6,60 @@
         <item quantity="few">%1$d роки (%2$d міс.)</item>
         <item quantity="many">%1$d років (%2$d міс.)</item>
     </plurals>
+	<plurals name="a_hour_ago">
+        <item quantity="other">Годину тому</item>
+     </plurals>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Годину тому</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Через годину</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Через півгодини</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Щойно</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d хв.</item>
+        <item quantity="one">за %d хв.</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Щойно</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">%d хв. тому</item>
+     </plurals>
+     <plurals name="half_hour_ago">
+        <item quantity="other">Півгодини тому</item>
+     </plurals>
+     <plurals name="in_a_hour">
+        <item quantity="other">Через годину</item>
+     </plurals>
+     <plurals name="in_half_hour">
+        <item quantity="other">Через півгодини</item>
+     </plurals>
+     <plurals name="in_less_than_one_minute">
+        <item quantity="other">Щойно</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">через %d хв.</item>
+        <item quantity="one">через %d хв.</item>
+     </plurals>
+     <plurals name="items_selected">
+        <item quantity="other">Вибрано: %d</item>
+        <item quantity="one">Вибрано: %d</item>
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Щойно</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">%d хв. тому</item>
+     </plurals>
 </resources>

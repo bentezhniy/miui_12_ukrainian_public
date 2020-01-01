@@ -31,4 +31,8 @@
         <item>Єна</item>
         <item>Юань</item>
      </string-array>
+	 <string-array name="weight_array">
+        <item>Кілограм</item>
+        <item>Фунт</item>
+     </string-array>
 </resources>

@@ -134,8 +134,8 @@
 		<item quantity="many">Завантажено %d треків</item>
      </plurals>
      <plurals name="download_running">
-        <item quantity="other">Завантаження %d треків ...</item>
-        <item quantity="one">Завантаження %d треку ...</item>
+        <item quantity="other">Завантаження %d треків …</item>
+        <item quantity="one">Завантаження %d треку …</item>
      </plurals>
 		<plurals name="comment_count">
         <item quantity="other">%d відгуків</item>
