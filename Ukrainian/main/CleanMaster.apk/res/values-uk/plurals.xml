@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="dc_group_title_normal">
-        <item quantity="other">%1$d кроків для очищення %2$s</item>
-        <item quantity="one">%1$d крок для очищення %2$s</item>
-        <item quantity="few">%1$d кроки для очищення %2$s</item>
-     </plurals>
-     <plurals name="dc_item_summary_apk">
-        <item quantity="other">Можна видалити %d APK</item>
-        <item quantity="one">Можна видалити %d APK</item>
-     </plurals>
-     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">Можна очистити дані %d програм</item>
-        <item quantity="one">Можна очистити дані %d програми</item>
-     </plurals>
-     <plurals name="dc_item_summary_image">
-        <item quantity="other">Можна видалити %d непотрібних фото</item>
-        <item quantity="one">Можна видалити %d непотрібне фото</item>
-     </plurals>
-     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">Можна видалити %d ликих файлів</item>
-        <item quantity="one">Можна видалити %d великий файл</item>
-        <item quantity="few">Можна видалити %d великих файли</item>
-     </plurals>
-     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">Можна видалити %d невикористовуваних програм</item>
-        <item quantity="one">Можна видалити %d невикористовувану програма</item>
-        <item quantity="few">Можна видалити %d невикористовуваних програмы</item>
-     </plurals>
-     <plurals name="dc_item_summary_video">
-        <item quantity="other">Можна видалити %d відео</item>
-        <item quantity="one">Можна видалити %d відео</item>
-     </plurals>
-     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">Очищено %1$s (досить для %2$d треків)</item>
-        <item quantity="one">Очищено %1$s (досить для %2$d треку)</item>
-     </plurals>
-     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">Очищено %1$s (досить для %2$d фото)</item>
-        <item quantity="one">Очищено %1$s (досить для %2$d фото)</item>
-     </plurals>
-     <plurals name="global_wa_image">
-        <item quantity="other">%1$d фото</item>
-        <item quantity="one">%1$d фото</item>
-     </plurals>
-     <plurals name="global_wa_video">
-        <item quantity="other">%1$d відео</item>
-        <item quantity="one">%1$d відео</item>
-     </plurals>
-     <plurals name="global_wa_voice">
-        <item quantity="other">Знайдено %1$d голосових повідомлень</item>
-        <item quantity="one">Знайдено %1$d голосове повідомлення</item>
-        <item quantity="few">Знайдено %1$d голосових повідомлення</item>
-     </plurals>
-	 <plurals name="app_usage_day">
+     <plurals name="app_usage_day">
         <item quantity="other">Не використовувалася %d днів</item>
         <item quantity="one">Не використовувалася %d день</item>
         <item quantity="few">Не використовувалася %d дні</item>
@@ -222,5 +170,57 @@
         <item quantity="one">"Видалити %1$d об'єкт?"</item>
         <item quantity="few">"Видалити %1$d об'єкта?"</item>
         <item quantity="many">"Видалити %1$d об'єктів?"</item>
+     </plurals>
+	 <plurals name="dc_group_title_normal">
+        <item quantity="other">%1$d кроків для очищення %2$s</item>
+        <item quantity="one">%1$d крок для очищення %2$s</item>
+        <item quantity="few">%1$d крок для очищення %2$s</item>
+     </plurals>
+     <plurals name="dc_item_summary_apk">
+        <item quantity="other">Можна видалити %d установний APK</item>
+        <item quantity="one">Можна видалити %d установний APK</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_data">
+        <item quantity="other">Можна очистити дані %d програм</item>
+        <item quantity="one">Можна очистити дані %d програмы</item>
+     </plurals>
+     <plurals name="dc_item_summary_image">
+        <item quantity="other">Можна видалити %d непотрібних фото</item>
+        <item quantity="one">Можна видалити %d непотрібне фото</item>
+     </plurals>
+     <plurals name="dc_item_summary_large_file">
+        <item quantity="other">Можна видалити %d ликих файлів</item>
+        <item quantity="one">Можна видалити %d великий файл</item>
+        <item quantity="few">Можна видалити %d великих файлу</item>
+     </plurals>
+     <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">Можна видалити %d невикористовуваних програм</item>
+        <item quantity="one">Можна видалити %d неиспользуемое програма</item>
+        <item quantity="few">Можна видалити %d невикористовуваних програмы</item>
+     </plurals>
+     <plurals name="dc_item_summary_video">
+        <item quantity="other">Можна видалити %d відео</item>
+        <item quantity="one">Можна видалити %d відео</item>
+     </plurals>
+     <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">Очищений %1$s (досить для %2$d трек)</item>
+        <item quantity="one">Очищений %1$s (досить для %2$d трек)</item>
+     </plurals>
+     <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">Очищений %1$s (досить для %2$d фото)</item>
+        <item quantity="one">Очищений %1$s (досить для %2$d фото)</item>
+     </plurals>
+     <plurals name="global_wa_image">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+     </plurals>
+     <plurals name="global_wa_video">
+        <item quantity="other">%1$d відео</item>
+        <item quantity="one">%1$d відео</item>
+     </plurals>
+     <plurals name="global_wa_voice">
+        <item quantity="other">Знайдений %1$d голосових повідомлень</item>
+        <item quantity="one">Знайдений %1$d голосове повідомлення</item>
+        <item quantity="few">Знайдений %1$d голосових повідомлення</item>
      </plurals>
 </resources>

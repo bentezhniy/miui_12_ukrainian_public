@@ -684,4 +684,5 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
      <string name="xiaomi_update_dialog_message_diff">"Нова версія: %1$s 
 Розмір оновлення: %2$s"</string>
      <string name="xiaomi_update_dialog_title">Доступна нова версія</string>
+	 <string name="camera_summary_for_cta">Налаштування камери</string>
 </resources>

@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="sleep_duration_hour">
-        <item quantity="other">%1$s г.</item>
-        <item quantity="one">%1$s г.</item>
-     </plurals>
-     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1$s г.</item>
-        <item quantity="one">%1$s г.</item>
-     </plurals>
-     <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s хв.</item>
-        <item quantity="one">%1$s хв.</item>
-     </plurals>
-     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s хв.</item>
-        <item quantity="one">%1$s хв.</item>
-     </plurals>
-	 <plurals name="snooze_duration_desc">
+     <plurals name="snooze_duration_desc">
         <item quantity="other">Кожні %1$s хв. відкладати %2$s разів</item>
         <item quantity="one">Кожні %1$s хв. відкладати %2$s раз</item>
         <item quantity="few">Кожні %1$s хв. відкладати %2$s рази</item>
@@ -136,5 +120,21 @@
      <plurals name="timers_num">
         <item quantity="other">%d хв.</item>
         <item quantity="one">1 хв.</item>
+     </plurals>
+	      <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+     </plurals>
+     <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+     </plurals>
+     <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
+     </plurals>
+     <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
      </plurals>
 </resources>

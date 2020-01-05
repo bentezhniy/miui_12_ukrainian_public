@@ -1050,7 +1050,7 @@
      <string name="battery_reverse_wireless_charge_time_out">Час очікування зворотного бездротова зарядки вийшло</string>
      <string name="battery_reverse_wireless_charge_title">Зворотна бездротова зарядка</string>
      <string name="cit_depth_camera_check_title">Камера глибини</string>
-     <string name="cit_flicker_sensor_check_summary">Значення для мерехтіння повинні з\'явитися нижче</string>
+     <string name="cit_flicker_sensor_check_summary">Значення для мерехтіння повинні з'явитися нижче</string>
      <string name="cit_flicker_sensor_check_title">Датчик мерехтіння</string>
      <string name="cit_tele_camera_check_title">Теле камера</string>
 	 <string name="cit_tool_wifi_rxax_test">Rx: ax</string>
@@ -1064,4 +1064,9 @@
      <string name="cit_voc_data_temperature">Температура</string>
 	 <string name="cit_tfcard_no_support">TF карти не підтримуються на цьому пристрої</string>
      <string name="cit_tfcard_support">TF карти підтримуються на цьому пристрої</string>
+     <string name="cit_front_dual_camera_check_summary_no_zoom">"План тестування:
+
+1.Автоматично відкрити камеру, щоб увійти в інтерфейс попереднього перегляду.
+2.Зачекайте, поки попередній перегляд завершиться, і камера закриється автоматично."</string>
+     <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
 </resources>

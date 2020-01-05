@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="action_add_to_workspace">На робочий стіл</string>
+     <string name="activity_not_found">Програму не знайдено</string>
+     <string name="activity_not_unlocked">Дочекайтесь повного завантаження пристрою</string>
      <string name="add">Додати</string>
      <string name="add_custom_category">Додати</string>
+     <string name="add_screen">Додати екранну клавішу</string>
      <string name="added_all_category">Доданий</string>
      <string name="all_app_category_all">Весь</string>
      <string name="all_app_category_communication">Спілкування</string>
@@ -18,42 +22,6 @@
      <string name="all_app_category_shopping">Магазини</string>
      <string name="all_app_category_tools">Інструменти</string>
      <string name="all_apps_setting_min_category_limit">Категорії не вибрані</string>
-     <string name="auto_delete_category_dialog_content">Після удалення іконки пошук категорії не буде збережений. Продолжить?</string>
-     <string name="auto_delete_category_dialog_title">Удаление категорій</string>
-     <string name="cate_order_reset">Скидання</string>
-     <string name="category_already_exists">Ця категорія вже існує</string>
-     <string name="category_cannot_empty">"Введіть ім'я категорії"</string>
-     <string name="category_choose_no_app_select_tip">Програмы для категорії не обрані</string>
-     <string name="category_drawer_name_hint">"Введіть ім'я категорії"</string>
-     <string name="category_group">Категорії програм</string>
-     <string name="category_group_summary">Сортувати програми по категоріям</string>
-     <string name="category_not_selected">Доступні програми</string>
-     <string name="default_folder_title_other_apps">Iнші</string>
-     <string name="delete_category_dialog_content">Категорія буде видалена безповоротно</string>
-     <string name="delete_category_dialog_title">Видалити цю категорію?</string>
-     <string name="edit">Змінити</string>
-     <string name="manager_group_settings">Управління категоріями</string>
-     <string name="reset_cate_tip_content">Сортування додатків за категоріями буде відновлена за замовчуванням</string>
-     <string name="reset_cate_tip_title">Скинути категорії?</string>
-     <string name="system_shortcuts_remove">Прибрати</string>
-	 <string name="system_shortcuts_more_operation">Інфо</string>
-	 <string name="no_space_toast_when_click_widget">Немає вільного місця</string>
-     <string name="unstable_dialog_content">Це тестова версія системи Android, яка може бути змінена. Використання цієї системи регулюється Ліцензійною угодою попереднього перегляду Android SDK. Тестов версія системи Android не є стабільною версією і може містити помилки, які можуть призвести до втрати даних. Тестова версія Android не піддавалася такому ж тестуванню, як заводська ОС, і може привести до припинення роботи цього пристрою, встановлених служб або програм</string>
-     <string name="activity_not_unlocked">Дочекайтесь повного завантаження пристрою</string>
-     <string name="default_folder_title_meitu">Meitu</string>
-     <string name="shake_to_align_icons">Потрусіть пристрій для заповнення пустих комірок</string>
-     <string name="shake_to_align_icons_summary">Потрусіть пристрій в режимі редагування робочого столу, щоб автоматично заповнювати комірки ярликами</string>
-     <string name="shake_to_align_icons_title">Заповнення комірок струшуванням</string>
-	 <string name="announce_for_search_bar">Рядок пошуку</string>
-     <string name="announce_for_xiaoai">Помічник</string>
-	 <string name="edit_mode_top_menu_finish">Готово</string>
-     <string name="menu_finish">Готово</string>
-     <string name="widgets_preview_title">Додати віджет</string>
-	 <string name="notification_reset_description">%1$s %1$s може скинути налаштування робочого столу до %2$s</string>
-     <string name="notification_reset_duration">За 2 години,</string>
-	 <string name="action_add_to_workspace">На робочий стіл</string>
-     <string name="activity_not_found">Програму не знайдено</string>
-     <string name="add_screen">Додати екранну клавішу</string>
      <string name="announce_for_checked">%1$s, відмічено</string>
      <string name="announce_for_choose_default_screen">Екран %1$d призначено домашнім</string>
      <string name="announce_for_close_default_preview">Закрити вибір домашнього екрану</string>
@@ -79,8 +47,10 @@
      <string name="announce_for_open_default_preview">Вибір домашнього екрану</string>
      <string name="announce_for_open_folder">Відкрити теку %1$s</string>
      <string name="announce_for_open_launcher_menu">Відкрити меню</string>
+     <string name="announce_for_search_bar">Рядок пошуку</string>
      <string name="announce_for_show_uninstall_dialog">Видалення</string>
      <string name="announce_for_unchecked">%1$s, не відмічено</string>
+     <string name="announce_for_xiaoai">Помічник</string>
      <string name="app_already_exist">Програма вже існує</string>
      <string name="app_being_backup_message">Резервна копія програми буде збережена</string>
      <string name="app_being_restored_message">Програму буде відновлено</string>
@@ -117,6 +87,8 @@
      <string name="aqi_quality_index_light_pollution">Легке забруднення</string>
      <string name="aqi_quality_index_moderate">Помірна</string>
      <string name="aqi_quality_index_unhealthy">Шкідлива</string>
+     <string name="auto_delete_category_dialog_content">Після удалення іконки пошук категорії не буде збережений. Продолжить?</string>
+     <string name="auto_delete_category_dialog_title">Удаление категорій</string>
      <string name="backup_fail">Помилка резервного копіювання</string>
      <string name="bad_wallpaper_source_prompt">Не вдалося завантажити шпалери</string>
      <string name="buffering">Буферизація…</string>
@@ -126,6 +98,14 @@
      <string name="cant_remove_folder">Неможливо видалити теку з програмами</string>
      <string name="cant_remove_retained_app">Не вдалося видалити обрану програму</string>
      <string name="cant_remove_system_app">Неможливо видалити системну програму</string>
+     <string name="cate_order_reset">Скидання</string>
+     <string name="category_already_exists">Ця категорія вже існує</string>
+     <string name="category_cannot_empty">"Введіть ім'я категорії"</string>
+     <string name="category_choose_no_app_select_tip">Програмы для категорії не обрані</string>
+     <string name="category_drawer_name_hint">"Введіть ім'я категорії"</string>
+     <string name="category_group">Категорії програм</string>
+     <string name="category_group_summary">Сортувати програми по категоріям</string>
+     <string name="category_not_selected">Доступні програми</string>
      <string name="change_wallpaper">Змінити</string>
      <string name="children_folder_title">Розваги</string>
      <string name="children_mode_exit">Вихід</string>
@@ -153,7 +133,9 @@
      <string name="defalut_launcher_title">Робочий стіл за замовчуванням</string>
      <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Ігри</string>
+     <string name="default_folder_title_meitu">Meitu</string>
      <string name="default_folder_title_microsoft">Microsoft</string>
+     <string name="default_folder_title_other_apps">Iнші</string>
      <string name="default_folder_title_recommend">Інші</string>
      <string name="default_folder_title_security">Система</string>
      <string name="default_folder_title_services">Послуги</string>
@@ -164,6 +146,8 @@
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="default_theme_name">Стандартно</string>
      <string name="delete">Видалити</string>
+     <string name="delete_category_dialog_content">Категорія буде видалена безповоротно</string>
+     <string name="delete_category_dialog_title">Видалити цю категорію?</string>
      <string name="delete_screen">Видалити екранну клавішу</string>
      <string name="delete_wallpaper_message">Видалити шпалери? (%1$d)</string>
      <string name="delete_wallpapers_message">Видалити шпалери? (%1$d)</string>
@@ -175,11 +159,13 @@
      <string name="download_action">Завантаження</string>
      <string name="drag_multiple_item_name" />
      <string name="drag_single_item_name" />
+     <string name="edit">Змінити</string>
      <string name="edit_folder_title">Перейменувати теку</string>
      <string name="edit_mode_group">Додати до теки</string>
      <string name="edit_mode_group_error_full">Недостатньо місця</string>
      <string name="edit_mode_group_error_in_folder">Спочатку закрийте теку</string>
      <string name="edit_mode_group_error_one_folder">Неможливо дублювати теку з обраними іконками</string>
+     <string name="edit_mode_top_menu_finish">Готово</string>
      <string name="edit_mode_uninstall">Видалити</string>
      <string name="editing_add_widget_tips">Віджети</string>
      <string name="editing_mode_enter_tip_text">Використовуйте \"щипок\" для редагування робочого столу</string>
@@ -275,6 +261,7 @@
      <string name="lock_screen_success_message">Встановлено на екран блокування</string>
      <string name="lock_screen_wallpaper">Шпалери екрану блокування</string>
      <string name="maml_component_customization_title">Налаштування</string>
+     <string name="manager_group_settings">Управління категоріями</string>
      <string name="memory_clear_nothing_result">Очищення непотрібне</string>
      <string name="memory_clear_result">Очищено %1$s</string>
      <string name="menu_add">Додати</string>
@@ -285,6 +272,7 @@
      <string name="menu_default_screen_preview">Домашній екран</string>
      <string name="menu_edit">Режим редагування</string>
      <string name="menu_exit_scene">Вихід із Mi Space</string>
+     <string name="menu_finish">Готово</string>
      <string name="menu_item_add_item">Додати на робочий стіл</string>
      <string name="menu_launcher_setting">Налаштування робочого столу</string>
      <string name="menu_lock">Закріпити розташування іконок</string>
@@ -303,9 +291,12 @@
      <string name="multi_selecting_tips">Натисніть на іконки</string>
      <string name="no_detail_page">Немає інформації</string>
      <string name="no_space_toast">Немає вільного місця</string>
+     <string name="no_space_toast_when_click_widget">Немає вільного місця</string>
      <string name="normal_wallpaper">Шпалери робочого столу</string>
      <string name="notification_installed">Встановлення завершено</string>
      <string name="notification_open_button">Відкрити</string>
+     <string name="notification_reset_description">%1$s %1$s може скинути налаштування робочого столу до %2$s</string>
+     <string name="notification_reset_duration">За 2 години,</string>
      <string name="notification_reset_title">Іконки упорядковано успішно</string>
      <string name="online_wallpaper">Онлайн</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Скасувати</string>
@@ -329,12 +320,12 @@
      <string name="photo_confirm">Готово</string>
      <string name="photo_load_failed">Не вдалося завантажити фото</string>
      <string name="pref_cell_layout_size">Сітка робочого столу</string>
-     <string name="pref_enable_drawing_cache_summary">Вимкніть, щоб звільнити пам\'ять. Можливе пригальмовування системи.</string>
+     <string name="pref_enable_drawing_cache_summary">"Вимкніть, щоб звільнити пам\'ять. Можливе пригальмовування системи."</string>
      <string name="pref_enable_drawing_cache_title">Кеш графіки</string>
      <string name="pref_icon_shadow_summary">Увімкнути ефект тіні від іконок на робочому столі</string>
      <string name="pref_icon_shadow_title">Тінь від іконок</string>
-     <string name="pref_keep_in_memory_summary">Заборонити вивантажувати робочий стіл з оперативної пам\'яті</string>
-     <string name="pref_keep_in_memory_title">Тримати в пам\'яті</string>
+     <string name="pref_keep_in_memory_summary">"Заборонити вивантажувати робочий стіл з оперативної пам\'яті"</string>
+     <string name="pref_keep_in_memory_title">"Тримати в пам\'яті"</string>
      <string name="pref_keep_layout_summary">Перемикання сітки робочого столу може порушити положення іконок. Увімкніть для збереження положення іконок.</string>
      <string name="pref_keep_layout_title">Зберігати розстановку</string>
      <string name="pref_render_in_truecolor_summary">Поліпшення якості кольору</string>
@@ -356,6 +347,8 @@
      <string name="recommend_apps_tips">"Для роботи цієї функції потрібно під\'єднання до інтернету. Для вимкнення цієї функції натисніть на назву теки."</string>
      <string name="recommend_loading">Завантаження…</string>
      <string name="refresh">Оновити</string>
+     <string name="reset_cate_tip_content">Сортування додатків за категоріями буде відновлена за замовчуванням</string>
+     <string name="reset_cate_tip_title">Скинути категорії?</string>
      <string name="reset_description_first_time">Ви можете відновити макет у %1$s впродовж 2 годин</string>
      <string name="reset_description_others">Ви можете відновити макет у %1$s</string>
      <string name="reset_fail">Не вдалося відновити</string>
@@ -375,6 +368,9 @@
      <string name="setting_wallpaper_tip">Переміщуйте та змінюйте розмір</string>
      <string name="settings">Налаштування</string>
      <string name="settings_shortcut">Налаштування</string>
+     <string name="shake_to_align_icons">Потрусіть пристрій для заповнення пустих комірок</string>
+     <string name="shake_to_align_icons_summary">Потрусіть пристрій в режимі редагування робочого столу, щоб автоматично заповнювати комірки ярликами</string>
+     <string name="shake_to_align_icons_title">Заповнення комірок струшуванням</string>
      <string name="share">Надіслати</string>
      <string name="show_all">Показати все</string>
      <string name="show_mem_info_title">Інформація про ОЗП</string>
@@ -416,6 +412,8 @@
      <string name="status_installing">Встановлення</string>
      <string name="status_paused">Пауза</string>
      <string name="status_pending">Очікування</string>
+     <string name="system_shortcuts_more_operation">Інфо</string>
+     <string name="system_shortcuts_remove">Прибрати</string>
      <string name="title_jeejen">Робочий стіл для людей похилого віку</string>
      <string name="title_select_live_folder">Оберіть теку</string>
      <string name="title_select_shortcut">Оберіть ярлик</string>
@@ -444,6 +442,7 @@
      <string name="uninstall_xspace_dialog_title_format">Видалити клон \"%s\"?</string>
      <string name="unknown_artist_name">Невідомий виконавець</string>
      <string name="unnamed_folder_name">Без імені</string>
+     <string name="unstable_dialog_content">Це тестова версія системи Android, яка може бути змінена. Використання цієї системи регулюється Ліцензійною угодою попереднього перегляду Android SDK. Тестов версія системи Android не є стабільною версією і може містити помилки, які можуть призвести до втрати даних. Тестова версія Android не піддавалася такому ж тестуванню, як заводська ОС, і може привести до припинення роботи цього пристрою, встановлених служб або програм</string>
      <string name="wallpaper">Шпалери</string>
      <string name="wallpaper_auto_change_title">Екран блокування</string>
      <string name="wallpaper_failed_message">Не вдалося встановити шпалери</string>
@@ -458,4 +457,5 @@
      <string name="widget_gadget_player">Музика</string>
      <string name="widget_global_search">Пошук</string>
      <string name="widget_quick_function">Перемикачі</string>
+     <string name="widgets_preview_title">Додати віджет</string>
 </resources>

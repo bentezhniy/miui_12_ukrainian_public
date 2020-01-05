@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platform_chooser_item">
+        <item>Mi Phone</item>
+        <item>Інші бренди</item>
+        <item>Імпорт з iOS пристрою</item>
+    </string-array>
+	<string-array name="permissions_desc">
+        <item>Для передачі і збереження зображень, додатків та інших файлів.</item>
+        <item>Для передачі файлів по Bluetooth і Wi-Fi</item>
+     </string-array>
+</resources>

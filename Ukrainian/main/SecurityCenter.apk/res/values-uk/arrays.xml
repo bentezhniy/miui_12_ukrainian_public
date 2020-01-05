@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="applock_password_types">
-        <item>Графічний ключ</item>
-        <item>Код</item>
-        <item>Пароль</item>
-     </string-array>
-	 <string-array name="alarm_repeat_type">
+     <string-array name="alarm_repeat_type">
         <item>Одноразово</item>
         <item>Щоденно</item>
         <item>У робочі дні</item>
@@ -233,5 +228,10 @@
      <string-array name="traffic_type">
         <item>"за мобільним трафіком "</item>
         <item>"за Wi-Fi трафіком "</item>
+     </string-array>
+	 <string-array name="applock_password_types">
+        <item>Графічний ключ</item>
+        <item>Код</item>
+        <item>Пароль</item>
      </string-array>
 </resources>

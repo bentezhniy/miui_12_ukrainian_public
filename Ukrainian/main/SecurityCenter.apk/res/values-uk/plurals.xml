@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="applock_guide_app_count_tips">
-        <item quantity="other">Ви можете захистити не менше %s програм</item>
-        <item quantity="one">Ви можете захистити не менше %s програма</item>
-     </plurals>
-     <plurals name="gb_record_time_title">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">%d сек.</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%s г.</item>
-        <item quantity="one">%s г.</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%s хв.</item>
-        <item quantity="one">%s хв.</item>
-     </plurals>
-     <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">Програм: %d</item>
-        <item quantity="one">Програм: %d</item>
-     </plurals>
-	 <plurals name="pc_main_power_manager_day">
+     <plurals name="pc_main_power_manager_day">
         <item quantity="other">%s дн. до повної зарядки</item>
         <item quantity="one">%s дн. до повної зарядки</item>
      </plurals>
@@ -736,5 +716,25 @@
      <plurals name="white_list_trojan_header">
         <item quantity="other">Вірусів: %d</item>
         <item quantity="one">Вірусів: %d</item>
+     </plurals>
+	      <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s г.</item>
+        <item quantity="one">%s г.</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s хв.</item>
+        <item quantity="one">%s хв.</item>
+     </plurals>
+	      <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Ви можете захистити не менше %s програм</item>
+        <item quantity="one">Ви можете захистити не менше %s програма</item>
+     </plurals>
+     <plurals name="gb_record_time_title">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+     </plurals>
+     <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">Програм: %d</item>
+        <item quantity="one">Програм: %d</item>
      </plurals>
 </resources>

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
-     <string name="bind_simcard_menu">Встановити SIM-карту за замовчуванням для викликів</string>
-     <string name="bind_simcard_no_dual">Дві SIM-карти не знайдені</string>
-     <string name="bind_simcard_not_set">Не обрано</string>
-     <string name="bind_simcard_title">SIM-карта за замовчуванням для викликів</string>
-     <string name="cloud_upgrade_recommend">Не вдається синхронізувати контакти через брак місця в хмарному сховищі. Оновіть тариф або звільніть місце</string>
-	 <string name="scan_not_installed">Спочатку інсталюйте сканер</string>
+     <string name="scan_not_installed">Спочатку інсталюйте сканер</string>
      <string name="shortcut_new_contact_label">Новий контакт</string>
      <string name="shortcut_scan_label">Сканувати візитку</string>
      <string name="call_feature_volte">VoLTE</string>
@@ -914,7 +908,7 @@
      <string name="nameLabelsGroup">Ім\'я</string>
      <string name="name_family">Прізвище</string>
      <string name="name_given">Ім\'я</string>
-     <string name="name_middle"> По батькові</string>
+     <string name="name_middle">По батькові</string>
      <string name="name_phonetic">Транскрипція імені</string>
      <string name="name_phonetic_family">Прізвище (транскрипція)</string>
      <string name="name_phonetic_given">Ім\'я (транскрипція)</string>
@@ -1597,7 +1591,7 @@
      <string name="summary_kind_title">Основна інформація</string>
      <string name="sv">SV</string>
      <string name="t9_search_empty_create_contact">Новий контакт</string>
-     <string name="t9_search_empty_edit_contact">Добавить до контакту</string>
+     <string name="t9_search_empty_edit_contact">Додати до контакту</string>
      <string name="t9_search_empty_send_sms">Надіслати повідомлення</string>
      <string name="t9_search_empty_video_call">Відеовиклик</string>
      <string name="t9_search_guide_pinyin">Введіть \"2\" або \"5\" для пошуку \"Віталій Патріот\"</string>
@@ -1737,4 +1731,15 @@
      <string name="contact_detail_more_calllog">Показати ще</string>
 	 <string name="yellowpage_address_tag">Адреса</string>
      <string name="yellowpage_provider_label">Підтримка</string>
+	 <string name="cloud_upgrade_recommend">Не вдається синхронізувати контакти через брак місця в хмарному сховищі. Оновіть тариф або звільніть місце.</string>
+	 <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
+     <string name="bind_simcard_menu">Встановити SIM-карту за замовчуванням для викликів</string>
+     <string name="bind_simcard_no_dual">Дві SIM-карти не знайдені</string>
+     <string name="bind_simcard_not_set">Не вибрано</string>
+     <string name="bind_simcard_title">SIM-карта за замовчуванням для викликів</string>
+	 <string name="confirm_delete_cloud_all_call_logs">Видалити всі виклики контакту %s з пристрою і хмари?</string>
+	 <string name="deleteCloudConfirmationDetail">Видалити контакт %s з пристрою і хмари?</string>
+	 <string name="no_phone_no_shortcut">Не можна створити ярлики для контактів без телефонних номерів</string>
+	 <string name="delete_conference_call_log_message">"Видалити всі записи конференц-викликів, пов'язані з цим контактом?"</string>
+     <string name="delete_conference_call_log_title">Видалити всі записи конференц-викликів</string>
 </resources>

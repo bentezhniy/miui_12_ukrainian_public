@@ -164,4 +164,25 @@
      <string name="net_booster_overdue_notification">Сеанс прискорення iнтернету добігає кінця</string>
      <string name="net_booster_overdue_notification_tip">Прискорення інтернету закінчилося. Відновивши?</string>
      <string name="renew_now">Відновивши</string>
+	 <string name="ew_detail_earthquake_center_title">Епіцентр</string>
+     <string name="ew_detail_earthquake_feel_little">Легке погойдування</string>
+     <string name="ew_detail_earthquake_feel_max">Дуже сильна</string>
+     <string name="ew_detail_earthquake_feel_middle">Сильний</string>
+     <string name="ew_detail_earthquake_feel_none">Нерозумно</string>
+     <string name="ew_detail_earthquake_feel_normal">Помірний</string>
+     <string name="ew_detail_earthquake_feel_title">Розрахункова інтенсивність</string>
+     <string name="ew_detail_earthquake_level_title">Розрахункова величина</string>
+     <string name="ew_detail_receive_alert_from">Дані надані високотехнологічним інститутом Ченду</string>
+     <string name="ew_detail_receive_distance_message1">%s км</string>
+     <string name="ew_detail_receive_distance_message2">%s км (Епіцентр знаходиться далеко від вас. Можливо, Ви не відчуєте землетрус.)</string>
+     <string name="ew_detail_receive_distance_title">Відстань до епіцентру</string>
+     <string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
+     <string name="ew_detail_receive_location_title">Місце розташування</string>
+     <string name="ew_detail_receive_time_title">Час початку</string>
+     <string name="ew_detail_receive_warn_time_message">%s сек.</string>
+     <string name="ew_detail_receive_warn_time_title">Час до початку</string>
+     <string name="ew_share_logo_title">Попередження про землетрус</string>
+     <string name="ew_share_save_tips">Збережено в %s</string>
+     <string name="ew_share_title">Поділитися</string>
+     <string name="ew_warning_detail">Подробиці попередження</string>
 </resources>

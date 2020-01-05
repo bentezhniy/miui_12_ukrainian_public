@@ -12,16 +12,46 @@
         <item>Бекап усіх важливих системних налаштувань</item>
         <item>Віддалене керування пристроєм</item>
     </string-array>
+	<string-array name="korea_permission_groups_descriptions">
+        <item>Для ідентифікації синхронізованих елементів</item>
+        <item>Для синхронізації повідомлень</item>
+        <item>Для синхронізації контактів</item>
+        <item>Для синхронізації подій календаря</item>
+        <item>Для синхронізації файлів</item>
+     </string-array>
+     <string-array name="korea_permission_groups_names">
+        <item>Телефон</item>
+        <item>Повідомлення</item>
+        <item>Контакт</item>
+        <item>Календар</item>
+        <item>"Пам'ять"</item>
+     </string-array>
+     <string-array name="user_detail_fixed_items">
+        <item>Перегляд синхронізованих елементів</item>
+        <item>"Інформація про пам'ять"</item>
+     </string-array>
+	 <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Для ідентифікації вашого пристрою</item>
+        <item>Для визначення місця розташування вашого пристрою</item>
+     </string-array>
+     <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Для синхронізації подій</item>
+        <item>Для синхронізації повідомлень</item>
+        <item>Для синхронізації повідомлень</item>
+        <item>Для синхронізації контактів</item>
+        <item>Для синхронізації контактів</item>
+        <item>Для збереження файлів на вашому пристрої</item>
+     </string-array>
 	<string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Для ідентифікації пристрою</item>
         <item>Для пошуку пристрою</item>
      </string-array>
-     <string-array name="privacy_dialog_sync_runtime_perm_desc">
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Для синхронізації календаря</item>
         <item>Для синхронізації повідомлень</item>
         <item>Для синхронізації повідомлень</item>
         <item>Для синхронізації контактів</item>
         <item>Для синхронізації контактів</item>
         <item>"Для збереження файлів в пам'яті пристрою (фото, відео, музика)"</item>
-     </string-array>
+    </string-array>
 </resources>

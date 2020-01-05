@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="aod_show_date_and_time">Показувати дату і час</string>
-     <string name="disable_aod_in_power_save_mode">Вимикати при енергозбереженні</string>
-     <string name="disable_aod_in_power_save_mode_summary">Вимикати режим \"Always on Display\" при енергозбереженні для економії заряду батареї</string>
-     <string name="photo_editor_saving">Збереження…</string>
-     <string name="shownone_arround_image">Ні</string>
-     <string name="time_location">Положення годинника</string>
-	 <string name="always_style">Завжди</string>
+     <string name="always_style">Завжди</string>
      <string name="aod_mode_preview">Перегляд</string>
      <string name="aod_mode_style_title">Обрати стиль</string>
      <string name="aod_show_style_title">Відображення</string>
@@ -17,4 +11,13 @@
  2. При використанні режиму \"Не турбувати\"
  3. При використанні режиму \"Енергозбереження\""</string>
      <string name="temporary_style">10 секунд</string>
+	 <string name="aod_show_date_and_time">Показувати дату і час</string>
+     <string name="disable_aod_in_power_save_mode">Відключати при енергозбереженні</string>
+     <string name="disable_aod_in_power_save_mode_summary">Відключати режим \"Always on Display\" при енергозбереженні для економії заряду батареї</string>
+     <string name="photo_editor_saving">Збереження…</string>
+     <string name="shownone_arround_image">Ні</string>
+     <string name="time_location">Положення годинника</string>  
+     <string name="aod_lock_screen_date_12_signature">d.M</string>
+     <string name="aod_lock_screen_date_signature">d.M</string>
+     <string name="aod_signature_12">hh:mm aa</string>
 </resources>

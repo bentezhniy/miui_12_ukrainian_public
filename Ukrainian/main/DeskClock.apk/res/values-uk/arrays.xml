@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="bedtime_guide_repeat_type">
-        <item>По буднях</item>
-        <item>Щодня</item>
-        <item>По робочих днях</item>
-     </string-array>
-     <string-array name="bedtime_repeat_entries">
-        <item>Щодня</item>
-        <item>По буднях</item>
-        <item>По робочих днях</item>
-        <item>Обрати дні</item>
-     </string-array>
-     <string-array name="days_of_week">
-        <item>Нд</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
-     </string-array>
-     <string-array name="notification_adv_time_entries">
-        <item>У встановлений час</item>
-        <item>За 15 хвилин</item>
-        <item>За 30 хвилин</item>
-        <item>За 1 годину</item>
-        <item>Вимкнено</item>
-     </string-array>
-	 <string-array name="alarm_in_furture">
+     <string-array name="alarm_in_furture">
         <item>Будильник задзвонить менш ніж за хвилину</item>
         <item>Будильник задзвонить за %1$s</item>
         <item>Будильник задзвонить за %2$s</item>
@@ -1173,5 +1146,32 @@
         <item>будьте обережніше</item>
         <item>можлива буря</item>
         <item>вдалого дня!</item>
+     </string-array>
+	 <string-array name="bedtime_guide_repeat_type">
+        <item>По буднях</item>
+        <item>Щодня</item>
+        <item>По робочих днях</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entries">
+        <item>Щодня</item>
+        <item>По буднях</item>
+        <item>По робочих днях</item>
+        <item>Вибрати дні</item>
+     </string-array>
+     <string-array name="days_of_week">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="notification_adv_time_entries">
+        <item>У встановлений час</item>
+        <item>За 15 хвилин</item>
+        <item>За 30 хвилин</item>
+        <item>За 1 годину</item>
+        <item>Відключений</item>
      </string-array>
 </resources>

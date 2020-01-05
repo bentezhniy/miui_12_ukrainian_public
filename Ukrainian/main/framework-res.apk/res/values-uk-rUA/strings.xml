@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-	 <string name="app_running_notification_tip_text">Це може уповільнити роботу пристрою і розрядити акумулятор. Натисніть для виходу з програми</string>
-     <string name="handset_text_unsupported_handset_insert">Натисніть для перегляду інформації</string>
-     <string name="handset_text_usb_handset_insert">Натисніть для налаштування</string>
-     <string name="handset_title_unsupported_handset_insert">Не вдається відтворити звук через адаптер</string>
-     <string name="handset_title_usb_handset_insert">Відтворення звуку через USB</string>
-	 <string name="notification_description">Стан голосового виклику</string>
+	     <string name="notification_description">Стан голосового виклику</string>
      <string name="status_communication_speaker_summary">Активний гучний зв\'язок. Звук буде відтворюватися через динамік при підключенні навушників.</string>
      <string name="status_communication_summary">Здійснюється виклик. Ви можете відрегулювати гучність дзвінка</string>
      <string name="permgrouprequest_calendar">Надати &lt;b&gt;%1$s&lt;/b&gt; доступ до календаря?</string>
@@ -2462,4 +2457,9 @@
      <string name="zen_mode_next_alarm_line_one">До наступного будильника</string>
      <string name="zen_mode_next_alarm_summary">До наступного будильника %1$s</string>
      <string name="zen_mode_until">До %1$s</string>
+	 <string name="app_running_notification_tip_text">Це може уповільнити роботу пристрою і розрядити акумулятор. Натисніть для виходу з програми.</string>
+	 <string name="handset_text_unsupported_handset_insert">Натисніть для перегляду інформації</string>
+     <string name="handset_text_usb_handset_insert">Натисніть для налаштування</string>
+     <string name="handset_title_unsupported_handset_insert">Не вдається відтворити звук через адаптер</string>
+     <string name="handset_title_usb_handset_insert">Відтворення звуку через USB</string>
 </resources>

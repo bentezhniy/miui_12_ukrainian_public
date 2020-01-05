@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="dirty_phrase_count">
-        <item quantity="other">%d частих фраз</item>
-        <item quantity="one">%d часта фраза</item>
-        <item quantity="few">%d часті фрази</item>
-     </plurals>
-	<plurals name="dirty_contacts_count">
+    <plurals name="dirty_contacts_count">
         <item quantity="other">контактів: %d </item>
         <item quantity="one">контактів: %d</item>
     </plurals>
@@ -92,5 +87,27 @@
         <item quantity="other">%d записів Mi помічника</item>
         <item quantity="one">%d запис Mi помічника</item>
         <item quantity="few">%d записи Mi помічника</item>
+     </plurals>
+	 <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">"%s г. назад"</item>
+        <item quantity="one">"%s г. назад"</item>
+     </plurals>
+     <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">"%s хв. назад"</item>
+        <item quantity="one">"%s хв. назад"</item>
+     </plurals>
+     <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Синхронізація продовжиться через %d хв.</item>
+        <item quantity="one">Синхронізація продовжиться через %d хв.</item>
+     </plurals>
+	 <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s сервісів будуть синхронізовані з Xiaomi Cloud</item>
+        <item quantity="one">%s сервіс буде синхронізований з Xiaomi Cloud</item>
+        <item quantity="few">%s сервісу будуть синхронізовані з Xiaomi Cloud</item>
+     </plurals>
+        <plurals name="dirty_phrase_count">
+        <item quantity="other">%d шаблонів</item>
+        <item quantity="one">%d шаблон</item>
+        <item quantity="few">%d шаблону</item>
      </plurals>
 </resources>

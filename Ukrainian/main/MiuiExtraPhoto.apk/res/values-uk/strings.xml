@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="extra_photo_common_save_fail">Помилка збереження</string>
-	 <string name="app_error">Закриття програми…</string>
+     <string name="app_error">Закриття програми…</string>
      <string name="background_effect">Ефекти</string>
      <string name="cancel">Скасувати</string>
      <string name="extra_photo_common_saving">Збереження\u2026</string>
@@ -59,4 +58,5 @@
      <string name="motion_photo_save_video">Зберегти як відео</string>
      <string name="motion_photo_save_video_ing">Збереження відео…</string>
      <string name="motion_photo_toast_long_press_play">Утримуйте фото для відтворення</string>
+	 <string name="extra_photo_common_save_fail">Помилка збереження</string>
 </resources>

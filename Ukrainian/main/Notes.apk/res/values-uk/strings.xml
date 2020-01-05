@@ -374,4 +374,27 @@
      <string name="new_audio_create_done_talkback_des">Створений</string>
      <string name="new_audio_create_guide_tip">Утримуйте для створення голосової замітки</string>
      <string name="new_audio_create_talkback_des">Натисніть, щоб створити текстову замітку. Утримуйте, щоб створити голосову. Відпустіть кнопку, щоб зупинити запис і створити замітку, або проведіть вгору, щоб відмінити.</string>
+	 <string name="repeat_mode_day">Кожен день</string>
+	 <string name="repeat_mode_default">Ніколи</string>
+	 <string name="repeat_mode_dialog_title">Повтор</string>
+	 <string name="repeat_mode_month">Кожен місяць</string>
+	 <string name="repeat_mode_normal_workday">По буднях</string>
+	 <string name="repeat_mode_set_item_day">Кожен день</string>
+	 <string name="repeat_mode_set_item_month_detail_lastday">Останній день кожного місяця</string>
+	 <string name="repeat_mode_set_item_month_global">Щомісяця в цю ж дату</string>
+	 <string name="repeat_mode_set_item_none">Ніколи</string>
+	 <string name="repeat_mode_set_item_normal_workday">По буднях</string>
+	 <string name="repeat_mode_set_item_week">Щотижня (%s)</string>
+	 <string name="repeat_mode_set_item_week_detail">Щотижня (%s)</string>
+	 <string name="repeat_mode_set_item_year">Щороку (%s)</string>
+	 <string name="repeat_mode_set_item_year_detail">Щороку (%s)</string>
+	 <string name="repeat_mode_set_item_year_detail_day">d MMM</string>
+	 <string name="repeat_mode_set_title">Повтор</string>
+	 <string name="repeat_mode_week">Щотижня</string>
+	 <string name="repeat_mode_year">Щороку</string>
+	 <string name="todo_schedule_time_repeat_day">, кожен день</string>
+     <string name="todo_schedule_time_repeat_month">, кожен місяць</string>
+     <string name="todo_schedule_time_repeat_normal_workday">, по буднях</string>
+     <string name="todo_schedule_time_repeat_week">, щотижня</string>
+     <string name="todo_schedule_time_repeat_year">, щороку</string>
 </resources>

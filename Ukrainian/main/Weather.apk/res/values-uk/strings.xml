@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
-     <string name="news_load_more_default">Оновлення</string>
-     <string name="news_load_more_failed">Інтернет недоступний</string>
-     <string name="news_load_more_loading">Оновлення</string>
-     <string name="news_load_more_no_data">Показати тільки останні 48 годин</string>
-     <string name="news_refresh_loading">Завантаження</string>
-     <string name="news_refresh_pull_to_refresh">Потягніть для оновлення</string>
-     <string name="news_refresh_release_to_refresh">Відпустіть для оновлення</string>
-     <string name="news_tips_net_error">Інтернет недоступний</string>
-     <string name="news_tips_no_data">Немає даних</string>
-     <string name="news_tips_success">Оновлення завершено: %1$d</string>
-     <string name="widget_cta_not_agree">Натисніть для отримання інформації</string>
-	 <string name="act_location_error_to_find_city">Неможливо отримати інформацію про місцезнаходження</string>
+     <string name="act_location_error_to_find_city">Неможливо отримати інформацію про місцезнаходження</string>
      <string name="activity_find_city_dialog_message_global">Надати програмі доступ до інформації про місцезнаходження?</string>
      <string name="activity_main_pub_time">Опубліковано о %1$s</string>
      <string name="aqi_detail_co_unit">Одиниці виміру: мг/м³</string>
@@ -611,4 +599,17 @@
      <string name="index_item_download_pause">Продовжити завантаження</string>
      <string name="weather_list_info">Додатково</string>
      <string name="weather_list_title">Погода</string>
+	 <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
+     <string name="news_load_more_default">Оновлення</string>
+     <string name="news_load_more_failed">Інтернет недоступний</string>
+     <string name="news_load_more_loading">Оновлення</string>
+     <string name="news_load_more_no_data">Показати тільки останні 48 годин</string>
+     <string name="news_refresh_loading">Завантаження</string>
+     <string name="news_refresh_pull_to_refresh">Потягніть для оновлення</string>
+     <string name="news_refresh_release_to_refresh">Відпустіть для оновлення</string>
+     <string name="news_tips_net_error">Інтернет недоступний</string>
+     <string name="news_tips_no_data">Немає даних</string>
+     <string name="news_tips_success">Оновлення завершено: %1$d</string>
+     <string name="widget_cta_not_agree">Натисніть для отримання інформації</string>
+	 <string name="more_expanded">Ще</string>
 </resources>

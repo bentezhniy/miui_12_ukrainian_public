@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="data_traffic_enable_dialog_title">Якщо Ви не підключені до Wi-Fi, пристрій буде використовувати мобільний інтернет. Ваш оператор може стягувати за це додаткову плату</string>
-    <string name="other_settings_enhanced_lockscreen_for_india">Погляд на Mi</string>
-	<string name="welcome">Ласкаво просимо!</string>
+    <string name="welcome">Ласкаво просимо!</string>
     <string name="app_name">Помічник з налаштування</string>
     <string name="system_navigation_mode">Режим навігації</string>
     <string name="input_method_setting">Оберіть спосіб введення</string>
@@ -119,4 +117,6 @@
     <string name="logo_congratulation">Налаштування завершено</string>
     <string name="congratulation_next">Готово</string>
     <string name="summary_sim_card">SIM-карта %1$d</string>
+	<string name="data_traffic_enable_dialog_title">Якщо ви не підключені до Wi-Fi, пристрій буде використовувати мобільний інтернет. Може стягуватися додаткова плата оператором.</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Погляд на Mi</string>
 </resources>

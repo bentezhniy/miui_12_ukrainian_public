@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="privacy_agree">ОК</string>
-     <string name="privacy_text_1">  Сервіс проекції надається Milian.</string>
-     <string name="privacy_text_2">  Перед використанням прочитайте <a href="http://www.miui.com/res/doc/eula/ru.html">«Користувацьку угоду»</a>,<a href="http://www.miui.com/res/doc/privacy/ru.html">«Політику конфіденційності»</a> </string>
+     <string name="privacy_text_1">Ласкаво просимо! Перед використанням необхідно прийняти &lt;a href=%2$s>Юридична заява HappyCast&lt;/a> и &lt;a href=%1$s>Політику конфіденційності HappyCast&lt;/a></string>
+     <string name="privacy_text_2">Також необхідно прийняти &lt;a href=%1$s>Угода користувача&lt;/a> и &lt;a href=%2$s>Політику конфіденційності&lt;/a>.</string>
      <string name="privacy_text_pemission">"  • Потрібен доступ до Wi-Fi для роботи сервісу.
 • Bluetooth використовується для виявлення і підключення пристроїв.
 • Читання пам\'яті телефону. Після прочитання вмісту, надішліть вміст на пристрій з великим екраном.
@@ -28,7 +28,7 @@
      <string name="dialog_retry">Повторити</string>
      <string name="dialog_scanning_device">Пошук пристроїв поблизу…</string>
      <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на телефоні, щоб використовувати бездротовий екран</string>
-     <string name="dialog_select_tv">Виберіть пристрій для підключення</string>
+     <string name="dialog_select_tv">Виберіть пристрій (%d)</string>
      <string name="dialog_show_help">Допомога</string>
      <string name="disconnect">Зупинити</string>
      <string name="hang_up">Вимкнути екран</string>
@@ -117,4 +117,5 @@
      <string name="san_wait_msg_2">Пошук пристроїв…</string>
      <string name="san_wait_msg_3">Пристрої знайти легше, якщо вони підключені до тієї ж мережі, що і ваш телефон.</string>
      <string name="san_wait_msg_4">Перегляньте Допомога, якщо не виходить знайти пристрої.</string>
+	 <string name="actionbar_button_up_description">Назад</string>
 </resources>

@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="last_several_days">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-     </plurals>
-     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
-        <item quantity="one">Час екрану сьогодні дорівнює вашому середньому показнику за %d день</item>
-        <item quantity="few">Час екрану сьогодні дорівнює вашому середньому показнику за %d дня</item>
-        <item quantity="many">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
-     </plurals>
-     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
-        <item quantity="one">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d день</item>
-        <item quantity="few">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d дня</item>
-        <item quantity="many">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
-     </plurals>
-     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
-        <item quantity="one">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d день</item>
-        <item quantity="few">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d дня</item>
-        <item quantity="many">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
-     </plurals>
-	<plurals name="usage_days">
+    <plurals name="usage_days">
         <item quantity="other">%d дн.</item>
         <item quantity="one">%d дн.</item>
         <item quantity="few">%d дн.</item>
@@ -141,5 +119,27 @@
         <item quantity="zero">%.2f раз</item>
         <item quantity="one">%.2f раз</item>
         <item quantity="few">%.2f раза</item>
+     </plurals>
+	      <plurals name="last_several_days">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
+        <item quantity="one">Час екрану сьогодні дорівнює вашому середньому показнику за %d день</item>
+        <item quantity="few">Час екрану сьогодні дорівнює вашому середньому показнику за %d дня</item>
+        <item quantity="many">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
+        <item quantity="one">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d день</item>
+        <item quantity="few">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d дня</item>
+        <item quantity="many">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
+        <item quantity="one">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d день</item>
+        <item quantity="few">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d дня</item>
+        <item quantity="many">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
      </plurals>
 </resources>

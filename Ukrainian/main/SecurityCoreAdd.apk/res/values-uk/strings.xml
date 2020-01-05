@@ -490,4 +490,8 @@
      <string name="xspace_notification">Повідомлення клонованих додатків</string>
      <string name="xspace_notification_error">Увійдіть до клонованого WeChat і спробуйте знову</string>
      <string name="xspace_settins">Установивши</string>
+	 <string name="greenguard_install_cancle">Ні, дякую</string>
+     <string name="greenguard_install_confirm">Встановіть</string>
+     <string name="greenguard_install_message">"Family Guard - це системне додаток. Вам не потрібен інтернет, щоб встановити його."</string>
+     <string name="greenguard_install_title">Встановіть Family Guard</string>
 </resources>

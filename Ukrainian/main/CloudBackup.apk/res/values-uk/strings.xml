@@ -254,4 +254,7 @@
      <string name="unsupported_home">Потрібно оновити систему</string>
      <string name="wait_icon_download">Завантаження іконок програм</string>
 	 <string name="restoring_home_screen_apps">Відновлення з Xiaomi Cloud…</string>
+	 <string name="restore_from_mimover">Передача даних зі старого пристрою за допомогою Mi Mover</string>
+	 <string name="storage_unit_gb">%s ГБ</string>
+     <string name="storage_unit_mb">%s МБ</string>
 </resources>

@@ -36,9 +36,9 @@
         <item quantity="one">Можна додати не більше %s контакту</item>
      </plurals>
 	 <plurals name="auto_answer_summary_delay">
-        <item quantity="other">затримка: %s сек.</item>
-        <item quantity="one">затримка: %s сек.</item>
-        <item quantity="few">затримка: %s сек.</item>
+        <item quantity="other">затримка: %d сек.</item>
+        <item quantity="one">затримка: %d сек.</item>
+        <item quantity="few">затримка: %d сек.</item>
      </plurals>
      <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d номерів</item>

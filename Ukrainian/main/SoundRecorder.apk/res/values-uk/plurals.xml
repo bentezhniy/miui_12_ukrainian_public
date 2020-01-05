@@ -36,4 +36,14 @@
         <item quantity="one">Знайдений %d запис</item>
         <item quantity="few">Знайдений %d запис</item>
      </plurals>
+	 <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Видалити %d записів з хмари?</item>
+        <item quantity="one">Видалити %d запис із хмари?</item>
+        <item quantity="few">Видалити %d записи з хмари?</item>
+     </plurals>
+     <plurals name="confirm_delete_records">
+        <item quantity="other">Видалити %d запис?</item>
+        <item quantity="one">Видалити %d запис?</item>
+        <item quantity="few">Видалити %d запис?</item>
+     </plurals>
 </resources>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="passport_can_not_receive_verification_code">Не отримали код підтвердження?</string>
-	 <string name="bind_google">"Прив'яжіть свій Google акаунт"</string>
+     <string name="bind_google">"Прив'яжіть свій Google акаунт"</string>
      <string name="bind_weixin">"Прив'яжіть свій акаунт WeChat"</string>
      <string name="google">Google</string>
      <string name="need_install_wechat">Спочатку встановіть WeChat</string>
@@ -997,4 +996,5 @@ ID:%s
      <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">SIM-карта активована: %s</string>
 	 <string name="pwd_width_phone_number_or_mail_num">Пароль не може містити ваш номер телефону, адресу Email або ідентифікатор Mi облікового запису.</string>
 	 <string name="risky_pwd_not_allow">Новий пароль небезпечний. Встановіть інший.</string>
+	 <string name="passport_can_not_receive_verification_code">Не отримали код підтвердження?</string>
 </resources>

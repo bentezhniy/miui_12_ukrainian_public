@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="adb_install_no_network">Не вдається підключитися до інтернету</string>
-     <string name="adb_install_open">Запуск…</string>
-     <string name="adb_install_open_error">Не вдається запустити. Перевірте підключення до інтернету.</string>
-     <string name="app_install_failed_button_text">Пошук програм</string>
-     <string name="app_ops_clean_master_tip">Очистити %s</string>
-     <string name="app_ops_install_exit">Вихід</string>
-     <string name="application_detail_tips">Інформація про програму</string>
-     <string name="external_sources_settings_negative">Заборонити</string>
-     <string name="external_sources_settings_positive">Дозволити</string>
-     <string name="install_finished_notification_summary">Натисніть для очищення сміття</string>
-     <string name="install_finished_notification_title">Установка %1$s завершений (%2$s)</string>
-     <string name="intercept_install">Встановити</string>
-     <string name="mimarket_install_more">Пошук додатків в маркеті</string>
-     <string name="miui_app_permission_detail">Дозволи програмы</string>
-     <string name="miui_clear_apk_desc">Видалити інсталяційний APK і кеш (%s)</string>
-     <string name="miui_clear_apks">Видалити інсталяційний APK і кеш (%s)</string>
-     <string name="miui_failed_solution_1">Видаліть стару версію програми та встановіть нову</string>
-     <string name="miui_failed_solution_2">Інсталяційний APK може бути пошкоджений. Завантажте додаток ще раз.</string>
-     <string name="miui_failed_solution_3">Спробуйте зберегти інсталяційний APK в іншій папці</string>
-     <string name="miui_failed_solution_4">"Очистіть пам'ять через програму Безпека"</string>
-     <string name="miui_failed_solution_5">Використовуйте сумісний інсталяційний APK</string>
-     <string name="miui_failed_solution_6">Видаліть цю програму з другого простору та повторіть спробу</string>
-     <string name="miui_failed_solution_7">Завантажте нову версію з маркету</string>
-     <string name="miui_install_version_3">Версія: %1$s -> %2$s | Розмір: %3$s</string>
-     <string name="miui_solution_msg_2">Рішення</string>
-     <string name="pref_key_app_store_summary">Пропонувати завантажувати додатки з безпечних джерел перед установкою</string>
-     <string name="pref_key_app_store_title">Попереджати про безпечні джерела</string>
-     <string name="replace_app_des_text">Програма буде перезаписана</string>
-     <string name="risk_warning_bottom_button">Встановити з маркету</string>
-     <string name="risk_warning_msg">Підпис програми може бути неофіційною. Рекомендується встановити з маркету.</string>
-     <string name="risk_warning_title">Виявлена ​​загроза</string>
-     <string name="risk_warning_top_button">Не встановлювати</string>
-     <string name="settings_warning_dialog_detail">"Попередження будуть з'являтися в наступних випадках:
- <li>Якщо додаток містить віруси.</li>
- <li>Більш нова версія доступна в маркеті.</li>
- <li>Інсталяційний APK був завантажений з стороннього джерела.</li>
- "</string>
-     <string name="settings_warning_dialog_msg">Ваш пристрій буде схильний до загроз безпеці, якщо ви вимкнете цю функцію. Все одно відключити?</string>
-     <string name="settings_warning_dialog_title">Попередження</string>
-     <string name="untrusted_external_source_always_click">Дозволяти завжди</string>
-     <string name="untrusted_external_source_title">Дозволити \"%1$s\" встановлювати програми?</string>
-     <string name="untrusted_external_source_warning_summary">Ваш пристрій буде піддано загрозам безпеки, якщо дозволити установку програм невідомим джерелам.</string>
-     <string name="virus_title_subtext">"Додаток може містити віруси: "</string>
-	 <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
+     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
      <string name="Parse_error_dlg_title">Синтаксична помилка</string>
      <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_up_description">Вгору</string>
@@ -364,7 +321,7 @@
      <string name="inactive_app_active_summary">Активна. Натисніть для перимикання</string>
      <string name="inactive_app_inactive_summary">Неактивна. Натисніть для перимикання</string>
      <string name="inactive_apps_title">Неактивні програми</string>
-     <string name="increment_install_downloading">Завантаження …</string>
+     <string name="increment_install_downloading">Завантаження %1$s</string>
      <string name="increment_install_network_error_cancel">Скасувати</string>
      <string name="increment_install_network_error_msg">Помилка мережі. Продовжити інсталяцію неофіційної програми?</string>
      <string name="increment_install_network_error_ok">Продовжити</string>
@@ -501,7 +458,7 @@
      <string name="miui_install_source">Джерело: %s</string>
      <string name="miui_install_source_unkown">невідомо</string>
      <string name="miui_install_success">Інсталяцію завершено</string>
-     <string name="miui_install_version">Версія: %s</string>
+     <string name="miui_install_version">Версія: %1$s | Розмір: %2$s</string>
      <string name="miui_installing">Інсталяція…</string>
      <string name="miui_installing2">Інсталяція…</string>
      <string name="miui_message_staging_0">"Інсталяція   "</string>
@@ -876,4 +833,47 @@
      <string name="window_animation_scale_title">Вікно: масштаб</string>
      <string name="xspace_app">Клоновані програми</string>
      <string name="yes">Так</string>
+	 <string name="adb_install_no_network">Не вдається підключитися до інтернету</string>
+     <string name="adb_install_open">Запуск…</string>
+     <string name="adb_install_open_error">Не вдається запустити. Перевірте підключення до інтернету.</string>
+     <string name="app_install_failed_button_text">Пошук програм</string>
+     <string name="app_ops_clean_master_tip">Очистити %s</string>
+     <string name="app_ops_install_exit">Вихід</string>
+     <string name="application_detail_tips">Інформація про програму</string>
+     <string name="external_sources_settings_negative">Заборонити</string>
+     <string name="external_sources_settings_positive">Дозволити</string>
+     <string name="install_finished_notification_summary">Натисніть для очищення сміття</string>
+     <string name="install_finished_notification_title">Установка %1$s завершений (%2$s)</string>
+     <string name="intercept_install">Встановити</string>
+     <string name="mimarket_install_more">Пошук додатків в маркеті</string>
+     <string name="miui_app_permission_detail">Дозволи програмы</string>
+     <string name="miui_clear_apk_desc">Видалити інсталяційний APK і кеш (%s)</string>
+     <string name="miui_clear_apks">Видалити інсталяційний APK і кеш (%s)</string>
+     <string name="miui_failed_solution_1">Видаліть стару версію програми та встановіть нову</string>
+     <string name="miui_failed_solution_2">Інсталяційний APK може бути пошкоджений. Завантажте додаток ще раз.</string>
+     <string name="miui_failed_solution_3">Спробуйте зберегти інсталяційний APK в іншій папці</string>
+     <string name="miui_failed_solution_4">"Очистіть пам'ять через програму Безпека"</string>
+     <string name="miui_failed_solution_5">Використовуйте сумісний інсталяційний APK</string>
+     <string name="miui_failed_solution_6">Видаліть цю програму з другого простору та повторіть спробу</string>
+     <string name="miui_failed_solution_7">Завантажте нову версію з маркету</string>
+     <string name="miui_install_version_3">Версія: %1$s -> %2$s | Розмір: %3$s</string>
+     <string name="miui_solution_msg_2">Рішення</string>
+     <string name="pref_key_app_store_summary">Пропонувати завантажувати додатки з безпечних джерел перед установкою</string>
+     <string name="pref_key_app_store_title">Попереджати про безпечні джерела</string>
+     <string name="replace_app_des_text">Програма буде перезаписана</string>
+     <string name="risk_warning_bottom_button">Встановити з маркету</string>
+     <string name="risk_warning_msg">Підпис програми може бути неофіційною. Рекомендується встановити з маркету.</string>
+     <string name="risk_warning_title">Виявлена ​​загроза</string>
+     <string name="risk_warning_top_button">Не встановлювати</string>
+     <string name="settings_warning_dialog_detail">"Попередження будуть з'являтися в наступних випадках:
+ <li>Якщо додаток містить віруси.</li>
+ <li>Більш нова версія доступна в маркеті.</li>
+ <li>Інсталяційний APK був завантажений з стороннього джерела.</li>
+ "</string>
+     <string name="settings_warning_dialog_msg">Ваш пристрій буде схильний до загроз безпеці, якщо ви вимкнете цю функцію. Все одно відключити?</string>
+     <string name="settings_warning_dialog_title">Попередження</string>
+     <string name="untrusted_external_source_always_click">Дозволяти завжди</string>
+     <string name="untrusted_external_source_title">Дозволити \"%1$s\" встановлювати програми?</string>
+     <string name="untrusted_external_source_warning_summary">Ваш пристрій буде піддано загрозам безпеки, якщо дозволити установку програм невідомим джерелам.</string>
+     <string name="virus_title_subtext">"Додаток може містити віруси: "</string>
 </resources>

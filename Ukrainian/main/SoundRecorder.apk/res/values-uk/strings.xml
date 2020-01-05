@@ -222,4 +222,7 @@
      <string name="search_hint">Пошук</string>
 	 <string name="cancel_rename">Скасувати</string>
      <string name="loading_more">Завантаження…</string>
+	 <string name="delete_cloud_data_at_same_time">Видалити з хмари</string>
+     <string name="preference_record_desktop_indicator_summary">Показувати індикатор на робочому столі, коли диктофон працює у фоновому режимі.</string>
+     <string name="preference_record_desktop_indicator_title">Індикатор на робочому столі</string>
 </resources>
