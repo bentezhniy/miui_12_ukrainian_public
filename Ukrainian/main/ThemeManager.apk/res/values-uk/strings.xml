@@ -177,7 +177,6 @@
      <string name="exo_download_notification_channel_name">Завантаження</string>
      <string name="exo_download_removing">Видалити завантаження</string>
      <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f мбит/с</string>
      <string name="exo_track_mono">Моно</string>
      <string name="exo_track_selection_auto">Авто</string>
      <string name="exo_track_selection_none">Немає</string>
