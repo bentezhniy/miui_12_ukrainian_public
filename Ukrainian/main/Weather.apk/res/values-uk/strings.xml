@@ -612,4 +612,9 @@
      <string name="news_tips_success">Оновлення завершено: %1$d</string>
      <string name="widget_cta_not_agree">Натисніть для отримання інформації</string>
 	 <string name="more_expanded">Ще</string>
+	 <string name="manager_city_option_add_city_back_search">Назад</string>
+     <string name="manager_city_option_add_city_content">Місто додане на головну сторінку</string>
+     <string name="manager_city_option_add_city_title">Готово</string>
+     <string name="manager_city_option_add_home">Додати на головну</string>
+     <string name="manager_city_option_view_on_home">Перейти</string>
 </resources>
