@@ -555,7 +555,6 @@
      <string name="moive_frame">Кадр фільму</string>
      <string name="multi_window_mode_not_supported">Камера не підтримує роздільну здатність екрану</string>
      <string name="network_access_user_notice_agree">ОК</string>
-     <string name="network_access_user_notice_message_live_video">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="network_access_user_notice_message_sticker">"Перед використанням цієї функції необхідно прийняти "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="network_access_user_notice_message_voice_caption">"Перед использованием этой функции необходимо принять "<a href;="%1$s">Користувача угода</a> та <a href;="%2$s">Політику конфіденційності</a>.</string>
      <string name="network_access_user_notice_title">Підключення до інтернету</string>
