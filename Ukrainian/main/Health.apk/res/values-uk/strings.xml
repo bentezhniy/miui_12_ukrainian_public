@@ -102,7 +102,7 @@
     <string name="date_format_y_m_d_h_m">d.MM.yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">d MMM yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">d.MM.yyyy HH:mm:ss</string>
-    <string name="date_week_index">yyyy, ww 'тиждень'</string>
+    <string name="date_week_index">yyyy, ww \'тиждень\'</string>
     <string name="day">День</string>
     <string name="deep_sleep">Повільний сон</string>
     <string name="day_in_month_format">%1$d</string>
