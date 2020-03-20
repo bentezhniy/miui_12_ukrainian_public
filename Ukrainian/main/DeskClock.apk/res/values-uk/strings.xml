@@ -473,7 +473,7 @@
      <string name="sleep_remind">Нагадування про сон</string>
      <string name="sleep_time">Засипання</string>
      <string name="sleep_wake_time">%1$s-%2$s</string>
-     <string name="update_health_app">Оновлення програмы \"Здоров'я\"</string>
+     <string name="update_health_app">Оновлення програми \"Здоров'я\"</string>
      <string name="update_health_app_desc">Функція відстеження сну надається додатком \"Здоров'я\"</string>
      <string name="update_it">Оновити</string>
      <string name="usage_start">Почати</string>

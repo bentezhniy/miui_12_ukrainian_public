@@ -846,7 +846,7 @@
      <string name="install_finished_notification_title">Установка %1$s завершений (%2$s)</string>
      <string name="intercept_install">Встановити</string>
      <string name="mimarket_install_more">Пошук додатків в маркеті</string>
-     <string name="miui_app_permission_detail">Дозволи програмы</string>
+     <string name="miui_app_permission_detail">Дозволи програми</string>
      <string name="miui_clear_apk_desc">Видалити інсталяційний APK і кеш (%s)</string>
      <string name="miui_clear_apks">Видалити інсталяційний APK і кеш (%s)</string>
      <string name="miui_failed_solution_1">Видаліть стару версію програми та встановіть нову</string>

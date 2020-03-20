@@ -6593,8 +6593,8 @@ UT-інтерфейс: %5$s"</string>
      <string name="settings_backup_summary">Резервна копія налаштувань</string>
      <string name="settings_button">Налаштування</string>
      <string name="settings_forbidden_message">Цю функцію вимкнено</string>
-     <string name="settings_label">Налаштування</string>
-     <string name="settings_label_launcher">Налаштування</string>
+     <string name="settings_label">Налаштунки</string>
+     <string name="settings_label_launcher">Налаштунки</string>
      <string name="settings_license_activity_loading">Завантаження…</string>
      <string name="settings_license_activity_title">Ліцензії відкритого ПЗ</string>
      <string name="settings_license_activity_unavailable">При завантаженні ліцензій виникла несправність</string>

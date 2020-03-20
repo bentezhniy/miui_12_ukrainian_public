@@ -182,7 +182,7 @@
      </plurals>
      <plurals name="dc_item_summary_app_data">
         <item quantity="other">Можна очистити дані %d програм</item>
-        <item quantity="one">Можна очистити дані %d програмы</item>
+        <item quantity="one">Можна очистити дані %d програми</item>
      </plurals>
      <plurals name="dc_item_summary_image">
         <item quantity="other">Можна видалити %d непотрібних фото</item>
@@ -196,7 +196,7 @@
      <plurals name="dc_item_summary_uninstall_app">
         <item quantity="other">Можна видалити %d невикористовуваних програм</item>
         <item quantity="one">Можна видалити %d неиспользуемое програма</item>
-        <item quantity="few">Можна видалити %d невикористовуваних програмы</item>
+        <item quantity="few">Можна видалити %d невикористовуваних програми</item>
      </plurals>
      <plurals name="dc_item_summary_video">
         <item quantity="other">Можна видалити %d відео</item>
