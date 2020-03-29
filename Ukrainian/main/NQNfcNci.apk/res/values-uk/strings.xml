@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Сервіс NFC</string>
+    <string name="action_confirm_url_open">Відкрити посилання</string>
+    <string name="summary_confirm_url_open">Пристрій отримав посилання по NFC:</string>
+    <string name="tag_dispatch_failed">Немає підтримуваних програм для цього ярлика NFC</string>
+    <string name="tag_read_error">Помилка читання NFC. Спробуйте знову</string>
+    <string name="title_confirm_url_open">Відкрити посилання?</string>
+	<string name="app_name">Сервіс NFC</string>
     <string name="nfcUserLabel">NFC</string>
     <string name="inbound_me_profile_title">Отримано контакт по NFC</string>
     <string name="inbound_me_profile_text">Натисніть для додавання</string>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="about_extreme_mode">Екстремальне енергозбереження</string>
+     <string name="power_tools_current">Поточний</string>
+     <string name="power_tools_fps">FPS</string>
+	 <string name="about_extreme_mode">Екстремальне енергозбереження</string>
      <string name="about_hide_mode">Про фоновий режим</string>
      <string name="action_bar_delete">Видалити</string>
      <string name="action_settings">Налаштування</string>

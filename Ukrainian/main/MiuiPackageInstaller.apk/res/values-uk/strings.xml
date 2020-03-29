@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
+     <string name="install_app_progress_clear_apk">Видалити APK</string>
+     <string name="install_control_cancel_install">Не інсталювати</string>
+     <string name="install_control_continue_install">Інсталювати все одно</string>
+     <string name="install_control_lite_mode_explain_des">Ця програма завантажена з невідомого джерела і може не працювати в спрощеному режимі</string>
+     <string name="install_control_lite_mode_solution_des">"Ви можете інсталювати цю програму в будь-який час.
+Крім того, Ви можете вимкнути спрощений режим і спробувати знову"</string>
+     <string name="install_control_normal_mode_explain_des">Неможливо інсталювати цю програму через юридичні обмеження</string>
+     <string name="untrusted_external_source_warning_summary_2">"Ваш пристрій буде піддано загрозам безпеці, якщо дозволити інсталяцію програм невідомим джерелам.
+
+Ви можете змінити параметри в налаштуваннях конфіденційності"</font></string>
+	 <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
      <string name="Parse_error_dlg_title">Синтаксична помилка</string>
      <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_up_description">Вгору</string>

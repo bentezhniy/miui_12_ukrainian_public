@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcome">Ласкаво просимо!</string>
+    <string name="poco_launcher_privacy_policy">Політика конфіденційності POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Угода користувача POCO Launcher</string>
+	<string name="welcome">Ласкаво просимо!</string>
     <string name="app_name">Помічник з налаштування</string>
     <string name="system_navigation_mode">Режим навігації</string>
     <string name="input_method_setting">Оберіть спосіб введення</string>

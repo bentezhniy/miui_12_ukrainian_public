@@ -4,5 +4,7 @@
     <string name="perm_label">Wi-Fi дисплей</string>
     <string name="perm_desc">API доступу для Wi-Fi дисплея</string>
 	<string name="notification_text">Трансляцію екрану увімкнено</string>
+	<string name="notif_text">Трансляцію екрану увімкнено</string>
+    <string name="notif_title">Бездротовий екран</string>
     <string name="notification_title">WiDi</string>
 </resources>

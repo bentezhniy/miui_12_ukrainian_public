@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_face_dialog_face_icon">Іконка особи</string>
+     <string name="accessibility_status_bar_micphone">Підключення мікрофону</string>
+     <string name="how_to_use_app_quick">Як перемикатися між програмами</string>
+     <string name="how_to_use_app_quick_hide_line_summary">Проведіть пальцем вгору від нижньої частини екрану, потім проведіть пальцем ліворуч або праворуч</string>
+     <string name="how_to_use_app_quick_summary">Проведіть пальцем ліворуч або праворуч від нижньої частини екрану</string>
+     <string name="quick_settings_wireless_label">Реверсивна зарядка</string>
+     <string name="screenshot_failed_in_landscape_mode">Неможливо прокрутити скріншот в альбомному режимі</string>
+     <string name="wireless_charging_connected_message">Реверсивна зарядка недоступна під час бездротової зарядки пристрою</string>
+     <string name="wireless_charging_low_battery_level_message">Реверсивна зарядка недоступна при заряді батареї менш 30%</string>
+     <string name="wireless_charging_ok">ОК</string>
+     <string name="wireless_charging_saver_cancel">Вимкнути</string>
+     <string name="wireless_charging_saver_message">Увімкнено режим енергозбереження. Продовжити реверсивну зарядку?</string>
+     <string name="wireless_charging_saver_ok">Залишити</string>
+     <string name="wireless_charging_tips_disable">Більше не показувати</string>
+     <string name="wireless_charging_tips_message">Покладіть на тильну панель пристрою підтримуючий бездротову зарядку Qi пристрій (телефон, аксесуар і т.ін.)</string>
+     <string name="wireless_charging_tips_title">Реверсивна зарядка</string>
+	 <string name="accessibility_face_dialog_face_icon">Іконка особи</string>
      <string name="biometric_dialog_confirm">Підтвердити</string>
      <string name="biometric_dialog_try_again">Повтор</string>
      <string name="bluetooth_active_battery_level_untethered">Активно. Л: батарея %1$s; П: батарея %2$s.</string>

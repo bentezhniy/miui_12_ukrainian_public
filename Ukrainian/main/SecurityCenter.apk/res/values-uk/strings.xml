@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="pc_search_keywords_battery">Батарея</string>
+     <string name="antispam_mms_text">Оберіть \"Повідомлення\" як стандартну програму для перегляду заблокованих повідомлень</string>
+     <string name="antispam_mms_text_setting">Оберіть \"Повідомлення\" як стандартну програму для надсилання повідомлень, щоб користуватися списком заблокованих адресантів</string>
+     <string name="gb_add_game_loading_tips">Завантаження…</string>
+     <string name="gb_voice_changer_dlg_button_agree">Дозволити</string>
+     <string name="gb_voice_changer_dlg_button_refuse">Заборонити</string>
+     <string name="gb_voice_changer_permission_dlg_msg">Для роботи диктофона потрібен доступ до мікрофона</string>
+     <string name="gb_voice_changer_permission_dlg_title">Потрібні дозволи</string>
+     <string name="gtb_exit_game_to_gtb">Відкрити Gamebox</string>
+     <string name="gtb_exit_game_to_home">Повернутися на робочий стіл</string>
+     <string name="power_save_ps_close_setting_3">Вимкнути сервіси та функції з високим енергоспоживанням (%1$s, %2$s, %3$s)</string>
+     <string name="power_save_ps_close_setting_4">Вимкнути сервіси та функції з високим енергоспоживанням (%1$s, %2$s, %3$s, %4$s)</string>
+     <string name="power_save_ps_close_setting_5">Вимкнути сервіси та функції з високим енергоспоживанням (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+     <string name="power_save_ps_close_setting_5gnet">підключення до мережі 5G</string>
+     <string name="power_save_ps_close_setting_6">Вимкнути сервіси та функції з високим енергоспоживанням (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+     <string name="power_save_ps_close_setting_7">Вимкнути сервіси та функції з високим енергоспоживанням (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+     <string name="power_save_ps_close_setting_dclickwakeup">\"Активація та блокування подвійним натисканням\"</string>
+     <string name="power_save_ps_close_setting_fingeraod">\"Показувати іконку відбитка на екрані блокування\"</string>
+     <string name="power_save_ps_close_setting_gps">GPS</string>
+     <string name="power_save_ps_close_setting_haptic">вібровідгук</string>
+     <string name="power_save_ps_close_setting_pickupwakeup">\"Активувати екран, коли Ви берете телефон до рук\"</string>
+     <string name="power_save_ps_close_setting_sync">синхронізація</string>
+     <string name="st_hint_operatelist">Схоже, це правило вже існує</string>
+	 <string name="pc_search_keywords_battery">Батарея</string>
      <string name="pc_search_keywords_battery_save">Економія батареї</string>
      <string name="pc_search_keywords_battery_use">Використання батареї</string>
      <string name="pc_search_keywords_capacity">Ємність батареї</string>

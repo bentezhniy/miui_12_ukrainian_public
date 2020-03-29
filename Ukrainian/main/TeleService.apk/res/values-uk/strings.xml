@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN для розблокування корпоративної RUIM</string>
+     <string name="mobile_advanced_nr_network_title">Тип мережі 5G</string>
+     <string name="notification_channel_demo">Демонстраційний пристрій</string>
+     <string name="nr_network_info">Інформація про використання мережі 5G</string>
+     <string name="nr_usaged_first_used_time">Зареєстрований у мережі 5G</string>
+     <string name="nr_usaged_module">Модель пристрою</string>
+     <string name="nr_usaged_network_rate">Макс. швидкість</string>
+     <string name="nr_usaged_network_usaged">Трафіку сьогодні</string>
+     <string name="nr_usaged_operator">Оператор</string>
+     <string name="nr_usaged_used_time">Час використання</string>
+     <string name="phone_report_title">Озвучувати інформацію про виклик</string>
+     <string name="preferred_network_type_pref_entries_only_4g">Тільки 4G</string>
+     <string name="report_method_entries_item1">Лише з гарнітурою</string>
+     <string name="report_method_entries_item2">Завжди</string>
+     <string name="report_method_entries_item3">Вимкнено</string>
+	 <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN для розблокування корпоративної RUIM</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Запит на розблокування корпоративної RUIM…</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK успішно розблоковано</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">PUK успішно розблоковано</string>

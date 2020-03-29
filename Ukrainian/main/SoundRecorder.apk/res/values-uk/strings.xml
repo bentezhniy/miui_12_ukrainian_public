@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="text_btn_backward_3_seconds">3 сек. назад</string>
+     <string name="recognition_button_add_to_queue">Додати до черги</string>
+     <string name="recognition_button_cancel">Скасувати</string>
+     <string name="recognition_button_start">Розшифрувати</string>
+     <string name="recognition_confirm_dialog_body">Розшифровка може зайняти деякий час. Ви отримаєте повідомлення, коли завдання буде виконано. Продовжити?</string>
+     <string name="recognition_interrupt_current_dialog_body">Розшифровка може зайняти деякий час. Ви отримаєте повідомлення, коли завдання буде виконано. Зараз розшифровується \"%s\". Додати це завдання до черги?</string>
+     <string name="recognition_notification_channel">Розшифровка</string>
+     <string name="recognition_notification_complete_success">\"%s\" розшифровано. Натисніть для перегляду</string>
+     <string name="recognition_notification_error">"Не вдається розшифрувати \"%s\""</string>
+     <string name="recognition_notification_running">Розшифровка \"%s\"…</string>
+     <string name="recognition_stop_current">Зупинити завдання</string>
+	 <string name="text_btn_backward_3_seconds">3 сек. назад</string>
      <string name="text_btn_forward_3_seconds">3 сек. вперед</string>
      <string name="text_play_speed_0_5">Швидкість відтворення 0.5X</string>
      <string name="text_play_speed_1_0">Звичайна швидкість відтворення</string>

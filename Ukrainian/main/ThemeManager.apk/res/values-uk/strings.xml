@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="abc_action_bar_home_description">Додому</string>
+     <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
+	 <string name="abc_action_bar_home_description">Додому</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Назад</string>
