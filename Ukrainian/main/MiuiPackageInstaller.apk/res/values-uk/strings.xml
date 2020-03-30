@@ -10,7 +10,7 @@
      <string name="install_control_normal_mode_explain_des">Неможливо інсталювати цю програму через юридичні обмеження</string>
      <string name="untrusted_external_source_warning_summary_2">"Ваш пристрій буде піддано загрозам безпеці, якщо дозволити інсталяцію програм невідомим джерелам.
 
-Ви можете змінити параметри в налаштуваннях конфіденційності"</font></string>
+Ви можете змінити параметри в налаштуваннях конфіденційності"</string>
 	 <string name="Parse_error_dlg_text">При синтаксичному аналізі пакета виникла помилка</string>
      <string name="Parse_error_dlg_title">Синтаксична помилка</string>
      <string name="abc_action_bar_home_description">Додому</string>
