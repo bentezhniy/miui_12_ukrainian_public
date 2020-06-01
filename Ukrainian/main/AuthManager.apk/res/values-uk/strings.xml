@@ -4,7 +4,7 @@
      <string name="background_location_access_reminder_notification_title">%s використовує ваше місце розташування</string> 
      <string name="grant_dialog_button_allow_always">Дозволити на весь час</string> 
      <string name="grant_dialog_button_allow_background">Дозволити в активному і фоновому режимі</string> 
-     <string name="grant_dialog_button_allow_foreground">Дозволити тільки в активному режимі</string> 
+     <string name="grant_dialog_button_allow_foreground">Дозволити активному режимі</string> 
      <string name="grant_dialog_button_deny_and_dont_ask_again">Заборонити</string> 
      <string name="grant_dialog_button_deny_background">Тримати доступ при використанні</string> 
      <string name="grant_dialog_button_deny_background_and_dont_ask_again">Тримати і не запитувати</string> 
