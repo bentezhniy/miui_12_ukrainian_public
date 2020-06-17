@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accessibility_status_bar_micphone">Підключення мікрофону</string>
+     <string name="qs_control_header_tiles_title">Центр керування</string>
+	 <string name="accessibility_status_bar_micphone">Підключення мікрофону</string>
      <string name="how_to_use_app_quick">Як перемикатися між програмами</string>
      <string name="how_to_use_app_quick_hide_line_summary">Проведіть пальцем вгору від нижньої частини екрану, потім проведіть пальцем ліворуч або праворуч</string>
      <string name="how_to_use_app_quick_summary">Проведіть пальцем ліворуч або праворуч від нижньої частини екрану</string>

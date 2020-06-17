@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="Accounts_settings_title">Акаунти</string>
+     <string name="privacy_protection">Захист приватності</string>
+	 <string name="password_and_security">Паролі та безпека</string>
+	 <string name="use_control_panel">Використовувати новий Центр керування</string>
+	 <string name="control_panel_switch_side">Змінити сторону Центра керування</string>
+	 <string name="Accounts_settings_title">Акаунти</string>
      <string name="HIPS_Perm_CallMonitor_Hint">Програм з доступом до прослуховування викликів і регулюванню гучності: %1$s</string>
      <string name="HIPS_Perm_CallState_Hint">Програм з доступом до відстеження статусу викликів: %1$s</string>
      <string name="HIPS_Perm_Call_Hint">Програм з доступом до здійснення й завершенню викликів: %1$s</string>

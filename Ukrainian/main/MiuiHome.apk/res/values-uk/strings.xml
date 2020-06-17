@@ -16,8 +16,8 @@
      <string name="launcher_search_bar_value_enable">Увімкнено</string>
      <string name="memory_clear_result_giga">Очищено %1$s ГБ</string>
      <string name="memory_clear_result_mega">Очищено %1$s МБ</string>
-     <string name="one_key_call_title">Натисніть для викллику</string>
-     <string name="please_slide_agian">Проведфть знову</string>
+     <string name="one_key_call_title">Натисніть для виклику</string>
+     <string name="please_slide_agian">Проведіть знову</string>
      <string name="recent_menu_item_info">Інформація</string>
      <string name="recent_menu_item_lock">Заблокувати</string>
      <string name="recent_menu_item_multi_window">Поділ екрану</string>

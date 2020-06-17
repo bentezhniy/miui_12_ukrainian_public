@@ -234,7 +234,7 @@
      <string name="hsv_space_color_value">Значення</string>
      <string name="lock_summary">Комплексний захист вашої конфіденційності</string>
      <string name="more_settings">Налаштування</string>
-     <string name="no_matching">Немає відповідних додатків</string>
+     <string name="no_matching">Немає відповідних програм</string>
      <string name="other_parameter">Інший</string>
      <string name="p3_color_region">P3</string>
      <string name="p3_color_region_summary">Відображення вмісту екрана в кольоровій гамі P3</string>
@@ -250,8 +250,8 @@
      <string name="rgb_space_color_R">R</string>
      <string name="screen_original_gamut">Підвищений</string>
      <string name="screen_original_gamut_summary">Відображення вмісту екрану в максимально широкій колірній гамі</string>
-     <string name="screen_time_lock">Блокування додатків від часу екрану</string>
-     <string name="search_app_name">Пошук додатків</string>
+     <string name="screen_time_lock">Блокування програм від часу екрану</string>
+     <string name="search_app_name">Пошук програм</string>
      <string name="search_empty">Додатки не знайдені</string>
      <string name="shortcut_created">Ярлик створений</string>
      <string name="srgb_color_region">sRGB</string>

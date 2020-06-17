@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="install_app_progress_clear_apk">Видалити APK</string>
+     <string name="miui_clear_apks_title">Автоматично видалити APK</string>
+	 <string name="install_app_progress_clear_apk">Видалити APK</string>
      <string name="install_control_cancel_install">Не інсталювати</string>
      <string name="install_control_continue_install">Інсталювати все одно</string>
      <string name="install_control_lite_mode_explain_des">Ця програма завантажена з невідомого джерела і може не працювати в спрощеному режимі</string>

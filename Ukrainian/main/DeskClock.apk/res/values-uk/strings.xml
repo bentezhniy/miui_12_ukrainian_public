@@ -63,7 +63,7 @@
      <string name="alarm_ascending_mode_summary">Наростання гучності сигналу до встановленої</string>
      <string name="alarm_ascending_mode_title">Наростання гучності</string>
      <string name="alarm_button_description">Будильники</string>
-     <string name="alarm_clock_more_setting">Більше налаштувань</string>
+     <string name="alarm_clock_more_setting">Більше</string>
      <string name="alarm_deleted">Будильник видалено</string>
      <string name="alarm_disabled">Вимкнено</string>
      <string name="alarm_in_silent_mode_title">У режимі \"Без звуку\"</string>
