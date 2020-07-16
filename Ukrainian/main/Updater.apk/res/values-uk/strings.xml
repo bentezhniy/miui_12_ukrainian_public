@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="VideoView_error_button">ОК</string>
+     <string name="notif_service_summary">Утримуйте для деактивації цього сповіщення</string>
+     <string name="notif_service_title">Програму запущено у фоні…</string>
+	 <string name="VideoView_error_button">ОК</string>
      <string name="VideoView_error_text_invalid_progressive_playback">Це відео недоступне для відтворення</string>
      <string name="VideoView_error_text_unknown">Неможливо відтворити відео</string>
      <string name="VideoView_error_title">Помилка відео</string>
