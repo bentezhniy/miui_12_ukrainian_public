@@ -255,7 +255,6 @@
      <string name="date_pattern_mm_dd">d.M</string>
      <string name="date_pattern_mm_dd_kk_mm">d MMMM HH:mm</string>
      <string name="date_pattern_yyyy_mm_dd_kk_mm">d MMMM yyyy HH:mm</string>
-     <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_today">" (сьогодні)"</string>
      <string name="day_picker_description">Сітка днів</string>
      <string name="day_view">День</string>
