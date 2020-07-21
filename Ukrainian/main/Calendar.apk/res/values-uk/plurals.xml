@@ -1,47 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="daily">
-        <item quantity="other">Кожні %d днів</item>
-        <item quantity="few">Кожні %d дні</item>
-        <item quantity="one">Щоденно</item>
-     </plurals>
-     <plurals name="endByCount">
-        <item quantity="other">; кожні %d раз</item>
-        <item quantity="one">; кожен %d раз</item>
-     </plurals>
-     <plurals name="recurrence_end_count">
-        <item quantity="other">Протягом %d подій</item>
-        <item quantity="one">Протягом %d події</item>
-     </plurals>
-     <plurals name="recurrence_interval_daily">
-        <item quantity="other">Кожні %d днів</item>
-        <item quantity="few">Кожні %d дні</item>
-        <item quantity="one">Кожен %d день</item>
-     </plurals>
-     <plurals name="recurrence_interval_monthly">
-        <item quantity="other">Кожні %d місяців</item>
-        <item quantity="few">Кожні %d місяці</item>
-        <item quantity="one">Кожен %d місяць</item>
-     </plurals>
-     <plurals name="recurrence_interval_weekly">
-        <item quantity="other">Кожні %d тижнів</item>
-        <item quantity="few">Кожен %d тиждень</item>
-        <item quantity="one">Кожен %d тиждень</item>
-     </plurals>
-     <plurals name="recurrence_interval_yearly">
-        <item quantity="other">Кожні %d років</item>
-        <item quantity="few">Кожні %d роки</item>
-        <item quantity="one">Кожен %d рік</item>
-     </plurals>
-     <plurals name="weekly">
-        <item quantity="other">Кожні %1$d тижнів у %2$s</item>
-        <item quantity="few">Кожен %1$d тиждень у %2$s</item>
-        <item quantity="one">Щотижнево %2$s</item>
-     </plurals>
-	 <plurals name="event_reminders_to_max">
-        <item quantity="other">Можна встановити не більше %d нагадувань</item>
-        <item quantity="one">Можна встановити не більше %d нагадування</item>
-     </plurals>
      <plurals name="N_remaining_events">
         <item quantity="other">+ %d подій</item>
         <item quantity="one">+ %d подія</item>
@@ -53,6 +12,30 @@
         <item quantity="one">%d день</item>
         <item quantity="few">%d дні</item>
         <item quantity="many">%d днів</item>
+     </plurals>
+     <plurals name="Ndays_after">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+        <item quantity="many">Через %1$d днів</item>
+     </plurals>
+     <plurals name="Ndays_after_at">
+        <item quantity="other">Через %1$d днів о %2$s</item>
+        <item quantity="one">Через %1$d день о %2$s</item>
+        <item quantity="few">Через %1$d дні о %2$s</item>
+        <item quantity="many">Через %1$d днів о %2$s</item>
+     </plurals>
+     <plurals name="Ndays_ago">
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
+        <item quantity="many">%1$d днів назад</item>
+     </plurals>
+     <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d днів назад о %2$s</item>
+        <item quantity="one">%1$d день назад о %2$s</item>
+        <item quantity="few">%1$d дні назад о %2$s</item>
+        <item quantity="many">%1$d днів назад о %2$s</item>
      </plurals>
      <plurals name="Nevents">
         <item quantity="other">%d подій</item>
@@ -78,45 +61,11 @@
         <item quantity="few">%d хвилини</item>
         <item quantity="many">%d хвилин</item>
      </plurals>
-     <plurals name="month_more_events">
-        <item quantity="other">"+%d"</item>
-        <item quantity="one">"+%d"</item>
-     </plurals>
-     <plurals name="weekN">
-        <item quantity="other">%d тижнів</item>
-        <item quantity="one">%d тиждень</item>
-        <item quantity="few">%d тежні</item>
-        <item quantity="many">%d тижнів</item>
-     </plurals>
-	 <plurals name="Ndays_after">
-        <item quantity="other">Через %1$d днів</item>
-        <item quantity="one">Через %1$d день</item>
-        <item quantity="few">Через %1$d дні</item>
-        <item quantity="many">Через %1$d днів</item>
-     </plurals>
-     <plurals name="Ndays_ago">
-        <item quantity="other">%1$d днів назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дні назад</item>
-        <item quantity="many">%1$d днів назад</item>
-     </plurals>
      <plurals name="Nweeks">
         <item quantity="other">%d тижнів</item>
         <item quantity="one">%d тиждень</item>
         <item quantity="few">%d тижнів</item>
         <item quantity="many">%d тижнів</item>
-     </plurals>
-	 <plurals name="Ndays_after_at">
-        <item quantity="other">Через %1$d днів о %2$s</item>
-        <item quantity="one">Через %1$d день о %2$s</item>
-        <item quantity="few">Через %1$d дні о %2$s</item>
-        <item quantity="many">Через %1$d днів о %2$s</item>
-     </plurals>
-     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d днів назад о %2$s</item>
-        <item quantity="one">%1$d день назад о %2$s</item>
-        <item quantity="few">%1$d дні назад о %2$s</item>
-        <item quantity="many">%1$d днів назад о %2$s</item>
      </plurals>
      <plurals name="anniversary_day">
         <item quantity="other">%1$s днів</item>
@@ -142,13 +91,32 @@
         <item quantity="few">%1$s роки</item>
         <item quantity="many">%1$s років</item>
      </plurals>
+     <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d днів назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дні назад</item>
+     </plurals>
+     <plurals name="birthday_event_description_days_later">
+        <item quantity="other">Лишилося %1$d днів</item>
+        <item quantity="one">Лишився %1$d день</item>
+        <item quantity="few">Лишилося %1$d дні</item>
+     </plurals>
+     <plurals name="birthday_notification_age_term">
+        <item quantity="other">"%1$s-й"</item>
+        <item quantity="one">"%1$s-й "</item>
+     </plurals>
      <plurals name="countdown_day">
         <item quantity="other">%1$s днів лишилося</item>
         <item quantity="one">%1$s день лишився</item>
         <item quantity="few">%1$s дні лишилось</item>
         <item quantity="many">%1$s днів лишилось</item>
      </plurals>
-	 <plurals name="date_calculate_days_after">
+     <plurals name="daily">
+        <item quantity="other">Кожні %d днів</item>
+        <item quantity="few">Кожні %d дні</item>
+        <item quantity="one">Щоденно</item>
+     </plurals>
+     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d днів потому</item>
         <item quantity="one">%1$d день потому</item>
         <item quantity="few">%1$d дні потому</item>
@@ -172,13 +140,58 @@
         <item quantity="few">%1$d дні назад</item>
         <item quantity="many">%1$d днів назад</item>
      </plurals>
-     <plurals name="work_days">
-        <item quantity="other">%d робочих днів</item>
-        <item quantity="one">%d робочий день</item>
-        <item quantity="few">%d робочих дні</item>
-        <item quantity="many">%d робочих днів</item>
+     <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Ви можете ввести не більше %1$d днів</item>
+        <item quantity="one">Ви можете ввести не більше %1$d дня</item>
      </plurals>
-	 <plurals name="repeat_interval_frequency_day_multiple">
+     <plurals name="endByCount">
+        <item quantity="other">; кожні %d раз</item>
+        <item quantity="one">; кожен %d раз</item>
+     </plurals>
+     <plurals name="event_reminders_to_max">
+        <item quantity="other">Можна встановити не більше %d нагадувань</item>
+        <item quantity="one">Можна встановити не більше %d нагадування</item>
+     </plurals>
+     <plurals name="month_more_events">
+        <item quantity="other">"+%d"</item>
+        <item quantity="one">"+%d"</item>
+     </plurals>
+     <plurals name="other_all_day_events">
+        <item quantity="other">%d інших подій</item>
+        <item quantity="one">%d інша подія</item>
+        <item quantity="few">%d інші події</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+        <item quantity="other">Протягом %d подій</item>
+        <item quantity="one">Протягом %d події</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожні %d днів</item>
+        <item quantity="few">Кожні %d дні</item>
+        <item quantity="one">Кожен %d день</item>
+     </plurals>
+     <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожні %d місяців</item>
+        <item quantity="few">Кожні %d місяці</item>
+        <item quantity="one">Кожен %d місяць</item>
+     </plurals>
+     <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Кожні %d тижнів</item>
+        <item quantity="few">Кожен %d тиждень</item>
+        <item quantity="one">Кожен %d тиждень</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожні %d років</item>
+        <item quantity="few">Кожні %d роки</item>
+        <item quantity="one">Кожен %d рік</item>
+     </plurals>
+     <plurals name="repeat_custom_prompt">
+        <item quantity="other">кожн. %1$s у %2$s</item>
+        <item quantity="one">кожн. %1$s у %2$s</item>
+        <item quantity="few">кожн. %1$s у %2$s</item>
+        <item quantity="many">кожн. %1$s у %2$s</item>
+     </plurals>
+     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d днів</item>
         <item quantity="one">%1$d день</item>
         <item quantity="few">%1$d дні</item>
@@ -202,27 +215,27 @@
         <item quantity="few">%1$d роки</item>
         <item quantity="many">%1$d років</item>
      </plurals>
-	 <plurals name="birthday_notification_age_term">
-        <item quantity="other">"%1$s-й"</item>
-        <item quantity="one">"%1$s-й "</item>
-    </plurals>
-	<plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d днів назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дні назад</item>
+     <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s хв їзди до %1$s.</item>
+        <item quantity="one">%2$s хв їзди до %1$s.</item>
+        <item quantity="few">%2$s хв їзди до %1$s.</item>
+        <item quantity="many">%2$s хв їзди до %1$s.</item>
      </plurals>
-     <plurals name="birthday_event_description_days_later">
-        <item quantity="other">Лишилося %1$d днів</item>
-        <item quantity="one">Лишився %1$d день</item>
-        <item quantity="few">Лишилося %1$d дні</item>
+     <plurals name="weekN">
+        <item quantity="other">%d тижнів</item>
+        <item quantity="one">%d тиждень</item>
+        <item quantity="few">%d тежні</item>
+        <item quantity="many">%d тижнів</item>
      </plurals>
-     <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Ви можете ввести не більше %1$d днів</item>
-        <item quantity="one">Ви можете ввести не більше %1$d дня</item>
+     <plurals name="weekly">
+        <item quantity="other">Кожні %1$d тижнів у %2$s</item>
+        <item quantity="few">Кожен %1$d тиждень у %2$s</item>
+        <item quantity="one">Щотижнево %2$s</item>
      </plurals>
-	 <plurals name="other_all_day_events">
-        <item quantity="other">%d інших подій</item>
-        <item quantity="one">%d інша подія</item>
-        <item quantity="few">%d інші події</item>
+     <plurals name="work_days">
+        <item quantity="other">%d робочих днів</item>
+        <item quantity="one">%d робочий день</item>
+        <item quantity="few">%d робочих дні</item>
+        <item quantity="many">%d робочих днів</item>
      </plurals>
 </resources>
