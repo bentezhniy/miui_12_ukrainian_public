@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
+     <plurals name="backup_message_wechat_video">
+        <item quantity="other">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+        <item quantity="zero">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+        <item quantity="one">При очищенні буде видалено %1$d кешоване відео WeChat. Створити бекап?</item>
+        <item quantity="two">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+        <item quantity="few">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+        <item quantity="many">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+     </plurals>
+     <plurals name="clockin_day_count">
+        <item quantity="other">Авторизовано %1$s днів поспіль. Продовжуйте в тому ж дусі!</item>
+        <item quantity="one">Авторизовано %1$s день. Продовжуйте в тому ж дусі!</item>
+        <item quantity="few">Авторизовано %1$s дня поспіль. Продовжуйте в тому ж дусі!</item>
+        <item quantity="many">Авторизовано %1$s днів поспіль. Продовжуйте в тому ж дусі!</item>
+     </plurals>
+     <plurals name="clockin_days">
+        <item quantity="other">День %1$s</item>
+        <item quantity="one">День %1$s</item>
+     </plurals>
+     <plurals name="clockin_new_chip">
+        <item quantity="other">У Вас %d балів</item>
+        <item quantity="one">У Вас %d бали</item>
+        <item quantity="few">У Вас %d бали</item>
+        <item quantity="many">У Вас %d балів</item>
+     </plurals>
+     <plurals name="days">
+        <item quantity="other">%1$d днів</item>
+        <item quantity="zero">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="two">%1$d дні</item>
+        <item quantity="few">%1$d дні</item>
+        <item quantity="many">%1$d днів</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d дн. тому</item>
+        <item quantity="zero">%1$d дн. тому</item>
+        <item quantity="one">%1$d дн. тому</item>
+        <item quantity="two">%1$d дн. тому</item>
+        <item quantity="few">%1$d дн. тому</item>
+        <item quantity="many">%1$d дн. тому</item>
+     </plurals>
+     <plurals name="delete_files">
+        <item quantity="other">Видалити %1$d файлів?</item>
+        <item quantity="one">Видалити %1$d файл?</item>
+        <item quantity="few">Видалити %1$d файли?</item>
+     </plurals>
      <plurals name="delete_files_confirm">
         <item quantity="other">Видалити файли (%1$d)</item>
         <item quantity="zero">Видалити файли (%1$d)</item>
@@ -7,11 +53,6 @@
         <item quantity="two">Видалити файли (%1$d)</item>
         <item quantity="few">Видалити файли (%1$d)</item>
         <item quantity="many">Видалити файли (%1$d)</item>
-     </plurals>
-	 <plurals name="delete_files">
-        <item quantity="other">Видалити %1$d файлів?</item>
-        <item quantity="one">Видалити %1$d файл?</item>
-        <item quantity="few">Видалити %1$d файли?</item>
      </plurals>
      <plurals name="delete_folders">
         <item quantity="other">Видалити %1$d тек?</item>
@@ -34,31 +75,113 @@
         <item quantity="few">%d файлів</item>
         <item quantity="many">%d файлів</item>
      </plurals>
-     <plurals name="numSelectedFile">
-        <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="zero"> Вибрано: %1$d</item>
-        <item quantity="one"> Вибрано: %1$d</item>
-        <item quantity="two"> Вибрано: %1$d</item>
-        <item quantity="few"> Вибрано: %1$d</item>
-        <item quantity="many"> Вибрано: %1$d</item>
+     <plurals name="file_count">
+        <item quantity="other"> %1$d файлів</item>
+        <item quantity="zero"> Немає файлів</item>
+        <item quantity="one"> %1$d файл</item>
+        <item quantity="two"> %1$d файла</item>
+        <item quantity="few"> %1$d файла</item>
+        <item quantity="many"> %1$d файлів</item>
      </plurals>
-     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="zero">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="one">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="two">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="few">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="many">Залишилося завантажити файлів: %1$d</item>
+     <plurals name="file_notify_title">
+        <item quantity="other">Програма %2$s (файлів: %1$d)</item>
+        <item quantity="zero">Програма %2$s (файлів: %1$d)</item>
+        <item quantity="one">Програма %2$s (файлів: %1$d)</item>
+        <item quantity="two">Програма %2$s (файлів: %1$d)</item>
+        <item quantity="few">Програма %2$s (файлів: %1$d)</item>
+        <item quantity="many">Програма %2$s (файлів: %1$d)</item>
      </plurals>
-     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="zero">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="one">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="two">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="few">Залишилося завантажити файлів: %1$d</item>
-        <item quantity="many">Залишилося завантажити файлів: %1$d</item>
+     <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d нових стікерів WeChat сьогодні</item>
+        <item quantity="zero">%1$d нових стікерів WeChat сьогодні</item>
+        <item quantity="one">%1$d новий стікер WeChat сьогодні</item>
+        <item quantity="two">%1$d нових стікера WeChat сьогодні</item>
+        <item quantity="few">%1$d нових стікера WeChat сьогодні</item>
+        <item quantity="many">%1$d нових стікерів WeChat сьогодні</item>
      </plurals>
-	 <plurals name="items_file">
+     <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Отримано %1$d файлів WeChat</item>
+        <item quantity="zero">Отримано %1$d файлів WeChat</item>
+        <item quantity="one">Отримано %1$d файл WeChat</item>
+        <item quantity="two">Отримано %1$d файла WeChat</item>
+        <item quantity="few">Отримано %1$d файла WeChat</item>
+        <item quantity="many">Отримано %1$d файлів WeChat</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Створено бекап для %1$d відео WeChat</item>
+        <item quantity="zero">Створено бекап для %1$d відео WeChat</item>
+        <item quantity="one">Створено бекап для %1$d відео WeChat</item>
+        <item quantity="two">Створено бекап для %1$d відео WeChat</item>
+        <item quantity="few">Створено бекап для %1$d відео WeChat</item>
+        <item quantity="many">Створено бекап для %1$d відео WeChat</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">Термін дії %1$d відео WeChat завершився</item>
+        <item quantity="zero">Термін дії %1$d відео WeChat завершився</item>
+        <item quantity="one">Термін дії %1$d відео WeChat завершився</item>
+        <item quantity="two">Термін дії %1$d відео WeChat завершився</item>
+        <item quantity="few">Термін дії %1$d відео WeChat завершився</item>
+        <item quantity="many">Термін дії %1$d відео WeChat завершився</item>
+     </plurals>
+     <plurals name="files">
+        <item quantity="other">%1$d файлів</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файла</item>
+        <item quantity="many">%1$d файлів</item>
+     </plurals>
+     <plurals name="folders">
+        <item quantity="other">%1$d папок</item>
+        <item quantity="one">%1$d папка</item>
+        <item quantity="few">%1$d папки</item>
+        <item quantity="many">%1$d папок</item>
+     </plurals>
+     <plurals name="follow_count">
+        <item quantity="other">%1$s підписників</item>
+        <item quantity="zero">%1$s підписників</item>
+        <item quantity="one">%1$s підписник</item>
+        <item quantity="two">%1$s підписники</item>
+        <item quantity="few">%1$s підписники</item>
+        <item quantity="many">%1$s підписників</item>
+     </plurals>
+     <plurals name="follower_num">
+        <item quantity="other">підписників</item>
+        <item quantity="zero">підписників</item>
+        <item quantity="one">підписник</item>
+        <item quantity="two">підписники</item>
+        <item quantity="few">підписники</item>
+        <item quantity="many">підписників</item>
+     </plurals>
+     <plurals name="found_new_files">
+        <item quantity="other">Знайдено нових файлів: %1$d</item>
+        <item quantity="zero">Знайдено нових файлів: %1$d</item>
+        <item quantity="one">Знайдено нових файлів: %1$d</item>
+        <item quantity="two">Знайдено нових файлів: %1$d</item>
+        <item quantity="few">Знайдено нових файлів: %1$d</item>
+        <item quantity="many">Знайдено нових файлів: %1$d</item>
+     </plurals>
+     <plurals name="gems">
+        <item quantity="other">%1$s діамантів</item>
+        <item quantity="one">%1$s діамант</item>
+        <item quantity="few">%1$s діаманти</item>
+        <item quantity="many">%1$s діамантів</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d годин</item>
+        <item quantity="zero">%1$d годин</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="two">%1$d години</item>
+        <item quantity="few">%1$d години</item>
+        <item quantity="many">%1$d годин</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d г. тому</item>
+        <item quantity="zero">%1$d г. тому</item>
+        <item quantity="one">%1$d г. тому</item>
+        <item quantity="two">%1$d г. тому</item>
+        <item quantity="few">%1$d г. тому</item>
+        <item quantity="many">%1$d г. тому</item>
+     </plurals>
+     <plurals name="items_file">
         <item quantity="other"> (%1$d файлів)</item>
         <item quantity="zero"> (порожньо)</item>
         <item quantity="one"> (%1$d файл)</item>
@@ -74,37 +197,13 @@
         <item quantity="few"> (%1$d файли)</item>
         <item quantity="many"> (%1$d файлів)</item>
      </plurals>
-	 <plurals name="days_ago">
-        <item quantity="other">%1$d дн. тому</item>
-        <item quantity="zero">%1$d дн. тому</item>
-        <item quantity="one">%1$d дн. тому</item>
-        <item quantity="two">%1$d дн. тому</item>
-        <item quantity="few">%1$d дн. тому</item>
-        <item quantity="many">%1$d дн. тому</item>
-     </plurals>
-     <plurals name="file_notify_title">
-        <item quantity="other">Програма %2$s (файлів: %1$d)</item>
-        <item quantity="zero">Програма %2$s (файлів: %1$d)</item>
-        <item quantity="one">Програма %2$s (файлів: %1$d)</item>
-        <item quantity="two">Програма %2$s (файлів: %1$d)</item>
-        <item quantity="few">Програма %2$s (файлів: %1$d)</item>
-        <item quantity="many">Програма %2$s (файлів: %1$d)</item>
-     </plurals>
-     <plurals name="found_new_files">
-        <item quantity="other">Знайдено нових файлів: %1$d</item>
-        <item quantity="zero">Знайдено нових файлів: %1$d</item>
-        <item quantity="one">Знайдено нових файлів: %1$d</item>
-        <item quantity="two">Знайдено нових файлів: %1$d</item>
-        <item quantity="few">Знайдено нових файлів: %1$d</item>
-        <item quantity="many">Знайдено нових файлів: %1$d</item>
-     </plurals>
-     <plurals name="hours_ago">
-        <item quantity="other">%1$d г. тому</item>
-        <item quantity="zero">%1$d г. тому</item>
-        <item quantity="one">%1$d г. тому</item>
-        <item quantity="two">%1$d г. тому</item>
-        <item quantity="few">%1$d г. тому</item>
-        <item quantity="many">%1$d г. тому</item>
+     <plurals name="mins">
+        <item quantity="other">%1$d хвилин</item>
+        <item quantity="zero">%1$d хвилин</item>
+        <item quantity="one">%1$d хвилина</item>
+        <item quantity="two">%1$d хвилини</item>
+        <item quantity="few">%1$d хвилини</item>
+        <item quantity="many">%1$d хвилин</item>
      </plurals>
      <plurals name="mins_ago">
         <item quantity="other">%1$d хв. тому</item>
@@ -113,6 +212,64 @@
         <item quantity="two">%1$d хв. тому</item>
         <item quantity="few">%1$d хв. тому</item>
         <item quantity="many">%1$d хв. тому</item>
+     </plurals>
+     <plurals name="more_gems">
+        <item quantity="other">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
+        <item quantity="one">Назбирайте більше %d діаманта, щоб долучитися до розіграшу.</item>
+        <item quantity="few">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
+        <item quantity="many">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="zero"> Вибрано: %1$d</item>
+        <item quantity="one"> Вибрано: %1$d</item>
+        <item quantity="two"> Вибрано: %1$d</item>
+        <item quantity="few"> Вибрано: %1$d</item>
+        <item quantity="many"> Вибрано: %1$d</item>
+     </plurals>
+     <plurals name="number_of_comment">
+        <item quantity="other">%1$s відгуків</item>
+        <item quantity="zero">%1$s відгуків</item>
+        <item quantity="one">%1$s відгук</item>
+        <item quantity="two">%1$s відгуки</item>
+        <item quantity="few">%1$s відгуки</item>
+        <item quantity="many">%1$s відгуків</item>
+     </plurals>
+     <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s відгуків</item>
+        <item quantity="zero">%1$s відгуків</item>
+        <item quantity="one">%1$s відгук</item>
+        <item quantity="two">%1$s відгуки</item>
+        <item quantity="few">%1$s відгуки</item>
+        <item quantity="many">%1$s відгуків</item>
+     </plurals>
+     <plurals name="original_user_days">
+        <item quantity="other">• %1$d днів</item>
+        <item quantity="one">• %1$d день</item>
+        <item quantity="few">• %1$d дні</item>
+        <item quantity="many">• %1$d днів</item>
+     </plurals>
+     <plurals name="original_user_fans">
+        <item quantity="other">• У Вас %1$s підписників</item>
+        <item quantity="one">• У Вас %1$s підписник</item>
+        <item quantity="few">• У Вас %1$s підписники</item>
+        <item quantity="many">• У Вас %1$s підписників</item>
+     </plurals>
+     <plurals name="original_user_play_1">
+        <item quantity="other">"• Ви завантажили %1$s відео "</item>
+        <item quantity="one">"• Ви завантажили %1$s відео "</item>
+     </plurals>
+     <plurals name="original_user_play_2">
+        <item quantity="other">та зробили %1$s користувачів щасливими!</item>
+        <item quantity="one">та зробили %1$s користувача щасливими!</item>
+     </plurals>
+     <plurals name="remote_video_update">
+        <item quantity="other">Знайдено %1$d нових відео</item>
+        <item quantity="zero">Знайдено %1$d нових відео</item>
+        <item quantity="one">Знайдено %1$d нове відео</item>
+        <item quantity="two">Знайдено %1$d нових відео</item>
+        <item quantity="few">Знайдено %1$d нових відео</item>
+        <item quantity="many">Знайдено %1$d нових відео</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">Пошук в програмах за запитом \"%1$s\" (елементів: %2$d)</item>
@@ -138,61 +295,71 @@
         <item quantity="few">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
         <item quantity="many">Теги за запитом \"%1$s\" (елементів: %2$d)</item>
      </plurals>
-	 <plurals name="backup_message_wechat_video">
-        <item quantity="other">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
-        <item quantity="zero">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
-        <item quantity="one">При очищенні буде видалено %1$d кешоване відео WeChat. Створити бекап?</item>
-        <item quantity="two">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
-        <item quantity="few">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
-        <item quantity="many">При очищенні буде видалено %1$d кешованих відео WeChat. Створити бекап?</item>
+     <plurals name="seconds">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="zero">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="two">%1$d секунди</item>
+        <item quantity="few">%1$d секунди</item>
+        <item quantity="many">%1$d секунд</item>
      </plurals>
-     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Отримано %1$d файлів WeChat</item>
-        <item quantity="zero">Отримано %1$d файлів WeChat</item>
-        <item quantity="one">Отримано %1$d файл WeChat</item>
-        <item quantity="two">Отримано %1$d файла WeChat</item>
-        <item quantity="few">Отримано %1$d файла WeChat</item>
-        <item quantity="many">Отримано %1$d файлів WeChat</item>
+     <plurals name="total_topic_num">
+        <item quantity="other">%1$s тем</item>
+        <item quantity="one">%1$s тема</item>
+        <item quantity="few">%1$s теми</item>
+        <item quantity="many">%1$s тем</item>
      </plurals>
-     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">Термін дії %1$d відео WeChat завершився</item>
-        <item quantity="zero">Термін дії %1$d відео WeChat завершився</item>
-        <item quantity="one">Термін дії %1$d відео WeChat завершився</item>
-        <item quantity="two">Термін дії %1$d відео WeChat завершився</item>
-        <item quantity="few">Термін дії %1$d відео WeChat завершився</item>
-        <item quantity="many">Термін дії %1$d відео WeChat завершився</item>
+     <plurals name="total_user_num">
+        <item quantity="other">%1$s користувачів</item>
+        <item quantity="one">%1$s користувач</item>
+        <item quantity="few">%1$s користувача</item>
+        <item quantity="many">%1$s користувачів</item>
      </plurals>
-	 <plurals name="file_count">
-        <item quantity="other"> %1$d файлів</item>
-        <item quantity="zero"> Немає файлів</item>
-        <item quantity="one"> %1$d файл</item>
-        <item quantity="two"> %1$d файла</item>
-        <item quantity="few"> %1$d файла</item>
-        <item quantity="many"> %1$d файлів</item>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="zero">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="one">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="two">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="few">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="many">Залишилося завантажити файлів: %1$d</item>
      </plurals>
-     <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d нових стікерів WeChat сьогодні</item>
-        <item quantity="zero">%1$d нових стікерів WeChat сьогодні</item>
-        <item quantity="one">%1$d новий стікер WeChat сьогодні</item>
-        <item quantity="two">%1$d нових стікера WeChat сьогодні</item>
-        <item quantity="few">%1$d нових стікера WeChat сьогодні</item>
-        <item quantity="many">%1$d нових стікерів WeChat сьогодні</item>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Залишилось завантажити %1$d файлів</item>
+        <item quantity="zero">Залишилось завантажити %1$d файлів</item>
+        <item quantity="one">Залишилось завантажити %1$d файл</item>
+        <item quantity="two">Залишилось завантажити %1$d файли</item>
+        <item quantity="few">Залишилось завантажити %1$d файли</item>
+        <item quantity="many">Залишилось завантажити %1$d файлів</item>
      </plurals>
-     <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Створено бекап для %1$d відео WeChat</item>
-        <item quantity="zero">Створено бекап для %1$d відео WeChat</item>
-        <item quantity="one">Створено бекап для %1$d відео WeChat</item>
-        <item quantity="two">Створено бекап для %1$d відео WeChat</item>
-        <item quantity="few">Створено бекап для %1$d відео WeChat</item>
-        <item quantity="many">Створено бекап для %1$d відео WeChat</item>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="zero">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="one">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="two">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="few">Залишилося завантажити файлів: %1$d</item>
+        <item quantity="many">Залишилося завантажити файлів: %1$d</item>
      </plurals>
-	 <plurals name="remote_video_update">
-        <item quantity="other">Знайдено %1$d нових відео</item>
-        <item quantity="zero">Знайдено %1$d нових відео</item>
-        <item quantity="one">Знайдено %1$d нове відео</item>
-        <item quantity="two">Знайдено %1$d нових відео</item>
-        <item quantity="few">Знайдено %1$d нових відео</item>
-        <item quantity="many">Знайдено %1$d нових відео</item>
+     <plurals name="user_follow_me_items">
+        <item quantity="other">підписників</item>
+        <item quantity="zero">підписників</item>
+        <item quantity="one">підписник</item>
+        <item quantity="two">підписники</item>
+        <item quantity="few">підписники</item>
+        <item quantity="many">підписників</item>
+     </plurals>
+     <plurals name="user_sign_limt">
+        <item quantity="other">Ви можете ввести %d символів</item>
+        <item quantity="one">Ви можете ввести %d символ</item>
+        <item quantity="few">Ви можете ввести %d символи</item>
+        <item quantity="many">Ви можете ввести %d символів</item>
+     </plurals>
+     <plurals name="user_upload_items">
+        <item quantity="other">" відео"</item>
+        <item quantity="zero">" відео"</item>
+        <item quantity="one">" відео"</item>
+        <item quantity="two">" відео"</item>
+        <item quantity="few">" відео"</item>
+        <item quantity="many">" відео"</item>
      </plurals>
      <plurals name="video_ad_download_tip">
         <item quantity="other">" завантажень"</item>
@@ -202,14 +369,27 @@
         <item quantity="few">" завантажень"</item>
         <item quantity="many">" завантажень"</item>
      </plurals>
-	 
-	 <plurals name="user_upload_items">
-        <item quantity="other">" відео"</item>
-        <item quantity="zero">" відео"</item>
-        <item quantity="one">" відео"</item>
-        <item quantity="two">" відео"</item>
-        <item quantity="few">" відео"</item>
-        <item quantity="many">" відео"</item>
+     <plurals name="video_count">
+        <item quantity="other">%1$s відео</item>
+        <item quantity="zero">%1$s відео</item>
+        <item quantity="one">%1$s відео</item>
+        <item quantity="two">%1$s відео</item>
+        <item quantity="few">%1$s відео</item>
+        <item quantity="many">%1$s відео</item>
+     </plurals>
+     <plurals name="video_items">
+        <item quantity="other"> %1$d відео</item>
+        <item quantity="zero"> %1$d відео</item>
+        <item quantity="one"> %1$d відео</item>
+        <item quantity="two"> %1$d відео</item>
+        <item quantity="few"> %1$d відео</item>
+        <item quantity="many"> %1$d відео</item>
+     </plurals>
+     <plurals name="video_like_num">
+        <item quantity="other">%1$s вподобань</item>
+        <item quantity="one">%1$s вподобання</item>
+        <item quantity="few">%1$s вподобання</item>
+        <item quantity="many">%1$s вподобань</item>
      </plurals>
      <plurals name="video_num">
         <item quantity="other">%1$s відео</item>
@@ -227,176 +407,8 @@
         <item quantity="few">%1$s відтворення</item>
         <item quantity="many">%1$s відтворень</item>
      </plurals>
-	 <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">Залишилось завантажити %1$d файлів</item>
-        <item quantity="zero">Залишилось завантажити %1$d файлів</item>
-        <item quantity="one">Залишилось завантажити %1$d файл</item>
-        <item quantity="two">Залишилось завантажити %1$d файли</item>
-        <item quantity="few">Залишилось завантажити %1$d файли</item>
-        <item quantity="many">Залишилось завантажити %1$d файлів</item>
-     </plurals>
-	  <plurals name="follower_num">
-        <item quantity="other">підписників</item>
-        <item quantity="zero">підписників</item>
-        <item quantity="one">підписник</item>
-        <item quantity="two">підписники</item>
-        <item quantity="few">підписники</item>
-        <item quantity="many">підписників</item>
-     </plurals>
-     <plurals name="number_of_comment">
-        <item quantity="other">%1$s відгуків</item>
-        <item quantity="zero">%1$s відгуків</item>
-        <item quantity="one">%1$s відгук</item>
-        <item quantity="two">%1$s відгуки</item>
-        <item quantity="few">%1$s відгуки</item>
-        <item quantity="many">%1$s відгуків</item>
-     </plurals>
-     <plurals name="video_count">
-        <item quantity="other">%1$s відео</item>
-        <item quantity="zero">%1$s відео</item>
-        <item quantity="one">%1$s відео</item>
-        <item quantity="two">%1$s відео</item>
-        <item quantity="few">%1$s відео</item>
-        <item quantity="many">%1$s відео</item>
-     </plurals>
-	 <plurals name="days">
-        <item quantity="other">%1$d днів</item>
-        <item quantity="zero">%1$d днів</item>
-        <item quantity="one">%1$d день</item>
-        <item quantity="two">%1$d дні</item>
-        <item quantity="few">%1$d дні</item>
-        <item quantity="many">%1$d днів</item>
-     </plurals>
-     <plurals name="hours">
-        <item quantity="other">%1$d годин</item>
-        <item quantity="zero">%1$d годин</item>
-        <item quantity="one">%1$d година</item>
-        <item quantity="two">%1$d години</item>
-        <item quantity="few">%1$d години</item>
-        <item quantity="many">%1$d годин</item>
-     </plurals>
-     <plurals name="mins">
-        <item quantity="other">%1$d хвилин</item>
-        <item quantity="zero">%1$d хвилин</item>
-        <item quantity="one">%1$d хвилина</item>
-        <item quantity="two">%1$d хвилини</item>
-        <item quantity="few">%1$d хвилини</item>
-        <item quantity="many">%1$d хвилин</item>
-     </plurals>
-     <plurals name="seconds">
-        <item quantity="other">%1$d секунд</item>
-        <item quantity="zero">%1$d секунд</item>
-        <item quantity="one">%1$d секунда</item>
-        <item quantity="two">%1$d секунди</item>
-        <item quantity="few">%1$d секунди</item>
-        <item quantity="many">%1$d секунд</item>
-     </plurals>
-	 <plurals name="follow_count">
-        <item quantity="other">%1$s підписників</item>
-        <item quantity="zero">%1$s підписників</item>
-        <item quantity="one">%1$s підписник</item>
-        <item quantity="two">%1$s підписники</item>
-        <item quantity="few">%1$s підписники</item>
-        <item quantity="many">%1$s підписників</item>
-     </plurals>
-     <plurals name="user_follow_me_items">
-        <item quantity="other">підписників</item>
-        <item quantity="zero">підписників</item>
-        <item quantity="one">підписник</item>
-        <item quantity="two">підписники</item>
-        <item quantity="few">підписники</item>
-        <item quantity="many">підписників</item>
-     </plurals>
-	  <plurals name="number_of_comment_flow">
-        <item quantity="other">%1$s відгуків</item>
-        <item quantity="zero">%1$s відгуків</item>
-        <item quantity="one">%1$s відгук</item>
-        <item quantity="two">%1$s відгуки</item>
-        <item quantity="few">%1$s відгуки</item>
-        <item quantity="many">%1$s відгуків</item>
-     </plurals>
-	 <plurals name="user_sign_limt">
-        <item quantity="other">Ви можете ввести %d символів</item>
-        <item quantity="one">Ви можете ввести %d символ</item>
-        <item quantity="few">Ви можете ввести %d символи</item>
-        <item quantity="many">Ви можете ввести %d символів</item>
-     </plurals>
-	 <plurals name="video_items">
-       <item quantity="other"> %1$d відео</item>
-       <item quantity="zero"> %1$d відео</item>
-       <item quantity="one"> %1$d відео</item>
-       <item quantity="two"> %1$d відео</item>
-       <item quantity="few"> %1$d відео</item>
-       <item quantity="many"> %1$d відео</item>
-    </plurals>
-	<plurals name="original_user_days">
-        <item quantity="other">• %1$d днів</item>
-        <item quantity="one">• %1$d день</item>
-        <item quantity="few">• %1$d дні</item>
-        <item quantity="many">• %1$d днів</item>
-     </plurals>
-     <plurals name="original_user_fans">
-        <item quantity="other">• У Вас %1$s підписників</item>
-        <item quantity="one">• У Вас %1$s підписник</item>
-        <item quantity="few">• У Вас %1$s підписники</item>
-        <item quantity="many">• У Вас %1$s підписників</item>
-     </plurals>
-     <plurals name="original_user_play_1">
-        <item quantity="other">"• Ви завантажили %1$s відео "</item>
-        <item quantity="one">"• Ви завантажили %1$s відео "</item>
-     </plurals>
-     <plurals name="original_user_play_2">
-        <item quantity="other">та зробили %1$s користувачів щасливими!</item>
-        <item quantity="one">та зробили %1$s користувача щасливими!</item>
-     </plurals>
-	 <plurals name="video_publish_watchable_hint">
+     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Для оновлення статусу необхідно більше %1$d підписників</item>
         <item quantity="one">Для оновлення статусу необхідно більше %1$d підписника</item>
-     </plurals>
-	 <plurals name="gems">
-        <item quantity="other">%1$s діамантів</item>
-        <item quantity="one">%1$s діамант</item>
-        <item quantity="few">%1$s діаманти</item>
-        <item quantity="many">%1$s діамантів</item>
-     </plurals>
-     <plurals name="more_gems">
-        <item quantity="other">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
-        <item quantity="one">Назбирайте більше %d діаманта, щоб долучитися до розіграшу.</item>
-        <item quantity="few">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
-        <item quantity="many">Назбирайте більше %d діамантів, щоб долучитися до розіграшу.</item>
-     </plurals>
-     <plurals name="video_like_num">
-        <item quantity="other">%1$s вподобань</item>
-        <item quantity="one">%1$s вподобання</item>
-        <item quantity="few">%1$s вподобання</item>
-        <item quantity="many">%1$s вподобань</item>
-     </plurals>
-	 <plurals name="clockin_day_count">
-        <item quantity="other">Авторизовано %1$s днів поспіль. Продовжуйте в тому ж дусі!</item>
-        <item quantity="one">Авторизовано %1$s день. Продовжуйте в тому ж дусі!</item>
-        <item quantity="few">Авторизовано %1$s дня поспіль. Продовжуйте в тому ж дусі!</item>
-        <item quantity="many">Авторизовано %1$s днів поспіль. Продовжуйте в тому ж дусі!</item>
-     </plurals>
-     <plurals name="clockin_days">
-        <item quantity="other">День %1$s</item>
-        <item quantity="one">День %1$s</item>
-     </plurals>
-     <plurals name="clockin_new_chip">
-        <item quantity="other">У Вас %d балів</item>
-        <item quantity="one">У Вас %d бали</item>
-        <item quantity="few">У Вас %d бали</item>
-        <item quantity="many">У Вас %d балів</item>
-     </plurals>
-     <plurals name="total_topic_num">
-        <item quantity="other">%1$s тем</item>
-        <item quantity="one">%1$s тема</item>
-        <item quantity="few">%1$s теми</item>
-        <item quantity="many">%1$s тем</item>
-     </plurals>
-     <plurals name="total_user_num">
-        <item quantity="other">%1$s користувачів</item>
-        <item quantity="one">%1$s користувач</item>
-        <item quantity="few">%1$s користувача</item>
-        <item quantity="many">%1$s користувачів</item>
      </plurals>
 </resources>
