@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="poco_launcher_privacy_policy">Політика конфіденційності POCO Launcher</string>
+    <string name="skip_gesture_guide_dialog_message">Перш ніж продовжити, переконайтеся, що Ви знаєте, як використовувати керування жестами</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Скасувати</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">Продовжити</string>
+    <string name="skip_gesture_guide_dialog_title">Керування жестами</string>
+	<string name="font_hint_large">Стандартний розмір тексту</string>
+	<string name="font_hint_normal">Збільшити розмір тексту</string>
+	<string name="poco_launcher_privacy_policy">Політика конфіденційності POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Угода користувача POCO Launcher</string>
 	<string name="welcome">Ласкаво просимо!</string>
     <string name="app_name">Помічник з налаштування</string>
@@ -41,8 +47,8 @@
     <string name="shut_down">Вимкнення</string>
     <string name="sim_redetection">Перевірити SIM-карту повторно</string>
     <string name="navigation_picker_gesture_guide">Поради з керування жестами</string>
-    <string name="congratulation_title">Налаштування завершене</string>
-    <string name="congratulation_label">Ласкаво просимо!</string>
+    <string name="congratulation_title">Ласкаво просимо!</string>
+    <string name="congratulation_label">Налаштування завершене</string>
     <string name="pref_title_voice_slot">Для викликів</string>
     <string name="pref_title_data_slot">Для даних</string>
     <string name="summary_not_set">Не встановлено</string>
@@ -83,7 +89,7 @@
     <string name="next_fingerprint">Далі</string>
     <string name="desc_international_fingerprint">Використовуйте сканер відбитків пальців для розблокування пристрою, програм і сервісів.</string>
     <string name="content_description_start">Почати</string>
-    <string name="start_up_slogan">Життя стає простішим</string>
+    <string name="start_up_slogan">Цілковито Ваша</string>
     <string name="content_description_miui_version">MIUI11</string>
     <string name="content_description_complete">Готово</string>
     <string name="language_picker_other_languages_title">Інші мови</string>
@@ -119,6 +125,6 @@
     <string name="logo_congratulation">Налаштування завершено</string>
     <string name="congratulation_next">Готово</string>
     <string name="summary_sim_card">SIM-карта %1$d</string>
-	<string name="data_traffic_enable_dialog_title">Якщо ви не підключені до Wi-Fi, пристрій буде використовувати мобільний інтернет. Може стягуватися додаткова плата оператором.</string>
+	<string name="data_traffic_enable_dialog_title">Якщо Ви не підключені до Wi-Fi, пристрій буде використовувати мобільний інтернет. Може стягуватися додаткова плата оператором</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Погляд на Mi</string>
 </resources>

@@ -257,8 +257,8 @@ ID реклами унікальний для Вашого пристрою. П�
      <string name="add_fingerprint_move_fast">Тримайте палець на екрані трохи довше</string>
      <string name="add_fingerprint_move_finger_title">Приберіть палець</string>
      <string name="add_fingerprint_name_suggest_text">"Ім'я відбитку"</string>
-     <string name="add_fingerprint_put_finger_edge_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову.</string>
-     <string name="add_fingerprint_put_finger_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову.</string>
+     <string name="add_fingerprint_put_finger_edge_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову</string>
+     <string name="add_fingerprint_put_finger_msg">Після натискання на сканер відбитків приберіть палець, потім натисніть знову</string>
      <string name="add_fingerprint_put_finger_title">Помістіть палець</string>
      <string name="add_fingerprint_similar_fingerprint_input_error_msg">Перемістіть палець</string>
      <string name="add_fingerprint_success_msg">Вдало додано</string>
