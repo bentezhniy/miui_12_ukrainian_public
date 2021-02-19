@@ -1,72 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-      <string-array name="trans_cancel_survey_title">
+    <string-array name="trans_cancel_survey_title">
         <item>Передача занадто довга</item>
-        <item>"З'єднання перервано"</item>
+        <item>З\'єднання перервано</item>
         <item>Вибрані неправильні файли для передачі</item>
         <item>Занадто багато дій</item>
         <item>Батарея розряджена</item>
-        <item>Передані файли пошкоджені</item>
-        <item>Передача запущена випадково</item>
-        <item>Інше</item>
-     </string-array>
-     <string-array name="trans_succeed_rating_hint">
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
-     </string-array>
-     <string-array name="trans_succeed_survey_title">
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
         <item>Загальна оцінка</item>
         <item>Швидкість передачі</item>
         <item>Простота процесу</item>
         <item>Зручність</item>
-     </string-array>
-     <string-array name="app_type_desc">
-        <item>Дані</item>
-        <item>Програма</item>
-        <item>Програма і дані</item>
-     </string-array>
-     <string-array name="backup_dialog_content_type">
-        <item>Параметри Wi-Fi</item>
-        <item>Усі програми</item>
-     </string-array>
-     <string-array name="cloud_account_data">
-        <item>Контакти</item>
-        <item>Параметри Wi-Fi</item>
-        <item>Нотатки</item>
-     </string-array>
-     <string-array name="cloud_data_label">
-        <item>Контакти</item>
-        <item>Журнал викликів</item>
-        <item>Повідомлення</item>
-        <item>Параметри Wi-Fi</item>
-        <item>Нотатки</item>
-     </string-array>
-     <string-array name="cloud_sim_data">
-        <item>Журнал викликів</item>
-        <item>Повідомлення</item>
-     </string-array>
-     <string-array name="system_data_label">
-        <item>Контакти</item>
-        <item>Журнал викликів</item>
-        <item>Повідомлення</item>
-        <item>Мультимедіа повідомлення</item>
-        <item>Налаштування системи</item>
-        <item>Параметри Wi-Fi</item>
-        <item>Робочий стіл</item>
-        <item>Будильник</item>
-        <item>Нотатки</item>
-        <item>Чорний список</item>
-        <item>Акаунт</item>
-     </string-array>
-     <string-array name="system_package_label">
-        <item>Браузер</item>
-        <item>Дозволи</item>
-        <item>Камера</item>
-        <item>Трафік</item>
-        <item>Сервер погоди</item>
-        <item>Погода</item>
-     </string-array>
+    </string-array>
 </resources>
