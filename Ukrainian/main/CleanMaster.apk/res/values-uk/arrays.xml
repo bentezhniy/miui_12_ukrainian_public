@@ -1,88 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="apk_clean_menu">
-        <item>Видалити</item>
-        <item>Встановити</item>
-        <item>Показати файл</item>
-     </string-array>
-     <string-array name="app_clean_menu">
-        <item>Видалити</item>
-     </string-array>
-     <string-array name="auto_alert_apps_time">
-        <item>Кожні 7 днів</item>
-        <item>Кожні 15 днів</item>
-        <item>Кожні 30 днів</item>
-     </string-array>
-     <string-array name="auto_clean_size">
+    <string-array name="auto_clean_size">
         <item>100 МБ</item>
         <item>300 МБ</item>
         <item>500 МБ</item>
         <item>1 ГБ</item>
-     </string-array>
-     <string-array name="auto_clean_time">
-        <item>Щоденно</item>
-        <item>Кожні 3 дні</item>
-        <item>Кожні 7 днів</item>
-        <item>Кожні 15 днів</item>
-     </string-array>
-     <string-array name="auto_process_mode">
+    </string-array>
+    <string-array name="auto_process_mode">
         <item>Питати перед очищенням</item>
         <item>Фонове очищення</item>
         <item>Сповіщати після очищення</item>
-     </string-array>
-     <string-array name="cache_clean_menu">
-        <item>Очистити</item>
-        <item>Показати файл</item>
-     </string-array>
-     <string-array name="cache_sort_type">
+    </string-array>
+    <string-array name="cache_sort_type">
         <item>За розміром</item>
         <item>За іменем</item>
-     </string-array>
-     <string-array name="empty_floder_clean_menu">
-        <item>Очищення</item>
-     </string-array>
-     <string-array name="installed_app_sort_type">
+    </string-array>
+    <string-array name="installed_app_sort_type">
         <item>За частотою використання</item>
         <item>За розміром</item>
-     </string-array>
-     <string-array name="large_file_sort_type">
+    </string-array>
+    <string-array name="large_file_sort_type">
         <item>За розміром</item>
         <item>За іменем</item>
-     </string-array>
-     <string-array name="long_add_app_menu">
-        <item>Додати у виключення</item>
-     </string-array>
-     <string-array name="long_add_menu">
-        <item>Додати у виключення</item>
-     </string-array>
-     <string-array name="low_memory_clean_menu">
-        <item>Очищення</item>
-     </string-array>
-     <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-     </string-array>
-     <string-array name="trash_clean_menu">
-        <item>Очистити</item>
-        <item>Показати файл</item>
-     </string-array>
-     <string-array name="video_clean_menu">
-        <item>Видалити</item>
-        <item>Відтворити</item>
-     </string-array>
-     <string-array name="wechat_menu_delete">
-        <item>Очистити</item>
-     </string-array>
-     <string-array name="wechat_menu_delete_whitelist">
-        <item>Очистити</item>
-     </string-array>
-     <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Очистити</item>
-        <item>Показати файл</item>
-     </string-array>
-     <string-array name="wechat_sort">
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Розмір</item>
+        <item>Частота використання</item>
+        <item>Час встановлення</item>
+    </string-array>
+    <string-array name="wechat_sort">
         <item>Дата</item>
         <item>Розмір</item>
-     </string-array>
+    </string-array>
 </resources>
