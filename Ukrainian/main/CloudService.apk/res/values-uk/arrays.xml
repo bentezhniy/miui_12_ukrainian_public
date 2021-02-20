@@ -9,7 +9,7 @@
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Телефон</item>
-        <item>Повідомлення</item>
+        <item>SMS</item>
         <item>Контакт</item>
         <item>Календар</item>
         <item>Пам\'ять</item>

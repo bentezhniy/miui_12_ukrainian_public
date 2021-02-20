@@ -707,7 +707,7 @@ M/dd"</string>
     <string name="subscribe_success_content_per_three_hour">Змінювати шпалери кожні 3 години</string>
     <string name="subscribe_success_content_per_unlock">Змінювати шпалери при заблокованому пристрої</string>
     <string name="subscribe_update_time_setting">Встановіть інший інтервал</string>
-    <string name="summary">"Перед використанням необхідно прийняти &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Угоду користувача&lt;/a&gt; та &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Політику конфіденційності&lt;/a&gt;.​"</string>
+    <string name="summary">"Погодьтесь з нашою &lt;a href='%s'&gt;Політикою конфіденційності&lt;/a&gt; для перегляду вмісту в Інтернеті. Якщо ви не погоджуєтесь, місцеві шпалери все ще будуть доступні."</string>
     <string name="summary2">"Використовуючи цю функцію, ви погоджуєтеся з нашою &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Угодою користувача&lt;/font&gt;&lt;/a&gt; та &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Політикою конфіденційності&lt;/font&gt;&lt;/a&gt;. Для нормальної роботи ці функції необхідно підключитися до інтернету"</string>
     <string name="summary_international">"Використовуючи цю функцію, ви погоджуєтеся з нашою &lt;a href ='%1$s'&gt;Угодою про користувача&lt;/a&gt; та &lt;a href='%2$s'&gt;Політикою конфіденційності&lt;/a&gt;. Для нормальної роботи ці функції необхідно підключитися до інтернету"</string>
     <string name="sure_close_gallery">Вимкнути шпалери Карусел?</string>

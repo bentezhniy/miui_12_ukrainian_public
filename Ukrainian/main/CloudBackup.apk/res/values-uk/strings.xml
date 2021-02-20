@@ -173,7 +173,6 @@
     <string name="download_meta_failed">"Неможливо завантажити дані"</string>
     <string name="download_settings">Завантаження налаштувань робочого столу: %s%%</string>
     <string name="download_settings_fail">"Помилка завантаження налаштувань робочого столу"</string>
-    <string name="error_num_placeholder">\u002d\u002d</string>
     <string name="error_retry_later">"Помилка. Будь ласка, спробуйте пізніше"</string>
     <string name="error_unknown">Трапилася помилка</string>
     <string name="expand_button_title">Додатково</string>

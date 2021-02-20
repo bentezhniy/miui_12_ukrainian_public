@@ -28,7 +28,7 @@
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">"Помилка збереження"</string>
     <string name="extra_photo_common_saving">Збереження\u2026</string>
-    <string name="motion_photo_cancel">Отмена</string>
+    <string name="motion_photo_cancel">Скасувати</string>
     <string name="motion_photo_re_pick_title">Оберіть краще фото</string>
     <string name="motion_photo_save_fail">"Не вдається зберегти"</string>
     <string name="motion_photo_save_gif">Зберегти як GIF</string>

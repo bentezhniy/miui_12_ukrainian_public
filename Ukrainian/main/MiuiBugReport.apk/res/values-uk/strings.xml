@@ -76,7 +76,7 @@
     <string name="bind_sign_in_title">Додати Mi аккаунт</string>
     <string name="btn_send">Надіслати</string>
     <string name="bugreport_dialog_not_show_again">"Запам'ятати"</string>
-    <string name="bugreport_dialog_submit_content">Ваш звіт може містити особисті дані</string>
+    <string name="bugreport_dialog_submit_content"><Data>\"Тепер ви зберігаєте журнали програмного забезпечення на цьому пристрої. Журнал може містити персональну інформацію і дані вашого місцезнаходження. Не ділитися журналами з будь-ким, якщо ви не хочете, щоб ця інформація була викрита. Вибір \"Згідний\" означає що ви прочитали і погодилися з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt; і &lt;a href=\"%2$s\"&gt;Угодою користувача&lt;/a&gt;</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Натисніть для перегляду</string>
     <string name="bugreport_dump_complete_notification_title">Звіт створено</string>
     <string name="bugreport_dump_start_notification_summary">Зачекайте…</string>
@@ -199,7 +199,10 @@ ID:%s
     <string name="feedback_continue">Продовжити зі звітом</string>
     <string name="feedback_delete_images">Видаліть зображення</string>
     <string name="feedback_description">Опис</string>
-    <string name="feedback_description_hint">"Опишіть проблему"</string>
+    <string name="feedback_description_hint">"Опишіть проблему, яку ви зіткнулися тут.
+%1$d. Якою програмою чи на якій сторінці ти зіткнувся з проблемою?
+%2$d. Після яких дій ви виконали проблему з'явилося?
+%3$d. Дайте нам додаткову інформацію, яка може допомогти нам вирішити проблему."</string>
     <string name="feedback_description_hint_suggestion">"Розкажіть нам, як ви бажаєте покращити MIUI."</string>
     <string name="feedback_description_suggest_hint">"Введіть детальний опис"</string>
     <string name="feedback_detail_copy_toast">Скопійовано до буферу обміну</string>
@@ -653,8 +656,8 @@ ID:%s
     <string name="stop_full_log_dialog_title">Генерування журналів…</string>
     <string name="submit_dialog_cancel">"Скасувати"</string>
     <string name="submit_dialog_confirm">ОК</string>
-    <string name="submit_dialog_content">Ваш звіт зі всіма журналами помилок буде надіслано на сервер Xiaomi</string>
-    <string name="submit_dialog_content_global">Ваш звіт із журналами помилок буде надіслано до серверів MIUI. Журнали помилок можуть містити особисту інформацію та дані про місцезнаходження. Ви можете не надсилати їх</string>
+    <string name="submit_dialog_content"><Data>\"Ви повинні погодитися з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Угоди користувача&lt;/a&gt; щоб мати можливість використовувати Зворотній зв\'язок. Проблеми, про які Ви повідомляєте разом із доданими Вами елементами (можуть містити особисту інформацію, а також інформацію про Ваш пристрій та мережу) буде завантажено на сервери MIUI. Це допоможе нам знайти та вирішити проблеми, про які ви повідомляєте \".</Data></string>
+    <string name="submit_dialog_content_global"><Data>\"Ваш відгук, разом із вкладеннями (якщо такі є) і логами (ви можете зняти позначку з відповідних скриньок для завантажуваних товарів) буде надіслано до серверів MIUI. Логи можуть містити особисті дані та дані про ваше місце знаходження. Вибір \"Згідний\" означає що ви прочитали і погодилися з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt; і &lt;a href=\"%2$s\"&gt;Угодою користувача&lt;/a&gt;</Data></string>
     <string name="submit_dialog_not_show_again">"Не показувати знову"</string>
     <string name="submit_dialog_title">Надіслати звіт MIUI?</string>
     <string name="submit_feedback_info_failed">"Неможливо надіслати звіт"</string>

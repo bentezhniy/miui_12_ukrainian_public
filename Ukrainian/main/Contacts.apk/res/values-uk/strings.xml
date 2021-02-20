@@ -31,10 +31,8 @@
     <string name="accessibility_contact_detail">Інформація про контакт</string>
     <string name="account_container_title">З акаунту</string>
     <string name="account_default">Стандартно</string>
-    <string name="account_dual_sdn">SDN %s</string>
     <string name="account_dual_sim">SIM-карта %s</string>
     <string name="account_phone">Тільки телефон</string>
-    <string name="account_sdn">SDN</string>
     <string name="account_sim">SIM-карта</string>
     <string name="account_type_format">Контакт %1$s</string>
     <string name="action_menu_overflow_description">Додаткові параметри</string>
@@ -199,8 +197,6 @@
     <string name="call_disambig_title">Виклик</string>
     <string name="call_fax_home">Домашній факс</string>
     <string name="call_fax_work">Робочий факс</string>
-    <string name="call_feature_volte">VoLTE</string>
-    <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Домашній телефон</string>
     <string name="call_isdn">Номер ISDN</string>
     <string name="call_main">Основний телефон</string>
@@ -244,9 +240,7 @@
     <string name="call_recording_notification_title">Повідомляти про записані дзвінки</string>
     <string name="call_recording_notification_title_error">"Не вдалося записати виклик"</string>
     <string name="call_recording_setting">Записи дзвінків</string>
-    <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Виклик з SIM1</string>
-    <string name="call_sim2_description">SIM 2</string>
     <string name="call_sim2_menu_title">Виклик з SIM2</string>
     <string name="call_sim_menu_title_suffix">(стандартно)</string>
     <string name="call_telex">Телекс</string>
@@ -316,7 +310,6 @@
     <string name="cloud_state_disabled">Синхронізацію з Mi Cloud вимкнено</string>
     <string name="cloud_state_loading">Завантаження…</string>
     <string name="cloud_upgrade_recommend">"Не вдається синхронізувати контакти через брак місця в хмарному сховищі. Оновіть тариф або звільніть місце."</string>
-    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="composer_failed_to_get_database_infomation">" База даних недоступна"</string>
@@ -355,7 +348,6 @@
     <string name="contact_edit_title_readonly">Контакт тільки для читання</string>
     <string name="contact_editor_prompt_multiple_accounts">Виберіть акаунт, у який слід додати новий контакт</string>
     <string name="contact_editor_prompt_zero_accounts">Резервна копію нового контакту не буде збережено. Додати акаунт для збереження контактів до Mi Cloud?</string>
-    <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Трансфер</string>
     <string name="contact_import_methods_dialog_title">Спосіб імпорту</string>
     <string name="contact_is_deleted">Контакт видалено</string>
@@ -627,7 +619,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="group_create_fail_toast">"Не вдалося створити групу"</string>
     <string name="group_create_success_toast">Група створена</string>
     <string name="group_delete_success_toast">Група видалена</string>
-    <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">Назва групи</string>
     <string name="group_member_remove_fail_toast">Не видалений з групи</string>
     <string name="group_member_remove_success_toast">Видалений з групи</string>
@@ -743,10 +734,8 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="menu_sync_remove">Відключити синхронізацію групи</string>
     <string name="midnight">Ніч</string>
     <string name="miprofile_account_type">Mi акаунт</string>
-    <string name="miprofile_delete_alertdialog_message">Усі дані профілю буде видалено</string>
     <string name="miprofile_edit_title">Змінити візитку</string>
     <string name="miprofile_name">Візитка</string>
-    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_notice_close">Закрити</string>
     <string name="miprofile_switch_off_alertdialog_message">"Ви не зможете обмінюватися візитками. Контакти не зможуть бечити ваше відео профілю."</string>
     <string name="missing_name">Мої групи</string>
@@ -868,7 +857,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="option_view_contact">Перегляд</string>
     <string name="option_view_group">Подивитися</string>
     <string name="organizationLabelsGroup">Організація</string>
-    <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="pay_fail">"Не вдалось завершити платіж"</string>
     <string name="pay_success">Оплату успішно завершено</string>
     <string name="payphone">Телефон-автомат</string>
@@ -958,7 +946,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="private_num">Прихований номер</string>
     <string name="profileSavedErrorToast">"Неможливо зберегти зміни"</string>
     <string name="profileSavedToast">Профіль збережено</string>
-    <string name="profile_binded_numbers">Мій номер: %s</string>
     <string name="profile_delete_toast">Профіль видалено</string>
     <string name="profile_name">Мій профіль</string>
     <string name="profile_name_photo">Я</string>
@@ -1028,7 +1015,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="search_results_searching">Пошук…</string>
     <string name="search_settings_description">Імена контактів</string>
     <string name="searching_vcard_message">Пошук даних vCard на накопичувачі …</string>
-    <string name="select_all"> Вибрати всі </string>
+    <string name="select_all">Вибрати всі</string>
     <string name="select_groups">Вибрати групи</string>
     <string name="select_vcard_title">Вибір файлу vСard</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Це поєднання клавіш вже існує</string>
@@ -1056,7 +1043,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="simContacts_empty">Немає контактів на SIM-карті</string>
     <string name="simContacts_emptyLoading">Завантаження контактів з SIM-карти…</string>
     <string name="simContacts_title">Контакти на SIM-карті</string>
-    <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Ємність SIM-карти</string>
     <string name="sim_capacity_content">%1$d усього | %2$d використаний</string>
     <string name="sim_card_no_free_space_message">Недостатньо пам\'яті</string>
@@ -1079,7 +1065,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-карті, повинна бути між %2$d і %3$d</string>
     <string name="sim_no_contact">Немає контактів на SIM-карті</string>
     <string name="sim_unloaded">"SIM-карту не завантажено"</string>
-    <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Немає контактів у групі</string>
     <string name="six_letter">MNO</string>
     <string name="smart_group_company_label">За компаніями</string>
@@ -1152,7 +1137,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="sunday">Неділя</string>
     <string name="sunday_short">НД</string>
     <string name="sunday_shortest">НД</string>
-    <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Новий контакт</string>
     <string name="t9_search_empty_edit_contact">Додати до контакту</string>
     <string name="t9_search_empty_send_sms">Надіслати повідомлення</string>

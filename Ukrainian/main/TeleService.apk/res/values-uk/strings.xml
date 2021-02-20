@@ -954,7 +954,7 @@
     <string name="enhanced_connectivity">Покращене сполучення</string>
     <string name="enhanced_connectivity_summary">Вмикає розширену функцію з\'єднання.</string>
     <string name="enter_callbarring_password">Введіть пароль заборони викликів (%d символи)</string>
-    <string name="enter_input">USSD запит повинен містити від %d до %d символів. Повторіть знову</string>
+    <string name="enter_input">Повідомлення USSD має містити від %1$d до %2$d символів. Будь ласка, спробуйте ще раз.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM-карти:</string>
     <string name="entertainment_news_settings">Розваги</string>

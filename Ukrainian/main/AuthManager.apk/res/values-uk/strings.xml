@@ -36,7 +36,7 @@
     <string name="HIPS_Perm_Intl_group_desc_location">Доступ до точного місцезнаходження (GPS та мережі)</string>
     <string name="HIPS_Perm_Intl_group_desc_storage">"Додавання та видалення файлів у пам'яті пристрою"</string>
     <string name="HIPS_Perm_Intl_group_name_audio_recorder">Мікрофон</string>
-    <string name="HIPS_Perm_Intl_group_name_auto_start">Autostart</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">Автозапуск</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Календар</string>
     <string name="HIPS_Perm_Intl_group_name_call_log">Історія дзвінків</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Камера</string>

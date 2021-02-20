@@ -775,10 +775,10 @@
     <string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
     <string name="keyguard_password_wrong_pin_code">Неправильний PIN код!</string>
     <string name="kg_enter_confirm_pin_hint">Підтвердіть PIN код</string>
-    <string name="kg_failed_attempts_almost_at_login">"Ви неправильно ввели графічний ключ %d раз(ів). Після %d неправильних спроб, Ви зможете розблокувати пристрій за допомогою акаунту електронної пошти Google.
+    <string name="kg_failed_attempts_almost_at_login">"Ви неправильно намалювали ключ розблокування %1$d разів. Після %2$d невдалих спроб, вам буде запропоновано розблокувати ваш телефон, використовуючи обліковий запис електронної пошти.
 
- Повторіть спробу через %d сек."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">Ви неправильно ввели код %d раз(ів). Після %d неправильних  спроб, налаштування пристрою будуть скинуті й всі дані видалені</string>
+ Спробуйте знову за %3$d секунд."</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Ви неправильно спробували розблокувати телефон %1$d разів. Після ще %2$d невдалих спроб, телефон буде скинуто до заводських замовчувань, і всі дані користувача будуть втрачені.</string>
     <string name="kg_failed_attempts_now_wiping">Ви неправильно ввели код %d раз(ів). Налаштування пристрою будуть скинуті</string>
     <string name="kg_forgot_pattern_button_text">Надати графічний ключ</string>
     <string name="kg_invalid_confirm_pin_hint">PIN коди не збігаються</string>
@@ -803,15 +803,15 @@
     <string name="kg_reordering_delete_drop_target_text">Видалити</string>
     <string name="kg_sim_pin_instructions">Введення PIN коду SIM-карти</string>
     <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Ви неправильно ввели пароль %d раз(а).
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Ви неправильно ввели свій пароль %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Ви неправильно ввели графічний ключ %d раз(а). 
+Спробуйте знову через %2$d секунд."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Ви неправильно намалювали ключ розблокування %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Ви неправильно ввели PIN код %d раз(а). 
+Спробуйте знову через %2$d секунд."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Ви неправильно ввели свій PIN-код, %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
+Спробуйте знову через %2$d секунд."</string>
     <string name="kg_wrong_password">Неправильний пароль</string>
     <string name="kg_wrong_pattern">Неправильний графічний ключ</string>
     <string name="kg_wrong_pin">Неправильний PIN код</string>
@@ -850,10 +850,10 @@
     <string name="lockscreen_access_pattern_start">Введення графічного ключа</string>
     <string name="lockscreen_carrier_default">Немає мережі</string>
     <string name="lockscreen_emergency_call">Екстрений виклик</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe">Не вдалося розблокувати пристрій (число спроб: %d). Залишилось спроб: %d. Після цього будуть встановлені налаштування за замовчуванням, що приведе до видалення всіх користувацьких даних</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">"Кількість невдалих спроб введення графічного ключа розблокування: %d. Після %d невдалих спроб Вам буде запропоновано розблокувати телефон за допомогою облікових даних Google.    
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Ви неправильно спробували розблокувати телефон %1$d разів. Після ще %2$d невдалих спроб, телефон буде скинуто до заводських замовчувань, і всі дані користувача будуть втрачені.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Ви неправильно намалювали ключ розблокування %1$d разів. Після %2$d невдалих спроб вам буде запропоновано розблокувати ваш телефон, використовуючи ваш профіль Google.
 
- Повторіть спробу через %d с."</string>
+ Спробуйте знову за %3$d секунд."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Не вдалося розблокувати пристрій (число спроб: %d). Будуть встановлені налаштування за замовчуванням</string>
     <string name="lockscreen_forgot_pattern_button_text">Відновити</string>
     <string name="lockscreen_glogin_account_recovery_hint">Забули ім\'я користувача або пароль?
@@ -890,15 +890,15 @@
     <string name="lockscreen_sound_on_label">Увімкнути звук</string>
     <string name="lockscreen_storage_locked">Розблокуйте для доступу до всіх даних</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторіть спробу через %d сек.</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Кількість невдалих спроб введення графічного ключа розблокування: %d. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">"Ви неправильно намалювали ключ розблокування %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Кількість невдалих спроб введення пароля: %d. 
+Спробуйте знову через %2$d секунд."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Ви неправильно ввели свій пароль %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Кількість невдалих спроб введення PIN коду: %d. 
+Спробуйте знову через %2$d секунд."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Ви неправильно ввели свій PIN-код, %1$d разів. 
 
-Повторіть спробу через %d сек."</string>
+Спробуйте знову через %2$d секунд."</string>
     <string name="lockscreen_transport_ffw_description">Перемотати вперед</string>
     <string name="lockscreen_transport_next_description">Клавіша переходу до наступного треку</string>
     <string name="lockscreen_transport_pause_description">Клавіша паузи</string>
@@ -1537,7 +1537,7 @@
     <string name="searchview_description_voice">Голосовий пошук</string>
     <string name="second">сек.</string>
     <string name="seconds">сек.</string>
-    <string name="selectAll">Вибрати</string>
+    <string name="selectAll">Вибрати все</string>
     <string name="selectTextMode">Виділити текст</string>
     <string name="select_character">Введіть символ</string>
     <string name="select_day">Оберіть місяць і число</string>
