@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_name">Налаштування Sony</string>
-  <string name="app_settings_summary">Додаткові налаштування WT19i</string>
-  <string name="swiqi_strings_swiqi_desc_txt">Покрашення якості зображення для фотографій та відео</string>
-  <string name="swiqi_strings_swiqi_txt">Mobile BRAVIA Engine</string>
-  <string name="xloud_strings_xloud_desc_txt">Покращення якості звучання динаміку</string>
-  <string name="xloud_strings_xloud_txt">xLOUD™</string>
-</resources>

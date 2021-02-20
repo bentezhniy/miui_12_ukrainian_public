@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    	<string-array name="boot_msg_text">
-        <item>Підготовка до оновлення…</item>
-        <item>Оновлення системи…</item>
-        <item>Оптимізація програм…</item>
-        <item>Оптимізація програм…</item>
-        <item>Завершення оновлення…</item>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Спробуйте ще раз</item>
+        <item></item>
+        <item></item>
+        <item>Відсканер відбитків пальців повністю і потрібен тиск</item>
+        <item></item>
+        <item>Відсканер відбитків пальців повністю і потрібен тиск</item>
+        <item>Витерти очищення датчика відбитків пальців та повторити спробу</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Відсканер відбитків пальців повністю і потрібен тиск</item>
+        <item>Відсканер відбитків пальців повністю і потрібен тиск</item>
+        <item>"Зашвидко! Не вдалося розпізнати відбиток"</item>
+        <item>трохи перемістіть палець та спробуйте ще раз</item>
+        <item>Підніміть палець і поверніть його назад на сканер</item>
+        <item>Тримайте палець на сканері трохи довше</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Злегка перемістіть палець</item>
+        <item>Цей відбиток пальця додано, використовуйте інший палець</item>
     </string-array>
 </resources>

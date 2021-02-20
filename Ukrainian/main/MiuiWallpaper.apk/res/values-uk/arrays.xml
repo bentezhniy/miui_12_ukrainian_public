@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="settings_search_earth">
+        <item>Домашній екран</item>
+        <item>Шпалер/Супер шпалери/Головна</item>
+        <item>Земля;Супершпалери;Фотографія;Фотографії Землі</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Геометрія</item>
+        <item>Фонові малюнки/Супершпалери/Геометрія</item>
+        <item>Геометрія;Абстракт;Супершпалери;Шпалери</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Червона планета</item>
+        <item>Шпалер/Супер шпалери/Червона планета</item>
+        <item>Марс, вид; Супершпалери; Шпалери</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Кільця Сатурна</item>
+        <item>Фонові малюнки/Супер шпалери/Кільця Сатурна</item>
+        <item>Планета;Сатурн;Супершпалер;Шпалери</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Snowy peaks</item>
+        <item>Шпалер/Супершпалери/піки снігу</item>
+        <item>Земля; Гори, супершпалери; Шпалери</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Супер-шпалери</item>
+        <item>Шпалер/Супершпалери</item>
+        <item>Супершпалери;Шпалера;Динамічні шпалери;3D-шпалери</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Погода</item>
+        <item>Шпалер/Супер шпалери/Погода</item>
+        <item>Weather;Погода info;Супершпалер;Шпалери</item>
+    </string-array>
+</resources>

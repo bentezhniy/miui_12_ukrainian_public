@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="recommend_panel_height">0.0dip</dimen>
-    <dimen name="uninstall_dialog_button_text_size">9.0sp</dimen>
-    <dimen name="force_touch_menu_item_width">240.0dip</dimen>
-</resources>

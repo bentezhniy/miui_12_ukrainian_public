@@ -1,113 +1,298 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Білі</item>
+        <item>Темно-синій</item>
+        <item>Світло-синій</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Рожевий</item>
+        <item>Коричневий</item>
+        <item>Сірий</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Виберіть зображення</item>
+        <item>Прозорий фон</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Особливий день</item>
-        <item>"Пам'ятний день"</item>
+        <item>Пам\'ятний день</item>
         <item>Яскраві моменти</item>
-     </string-array>
-     <string-array name="backup_automatically_key_words">
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Хлопчик</item>
+        <item>Дівчинка</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
         <item>Бекап фото</item>
         <item>Синхронізація фото з Mi Cloud</item>
-     </string-array>
-     <string-array name="last_month">
-        <item>Січень</item>
-        <item>Лютий</item>
-        <item>Березень</item>
-        <item>Квітень</item>
-        <item>Травень</item>
-        <item>Червень</item>
-        <item>Липень</item>
-        <item>Серпень</item>
-        <item>Вересень</item>
-        <item>Жовтень</item>
-        <item>Листопад</item>
-        <item>Грудень</item>
-     </string-array>
-     <string-array name="last_weekend_title">
-        <item>Вихідні</item>
-        <item>Ритм життя</item>
-        <item>Спогади про вихідні</item>
-     </string-array>
-     <string-array name="month">
-        <item>Січень</item>
-        <item>Лютий</item>
-        <item>Березень</item>
-        <item>Квітень</item>
-        <item>Травень</item>
-        <item>Червень</item>
-        <item>Липень</item>
-        <item>Серпень</item>
-        <item>Вересень</item>
-        <item>Жовтень</item>
-        <item>Листопад</item>
-        <item>Грудень</item>
-     </string-array>
-     <string-array name="parties_title">
-        <item>Разом</item>
-        <item>Приємні часи</item>
-        <item>В унісон</item>
-     </string-array>
-     <string-array name="season">
-        <item>Весна</item>
-        <item>Літо</item>
-        <item>Осінь</item>
-        <item>Зима</item>
-     </string-array>
-     <string-array name="sports_title">
-        <item>Рух вперед</item>
-        <item>Енергія</item>
-     </string-array>
-     <string-array name="weekend_title">
-        <item>Вихідні</item>
-        <item>Спогади</item>
-        <item>Денні події</item>
-        <item>Прекрасні дні</item>
-     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Перемістити</item>
-        <item>Копіювати</item>
-        <item>Скасувати</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Минулий місяць</item>
         <item>Минулий вівторок</item>
         <item>Минула середа</item>
         <item>Минулий четвер</item>
-        <item>"Минула п'ятниця"</item>
-     </string-array>
-     <string-array name="chinese_holiday_last_year">
-        <item>Минулий китайський Новий рік</item>
+        <item>Минула п\'ятниця</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Минулий китайський Новий рік"</item>
         <item>Минулий китайський Новий рік</item>
         <item>Минулий фестиваль ліхтарів</item>
         <item>Минулий фестиваль човнів-драконів</item>
         <item>Минулий фестиваль Qixi</item>
         <item>Минуле свято середини осені</item>
-     </string-array>
-     <string-array name="chinese_holiday_past_year">
-        <item>Китайський Новий рік напротязі багатьох років</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Китайський Новий рік напротязі багатьох років"</item>
         <item>Китайський Новий рік напротязі багатьох років</item>
         <item>Фестиваль ліхтарів напротязі багатьох років</item>
         <item>Фестиваль човнів-драконів напротязі багатьох років</item>
         <item>Фестиваль Qixi напротязі багатьох років</item>
         <item>Свято середини осені напротязі багатьох років</item>
-     </string-array>
-     <string-array name="holiday_last_year">
-        <item>Минулий Новий рік</item>
-        <item>Минулий день святого Валентина</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Минулий Новий рік"</item>
+        <item>"Минулий день святого Валентина"</item>
         <item>Минулий день праці</item>
-        <item>Минулий день дітей</item>
+        <item>"Минулий день дітей"</item>
         <item>Минулий національний день</item>
         <item>Минуле Різдво</item>
-     </string-array>
-     <string-array name="holiday_past_year">
-        <item>Новий рік напротязі багатьох років</item>
-        <item>День святого Валентина напротязі багатьох років</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Новий рік напротязі багатьох років"</item>
+        <item>"День святого Валентина напротязі багатьох років"</item>
         <item>День праці напротязі багатьох років</item>
-        <item>День дітей напротязі багатьох років</item>
+        <item>"День дітей напротязі багатьох років"</item>
         <item>Національний день напротязі багатьох років</item>
         <item>Різдво напротязі багатьох років</item>
-     </string-array>
-     <string-array name="month_last_year">
+    </string-array>
+    <string-array name="last_month">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Час гри</item>
+        <item>"Вихідні дні Кіддо"</item>
+        <item>Маленька</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Вихідні</item>
+        <item>Ритм життя</item>
+        <item>Спогади про вихідні</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Нові друзі та старі приятелі</item>
+        <item>"Минулорічні суб'єкти"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Дозвілля</item>
+        <item>Бриз</item>
+        <item>Мрії</item>
+        <item>Хмари</item>
+        <item>Думки</item>
+        <item>Бюд</item>
+        <item>Метаморфоз</item>
+        <item>Глибина</item>
+        <item>Відображення</item>
+        <item>Мінімаліст</item>
+        <item>Таємниця</item>
+        <item>Fog</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Тканини в ескізи</item>
+        <item>Шрифти водяного кольору</item>
+        <item>Кіберпанк-ретро</item>
+        <item>Неправильно розташовані вертикальні сегменти</item>
+        <item>Hazy blur</item>
+        <item>Футуристичне почуття</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Ескіз</item>
+        <item>Водні розмиви</item>
+        <item>RGB</item>
+        <item>Жалюзі</item>
+        <item>Туманне вікно</item>
+        <item>Техніка</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Кольорові контури</item>
+        <item>Пунктирні контури</item>
+        <item>Флуоресцентний обрис</item>
+        <item>Кольорова тінь</item>
+        <item>Електричні хвилі</item>
+        <item>Поточна версія</item>
+        <item>Хвилі</item>
+        <item>Частинки</item>
+        <item>Текст</item>
+        <item>Крила</item>
+        <item>Янгол</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Загальні налаштування</item>
+        <item>Подорож</item>
+        <item>Праця</item>
+        <item>Документи</item>
+        <item>Освіта</item>
+        <item>Іспити</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Соціальне забезпечення</item>
+        <item>Заява про здоров\'я</item>
+        <item>Медичне страхування</item>
+        <item>ID</item>
+        <item>Дозвіл на проживання</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Маленький один приціл</item>
+        <item>Менші дві цуни</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Програма для прийняття завдань</item>
+        <item>Учні мережі</item>
+        <item>Студентська мережа в початкових школах</item>
+        <item>Мережевий профіль учня</item>
+        <item>Вступ до університету</item>
+        <item>NCEE</item>
+        <item>Поновити</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Коледж англійський тест 1</item>
+        <item>Коледж англійський тест 2</item>
+        <item>Коледж англійський тест 3</item>
+        <item>Тест навчального закладу 1</item>
+        <item>Тест навчального закладу 2</item>
+        <item>Степінь англійської мови</item>
+        <item>ПЕТ для коледжів</item>
+        <item>ОЧТ, рівень 3</item>
+        <item>Ознака Національного Комп\'ютерного Рангу 1</item>
+        <item>Ознака Національного Комп\'ютерного Рангу 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Первинне та середнє сертифікація вчителів шкіл</item>
+        <item>Сертифікація вчителя</item>
+        <item>"Водійське посвідчення"</item>
+        <item>Дозволено інструкцію</item>
+        <item>Дозволити електронний посібник</item>
+        <item>Національні судові обстеження</item>
+        <item>Сертифікат конструктора першого класу</item>
+        <item>Сценарій конструктора другого класу</item>
+        <item>Молодіжна назва бухгалтерського обліку іспиту</item>
+        <item>Сертифікований публічний бухгалтер</item>
+        <item>Дозвіл на посвідчення керівництва Пекіном</item>
+        <item>Проміжна назва бухгалтерського обліку обстеження</item>
+        <item>Старший огляд назви бухгалтерського обліку</item>
+        <item>Сертифікат кваліфікації обліку</item>
+        <item>Ознака сертифікованого публічного бухгалтера</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Сполучені Штати Америки</item>
+        <item>Vietnam</item>
+        <item>Японія</item>
+        <item>Гонконг і Макао</item>
+        <item>Південна Корея</item>
+        <item>Таїланд (турист)</item>
+        <item>Таїланд (на місці)</item>
+        <item>Індія</item>
+        <item>Israel</item>
+        <item>Тайвань</item>
+        <item>Малайзія</item>
+        <item>Нова Зеландія</item>
+        <item>Італія</item>
+        <item>Аргентина</item>
+        <item>Бразилія</item>
+        <item>Ісландія</item>
+        <item>Кенія</item>
+    </string-array>
+    <string-array name="month">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="month_last_year">
         <item>Минулий січень</item>
         <item>Минулий лютий</item>
         <item>Минулий березень</item>
@@ -120,59 +305,25 @@
         <item>Минулий жовтень</item>
         <item>Минулий листопад</item>
         <item>Минулий грудень</item>
-     </string-array>
-     <string-array name="month_past_year">
-        <item>Січневі спогади</item>
-        <item>Лютневі спогади</item>
-        <item>Березневі спогади</item>
-        <item>Квітневі спогади</item>
-        <item>Травневі спогади</item>
-        <item>Червневі спогади</item>
-        <item>Липневі спогади</item>
-        <item>Серпневі спогади</item>
-        <item>Вересневі спогади</item>
-        <item>Жовтневі спогади</item>
-        <item>Листопадові спогади</item>
-        <item>Грудневі спогади</item>
-     </string-array>
-     <string-array name="season_last_year">
-        <item>Минула весна</item>
-        <item>Минуле літо</item>
-        <item>Минула осінь</item>
-        <item>Минула зима</item>
-     </string-array>
-     <string-array name="season_past_year">
-        <item>Весняні спогади</item>
-        <item>Літні спогади</item>
-        <item>Осінні спогади</item>
-        <item>Зимові спогади</item>
-     </string-array>
-     <string-array name="season_recap">
-        <item>Звіт за весну</item>
-        <item>Звіт за лето</item>
-        <item>Звіт за осень</item>
-        <item>Звіт за зиму</item>
-     </string-array>
-     <string-array name="slideshow_time_entries">
-        <item>5 хвилин</item>
-        <item>15 хвилин</item>
-        <item>30 хвилин</item>
-        <item>1 година</item>
-        <item>Нескінченно</item>
-     </string-array>
-	 <string-array name="baby_sexy">
-        <item>Хлопчик</item>
-        <item>Дівчинка</item>
-     </string-array>
-     <string-array name="owner_relation">
+    </string-array>
+    <string-array name="owner_relation">
         <item>Тато</item>
         <item>Мама</item>
         <item>Дідусь</item>
         <item>Бабуся</item>
         <item>Дідусь</item>
         <item>Бабуся</item>
-     </string-array>
-	 <string-array name="relation_with_me">
+    </string-array>
+    <string-array name="parties_title">
+        <item>Разом</item>
+        <item>Приємні часи</item>
+        <item>В унісон</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Разом</item>
+        <item>Борги та зв’язки</item>
+    </string-array>
+    <string-array name="relation_with_me">
         <item>Я</item>
         <item>Дитина</item>
         <item>Сім\'я</item>
@@ -180,34 +331,39 @@
         <item>Однокласники</item>
         <item>Друзі</item>
         <item>Інші</item>
-     </string-array>
-	 <string-array name="sharer_relation_addressive">
+    </string-array>
+    <string-array name="season">
+        <item>Весна</item>
+        <item>Літо</item>
+        <item>Осінь</item>
+        <item>Зима</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Минула весна</item>
+        <item>Минуле літо</item>
+        <item>Минула осінь</item>
+        <item>Минула зима</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
         <item>Батько</item>
         <item>Мати</item>
         <item>Дідусь по батьку</item>
         <item>Бабуся по батьку</item>
         <item>Дідусь по матері</item>
         <item>Бабуся по матері</item>
-     </string-array>
-	 <string-array name="collage_month">
-        <item>Січ.</item>
-        <item>Лют.</item>
-        <item>Бер.</item>
-        <item>Квіт.</item>
-        <item>Трав.</item>
-        <item>Черв.</item>
-        <item>Лип.</item>
-        <item>Сер.</item>
-        <item>Вер.</item>
-        <item>Жов.</item>
-        <item>Лис.</item>
-        <item>Груд.</item>
-     </string-array>
-	 <string-array name="search_voice_assistant_suggestion">
-        <item>Пошук фотографії мого посвідчення</item>
-        <item>Пошук фотографій із міста Львів</item>
-        <item>Зображення Xiaomi</item>
-        <item>Пошук фотографій з весняного фестивалю в минулому році</item>
-        <item>Пошук фото на пляжі</item>
-     </string-array>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Рух вперед</item>
+        <item>Енергія</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Вони так швидко ростуть</item>
+        <item>"Фотографії Кіддо"</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Вихідні</item>
+        <item>Спогади</item>
+        <item>Денні події</item>
+        <item>Прекрасні дні</item>
+    </string-array>
 </resources>

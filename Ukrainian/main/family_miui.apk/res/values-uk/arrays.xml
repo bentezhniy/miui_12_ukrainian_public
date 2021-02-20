@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="theme_list">
-        <item>Величезний</item>
-        <item>Великий</item>
-        <item>Середній</item>
-        <item>Маленький</item>
-    </string-array>
-</resources>

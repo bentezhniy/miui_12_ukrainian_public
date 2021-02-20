@@ -1,140 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="snooze_duration_desc">
-        <item quantity="other">Кожні %1$s хв. відкладати %2$s разів</item>
-        <item quantity="one">Кожні %1$s хв. відкладати %2$s раз</item>
-        <item quantity="few">Кожні %1$s хв. відкладати %2$s рази</item>
-     </plurals>
-     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Інтервал відкладення змінений на %d хв.</item>
-        <item quantity="one">Інтервал відкладення змінений на %d хв.</item>
-     </plurals>
-     <plurals name="day">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-        <item quantity="few">%d дн.</item>
-     </plurals>
-     <plurals name="hour">
-        <item quantity="other">%d год.</item>
-        <item quantity="one">%d год.</item>
-        <item quantity="few">%d год.</item>
-     </plurals>
-     <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-        <item quantity="few">%d дн.</item>
-     </plurals>
-     <plurals name="minute">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">%d хв.</item>
-        <item quantity="few">%d хв.</item>
-     </plurals>
-     <plurals name="snooze_duration_summary">
-        <item quantity="other">%2$s раз з інтервалом %1$s хв.</item>
-        <item quantity="one">%2$s раз з інтервалом %1$s хв.</item>
-        <item quantity="few">%2$s рази з інтервалом %1$s хв.</item>
-     </plurals>
-	 <plurals name="Nhours_description">
-        <item quantity="other">%d г.</item>
-        <item quantity="one">1 г.</item>
-     </plurals>
-     <plurals name="Nminutes_description">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">1 хв.</item>
-     </plurals>
-     <plurals name="Nseconds_description">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">1 сек.</item>
-     </plurals>
-     <plurals name="alarm_alert_snooze_set">
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d хв</item>
+        <item quantity="one">за 1 хв</item>
+        <item quantity="few">за %d хв</item>
+        <item quantity="many">за %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хв. тому</item>
+        <item quantity="many">%d хв. тому</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Будильник буде відкладено на %d хвилин</item>
         <item quantity="one">Будильник буде відкладено на %d хвилину</item>
         <item quantity="few">Будильник буде відкладено на %d хвилини</item>
         <item quantity="many">Будильник буде відкладено на %d хвилин</item>
-     </plurals>
-     <plurals name="alarm_delete_confirmation">
-        <item quantity="other">Видалити вибрані будильники?</item>
-        <item quantity="one">Видалити вибраний будильник?</item>
-     </plurals>
-     <plurals name="auto_silence_summary">
-        <item quantity="other">Будильник буде вимкнено через %d хвилин</item>
-        <item quantity="one">Будильник буде вимкнено через %d хвилину</item>
-        <item quantity="few">Будильник буде вимкнено через %d хвилини</item>
-        <item quantity="many">Будильник буде вимкнено через %d хвилин</item>
-     </plurals>
-     <plurals name="delete_alarm_confirm">
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+        <item quantity="few">%d дн.</item>
+        <item quantity="many">%d дн.</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
         <item quantity="other">Видалити будильники?</item>
         <item quantity="one">Видалити будильник?</item>
-     </plurals>
-     <plurals name="delete_timezone_confirm">
+        <item quantity="few">Видалити будильники?</item>
+        <item quantity="many">Видалити будильники?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
         <item quantity="other">Видалити часові пояси?</item>
         <item quantity="one">Видалити часовий пояс?</item>
-     </plurals>
-     <plurals name="second">
+        <item quantity="few">Видалити часові пояси?</item>
+        <item quantity="many">Видалити часові пояси?</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d год.</item>
+        <item quantity="one">%d год.</item>
+        <item quantity="few">%d год.</item>
+        <item quantity="many">%d год.</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хвилин</item>
+        <item quantity="one">протягом 1 хвилини</item>
+        <item quantity="few">через %d хвилин</item>
+        <item quantity="many">через %d хвилин</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d день</item>
+        <item quantity="many">%1$d день</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+    </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" хв"</item>
+        <item quantity="one">" хв"</item>
+        <item quantity="few">" хв"</item>
+        <item quantity="many">" хв"</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хвилин тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
+    <plurals name="second">
         <item quantity="other">%d сек</item>
         <item quantity="one">%d сек</item>
         <item quantity="few">%d сек</item>
         <item quantity="many">%d сек</item>
-     </plurals>
-     <plurals name="snooze_duration">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">1 хв.</item>
-     </plurals>
-     <plurals name="snooze_message">
+    </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+        <item quantity="few">%1$s г.</item>
+        <item quantity="many">%1$s г.</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s г.</item>
+        <item quantity="one">%1$s г.</item>
+        <item quantity="few">%1$s г.</item>
+        <item quantity="many">%1$s г.</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
+        <item quantity="few">%1$s хв.</item>
+        <item quantity="many">%1$s хв.</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s хв.</item>
+        <item quantity="one">%1$s хв.</item>
+        <item quantity="few">%1$s хв.</item>
+        <item quantity="many">%1$s хв.</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Інтервал відкладення змінений на %d хв.</item>
+        <item quantity="one">Інтервал відкладення змінений на %d хв.</item>
+        <item quantity="few">Інтервал відкладення змінений на %d хв.</item>
+        <item quantity="many">Інтервал відкладення змінений на %d хв.</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Вимкніть %1$s разів</item>
+        <item quantity="one">Йдіть %1$s раз</item>
+        <item quantity="few">Вимкніть %1$s разів</item>
+        <item quantity="many">Вимкніть %1$s разів</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Кожні %1$s хв. відкладати %2$s разів</item>
+        <item quantity="one">Кожні %1$s хв. відкладати %2$s раз</item>
+        <item quantity="few">Кожні %1$s хв. відкладати %2$s рази</item>
+        <item quantity="many">Кожні %1$s хв. відкладати %2$s разів</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Кожні %1$s хв</item>
+        <item quantity="one">Кожні %1$s хв</item>
+        <item quantity="few">Кожні %1$s хв</item>
+        <item quantity="many">Кожні %1$s хв</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">%2$s раз з інтервалом %1$s хв.</item>
+        <item quantity="one">%2$s раз з інтервалом %1$s хв.</item>
+        <item quantity="few">%2$s рази з інтервалом %1$s хв.</item>
+        <item quantity="many">%2$s раз з інтервалом %1$s хв.</item>
+    </plurals>
+    <plurals name="snooze_message">
         <item quantity="other">Повторити за %d хв.</item>
         <item quantity="one">Повторити за %d хв.</item>
-     </plurals>
-     <plurals name="snooze_picker_label">
-        <item quantity="other">хв.</item>
-        <item quantity="one">хв.</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d хв.</item>
-        <item quantity="one">1 хв.</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">1 сек.</item>
-     </plurals>
-     <plurals name="timer_message_hour">
+        <item quantity="few">Повторити за %d хв.</item>
+        <item quantity="many">Повторити за %d хв.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Секундомір запущено протягом %s днів. Торкніться для перегляду.</item>
+        <item quantity="one">Секундомір запущено на %s день. Натисніть для перегляду.</item>
+        <item quantity="few">Секундомір запущено протягом %s днів. Торкніться для перегляду.</item>
+        <item quantity="many">Секундомір запущено протягом %s днів. Торкніться для перегляду.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Секундомір запущено протягом %s годин. Торкніться, щоб переглянути.</item>
+        <item quantity="one">Секундомір запущено протягом %s години. Торкніться, щоб переглянути.</item>
+        <item quantity="few">Секундомір запущено протягом %s годин. Торкніться, щоб переглянути.</item>
+        <item quantity="many">Секундомір запущено протягом %s годин. Торкніться, щоб переглянути.</item>
+    </plurals>
+    <plurals name="timer_message_hour">
         <item quantity="other">"%1$d г. "</item>
         <item quantity="one">"%1$d г. "</item>
-     </plurals>
-     <plurals name="timer_message_minute">
+        <item quantity="few">"%1$d г. "</item>
+        <item quantity="many">"%1$d г. "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
         <item quantity="other">"%1$d хв. "</item>
         <item quantity="one">"%1$d хв. "</item>
-     </plurals>
-     <plurals name="timer_message_second">
+        <item quantity="few">"%1$d хв. "</item>
+        <item quantity="many">"%1$d хв. "</item>
+    </plurals>
+    <plurals name="timer_message_second">
         <item quantity="other">%1$d сек.</item>
         <item quantity="one">%1$d сек.</item>
-     </plurals>
-     <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d хв.</item>
-        <item quantity="one">%1$d хв.</item>
-     </plurals>
-     <plurals name="timer_message_with_seconds">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d сек.</item>
-     </plurals>
-     <plurals name="timers_num">
-        <item quantity="other">%d хв.</item>
-        <item quantity="one">1 хв.</item>
-     </plurals>
-	      <plurals name="sleep_duration_hour">
-        <item quantity="other">%1$s г.</item>
-        <item quantity="one">%1$s г.</item>
-     </plurals>
-     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1$s г.</item>
-        <item quantity="one">%1$s г.</item>
-     </plurals>
-     <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s хв.</item>
-        <item quantity="one">%1$s хв.</item>
-     </plurals>
-     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s хв.</item>
-        <item quantity="one">%1$s хв.</item>
-     </plurals>
+        <item quantity="few">%1$d сек.</item>
+        <item quantity="many">%1$d сек.</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s год. вперед</item>
+        <item quantity="one">%s год вперед</item>
+        <item quantity="few">%s год. вперед</item>
+        <item quantity="many">%s год. вперед</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s годин позаду</item>
+        <item quantity="one">%s год позаду</item>
+        <item quantity="few">%s годин позаду</item>
+        <item quantity="many">%s годин позаду</item>
+    </plurals>
 </resources>

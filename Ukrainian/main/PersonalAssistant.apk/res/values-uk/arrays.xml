@@ -1,26 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Тиждень 1</item>
+        <item>Тиждень 2</item>
+        <item>Тиждень 3</item>
+        <item>Тиждень %1$d</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Драйв</item>
+        <item>Громадський транспорт</item>
+        <item>Cab</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 хв</item>
+        <item>20 хв</item>
+        <item>30 хв</item>
+        <item>60 хв</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Ніч</item>
+        <item>Ніч</item>
+        <item>Ранок</item>
+        <item>Після обіду</item>
+        <item>Після обіду</item>
+        <item>Вечір</item>
+        <item>Вечір</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Ніч</item>
+        <item>Ранок</item>
+        <item>Ранок</item>
+        <item>Midday</item>
+        <item>Після обіду</item>
+        <item>Пізній день</item>
+        <item>Вечір</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Маленький</item>
+        <item>Звичайний</item>
+        <item>Великий</item>
+    </string-array>
     <string-array name="stock_color_schema">
         <item>Червоний - вгору, зелений - донизу</item>
         <item>Зелений - вверх, червоний - донизу</item>
     </string-array>
-	<string-array name="express_status_all">
-        <item>У процесі</item>
-        <item>Відправка</item>
-        <item>Доставлено</item>
-        <item>Невідомо</item>
-        <item>Отримано</item>
-        <item>Відхилено</item>
-        <item>Повернення</item>
-        <item>Невідомо</item>
-     </string-array>
-     <string-array name="express_status_detail">
-        <item>Оформлено</item>
-        <item>Відправка</item>
-     </string-array>
-     <string-array name="payment_chooser">
-        <item>Карта</item>
-        <item>WeChat</item>
-        <item>Alipay</item>
-     </string-array>
 </resources>

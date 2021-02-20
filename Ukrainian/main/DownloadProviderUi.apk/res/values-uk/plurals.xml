@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Видалити %d завантажень?</item>
+        <item quantity="one">Видалити %d завантаження?</item>
+        <item quantity="few">Видалити %d завантаження?</item>
+        <item quantity="many">Видалити %d завантажень?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Успішно видалено %s завантажень</item>
+        <item quantity="one">Видалено %s завантажень успішно</item>
+        <item quantity="few">Видалено %s завантажень успішно</item>
+        <item quantity="many">Видалено %s завантажень успішно</item>
+    </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d днів</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дні</item>
+        <item quantity="many">%1$d днів</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d годин</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d години</item>
+        <item quantity="many">%1$d годин</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d хв.</item>
+        <item quantity="one">%1$d хв.</item>
+        <item quantity="few">%1$d хв.</item>
+        <item quantity="many">%1$d хв.</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+        <item quantity="few">%1$d сек.</item>
+        <item quantity="many">%1$d сек.</item>
+    </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Видалити %d файлів?</item>
         <item quantity="one">Видалити %d файл?</item>
         <item quantity="few">Видалити %d файли?</item>
         <item quantity="many">Видалити %d файлів?</item>
     </plurals>
-	<plurals name="sniff_find_resource">
+    <plurals name="number_items">
+        <item quantity="other">%s елементів</item>
+        <item quantity="one">%s елемент</item>
+        <item quantity="few">%s елементів</item>
+        <item quantity="many">%s елементів</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
         <item quantity="other">Знайдено %d ресурсів</item>
         <item quantity="one">Знайдено %d ресурс</item>
         <item quantity="few">Знайдено %d ресурси</item>
         <item quantity="many">Знайдено %d ресурсів</item>
-     </plurals>
-     <plurals name="sniff_find_result">
+    </plurals>
+    <plurals name="sniff_find_result">
         <item quantity="other">Знайдено %d результатів</item>
         <item quantity="one">Знайдено %d результат</item>
         <item quantity="few">Знайдено %d результати</item>
         <item quantity="many">Знайдено %d результатів</item>
-     </plurals>
-	 <plurals name="confirm_delete_downloads_message">
-        <item quantity="other">Буде видалено %d завантажень</item>
-        <item quantity="one">Буде видалено %d завантаження</item>
-        <item quantity="few">Буде видалено %d завантаження</item>
-     </plurals>
-     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Видалено %1$d завантажень</item>
-        <item quantity="one">Видалено %1$d завантаження</item>
-        <item quantity="few">Видалено %1$d завантаження</item>
-     </plurals>
-     <plurals name="durationDays">
-        <item quantity="other">%1$d днів</item>
-        <item quantity="one">%1$d день</item>
-        <item quantity="few">%1$d дні</item>
-     </plurals>
-     <plurals name="durationHours">
-        <item quantity="other">%1$d годин</item>
-        <item quantity="one">%1$d година</item>
-        <item quantity="few">%1$d години</item>
-     </plurals>
-     <plurals name="selected_count">
-        <item quantity="other">Обрано %1$d з %2$d</item>
-        <item quantity="one">Обрано %1$d з %2$d</item>
-     </plurals>
-     <plurals name="show_more">
-        <item quantity="other">Показати ще %1$d</item>
-        <item quantity="one">Показати ще %1$d</item>
-     </plurals>
-	 <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Видалити %d завантажень?</item>
-        <item quantity="one">Видалити %d завантаження?</item>
-        <item quantity="few">Видалити %d завантаження?</item>
-     </plurals>
-	      <plurals name="durationMinutes">
-        <item quantity="other">%1$d хв.</item>
-        <item quantity="one">%1$d хв.</item>
-     </plurals>
-     <plurals name="durationSeconds">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d сек.</item>
-     </plurals>
+    </plurals>
 </resources>

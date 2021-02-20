@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="gadget_weather_image">
-        <item>Сонячно</item>
-        <item>Хмарно</item>
-        <item>Хмарно</item>
-        <item>Туман</item>
-        <item>Сильний дощ</item>
-        <item>Злива</item>
-        <item>Злива з ураганом</item>
-        <item>Місцями грози</item>
-        <item>Зливи</item>
-        <item>Сильний дощ</item>
-        <item>Помірний дощ</item>
-        <item>Невеликий дощ</item>
-        <item>Дощ зі снігом</item>
-        <item>Хуртовина</item>
-        <item>Зливи зі снігом</item>
-        <item>Сильний снігопад</item>
-        <item>Помірний сніг</item>
-        <item>Невеликий сніг</item>
-        <item>Сильна пильна бура</item>
-        <item>Пильна бура</item>
-        <item>Пил</item>
-        <item>Піщана бура</item>
-        <item>Град</item>
-        <item>Бруд</item>
-        <item>Смог</item>
-     </string-array>
-     <string-array name="gadget_weather_theme_type_entries">
-        <item>Стандартно</item>
-        <item>Класичний</item>
-     </string-array>
-     <string-array name="transformation_entries">
-        <item>Стандарт</item>
-        <item>Згасання</item>
-        <item>Поворот</item>
-        <item>Гортання</item>
-        <item>Каскад</item>
-        <item>Обертання</item>
-        <item>3D куб</item>
-     </string-array>
-     <string-array name="wallpaper_scroll_entries">
-        <item>Увімкнена</item>
-        <item>Вимкнена (шпалери по центру)</item>
-        <item>Вимкнена (шпалери зліва)</item>
-        <item>Вимкнена (шпалери справа)</item>
-     </string-array>
-<string-array name="quality_business_devices">
-        <item>Літій</item>
-     </string-array>
-	 <string-array name="editing_mode_entries">
-        <item>Шпалери</item>
-        <item>Віджети</item>
-        <item>Налаштування</item>
-     </string-array>
+  <string-array name="editing_mode_entries">
+    <item>Шпалери</item>
+    <item>Віджети</item>
+    <item>Налаштування</item>
+  </string-array>
+  <string-array name="gadget_weather_image">
+    <item>Сонячно</item>
+    <item>Хмарно</item>
+    <item>Хмарно</item>
+    <item>Туман</item>
+    <item>Сильний дощ</item>
+    <item>Злива</item>
+    <item>Злива з ураганом</item>
+    <item>Місцями грози</item>
+    <item>Зливи</item>
+    <item>Сильний дощ</item>
+    <item>Помірний дощ</item>
+    <item>Невеликий дощ</item>
+    <item>Дощ зі снігом</item>
+    <item>Хуртовина</item>
+    <item>Зливи зі снігом</item>
+    <item>Сильний снігопад</item>
+    <item>Помірний сніг</item>
+    <item>Невеликий сніг</item>
+    <item>Сильна пильна бура</item>
+    <item>Пильна бура</item>
+    <item>Пил</item>
+    <item>Піщана бура</item>
+    <item>Град</item>
+    <item>Бруд</item>
+    <item>Смог</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+    <item>Стандартно</item>
+    <item>Класичний</item>
+  </string-array>
+  <string-array name="quality_business_devices">
+    <item>Літій</item>
+  </string-array>
+  <string-array name="transformation_entries">
+    <item>Стандарт</item>
+    <item>Згасання</item>
+    <item>Поворот</item>
+    <item>Гортання</item>
+    <item>Каскад</item>
+    <item>Обертання</item>
+    <item>3D куб</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+    <item>Увімкнена</item>
+    <item>Вимкнена (шпалери по центру)</item>
+    <item>Вимкнена (шпалери зліва)</item>
+    <item>Вимкнена (шпалери справа)</item>
+  </string-array>
 </resources>

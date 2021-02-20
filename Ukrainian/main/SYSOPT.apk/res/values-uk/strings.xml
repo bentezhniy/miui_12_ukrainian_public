@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">SysoptApplication</string>
-    <string name="hello_world">Привіт, світ!</string>
-    <string name="action_settings">Налаштування</string>
-    <string name="google_base_app_install_choice">Інсталювати Google Service Framework для нормальної роботи \"%s\"?</string>
-</resources>

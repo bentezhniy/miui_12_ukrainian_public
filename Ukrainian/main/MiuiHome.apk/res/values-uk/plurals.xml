@@ -1,63 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="announce_for_drag">
+    <plurals name="announce_for_drag">
         <item quantity="other">переміщення %1$d елементів</item>
         <item quantity="one">переміщення %1$d елемента</item>
-     </plurals>
-     <plurals name="announce_for_unread">
-        <item quantity="other">%2$s непрочитано з %1$s</item>
+        <item quantity="few">переміщення %1$d елементів</item>
+        <item quantity="many">переміщення %1$d елементів</item>
+    </plurals>
+    <plurals name="announce_for_unread">
         <item quantity="one">%2$s непрочитано з %1$s</item>
         <item quantity="few">%2$s непрочитано з %1$s</item>
         <item quantity="many">%2$s непрочитано з %1$s</item>
-     </plurals>
-     <plurals name="delete_wallpapers_message">
+        <item quantity="other">%2$s непрочитано з %1$s</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
         <item quantity="other">Видалити %1$d зображень?</item>
         <item quantity="one">Видалити %1$d зображення?</item>
         <item quantity="few">Видалити %1$d зображення?</item>
-     </plurals>
-     <plurals name="editing_mode_title">
+        <item quantity="many">Видалити %1$d зображень?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
         <item quantity="other">Обрано: %1$d</item>
-        <item quantity="zero">Обрано: %1$d</item>
         <item quantity="one">Обрано: %1$d</item>
-        <item quantity="two">Обрано: %1$d</item>
         <item quantity="few">Обрано: %1$d</item>
         <item quantity="many">Обрано: %1$d</item>
-     </plurals>
-     <plurals name="scroll_tip_format_when_announce_accessibility">
+    </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Видалити %1$d додатків з головного екрану?</item>
+        <item quantity="one">Видалити %1$d програму з головного екрану?</item>
+        <item quantity="few">Видалити %1$d додатків з головного екрану?</item>
+        <item quantity="many">Видалити %1$d додатків з головного екрану?</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Сторінка %1$d, %2$d програм</item>
         <item quantity="one">Сторінка %1$d, %2$d програму</item>
         <item quantity="few">Сторінка %1$d, %2$d програми</item>
-     </plurals>
-     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Деінсталювати програму \"%1$s\" і ще %2$d?</item>
-        <item quantity="one">Деінсталювати програму \"%s\"?</item>
-     </plurals>
-     <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="many">Сторінка %1$d, %2$d програм</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Деінсталювати %1$d програм?</item>
         <item quantity="one">Деінсталювати %1$d програму?</item>
         <item quantity="few">Деінсталювати %1$d програми?</item>
-     </plurals>
-     <plurals name="uninstall_result_failed">
-        <item quantity="other">Не вдалося деінсталювати програм: %2$d</item>
-        <item quantity="one">Не вдалося деінсталювати програму \"%s\"</item>
-        <item quantity="two">Не вдалося деінсталювати програми \"%s\" і 1 інше</item>
-     </plurals>
-     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">Неможливо деінсталювати %1$d програм</item>
-        <item quantity="one">Неможливо деінсталювати %1$d програму</item>
-        <item quantity="few">Неможливо деінсталювати %1$d програми</item>
-     </plurals>
-     <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="many">Деінсталювати %1$d програм?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">"Неможливо деінсталювати %1$d програм"</item>
+        <item quantity="one">"Неможливо деінсталювати %1$d програму"</item>
+        <item quantity="few">"Неможливо деінсталювати %1$d програми"</item>
+        <item quantity="many">"Неможливо деінсталювати %1$d програм"</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">Денінстальовано %1$d програм</item>
         <item quantity="one">Денінстальовано %1$d програму</item>
         <item quantity="few">Денінстальовано %1$d програми</item>
-     </plurals>
-     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">Програм деінстальовано: %1$d</item>
-        <item quantity="zero">Програм деінстальовано: %1$d</item>
-        <item quantity="one">Програму деінстальовано</item>
-        <item quantity="two">Програм деінстальовано: %1$d</item>
-        <item quantity="many">Програм деінстальовано: %1$d</item>
-     </plurals>
+        <item quantity="many">Денінстальовано %1$d програм</item>
+    </plurals>
 </resources>

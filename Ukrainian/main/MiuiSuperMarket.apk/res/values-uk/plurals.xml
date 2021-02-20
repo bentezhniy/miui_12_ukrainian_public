@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<plurals name="delete_download_history_confirm">
-        <item quantity="other">Видалити %1$s завантажень?</item>
-        <item quantity="one">Видалити %1$s завантаження?</item>
-        <item quantity="few">Видалити %1$s завантаження?</item>
-        <item quantity="many">Видалити %1$s завантажень?</item>
-     </plurals>
-</resources>

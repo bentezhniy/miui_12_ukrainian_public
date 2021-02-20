@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
+    <string-array name="account_user_gender_name">
+        <item>Чоловік</item>
+        <item>Жінка</item>
+    </string-array>
+    <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
-		<item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
-		<item>Є</item>
         <item>Ж</item>
         <item>З</item>
-        <item>І</item>
-		<item>Ї</item>
+        <item>И</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -29,8 +29,7 @@
         <item>Ц</item>
         <item>Ч</item>
         <item>Ш</item>
-        <item>Щ</item>
-        <item>Ь</item>
+        <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
     </string-array>

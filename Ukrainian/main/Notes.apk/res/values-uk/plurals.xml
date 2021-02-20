@@ -1,81 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="date_calculate_days_after">
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d хв</item>
+        <item quantity="one">за 1 хв</item>
+        <item quantity="few">за %d хв</item>
+        <item quantity="many">за %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хв. тому</item>
+        <item quantity="many">%d хв. тому</item>
+    </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Видалити %1$s елементів?</item>
+        <item quantity="one">Видалити %1$s елемент?</item>
+        <item quantity="few">Видалити %1$s елементів?</item>
+        <item quantity="many">Видалити %1$s елементів?</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s не синхронізовано"</item>
+        <item quantity="one">"%1$s не синхронізована"</item>
+        <item quantity="few">"%1$s не синхронізовані"</item>
+        <item quantity="many">"%1$s не синхронізовано"</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
         <item quantity="other">Через %1$d днів</item>
         <item quantity="one">Через %1$d день</item>
         <item quantity="few">Через %1$d дні</item>
-     </plurals>
-     <plurals name="date_calculate_days_ago">
+        <item quantity="many">Через %1$d днів</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
         <item quantity="other">%1$d днів тому</item>
         <item quantity="one">%1$d день тому</item>
         <item quantity="few">%1$d дні тому</item>
-     </plurals>
-     <plurals name="todo_N_days_after">
-        <item quantity="other">Через %1$d днів</item>
-        <item quantity="one">Через %1$d день</item>
-        <item quantity="few">Через %1$d дні</item>
-     </plurals>
-     <plurals name="todo_N_days_ago">
-        <item quantity="other">%1$d днів тому</item>
-        <item quantity="one">%1$d день тому</item>
-        <item quantity="few">%1$d дні тому</item>
-     </plurals>
-     <plurals name="todo_alert_message_delete">
-        <item quantity="other">Видалити %1$s завдань?</item>
-        <item quantity="one">Видалити %1$s завдання?</item>
-        <item quantity="few">Видалити %1$s завдання?</item>
-     </plurals>
-     <plurals name="todo_event_description_days_ago">
-        <item quantity="other">%1$d дней тому</item>
-        <item quantity="one">%1$d день тому</item>
-        <item quantity="few">%1$d дня тому</item>
-     </plurals>
-     <plurals name="todo_event_description_days_later">
-        <item quantity="other">Через %1$d днів</item>
-        <item quantity="one">Через %1$d день</item>
-        <item quantity="few">Через %1$d дні</item>
-     </plurals>
-     <plurals name="todo_terms">
-        <item quantity="other">%1$s завдань</item>
-        <item quantity="one">%1$s завдання</item>
-        <item quantity="few">%1$s завдання</item>
-     </plurals>
-    <plurals name="search_results_title">
-        <item quantity="other">Пошук \"%2$s\" (знайдено: %1$s)</item>
-        <item quantity="one">Пошук \"%2$s\" (знайдено: %1$s)</item>
+        <item quantity="many">%1$d днів тому</item>
     </plurals>
-	<plurals name="note_count_in_folder">
-        <item quantity="other">%1$s нотаток</item>
-        <item quantity="one">%1$s нотатка</item>
-		<item quantity="few">%1$s нотатки</item>
-		<item quantity="many">%1$s нотаток</item>
-    </plurals>
-    	<plurals name="folder_terms">
+    <plurals name="folder_terms">
         <item quantity="other">%1$s папок</item>
         <item quantity="one">%1$s папка</item>
-		<item quantity="few">%1$s папки</item>
-		<item quantity="many">%1$s папок</item>
-     </plurals>
-     <plurals name="note_terms">
+        <item quantity="few">%1$s папки</item>
+        <item quantity="many">%1$s папок</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Видалено %1$s приміток з папки</item>
+        <item quantity="one">Видалено %1$s нотаток з папки</item>
+        <item quantity="few">Видалено %1$s приміток з папки</item>
+        <item quantity="many">Видалено %1$s приміток з папки</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Переміщено %1$s приміток до %2$s</item>
+        <item quantity="one">Переміщено %1$s примітку до %2$s</item>
+        <item quantity="few">Переміщено %1$s приміток до %2$s</item>
+        <item quantity="many">Переміщено %1$s приміток до %2$s</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хвилин</item>
+        <item quantity="one">протягом 1 хвилини</item>
+        <item quantity="few">через %d хвилин</item>
+        <item quantity="many">через %d хвилин</item>
+    </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s елементів</item>
+        <item quantity="one">%1$s елемент</item>
+        <item quantity="few">%1$s елементів</item>
+        <item quantity="many">%1$s елементів</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="note_terms">
         <item quantity="other">%1$s нотаток</item>
         <item quantity="one">%1$s нотатка</item>
-		<item quantity="few">%1$s нотатки</item>
-		<item quantity="many">%1$s нотаток</item>
-     </plurals>
-	 <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s не синхронізовано</item>
-        <item quantity="one">%1$s не синхронізована</item>
-		<item quantity="few">%1$s не синхронізовані</item>
-		<item quantity="many">%1$s не синхронізовано</item>
-     </plurals>
-	 <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="few">%1$s нотатки</item>
+        <item quantity="many">%1$s нотаток</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хвилин тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Знайдено %1$s нотаток</item>
+        <item quantity="one">Знайдено %1$s нотатку</item>
+        <item quantity="few">Знайдено %1$s нотаток</item>
+        <item quantity="many">Знайдено %1$s нотаток</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Знайдено %1$s завдань</item>
+        <item quantity="one">Знайдено %1$s завдання</item>
+        <item quantity="few">Знайдено %1$s завдань</item>
+        <item quantity="many">Знайдено %1$s завдань</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Залишилось %d секунд</item>
         <item quantity="one">Залишилось %d секунда</item>
         <item quantity="few">Залишилось %d секунди</item>
-     </plurals>
-     <plurals name="word_count">
+        <item quantity="many">Залишилось %d секунд</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Приміщення %1$s приміток успішно</item>
+        <item quantity="one">Приміщення %1$s примітка успішно</item>
+        <item quantity="few">Приміщення %1$s приміток успішно</item>
+        <item quantity="many">Приміщення %1$s приміток успішно</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Видалено %1$s примітки</item>
+        <item quantity="one">Видалено %1$s примітку</item>
+        <item quantity="few">Видалено %1$s примітки</item>
+        <item quantity="many">Видалено %1$s примітки</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+        <item quantity="many">Через %1$d днів</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Видалити %1$s завдань?</item>
+        <item quantity="one">Видалити %1$s завдання?</item>
+        <item quantity="few">Видалити %1$s завдання?</item>
+        <item quantity="many">Видалити %1$s завдань?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d дней тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дня тому</item>
+        <item quantity="many">%1$d дней тому</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Через %1$d днів</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дні</item>
+        <item quantity="many">Через %1$d днів</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s завдань</item>
+        <item quantity="one">%1$s завдання</item>
+        <item quantity="few">%1$s завдання</item>
+        <item quantity="many">%1$s завдань</item>
+    </plurals>
+    <plurals name="word_count">
         <item quantity="other">%s символів</item>
         <item quantity="one">%s символ</item>
         <item quantity="few">%s символи</item>
-     </plurals>
+        <item quantity="many">%s символів</item>
+    </plurals>
 </resources>

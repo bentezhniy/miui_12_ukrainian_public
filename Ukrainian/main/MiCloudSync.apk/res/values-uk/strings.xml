@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string name="micloud_downloading_clipboard_message_from_web">Надсилання тексту до буфера обміну</string>
+    <string name="error_data_in_transfer">Синхронізація завершиться через %s годин.</string>
+    <string name="error_forbidden">Синхронізацію було вимкнено через проблеми з вашим Mi аккаунтом.</string>
+    <string name="error_not_acceptable">Синхронізацію було вимкнено.</string>
+    <string name="error_title">"Не вдалося синхронізувати"</string>
+    <string name="error_unauthorized">Синхронізацію було вимкнено через занадто багато спроб входу.</string>
+    <string name="micloud_downloading_clipboard_message_from_web">Надсилання тексту до буфера обміну</string>
+    <string name="micloud_send_message_desc">Надіслати Mi повідомлення</string>
 </resources>

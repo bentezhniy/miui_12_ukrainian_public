@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Анімація вимкнена</item>
+        <item>Масштаб анімації 0,5x</item>
+        <item>Масштаб анімації 1x</item>
+        <item>Масштаб анімації 1.5x</item>
+        <item>Масштаб анімації 2х</item>
+        <item>Масштаб анімації 5x</item>
+        <item>Масштаб анімації 10х</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартна межа</item>
+        <item>Немає фонових процесів</item>
+        <item>Не більше 1 процесу</item>
+        <item>Не більше 2 процесів</item>
+        <item>Не більше 3-ох процесів</item>
+        <item>Не більше 4 процессів</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>16 біт/зразок</item>
+        <item>24 біт/зразок</item>
+        <item>32 біт/зразок</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>16 біт/зразок</item>
+        <item>24 біт/зразок</item>
+        <item>32 біт/зразок</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>Моно</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>Моно</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Оптимізовано для якості звуку</item>
+        <item>Збалансована аудіо і якість з\'єднання</item>
+        <item>Оптимізовано для якості з\'єднання</item>
+        <item>Найкраща швидкість (адаптивна оцінка)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Оптимізовано для якість звуку (990Кб/909Кб)</item>
+        <item>Збалансована якість звуку і з\'єднання (660 Кб/606Кб)</item>
+        <item>Оптимізовано для якості з\'єднання (330Кб/30Кб)</item>
+        <item>Найкраща швидкість (адаптивна оцінка)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Використовувати системний вибір (за замовчуванням)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, активний</item>
+        <item>, активний (медіа)</item>
+        <item>, активний (телефон)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (За замовчуванням)</item>
+        <item>МАП 1.3</item>
+        <item>МАП 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Вимкнено</item>
+        <item>Увімкнено відфільтрований</item>
+        <item>Увімкнено</item>
+        <item>Увімкнути відфільтровані заголовки</item>
+        <item>Відфільтрований файли для медіа</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Покращені кольори</item>
+        <item>Природні кольори</item>
+        <item>Кольори для цифрового вмісту</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Насичений (за замовчуванням)</item>
+        <item>Натуральний</item>
+        <item>Стандартна</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Вимкнено</item>
+        <item>Показувати області накладання</item>
+        <item>Показувати області дейтераномалії</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Без ефекту</item>
+        <item>Logcat</item>
+        <item>Systrace (графіка)</item>
+        <item>Стек викликів glGetError</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Ніколи не перевіряти HDCP</item>
+        <item>Використовувати перевірку HDCP лише для вмісту, захищеного DRM</item>
+        <item>Завжди використовувати перевірку HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Не перевіряти</item>
+        <item>Перевір. лише на вміст, захищ. DRM</item>
+        <item>Завжди перевіряти</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Без ефекту</item>
+        <item>480р</item>
+        <item>480p (захист)</item>
+        <item>720р</item>
+        <item>720p (захист)</item>
+        <item>1080р</item>
+        <item>1080p (захист)</item>
+        <item>4K</item>
+        <item>4K (захист)</item>
+        <item>4K (масштабування)</item>
+        <item>4K (масштабування, захист)</item>
+        <item>720p, 1080p (два екрани)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Вимкнено</item>
+        <item>64 Кб</item>
+        <item>256К</item>
+        <item>1 Мб</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Вимкнено</item>
+        <item>Буфер журналу: 64 Кб</item>
+        <item>Буфер журналу: 256 Кб</item>
+        <item>Буфер журналу: 1 Мб</item>
+        <item>Буфер журналу: 4 Мб</item>
+        <item>Буфер журналу: 16 Мб</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Вимкнено</item>
+        <item>64 Кб</item>
+        <item>256К</item>
+        <item>1 Мб</item>
+        <item>4 Мб</item>
+        <item>16 Мб</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Вимкнено</item>
+        <item>Буфери всіх журналів</item>
+        <item>Буфери всіх журналів, крім радіо</item>
+        <item>лише буфер журналу ядра</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Вимкнено</item>
+        <item>Всі</item>
+        <item>Усі, крім радіо</item>
+        <item>лише ядро</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Вимкнено</item>
+        <item>Непрямокутне обрізання синім</item>
+        <item>Тест. команди малювання зеленим</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Вимкнено</item>
+        <item>На екрані у вигляді смужок</item>
+        <item>У adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Анімація вимкнена</item>
+        <item>Масштаб анімації 0,5x</item>
+        <item>Масштаб анімації 1x</item>
+        <item>Масштаб анімації 1.5x</item>
+        <item>Масштаб анімації 2х</item>
+        <item>Масштаб анімації 5x</item>
+        <item>Масштаб анімації 10х</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Дуже повільно</item>
+        <item>Повільне</item>
+        <item>Нормальний</item>
+        <item>Швидко</item>
+        <item>Швидше</item>
+        <item>Дуже швидко</item>
+        <item>Рапід</item>
+        <item>Украй швидко</item>
+        <item>Найшвидше</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Заряджання</item>
+        <item>MTP (протокол передавання медіаданих)</item>
+        <item>PTP (протокол передавання зображень)</item>
+        <item>RNDIS (Ethernet)</item>
+        <item>Джерело аудіо</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканування…</item>
+        <item>З\'єднання…</item>
+        <item>Аутентифікація…</item>
+        <item>Отримання IP адреси…</item>
+        <item>Підключено</item>
+        <item>Призупинено</item>
+        <item>Відключення…</item>
+        <item>Від’єднано</item>
+        <item>Невдало</item>
+        <item>Заблоковано</item>
+        <item>Уникати слабкі з\'єднання</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканування…</item>
+        <item>Підключення до %1$s…</item>
+        <item>Перевірка автентичності з %1$s…</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>З\'єднано з %1$s</item>
+        <item>Призупинено</item>
+        <item>Від\'єднатися від %1$s…</item>
+        <item>Від’єднано</item>
+        <item>Невдало</item>
+        <item>Заблоковано</item>
+        <item>Уникати слабкі з\'єднання</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Анімація вимкнена</item>
+        <item>Масштаб анімації 0,5x</item>
+        <item>Масштаб анімації 1x</item>
+        <item>Масштаб анімації 1.5x</item>
+        <item>Масштаб анімації 2х</item>
+        <item>Масштаб анімації 5x</item>
+        <item>Масштаб анімації 10х</item>
+    </string-array>
+</resources>

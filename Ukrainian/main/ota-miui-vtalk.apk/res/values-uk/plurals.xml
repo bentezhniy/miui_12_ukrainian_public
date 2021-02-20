@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="hint_search_contacts">
-        <item quantity="other">Знайдено %d контактів</item>
-		<item quantity="one">Знайдено %d контакт</item>
-		<item quantity="few">Знайдено %d контакти</item>
-		<item quantity="many">Знайдено %d контактів</item>
-    </plurals>
-</resources>

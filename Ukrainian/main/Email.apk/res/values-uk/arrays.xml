@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="prefEntries_contact_add">
-        <item>Усі</item>
-        <item>Тільки отримувачі</item>
-     </string-array>
-     <string-array name="alphabet_chars">
+    <string-array name="all_month_str">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Кві</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="alphabet_chars">
         <item>☆</item>
         <item>А</item>
         <item>Б</item>
@@ -26,6 +35,30 @@
         <item>М</item>
         <item>Н</item>
         <item>О</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
         <item>П</item>
         <item>Р</item>
         <item>С</item>
@@ -37,78 +70,50 @@
         <item>Ч</item>
         <item>Ш</item>
         <item>Щ</item>
+        <item>Э</item>
         <item>Ю</item>
-        <item>Я</item>
-        <item>\#</item>
-        <item>∅</item>
-     </string-array>
-	 <string-array name="all_month_str">
-        <item>Січ</item>
-        <item>Лют</item>
-        <item>Бер</item>
-        <item>Кві</item>
-        <item>Тра</item>
-        <item>Чер</item>
-        <item>Лип</item>
-        <item>Сер</item>
-        <item>Вер</item>
-        <item>Жов</item>
-        <item>Лис</item>
-        <item>Гру</item>
-     </string-array>
-     <string-array name="calendar_remind_string_array">
+    </string-array>
+    <string-array name="calendar_remind_string_array">
         <item>Сьогодні вночі</item>
         <item>Завтра</item>
         <item>На вихідних</item>
         <item>Наступного тижня</item>
         <item>Наступного місяця</item>
         <item>Обрати дату</item>
-     </string-array>
-     <string-array name="compose_modes">
-        <item>Відповісти</item>
-        <item>Відповісти всім</item>
-        <item>Переслати</item>
-     </string-array>
-     <string-array name="general_preference_text_zoom_summary_array">
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
         <item>Дрібний</item>
         <item>Нормальний</item>
         <item>Середній</item>
         <item>Великий</item>
         <item>Величезний</item>
-     </string-array>
-     <string-array name="menu_att_mgr_sort_string_array">
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>рахунок</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
         <item>Стандартно</item>
         <item>Формат</item>
-        <item>"Ім'я"</item>
+        <item>Ім\'я</item>
         <item>Відправник</item>
         <item>Дата</item>
-     </string-array>
-     <string-array name="moveto_folder_sections">
+    </string-array>
+    <string-array name="moveto_folder_sections">
         <item>Система</item>
         <item>Нещодавні</item>
         <item>Всі теки</item>
-     </string-array>
-     <string-array name="prefEntries_autoAdvance">
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
         <item>Перейти до нового повідомлення</item>
         <item>Перейти до старого повідомлення</item>
         <item>Перейти до списку діалогів</item>
-     </string-array>
-     <string-array name="prefEntries_removal_action">
-        <item>Показувати архіви</item>
-        <item>Показувати видалені</item>
-        <item>Показувати архіви й видалені</item>
-     </string-array>
-     <string-array name="prefSummaries_autoAdvance">
-        <item>Показувати нове повідомлення після видалення</item>
-        <item>Показувати старе повідомлення після видалення</item>
-        <item>Показувати список діалогів після видалення</item>
-     </string-array>
-     <string-array name="prefSummaries_removal_action_summary">
-        <item>Показувати архіви</item>
-        <item>Показувати видалені</item>
-        <item>Показувати архіви й видалені</item>
-     </string-array>
-     <string-array name="signature_normal_string_array">
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Усі</item>
+        <item>Тільки отримувачі</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
         <item>Блог:</item>
         <item>Сайт:</item>
         <item>Email:</item>
@@ -124,18 +129,18 @@
         <item>Пошта:</item>
         <item>QQ:</item>
         <item>MSN:</item>
-     </string-array>
-     <string-array name="signature_normal_string_array_next">
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
         <item>Адреса:</item>
         <item>Телефон:</item>
-        <item>"Ім'я:"</item>
+        <item>Ім\'я:</item>
         <item>Email:</item>
         <item>Мобільний:</item>
         <item>WeChat:</item>
         <item>Факс:</item>
         <item>Поштовий індекс:</item>
-     </string-array>
-     <string-array name="signature_special_string_array">
+    </string-array>
+    <string-array name="signature_special_string_array">
         <item>Відмова від відповідальності:</item>
         <item>Відмова від відповідальності Email</item>
         <item>Надіслано через WPSMail</item>
@@ -143,8 +148,8 @@
         <item>Надіслано з</item>
         <item>Дякую,</item>
         <item>З повагою</item>
-     </string-array>
-     <string-array name="signature_special_string_array_next">
+    </string-array>
+    <string-array name="signature_special_string_array_next">
         <item>Дякую,</item>
         <item>З повагою</item>
         <item>Надіслано з мого</item>
@@ -155,13 +160,5 @@
         <item>Цей Email</item>
         <item>Відмова від відповідальності</item>
         <item>Відмова від відповідальності Email</item>
-     </string-array>
-     <string-array name="sync_status">
-        <item>Готово</item>
-        <item>"Немає з'єднання"</item>
-        <item>Неможливо авторизуватися</item>
-        <item>Помилка безпеки</item>
-        <item>Неможливо синхронізувати</item>
-        <item>Помилка серверу</item>
-     </string-array>
+    </string-array>
 </resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Натисніть і утримуйте кнопку на полі протягом %1$d секунд</item>
+        <item quantity="one">Натисніть і утримуйте кнопку на полі протягом %1$d секунд</item>
+        <item quantity="few">Натисніть і утримуйте кнопку на полі протягом %1$d секунд</item>
+        <item quantity="many">Натисніть і утримуйте кнопку на полі протягом %1$d секунд</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Натисніть і утримуйте будь-яку чутливу область на навушниках за %1$d секунд</item>
+        <item quantity="one">Натисніть і утримуйте будь-яку чутливу область на навушниках за %1$d секунду</item>
+        <item quantity="few">Натисніть і утримуйте будь-яку чутливу область на навушниках за %1$d секунд</item>
+        <item quantity="many">Натисніть і утримуйте будь-яку чутливу область на навушниках за %1$d секунд</item>
+    </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Натисніть і утримуйте для скидання на %1$d сек</item>
+        <item quantity="one">Натисніть і утримуйте для %1$d сек, щоб скинути</item>
+        <item quantity="few">Натисніть і утримуйте для скидання на %1$d сек</item>
+        <item quantity="many">Натисніть і утримуйте для скидання на %1$d сек</item>
+    </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Натисніть і утримуйте кнопку протягом %1$s секунд коли пристрій вимкнено</item>
+        <item quantity="one">Натисніть і утримуйте кнопку протягом %1$s сек, коли пристрій вимкнено</item>
+        <item quantity="few">Натисніть і утримуйте кнопку протягом %1$s секунд коли пристрій вимкнено</item>
+        <item quantity="many">Натисніть і утримуйте кнопку протягом %1$s секунд коли пристрій вимкнено</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d пристрій підключено</item>
+        <item quantity="one">%1$d пристрій підключено</item>
+        <item quantity="few">%1$d пристрій підключено</item>
+        <item quantity="many">%1$d пристрій підключено</item>
+    </plurals>
+</resources>

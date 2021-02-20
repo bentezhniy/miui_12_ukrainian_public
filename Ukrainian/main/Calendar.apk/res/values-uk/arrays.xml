@@ -8,63 +8,63 @@
     <item>Кожні 12 годин</item>
   </string-array>
   <string-array name="alphabet_table">
-    <item>Ля</item>
-    <item>Сі</item>
-    <item>До</item>
-    <item>Ре</item>
-    <item>Мі</item>
-    <item>Фа</item>
-    <item>Соль</item>
-    <item>Н</item>
-    <item>Я</item>
-    <item>Джей</item>
-    <item>Кб</item>
-    <item>Лу</item>
-    <item>М-ль</item>
+    <item>А</item>
+    <item>Б</item>
+    <item>В</item>
+    <item>Г</item>
+    <item>Д</item>
+    <item>Е</item>
+    <item>Ж</item>
+    <item>З</item>
+    <item>И</item>
+    <item>К</item>
+    <item>Л</item>
+    <item>М</item>
     <item>Н</item>
     <item>О</item>
-    <item>Пн</item>
-    <item>Q</item>
+    <item>П</item>
     <item>Р</item>
-    <item>Пд</item>
+    <item>С</item>
     <item>Т</item>
     <item>У</item>
-    <item>V</item>
-    <item>Пт</item>
-    <item>Ікс</item>
-    <item>РР</item>
-    <item>Дзета</item>
-    <item>\#</item>
+    <item>Ф</item>
+    <item>Х</item>
+    <item>Ц</item>
+    <item>Ч</item>
+    <item>Ш</item>
+    <item>Э</item>
+    <item>Ю</item>
+    <item>Я</item>
   </string-array>
   <string-array name="alphabet_table_with_starred">
-    <item>!</item>
-    <item>Ля</item>
-    <item>Сі</item>
-    <item>До</item>
-    <item>Ре</item>
-    <item>Мі</item>
-    <item>Фа</item>
-    <item>Соль</item>
-    <item>Н</item>
-    <item>Я</item>
-    <item>Джей</item>
-    <item>Кб</item>
-    <item>Лу</item>
-    <item>М-ль</item>
+    <item>А</item>
+    <item>Б</item>
+    <item>В</item>
+    <item>Г</item>
+    <item>Д</item>
+    <item>Е</item>
+    <item>Ж</item>
+    <item>З</item>
+    <item>И</item>
+    <item>К</item>
+    <item>Л</item>
+    <item>М</item>
     <item>Н</item>
     <item>О</item>
-    <item>Пн</item>
-    <item>Q</item>
+    <item>П</item>
     <item>Р</item>
-    <item>Пд</item>
+    <item>С</item>
     <item>Т</item>
     <item>У</item>
-    <item>V</item>
-    <item>Пт</item>
-    <item>Ікс</item>
-    <item>РР</item>
-    <item>Дзета</item>
-    <item>\#</item>
+    <item>Ф</item>
+    <item>Х</item>
+    <item>Ц</item>
+    <item>Ч</item>
+    <item>Ш</item>
+    <item>Щ</item>
+    <item>Э</item>
+    <item>Ю</item>
+    <item>Я</item>
   </string-array>
   <string-array name="aqi_level_simple_desc">
     <item>Відмінне</item>
