@@ -904,7 +904,6 @@
     <string name="lastTestResult">Результат останнього тесту:</string>
     <string name="last_time_test_result">РЕЗУЛЬТАТИ ОСТАННЬОГО ТЕСТУ</string>
     <string name="launcher_d5x_sar_summary">Вихідні дані кожного каналу датчика SAR відображаються нижче. Поверніть телефон для калібрування Sar, натисніть \"Почати калібрування\".</string>
-    <string name="launcher_new_full">Повний тест обладнання</string>
     <string name="launcher_new_partial">Частковий тест обладнання</string>
     <string name="lcminfo">Інформація LCM</string>
     <string name="led_tip_txt">Наступні елементи будуть випадковим чином включені. Виберіть поточний статус світла.</string>

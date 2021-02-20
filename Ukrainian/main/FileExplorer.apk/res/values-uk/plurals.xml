@@ -109,10 +109,10 @@
         <item quantity="many"> %1$d файлів</item>
     </plurals>
     <plurals name="follow_count">
-        <item quantity="other">%1$s підписників</item>
-        <item quantity="one">%1$s підписник</item>
-        <item quantity="few">%1$s підписники</item>
-        <item quantity="many">%1$s підписників</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписники</item>
+        <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписник</item>
+        <item quantity="few">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписник</item>
+        <item quantity="many">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписник</item>
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Знайдено нових файлів: %1$d</item>
@@ -241,10 +241,10 @@
         <item quantity="many">та зробили %1$s користувачів щасливими!</item>
     </plurals>
     <plurals name="remote_video_update">
-        <item quantity="other">Знайдено %1$d нових відео</item>
-        <item quantity="one">Знайдено %1$d нове відео</item>
-        <item quantity="few">Знайдено %1$d нових відео</item>
-        <item quantity="many">Знайдено %1$d нових відео</item>
+        <item quantity="other">Знайдено %1$s нових відео</item>
+        <item quantity="one">Знайдено %1$s нового відео</item>
+        <item quantity="few">Знайдено %1$s нового відео</item>
+        <item quantity="many">Знайдено %1$s нового відео</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Пошук в програмах за запитом \"%1$s\" (елементів: %2$d)</item>
@@ -295,10 +295,10 @@
         <item quantity="many"> завантажень</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s відео</item>
-        <item quantity="one">%1$s відео</item>
-        <item quantity="few">%1$s відео</item>
-        <item quantity="many">%1$s відео</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; відео</item>
+        <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; відео</item>
+        <item quantity="few">&lt;font color=#fc7050&gt;%d&lt;/font&gt; відео</item>
+        <item quantity="many">&lt;font color=#fc7050&gt;%d&lt;/font&gt; відео</item>
     </plurals>
     <plurals name="video_items">
         <item quantity="other"> %1$d відео</item>

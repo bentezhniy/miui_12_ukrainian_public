@@ -620,7 +620,7 @@
     <string name="stay_awake_title">Не вимикати екран</string>
     <string name="stop_server">Зупинити</string>
     <string name="storage_cloned_app">Пам\'ять клонованих програм</string>
-    <string name="storage_info_detail">Вільно: %1$s | Всього: %1$s</string>
+    <string name="storage_info_detail">Доступно: %1$s Всього: %2$s</string>
     <string name="storage_internal">Внутрішня пам\'ять</string>
     <string name="storage_maintenance_mode">Склад для режиму обслуговування</string>
     <string name="storage_sd_card">SD карта</string>

@@ -223,10 +223,10 @@
         <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Колажі можуть містити 1-%d фото</item>
-        <item quantity="one">Колажі можуть містити 1-%d фото</item>
-        <item quantity="few">Колажі можуть містити 1-%d фото</item>
-        <item quantity="many">Колажі можуть містити 1-%d фото</item>
+        <item quantity="other">Колапи можуть містити %1$d-%2$d фотографій</item>
+        <item quantity="one">Колапи можуть містити %1$d-%2$d фото</item>
+        <item quantity="few">Колапи можуть містити %1$d-%2$d фото</item>
+        <item quantity="many">Колапи можуть містити %1$d-%2$d фото</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Оберіть до %d фото</item>
@@ -511,10 +511,10 @@
         <item quantity="many">"%d фото немає на пристрої"</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Знайдено %1$d нових фото</item>
-        <item quantity="one">Знайдено нове фото</item>
-        <item quantity="few">Знайдено %1$d нових фото</item>
-        <item quantity="many">Знайдено %1$d нових фото</item>
+        <item quantity="other">Знайдено %1$d нових фотографій</item>
+        <item quantity="one">Знайдено %1$d нове фото</item>
+        <item quantity="few">Знайдено %1$d нове фото</item>
+        <item quantity="many">Знайдено %1$d нове фото</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">%d фото</item>

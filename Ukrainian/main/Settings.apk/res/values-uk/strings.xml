@@ -607,8 +607,8 @@
     <string name="app_permission_summary_allowed">Дозволено</string>
     <string name="app_permission_summary_not_allowed">Заборонено</string>
     <string name="app_permissions">Дозволи додатків</string>
-    <string name="app_permissions_summary">%d з %d програм дозволено додатковий доступ</string>
-    <string name="app_permissions_summary_more">Додатки, які використовують %1$sі багато іншого</string>
+    <string name="app_permissions_summary">Додатки, які використовують %1$s</string>
+    <string name="app_permissions_summary_more">Додатки, які використовують %1$s і багато іншого</string>
     <string name="app_process_limit_title">Ліміт фонових процесів</string>
     <string name="app_restrictions_custom_label">Налаштувати обмеження</string>
     <string name="app_sees_restricted_accounts">Цій програмі дозволений доступ до Ваших акаунтів</string>
@@ -3907,7 +3907,7 @@ Xiaomi Cloud
     <string name="lockpassword_choose_your_pin_header_second_space">"Встановіть PIN код 
 для другого простору"</string>
     <string name="lockpassword_choose_your_pin_message">Захистіть пристрій: задайте PIN-код</string>
-    <string name="lockpassword_choose_your_pin_title">Введіть %d-%d цифр</string>
+    <string name="lockpassword_choose_your_pin_title">Введіть %1$d-%2$d цифр</string>
     <string name="lockpassword_choose_your_screen_lock_header">Налаштуйте блокування екрану</string>
     <string name="lockpassword_clear_label">Скинути</string>
     <string name="lockpassword_confirm_for_second_user">Підтвердіть пароль</string>
@@ -6638,7 +6638,7 @@ OTG вимикається автоматично через 10 хвилин б�
     <string name="smartcover_sensitive_summary">Блокування та розблокування пристрою за допомогою режиму \"Smart cover\"</string>
     <string name="smartcover_sensitive_title">Режим \"Smart cover\"</string>
     <string name="sms_application_title">Повідомлення</string>
-    <string name="sms_change_default_dialog_text">Використовувати програму \"%s\" за замовчуванням замість \"%s\"?</string>
+    <string name="sms_change_default_dialog_text">Використовувати %1$s замість %2$s для пошуку SMS?</string>
     <string name="sms_change_default_dialog_title">Змінити програму для SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Використовувати програму \"%s\" за замовчуванням для SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Виберіть звук для повідомлення про доставку повідомлення</string>
@@ -7099,7 +7099,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="system_alert_window_access_title">Накладання поверх інших вікон</string>
     <string name="system_alert_window_apps_title">Програми</string>
     <string name="system_alert_window_settings">Накладання поверх інших вікон</string>
-    <string name="system_alert_window_summary">Програм, які відображаються поверх інших вікон: %d із %d.</string>
+    <string name="system_alert_window_summary">%1$d з %2$d програм дозволено показувати поверх інших програм</string>
     <string name="system_and_device_section_title">Система та пристрій</string>
     <string name="system_app">(системна)</string>
     <string name="system_app_settings">Системні програми</string>
@@ -7419,7 +7419,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_pattern_summary">Середній рівень захисту</string>
     <string name="unlock_set_unlock_pattern_title">Графічний ключ</string>
-    <string name="unlock_set_unlock_pin_summary">Введіть %d-%d цифр для розблокування пристрою</string>
+    <string name="unlock_set_unlock_pin_summary">Введіть %1$d-%2$d номерів, щоб розблокувати пристрій</string>
     <string name="unlock_set_unlock_pin_title">Код</string>
     <string name="unlock_set_unlock_summary">Встановіть пароль для увімкнення захисту</string>
     <string name="unlock_setup_wizard_fingerprint_details">Увімкнувши блокування екрану, зайдіть у налаштування конфіденційності, щоб відсканувати і зберегти відбиток пальця.</string>
@@ -7465,16 +7465,16 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="usage_state_app_usage_detail_title">Використання додатків</string>
     <string name="usage_state_app_usage_list_title">"Час екрану додатків сьогодні"</string>
     <string name="usage_state_app_usage_list_week_title">"Час екрану додатків за тиждень"</string>
-    <string name="usage_state_app_usage_tip_title">Час екрану з %d:00 до %d:00</string>
+    <string name="usage_state_app_usage_tip_title">Час екрану між %1$d:00 та %2$d:00</string>
     <string name="usage_state_app_use_time">Час екрану додатків</string>
     <string name="usage_state_channel_mouth">За 30 днів</string>
     <string name="usage_state_channel_week">За тиждень</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_noti_today_tip_title">Сповіщення з %d:00 до %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title">Розблокування з %d:00 до %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title">Сповіщення між %1$d:00 та %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Розблокований пристрій між %1$d:00 та %2$d:00</string>
     <string name="usage_state_friday">Пт</string>
     <string name="usage_state_go_more">Інші додатки</string>
-    <string name="usage_state_hour_minute">%d год. %d хв.</string>
+    <string name="usage_state_hour_minute">%1$dгод %2$dхв</string>
     <string name="usage_state_less_one_minute">Менше 1 хвилини</string>
     <string name="usage_state_monday">Пн</string>
     <string name="usage_state_mourth_day">\'Час екрану\' d MMM</string>
@@ -7496,11 +7496,11 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="usage_state_usage_time_remind">Сповіщення про час екрану</string>
     <string name="usage_state_use_time_remind_title">Сповіщення про час екрану</string>
     <string name="usage_state_wednesday">Ср</string>
-    <string name="usage_state_week_day_hour_minute">Вихідні: %d год. %d хв.</string>
+    <string name="usage_state_week_day_hour_minute">Вихідні: %1$dгод %2$dхв</string>
     <string name="usage_state_week_total_text">Час екрану за тиждень</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Будні</string>
-    <string name="usage_state_work_day_hour_minute">Будні: %d год. %d хв.</string>
+    <string name="usage_state_work_day_hour_minute">Будників: %1$dгод %2$dхв</string>
     <string name="usage_stats_label">Статистика використання</string>
     <string name="usage_stats_normal_day">Будні</string>
     <string name="usage_stats_week_day">Вихідні</string>
@@ -7538,9 +7538,9 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="usagestats_app_category_miui_video_etc">Медіа</string>
     <string name="usagestats_device_notification_des">Межа часу екрану сьогодні: %s</string>
     <string name="usagestats_device_notification_des_over">"Досягнуто межу часу екрану на сьогодні"</string>
-    <string name="usagestats_device_notification_des_reset">"Межа часу екрану сьогодні: %s | Залишилося: %s"</string>
+    <string name="usagestats_device_notification_des_reset">"Сьогоднішній ліміт: %1$s | %2$s залишилось"</string>
     <string name="usagestats_device_notification_title">Сповіщення про час екрану</string>
-    <string name="usagestats_device_timeout_des">"Сьогодні Ви використовували пристрій понад %d год. %d хв. Час відпочити!"</string>
+    <string name="usagestats_device_timeout_des">"Ви використовуєте свій пристрій за %1$dг %2$dм сьогодні. Відпочиньте!"</string>
     <string name="usagestats_device_timeout_negative">Нагадати пізніше</string>
     <string name="usagestats_device_timeout_positive">ОК</string>
     <string name="usagestats_device_timeout_title">Сповіщення про час екрану</string>
@@ -8369,7 +8369,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="wifi_password">Пароль</string>
     <string name="wifi_poor_network_detection">Уникати поганого зв\'язку</string>
     <string name="wifi_poor_network_detection_summary">"Не використовувати Wi-Fi з'єднання, якщо є гарне з'єднання по мобільній мережі"</string>
-    <string name="wifi_priority_changed">Старе значення: %s | Нове значення: %s</string>
+    <string name="wifi_priority_changed">Старе значення %1$s | Нове значення %2$s</string>
     <string name="wifi_priority_label">Пріоритет</string>
     <string name="wifi_priority_settings_label">Налаштування пріоритетів</string>
     <string name="wifi_priority_settings_summary">Встановити пріоритет кожної точки доступу</string>
@@ -8664,7 +8664,7 @@ SD карта \"^1\" буде працювати тільки на цьому п
     <string name="write_settings_description">Програма зможе змінювати системні налаштування</string>
     <string name="write_settings_off">Скасувати</string>
     <string name="write_settings_on">ОК</string>
-    <string name="write_settings_summary">Програми, які можуть змінювати системні налаштування: %d із %d</string>
+    <string name="write_settings_summary">%1$d з %2$d програм дозволено змінювати налаштування системи</string>
     <string name="write_settings_title">Можуть змінювати системні налаштування</string>
     <string name="write_system_settings">Змінити системні налаштування</string>
     <string name="wrong_pin_code_one">Неправильний PIN-код SIM-карти. У вас залишилася 1 спроба.</string>

@@ -166,6 +166,16 @@
     <string name="can_heard_not_download">Пісні можуть бути почуті і не можуть бути завантажені…</string>
     <string name="cancel">Скасувати</string>
     <string name="cancel_delay_stop">Вимкнути таймер</string>
+    <string name="cancel_dialog_cancel_title">"Безкоштовна пробна версія не буде доступна"</string>
+    <string name="cancel_dialog_title">"Послуги не будуть доступні після скасування"</string>
+    <string name="cancel_free_equity">Скасувати</string>
+    <string name="cancel_msg">"Пробний період поки що не закінчений. Ви не зможете продовжити використання, якщо скасуєте підписку. Усе одно продовжити?"</string>
+    <string name="cancel_msg_left">"Доступ
+всього вмісту"</string>
+    <string name="cancel_msg_mid">"Автоматично
+поновити"</string>
+    <string name="cancel_msg_right">"Скасувати
+у будь-який час"</string>
     <string name="cancel_running_download">Скасувати</string>
     <string name="cannot_comment_try_scroll">Цю пісню неможливо прокоментувати, спробуйте прокрутити</string>
     <string name="cannot_reply">"Не можна відповісти на цей коментар зараз."</string>
@@ -262,6 +272,8 @@
     <string name="delete_file_start">Видалити вибрані файли</string>
     <string name="delete_single_fm_history">Вилучити цей запис історії відтворення?</string>
     <string name="delete_the_downloaded_file">Завантажені файли буде видалено.</string>
+    <string name="description_content">"FM-Radio - це системна програма. Ви не зможете слухати локальні та онлайн-радіостанції, після видалення."</string>
+    <string name="description_title">Видалити \"FM Radio\"?</string>
     <string name="deselect_all">Зняти всі виділення</string>
     <string name="desktop_lyric_lock_toast">Заблоковано. Ви можете розблокувати музику в заголовку сповіщень.</string>
     <string name="desktop_lyric_setting_title">Текст домашнього екрану</string>
@@ -900,6 +912,7 @@ ID:%s
     <string name="paused_waiting_to_retry">Очікування повторної спроби</string>
     <string name="pay_now">Поточний сервіс</string>
     <string name="pending_apk">Очікування…</string>
+    <string name="permission_runtime_perm_desc_location">Для доступу до локальних радіостанцій</string>
     <string name="personal_radio_favorite">Обрані, рекомендуємо подібні пісні</string>
     <string name="phone_bind_too_many">Цей телефон асоціюється з кількома Mi аккаунтами за короткий проміжок часу. Спробуйте інший номер телефону.</string>
     <string name="phone_hint">Номер телефону</string>
@@ -908,16 +921,17 @@ ID:%s
     <string name="photoPickerNotFoundText">Немає доступних фотографій.</string>
     <string name="play_all"><Data>Грати всі &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_all_shuffle"><Data>Перемішати всі&lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
-    <string name="play_all_song">Відтворити усі</string>
     <string name="play_continue"><Data>Продовжити грати &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_error_program_not_find">Цей товар більше не доступний.</string>
     <string name="play_mode_circle">Круглий режим</string>
     <string name="play_mode_circle_hint">Повторення одного маршруту</string>
-    <string name="play_mode_circle_title">Повторювати один</string>
+    <string name="play_mode_circle_title">Повторення</string>
     <string name="play_mode_normal_hint">Відтворення доріжок із початкового замовлення зараз</string>
-    <string name="play_mode_normal_title">Відтворити усі</string>
+    <string name="play_mode_normal_title">Послідовно</string>
     <string name="play_mode_shuffle">Режим у випадковому порядку</string>
+    <string name="play_mode_shuffle_title">Перемішати</string>
     <string name="play_mode_single">Один режим</string>
+    <string name="play_mode_single_title">Повторення</string>
     <string name="play_next">Відтворити наступною</string>
     <string name="play_song_continue">Продовжити грати</string>
     <string name="play_speed">Швидкість відтворення</string>
@@ -1190,6 +1204,7 @@ ID:%s
     <string name="talkback_login">Увійти</string>
     <string name="talkback_mode_repeat_all">Режим циклу</string>
     <string name="talkback_mode_repeat_current">Режим повторення</string>
+    <string name="talkback_mode_repeat_none">Режим послідовності</string>
     <string name="talkback_mode_repeat_shuffle">Режим у випадковому порядку</string>
     <string name="talkback_more">Більше</string>
     <string name="talkback_more_function">Додаткові можливості</string>
@@ -1324,6 +1339,7 @@ ID:%s
     <string name="upgrade_music">Оновити музику</string>
     <string name="upgrade_music_message">Оновлення готові. Перезапустіть для оновлення.</string>
     <string name="upload_error_log">Завантажити журнал</string>
+    <string name="use_again">"Не скасовувати"</string>
     <string name="user_avatar_update_title">Змінити фотографію профілю</string>
     <string name="user_avatar_uploading">Просто секунда…</string>
     <string name="user_id_hint">Електронна пошта/Телефон/Mi обліковий запис</string>
@@ -1368,5 +1384,8 @@ ID:%s
     <string name="xiaoai_install_title">Голосовий помічник встановлення Mi AI</string>
     <string name="xiaoai_update_message">Схоже, Mi AI голосовий движок застарів. Ви можете оновити його зараз.</string>
     <string name="xiaoai_update_title">Оновити Mi AI</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступне оновлення</string>
     <string name="yesterday">Вчора</string>
 </resources>
