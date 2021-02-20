@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="app_label">Сховище налаштувань</string>
-     <string name="def_date_format">d-MM-yyyy</string>
-
+    <string name="app_label">Сховище налаштувань</string>
+    <string name="wifi_softap_config_change">Налаштування точки доступу змінено</string>
+    <string name="wifi_softap_config_change_summary">Торкніться, щоб переглянути деталі</string>
 </resources>

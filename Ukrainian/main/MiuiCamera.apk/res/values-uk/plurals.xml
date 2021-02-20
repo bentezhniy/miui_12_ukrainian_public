@@ -4,13 +4,78 @@
         <item quantity="other">Виявлено %d облич</item>
         <item quantity="one">Виявлено %d обличчя</item>
         <item quantity="few">Виявлено %d обличчя</item>
+        <item quantity="many">Виявлено %d облич</item>
     </plurals>
-	<plurals name="delete_selection">
-        <item quantity="other">Видалити обране?</item>
-        <item quantity="one">Видалити обране?</item>
-     </plurals>
-	 <plurals name="toast_burst_snap_finished_summary">
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d фотографій в знімку серіалу</item>
+        <item quantity="one">%d фото в зйомці</item>
+        <item quantity="few">%d фотографій в знімку серіалу</item>
+        <item quantity="many">%d фотографій в знімку серіалу</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Інтервал часу: %d секунд</item>
+        <item quantity="one">Інтервал часу: %d секунди</item>
+        <item quantity="few">Інтервал часу: %d секунд</item>
+        <item quantity="many">Інтервал часу: %d секунд</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Тривалість: %d секунд</item>
+        <item quantity="one">Тривалість: %d секунда</item>
+        <item quantity="few">Тривалість: %d секунд</item>
+        <item quantity="many">Тривалість: %d секунд</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Ви можете створити до %d клонів за раз.</item>
+        <item quantity="one">Можна створити до %d клона за раз.</item>
+        <item quantity="few">Ви можете створити до %d клонів за раз.</item>
+        <item quantity="many">Ви можете створити до %d клонів за раз.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+        <item quantity="many">%1$d хв</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+        <item quantity="few">%1$d сек</item>
+        <item quantity="many">%1$d сек</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Видалити %1$d чернетки?</item>
+        <item quantity="one">Видалити %1$d чернетку?</item>
+        <item quantity="few">Видалити %1$d чернетки?</item>
+        <item quantity="many">Видалити %1$d чернетки?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s хв</item>
+        <item quantity="one">%1$s хв</item>
+        <item quantity="few">%1$s хв</item>
+        <item quantity="many">%1$s хв</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Запис %d секунд</item>
+        <item quantity="one">Запис %d секунду</item>
+        <item quantity="few">Запис %d секунд</item>
+        <item quantity="many">Запис %d секунд</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Ви можете заморозити відео до %d тем.</item>
+        <item quantity="one">Ви можете заморозити відео лише за допомогою %d теми.</item>
+        <item quantity="few">Ви можете заморозити відео до %d тем.</item>
+        <item quantity="many">Ви можете заморозити відео до %d тем.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s фотографій</item>
+        <item quantity="one">%1$s фото</item>
+        <item quantity="few">%1$s фотографій</item>
+        <item quantity="many">%1$s фотографій</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Знято %1$s фото</item>
         <item quantity="one">Знято %1$s фото</item>
-     </plurals>
+        <item quantity="few">Знято %1$s фото</item>
+        <item quantity="many">Знято %1$s фото</item>
+    </plurals>
 </resources>

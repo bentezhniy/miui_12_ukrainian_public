@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="second_guide_contents_pad_or_inter">
-        <item>Голосові нотатки</item>
-        <item>Ви можете створювати голосові нотатки</item>
-     </string-array>
-	 <string-array name="contact_entries">
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Зняти фото</item>
+        <item>Обрати з Галереї</item>
+    </string-array>
+    <string-array name="contact_entries">
         <item>Ім\'я</item>
         <item>Нік</item>
         <item>Телефон</item>
@@ -16,41 +75,8 @@
         <item>Сайт</item>
         <item>Адреса</item>
         <item>Нотатка</item>
-     </string-array>
-     <string-array name="font_size_names">
-        <item>Дрібний</item>
-        <item>Середній</item>
-        <item>Великий</item>
-        <item>Величезний</item>
-     </string-array>
-	      <string-array name="attachment_chooser">
-        <item>Зняти фото</item>
-        <item>Обрати з Галереї</item>
-     </string-array>
-     <string-array name="folder_operations">
-        <item>Перейменувати</item>
-        <item>Видалити</item>
-     </string-array>
-     <string-array name="welcome_notes_content">
-             <item>"Ласкаво просимо в нотатки!
-"</item>
-        <item>"Натисніть \"+\" для створення нотатки
-"</item>
-        <item>"Вибирайте красивий фон
-"</item>
-        <item>"Створюйте теки і переміщайте в них нотатки
-"</item>
-        <item>"Створюйте приватні нотатки
-"</item>
-        <item>"Додаткові можливості:
-  - Синхронізація з Mi Cloud
-  - Встановлення нагадувань"</item>
-     </string-array>
-	 <string-array name="note_sort_way">
-        <item>За датою створення</item>
-        <item>За датою редагування</item>
-     </string-array>
-	 <string-array name="first_guide_contents">
+    </string-array>
+    <string-array name="first_guide_contents">
         <item>Ласкаво просимо!</item>
         <item>Створіть нотатку</item>
         <item>Ви можете використовувати текст, зображення та голос у своїх нотатках. Багата бібліотека стилів і шрифтів прикрасить будь-які записи</item>
@@ -59,9 +85,27 @@
         <item>Ви можете створювати довгі скріншоти заміток і ділитися ними з друзями</item>
         <item>Створюйте та перемикайтеся між теками</item>
         <item>Натисніть стрілку нижче, щоб створити нову папку або перемкнутися між існуючими</item>
-     </string-array>
-     <string-array name="second_guide_contents">
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Перейменувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Дрібний</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>За датою створення</item>
+        <item>За датою редагування</item>
+    </string-array>
+    <string-array name="second_guide_contents">
         <item>Голосові нотатки</item>
         <item>Створюйте нотатки за допомогою голосу</item>
-     </string-array>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Голосові нотатки</item>
+        <item>Ви можете створювати голосові нотатки</item>
+    </string-array>
 </resources>

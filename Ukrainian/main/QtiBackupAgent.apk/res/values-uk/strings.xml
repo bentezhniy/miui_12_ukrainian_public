@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Бекап контактів і повідомлень</string>
-    <string name="action_settings">Налаштування</string>
-    <string name="backup_sms_mms">Бекап SMS і MMS</string>
-    <string name="backup_contacts">Бекап контактів</string>
-</resources>

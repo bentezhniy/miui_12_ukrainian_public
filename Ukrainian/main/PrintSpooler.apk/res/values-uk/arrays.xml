@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="color_mode_labels">
+    <string-array name="color_mode_labels">
         <item>Чорно-білий</item>
         <item>Кольоровий</item>
-     </string-array>
-     <string-array name="orientation_labels">
-        <item>Портретна</item>
-        <item>Ландшафт</item>
-     </string-array>
-     <string-array name="page_options_labels">
-        <item>Все</item>
-        <item>Діапазон</item>
-     </string-array>
-	 <string-array name="duplex_mode_labels">
+    </string-array>
+    <string-array name="duplex_mode_labels">
         <item>Немає</item>
         <item>Довга сторона</item>
         <item>Коротка сторона</item>
-     </string-array>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Портретна</item>
+        <item>Ландшафт</item>
+    </string-array>
 </resources>

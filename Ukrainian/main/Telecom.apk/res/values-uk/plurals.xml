@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="notification_missedCallTitle">
+    <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Пропущені виклики</item>
         <item quantity="one">Пропущений виклик</item>
+        <item quantity="few">Пропущені виклики</item>
+        <item quantity="many">Пропущені виклики</item>
     </plurals>
-	<plurals name="notification_missedCallTitle_miui">
-        <item quantity="other">Пропущені виклики</item>
-        <item quantity="one">Пропущений виклик</item>
-     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d пристрій підключено</item>
+        <item quantity="one">%1$d пристрій підключено</item>
+        <item quantity="few">%1$d пристрій підключено</item>
+        <item quantity="many">%1$d пристрій підключено</item>
+    </plurals>
 </resources>

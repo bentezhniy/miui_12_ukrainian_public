@@ -1,100 +1,273 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="file_received_successfully">
+        <item quantity="other">Отримано %2$d файлів від %1$s</item>
+        <item quantity="one">Отримано %2$d файл від %1$s</item>
+        <item quantity="few">Отримано %2$d файли від %1$s</item>
+        <item quantity="many">Отримано %2$d файлів від %1$s</item>
+    </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d файлів</item>
         <item quantity="one">%1$d файл</item>
         <item quantity="few">%1$d файли</item>
+        <item quantity="many">%1$d файлів</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">Отримано %2$d фото від %1$s</item>
+        <item quantity="one">Отримано %2$d фото від %1$s</item>
+        <item quantity="few">Отримано %2$d фото від %1$s</item>
+        <item quantity="many">Отримано %2$d фото від %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d встановлених пакунків (%3$s) від %1$s</item>
+        <item quantity="one">%2$d пакет установки (%3$s) з %1$s</item>
+        <item quantity="few">%2$d встановлених пакунків (%3$s) від %1$s</item>
+        <item quantity="many">%2$d встановлених пакунків (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Отримано %2$d встановлених пакунків (%3$s) від %1$s</item>
+        <item quantity="one">Отримано %2$d інсталяційний пакет (%3$s) від %1$s</item>
+        <item quantity="few">Отримано %2$d встановлених пакунків (%3$s) від %1$s</item>
+        <item quantity="many">Отримано %2$d встановлених пакунків (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d встановлених пакетів (%3$s) з %1$s…</item>
+        <item quantity="one">Отримання пакета встановлення %2$d (%3$s) з %1$s…</item>
+        <item quantity="few">Отримання %2$d встановлених пакетів (%3$s) з %1$s…</item>
+        <item quantity="many">Отримання %2$d встановлених пакетів (%3$s) з %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d аудіо файли (%3$s) від %1$s</item>
+        <item quantity="one">%2$d аудіо файл (%3$s) від %1$s</item>
+        <item quantity="few">%2$d аудіо файли (%3$s) від %1$s</item>
+        <item quantity="many">%2$d аудіо файли (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Отримано %2$d аудіо файлів (%3$s) від %1$s</item>
+        <item quantity="one">Отримано %2$d аудіо файл (%3$s) від %1$s</item>
+        <item quantity="few">Отримано %2$d аудіо файлів (%3$s) від %1$s</item>
+        <item quantity="many">Отримано %2$d аудіо файлів (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Отримання аудіофайлів %2$d (%3$s) з %1$s…</item>
+        <item quantity="one">Отримання аудіофайлу %2$d (%3$s) з %1$s…</item>
+        <item quantity="few">Отримання аудіофайлів %2$d (%3$s) з %1$s…</item>
+        <item quantity="many">Отримання аудіофайлів %2$d (%3$s) з %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s файлів (%4$s) з %1$s</item>
+        <item quantity="one">%2$d %3$s файл (%4$s) з %1$s</item>
+        <item quantity="few">%2$d %3$s файлів (%4$s) з %1$s</item>
+        <item quantity="many">%2$d %3$s файлів (%4$s) з %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Отримано %2$d файлів %3$s (%4$s) з %1$s</item>
+        <item quantity="one">Отримано %2$d файл %3$s (%4$s) з %1$s</item>
+        <item quantity="few">Отримано %2$d файлів %3$s (%4$s) з %1$s</item>
+        <item quantity="many">Отримано %2$d файлів %3$s (%4$s) з %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d %3$s файлів (%4$s) з %1$s…</item>
+        <item quantity="one">Отримання %2$d %3$s файлу (%4$s) з %1$s…</item>
+        <item quantity="few">Отримання %2$d %3$s файлів (%4$s) з %1$s…</item>
+        <item quantity="many">Отримання %2$d %3$s файлів (%4$s) з %1$s…</item>
     </plurals>
     <plurals name="send_file_success_detail_files">
         <item quantity="other">Надсилання %1$s файлів завершено</item>
         <item quantity="one">Надсилання %1$s файли завершено</item>
+        <item quantity="few">Надсилання %1$s файлів завершено</item>
+        <item quantity="many">Надсилання %1$s файлів завершено</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files_content">
+        <item quantity="other">Передано %1$d файлів для \"%2$s\"</item>
+        <item quantity="one">Передан %1$d файл для \"%2$s\"</item>
+        <item quantity="few">Передано %1$d файли для \"%2$s\"</item>
+        <item quantity="many">Передано %1$d файлів для \"%2$s\"</item>
     </plurals>
     <plurals name="send_file_success_detail_images">
         <item quantity="other">Надсилання %1$s зображень завершено</item>
         <item quantity="one">Надсилання %1$s зображення завершено</item>
+        <item quantity="few">Надсилання %1$s зображень завершено</item>
+        <item quantity="many">Надсилання %1$s зображень завершено</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images_content">
+        <item quantity="other">Передано %1$d фото для \"%2$s\"</item>
+        <item quantity="one">Передано %1$d фото для \"%2$s\"</item>
+        <item quantity="few">Передано %1$d фото для \"%2$s\"</item>
+        <item quantity="many">Передано %1$d фото для \"%2$s\"</item>
     </plurals>
     <plurals name="send_files_to_device_files">
         <item quantity="other">Підготовка до надсилання %2$d файлів %1$s…</item>
         <item quantity="one">Підготовка до надсилання %2$d файла %1$s…</item>
+        <item quantity="few">Підготовка до надсилання %2$d файлів %1$s…</item>
+        <item quantity="many">Підготовка до надсилання %2$d файлів %1$s…</item>
     </plurals>
     <plurals name="send_files_to_device_images">
         <item quantity="other">Підготовка до надсилання %2$d зображень %1$s…</item>
         <item quantity="one">Підготовка до надсилання %2$d зображення %1$s…</item>
+        <item quantity="few">Підготовка до надсилання %2$d зображень %1$s…</item>
+        <item quantity="many">Підготовка до надсилання %2$d зображень %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d зображень з %1$s</item>
+        <item quantity="one">%2$d зображення з %1$s</item>
+        <item quantity="few">%2$d зображень з %1$s</item>
+        <item quantity="many">%2$d зображень з %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Отримано %2$d зображень від %1$s</item>
+        <item quantity="one">Отримано %2$d зображення з %1$s</item>
+        <item quantity="few">Отримано %2$d зображень від %1$s</item>
+        <item quantity="many">Отримано %2$d зображень від %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d зображень з %1$s…</item>
+        <item quantity="one">Отримання %2$d зображення з %1$s…</item>
+        <item quantity="few">Отримання %2$d зображень з %1$s…</item>
+        <item quantity="many">Отримання %2$d зображень з %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d зображень і відео з %1$s</item>
+        <item quantity="one">%2$d зображення або відео від %1$s</item>
+        <item quantity="few">%2$d зображень і відео з %1$s</item>
+        <item quantity="many">%2$d зображень і відео з %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Отримано %2$d зображень і відео від %1$s</item>
+        <item quantity="one">Отримано %2$d зображення або відео від %1$s</item>
+        <item quantity="few">Отримано %2$d зображень і відео від %1$s</item>
+        <item quantity="many">Отримано %2$d зображень і відео від %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d зображень і відео з %1$s…</item>
+        <item quantity="one">Отримання %2$d зображення або відео з %1$s…</item>
+        <item quantity="few">Отримання %2$d зображень і відео з %1$s…</item>
+        <item quantity="many">Отримання %2$d зображень і відео з %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d файлів з %1$s</item>
+        <item quantity="one">%2$d файл з %1$s</item>
+        <item quantity="few">%2$d файлів з %1$s</item>
+        <item quantity="many">%2$d файлів з %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Отримано %2$d файлів від %1$s</item>
+        <item quantity="one">Отримано %2$d файл від %1$s</item>
+        <item quantity="few">Отримано %2$d файлів від %1$s</item>
+        <item quantity="many">Отримано %2$d файлів від %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d файлів з %1$s…</item>
+        <item quantity="one">Отримання файлу %2$d з %1$s…</item>
+        <item quantity="few">Отримання %2$d файлів з %1$s…</item>
+        <item quantity="many">Отримання %2$d файлів з %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d відео з %1$s</item>
+        <item quantity="one">%2$d відео від %1$s</item>
+        <item quantity="few">%2$d відео з %1$s</item>
+        <item quantity="many">%2$d відео з %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Отримано %2$d відео від %1$s</item>
+        <item quantity="one">Отримано %2$d відео від %1$s</item>
+        <item quantity="few">Отримано %2$d відео від %1$s</item>
+        <item quantity="many">Отримано %2$d відео від %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d відео з %1$s…</item>
+        <item quantity="one">Отримання %2$d відео з %1$s…</item>
+        <item quantity="few">Отримання %2$d відео з %1$s…</item>
+        <item quantity="many">Отримання %2$d відео з %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d архівів (%3$s) від %1$s</item>
+        <item quantity="one">%2$d архів (%3$s) від %1$s</item>
+        <item quantity="few">%2$d архівів (%3$s) від %1$s</item>
+        <item quantity="many">%2$d архівів (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Отримано %2$d архівів (%3$s) від %1$s</item>
+        <item quantity="one">Отримано %2$d архів (%3$s) від %1$s</item>
+        <item quantity="few">Отримано %2$d архівів (%3$s) від %1$s</item>
+        <item quantity="many">Отримано %2$d архівів (%3$s) від %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Отримання %2$d архівів (%3$s) з %1$s…</item>
+        <item quantity="one">Отримання архіву %2$d (%3$s) з %1$s…</item>
+        <item quantity="few">Отримання %2$d архівів (%3$s) з %1$s…</item>
+        <item quantity="many">Отримання %2$d архівів (%3$s) з %1$s…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">
         <item quantity="other">%1$s надсилає Вам %2$d файлів…</item>
         <item quantity="one">%1$s надсилає Вам %2$d файл…</item>
         <item quantity="few">%1$s надсилає Вам %2$d файли…</item>
+        <item quantity="many">%1$s надсилає Вам %2$d файлів…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_images">
         <item quantity="other">%1$s надсилає Вам %2$d зображень…</item>
         <item quantity="one">%1$s надсилає Вам %2$d зображення…</item>
         <item quantity="few">%1$s надсилає Вам %2$d зображення…</item>
+        <item quantity="many">%1$s надсилає Вам %2$d зображень…</item>
     </plurals>
     <plurals name="someone_send_somefile_files">
         <item quantity="other">%1$s надсилає Вам %2$d файлів…</item>
         <item quantity="one">%1$s надсилає Вам %2$d файл…</item>
         <item quantity="few">%1$s надсилає Вам %2$d файли…</item>
+        <item quantity="many">%1$s надсилає Вам %2$d файлів…</item>
     </plurals>
     <plurals name="someone_send_somefile_images">
         <item quantity="other">%1$s надсилає Вам %2$d зображень…</item>
         <item quantity="one">%1$s надсилає Вам %2$d зображення…</item>
         <item quantity="few">%1$s надсилає Вам %2$d зображення…</item>
+        <item quantity="many">%1$s надсилає Вам %2$d зображень…</item>
     </plurals>
     <plurals name="start_receive_files_files">
         <item quantity="other">Отримання %2$d файлів від %1$s…</item>
         <item quantity="one">Отримання %2$d файлу від %1$s…</item>
+        <item quantity="few">Отримання %2$d файлів від %1$s…</item>
+        <item quantity="many">Отримання %2$d файлів від %1$s…</item>
     </plurals>
     <plurals name="start_receive_files_images">
         <item quantity="other">Отримання %2$d зображень від %1$s…</item>
         <item quantity="one">Отримання %2$d зображення від %1$s…</item>
+        <item quantity="few">Отримання %2$d зображень від %1$s…</item>
+        <item quantity="many">Отримання %2$d зображень від %1$s…</item>
     </plurals>
     <plurals name="start_send_files_to_device_files">
         <item quantity="other">Надсилання %2$d файлів %1$s…</item>
         <item quantity="one">Надсилання %2$d файли %1$s…</item>
+        <item quantity="few">Надсилання %2$d файлів %1$s…</item>
+        <item quantity="many">Надсилання %2$d файлів %1$s…</item>
     </plurals>
     <plurals name="start_send_files_to_device_images">
         <item quantity="other">Надсилання %2$d зображень %1$s…</item>
         <item quantity="one">Надсилання %2$d зображення %1$s…</item>
+        <item quantity="few">Надсилання %2$d зображень %1$s…</item>
+        <item quantity="many">Надсилання %2$d зображень %1$s…</item>
     </plurals>
     <plurals name="success_receive_file_files">
         <item quantity="other">Отримано %2$d файлів від %1$s. Натисніть для перегляду</item>
         <item quantity="one">Отримано %2$d файл від %1$s. Натисніть для перегляду</item>
         <item quantity="few">Отримано %2$d файли від %1$s. Натисніть для перегляду</item>
+        <item quantity="many">Отримано %2$d файлів від %1$s. Натисніть для перегляду</item>
     </plurals>
     <plurals name="success_receive_file_images">
         <item quantity="other">Отримано %2$d зображень від %1$s. Натисніть для перегляду</item>
         <item quantity="one">Отримано %2$d зображення від %1$s. Натисніть для перегляду</item>
         <item quantity="few">Отримано %2$d зображення від %1$s. Натисніть для перегляду</item>
+        <item quantity="many">Отримано %2$d зображень від %1$s. Натисніть для перегляду</item>
     </plurals>
-	<plurals name="send_file_success_detail_files_content">
-        <item quantity="other">Передано %1$d файлів для \"%2$s\"</item>
-        <item quantity="one">Передан %1$d файл для \"%2$s\"</item>
-        <item quantity="few">Передано %1$d файли для \"%2$s\"</item>
-     </plurals>
-     <plurals name="send_file_success_detail_images_content">
-        <item quantity="other">Передано %1$d фото для \"%2$s\"</item>
-        <item quantity="one">Передано %1$d фото для \"%2$s\"</item>
-        <item quantity="few">Передано %1$d фото для \"%2$s\"</item>
-     </plurals>
-	 <plurals name="file_received_successfully">
-        <item quantity="other">Отримано %2$d файлів від %1$s</item>
-        <item quantity="one">Отримано %2$d файл від %1$s</item>
-		<item quantity="few">Отримано %2$d файли від %1$s</item>
-     </plurals>
-     <plurals name="image_received_successfully">
-        <item quantity="other">Отримано %2$d фото від %1$s</item>
-        <item quantity="one">Отримано %2$d фото від %1$s</item>
-		<item quantity="few">Отримано %2$d фото від %1$s</item>
-     </plurals>
-     <plurals name="successfully_sent_files">
+    <plurals name="successfully_sent_files">
         <item quantity="other">Надіслано %2$d файлів користувачу %1$s</item>
         <item quantity="one">Надіслано %2$d файл користувачу %1$s</item>
-		<item quantity="few">Надіслано %2$d файли користувачу %1$s</item>
-     </plurals>
-     <plurals name="successfully_sent_images">
+        <item quantity="few">Надіслано %2$d файли користувачу %1$s</item>
+        <item quantity="many">Надіслано %2$d файлів користувачу %1$s</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
         <item quantity="other">Надіслано %2$d фото користувачу %1$s</item>
         <item quantity="one">Надіслано %2$d фото користувачу %1$s</item>
-		<item quantity="few">Надіслано %2$d фото користувачу %1$s</item>
-     </plurals>
+        <item quantity="few">Надіслано %2$d фото користувачу %1$s</item>
+        <item quantity="many">Надіслано %2$d фото користувачу %1$s</item>
+    </plurals>
 </resources>

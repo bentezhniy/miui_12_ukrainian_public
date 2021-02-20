@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="calls_are_on_wifi">Поточні виклики IMS знаходяться у Wi-Fi мережі</string>
-    <string name="camped_on_femto">Використовується фемтосота</string>
-</resources>

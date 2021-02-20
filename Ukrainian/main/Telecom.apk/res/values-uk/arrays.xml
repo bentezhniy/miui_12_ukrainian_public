@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="animator_duration_scale_entries">
+    <string-array name="animator_duration_scale_entries">
         <item>Вимкнено</item>
         <item>0.5x</item>
         <item>1x</item>
@@ -9,69 +8,64 @@
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
-     </string-array>
-     <string-array name="app_process_limit_entries">
+    </string-array>
+    <string-array name="app_process_limit_entries">
         <item>Стандартне обмеження</item>
         <item>Без фонових процесів</item>
         <item>Не більше одного процесу</item>
         <item>Не більше 2 процесів</item>
         <item>Не більше 3 процесів</item>
         <item>Не більше 4 процесів</item>
-     </string-array>
-     <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>16 бітів на зразок</item>
         <item>24 біти на зразок</item>
         <item>32 біти на зразок</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>16 бітів на зразок</item>
         <item>24 біти на зразок</item>
         <item>32 біти на зразок</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>Моно</item>
         <item>Стерео</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>Моно</item>
         <item>Стерео</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Оптимізовано для кращої якості аудіо</item>
         <item>Збалансована якість аудіо та з\'єднання</item>
         <item>Оптимізовано для кращої якості з\'єднання</item>
         <item>Найкраща якість (адаптивна швидкість передавання)</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Оптимізовано для кращої якості аудіо (990/909 кбіт/с)</item>
         <item>Збалансована якість аудіо та з\'єднання (660/606 кбіт/с)</item>
         <item>Оптимізовано для кращої якості з\'єднання (330/303 кбіт/с)</item>
         <item>Найкраща якість (адаптивна швидкість передавання)</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>44,1 кГц</item>
         <item>48 кГц</item>
         <item>88,2 кГц</item>
         <item>96 кГц</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>44,1 кГц</item>
         <item>48 кГц</item>
         <item>88,2 кГц</item>
         <item>96 кГц</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>SBC</item>
         <item>AAC</item>
@@ -80,8 +74,8 @@
         <item>LDAC</item>
         <item>Увімкнути додаткові кодеки</item>
         <item>Вимкнути додаткові кодеки</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_titles">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
         <item>Використовувати вибір системи (за умовчанням)</item>
         <item>SBC</item>
         <item>AAC</item>
@@ -90,53 +84,63 @@
         <item>LDAC</item>
         <item>Увімкнути додаткові кодеки</item>
         <item>Вимкнути додаткові кодеки</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_versions">
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, активний</item>
+        <item>, активний (медіа)</item>
+        <item>, активний (телефон)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (за умовчанням)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
-     </string-array>
-     <string-array name="color_mode_descriptions">
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (За замовчуванням)</item>
+        <item>МАП 1.3</item>
+        <item>МАП 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Вимкнено</item>
+        <item>Увімкнено відфільтрований</item>
+        <item>Увімкнено</item>
+        <item>Enabled Headers Filtered</item>
+        <item>Enabled Media Pkts Filtered</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
         <item>Поліпшені кольори</item>
         <item>Натуральні кольори, звичні оку</item>
         <item>Кольори, оптимізовані для цифрового контенту</item>
-     </string-array>
-     <string-array name="color_mode_names">
+    </string-array>
+    <string-array name="color_mode_names">
         <item>Насичений (стандартно)</item>
         <item>Природний</item>
         <item>Стандартний</item>
-     </string-array>
-     <string-array name="debug_hw_overdraw_entries">
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
         <item>Відключено</item>
         <item>Показувати області накладення</item>
         <item>Виділити області певного кольору</item>
-     </string-array>
-     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (за умовчанням)</item>
-        <item>OpenGL (Skia)</item>
-     </string-array>
-     <string-array name="enable_opengl_traces_entries">
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
         <item>Немає</item>
         <item>Журнал Logcat</item>
         <item>Systrace (графіка)</item>
         <item>Список викликів в glGetError</item>
-     </string-array>
-     <string-array name="hdcp_checking_summaries">
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
         <item>Не застосовувати перевірку HDCP</item>
         <item>Використовувати перевірку HDCP тільки для утримання DRM</item>
         <item>Завжди використовувати перевірку HDCP</item>
-     </string-array>
-     <string-array name="hdcp_checking_titles">
+    </string-array>
+    <string-array name="hdcp_checking_titles">
         <item>Ніколи не перевіряти</item>
         <item>Перевіряти тільки зміст DRM</item>
         <item>Завжди перевіряти</item>
-     </string-array>
-     <string-array name="overlay_display_devices_entries">
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
         <item>Немає</item>
         <item>480p</item>
         <item>480p (захист)</item>
@@ -149,52 +153,52 @@
         <item>4K (масштабування)</item>
         <item>4K (масштабування, захист)</item>
         <item>720p, 1080p (два екрани)</item>
-     </string-array>
-     <string-array name="select_logd_size_lowram_titles">
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
         <item>Вимкнено</item>
         <item>64 кБ</item>
         <item>256 кБ</item>
         <item>1 МБ</item>
-     </string-array>
-     <string-array name="select_logd_size_summaries">
+    </string-array>
+    <string-array name="select_logd_size_summaries">
         <item>Вимкнено</item>
         <item>64 кБ до буферу журналу</item>
         <item>256 кБ до буферу журналу</item>
         <item>1 МБ до буферу журналу</item>
         <item>4 МБ до буферу журналу</item>
         <item>16 МБ до буферу журналу</item>
-     </string-array>
-     <string-array name="select_logd_size_titles">
+    </string-array>
+    <string-array name="select_logd_size_titles">
         <item>Вимкнено</item>
         <item>64 кБ</item>
         <item>256 кБ</item>
         <item>1 МБ</item>
         <item>4 МБ</item>
         <item>16 МБ</item>
-     </string-array>
-     <string-array name="select_logpersist_summaries">
+    </string-array>
+    <string-array name="select_logpersist_summaries">
         <item>Вимкнено</item>
         <item>Усі буфери журналів</item>
         <item>Усі, окрім буферів системного журналу</item>
         <item>лише буфер журналу ядра</item>
-     </string-array>
-     <string-array name="select_logpersist_titles">
+    </string-array>
+    <string-array name="select_logpersist_titles">
         <item>Вимкнено</item>
         <item>Усі</item>
         <item>Усі, окрім системних</item>
         <item>лише ядро</item>
-     </string-array>
-     <string-array name="show_non_rect_clip_entries">
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
         <item>Вимкнено</item>
         <item>Непрямокутний перетин синім</item>
         <item>Тест. команди малювання зеленим</item>
-     </string-array>
-     <string-array name="track_frame_time_entries">
+    </string-array>
+    <string-array name="track_frame_time_entries">
         <item>Вимкнено</item>
         <item>На екрані у вигляді смуг</item>
         <item>В adb shell dumpsys gfxinfo</item>
-     </string-array>
-     <string-array name="transition_animation_scale_entries">
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
         <item>Вимкнено</item>
         <item>0.5x</item>
         <item>1x</item>
@@ -202,8 +206,8 @@
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
-     </string-array>
-     <string-array name="tts_rate_entries">
+    </string-array>
+    <string-array name="tts_rate_entries">
         <item>Дуже повільна</item>
         <item>Повільна</item>
         <item>Нормальна</item>
@@ -213,16 +217,16 @@
         <item>Швидкісна</item>
         <item>Дуже швидкісна</item>
         <item>Найбільш швидкісна</item>
-     </string-array>
-     <string-array name="usb_configuration_titles">
+    </string-array>
+    <string-array name="usb_configuration_titles">
         <item>Зарядка</item>
         <item>MTP (протокол передачі мультимедіа)</item>
         <item>PTP (протокол передачі зображень)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Джерело звуку</item>
         <item>MIDI</item>
-     </string-array>
-     <string-array name="wifi_status">
+    </string-array>
+    <string-array name="wifi_status">
         <item></item>
         <item>Пошук…</item>
         <item>Підключення…</item>
@@ -235,11 +239,11 @@
         <item>Збій</item>
         <item>Заблоковано</item>
         <item>Уникнення слабкого сигналу</item>
-     </string-array>
-     <string-array name="wifi_status_with_ssid">
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Пошук…</item>
-        <item>"З'єднання з мережею %1$s…"</item>
+        <item>З\'єднання з мережею %1$s…</item>
         <item>Аутентифікація у мережі %1$s…</item>
         <item>Отримання IP-адреси від %1$s…</item>
         <item>Підключено до %1$s</item>
@@ -249,8 +253,8 @@
         <item>Збій</item>
         <item>Заблоковано</item>
         <item>Уникнення слабкого сигналу</item>
-     </string-array>
-     <string-array name="window_animation_scale_entries">
+    </string-array>
+    <string-array name="window_animation_scale_entries">
         <item>Вимкнено</item>
         <item>0.5x</item>
         <item>1x</item>
@@ -258,5 +262,5 @@
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
-     </string-array>
+    </string-array>
 </resources>

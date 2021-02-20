@@ -3,19 +3,13 @@
     <plurals name="print_search_result_count_utterance">
         <item quantity="other">Знайдено %1$s принтерів</item>
         <item quantity="one">Знайдено %1$s принтер</item>
-		<item quantity="few">Знайдено %1$s принтери</item>
+        <item quantity="few">Знайдено %1$s принтери</item>
         <item quantity="many">Знайдено %1$s принтерів</item>
     </plurals>
-    <plurals name="composite_notification_title_template">
-        <item quantity="other">%1$d завдань на друк </item>
-        <item quantity="one">%1$d завдання на друк </item>
-		<item quantity="few">%1$d завдання на друк </item>
-        <item quantity="many">%1$d завдань на друк </item>
-    </plurals>
-	<plurals name="print_services_recommendation_subtitle">
+    <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Встановіть, щоб знайти %1$s принтери.</item>
         <item quantity="one">Встановіть, щоб знайти %1$s принтер.</item>
-		<item quantity="few">Встановіть, щоб знайти %1$s принтери.</item>
-		<item quantity="many">Встановіть, щоб знайти %1$s принтерів.</item>
-		<item quantity="other">Встановіть, щоб знайти %1$s принтери.</item>
-     </plurals>
+        <item quantity="few">Встановіть, щоб знайти %1$s принтери.</item>
+        <item quantity="many">Встановіть, щоб знайти %1$s принтерів.</item>
+    </plurals>
 </resources>

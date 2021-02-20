@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="platform_chooser_item">
-        <item>Mi Phone</item>
-        <item>Інші бренди</item>
-        <item>Імпорт з iOS пристрою</item>
-    </string-array>
-	<string-array name="permissions_desc">
+    <string-array name="permissions_desc">
         <item>Для передачі і збереження зображень, додатків та інших файлів.</item>
         <item>Для передачі файлів по Bluetooth і Wi-Fi</item>
-     </string-array>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Для доступу до зображень, додатків та інших файлів, а також передачі їх</item>
+        <item>Для перенесення файлів за допомогою Bluetooth і Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Для відправки та отримання файлів</item>
+        <item>Для перенесення файлів за допомогою Bluetooth і Wi-Fi</item>
+        <item>Для пошуку доступних пристроїв неподалік від Bluetooth</item>
+        <item>Для пошуку доступних пристроїв поблизу і передачі файлів за допомогою Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Для відправки та отримання файлів</item>
+        <item>Для перенесення файлів за допомогою Bluetooth і Wi-Fi</item>
+        <item>Для пошуку доступних пристроїв неподалік від Bluetooth</item>
+        <item>Для пошуку доступних пристроїв поблизу і передачі файлів за допомогою Wi-Fi</item>
+    </string-array>
 </resources>

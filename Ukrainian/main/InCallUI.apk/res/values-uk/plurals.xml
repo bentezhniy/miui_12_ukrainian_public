@@ -1,53 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="antispam_marked_count">
+    <plurals name="antispam_marked_count">
         <item quantity="other">Позначено %d користувачами MIUI</item>
         <item quantity="one">Позначено %d користувачем MIUI</item>
-     </plurals>
-     <plurals name="call_title_redialing_with_times">
+        <item quantity="few">Позначено %d користувачами MIUI</item>
+        <item quantity="many">Позначено %d користувачами MIUI</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Кладемо слухавку через %1$s сек…</item>
+        <item quantity="one">Кладемо слухавку через %1$s с…</item>
+        <item quantity="few">Кладемо слухавку через %1$s сек…</item>
+        <item quantity="many">Кладемо слухавку через %1$s сек…</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Записано %d викликів</item>
+        <item quantity="one">Записаний %d виклик</item>
+        <item quantity="few">Записано %d виклики</item>
+        <item quantity="many">Записано %d викликів</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
         <item quantity="other">%d повторних викликів</item>
         <item quantity="one">%d повторний виклик</item>
         <item quantity="few">%d повторних виклики</item>
-     </plurals>
-     <plurals name="conference_call_number">
+        <item quantity="many">%d повторних викликів</item>
+    </plurals>
+    <plurals name="conference_call_number">
         <item quantity="other">%s користувачів</item>
         <item quantity="one">%s користувач</item>
         <item quantity="few">%s користувача</item>
-     </plurals>
-	<plurals name="duration_hours">
+        <item quantity="many">%s користувачів</item>
+    </plurals>
+    <plurals name="duration_hours">
         <item quantity="other">%d г.</item>
         <item quantity="one">%d г.</item>
-     </plurals>
-     <plurals name="duration_minutes">
+        <item quantity="few">%d г.</item>
+        <item quantity="many">%d г.</item>
+    </plurals>
+    <plurals name="duration_minutes">
         <item quantity="other">%d хв.</item>
         <item quantity="one">%d хв.</item>
-     </plurals>
-     <plurals name="duration_seconds">
+        <item quantity="few">%d хв.</item>
+        <item quantity="many">%d хв.</item>
+    </plurals>
+    <plurals name="duration_seconds">
         <item quantity="other">%d сек.</item>
         <item quantity="one">%d сек.</item>
-     </plurals>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Підключення для передачі даних відсутні %s хв.</item>
-        <item quantity="one">Підключення для передачі даних відсутнє %s хв.</item>
+        <item quantity="few">%d сек.</item>
+        <item quantity="many">%d сек.</item>
     </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Телефон переходить в режим екстрених зворотніх викликів на %s хв. У цьому режимі неможливо використовувати програми, що задіють передачу даних. Вийти з режиму?</item>
-        <item quantity="one">Телефон переходить в режим екстрених зворотніх викликів на %s хв. У цьому режимі неможливо використовувати програму, що задіює передачу даних. Вийти з режиму?</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Обрані дії недоступні в режимі екстрених зворотніх викликів. Телефон залишатиметься в цьому режимі ще %s хв. Вийти із режиму?</item>
-        <item quantity="one">Обрана дія недоступна в режимі екстрених зворотніх викликів. Телефон залишатиметься в цьому режимі ще %s хв. Вийти із режиму?</item>
-    </plurals>
-	<plurals name="call_recording_notification_complete">
-        <item quantity="other">Записано %d викликів</item>
-        <item quantity="one">Записаний %d виклик</item>
-		<item quantity="few">Записано %d виклики</item>
-		<item quantity="many">Записано %d викликів</item>
-     </plurals>
-	 <plurals name="livetalk_left_minute">
-        <item quantity="other">Залишилося %d хв.</item>
-        <item quantity="one">Залишилася %d хв.</item>
-        <item quantity="few">Залишилося %d хв.</item>
-        <item quantity="many">Залишилося %d хв.</item>
-     </plurals>
 </resources>

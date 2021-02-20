@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на головну</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Більше опцій</string>
+    <string name="abc_action_mode_done">Виконано</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_activitychooserview_choose_application">Виберіть додаток</string>
+    <string name="abc_capital_off">ВИМК</string>
+    <string name="abc_capital_on">УВІМК</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">видалити</string>
+    <string name="abc_menu_enter_shortcut_label">введіть</string>
+    <string name="abc_menu_function_shortcut_label">Функції+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Зсув +</string>
+    <string name="abc_menu_space_shortcut_label">пробіл</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Меню+</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_query">Пошук запиту</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_shareactionprovider_share_with">Поділитися з</string>
+    <string name="abc_shareactionprovider_share_with_application">Поділитися з %s</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="app_name">Знімок екрану</string>
+    <string name="long_screenshot_guide_text">"Торкніться, щоб зробити
+знімок екрану прокрутки"</string>
+    <string name="long_screenshot_out_of_memory_error">Зображення завелике</string>
+    <string name="long_screenshot_processing">Обробка…</string>
+    <string name="long_screenshot_stop">Виконано</string>
+    <string name="long_screenshot_top_msg">Створення знімку екрану…</string>
+    <string name="long_screenshot_top_msg_manual">Обрізати знімок екрана та натиснути кнопку щоб завершити</string>
+    <string name="partial_screenshot_edit">Редагувати</string>
+    <string name="partial_screenshot_repaint">Почати знову</string>
+    <string name="partial_screenshot_save">Зберегти</string>
+    <string name="partial_screenshot_save_successful">Успішно збережено</string>
+    <string name="partial_screenshot_share">Поділитись</string>
+    <string name="screenshot_edit">Редагувати</string>
+    <string name="screenshot_failed_in_landscape_mode">"Не можна робити прокрутку екрану в ландшафтному режимі"</string>
+    <string name="screenshot_failed_to_capture_title">"Цей додаток не дозволяє робити знімки екрана"</string>
+    <string name="screenshot_failed_to_save_title">"Не вдалося зберегти. Недостатньо місця для зберігання."</string>
+    <string name="screenshot_feedback_txt">Зворотній зв\'язок</string>
+    <string name="screenshot_insert_failed">"Не вдалося завантажити знімок екрану. Зробіть новий або перегляньте зображення в галереї."</string>
+    <string name="screenshot_long_screenshot">Прокрутка</string>
+    <string name="screenshot_send">Відправити</string>
+    <string name="search_menu_title">Пошук</string>
+</resources>

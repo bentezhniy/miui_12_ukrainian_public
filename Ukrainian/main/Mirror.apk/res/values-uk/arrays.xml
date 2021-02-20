@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+ бета-версія</item>
+        <item>З\'єднання &amp; спільна/MIUI+ бета-версія</item>
+        <item>Екран комбінату;Duet;Duo;Computer;Mirror;MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Вимкнути портативну точку доступу, Mi Share, або транслювати на ваш мобільний пристрій перед використанням цієї функції.
+2. Вимкніть Wi-Fi на вашому мобільному пристрої та комп'ютері.
+3. Переконайтеся, що ваш мобільний пристрій знаходиться близько до вашого комп'ютера. Ви не зможете підключити пристрої, якщо вони знаходяться в різних місцях."</item>
+        <item>Ваш комп\'ютер використовує Bluetooth для виявлення поблизу мобільних пристроїв, які раніше були під\'єднані. Перевірте, чи увімкнений Bluetooth на вашому мобільному пристрої.</item>
+        <item>"Мобільні пристрої не можуть синхронізувати дані з комп'ютерами, якщо екран заблокований. За замовчуванням, ця програма не дозволяє блокувати екран поки ваш мобільний пристрій підключений до комп'ютера. Це можна змінити в налаштуваннях."</item>
+        <item>"1. Сумісні мобільні пристрої: Mi 11, Mi 10 Ультра, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Редмі K30s Ультра, Редмі K20 Pro, Редмі K30 Pro. Якщо ви перенаправляєте на наш офіційний сайт після сканування QR-коду, ваш пристрій поки не підтримується.
+2. Сумісні комп'ютери: &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; , RedmiBook 16, RedmiBook 16, RedmiBook II, RedmiBook 14 II, RedmiBook Air 13. Завантажте MIUI+ бета-версію для свого комп'ютера: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Не вдалося з'єднатися з використанням QR-коду?"</item>
+        <item>"Не вдалося знайти мобільні пристрої за допомогою комп'ютера?"</item>
+        <item>"Не можете заблокувати свій мобільний пристрій?"</item>
+        <item>Сумісність</item>
+    </string-array>
+</resources>

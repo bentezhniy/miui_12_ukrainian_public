@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 годину тому</item>
+        <item quantity="few">1 годину тому</item>
+        <item quantity="many">1 годину тому</item>
+        <item quantity="other">1 годину тому</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d хв</item>
+        <item quantity="one">за 1 хв</item>
+        <item quantity="few">за %d хв</item>
+        <item quantity="many">за %d хв</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d хв. тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хв. тому</item>
+        <item quantity="many">%d хв. тому</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d років)"</item>
+        <item quantity="one">" (%1$d років)"</item>
+        <item quantity="few">" (%1$d років)"</item>
+        <item quantity="many">" (%1$d років)"</item>
+    </plurals>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d разів</item>
+        <item quantity="one">%1$d-%2$d час</item>
+        <item quantity="few">%1$d-%2$d разів</item>
+        <item quantity="many">%1$d-%2$d разів</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+        <item quantity="few">%1$d Cal</item>
+        <item quantity="many">%1$d Cal</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Проходьте хоча б %1$d кроків кожен день</item>
         <item quantity="one">Проходьте хоча б %1$d крок кожен день</item>
@@ -12,15 +84,65 @@
         <item quantity="few">%1$d дні</item>
         <item quantity="many">%1$d днів</item>
     </plurals>
-	<plurals name="dialog_choose_items">
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Тривалість періоду: %1$d днів</item>
+        <item quantity="one">Тривалість періоду: %1$d день</item>
+        <item quantity="few">Тривалість періоду: %1$d днів</item>
+        <item quantity="many">Тривалість періоду: %1$d днів</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Тривалість циклу: %1$d днів</item>
+        <item quantity="one">Тривалість циклу: %1$d день</item>
+        <item quantity="few">Тривалість циклу: %1$d днів</item>
+        <item quantity="many">Тривалість циклу: %1$d днів</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
         <item quantity="other">Вибраний: %1$d</item>
         <item quantity="one">Вибраний: %1$d</item>
+        <item quantity="few">Вибраний: %1$d</item>
+        <item quantity="many">Вибраний: %1$d</item>
     </plurals>
     <plurals name="dialog_delete_records_confirm">
         <item quantity="other">Видалити %1$d запис?</item>
         <item quantity="one">Видалити %1$d запис?</item>
-		<item quantity="few">Видалити %1$d запис?</item>
+        <item quantity="few">Видалити %1$d запис?</item>
         <item quantity="many">Видалити %1$d запис?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f км</item>
+        <item quantity="one">%1$.1f км</item>
+        <item quantity="few">%1$.1f км</item>
+        <item quantity="many">%1$.1f км</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d записів</item>
+        <item quantity="one">%1$d запис</item>
+        <item quantity="few">%1$d записів</item>
+        <item quantity="many">%1$d записів</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">" примірники"</item>
+        <item quantity="one">" інстанс"</item>
+        <item quantity="few">" примірники"</item>
+        <item quantity="many">" примірники"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d годин</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d годин</item>
+        <item quantity="many">%1$d годин</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d хв</item>
+        <item quantity="one">%1$d хв</item>
+        <item quantity="few">%1$d хв</item>
+        <item quantity="many">%1$d хв</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d сек</item>
+        <item quantity="one">%1$d сек</item>
+        <item quantity="few">%1$d сек</item>
+        <item quantity="many">%1$d сек</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Мета: %1$d кр.</item>
@@ -40,11 +162,53 @@
         <item quantity="few">%1$d кроки</item>
         <item quantity="many">%1$d кроків</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d циклів</item>
+        <item quantity="one">%1$d цикл</item>
+        <item quantity="few">%1$d циклів</item>
+        <item quantity="many">%1$d циклів</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Півгодини тому</item>
+        <item quantity="few">Півгодини тому</item>
+        <item quantity="many">Півгодини тому</item>
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d г.</item>
         <item quantity="one">%1$d г.</item>
         <item quantity="few">%1$d г.</item>
         <item quantity="many">%1$d г.</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">лишилося %1$d секунд</item>
+        <item quantity="one">лишилася %1$d секунда</item>
+        <item quantity="few">лишилося %1$d секунд</item>
+        <item quantity="many">лишилося %1$d секунд</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Через 1 годину</item>
+        <item quantity="few">Через 1 годину</item>
+        <item quantity="many">Через 1 годину</item>
+        <item quantity="other">Через 1 годину</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">За півгодини</item>
+        <item quantity="few">За півгодини</item>
+        <item quantity="many">За півгодини</item>
+        <item quantity="other">За півгодини</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Негайно</item>
+        <item quantity="few">Негайно</item>
+        <item quantity="many">Негайно</item>
+        <item quantity="other">Негайно</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d хвилин</item>
+        <item quantity="one">протягом 1 хвилини</item>
+        <item quantity="few">через %d хвилин</item>
+        <item quantity="many">через %d хвилин</item>
     </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d днів з останнього зважування</item>
@@ -58,9 +222,27 @@
         <item quantity="few">%1$d дня з останнього зважування</item>
         <item quantity="many">%1$d днів з останнього зважування</item>
     </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d метрів</item>
+        <item quantity="one">%1$d метр</item>
+        <item quantity="few">%1$d метрів</item>
+        <item quantity="many">%1$d метрів</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Щойно</item>
+        <item quantity="few">Щойно</item>
+        <item quantity="many">Щойно</item>
+        <item quantity="other">Щойно</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Ймовірний період почнеться через %1$d днів</item>
+        <item quantity="one">Ймовірний період почнеться через %1$d день</item>
+        <item quantity="few">Ймовірний період почнеться через %1$d днів</item>
+        <item quantity="many">Ймовірний період почнеться через %1$d днів</item>
+    </plurals>
     <plurals name="menstruation_sum_days">
-       <item quantity="other">%1$d-денна менструація</item>
-       <item quantity="one">%1$d-денна менструація</item>
+        <item quantity="other">%1$d-денна менструація</item>
+        <item quantity="one">%1$d-денна менструація</item>
         <item quantity="few">%1$d-денна менструація</item>
         <item quantity="many">%1$d-денна менструація</item>
     </plurals>
@@ -88,36 +270,149 @@
         <item quantity="few">%1$d хв</item>
         <item quantity="many">%1$d хв</item>
     </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d хв. тому</item>
+        <item quantity="one">%1$d хв. тому</item>
+        <item quantity="few">%1$d хв. тому</item>
+        <item quantity="many">%1$d хв. тому</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d нових сповіщень</item>
         <item quantity="one">%d нове сповіщення</item>
         <item quantity="few">%d нових сповіщення</item>
         <item quantity="many">%d нових сповіщень</item>
     </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d хвилин тому</item>
+        <item quantity="one">1 хвилину тому</item>
+        <item quantity="few">%d хвилин тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Мета: %1$d г.</item>
         <item quantity="one">Мета: %1$d г.</item>
+        <item quantity="few">Мета: %1$d г.</item>
+        <item quantity="many">Мета: %1$d г.</item>
     </plurals>
-	<plurals name="sleep_management_exp_hours">
+    <plurals name="sleep_management_exp_hours">
         <item quantity="other">"Поточні налаштування не гарантують вам %1$d г. сну. Потрібно більше."</item>
         <item quantity="one">"Поточні налаштування не гарантують вам %1$d г. сну. Потрібно більше."</item>
         <item quantity="few">"Поточні налаштування не гарантують вам %1$d г. сну. Потрібно більше."</item>
         <item quantity="many">"Поточні налаштування не гарантують вам %1$d г. сну. Потрібно більше."</item>
     </plurals>
-	<plurals name="step_num_format">
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">%s залишилися калорії, щоб спалити доки ви не досягнете своєї мети</item>
+        <item quantity="one">%s ще залишилася Калорія щоб горіти, доки ви не досягнете своєї мети</item>
+        <item quantity="few">%s залишилися калорії, щоб спалити доки ви не досягнете своєї мети</item>
+        <item quantity="many">%s залишилися калорії, щоб спалити доки ви не досягнете своєї мети</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">%s ще кілометрів залишилось, доки ви не досягнете своєї мети</item>
+        <item quantity="one">%s більше кілометрів залишилось, доки ви не досягнете своєї мети</item>
+        <item quantity="few">%s ще кілометрів залишилось, доки ви не досягнете своєї мети</item>
+        <item quantity="many">%s ще кілометрів залишилось, доки ви не досягнете своєї мети</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">%s хвилин залишилось, доки ви не досягнете своєї мети</item>
+        <item quantity="one">%s ще хвилини залишилася, доки ви досягнете своєї мети</item>
+        <item quantity="few">%s хвилин залишилось, доки ви не досягнете своєї мети</item>
+        <item quantity="many">%s хвилин залишилось, доки ви не досягнете своєї мети</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Ви циклікували %s кілометрів"</item>
+        <item quantity="one">"Ви циклили %s кілометрів"</item>
+        <item quantity="few">"Ви циклікували %s кілометрів"</item>
+        <item quantity="many">"Ви циклікували %s кілометрів"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Ти пробігаєш %s кілометрів"</item>
+        <item quantity="one">"Ти пробігаєш %s кілометр"</item>
+        <item quantity="few">"Ти пробігаєш %s кілометрів"</item>
+        <item quantity="many">"Ти пробігаєш %s кілометрів"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Ти спалив %s Калорій"</item>
+        <item quantity="one">"Ви спалили %s Калорія"</item>
+        <item quantity="few">"Ти спалив %s Калорій"</item>
+        <item quantity="many">"Ти спалив %s Калорій"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Ти пройшов %s кілометрів"</item>
+        <item quantity="one">"Ти пройшов %s кілометр"</item>
+        <item quantity="few">"Ти пройшов %s кілометрів"</item>
+        <item quantity="many">"Ти пройшов %s кілометрів"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Ви вже пройшли %1$s Калорії"</item>
+        <item quantity="one">"Ви вже спалили %1$s Калорія"</item>
+        <item quantity="few">"Ви вже пройшли %1$s Калорії"</item>
+        <item quantity="many">"Ви вже пройшли %1$s Калорії"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d хвилин</item>
+        <item quantity="one">%1$d хвилина</item>
+        <item quantity="few">%1$d хвилин</item>
+        <item quantity="many">%1$d хвилин</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Ви вже циклили %1$s кілометрів"</item>
+        <item quantity="one">"Ви вже циклили %1$s кілометрів"</item>
+        <item quantity="few">"Ви вже циклили %1$s кілометрів"</item>
+        <item quantity="many">"Ви вже циклили %1$s кілометрів"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Ти вже пробіг %1$s кілометрів"</item>
+        <item quantity="one">"Ви вже бігли %1$s кілометрів"</item>
+        <item quantity="few">"Ти вже пробіг %1$s кілометрів"</item>
+        <item quantity="many">"Ти вже пробіг %1$s кілометрів"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунд</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Ти вже пройшов %1$s кілометрів"</item>
+        <item quantity="one">"Ти вже пройшовся %1$s кілометр"</item>
+        <item quantity="few">"Ти вже пройшов %1$s кілометрів"</item>
+        <item quantity="many">"Ти вже пройшов %1$s кілометрів"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Ви вже пройшли %1$s кроків"</item>
+        <item quantity="one">"Ви вже пройшли %1$s крок"</item>
+        <item quantity="few">"Ви вже пройшли %1$s кроків"</item>
+        <item quantity="many">"Ви вже пройшли %1$s кроків"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Калорії</item>
+        <item quantity="one">%1$d Калорія</item>
+        <item quantity="few">%1$d Калорії</item>
+        <item quantity="many">%1$d Калорії</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s км</item>
+        <item quantity="one">%1$s км</item>
+        <item quantity="few">%1$s км</item>
+        <item quantity="many">%1$s км</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">кроки</item>
+        <item quantity="one">крок</item>
+        <item quantity="few">кроки</item>
+        <item quantity="many">кроки</item>
+    </plurals>
+    <plurals name="step_num_format">
         <item quantity="other">%1$d кроків</item>
         <item quantity="one">%1$d крок</item>
         <item quantity="few">%1$d кроку</item>
-     </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-        <item quantity="one">%1$d</item>
+        <item quantity="many">%1$d кроків</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
-        <item quantity="one">Ви не записали %1$d день. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
-        <item quantity="few">Ви не записали %1$d дні. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
-        <item quantity="many">Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози</item>
+        <item quantity="other">"Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози"</item>
+        <item quantity="one">"Ви не записали %1$d день. Запишіть свої періоди, щоб отримувати точніші прогнози"</item>
+        <item quantity="few">"Ви не записали %1$d дні. Запишіть свої періоди, щоб отримувати точніші прогнози"</item>
+        <item quantity="many">"Ви не записали %1$d днів. Запишіть свої періоди, щоб отримувати точніші прогнози"</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Цей період триває в цілому %1$d днів</item>
@@ -137,12 +432,49 @@
         <item quantity="few">%1$d-денний цикл</item>
         <item quantity="many">%1$d-денний цикл</item>
     </plurals>
-     <plurals name="times_format">
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d хвилин</item>
+        <item quantity="one">≤%1$d хвилину</item>
+        <item quantity="few">≤%1$d хвилин</item>
+        <item quantity="many">≤%1$d хвилин</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f годин</item>
+        <item quantity="one">%1$.2f год</item>
+        <item quantity="few">%1$.2f годин</item>
+        <item quantity="many">%1$.2f годин</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f годин</item>
+        <item quantity="one">%1$.1f-%2$.1f година</item>
+        <item quantity="few">%1$.1f-%2$.1f годин</item>
+        <item quantity="many">%1$.1f-%2$.1f годин</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d хвилин</item>
+        <item quantity="one">%1$d хвилина</item>
+        <item quantity="few">%1$d хвилин</item>
+        <item quantity="many">%1$d хвилин</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d хвилин</item>
+        <item quantity="one">%1$d-%2$d хвилина</item>
+        <item quantity="few">%1$d-%2$d хвилин</item>
+        <item quantity="many">%1$d-%2$d хвилин</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d разів</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d разів</item>
+        <item quantity="many">%1$d разів</item>
+    </plurals>
+    <plurals name="times_format">
         <item quantity="other">%1$d раз</item>
         <item quantity="one">%1$d раз</item>
-		<item quantity="few">%1$d раза</item>
-     </plurals>
-	 <plurals name="title_menstruation_day">
+        <item quantity="few">%1$d раза</item>
+        <item quantity="many">%1$d раз</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
         <item quantity="other">%1$d день менструації</item>
         <item quantity="one">%1$d день менструації</item>
         <item quantity="few">%1$d день менструації</item>
@@ -160,7 +492,7 @@
         <item quantity="few">Приблизно %1$d день менструації</item>
         <item quantity="many">Приблизно %1$d день менструації</item>
     </plurals>
-	<plurals name="title_today_exercise_steps">
+    <plurals name="title_today_exercise_steps">
         <item quantity="other">%1$d кроків сьогодні</item>
         <item quantity="one">%1$d крок сьогодні</item>
         <item quantity="few">%1$d кроку сьогодні</item>
@@ -171,6 +503,48 @@
         <item quantity="one">" день"</item>
         <item quantity="few">" дня"</item>
         <item quantity="many">" дней"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" велосипеди"</item>
+        <item quantity="one">" цикл"</item>
+        <item quantity="few">" велосипеди"</item>
+        <item quantity="many">" велосипеди"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" год "</item>
+        <item quantity="one">" год "</item>
+        <item quantity="few">" год "</item>
+        <item quantity="many">" год "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" годин "</item>
+        <item quantity="one">" година "</item>
+        <item quantity="few">" годин "</item>
+        <item quantity="many">" годин "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" хв "</item>
+        <item quantity="one">" хв "</item>
+        <item quantity="few">" хв "</item>
+        <item quantity="many">" хв "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" хвилин "</item>
+        <item quantity="one">" хвилина "</item>
+        <item quantity="few">" хвилин "</item>
+        <item quantity="many">" хвилин "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" секунд "</item>
+        <item quantity="one">" сек "</item>
+        <item quantity="few">" секунд "</item>
+        <item quantity="many">" секунд "</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" разів"</item>
+        <item quantity="one">" раз"</item>
+        <item quantity="few">" разів"</item>
+        <item quantity="many">" разів"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d років</item>

@@ -12,19 +12,22 @@
         <item quantity="few">%d сповіщення першого простору</item>
         <item quantity="many">%d сповіщень першого простору</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Пошук серед %d програм</item>
+        <item quantity="one">Пошук серед %d програми</item>
+        <item quantity="few">Пошук серед %d програм</item>
+        <item quantity="many">Пошук серед %d програм</item>
+    </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d сповіщень другого простору</item>
         <item quantity="one">%d сповіщення другого простору</item>
         <item quantity="few">%d сповіщення другого простору</item>
         <item quantity="many">%d сповіщень другого простору</item>
     </plurals>
-	<plurals name="search_app_count_txt_na">
-        <item quantity="other">Пошук серед %d програм</item>
-        <item quantity="one">Пошук серед %d програми</item>
-     </plurals>
-	 <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Лишилося %d днів до завершення прискорення мережі</item>
-        <item quantity="one">Лишився %d день до завершення прискорення мережі</item>
-        <item quantity="few">Лишилося %d дні до завершення прискорення мережі</item>
-     </plurals>
+    <plurals name="xspace_guide_content">
+        <item quantity="other">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
+        <item quantity="one">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;подвійний додаток&lt;/font&gt;</item>
+        <item quantity="few">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
+        <item quantity="many">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
+    </plurals>
 </resources>
