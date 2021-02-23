@@ -185,7 +185,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">Сканування онлайн</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Завантажувати інформацію про програми на сервер для сканування вирусів"</string>
     <string name="antivirus_privacy_dialog_ok">ОК</string>
-    <string name="antivirus_privacy_dialog_summary">За використанням цієї фунції ID Вашого пристрою буде зашифровано й надіслано на сервера AVL і Tencent (%s)</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Ця функція працює на сторонньому антивірусному двигуні. Щоб дізнатися більше, прочитайте &lt;a href=\"%1$s\"&gt;Ліцензійну угоду&lt;/a&gt; , що надається третьою стороною</Data></string>
     <string name="antivirus_privacy_dialog_summary_kddi"><Data>\"Коли ви виконуєте сканування безпеки, результати вашого пристрою та сканування будуть завантажені на %1$s сервери і використовуються відповідно до &lt;a href=\"%2$s\"&gt;умов&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Прочитайте і погодьтеся з умовами %3$sдо виконання сканувань безпеки.&lt;br/&gt;&lt;br/&gt;Якщо ви не погоджуєтесь вивантажувати дані на %4$s серверів, все ще можна використовувати визначення вірусу, що зберігаються локально на вашому пристрої.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Політика конфіденційності</string>
     <string name="antivirus_privacy_dialog_title">Політика конфіденційності</string>
@@ -1398,12 +1398,12 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="fixed_cellular_data_quota_monthly">Місячна межа даних</string>
     <string name="fixed_package_tips">Додаткові збори будуть створені після досягнення ліміту</string>
     <string name="fixed_traffic_quota">Обмеження даних (обов\'язково)</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fod_authentication_shift_button">Скасувати</string>
     <string name="fod_button_finger">Використовувати відбиток пальця</string>
     <string name="fod_button_password">Введіть пароль</string>
@@ -2107,7 +2107,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="mixed_password_confirmed_header_confirm">Встановлено. Натисніть для підтвердження</string>
     <string name="mixed_password_confirmed_header_continue">Встановлено. Натисніть \"Далі\"</string>
     <string name="mixed_pattern_entered_header">Пароль встановлено</string>
-    <string name="mixed_recording_intro_header">Введіть не менше 4 символів</string>
+    <string name="mixed_recording_intro_header">Введіть %1$s-%2$s символів</string>
     <string name="mixed_retry_button_text">Скасувати</string>
     <string name="mixed_settings_help_how_to_record">Як встановити пароль</string>
     <string name="modify_cellular_type">Торкніться, щоб обрати свій тарифний план</string>
@@ -2915,7 +2915,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="pref_key_tethering_setting">Межа трафіку</string>
     <string name="pref_key_tethering_title">Межа трафіку</string>
     <string name="pref_manual_adjust">Ввести трафік вручну</string>
-    <string name="pref_mi_sim_settings">Налаштування Mi SIM</string>
+    <string name="pref_mi_sim_settings">%s настройки пакунків</string>
     <string name="pref_more_settings">Додатково</string>
     <string name="pref_new_installed_preconfig_title">"Налаштування для нових програм"</string>
     <string name="pref_normal_traffic_limit">Дія</string>
@@ -3213,7 +3213,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="renew_now">Продовжити</string>
     <string name="repair">Виправити</string>
     <string name="repair_loading_text">Завантаження…</string>
-    <string name="repeated_marked_number_summary">"Не блокувати повторний виклик із відміченого номеру"</string>
+    <string name="repeated_marked_number_summary">"Не блокувати другий дзвінок від того самого повідомленого номера протягом %d хвилин"</string>
     <string name="repeated_marked_number_title">"Не блокувати повторні виклики"</string>
     <string name="replace_dns">Автоматична заміна</string>
     <string name="report">Звіт</string>
@@ -3584,7 +3584,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="st_msg_settings">Блокування повідомлень</string>
     <string name="st_msg_stranger_group">Невідомі повідомлення</string>
     <string name="st_settings_name">Налаштування</string>
-    <string name="st_share_settings">Об\'єднати налаштування з SIM 1</string>
+    <string name="st_share_settings">Використовувати налаштування SIM %d</string>
     <string name="st_sub_title_customize_mode_name">Назва режиму</string>
     <string name="st_sub_title_whiteblack_list_group">Списки блокування</string>
     <string name="st_sum_call_wait">Ваш сигнал блокування буде звучати для всіх абонентів</string>

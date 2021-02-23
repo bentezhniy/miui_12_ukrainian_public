@@ -145,7 +145,7 @@
     <string name="other_settings_enhanced_lockscreen">Карусель шпалер</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Погляд на Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Політика конфіденційності</string>
-    <string name="other_settings_enhanced_lockscreen_summary">Отримуйте щоденні добірки зображень на екран блокування. Прийняти Умови використання.</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Отримуйте зігнуті зображення та історії, доставлені на екран блокування щодня. %1$s і %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Умови використання</string>
     <string name="other_settings_location">Доступ до місцезнаходження</string>
     <string name="other_settings_location_summary">Дозволити програмам визначати місцезнаходження</string>
@@ -211,7 +211,7 @@
     <string name="privacy_provision_title">Конфіденційність</string>
     <string name="protect_persoanl_info_statement">Ми повинні захищати вашу особисту інформацію відповідно до відповідних законів, положень та політики конфіденційності.</string>
     <string name="provision_back">Відмінити</string>
-    <string name="provision_inputmethod_policy_description">Перегляд обраної клавіатури</string>
+    <string name="provision_inputmethod_policy_description"><Data>Подивитися &lt;a href=%1$s&gt;Політику конфіденційності&lt;/a &gt; вашої обраної клавіатури.</Data></string>
     <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
     <string name="provision_next">Уперед</string>
     <string name="provision_skip_underline">Пропустити</string>
@@ -271,7 +271,9 @@
     <string name="system_navigation_mode">Режим навігації</string>
     <string name="terms_of_use">Умови користування</string>
     <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
-    <string name="terms_of_use_label">"Необхідно прийняти Угоду користувача та Політику конфіденційності перед використанням MIUI"</string>
+    <string name="terms_of_use_label">"Прочитайте нашу Угоду про конфіденційність та зрозумійте, яку інформацію ми збираємо, як ми її використовуємо і які варіанти можна використовувати.
+Ви повинні погодитися з нашою Угодою про Користувача та Політикою Конфіденційності, перш ніж ви зможете використовувати MIUI.
+%s і компоненти Mi Account будуть підключатися до Інтернету і отримувати ваше місцезнаходження."</string>
     <string name="terms_of_use_label_Mistore">, Mi Store плагін системи</string>
     <string name="terms_of_use_label_package">, програма встановлення пакунків</string>
     <string name="terms_of_use_label_phrase">, найчастіші фрази</string>

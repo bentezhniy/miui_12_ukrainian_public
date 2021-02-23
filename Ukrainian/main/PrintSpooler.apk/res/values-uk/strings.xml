@@ -71,7 +71,7 @@
     <string name="print_fail_network_error">"Неможливо роздрукувати. Перевірте налаштування мережі та спробуйте ще раз"</string>
     <string name="print_forget_printer">Згадати</string>
     <string name="print_help_label">Допомога</string>
-    <string name="print_help_tip">Переконайтеся, що ваш пристрій і принтер підключені до однієї і тієї ж мережі Wi-Fi</string>
+    <string name="print_help_tip">Переконайтеся, що і принтер і ваш телефон підключені до однієї мережі Wi-Fi або ввімкнено Wi-Fi Direct %1$s.</string>
     <string name="print_help_tip_reg">Допомога</string>
     <string name="print_no_print_services">Служби друку недоступні</string>
     <string name="print_no_printers">Принтери не знайдені</string>

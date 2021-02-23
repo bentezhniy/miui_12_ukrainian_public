@@ -260,7 +260,6 @@
     <string name="bill_center_setting">Налаштування даних платежів</string>
     <string name="bill_center_setting_head">Імпорт інформації з акакунту</string>
     <string name="bill_cycle_text">Платіжний цикл</string>
-    <string name="bill_list_card_num_fmt">**** **** **** %s</string>
     <string name="bill_remind">Нагадування про сплату</string>
     <string name="bill_remind_due">Сплата виконується до %s</string>
     <string name="blank_feedback_toast">Неможливо надіслати порожній звіт</string>

@@ -207,12 +207,12 @@
     <string name="flash_close">закрити</string>
     <string name="flash_open">відчинено</string>
     <string name="flight_mode_connecting_to_wifi">Увімкніть Wi-Fi вручну, коли активний режим польоту.</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="food_identification_fail_tips">Проскануйте фрукти, овочі та інші їжі. Цей параметр також працює з зображеннями.</string>
     <string name="food_identification_tip_msg">Розпізнавання їжі…</string>
     <string name="food_make_complaints_hint">Введіть відгук тут</string>
@@ -258,7 +258,7 @@
     <string name="importFailed">"Не вдалося імпортувати"</string>
     <string name="import_contact">Імпортувати контакт</string>
     <string name="import_picture">Імпорт</string>
-    <string name="impunity_declaration_content">"Дозволити додаткові підключатися до інтернету?"</string>
+    <string name="impunity_declaration_content">"Сканер повинен використовувати вашу камеру та обробляти зображення, які ви берете під час використання додатку. Не використовуйте сканер, щоб робити фото об'єктів, що містять вашу персональну інформацію. Натискаючи \"Згід\", ви погоджуєтеся з нашою &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Політикою конфіденційності&lt;/a&gt;&lt;/font&gt; і дозволяючи сканеру підключитися до Інтернету."</string>
     <string name="impunity_declaration_negative_text">Скасувати</string>
     <string name="impunity_declaration_title">Попередження</string>
     <string name="intelligent_recognition">Впізнавати</string>
@@ -297,7 +297,7 @@
     <string name="miracast_connect_fail">"Неможливо під'єднатись"</string>
     <string name="miracast_connecting">З\'єднання…</string>
     <string name="miracast_details">Скануйте QR-код для під\'єднання:</string>
-    <string name="miracast_message">Під\'єднатися до Mi TV?</string>
+    <string name="miracast_message">Транслювати на %s?</string>
     <string name="miracast_switch_off">WiDi вимкнено</string>
     <string name="miracast_switch_tip">Увімкніть WiDi для використання цієї функції</string>
     <string name="mishop">Магазин Mi</string>

@@ -141,6 +141,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Допомога на слуху…</string>
     <string name="bluetooth_hid_profile_summary_connected">Підключено до пристрою введення</string>
     <string name="bluetooth_hid_profile_summary_use_for">Використовується для введення</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Підключено до LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Використовувати для LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Під’єднано до MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Використовується для MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Підключ. до сервера передачі файлів</string>
@@ -169,6 +171,7 @@
     <string name="bluetooth_profile_headset">Телефонні дзвінки</string>
     <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
     <string name="bluetooth_profile_hid">Пристрій вводу</string>
+    <string name="bluetooth_profile_le_audio">Дозволити</string>
     <string name="bluetooth_profile_map">Використовується для доступу до повідомлень</string>
     <string name="bluetooth_profile_opp">Пересилка файлів</string>
     <string name="bluetooth_profile_pan">Доступ до Інтернету</string>

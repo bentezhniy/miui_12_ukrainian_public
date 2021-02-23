@@ -41,10 +41,10 @@
         <item quantity="many">"Створено: %1$s | всього %2$d треків"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">Додано %d треків в плейлист</item>
-        <item quantity="one">Трек доданий до списку відтворення</item>
-        <item quantity="few">Додано %d треку в плейлист</item>
-        <item quantity="many">Додано %d треків в плейлист</item>
+        <item quantity="other">%d пісень додано до списку відтворення</item>
+        <item quantity="one">%d пісню додано в плейлист</item>
+        <item quantity="few">%d пісень додано до списку відтворення</item>
+        <item quantity="many">%d пісень додано до списку відтворення</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d треків</item>
@@ -53,10 +53,10 @@
         <item quantity="many">%d треків</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">Вилучено %d треків зі списку відтворення</item>
-        <item quantity="one">Трек видалений зі списку відтворення</item>
-        <item quantity="few">Вилучено %d треки зі списку відтворення</item>
-        <item quantity="many">Вилучено %d треків зі списку відтворення</item>
+        <item quantity="other">%d пісень видалено зі списку відтворення</item>
+        <item quantity="one">%d композиція видалена з плейлиста</item>
+        <item quantity="few">%d пісень буде надіслано</item>
+        <item quantity="many">%d пісень буде надіслано</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d схожих треків</item>
@@ -257,8 +257,8 @@
         <item quantity="many">%d читачів</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">Надсилання %d треків</item>
-        <item quantity="one">Надсилання треку</item>
+        <item quantity="other">%d пісень буде надіслано</item>
+        <item quantity="one">%d пісня буде надіслано</item>
         <item quantity="few">Надсилання %d треків</item>
         <item quantity="many">Надсилання %d треків</item>
     </plurals>

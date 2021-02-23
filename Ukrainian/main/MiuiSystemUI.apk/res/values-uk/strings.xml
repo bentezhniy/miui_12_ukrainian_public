@@ -326,8 +326,8 @@
     <string name="alarm_template_far">у %1$s</string>
     <string name="allow_mock_location">Фіктивні місцезнаходження</string>
     <string name="allow_mock_location_summary">Дозволити використання фіктивних місцезнаходжень</string>
-    <string name="always_use_accessory">Використовувати за замовчуванням для цього USB-аксесуар</string>
-    <string name="always_use_device">Використовувати за замовчуванням для цього USB-пристрою</string>
+    <string name="always_use_accessory">Завжди відкривати %1$s коли %2$s підключено</string>
+    <string name="always_use_device">Завжди відкривати %1$s коли %2$s підключено</string>
     <string name="animator_duration_scale_title">Швидкість анімації</string>
     <string name="apn_settings_not_available">"Цей користувач не може змінювати налаштування точки доступу"</string>
     <string name="app_accessed_mic">%1$s має доступ до вашого мікрофону</string>
@@ -369,7 +369,7 @@
     <string name="battery_info_status_full">Батарея заряджається</string>
     <string name="battery_info_status_not_charging">"Не заряджається"</string>
     <string name="battery_info_status_unknown">Невідомо</string>
-    <string name="battery_low_percent_format">Лишилося %d%%</string>
+    <string name="battery_low_percent_format">%s залишилось</string>
     <string name="battery_low_percent_format_hybrid">%1$s залишилось, приблизно %2$s залишилося на основі вашого використання</string>
     <string name="battery_low_percent_format_hybrid_short">%1$s залишилось, приблизно %2$s залишилося</string>
     <string name="battery_low_percent_format_saver_started">Залишилося %s. Увімкнено режим енергозбереження</string>
@@ -425,15 +425,15 @@
     <string name="bluetooth_active_no_battery_level">Активний</string>
     <string name="bluetooth_battery_level">%1$s батареї</string>
     <string name="bluetooth_battery_level_untethered">Л: батарея %1$s; П: батарея %2$s.</string>
-    <string name="bluetooth_connected">Під\'єднано</string>
+    <string name="bluetooth_connected">Під\'єднано %1$s</string>
     <string name="bluetooth_connected_battery_level">Підключено, батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp">Під\'єднано (без доступу до медіа)</string>
+    <string name="bluetooth_connected_no_a2dp">Підключено (немає медіа) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Підключено (без медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Під\'єднано (без доступу до телефону)</string>
+    <string name="bluetooth_connected_no_headset">Підключено (окрім телефону)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Підключено (без телефону), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Під\'єднано (без доступу до медіа або телефону)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Підключено (окрім телефону чи медіа) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Підключено (без телефону чи медіа), батарея %1$s%2$s</string>
-    <string name="bluetooth_connected_no_map">Під\'єднання (без доступу до повідомлень)</string>
+    <string name="bluetooth_connected_no_map">Підключено (немає доступу до повідомлення) %1$s</string>
     <string name="bluetooth_connecting">З\'єднання…</string>
     <string name="bluetooth_disable_absolute_volume">Вимкнути абсолютний рівень гучності</string>
     <string name="bluetooth_disable_absolute_volume_summary">Вимкнути абсолютний рівень гучності Bluetooth при виникненні проблем на віддалених пристроях, наприклад при занадто гучному звучанні або неможливості контролювати налаштування.</string>
@@ -455,6 +455,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Сполучення правого навушника…</string>
     <string name="bluetooth_hid_profile_summary_connected">Під\'єднано як пристрій введення</string>
     <string name="bluetooth_hid_profile_summary_use_for">Використання як пристрій введення</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Підключено до LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Використовувати для LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Під\'єднано з доступом  до повідомлень</string>
     <string name="bluetooth_map_profile_summary_use_for">Використання доступу до повідомлень</string>
     <string name="bluetooth_opp_profile_summary_connected">Підключено з доступом до файлів</string>
@@ -480,6 +482,7 @@
     <string name="bluetooth_profile_headset">Аудіо телефону</string>
     <string name="bluetooth_profile_hearing_aid">Слуховий апарат</string>
     <string name="bluetooth_profile_hid">Пристрій вводу</string>
+    <string name="bluetooth_profile_le_audio">Дозволити</string>
     <string name="bluetooth_profile_map">Доступ до повідомлень</string>
     <string name="bluetooth_profile_opp">Доступ до файлів</string>
     <string name="bluetooth_profile_pan">Доступ до інтернету</string>
@@ -1005,9 +1008,9 @@
     <string name="keyguard_enter_your_password">Введіть пароль</string>
     <string name="keyguard_enter_your_pattern">Введіть ключ</string>
     <string name="keyguard_enter_your_pin">Введіть PIN-код</string>
-    <string name="keyguard_indication_charging_time">Заряджання (до повного заряду %s)</string>
-    <string name="keyguard_indication_charging_time_fast">Швидка зарядка (до повного заряду %s)</string>
-    <string name="keyguard_indication_charging_time_slowly">Повільне заряджання (до повного заряду %s)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Заряджання (%1$s до повного зарядження)</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Швидке заряджання (%1$s до повного заряду)</string>
+    <string name="keyguard_indication_charging_time_slowly">%2$s • Повільне заряджання (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Бездротова зарядка (%1$s до повного зарядження)</string>
     <string name="keyguard_indication_trust_disabled">Пристрій буде заблоковано, поки Ви не розблокуєте його вручну</string>
     <string name="keyguard_indication_trust_unlocked">Kept розблоковано TrustAgent</string>
@@ -1036,9 +1039,9 @@
     <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-картка остаточно заблокована.
  Щоб отримати нову SIM-картку, зверніться до оператора мобільного зв'язку."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-картка заблокована</string>
-    <string name="keyguard_plugged_in">Заряджається</string>
-    <string name="keyguard_plugged_in_charging_fast">Швидка зарядка</string>
-    <string name="keyguard_plugged_in_charging_slowly">Повільна зарядка</string>
+    <string name="keyguard_plugged_in">%s • Заряджання</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Швидке заряджання</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Повільне заряджання</string>
     <string name="keyguard_plugged_in_wireless">%s • Бездротова зарядка</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Швидка зарядка. Натисніть, щоб переглянути деталі</string>
     <string name="keyguard_retry">Проведіть вгору, щоб спробувати ще раз</string>
@@ -1641,6 +1644,7 @@ d MMMM"</string>
     <string name="quick_settings_screenshot_label">Скріншот</string>
     <string name="quick_settings_secondary_label_until">До %s</string>
     <string name="quick_settings_settings_label">Налаштування</string>
+    <string name="quick_settings_sim_disabled">" (Вимкнено)"</string>
     <string name="quick_settings_sync_label">Синхронізація</string>
     <string name="quick_settings_tethering_label">Режим модему</string>
     <string name="quick_settings_time_label">Час</string>
@@ -1944,8 +1948,8 @@ d MMMM"</string>
     <string name="unlockscreen_low_battery">Підключіть зарядний пристрій</string>
     <string name="unlockscreen_recharge_completed">Батарея заряджена</string>
     <string name="unlockscreen_recharging_message">Заряджається (%d%%)</string>
-    <string name="usb_accessory_confirm_prompt">Відкрити %1$s коли цей USB аксесуар підключено?</string>
-    <string name="usb_accessory_permission_prompt">Дозволити програмі %1$s доступ до USB-аксесуару?</string>
+    <string name="usb_accessory_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_accessory_uri_prompt">Немає встановлених програм працюючих з цим USB аксесуаром. Дізнайтесь більше про цей пристрій на %1$s</string>
     <string name="usb_audio_disable_routing">Вимк. передачу аудіо (USB)</string>
     <string name="usb_audio_disable_routing_summary">Вимк. автом. маршрутизацію на зовн. USB-пристрої</string>
@@ -1959,10 +1963,10 @@ d MMMM"</string>
     <string name="usb_debugging_secondary_user_message">"У цьому акаунті неможливо вмикати налагодження по USB. Перейдіть в акаунт основного користувача"</string>
     <string name="usb_debugging_secondary_user_title">USB-налагодження заборонено</string>
     <string name="usb_debugging_title">Вимкнено налагодження по USB?</string>
-    <string name="usb_device_confirm_prompt">Відкрити %1$s коли цей USB пристрій підключено?</string>
+    <string name="usb_device_confirm_prompt">Відкрийте %1$s, щоб обробляти %2$s?</string>
     <string name="usb_device_confirm_prompt_warn">"Відкрийте %1$s , щоб обробляти %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
-    <string name="usb_device_permission_prompt">Дозволити програмі \"%1$s\" доступ до USB пристрою?</string>
+    <string name="usb_device_permission_prompt">Дозволити %1$s доступ до %2$s?</string>
     <string name="usb_device_permission_prompt_warn">"Дозволити додатку %1$s отримати доступ до %2$s?
 Цей додаток не було надано дозвіл на запис, але він може отримати звук через USB-пристрій."</string>
     <string name="usb_disable_contaminant_detection">Увімкнути USB</string>

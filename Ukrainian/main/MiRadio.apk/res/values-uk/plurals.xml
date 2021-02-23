@@ -343,10 +343,10 @@
         <item quantity="many">Нижче наведено %1$d оновлень для вас:</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">Знайдено станцій: %1$d</item>
-        <item quantity="one">Знайдено станцій: 1</item>
-        <item quantity="few">Знайдено станцій: %1$d</item>
-        <item quantity="many">Знайдено станцій: %1$d</item>
+        <item quantity="other">%1$d станцій відскановано</item>
+        <item quantity="one">%1$d станцій відскановано</item>
+        <item quantity="few">%1$d станцій відскановано</item>
+        <item quantity="many">%1$d станцій відскановано</item>
     </plurals>
     <plurals name="total_chapter_count">
         <item quantity="other">%1$d серій</item>

@@ -5,7 +5,6 @@
     <string name="ack_record">Запис підтвердження</string>
     <string name="airplane_error_msg">"У режимі польоту не можна використовувати Bluetooth"</string>
     <string name="airplane_error_title">Режим польоту</string>
-    <string name="app_name">Передача через Bluetooth</string>
     <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
     <string name="auth_notif_ticker">Запит на аутентифікацію Obex</string>
     <string name="auth_notif_title">Ключ сеансу</string>
@@ -41,7 +40,6 @@
     <string name="bt_enable_line2">Увімкнути Bluetooth?</string>
     <string name="bt_enable_ok">Увімкнути</string>
     <string name="bt_error_btn_ok">ОК</string>
-    <string name="bt_share_picker_label">Bluetooth</string>
     <string name="bt_sm_2_1_default">"Недостатньо місця на карті пам'яті, щоб зберегти файл від \"%1$s\""</string>
     <string name="bt_sm_2_1_nosdcard">"На носії USB недостатньо місця, щоб зберегти файл від \"%1$s\""</string>
     <string name="bt_sm_2_2">Потрібне вільне місце: %1$s</string>

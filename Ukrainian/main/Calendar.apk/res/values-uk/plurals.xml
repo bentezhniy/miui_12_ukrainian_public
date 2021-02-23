@@ -6,23 +6,11 @@
         <item quantity="few">%d дні</item>
         <item quantity="many">%d днів</item>
     </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">Через %1$d днів</item>
-        <item quantity="one">Через %1$d день</item>
-        <item quantity="few">Через %1$d дні</item>
-        <item quantity="many">Через %1$d днів</item>
-    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Через %1$d днів о %2$s</item>
         <item quantity="one">Через %1$d день о %2$s</item>
         <item quantity="few">Через %1$d дні о %2$s</item>
         <item quantity="many">Через %1$d днів о %2$s</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="other">%1$d днів назад</item>
-        <item quantity="one">%1$d день назад</item>
-        <item quantity="few">%1$d дні назад</item>
-        <item quantity="many">%1$d днів назад</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d днів назад о %2$s</item>
@@ -221,12 +209,6 @@
         <item quantity="few">Щойно</item>
         <item quantity="many">Щойно</item>
         <item quantity="other">Щойно</item>
-    </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d сповіщення</item>
