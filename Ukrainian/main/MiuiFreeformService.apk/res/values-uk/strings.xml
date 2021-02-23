@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Плаваюче вікно</string>
+    <string name="app_name">Плаваючі вікна</string>
     <string name="contentDescription">Переміщення вікна</string>
     <string name="freeform_demo_back">Відмінити</string>
     <string name="freeform_demo_final_over">Виконано</string>

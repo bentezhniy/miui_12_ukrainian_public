@@ -31,10 +31,10 @@
         <item quantity="many">%1$s секунди</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Тривала затримка (%1$d мсек.)</item>
-        <item quantity="one">Тривала затримка (%1$d мсек.)</item>
-        <item quantity="few">Тривала затримка (%1$d мсек.)</item>
-        <item quantity="many">Тривала затримка (%1$d мсек.)</item>
+        <item quantity="other">Довга (%1$s секунд)</item>
+        <item quantity="one">Довга (%1$s секунд)</item>
+        <item quantity="few">Довга (%1$s секунд)</item>
+        <item quantity="many">Довга (%1$s секунд)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Середнє (%1$s секунд)</item>
@@ -43,10 +43,10 @@
         <item quantity="many">Середнє (%1$s секунд)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Коротка затримка (%1$d мсек.)</item>
-        <item quantity="one">Коротка затримка (%1$d мсек.)</item>
-        <item quantity="few">Коротка затримка (%1$d мсек.)</item>
-        <item quantity="many">Коротка затримка (%1$d мсек.)</item>
+        <item quantity="other">Коротко (%1$s секунд)</item>
+        <item quantity="one">Короткий (%1$s секунд)</item>
+        <item quantity="few">Короткий (%1$s секунд)</item>
+        <item quantity="many">Короткий (%1$s секунд)</item>
     </plurals>
     <plurals name="app_link_open_always_summary">
         <item quantity="other">Звіти про додаток для обробки %d посилань</item>
@@ -211,10 +211,10 @@
         <item quantity="many">Не менше %d програм</item>
     </plurals>
     <plurals name="firewall_item_summary">
-        <item quantity="other">%d програмам недоступне з\'єднання</item>
-        <item quantity="one">%d програмі недоступне з\'єднання</item>
-        <item quantity="few">%d програмам недоступне з\'єднання</item>
-        <item quantity="many">%d програмам недоступне з\'єднання</item>
+        <item quantity="other">Обмежене підключення для %s додатків</item>
+        <item quantity="one">Обмежене з\'єднання для %s додатка</item>
+        <item quantity="few">Обмежене з\'єднання для %s додатка</item>
+        <item quantity="many">Обмежене підключення для %s додатків</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">Підключено %1$d користувачів</item>
@@ -350,7 +350,7 @@
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d програм використовують пам\'ять (%2$s)</item>
-        <item quantity="one">%1$d програма використовує пам\'ять (%2$s)</item>
+        <item quantity="one">1 додаток використав пам\'ять за останній %2$s</item>
         <item quantity="few">%1$d програми використовують пам\'ять (%2$s)</item>
         <item quantity="many">%1$d програм використовують пам\'ять (%2$s)</item>
     </plurals>
@@ -577,16 +577,16 @@
         <item quantity="many">Перевірити сертифікати</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s програм без сповіщень"</item>
-        <item quantity="one">"%s програма без сповіщення"</item>
-        <item quantity="few">"%s програми без сповіщень"</item>
-        <item quantity="many">"%s програм без сповіщень"</item>
+        <item quantity="other">"%d додатка не можуть показувати сповіщення"</item>
+        <item quantity="one">"%d додаток не може показувати сповіщення"</item>
+        <item quantity="few">"%d додаток не може показувати сповіщення"</item>
+        <item quantity="many">"%d додатка не можуть показувати сповіщення"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s програм зі сповіщеннями</item>
-        <item quantity="one">%s програма зі сповіщеннями</item>
-        <item quantity="few">%s програми зі сповіщеннями</item>
-        <item quantity="many">%s програм зі сповіщеннями</item>
+        <item quantity="other">%d додатка можуть показувати сповіщення</item>
+        <item quantity="one">%d додаток може показувати сповіщення</item>
+        <item quantity="few">%d додаток може показувати сповіщення</item>
+        <item quantity="many">%d додатка можуть показувати сповіщення</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d пропозицій</item>
@@ -799,14 +799,14 @@
         <item quantity="many">%d інших</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
-        <item quantity="one">Зміна сигналу тільки протягом %1$d години до %2$s</item>
-        <item quantity="few">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
-        <item quantity="many">Зміна сигналу тільки протягом %1$d годин до %2$s</item>
+        <item quantity="other">Вибрати сигнали лише на %1$d годин до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну годину до %2$s</item>
+        <item quantity="few">Вибрати сигнали лише на %1$d годин до %2$s</item>
+        <item quantity="many">Вибрати сигнали лише на %1$d годин до %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
-        <item quantity="one">Зміна сигналу тільки протягом %1$d хвилини до %2$s</item>
+        <item quantity="one">Змінити будильники лише на одну хвилину до %2$s</item>
         <item quantity="few">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
         <item quantity="many">Зміна сигналу тільки протягом %1$d хвилин до %2$s</item>
     </plurals>

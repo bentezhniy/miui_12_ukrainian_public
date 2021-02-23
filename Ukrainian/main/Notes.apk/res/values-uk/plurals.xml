@@ -217,9 +217,9 @@
         <item quantity="many">%1$s завдань</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s символів</item>
-        <item quantity="one">%s символ</item>
-        <item quantity="few">%s символи</item>
-        <item quantity="many">%s символів</item>
+        <item quantity="other">%d символів</item>
+        <item quantity="one">%d символ</item>
+        <item quantity="few">%d символів</item>
+        <item quantity="many">%d символів</item>
     </plurals>
 </resources>

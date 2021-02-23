@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
     <string name="abc_action_bar_home_description">Перейти на головну</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Більше опцій</string>
@@ -60,7 +59,6 @@
     <string name="apk_status_install">Інстальовано</string>
     <string name="apk_status_installed_old">Стара версія</string>
     <string name="apk_status_uninstalled">Не інстальовано</string>
-    <string name="apk_title_alipay_plugin">Плагін Alipay</string>
     <string name="app_clean_group_document_recv">Отримані</string>
     <string name="app_clean_group_document_send">Відправлені</string>
     <string name="app_clean_group_image_recv">Отримані</string>
@@ -255,7 +253,6 @@
     <string name="deepclean_list_item_from_dcim_thumbnails">Ескізи</string>
     <string name="deepclean_list_item_from_download">Завантаження</string>
     <string name="deepclean_list_item_from_gallery">Галерея</string>
-    <string name="deepclean_list_item_from_miui">miui</string>
     <string name="deepclean_list_item_from_music">music</string>
     <string name="deepclean_list_item_from_sdcard">Внутрішня пам\'ять</string>
     <string name="deepclean_normal_item_desc1">Загальне очищення</string>
@@ -310,10 +307,8 @@
     <string name="empty_title_photos">Немає фото</string>
     <string name="empty_title_residual">Сміття не знайдене</string>
     <string name="empty_title_video">Немаж відео​</string>
-    <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Запуск…</string>
     <string name="engine_mi">Сяомі</string>
-    <string name="engine_tm">Tencent</string>
     <string name="expand_button_title">Додатково</string>
     <string name="facebook_clean_exit_confirm_cancel">Продовжити</string>
     <string name="facebook_clean_exit_confirm_msg">"Сканування Facebook не було завершено. Зупинити сканування?"</string>
@@ -323,7 +318,6 @@
     <string name="facebook_function_summery">Очистити значення, кешовані через Facebook</string>
     <string name="facebook_function_title">Очищувач Facebook</string>
     <string name="facebook_group_cache">Файли даних</string>
-    <string name="facebook_group_gif">GIF</string>
     <string name="facebook_group_image">Зображення</string>
     <string name="facebook_group_video">Відео</string>
     <string name="file">Файли</string>
@@ -342,7 +336,6 @@
     <string name="global_wa_clean_icon_text">Очищення WhatsApp</string>
     <string name="global_wa_clean_now">Очищення</string>
     <string name="global_wa_document">Документ</string>
-    <string name="global_wa_gif">GIF</string>
     <string name="global_wa_group_advice">Рекомендація</string>
     <string name="global_wa_group_clean_earlier">Раньше</string>
     <string name="global_wa_group_clean_last_month">Минулий місяць</string>
@@ -443,7 +436,6 @@
     <string name="hints_list_item_unlock">Очищення</string>
     <string name="hints_loading_text">Завантаження…</string>
     <string name="hints_memory_header_left">Пам\'ять</string>
-    <string name="hints_num">0</string>
     <string name="hints_privacy_header_left">Конфіденційність: %d</string>
     <string name="hints_quick_cleanning">Очищення…</string>
     <string name="hints_quick_cleanuping">Оптимізація…</string>
@@ -471,32 +463,6 @@
     <string name="installed">Встановлені</string>
     <string name="installing">Встановлення…</string>
     <string name="item_title_process_mode">Режим очищення</string>
-    <string name="junk_syscache_alert_desc">Цей кеш не рекомендовано видаляти. Очищення може вплинути на роботу програми.</string>
-    <string name="junk_tag_RF_DalvikCacheLeftovers">Системний кеш (Dalvik-Cache)</string>
-    <string name="junk_tag_RF_DemoVideo_LG">Демо відео LG</string>
-    <string name="junk_tag_RF_DemoVideo_MIUI">Демо відео Xiaomi</string>
-    <string name="junk_tag_RF_DemoVideo_Samsung">Демо відео Samsung</string>
-    <string name="junk_tag_RF_DemoVideo_Sony">Демо відео Sony</string>
-    <string name="junk_tag_RF_EmptyFolders">Порожні теки</string>
-    <string name="junk_tag_RF_ImageThumbnails">Ескізи Галереї</string>
-    <string name="junk_tag_RF_LibsDirFiles">Сміття</string>
-    <string name="junk_tag_RF_LogFiles">Логи</string>
-    <string name="junk_tag_RF_LostDirFiles">Системне сміття</string>
-    <string name="junk_tag_RF_MFCacheDirFiles">Кеш</string>
-    <string name="junk_tag_RF_TaobaoLogFiles">Логи Taobao</string>
-    <string name="junk_tag_RF_TempFiles">Тимчасові файли</string>
-    <string name="junk_tag_RF_WechatDownload">Тимчасові файли WeChat</string>
-    <string name="junk_tag_big_file_from_name_album">Галерея</string>
-    <string name="junk_tag_big_file_from_name_baidu">Карти Baidu</string>
-    <string name="junk_tag_big_file_from_name_baofeng">BaoFeng</string>
-    <string name="junk_tag_big_file_from_name_bluetoothfiles">Bluetooth</string>
-    <string name="junk_tag_big_file_from_name_camerafiles">Камера</string>
-    <string name="junk_tag_big_file_from_name_downloads">Завантаження</string>
-    <string name="junk_tag_big_file_from_name_fmt">Джерело: %s</string>
-    <string name="junk_tag_big_file_from_name_musicfiles">Музика</string>
-    <string name="junk_tag_big_file_from_name_sdcard">Карта пам\'яті</string>
-    <string name="junk_tag_big_file_from_name_videofiles">Відео</string>
-    <string name="junk_tag_big_file_mergedfile_desc_aura">Завантажені карти Sygic GPS</string>
     <string name="junk_temporary_file">Тимчасові файли</string>
     <string name="just_now">Щойно</string>
     <string name="label_image_list_none">Порожньо</string>

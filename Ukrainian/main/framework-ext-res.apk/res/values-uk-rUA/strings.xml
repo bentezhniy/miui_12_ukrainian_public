@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Хвилин залишилось: %1$s місцевих | %2$s міжнародних</string>
     <string name="always">Завжди</string>
     <string name="alwaysUsePrompt">Запам\'ятати</string>
+    <string name="application_cannot_open_alipay_health_code">"Не вдалося відкрити код здоров'я Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Не вдалося відкрити код оплати Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Не вдалося відкрити сканер Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Не вдалося відкрити код здоров'я WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Не вдалося відкрити код платежу WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Не вдалося відкрити сканер WeChat"</string>
     <string name="application_not_install_content">"Схоже, застосунок виконує цю дію на вашому пристрої не встановлено. Ви можете встановити цей додаток або внести іншу дію до цього жесту."</string>
@@ -90,7 +92,7 @@
     <string name="flip_screen_camera_tip">Переверніть пристрій для використання камери</string>
     <string name="fm_record_smaple_prefix_miui">Запис FM</string>
     <string name="force_exit_message">Програму \"%1$s\" закрито</string>
-    <string name="force_exit_skip_message">"Неможливо примусово закрити системну програму"</string>
+    <string name="force_exit_skip_message">"Не вдається закрити %1$s, тому що це потрібно системі."</string>
     <string name="fourhours">2 г.</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Ви можете змінити дії клавіші \"Додому\" через налаштування клавіш</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Скасувати</string>
@@ -130,8 +132,7 @@
     <string name="magic_window_toast">Множник додатків увімкнено.</string>
     <string name="maml_component_customization_title">Налаштування</string>
     <string name="memory_clear_nothing_result">Очищення пам\'яті непотрібне</string>
-    <string name="memory_clear_result">Очищено: %1$s
-Вільно: %2$s</string>
+    <string name="memory_clear_result">%1$sB очищено</string>
     <string name="mi_9t">Mi 9Т</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Мі А3</string>

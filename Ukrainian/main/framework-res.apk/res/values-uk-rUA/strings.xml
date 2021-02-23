@@ -429,7 +429,7 @@
     <string name="data_usage_rapid_title">Надмірне використання мобільних даних</string>
     <string name="data_usage_restricted_body">Зняти обмеження</string>
     <string name="data_usage_restricted_title">Фоновий режим обмежено</string>
-    <string name="data_usage_warning_body">"Перевірити трафік і налаштування"</string>
+    <string name="data_usage_warning_body">"Ви використали %s даних"</string>
     <string name="data_usage_warning_title">Залишилося мало трафіку</string>
     <string name="data_usage_wifi_limit_snoozed_title">Перевищено ліміт Wi-Fi трафіку</string>
     <string name="data_usage_wifi_limit_title">Передачу даних через Wi-Fi вимкнено</string>
@@ -517,10 +517,10 @@
     <string name="expand_button_content_description_expanded">Приховати</string>
     <string name="expires_on">Термін дії:</string>
     <string name="ext_media_badremoval_notification_message">Безпечно вимкніть SD карту перед витягненням</string>
-    <string name="ext_media_badremoval_notification_title">SD карта неочікувано витягнута</string>
+    <string name="ext_media_badremoval_notification_title">%s несподівано вилучено</string>
     <string name="ext_media_browse_action">Огляд</string>
     <string name="ext_media_checking_notification_message">Перевірка помилок</string>
-    <string name="ext_media_checking_notification_title">Підготовка SD карти </string>
+    <string name="ext_media_checking_notification_title">Перевірка %s…</string>
     <string name="ext_media_init_action">Налаштувати</string>
     <string name="ext_media_missing_message">Підключіть пристрій знову</string>
     <string name="ext_media_missing_title">%s не знайдено</string>
@@ -533,7 +533,7 @@
     <string name="ext_media_new_notification_message">Виявлено новий накопичувач: %s</string>
     <string name="ext_media_new_notification_title">Новий %s</string>
     <string name="ext_media_nomedia_notification_message">Можна під\'єднати іншу SD карту</string>
-    <string name="ext_media_nomedia_notification_title">SD карта вимкнена</string>
+    <string name="ext_media_nomedia_notification_title">%s видалено</string>
     <string name="ext_media_ready_notification_message">Для обміну файлами медіа</string>
     <string name="ext_media_seamless_action">Увімкнути вивід</string>
     <string name="ext_media_status_bad_removal">Видалено небезпечно</string>
@@ -549,7 +549,7 @@
     <string name="ext_media_status_unsupported">Не підтримується</string>
     <string name="ext_media_unmount_action">Витягнути</string>
     <string name="ext_media_unmountable_notification_message">Потрібно форматування</string>
-    <string name="ext_media_unmountable_notification_title">SD карта пошкоджена</string>
+    <string name="ext_media_unmountable_notification_title">Проблема з %s</string>
     <string name="ext_media_unmounting_notification_message">Не виймайте носій</string>
     <string name="ext_media_unmounting_notification_title">Витягнення %s…</string>
     <string name="ext_media_unsupported_notification_message">Пристрій не підтримує %s. Натисніть для вибору формату, сумісного з Вашим пристроєм</string>
@@ -1002,7 +1002,7 @@
     <string name="network_switch_metered_toast">Пристрій відключено від мережі %1$s та тепер використовуватиметься %2$s</string>
     <string name="network_switch_type_name_unknown">невідомий тип мережі</string>
     <string name="new_app_action">Запустити програму %1$s</string>
-    <string name="new_app_description">Зупинити стару програму без збереження змін</string>
+    <string name="new_app_description">%1$s закриє без збереження</string>
     <string name="new_sms_notification_content">Щоб переглянути, відкрийте програму для обміну SMS</string>
     <string name="new_sms_notification_title">Нові повідомлення</string>
     <string name="next_button_label">Далі</string>
@@ -1811,7 +1811,7 @@
     <string name="whichViewApplicationNamed">Відкрити за допомогою \"%1$s\"</string>
     <string name="wifi_available_sign_in">Підключення до Wi-Fi</string>
     <string name="wifi_calling_off_summary">Відключено</string>
-    <string name="wifi_no_internet">Wi-Fi мережа не підключена до інтернету</string>
+    <string name="wifi_no_internet">%1$s не має доступу до Інтернету</string>
     <string name="wifi_no_internet_detailed">Інші способи</string>
     <string name="wireless_display_route_description">Бездротовий дисплей</string>
     <string name="work_mode_off_message">Увімкнути робочий профіль: програми, фонову синхронізацію та пов\'язані функції</string>

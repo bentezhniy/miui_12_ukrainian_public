@@ -362,7 +362,7 @@ ID:%s
     <string name="mibi_push_set_alias_success">Встановити нік при невдачній спробі \"%1$s\"</string>
     <string name="mibi_push_unset_alias_fail">Прибрати нік при невдачній спробі %1$s.</string>
     <string name="mibi_push_unset_alias_success">Прибрати нік при невдачній спробі \"%1$s\"</string>
-    <string name="mibi_recharge_grid_error_denomination">Сумма Mi Credits має бути від %1$s до %1$s</string>
+    <string name="mibi_recharge_grid_error_denomination">Сума повинна бути між Mi Монет %1$s і %2$s.</string>
     <string name="mibi_recharge_grid_item_more">Ще</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Виберіть суму</string>
     <string name="mibi_recharge_grid_money_picker_hint">Виберіть суму</string>

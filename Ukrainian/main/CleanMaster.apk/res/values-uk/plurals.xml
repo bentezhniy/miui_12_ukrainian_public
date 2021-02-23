@@ -256,18 +256,6 @@
         <item quantity="few">(%1$d порожній файл)</item>
         <item quantity="many">(%1$d порожній файл)</item>
     </plurals>
-    <plurals name="wechat_video_time_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-        <item quantity="few">%1$s:</item>
-        <item quantity="many">%1$s:</item>
-    </plurals>
-    <plurals name="wechat_video_time_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-        <item quantity="few">%1$s</item>
-        <item quantity="many">%1$s</item>
-    </plurals>
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Видалити %1$d об\'єктів?</item>
         <item quantity="one">Видалити %1$d об\'єкт?</item>

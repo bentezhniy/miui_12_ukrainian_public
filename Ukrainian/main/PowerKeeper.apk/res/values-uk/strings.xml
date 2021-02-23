@@ -76,7 +76,7 @@
     <string name="extreme_power_config_mode_title">Суворий режим енергозбереження</string>
     <string name="extreme_power_settings_title">налаштування</string>
     <string name="failure">Помилка</string>
-    <string name="hide_mode_desc">При увімкненні цієї функції програми в фоновому режимі не зможуть використовувати інтернет і GPS</string>
+    <string name="hide_mode_desc">Коли додаток працює у фоновому режимі, його діяльність буде відстежуватися, щоб зменшити споживання заряду акумулятора. Ця функція отримає дані користувача відповідно до %s</string>
     <string name="hide_system_app">Приховати системні програми</string>
     <string name="high_temp_state">Висока температура</string>
     <string name="high_temp_state_message">Захист від перегріву, дані, точка доступу, GPS, камера та інші компонети будуть обмежені.</string>
