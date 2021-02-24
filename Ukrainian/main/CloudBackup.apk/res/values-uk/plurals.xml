@@ -24,10 +24,4 @@
         <item quantity="few">Високий пріоритет: %d додатка</item>
         <item quantity="many">Високий пріоритет: %d додатка</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">Відновлення %d файлів</item>
-        <item quantity="one">Відновлення %d файл</item>
-        <item quantity="few">Відновлення %d файли</item>
-        <item quantity="many">Відновлення %d файлів</item>
-    </plurals>
 </resources>

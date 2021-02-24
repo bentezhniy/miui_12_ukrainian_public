@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Завантаження інформації про альбом…</string>
     <string name="album_share_title_new_album">Поділитися новим альбомом</string>
     <string name="album_show_local_only">Показувати лише локальні альбоми</string>
-    <string name="album_show_local_only_summary">Увімкніть для перегляду та видалення файлів тільки з пам\'яті пристрою</string>
+    <string name="album_show_local_only_summary">Можливість видалення тільки локальних альбомів стане доступною, коли ця функція ввімкнена</string>
     <string name="album_sort_type">Сортування</string>
     <string name="album_sort_type_create_time_asc">Від старих до нових</string>
     <string name="album_sort_type_create_time_desc">Від нових до старих</string>
@@ -221,7 +221,8 @@
     <string name="authorize_to_device_failed">"Не вдається авторизувати"</string>
     <string name="authorize_watch_on_tv_failed">"Не вдається дозволити перегляд по ТБ"</string>
     <string name="auto_backup_introduce">Автоматична синхронізація фото і відео з Mi Cloud</string>
-    <string name="auto_download_media_title">Автозавантаження фото з Mi Cloud</string>
+    <string name="auto_download_media_title">Завантажувати автоматично</string>
+    <string name="auto_download_title">Виберіть якість зображення</string>
     <string name="auto_update_face">Автододавання фото</string>
     <string name="auto_update_face_summary">Автоматично додавати фото в дитячий альбом</string>
     <string name="auto_update_off">Вимкнено</string>
@@ -290,6 +291,8 @@
     <string name="backup_pause_dialog_title">Зупинити синхронізацію</string>
     <string name="backup_pause_title">Синхронизация остановлена</string>
     <string name="backup_pending">Синхронізувати автоматично</string>
+    <string name="backup_settings">Синхронізація із хмарою</string>
+    <string name="backup_settings_more">Додаткові налаштування</string>
     <string name="backup_stop">Зупинити синхронізацію</string>
     <string name="backup_sync_dialog_confirm">Увімкнути</string>
     <string name="backup_sync_dialog_tips">Увімкніть синхронізацію з Mi Cloud, щоб змінити налаштування бекапу</string>
@@ -440,13 +443,23 @@
     <string name="close_dialog_desc">Закриття діалогу</string>
     <string name="cloud_authorize_to_share_to_device">Авторизуйте перегляд медіа на ТБ, пов\'язаних з вашим Mi аккаунтом.</string>
     <string name="cloud_authorizing_to_device">Авторизація…</string>
+    <string name="cloud_backup_enable_title">Синхр</string>
+    <string name="cloud_backup_open_button">Увімкнути</string>
+    <string name="cloud_backup_space">Хмарне сховище</string>
+    <string name="cloud_backup_status_disable">Вимкнено</string>
+    <string name="cloud_backup_status_eneble">Увімк</string>
+    <string name="cloud_backup_title">Синхронізація із хмарою</string>
+    <string name="cloud_bacup_disable_button">Вимкнути синхронізацію</string>
+    <string name="cloud_bacup_disable_processing">Обробка…</string>
     <string name="cloud_camera_display_name">Камера</string>
     <string name="cloud_cancel_authorizing_to_device">Скасування авторизації…</string>
     <string name="cloud_guide_auto_backup_title">Виберіть альбоми для синхронізації з Mi Cloud</string>
     <string name="cloud_guide_login_title">Бекап фото і відео</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Конфіденційність при автобекапе і обробці зображень</string>
-    <string name="cloud_privacy_with_face">Конфіденційність при автобекапе і розпізнаванні особи</string>
+    <string name="cloud_login_ok">Зрозуміло</string>
+    <string name="cloud_login_settings_title">Налаштування синхронізації</string>
+    <string name="cloud_privacy_with_ai_album">Особливості та конфіденційність</string>
+    <string name="cloud_privacy_with_face">Особливості та конфіденційність</string>
     <string name="cloud_screenshots_display_name">Скріншоти</string>
     <string name="cloud_settings">Mi Cloud</string>
     <string name="cloud_storage_extend">Додати місце</string>
@@ -1155,6 +1168,7 @@
     <string name="merge_album_title">Об\'єднати альбоми</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="mi_drop">Mi Поділитися</string>
+    <string name="mi_mover_working_desc">Mi Mover переносить елементи…</string>
     <string name="micloud_introduce">Автоматична синхронізація фото і відео з Mi Cloud</string>
     <string name="midnight">Ніч</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти виділення</string>
@@ -1565,6 +1579,7 @@
     <string name="photo_purge_dialog_message_image">"Ви не зможете відновити файли, якщо видалите їх. Все одно видалити?"</string>
     <string name="photo_purge_dialog_message_video">"Ви не зможете відновити файли, якщо видалите їх. Все одно видалити?"</string>
     <string name="photo_save_to_msg">Збережено у %s</string>
+    <string name="photo_size_not_support">"Ця роздільна здатність зображення не підтримується"</string>
     <string name="photo_vlog_module_finish">Завантажений відео-редактор успішно завантажений</string>
     <string name="photo_vlog_module_loading">Завантаження відео-редактора…</string>
     <string name="photodetail_failed_already_exist">Цей файл уже існує</string>
@@ -1808,6 +1823,7 @@
     <string name="security_share_subtitle_hide">Місцезнаходження було видалено</string>
     <string name="security_share_subtitle_no_hide">Містить інформацію про місцезнаходження</string>
     <string name="see_ignore_faces">"Показати приховані альбоми облич"</string>
+    <string name="see_more_settings">Додаткові налаштування</string>
     <string name="select_all">Вибрати всі</string>
     <string name="select_image_operation">Додавання фото</string>
     <string name="select_item_face">"Можливо це %s"</string>
@@ -1849,7 +1865,7 @@
     <string name="share_public_url_text">"Я надіслав Вам альбом \"%1$s\". Переглянути можна за посиланням: %2$s"</string>
     <string name="share_with_family">Поділитися</string>
     <string name="sharer_quota_fulfiled">"Неможливо додати користувача. Кількість користувачів у цьому альбомі досягла межі"</string>
-    <string name="show_cloud_albumlist_summary">Управління альбомами в хмарі</string>
+    <string name="show_cloud_albumlist_summary">"Нові елементи з вибраних альбомів не будуть вивантажені у хмару після вимкнення синхронізації."</string>
     <string name="show_hidden_album_summary">Перегляд та керування прихованими альбомами</string>
     <string name="show_hidden_album_title">Показувати приховані альбоми</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Переміщено до локальних альбомів</string>
@@ -1968,6 +1984,11 @@
     <string name="support_single_image">Виберіть одне зображення</string>
     <string name="support_single_video">Виберіть одне відео</string>
     <string name="sync_album_in_proecess">Синхронізація альбому із сервером…</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Якщо вимкнути синхронізацію, поточні завантаження оригінальних файлів у хмарі будуть перервані. Зображення високої якості на цьому пристрої більше не будуть доступні. Все одно вимкнути?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Зображення високої якості на цьому пристрої більше не будуть доступні після вимкнення синхронізації. Ви можете завантажити оригінальні файли з хмари і вимкнути синхронізацію після цього.</string>
+    <string name="sync_backup_disable_confirm_title">Вимкнути синхронізацію</string>
+    <string name="sync_backup_enable_confirm_message">Коли синхронізація з хмарою включена, елементи з цього пристрою будуть завантажені та об\'єднані з елементами, що зберігаються у хмарі.</string>
+    <string name="sync_backup_enable_confirm_title">Об\'єднати синхронізовані елементи</string>
     <string name="sync_battery_low">Низький заряд батареї</string>
     <string name="sync_cloud_space_full">Пам\'ять в Mi Cloud заповнена</string>
     <string name="sync_diabled_toast">Синхронізацію вимкнено</string>
@@ -2373,6 +2394,8 @@
     <string name="vlog_filter_lanmei">Чорниця</string>
     <string name="vlog_filter_liulan">Туман</string>
     <string name="vlog_filter_luoma">Рим</string>
+    <string name="vlog_filter_master_close">Видалені відеоефекти</string>
+    <string name="vlog_filter_master_open">Застосовані відеоефекти</string>
     <string name="vlog_filter_no_support_nums">"Пропущені відео, які не підтримують редагування (%1$d)"</string>
     <string name="vlog_filter_nuanyang">Саншайн</string>
     <string name="vlog_filter_origin">Без ефекту</string>
