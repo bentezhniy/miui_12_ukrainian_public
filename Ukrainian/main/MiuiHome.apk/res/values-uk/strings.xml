@@ -308,7 +308,7 @@
     <string name="gadget_weather_loading">Немає даних про погоду</string>
     <string name="gadget_weather_low_temp">Хв.</string>
     <string name="gadget_weather_theme_type">Тип віджета</string>
-    <string name="gadget_weather_time_format">EEE, d MMMM</string>
+    <string name="gadget_weather_time_format">EEEE, d MMMM</string>
     <string name="gadget_weather_title">Погода</string>
     <string name="gadget_weather_title_14">Погода 1x4</string>
     <string name="gadget_weather_title_24">Погода 2x4</string>

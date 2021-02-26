@@ -90,6 +90,8 @@
     <string name="already_favorited">Вже додано до обраного</string>
     <string name="always_use_metered">Завжди використовувати мобільний інтернет</string>
     <string name="am">ДП</string>
+    <string name="app_description_content">"Музика - це системний додаток, що містить аудіо-плеєр і дозволяє керувати аудіофайлами. Ви все ще зможете відтворювати аудіо файли після видалення ярлика головного екрану."</string>
+    <string name="app_description_title">Видалити \"Музику\" з головного екрана?</string>
     <string name="app_label">Завантаження</string>
     <string name="app_permission_confirm">Зрозуміло</string>
     <string name="app_permission_optional">Необов\'язкові дозволи</string>
@@ -1058,6 +1060,7 @@
     <string name="talkback_back">Назад</string>
     <string name="talkback_batch_process">Декілька об\'єктів</string>
     <string name="talkback_clear">Очистити</string>
+    <string name="talkback_cut">Редактор рингтонів</string>
     <string name="talkback_device">Відтворити на інших пристроях</string>
     <string name="talkback_download">Завантажити</string>
     <string name="talkback_favorite">В обране</string>

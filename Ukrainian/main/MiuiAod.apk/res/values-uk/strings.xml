@@ -309,7 +309,7 @@ MM/dd"</string>
     <string name="super_wallpaper_date">"EEaa
 M/dd"</string>
     <string name="super_wallpaper_date_inter">"EEEE
-M/dd"</string>
+dd/M"</string>
     <string name="temporary_style">10 секунд</string>
     <string name="temporary_style_summary">Рекомендовані</string>
     <string name="text_color">Колір тексту</string>

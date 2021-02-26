@@ -699,7 +699,7 @@
     <string name="httpErrorTooManyRequests">Обробляється занадто багато запитів. Повторіть спробу пізніше</string>
     <string name="httpErrorUnsupportedAuthScheme">"Схема аутентифікації сайту не підтримується"</string>
     <string name="httpErrorUnsupportedScheme">"Цей протокол не підтримується"</string>
-    <string name="icu_abbrev_wday_month_day_no_year">eeedmmm</string>
+    <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
     <string name="imProtocolCustom">Ввести власноруч</string>
     <string name="imTypeCustom">Ввести власноруч</string>
     <string name="imTypeHome">Домашній</string>

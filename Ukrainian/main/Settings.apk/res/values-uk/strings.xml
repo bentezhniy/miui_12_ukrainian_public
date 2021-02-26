@@ -4245,10 +4245,6 @@ Xiaomi Cloud
     <string name="miheadset_LeftEar">Ліворуч</string>
     <string name="miheadset_RightEar">Праворуч</string>
     <string name="miheadset_active">Енергійний</string>
-    <string name="miheadset_ancBalance">Медіум</string>
-    <string name="miheadset_ancClosed">Вимкнено</string>
-    <string name="miheadset_ancDecrease">Низька</string>
-    <string name="miheadset_ancIncrease">Високий</string>
     <string name="miheadset_anc_indicate">Підключення та парові навушники</string>
     <string name="miheadset_audio_mode">Якість звуку</string>
     <string name="miheadset_audio_mode_high">Високий</string>
@@ -4325,10 +4321,8 @@ Xiaomi Cloud
     <string name="miheadset_rename_device">Перейменувати</string>
     <string name="miheadset_soft">М\'яко</string>
     <string name="miheadset_transparent">Прозорість</string>
-    <string name="miheadset_transparentMode">Прозорість</string>
     <string name="miheadset_triple_click_key_mode">Потрійний дотик</string>
     <string name="miheadset_unpair_device_text">%1$s буде знято з усіх пристроїв, пов\'язаних з цим Mi аккаунтом.</string>
-    <string name="miheadset_voiceIncrease">Підвищити голос</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Різне</string>
     <string name="misc_files_selected_count">обране %1$d з %2$d</string>

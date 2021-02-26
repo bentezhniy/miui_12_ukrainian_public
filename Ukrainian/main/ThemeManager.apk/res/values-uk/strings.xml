@@ -427,16 +427,16 @@
     <string name="miui_clock_city_name_second">Другий годинник</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">ДДДД, ММММ ч</string>
-    <string name="miui_lock_screen_date_12">ДДДД, ММММ ч</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-MMMM d"</string>
+d MMMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MMMM d"</string>
+d MMMM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_vertical_time_format_12">"год
 мм"</string>
     <string name="miui_vertical_time_format_24">"HH-
