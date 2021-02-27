@@ -107,8 +107,10 @@
     <string name="music_dirac_mode_general_earbuds">Звичайний</string>
     <string name="music_dirac_mode_general_inear">Вкладыші</string>
     <string name="music_dirac_mode_in_ear_four_unit">Навушники Mi Quadruple</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Навчальні телефони Mi Dual Driver</string>
     <string name="music_dirac_mode_off">Режим \"Dirac\" відключений</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear навушники (Type-C)</string>
+    <string name="music_dirac_mode_redmi_earphones">Гарнітура Редмі</string>
     <string name="music_dolby_mode_movie">Відео</string>
     <string name="music_dolby_mode_music">Музика</string>
     <string name="music_dolby_mode_off">Відключений</string>

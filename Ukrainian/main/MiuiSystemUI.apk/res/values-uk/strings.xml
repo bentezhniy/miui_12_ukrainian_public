@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">ДДДЕНЬ-МММММ</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">ДЕНЕММН</string>
+    <string name="abbrev_wday_month_day_no_year">EEEEdMMMM</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_action_bar_home_description">Перейти на головний</string>
     <string name="abc_action_bar_up_description">Перейти вгору</string>
     <string name="abc_action_menu_overflow_description">Інші опції</string>
@@ -1818,14 +1818,16 @@ d MMMM"</string>
     <string name="status_bar_airplane">Режим польоту</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_clear_all_button">Очистити</string>
-    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-    <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_format">E, d MMM</string>
+    <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
-    <string name="status_bar_clock_date_weekday_format">EEE, MMM d</string>
-    <string name="status_bar_clock_date_weekday_format_12">EEE, MMM d</string>
-    <string name="status_bar_date_format">"EEEE\nd MMMM yyyy"</string>
-    <string name="status_bar_date_format_12">"d MMMM\nEEEE"</string>
+    <string name="status_bar_clock_date_weekday_format">EEE, d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE, d MMM</string>
+    <string name="status_bar_date_format">"E
+d MMM"</string>
+    <string name="status_bar_date_format_12">"E
+d MMM"</string>
     <string name="status_bar_ethernet">Мережа</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Налаштувати способи вводу</string>
     <string name="status_bar_latest_events_title">Сповіщення</string>
@@ -1862,7 +1864,7 @@ d MMMM"</string>
     <string name="switch_bar_off">Вимк</string>
     <string name="switch_bar_on">Увімк</string>
     <string name="switch_system_user">Відкрити перший простір</string>
-    <string name="system_ui_aod_date_pattern">eeMMMd</string>
+    <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">System UI Tuner</string>
     <string name="tap_to_renew_subscription_and_connect">Торкніться, щоб продовжити підписку і під\'єднатися</string>
     <string name="tap_to_sign_up">Натисніть для входу</string>

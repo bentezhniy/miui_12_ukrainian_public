@@ -66,6 +66,7 @@
     <string name="btn_continue">Продовжити</string>
     <string name="btn_restore_abort">Скасувати</string>
     <string name="btn_restore_cancel">Скасувати</string>
+    <string name="btn_restore_cancel_app_app">"Не відновлювати дані WeChat"</string>
     <string name="btn_restore_continue">Відновити все одно</string>
     <string name="btn_restore_resume">Продовжити</string>
     <string name="btn_restore_retry">Повторити ще раз</string>
@@ -119,6 +120,8 @@
     <string name="cloud_back_up_task">Бекап</string>
     <string name="cloud_backup">Бекап Mi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Розмір: %s</string>
+    <string name="cloud_backup_detail_app_data">Резервне копіювання даних WeChat</string>
+    <string name="cloud_backup_detail_app_data_summary">Створити резервну копію історії чату, файлів та інших елементів</string>
     <string name="cloud_backup_detail_frequence">Інтервал створення бекапу</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Резервування кожні %d днів</string>
     <string name="cloud_backup_detail_frequence_every_day">Резервне копіювання кожен день</string>
@@ -139,6 +142,8 @@
     <string name="confirm_cancel_restore_positive">Продовжити</string>
     <string name="confirm_cancel_restore_title">Скасувати відновлення?</string>
     <string name="confirm_restore">Відновити</string>
+    <string name="confirm_restore_app_data">Перезапис даних програми</string>
+    <string name="confirm_restore_app_data_summary">Відновлення даних WeChat призведе до перезаписування поточної версії даних програми на цьому пристрої. Відновити її?</string>
     <string name="confirm_restore_summary">Робочий стіл буде перезавантажено та програми встановляться автоматично при підключенні до Wi-Fi мережі</string>
     <string name="confirm_restore_title">Відновлення</string>
     <string name="copy">Копія</string>
@@ -151,14 +156,17 @@
     <string name="desktop_wait_network">Очікування\u2026</string>
     <string name="desktop_waiting">Очікування</string>
     <string name="device_delete_prompt">Видалити бекап %s?</string>
+    <string name="dialog_backup_failed">"Не вдалося створити бекап"</string>
     <string name="dialog_btn_cancel_backup">Скасувати</string>
     <string name="dialog_btn_next">Далі</string>
     <string name="dialog_btn_overwrite_backup">Перезаписати</string>
     <string name="dialog_btn_restore_skip">Відновити пізніше</string>
+    <string name="dialog_buy_cloud_space">Апґрейд</string>
     <string name="dialog_cancel_backup_cancel">Скасувати</string>
     <string name="dialog_cancel_backup_confirm">ОК</string>
     <string name="dialog_cancel_backup_msg">Якщо вимкнути цю функцію, створення поточного бекапу буде перервано</string>
     <string name="dialog_cancel_backup_title">Скасувати поточний бекап?</string>
+    <string name="dialog_cloud_space_not_enough">Для резервного копіювання потрібно %1$s вільного вільного простору для хмарного сховища. Перейдіть на план зберігання, щоб зробити резервну копію предметів.</string>
     <string name="dialog_msg_overwrite_backup">Локальна резервна копія відрізняється від копії в Mi Cloud. Якщо Ви продовжите, поточна копія перезапише попередню.</string>
     <string name="dialog_msg_restore_require_wlan">Для відновлення резервних копій необхідне підключення по Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Відновлення резервних копій потребує підключення до Wi-Fi.</string>
@@ -178,7 +186,7 @@
     <string name="expand_button_title">Додатково</string>
     <string name="get_device_id_error">"Неможливо отримати ID пристрою"</string>
     <string name="help_and_feedback">Довідка та зворотній зв\'язок</string>
-    <string name="hint_restore_cross_space">Зображення головного робочого столу може бути некоректне, якщо Ви передаватиме об\'єкти мiж вiдступами.</string>
+    <string name="hint_restore_wechat_data">Примітка: Дані WeChat не можуть бути відновлені через проблеми сумісності в деяких випадках.</string>
     <string name="home_hint_global_launcher">Робочий стіл</string>
     <string name="home_hint_other_launcher">Інший робочий стіл</string>
     <string name="home_restore_error">"Неможливо відновити налаштування робочого столу"</string>
@@ -201,7 +209,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"На даний момент все це"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Просто секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
-    <string name="msg_alert_cancel_restore">Відновлення хмарного сховища, зупинити?</string>
+    <string name="msg_alert_cancel_restore">Предмети відновлюються з Хмари Xiaomi. Скасувати зараз?</string>
     <string name="msg_alert_restore_error">"Помилка відновлення, повторіть спробу ще раз."</string>
     <string name="msg_restore_start_with_metered_network">"Ваш робочий стіл буде перезапущений. Зарезервовані програми будуть завантажені автоматично.&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Буде завантажено файлів: %s&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">При переході до відновлення об\'єктів для їх завантаження буде використовуватися мобільний інтернет.</string>
@@ -246,6 +254,8 @@
     <string name="restore_app_order_title">Пріоритет відновлення</string>
     <string name="restore_cloud_backup_to_phone">Відновити бекап з Mi Cloud</string>
     <string name="restore_data_title">Відновлення даних</string>
+    <string name="restore_detail_category_app_data">Дані WeChat</string>
+    <string name="restore_detail_category_app_data_summary">Історія чату, файли та інші елементи (%s)</string>
     <string name="restore_detail_category_apps">Робочий стіл та програми</string>
     <string name="restore_detail_category_settings">Налаштування</string>
     <string name="restore_detail_more">Ще</string>
@@ -260,14 +270,15 @@
     <string name="restore_home_failed">"Неможливо відновити робочий стіл"</string>
     <string name="restore_home_screen_apps">Відновлення з Mi Cloud</string>
     <string name="restore_init_description">Почати відновлення</string>
-    <string name="restore_network_pause">%s (Натисніть для продовження)</string>
+    <string name="restore_network_pause">Призупинено для збереження мобільних даних. Натисніть для продовження.</string>
     <string name="restore_network_unconnect">%s (Очікування підключення)</string>
     <string name="restore_task_cancelling">Скасування…</string>
     <string name="restore_task_in_process">Відновлення…</string>
     <string name="restore_task_unfinished">"Дочекайтеся завершення відновлення"</string>
     <string name="restore_unfinished">Виконується відновлення. Спробуйте знову пізніше</string>
+    <string name="restoring_app_data_title_no_progress">Відновлення даних WeChat…</string>
     <string name="restoring_data">Відновлення даних…</string>
-    <string name="restoring_file_title_no_progress">Відновлення файлів…</string>
+    <string name="restoring_file_title_no_progress">Відновлення додатків…</string>
     <string name="restoring_home_screen_apps">Відновлення з Xiaomi Cloud…</string>
     <string name="restoring_settings">Відновлення налаштувань…</string>
     <string name="retry">Повтор</string>

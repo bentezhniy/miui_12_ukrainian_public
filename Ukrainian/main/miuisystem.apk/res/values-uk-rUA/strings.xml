@@ -88,16 +88,16 @@
     <string name="miremix">Мі (Ремікс)</string>
     <string name="miui_clock_city_name_local">Місцевий</string>
     <string name="miui_clock_city_name_second">Другий годинник</string>
-    <string name="miui_lock_screen_date">ДДП ММ/дд</string>
-    <string name="miui_lock_screen_date_12">ДДП ММ/дд</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-ММ/дд"</string>
+dd/ММ"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-ММ/дд"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-ММ/дд"</string>
+dd/MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-ММ/дд"</string>
+dd/ММ"</string>
     <string name="miui_vertical_time_format_12">"год
 мм"</string>
     <string name="miui_vertical_time_format_24">"HH-

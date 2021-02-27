@@ -317,8 +317,8 @@ ID:%s
     <string name="llks_whole_cate">Всі категорії</string>
     <string name="load_hdpicture_complete">Завантажене оригінальне зображення успішно</string>
     <string name="loading"><CDATA>Просто сек…</CDATA></string>
-    <string name="lock_screen_date">ДДДД, ММММ ч</string>
-    <string name="lock_screen_date_12">ДДДД, ММММ ч</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_show_permission_exception">Помилка: На екрані блокування показано шпалери в безпеці.</string>
     <string name="lockscreen_h5_back_tv">Відмінити</string>
     <string name="lockscreen_h5_close_tv">Вимкнено</string>
@@ -338,16 +338,16 @@ ID:%s
     <string name="minutes_5">Кожні 5 хвилин</string>
     <string name="miui_clock_city_name_local">Місцевий</string>
     <string name="miui_clock_city_name_second">Другий годинник</string>
-    <string name="miui_lock_screen_date">ДДДД, ММММ ч</string>
-    <string name="miui_lock_screen_date_12">ДДДД, ММММ ч</string>
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-MMMM d"</string>
+d MMMM "</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MMMM d"</string>
+d MMMM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_vertical_time_format_12">"год
 мм"</string>
     <string name="miui_vertical_time_format_24">"HH-

@@ -154,6 +154,7 @@
     <string name="other_settings_user_experience">Надсилання звітів</string>
     <string name="other_settings_user_experience_summary">Надсилати анонімні звіти задля покращення MIUI</string>
     <string name="other_settings_user_experience_summary_index">Інформація</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon дозволяє передавати дані з вашого пристрою, коли його екран пошкоджений.</string>
     <string name="permission_account">Доступ до аккаунтів на пристрої:</string>
     <string name="permission_account_introduction">Для входу з Mi аккаунтом</string>
     <string name="permission_application_package_introduction">Для доступу до сховища щоб проаналізувати і сканувати інсталяційні пакети</string>
@@ -186,6 +187,10 @@
     <string name="permission_picture_introduction">Для збереження, редагування та синхронізації фотографій та відео</string>
     <string name="permission_read_call_records">Редагувати історію дзвінків:</string>
     <string name="permission_read_call_records_introduction">Для додавання елементів в історію викликів та видалення заблокованих дзвінків</string>
+    <string name="permission_read_contacts">Доступ до контактів</string>
+    <string name="permission_read_contacts_introduction">Для підтвердження вашої особи</string>
+    <string name="permission_read_message">Доступ до текстових повідомлень</string>
+    <string name="permission_read_message_introduction">Для підтвердження права власності на ваш пристрій</string>
     <string name="permission_read_note_introduction">Для доступу до нотаток і вкладень</string>
     <string name="permission_read_write_file">Доступ до файлів і збереження фото на вашому пристрої:</string>
     <string name="permission_read_write_file_introduction">Для доступу, збереження та кешування елементів на вашому пристрої</string>
@@ -223,6 +228,7 @@
     <string name="security_introduction">Ви можете використовувати цей додаток для очищення сміття на вашому пристрої, пошуку і нейтралізації вірусів, оптимізуйте продуктивність для ігор, зберігайте батарею, керуйте додатками, дозволами та багато іншого.</string>
     <string name="security_mobile_account_introduction">Для входу та управління системними обліковими записами</string>
     <string name="service_agreement">"Я прочитав і погодився з умовами і умовами."</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Галерея</string>
     <string name="service_name_application_package">Програма встановлення пакета</string>
     <string name="service_name_backup">Резервні копії</string>

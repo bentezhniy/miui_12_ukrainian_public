@@ -432,6 +432,10 @@
     <string name="mi_key_summary_open_camera">Подвійне натискання MiKey для відкриття камери</string>
     <string name="mi_key_summary_take_photo">Натискання MiKey для зняття фото</string>
     <string name="mi_key_take_photo">Зняти фото</string>
+    <string name="miheadset_notification_Box">Ящик</string>
+    <string name="miheadset_notification_Disconnect">Від\'єднатись</string>
+    <string name="miheadset_notification_LeftEar">Л</string>
+    <string name="miheadset_notification_RightEar">П</string>
     <string name="mihome_app_download">Встановити</string>
     <string name="mihome_app_update">Оновити зараз</string>
     <string name="mihome_download_tips">Встановіть Mi Home для входу, увійдіть і утримуйте ваш телефон біля пристрою.</string>
