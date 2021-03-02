@@ -30,14 +30,14 @@
         <item>Я</item>
     </string-array>
     <string-array name="height_array">
-        <item>Сантиметр</item>
+        <item>Сантиметри</item>
         <item>Метри</item>
-        <item>Ноги</item>
+        <item>Фут</item>
         <item>Дюйми</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>Рівномірні щомісячні внески</item>
-        <item>Зменшення щомісячних внесків</item>
+        <item>Рівними внесками</item>
+        <item>Зниження розстрочки</item>
     </string-array>
     <string-array name="operatorDescs">
         <item>ліва дужка</item>
@@ -46,22 +46,22 @@
         <item>натуральний логарифм</item>
         <item>логарифм</item>
         <item>квадратний корінь</item>
-        <item>ділення</item>
-        <item>множення</item>
+        <item>розділити на</item>
+        <item>помножити на</item>
         <item>плюс</item>
         <item>мінус</item>
-        <item>крапка</item>
-        <item>ступінь</item>
+        <item>кома</item>
+        <item>степінь</item>
         <item>тангенс</item>
         <item>синус</item>
         <item>косинус</item>
-        <item>число пі</item>
+        <item>пі</item>
         <item>дорівнює</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>Долар</item>
         <item>Євро</item>
-        <item>HKD</item>
+        <item>Єна</item>
     </string-array>
     <string-array name="unit_data_order_time_">
         <item>yr</item>
@@ -75,7 +75,7 @@
         <item>ps</item>
     </string-array>
     <string-array name="weight_array">
-        <item>Кілограм</item>
-        <item>Фунт</item>
+        <item>Кілограми</item>
+        <item>Фунти</item>
     </string-array>
 </resources>

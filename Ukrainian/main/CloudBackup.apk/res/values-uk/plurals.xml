@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">%1$s бекапів, розмір: %2$s</item>
-        <item quantity="one">%1$s бекап, розмір: %2$s</item>
-        <item quantity="few">%1$s бекапи, розмір: %2$s</item>
-        <item quantity="many">%1$s бекапів, розмір: %2$s</item>
+        <item quantity="other">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="one">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="few">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="many">Резервних копій: %1$s (%2$s)</item>
     </plurals>
     <plurals name="restore_app_order_installed">
-        <item quantity="other">%d додатків на цьому пристрої</item>
-        <item quantity="one">%d додаток на цьому пристрої</item>
-        <item quantity="few">%d додатків на цьому пристрої</item>
-        <item quantity="many">%d додатків на цьому пристрої</item>
+        <item quantity="other">Програм на пристрої: %d</item>
+        <item quantity="one">Програм на пристрої: %d</item>
+        <item quantity="few">Програм на пристрої: %d</item>
+        <item quantity="many">Програм на пристрої: %d</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">Регулярний пріоритет: %d додатків</item>
-        <item quantity="one">Регулярний пріоритет: %d застосунок</item>
-        <item quantity="few">Регулярний пріоритет: %d додатків</item>
-        <item quantity="many">Регулярний пріоритет: %d додатків</item>
+        <item quantity="other">Звичайний пріоритет: %d програм</item>
+        <item quantity="one">Звичайний пріоритет: %d програма</item>
+        <item quantity="few">Звичайний пріоритет: %d програми</item>
+        <item quantity="many">Звичайний пріоритет: %d програм</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Високий пріоритет: %d додатка</item>
-        <item quantity="one">Високий пріоритет: %d додаток</item>
-        <item quantity="few">Високий пріоритет: %d додатка</item>
-        <item quantity="many">Високий пріоритет: %d додатка</item>
+        <item quantity="other">Високий пріоритет: %d програм</item>
+        <item quantity="one">Високий пріоритет: %d програма</item>
+        <item quantity="few">Високий пріоритет: %d програми</item>
+        <item quantity="many">Високий пріоритет: %d програм</item>
     </plurals>
 </resources>

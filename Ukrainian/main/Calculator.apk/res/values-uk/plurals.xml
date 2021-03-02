@@ -57,26 +57,26 @@
     <plurals name="age_label_days">
         <item quantity="other">%d днів</item>
         <item quantity="one">%d день</item>
-        <item quantity="few">%d день</item>
-        <item quantity="many">%d день</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d днів</item>
     </plurals>
     <plurals name="age_label_months">
         <item quantity="other">%d місяців</item>
         <item quantity="one">%d місяць</item>
-        <item quantity="few">%d місяць</item>
-        <item quantity="many">%d місяць</item>
+        <item quantity="few">%d місяця</item>
+        <item quantity="many">%d місяців</item>
     </plurals>
     <plurals name="age_label_yrs">
         <item quantity="other">років</item>
         <item quantity="one">рік</item>
-        <item quantity="few">рік</item>
-        <item quantity="many">рік</item>
+        <item quantity="few">роки</item>
+        <item quantity="many">років</item>
     </plurals>
     <plurals name="entries">
-        <item quantity="other">%d елементів</item>
-        <item quantity="one">%d елемент</item>
-        <item quantity="few">%d елементів</item>
-        <item quantity="many">%d елементів</item>
+        <item quantity="other">%d об\'єктів</item>
+        <item quantity="one">%d об\'єкт</item>
+        <item quantity="few">%d об\'єкта</item>
+        <item quantity="many">%d об\'єктів</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Півгодини тому</item>
@@ -121,22 +121,22 @@
         <item quantity="other">Просто зараз</item>
     </plurals>
     <plurals name="loan_repayment_detail">
-        <item quantity="other">Детальне погашення (%d років)</item>
-        <item quantity="one">Детальне погашення (%d рік)</item>
-        <item quantity="few">Детальне погашення (%d років)</item>
-        <item quantity="many">Детальне погашення (%d років)</item>
+        <item quantity="other">Інформація про погашення (%d років)</item>
+        <item quantity="one">Інформація про погашення (%d рік)</item>
+        <item quantity="few">Інформація про погашення (%d роки)</item>
+        <item quantity="many">Інформація про погашення (%d років)</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Детальне погашення (%d років), CNY</item>
-        <item quantity="one">Детальне погашення (%d рік), CNY</item>
-        <item quantity="few">Детальне погашення (%d років), CNY</item>
-        <item quantity="many">Детальне погашення (%d років), CNY</item>
+        <item quantity="other">Інформація про погашення (%d років), CNY</item>
+        <item quantity="one">Інформація про погашення (%d рік), CNY</item>
+        <item quantity="few">Інформація про погашення (%d роки), CNY</item>
+        <item quantity="many">Інформація про погашення (%d років), CNY</item>
     </plurals>
     <plurals name="mortgage_summary_years">
-        <item quantity="other">%1$d років (%2$d міс.)</item>
-        <item quantity="one">%1$d рік (%2$d міс.)</item>
-        <item quantity="few">%1$d роки (%2$d міс.)</item>
-        <item quantity="many">%1$d років (%2$d міс.)</item>
+        <item quantity="other">%1$d років (%2$d місяців)</item>
+        <item quantity="one">%1$d рік (%2$d місяців)</item>
+        <item quantity="few">%1$d роки (%2$d місяці)</item>
+        <item quantity="many">%1$d років (%2$d місяців)</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хв. тому</item>
@@ -145,15 +145,15 @@
         <item quantity="many">%d хв. тому</item>
     </plurals>
     <plurals name="tenure_months">
-        <item quantity="other">%d місяці</item>
+        <item quantity="other">%d місяців</item>
         <item quantity="one">%d місяць</item>
-        <item quantity="few">%d місяці</item>
-        <item quantity="many">%d місяці</item>
+        <item quantity="few">%d місяця</item>
+        <item quantity="many">%d місяців</item>
     </plurals>
     <plurals name="tenure_years">
         <item quantity="other">%d років</item>
         <item quantity="one">%d рік</item>
-        <item quantity="few">%d років</item>
+        <item quantity="few">%d роки</item>
         <item quantity="many">%d років</item>
     </plurals>
 </resources>
