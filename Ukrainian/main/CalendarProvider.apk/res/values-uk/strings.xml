@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_default_name">Стандартно</string>
-    <string name="calendar_info">Відомості про календарі</string>
+    <string name="calendar_default_name">За замовчуванням</string>
+    <string name="calendar_info">Інформація календаря</string>
     <string name="calendar_info_error">Помилка</string>
-    <string name="calendar_info_events">Заходів: %1$d</string>
-    <string name="calendar_info_events_dirty">Заходів: %1$d; не збережено: %2$d</string>
-    <string name="calendar_info_no_calendars">Немає календарів</string>
-    <string name="calendar_storage">Заходи календаря</string>
-    <string name="channel_name">Нагадування календаря</string>
-    <string name="cta_notice">Відкрийте Календар і дозвольте спочатку підключитися до Інтернету.</string>
-    <string name="debug_tool_delete_button">Видалити зараз</string>
-    <string name="debug_tool_email_body">повідомленням прикріплена база даних календаря з особистою інформацією.</string>
-    <string name="debug_tool_email_sender_picker">Оберіть спосіб надсилання</string>
-    <string name="debug_tool_email_subject">База прикріплена</string>
-    <string name="debug_tool_message">"Ви збираєтеся створити копію бази даних календаря на SD карті, які доступні для читання всім програмам і надсилання її електронною поштою. Не забудьте видалити базу даних після того, як вона буде скопійована з пристрою або надіслана електронною поштою."</string>
+    <string name="calendar_info_events">Події: %1$d</string>
+    <string name="calendar_info_events_dirty">Події: %1$d, незбережені: %2$d</string>
+    <string name="calendar_info_no_calendars">Календарі відсутні</string>
+    <string name="calendar_storage">Сховище календаря</string>
+    <string name="channel_name">Нагадування Календаря</string>
+    <string name="cta_notice">Спочатку відкрийте Календар і дозвольте йому доступ до інтернету.</string>
+    <string name="debug_tool_delete_button">Видалити</string>
+    <string name="debug_tool_email_body">Додано базу даних календаря з усіма моїми подіями та особистою інформацією. Поводьтеся з нею обережно.</string>
+    <string name="debug_tool_email_sender_picker">Оберіть програму, щоб надіслати файл</string>
+    <string name="debug_tool_email_subject">Інструмент для налагодження календаря був прикріплений</string>
+    <string name="debug_tool_message">"Ви збираєтеся зробити копію бази даних календаря на SD карту/USB, які доступні для будь-яких програм, а також надіслати її електронною поштою. Не забудьте видалити копію, як тільки ви скопіюєте її з пристрою або отримаєте електронного листа."</string>
     <string name="debug_tool_start_button">Почати</string>
-    <string name="holiday_data_no_network">"Інтернет недоступний"</string>
+    <string name="holiday_data_no_network">"Мережа недоступна"</string>
     <string name="holiday_data_update_failed">"Помилка оновлення"</string>
-    <string name="holiday_data_update_succeed">Оновлення завершене</string>
-    <string name="holiday_data_updating">Оновлення…</string>
-    <string name="holiday_update_summary">Оновити дані календаря</string>
-    <string name="holiday_update_title">База свят</string>
+    <string name="holiday_data_update_succeed">Оновлення завершено</string>
+    <string name="holiday_data_updating">Оновлення...</string>
+    <string name="holiday_update_summary">Оновити дані календаря.</string>
+    <string name="holiday_update_title">Доступне оновлення</string>
     <string name="provider_label">Календар</string>
     <string name="upgrade_msg">"Оновлення бази даних календаря…"</string>
 </resources>

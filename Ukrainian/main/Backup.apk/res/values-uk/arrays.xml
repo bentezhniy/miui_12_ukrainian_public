@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="trans_cancel_survey_title">
-        <item>Передача занадто довга</item>
-        <item>З\'єднання перервано</item>
-        <item>Вибрані неправильні файли для передачі</item>
-        <item>Занадто багато дій</item>
-        <item>Батарея розряджена</item>
+        <item>Загальне враження</item>
+        <item>Тривалість передачі</item>
+        <item>Простота процесу</item>
+        <item>Чіткість інструкцій</item>
+        <item>Ця функція корисна</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
+        <item>Абсолютно незадоволений</item>
+        <item>Частково незадоволений</item>
+        <item>Нейтрально</item>
+        <item>Частково задоволений</item>
+        <item>Дуже задоволений</item>
     </string-array>
     <string-array name="trans_succeed_survey_title">
-        <item>Загальна оцінка</item>
-        <item>Швидкість передачі</item>
+        <item>Загальний рейтинг</item>
+        <item>Тривалість передачі</item>
         <item>Простота процесу</item>
-        <item>Зручність</item>
+        <item>Чіткість інструкцій</item>
     </string-array>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d файлів програм</item>
-        <item quantity="one">%d файл програм</item>
-        <item quantity="few">%d файли програм</item>
-        <item quantity="many">%d файлів програм</item>
+        <item quantity="other">%d файлів програми</item>
+        <item quantity="one">%d файл програми</item>
+        <item quantity="few">%d файла програми</item>
+        <item quantity="many">%d файлів програми</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d системних файлів</item>
@@ -13,94 +13,94 @@
         <item quantity="many">%d системних файлів</item>
     </plurals>
     <plurals name="custom_progress">
-        <item quantity="other">%d елементів</item>
-        <item quantity="one">%d елемент</item>
-        <item quantity="few">%d елементи</item>
-        <item quantity="many">%d елементів</item>
+        <item quantity="other">%d об\'єктів</item>
+        <item quantity="one">%d об\'єкт</item>
+        <item quantity="few">%d об\'єкта</item>
+        <item quantity="many">%d об\'єктів</item>
     </plurals>
     <plurals name="data_item_count">
-        <item quantity="other">%d елементів</item>
-        <item quantity="one">%d елемент</item>
-        <item quantity="few">%d елемента</item>
-        <item quantity="many">%d елементів</item>
+        <item quantity="other">%d об/\'єктів</item>
+        <item quantity="one">%d об/\'єкт</item>
+        <item quantity="few">%d об/\'єкта</item>
+        <item quantity="many">%d об/\'єктів</item>
     </plurals>
     <plurals name="data_item_count_pair">
         <item quantity="other">%1$d/%2$d об\'єктів</item>
-        <item quantity="one">%1$d/%2$d елемент</item>
-        <item quantity="few">%1$d/%2$d об\'єктів</item>
+        <item quantity="one">%1$d/%2$d об\'єкт</item>
+        <item quantity="few">%1$d/%2$d об\'єкта</item>
         <item quantity="many">%1$d/%2$d об\'єктів</item>
     </plurals>
     <plurals name="local_main_backup_manage_summary">
-        <item quantity="other">%1$s резервних копій (%2$s)</item>
-        <item quantity="one">%1$s резервне копіювання (%2$s)</item>
-        <item quantity="few">%1$s резервних копій (%2$s)</item>
-        <item quantity="many">%1$s резервних копій (%2$s)</item>
+        <item quantity="other">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="one">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="few">Резервних копій: %1$s (%2$s)</item>
+        <item quantity="many">Резервних копій: %1$s (%2$s)</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"Створено резервну копію. Не вдалося створити резервну копію %d об'єктів."</item>
-        <item quantity="one">"Створено резервну копію. Не вдалося створити резервну копію %d елементів."</item>
-        <item quantity="few">"Створено резервну копію. Не вдалося створити резервну копію %d об'єктів."</item>
-        <item quantity="many">"Створено резервну копію. Не вдалося створити резервну копію %d об'єктів."</item>
+        <item quantity="other">"Реезрвну копію створено успішно. Не вдалося створити резервну копію %d об'єктів."</item>
+        <item quantity="one">"Реезрвну копію створено успішно. Не вдалося створити резервну копію %d об'єкта."</item>
+        <item quantity="few">"Реезрвну копію створено успішно. Не вдалося створити резервну копію %d об'єктів."</item>
+        <item quantity="many">"Реезрвну копію створено успішно. Не вдалося створити резервну копію %d об'єктів."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
         <item quantity="other">"Відновлено успішно. Не вдалося відновити %d об'єктів."</item>
-        <item quantity="one">"Відновлено успішно. Не вдалося відновити елемент %d."</item>
-        <item quantity="few">"Відновлено успішно. Не вдалося відновити %d об'єктів."</item>
+        <item quantity="one">"Відновлено успішно. Не вдалося відновити %d об'єкт."</item>
+        <item quantity="few">"Відновлено успішно. Не вдалося відновити %d об'єкта."</item>
         <item quantity="many">"Відновлено успішно. Не вдалося відновити %d об'єктів."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d елементів імпортовано, "</item>
-        <item quantity="one">"%d елемент імпортовано, "</item>
-        <item quantity="few">"%d елементи імпортовано, "</item>
-        <item quantity="many">"%d елементів імпортовано, "</item>
+        <item quantity="other">"Імпортовано об'єктів: %d. "</item>
+        <item quantity="one">"Імпортовано об'єктів: %d. "</item>
+        <item quantity="few">"Імпортовано об'єктів: %d. "</item>
+        <item quantity="many">"Імпортовано об'єктів: %d. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d елементів необхідно імпортувати повторно</item>
-        <item quantity="one">%d елемент необхідно імпортувати повторно</item>
-        <item quantity="few">%d елементи необхідно імпортувати повторно</item>
-        <item quantity="many">%d елементів необхідно імпортувати повторно</item>
+        <item quantity="other">Імпортувати ще раз %d об\'єктів.</item>
+        <item quantity="one">Імпортувати ще раз %d об\'єкт.</item>
+        <item quantity="few">Імпортувати ще раз %d об\'єкта.</item>
+        <item quantity="many">Імпортувати ще раз %d об\'єктів.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d елементів імпортовано та відновлено</item>
-        <item quantity="one">%d елемент імпортовано та відновлено</item>
-        <item quantity="few">%d елементи імпортовано та відновлено</item>
-        <item quantity="many">%d елементів імпортовано та відновлено</item>
+        <item quantity="other">Імпортовано та відновлено об\'єктів: %d</item>
+        <item quantity="one">Імпортовано та відновлено об\'єктів: %d</item>
+        <item quantity="few">Імпортовано та відновлено об\'єктів: %d</item>
+        <item quantity="many">Імпортовано та відновлено об\'єктів: %d</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d елементів відновлено</item>
-        <item quantity="one">%d елемент відновлено</item>
-        <item quantity="few">%d елементи відновлено</item>
-        <item quantity="many">%d елементів відновлено</item>
+        <item quantity="other">Відновлено об\'єктів: %d</item>
+        <item quantity="one">Відновлено об\'єктів: %d</item>
+        <item quantity="few">Відновлено об\'єктів: %d</item>
+        <item quantity="many">Відновлено об\'єктів: %d</item>
     </plurals>
     <plurals name="select_item_count_unit">
-        <item quantity="other">елементів</item>
-        <item quantity="one">елемент</item>
-        <item quantity="few">елементи</item>
-        <item quantity="many">елементів</item>
+        <item quantity="other">об\'єктів</item>
+        <item quantity="one">об\'єкт</item>
+        <item quantity="few">об\'єкта</item>
+        <item quantity="many">об\'єктів</item>
     </plurals>
     <plurals name="select_item_summary">
-        <item quantity="other">%1$s | %2$d елементів</item>
-        <item quantity="one">%1$s | %2$d елемент</item>
-        <item quantity="few">%1$s | %2$d елементи</item>
-        <item quantity="many">%1$s | %2$d елементів</item>
+        <item quantity="other">%1$s | %2$d об\'єктів</item>
+        <item quantity="one">%1$s | %2$d об\'єкт</item>
+        <item quantity="few">%1$s | %2$d об\'єкта</item>
+        <item quantity="many">%1$s | %2$d об\'єктів</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d елементів,</item>
-        <item quantity="one">%d елемент,</item>
-        <item quantity="few">%d елементи,</item>
-        <item quantity="many">%d елементів,</item>
+        <item quantity="other">%d об\'єктів,</item>
+        <item quantity="one">%d об\'єкт,</item>
+        <item quantity="few">%d об\'єкта,</item>
+        <item quantity="many">%d об\'єктів,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">"Неможливо передати %d файлів"</item>
-        <item quantity="one">"Неможливо передати %d файл"</item>
-        <item quantity="few">"Неможливо передати %d файли"</item>
-        <item quantity="many">"Неможливо передати %d файлів"</item>
+        <item quantity="other">"Не вдалося передати %d об'єктів. Натисніть, щоб переглянути результати."</item>
+        <item quantity="one">"Не вдалося передати %d об'єкт. Натисніть, щоб переглянути результати."</item>
+        <item quantity="few">"Не вдалося передати %d об'єкта. Натисніть, щоб переглянути результати."</item>
+        <item quantity="many">"Не вдалося передати %d об'єктів. Натисніть, щоб переглянути результати."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
-        <item quantity="other">"Неможливо передати %d файлів"</item>
-        <item quantity="one">"Неможливо передати %d файл"</item>
-        <item quantity="few">"Неможливо передати %d файли"</item>
-        <item quantity="many">"Неможливо передати %d файлів"</item>
+        <item quantity="other">"Не вдалося передати %d об'єктів."</item>
+        <item quantity="one">"Не вдалося передати %d об'єкт."</item>
+        <item quantity="few">"Не вдалося передати %d об'єкта."</item>
+        <item quantity="many">"Не вдалося передати %d об'єктів."</item>
     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d годин</item>
