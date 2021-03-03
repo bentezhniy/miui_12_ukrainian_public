@@ -1910,6 +1910,7 @@ SIM-карта буде очищена при невдалій спробі вв
     <string name="search_menu">Параметри пошуку</string>
     <string name="search_menu_title">Пошук</string>
     <string name="selectContact">вибрати контакт</string>
+    <string name="select_apn_list_title">Виберіть APN за замовчуванням: для карти%1$s</string>
     <string name="select_application">Оберіть програму</string>
     <string name="select_automatically">Автовибір мережі</string>
     <string name="select_dds_dialog_title">Виберіть SIM-карту для мобільних даних за замовчуванням</string>

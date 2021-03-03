@@ -60,9 +60,9 @@
         <item>Я</item>
     </string-array>
     <string-array name="settings_search_earth">
-        <item>Домашній екран</item>
-        <item>Шпалер/Супер шпалери/Головна</item>
-        <item>Земля;Супершпалери;Фотографія;Фотографії Землі</item>
+        <item>Земля</item>
+        <item>Шпалери/Супершпалери/Земля</item>
+        <item>Земля;Супершпалери;Земля;Шпалери</item>
     </string-array>
     <string-array name="settings_search_geometry">
         <item>Геометрія</item>
@@ -71,13 +71,13 @@
     </string-array>
     <string-array name="settings_search_mars">
         <item>Червона планета</item>
-        <item>Шпалер/Супер шпалери/Червона планета</item>
-        <item>Марс, вид; Супершпалери; Шпалери</item>
+        <item>Шпалери/Супершпалери/Червона планета</item>
+        <item>Марс;Марсіанський;Супершпалери;Шпалери</item>
     </string-array>
     <string-array name="settings_search_saturn">
-        <item>Кільця Сатурна</item>
-        <item>Фонові малюнки/Супер шпалери/Кільця Сатурна</item>
-        <item>Планета;Сатурн;Супершпалер;Шпалери</item>
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Snowy peaks</item>
@@ -85,9 +85,9 @@
         <item>Земля; Гори, супершпалери; Шпалери</item>
     </string-array>
     <string-array name="settings_search_superwp">
-        <item>Супер-шпалери</item>
-        <item>Шпалер/Супершпалери</item>
-        <item>Супершпалери;Шпалера;Динамічні шпалери;3D-шпалери</item>
+        <item>Супершпалери</item>
+        <item>Шпалери/Супершпалери</item>
+        <item>Супершпалери;Шпалери;Динамічні шпалери;3D-шпалери</item>
     </string-array>
     <string-array name="settings_search_weather">
         <item>Погода</item>

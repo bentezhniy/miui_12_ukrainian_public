@@ -83,8 +83,8 @@
         <item>Дівчинка</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
-        <item>Бекап фото</item>
-        <item>Синхронізація фото з Mi Cloud</item>
+        <item>Резервне копіювання фото</item>
+        <item>Синхронізувати фото з хмарим сховищем</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Минулий місяць</item>
@@ -140,18 +140,18 @@
         <item>Грудень</item>
     </string-array>
     <string-array name="last_week_baby_title">
-        <item>Час гри</item>
-        <item>"Вихідні дні Кіддо"</item>
-        <item>Маленька</item>
+        <item>Time to play</item>
+        <item>"Kiddo's weekend"</item>
+        <item>The little one</item>
     </string-array>
     <string-array name="last_weekend_title">
-        <item>Вихідні</item>
-        <item>Ритм життя</item>
-        <item>Спогади про вихідні</item>
+        <item>Мої вихідні</item>
+        <item>Частинки життя</item>
+        <item>Миті вихідних</item>
     </string-array>
     <string-array name="last_year_group_people">
-        <item>Нові друзі та старі приятелі</item>
-        <item>"Минулорічні суб'єкти"</item>
+        <item>New friends and old pals</item>
+        <item>"Last year's get-togethers"</item>
     </string-array>
     <string-array name="magic_effects_audio_titles">
         <item></item>
@@ -307,21 +307,21 @@
         <item>Минулий грудень</item>
     </string-array>
     <string-array name="owner_relation">
-        <item>Тато</item>
-        <item>Мама</item>
-        <item>Дідусь</item>
-        <item>Бабуся</item>
-        <item>Дідусь</item>
-        <item>Бабуся</item>
+        <item>Батько</item>
+        <item>Мати</item>
+        <item>Прадідусь по батьківській лінії</item>
+        <item>Прабабуся по батьківській лінії</item>
+        <item>Прадідусь по материнській лінії</item>
+        <item>Прабабуся по материнській лінії</item>
     </string-array>
     <string-array name="parties_title">
         <item>Разом</item>
-        <item>Приємні часи</item>
+        <item>Гарні часи</item>
         <item>В унісон</item>
     </string-array>
     <string-array name="recent_group_people">
-        <item>Разом</item>
-        <item>Борги та зв’язки</item>
+        <item>Together</item>
+        <item>Bonds and ties</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Я</item>
@@ -330,7 +330,7 @@
         <item>Колеги</item>
         <item>Однокласники</item>
         <item>Друзі</item>
-        <item>Інші</item>
+        <item>Незгруповані</item>
     </string-array>
     <string-array name="season">
         <item>Весна</item>
@@ -347,18 +347,18 @@
     <string-array name="sharer_relation_addressive">
         <item>Батько</item>
         <item>Мати</item>
-        <item>Дідусь по батьку</item>
-        <item>Бабуся по батьку</item>
-        <item>Дідусь по матері</item>
-        <item>Бабуся по матері</item>
+        <item>Прадідусь по батьківській лінії</item>
+        <item>Прабабуся по батьківській лінії</item>
+        <item>Прадідусь по материнській лінії</item>
+        <item>Прабабуся по материнській лінії</item>
     </string-array>
     <string-array name="sports_title">
         <item>Рух вперед</item>
-        <item>Енергія</item>
+        <item>Повний енергії</item>
     </string-array>
     <string-array name="three_month_baby_title">
-        <item>Вони так швидко ростуть</item>
-        <item>"Фотографії Кіддо"</item>
+        <item>They grow so fast</item>
+        <item>"Kiddo's photos"</item>
     </string-array>
     <string-array name="weekend_title">
         <item>Вихідні</item>

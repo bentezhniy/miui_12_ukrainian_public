@@ -6,7 +6,7 @@
     <item>Налаштування</item>
   </string-array>
   <string-array name="gadget_weather_image">
-    <item>Сонячно</item>
+    <item>Ясно</item>
     <item>Хмарно</item>
     <item>Хмарно</item>
     <item>Туман</item>
@@ -14,44 +14,44 @@
     <item>Злива</item>
     <item>Злива з ураганом</item>
     <item>Місцями грози</item>
-    <item>Зливи</item>
+    <item>Короткочасний дощ</item>
     <item>Сильний дощ</item>
-    <item>Помірний дощ</item>
-    <item>Невеликий дощ</item>
-    <item>Дощ зі снігом</item>
-    <item>Хуртовина</item>
-    <item>Зливи зі снігом</item>
+    <item>Дощ</item>
+    <item>Мряка</item>
+    <item>Мокрий сніг</item>
+    <item>Заметіль</item>
+    <item>Снігопад</item>
     <item>Сильний снігопад</item>
-    <item>Помірний сніг</item>
+    <item>Снігопад</item>
     <item>Невеликий сніг</item>
-    <item>Сильна пильна бура</item>
-    <item>Пильна бура</item>
+    <item>Сильна піщана буря</item>
+    <item>Піщана буря</item>
     <item>Пил</item>
-    <item>Піщана бура</item>
+    <item>Піщана буря</item>
     <item>Град</item>
     <item>Бруд</item>
-    <item>Смог</item>
+    <item>Імла</item>
   </string-array>
   <string-array name="gadget_weather_theme_type_entries">
-    <item>Стандартно</item>
+    <item>За замовчуванням</item>
     <item>Класичний</item>
   </string-array>
   <string-array name="quality_business_devices">
     <item>Літій</item>
   </string-array>
   <string-array name="transformation_entries">
-    <item>Стандарт</item>
-    <item>Згасання</item>
-    <item>Поворот</item>
-    <item>Гортання</item>
+    <item>Слайд</item>
+    <item>Накладення</item>
+    <item>Мельниця</item>
+    <item>Книга</item>
     <item>Каскад</item>
     <item>Обертання</item>
-    <item>3D куб</item>
+    <item>3D-куб</item>
   </string-array>
   <string-array name="wallpaper_scroll_entries">
     <item>Увімкнена</item>
     <item>Вимкнена (шпалери по центру)</item>
-    <item>Вимкнена (шпалери зліва)</item>
-    <item>Вимкнена (шпалери справа)</item>
+    <item>Вимкнена (шпалери ліворуч)</item>
+    <item>Вимкнена (шпалери праворуч)</item>
   </string-array>
 </resources>

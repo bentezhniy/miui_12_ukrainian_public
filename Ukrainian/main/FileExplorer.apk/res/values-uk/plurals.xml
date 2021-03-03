@@ -79,10 +79,10 @@
         <item quantity="many">У Вас %d балів</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d дн. тому</item>
-        <item quantity="one">%1$d дн. тому</item>
-        <item quantity="few">%1$d дн. тому</item>
-        <item quantity="many">%1$d дн. тому</item>
+        <item quantity="other">%1$d днів тому</item>
+        <item quantity="one">%1$d день тому</item>
+        <item quantity="few">%1$d дні тому</item>
+        <item quantity="many">%1$d днів тому</item>
     </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">Видалити файли (%1$d)</item>
@@ -97,16 +97,16 @@
         <item quantity="many">" і теки (%1$d)?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d файлів</item>
-        <item quantity="one">%d файл</item>
-        <item quantity="few">%d файлів</item>
-        <item quantity="many">%d файлів</item>
+        <item quantity="other">файлів: %d</item>
+        <item quantity="one">файлів: %d</item>
+        <item quantity="few">файлів: %d</item>
+        <item quantity="many">файлів: %d</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d файлів</item>
-        <item quantity="one"> %1$d файл</item>
-        <item quantity="few"> %1$d файла</item>
-        <item quantity="many"> %1$d файлів</item>
+        <item quantity="other">%1$d елементів</item>
+        <item quantity="one">%1$d елементи</item>
+        <item quantity="few">%1$d елементи</item>
+        <item quantity="many">%1$d елементів</item>
     </plurals>
     <plurals name="follow_count">
         <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписники</item>
@@ -115,10 +115,10 @@
         <item quantity="many">&lt;font color=#fc7050&gt;%d&lt;/font&gt; підписник</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Знайдено нових файлів: %1$d</item>
-        <item quantity="one">Знайдено нових файлів: %1$d</item>
-        <item quantity="few">Знайдено нових файлів: %1$d</item>
-        <item quantity="many">Знайдено нових файлів: %1$d</item>
+        <item quantity="other">Знайдено %1$d нових файлів</item>
+        <item quantity="one">Знайдено %1$d новий файл</item>
+        <item quantity="few">Знайдено %1$d нових файлів</item>
+        <item quantity="many">Знайдено %1$d нових файлів</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s діамантів</item>
@@ -133,10 +133,10 @@
         <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">%1$d г. тому</item>
-        <item quantity="one">%1$d г. тому</item>
-        <item quantity="few">%1$d г. тому</item>
-        <item quantity="many">%1$d г. тому</item>
+        <item quantity="other">%1$d годин тому</item>
+        <item quantity="one">%1$d годину тому</item>
+        <item quantity="few">%1$d години тому</item>
+        <item quantity="many">%1$d годин тому</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Через 1 годину</item>
@@ -175,10 +175,10 @@
         <item quantity="other">Щойно</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d хв. тому</item>
-        <item quantity="one">%1$d хв. тому</item>
-        <item quantity="few">%1$d хв. тому</item>
-        <item quantity="many">%1$d хв. тому</item>
+        <item quantity="other">%1$d хвилин тому</item>
+        <item quantity="one">%1$d хвилину тому</item>
+        <item quantity="few">%1$d хвилини тому</item>
+        <item quantity="many">%1$d хвилин тому</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d елементів вибрано</item>
@@ -200,9 +200,9 @@
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="one"> Вибрано: %1$d</item>
-        <item quantity="few"> Вибрано: %1$d</item>
-        <item quantity="many"> Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
+        <item quantity="few">Вибрано: %1$d</item>
+        <item quantity="many">Вибрано: %1$d</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвилин тому</item>

@@ -37,16 +37,16 @@
         <item quantity="many">Неправильний PUK-код, залишилося спроб: %d</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Запит пароля через %d годин бездіяльності</item>
-        <item quantity="one">Запит пароля через %d годину бездіяльності</item>
-        <item quantity="few">Запит пароля через %d години бездіяльності</item>
-        <item quantity="many">Запит пароля через %d годин бездіяльності</item>
+        <item quantity="other">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="one">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="few">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="many">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Запит ключа через %d годин бездіяльності</item>
-        <item quantity="one">Запит ключа через %d годину бездіяльності</item>
-        <item quantity="few">Запит ключа через %d години бездіяльності</item>
-        <item quantity="many">Запит ключа через %d годин бездіяльності</item>
+        <item quantity="other">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="one">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="few">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
+        <item quantity="many">Введіть свій пароль принаймні раз в %d год, щоб краще запам\'ятати його</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Залишилося %d  год</item>
@@ -85,28 +85,28 @@
         <item quantity="many">%1$d  год %2$d  хв</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">Залишилось %d год.</item>
-        <item quantity="one">Залишилось %d год.</item>
-        <item quantity="few">Залишилось %d год.</item>
-        <item quantity="many">Залишилось %d год.</item>
+        <item quantity="other">Залишилося %d  год</item>
+        <item quantity="one">Залишилося %d  год</item>
+        <item quantity="few">Залишилося %d  год</item>
+        <item quantity="many">Залишилося %d  год</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">Залишилось %d хв.</item>
-        <item quantity="one">Залишилось %d хв.</item>
-        <item quantity="few">Залишилось %d хв.</item>
-        <item quantity="many">Залишилось %d хв.</item>
+        <item quantity="other">Залишилося %d  хв</item>
+        <item quantity="one">Залишилася %d  хв</item>
+        <item quantity="few">Залишилося %d  хв</item>
+        <item quantity="many">Залишилося %d  хв</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">Залишилось %1$d год. %2$d хв.</item>
-        <item quantity="one">Залишилось %1$d год. %2$d хв.</item>
-        <item quantity="few">Залишилось %1$d год. %2$d хв.</item>
-        <item quantity="many">Залишилось %1$d год. %2$d хв.</item>
+        <item quantity="other">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="one">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="few">Залишилося %1$d  год %2$d  хв</item>
+        <item quantity="many">Залишилося %1$d  год %2$d  хв</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Введіть PIN-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="other">Введіть PIN-код. Залишилося %d спроб.</item>
         <item quantity="one">Введіть PIN-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
-        <item quantity="few">Введіть PIN-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
-        <item quantity="many">Введіть PIN-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="few">Введіть PIN-код. Залишилося %d спроби.</item>
+        <item quantity="many">Введіть PIN-код. Залишилося %d спроб.</item>
     </plurals>
     <plurals name="kg_password_default_pin_message_multi_sim">
         <item quantity="other">Введіть PIN-%1$d SIM-карти, %2$d інші спроби.</item>
@@ -115,16 +115,16 @@
         <item quantity="many">Введіть PIN-%1$d SIM-карти, %2$d інші спроби.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до Вашого оператора зв\'язку.</item>
-        <item quantity="one">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до Вашого оператора зв\'язку.</item>
-        <item quantity="few">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до Вашого оператора зв\'язку.</item>
-        <item quantity="many">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до Вашого оператора зв\'язку.</item>
+        <item quantity="other">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="one">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="few">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
+        <item quantity="many">SIM-карта заблокована. Для підтвердження введіть PUK-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована назавжди. Для детальної інформації зверніться до вашого оператора зв\'язку.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Введіть PIN-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
-        <item quantity="one">Введіть PIN-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
-        <item quantity="few">Введіть PIN-код. Залишилося %d спроби. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
-        <item quantity="many">Введіть PIN-код. Залишилося %d спроб. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку.</item>
+        <item quantity="other">Неправильний PIN-код. Залишилося %d спроб.</item>
+        <item quantity="one">Неправильний PIN-код. Залишилася %d спроба. Після цього SIM-карта буде заблокована і вам буде необхідно звернутися до оператора зв\'язку для розблокування пристрою.</item>
+        <item quantity="few">Неправильний PIN-код. Залишилося %d спроби.</item>
+        <item quantity="many">Неправильний PIN-код. Залишилося %d спроб.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
         <item quantity="other">Неправильний PIN-код%1$d SIM-карти. У вас залишилося %2$d спроб.</item>
@@ -211,9 +211,9 @@
         <item quantity="many">Ви можете додати до %d користувачів.</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">Підключено %1$d пристроїв</item>
-        <item quantity="one">Підключено %1$d пристрій</item>
-        <item quantity="few">Підключено %1$d пристрої</item>
-        <item quantity="many">Підключено %1$d пристроїв</item>
+        <item quantity="other">Підключено пристроїв: %1$d</item>
+        <item quantity="one">Підключено пристроїв: %1$d</item>
+        <item quantity="few">Підключено пристроїв: %1$d</item>
+        <item quantity="many">Підключено пристроїв: %1$d</item>
     </plurals>
 </resources>
