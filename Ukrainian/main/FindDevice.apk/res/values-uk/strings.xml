@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="activate_xiaomi_account">Активувати цей пристрій</string>
+    <string name="activate_xiaomi_account">Активувати пристрій</string>
     <string name="adding_or_updating_account">Оновлення акаунту…</string>
     <string name="app_name">Пошук пристрою</string>
-    <string name="captcha">Каптча</string>
-    <string name="change_find_device_status_failed">"Неможливо розблокувати. %s."</string>
-    <string name="default_debt_msg_words">"Пристрій заблоковано через заборгованість. 
-Зв'яжіться з продавцем"</string>
-    <string name="default_lock_msg_words">Я втратив свій телефон. Зв\'яжуся з Вами пізніше.</string>
-    <string name="default_lock_msg_words_with_phone">Я загубив свій телефон! Будь ласка зв\'яжіться зі мною.</string>
-    <string name="device_locked">Пристрій заблоковано</string>
-    <string name="device_lost">Цей пристрій загублений</string>
-    <string name="disable_find_device_error">"Неможливо вимкнути пошук пристрою. %1$s"</string>
+    <string name="captcha">Captcha</string>
+    <string name="change_find_device_status_failed">"Не вдалося розблоковувати. %s."</string>
+    <string name="default_debt_msg_words">"Цей пристрій заблоковано через прострочення платежу.
+Зв'яжіться з вашим агентом з продажу для отримання детальної інформації."</string>
+    <string name="default_lock_msg_words">Цей пристрій пов\'язаний з існуючим Mi акаунтом. З міркувань безпеки вам потрібно ввести пароль, щоб перевірити пристрій.</string>
+    <string name="default_lock_msg_words_with_phone">Привіт! Я втратив свій телефон. Чи могли б ви зв\'язатися зі мною, будь ласка? Дякую!</string>
+    <string name="device_locked">Цей пристрій заблоковано</string>
+    <string name="device_lost">Цей пристрій втрачено</string>
+    <string name="disable_find_device_error">"Не вдалося вимкнути пошук пристрою. %1$s"</string>
     <string name="disable_find_device_success">Пошук пристрою вимкнено</string>
-    <string name="doing_extra_login_steps">Перевірка авторизації…</string>
+    <string name="doing_extra_login_steps">Перевірка доступу…</string>
     <string name="emergency_call">Екстрений виклик</string>
-    <string name="enable_find_device_error">"Неможливо увімкнути пошук пристрою. %1$s"</string>
+    <string name="enable_find_device_error">"Не вдалося увімкнути пошук пристрою. %1$s"</string>
     <string name="enable_find_device_success">Пошук пристрою увімкнено</string>
     <string name="find_device">Пошук пристрою</string>
-    <string name="find_device_crash">Помилка програми</string>
-    <string name="find_device_error_access_denied">Доступ заборонено</string>
-    <string name="find_device_error_account_sys_timeout">"Неможливо підключитися до Мi акаунту"</string>
-    <string name="find_device_error_account_unknown_error">Помилка Mi акаунту (%s)</string>
+    <string name="find_device_crash">Пошук пристрою було несподівано закрито.</string>
+    <string name="find_device_error_access_denied">Доступ заборонений.</string>
+    <string name="find_device_error_account_sys_timeout">"Не вдалося підключитися до Mi акаунту. "</string>
+    <string name="find_device_error_account_unknown_error">Помилка Mi акаунту (%s).</string>
     <string name="find_device_error_custom">%s</string>
-    <string name="find_device_error_network">Перевірте параметри мережі і повторіть спробу</string>
-    <string name="find_device_error_password_changed">Пароль акаунту було змінено</string>
-    <string name="find_device_error_server">Помилка сервера (%s)</string>
-    <string name="find_device_error_unknown">Невідома помилка (%s)</string>
-    <string name="find_device_noise_title">Звук пошуку пристрою</string>
-    <string name="find_device_notice">Перейдіть на&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;, щоб знаходити, блокувати або відновляти Ваш пристрій.</string>
-    <string name="find_device_notice_sms_alert">Якщо Ви перемкнете SIM-карти, SMS може бути автоматично повторно відправлено для активації сервісу</string>
-    <string name="find_device_stop_noise">Вимкнути</string>
-    <string name="find_device_storage_corrupted">Сервіс \"Пошук пристрою\" пошкоджено. Ваш пристрій не захищено.</string>
+    <string name="find_device_error_network">Помилка мережі.</string>
+    <string name="find_device_error_password_changed">Пароль акаунту був нещодавно змінений.</string>
+    <string name="find_device_error_server">Помилка сервера (%s).</string>
+    <string name="find_device_error_unknown">Невідома помилка (%s).</string>
+    <string name="find_device_noise_title">Сигнал пошуку пристрою</string>
+    <string name="find_device_notice">Перейдіть на&lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;, щоб знаходити, блокувати або відновлювати ваш пристрій.</string>
+    <string name="find_device_notice_sms_alert">Якщо ви замінили SIM-карту, SMS для повторної активації буде відправлено автоматично.</string>
+    <string name="find_device_stop_noise">Натисніть OK щоб вимкнути звук</string>
+    <string name="find_device_storage_corrupted">Сховище програми пошуку пристрою пошкоджене. Ваш пристрій зараз у небезпеці.</string>
     <string name="find_device_success_title">Пошук пристрою</string>
-    <string name="find_device_telephony_fault">Пошук пристрою: несправність телефону (%s)</string>
-    <string name="i_know">ОК</string>
-    <string name="lock_msg_phone">Контакти: %s</string>
-    <string name="login_extra_steps">Перевірка входу</string>
-    <string name="login_failed">"Неможливо увійти. %s"</string>
-    <string name="open_wifi_settings">Налаштування Wi-Fi</string>
+    <string name="find_device_telephony_fault">Знайти пристрій: Помилка телефонії (%s).</string>
+    <string name="i_know">OK</string>
+    <string name="lock_msg_phone">Контактна інформація: %s</string>
+    <string name="login_extra_steps">Перевірка доступу</string>
+    <string name="login_failed">"Не вдалося увійти. %s."</string>
+    <string name="open_wifi_settings">Відкрити налаштування Wi-Fi</string>
     <string name="passport_checking_vcode">Перевірка пароля…</string>
-    <string name="passport_error_empty_vcode">Введіть код перевірки</string>
-    <string name="passport_notification_need_unlock_again">Повторіть спробу активації</string>
-    <string name="passport_notification_processing">Завантаження…</string>
+    <string name="passport_error_empty_vcode">Введіть код підтвердження</string>
+    <string name="passport_notification_need_unlock_again">Спробуйте розблокувати знову</string>
+    <string name="passport_notification_processing">Обробка…</string>
     <string name="passport_trust_device">Довіряти цьому пристрою</string>
-    <string name="passport_vcode_prompt_long">Введіть код перевірки</string>
+    <string name="passport_vcode_prompt_long">Введіть код підтвердження</string>
     <string name="passport_verify">Перевірка</string>
-    <string name="password">Пароль</string>
-    <string name="phone_locked">Цей пристрій прив\'язано до існуючого Mi акаунту (%s). Авторизуйтеся для активації пристрою.</string>
-    <string name="phone_locked_account_email">, прив\'язаний email: %s</string>
-    <string name="phone_locked_account_phone">, прив\'язаний номер телефону: %s</string>
-    <string name="return_to_call">Повернутися до виклику</string>
-    <string name="stop_on_empty_captcha">"Пароль не може бути порожнім"</string>
+    <string name="password">Введіть пароль</string>
+    <string name="phone_locked">Це пристрій пов\'язано з Mi акаунтом (%s), введіть пароль для активації пристрою.</string>
+    <string name="phone_locked_account_email">, пов\'язаний email: %s</string>
+    <string name="phone_locked_account_phone">, пов\'язаний номер телефону: %s</string>
+    <string name="return_to_call">Повернутися до розмови</string>
+    <string name="stop_on_empty_captcha">"Захисний код не може бути порожнім"</string>
     <string name="stop_on_empty_password">"Пароль не може бути порожнім"</string>
-    <string name="sys_notification_async_open_failed_content">Натисніть, щоб повторити чи скасувати</string>
-    <string name="sys_notification_async_open_failed_title">"Неможливо активувати пошук пристрою"</string>
-    <string name="sys_notification_async_verify_content">Оновлена Політика конфіденційності потребує повторної активації пошуку пристрою</string>
-    <string name="sys_notification_async_verify_title">Повторна активація</string>
-    <string name="time_correction_failure">"Неможливо скоригувати час (%s)"</string>
-    <string name="time_correction_success">Час скореговано</string>
+    <string name="sys_notification_async_open_failed_content">Натисніть, щоб повторити спробу або скасувати.</string>
+    <string name="sys_notification_async_open_failed_title">"Не вдалося увімкнути Пошук пристрою"</string>
+    <string name="sys_notification_async_verify_content">Наша оновлена Політика безпеки вимагає увімкнення функції Пошук пристрою.</string>
+    <string name="sys_notification_async_verify_title">Активувати Пошук пристрою</string>
+    <string name="time_correction_failure">"Не можливо виправити час. %s"</string>
+    <string name="time_correction_success">Час виправлений</string>
     <string name="unlock">Активувати</string>
-    <string name="unlock_access_denied">Доступ заборонено</string>
+    <string name="unlock_access_denied">Доступ заборонений</string>
     <string name="unlock_bad_authentication">Неправильне ім\'я користувача або пароль</string>
     <string name="unlock_error_abort">Скасовано користувачем</string>
-    <string name="unlock_error_device_id">"Неможливо отримати ID пристрою"</string>
+    <string name="unlock_error_device_id">"Не вдалося отримати ID пристрою"</string>
     <string name="unlock_error_interrupted">Перервано</string>
-    <string name="unlock_error_network">"Неможливо під'єднатись до інтернету"</string>
-    <string name="unlock_error_passport_sdk_timeout">"Mi акаунт не відповідає"</string>
+    <string name="unlock_error_network">"Не вдалося підключитися до мережі"</string>
+    <string name="unlock_error_passport_sdk_timeout">"SDK Mi акаунту не відповідає"</string>
     <string name="unlock_error_rpc">Помилка RPC</string>
     <string name="unlock_error_server">Помилка сервера</string>
-    <string name="unlock_error_ssl_hand_shake">"Неможливо під'єднатись до сервера. Спробуйте налаштувати дату і час вручну."</string>
-    <string name="unlock_error_unknown">"Неможливо увійти"</string>
+    <string name="unlock_error_ssl_hand_shake">"Не вдалося підключитися до сервера, спробуйте встановити дату та час вручну."</string>
+    <string name="unlock_error_unknown">"Не вдалося увійти"</string>
     <string name="unlock_error_user_name">Неправильне ім\'я користувача</string>
-    <string name="unlock_error_wrong_vcode">Введено неправильний код</string>
-    <string name="unlock_help">"Підключіться до інтернету.
-Переконайтеся, що в пристрої встановлена робоча SIM-карта, і пристрій приєднано до захищеної Wi-Fi мережі.
+    <string name="unlock_error_wrong_vcode">Код введено невірно</string>
+    <string name="unlock_help">"Підключення до мережі.
+Вставте SIM-карту та не підключайтеся до недійсних мереж Wi-Fi.
 
 Забули пароль?
-Перейдіть на id.mi.com для відновлення паролю.
+Перейдіть на id.mi.com, виберіть \"Забули пароль?\" і слідуйте подальшим інструкціям.
 
-Інші причини:
-Перейдіть на i.mi.com і спробуйте розблокувати пристрій"</string>
-    <string name="unlock_help_title">Інформація по розблокуванню:</string>
-    <string name="unlock_number">Розблокувати код: %s</string>
-    <string name="unlock_wrong_captcha">Введено неправильний код</string>
+Не вдається активувати пристрій?
+Перейдіть на i.mi.com/ss та залиште заявку на розблокування пристрою."</string>
+    <string name="unlock_help_title">Інструкція з розблокування:</string>
+    <string name="unlock_number">Код розблокування: %s</string>
+    <string name="unlock_wrong_captcha">Код введено невірно</string>
     <string name="unlocking">Активація…</string>
     <string name="verifing_account">Перевірка пароля…</string>
-    <string name="verify_password_failed">"Неможливо перевірити ID Mi акаунту. %s."</string>
+    <string name="verify_password_failed">"Не вдалося перевірити ID Mi акаунту. %s."</string>
 </resources>

@@ -66,12 +66,12 @@
         <item>група</item>
     </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Рекомендації у неділю</item>
-        <item>Понедільні рекомендації</item>
-        <item>Рекомендації у вівторок</item>
+        <item>Рекомендації неділі</item>
+        <item>Рекомендації понеділка</item>
+        <item>Рекомендації вівторка</item>
         <item>Рекомендації середи</item>
-        <item>Рекомендації у четвер</item>
-        <item>Рекомендації у п\'ятниці</item>
-        <item>Рекомендації у суботу</item>
+        <item>Рекомендації четверга</item>
+        <item>Рекомендації п\'ятниці</item>
+        <item>Рекомендації суботи</item>
     </string-array>
 </resources>

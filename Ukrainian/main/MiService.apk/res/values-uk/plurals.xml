@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+        <item quantity="other">Годину тому</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 годину тому</item>
-        <item quantity="few">1 годину тому</item>
-        <item quantity="many">1 годину тому</item>
-        <item quantity="other">1 годину тому</item>
+        <item quantity="one">Годину тому</item>
+        <item quantity="few">Годину тому</item>
+        <item quantity="many">Годину тому</item>
+        <item quantity="other">Годину тому</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Півгодини тому</item>
@@ -19,16 +19,16 @@
         <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+        <item quantity="other">Через годину</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+        <item quantity="other">Через півгодини</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Негайно</item>
@@ -37,22 +37,22 @@
         <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">за %d хв</item>
-        <item quantity="one">за 1 хв</item>
-        <item quantity="few">за %d хв</item>
-        <item quantity="many">за %d хв</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+        <item quantity="other">Тільки що</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d хв. тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хв. тому</item>
-        <item quantity="many">%d хв. тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Півгодини тому</item>
@@ -61,16 +61,16 @@
         <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">Через 1 годину</item>
-        <item quantity="few">Через 1 годину</item>
-        <item quantity="many">Через 1 годину</item>
-        <item quantity="other">Через 1 годину</item>
+        <item quantity="one">Через годину</item>
+        <item quantity="few">Через годину</item>
+        <item quantity="many">Через годину</item>
+        <item quantity="other">Через годину</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">За півгодини</item>
-        <item quantity="few">За півгодини</item>
-        <item quantity="many">За півгодини</item>
-        <item quantity="other">За півгодини</item>
+        <item quantity="one">Через півгодини</item>
+        <item quantity="few">Через півгодини</item>
+        <item quantity="many">Через півгодини</item>
+        <item quantity="other">Через півгодини</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="one">Негайно</item>
@@ -79,16 +79,16 @@
         <item quantity="other">Негайно</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d хвилин</item>
-        <item quantity="one">протягом 1 хвилини</item>
-        <item quantity="few">через %d хвилин</item>
-        <item quantity="many">через %d хвилин</item>
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через 1 хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Щойно</item>
-        <item quantity="few">Щойно</item>
-        <item quantity="many">Щойно</item>
-        <item quantity="other">Щойно</item>
+        <item quantity="one">Тільки що</item>
+        <item quantity="few">Тільки що</item>
+        <item quantity="many">Тільки що</item>
+        <item quantity="other">Тільки що</item>
     </plurals>
     <plurals name="miui_guide_accessibility_page_current_count">
         <item quantity="other">Сторінка %1$d з %2$d</item>
@@ -103,9 +103,9 @@
         <item quantity="many">%d елементів вибрано</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d хвилин тому</item>
-        <item quantity="one">1 хвилину тому</item>
-        <item quantity="few">%d хвилин тому</item>
-        <item quantity="many">%d хвилин тому</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">1 хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
 </resources>

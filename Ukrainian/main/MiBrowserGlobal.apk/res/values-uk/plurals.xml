@@ -241,10 +241,10 @@
         <item quantity="many">%s пошукових записів</item>
     </plurals>
     <plurals name="sku_price">
-        <item quantity="other">%2$s кожен %1$s місяць</item>
-        <item quantity="one">%2$s кожен %1$s місяць</item>
-        <item quantity="few">%2$s кожен %1$s місяць</item>
-        <item quantity="many">%2$s кожен %1$s місяць</item>
+        <item quantity="other">%2$s кожні %1$s місяці</item>
+        <item quantity="one">%2$s кожний %1$s місяць</item>
+        <item quantity="few">%2$s кожні %1$s місяця</item>
+        <item quantity="many">%2$s кожні %1$s місяці</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">Пісень: %d</item>

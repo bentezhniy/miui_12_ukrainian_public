@@ -5,21 +5,15 @@
         <item>Жіноча</item>
     </string-array>
     <string-array name="passport_alphabet_table">
-        <item>\#</item>
         <item>А</item>
         <item>Б</item>
         <item>В</item>
         <item>Г</item>
-        <item>Ґ</item>
         <item>Д</item>
         <item>Е</item>
-        <item>Є</item>
         <item>Ж</item>
         <item>З</item>
         <item>И</item>
-        <item>І</item>
-        <item>Ї</item>
-        <item>Й</item>
         <item>К</item>
         <item>Л</item>
         <item>М</item>
@@ -32,75 +26,81 @@
         <item>У</item>
         <item>Ф</item>
         <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Облікові записи</item>
         <item>Додавати та керувати сторонніми обліковими записами</item>
-        <item>Аккаунт;Обліковий запис;Адмін;Xiaomi;View;SNS;Facebook;Google</item>
+        <item>Облікові записи;SNS;Facebook;Google;Mi аккаунт;Обліковий запис;Обліковий запис</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Облікові записи</item>
         <item>Додавати та керувати сторонніми обліковими записами</item>
-        <item>Авторизація;Аккаунт;Mi Обліковка;Пое;Xiaomi;View;SNS;WeChat;Q;Weibo</item>
+        <item>Облікові записи;SNS;WeChat;QQ;Weibo;Обліковий запис;Mi</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Змінити пароль</item>
         <item>Змінити пароль облікового запису Mi</item>
-        <item>Змінити пароль;Xiaomi;Акаунт ;Змінити обліковий запис</item>
+        <item>Змінити пароль;Оновити пароль;Оновити пароль;Обліковий запис;</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Довідка</item>
         <item>Отримати Mi обліковий запис та підтримку</item>
-        <item>Xiaomi;Аккаунт;Mi Accoun;Довідка;Переглянути</item>
+        <item>Акаунт з Mi Account;Відомості про обліковий запис;Довідковий центр</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>2-етапна перевірка</item>
         <item>Встановіть двоетапну перевірку для свого Mi аккаунту</item>
-        <item>Зареєструватися;Увійти;2-крок;перевірити через Xiaomi;Обліковий запис;Параметри</item>
+        <item>Зареєструватися;Увійти;2-крок;перевірка Xiaomi;Обліковий запис;Mi аккаунт;Обліковий запис</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
-        <item>Вхід та безпека</item>
+        <item>Безпека облікового запису</item>
         <item>Телефон відновлення та електронна пошта, керування паролями</item>
-        <item>Акаунт;Вхід;Увійти;Xiaomi;Mi номер телефону;Електронна пошта;Зміна пароля;Додавання;Пара</item>
+        <item>Безпека облікового запису;Вхід в телефон;Телефон відновлення;Захист відновлення;Номер телефону;Змінити пароль;Додати номер телефону;Додати номер електронної пошти;Обліковий запис Mi</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Пристрої</item>
         <item>Керування пристроями, пов\'язаними з Mi аккаунтом</item>
-        <item>Ввійти;Вхід;Список пристроїв;Сховище;Xiaomi;Обліковий запис Mi</item>
+        <item>Управління пристроями;Мої пристрої;Список пристроїв;Вміст пристроїв;Обліковий запис Mi запису;</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Інформація про оплату</item>
         <item>Перегляд та керування інформацією про оплату</item>
-        <item>Платіж;Інформація;Xiaomi;Mi Обліковий запис</item>
+        <item>Платеж;Платеж;Платіж;Mi Обліковка;Обліковий запис</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Політика конфіденційності</item>
         <item>Переглянути політику конфіденційності Mi Account</item>
-        <item>Xiaomiomi;Обліковка;Політика конфіденційності;Переглянути</item>
+        <item>Аккаунт під назвою \'Політика конфіденційності\'</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Пошта для відновлення доступу</item>
         <item>Додати резервну адресу</item>
-        <item>Безпека;Електронна пошта;Xiaomi;Аккаунт?Адміниця;Пара</item>
+        <item>Пошта для відновлення;Додати електронного листа;Mi Обліковка;Обліковий запис</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Номер телефону для відновлення</item>
         <item>Додати пристрій для відновлення</item>
-        <item>Безпека;Обліковий запис;Номер телефону;Xiaomi;Додавати;Пара</item>
+        <item>Телефон відновлення;Додати телефон;Обліковий запис;Mi</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Оголошення</item>
         <item>Керування системною рекламою</item>
-        <item>Система;Ads;Xiaomi;Обліковка;Параметри;Параметри</item>
+        <item>Реклама;Mi Аккаунт;Аккаунт</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Інформація про обліковий запис</item>
         <item>Переглянути фотографію профілю і керувати інформацією облікового запису</item>
-        <item>Обліковий запис;Інформація;Фотографія;профіль;Назва профілю;Xiaomi;ID;Mi Обліковка;Налаштування</item>
+        <item>Особиста інформація;сторінка профілю;;псевдонім;інформація про обліковий запис;Mi ID;Mi Облікові записи</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Угода користувача</item>
-        <item>Перегляд Mi облікового запису угоди</item>
-        <item>Аккаунт Xiaomi;Переглянути</item>
+        <item>Угода користувача</item>
+        <item>Облікова сумісність;Ліцензійна угода;EULA</item>
     </string-array>
 </resources>

@@ -3,8 +3,8 @@
   <string-array name="emailAddressTypes">
     <item>Домашня</item>
     <item>Робоча</item>
-    <item>Інша</item>
-    <item>Вибрати</item>
+    <item>Інше</item>
+    <item>Указати</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Повторіть спробу</item>
@@ -36,43 +36,43 @@
     <item>Цей відбиток пальця додано, використовуйте інший палець</item>
   </string-array>
   <string-array name="imAddressTypes">
-    <item>Домашня</item>
-    <item>Робоча</item>
-    <item>Інша</item>
-    <item>Вибрати</item>
+    <item>Дом.</item>
+    <item>Роб.</item>
+    <item>Інше</item>
+    <item>Указати</item>
   </string-array>
   <string-array name="network_switch_type_name">
-    <item>мобільний інтернет</item>
+    <item>мобільне передавання даних</item>
     <item>Wi-Fi</item>
     <item>Bluetooth</item>
     <item>Ethernet</item>
-    <item>VPN</item>
+    <item>Мережа VPN</item>
   </string-array>
   <string-array name="organizationTypes">
-    <item>Робоча</item>
-    <item>Інша</item>
-    <item>Вибрати</item>
+    <item>Роб.</item>
+    <item>Інше</item>
+    <item>Указати</item>
   </string-array>
   <string-array name="phoneTypes">
-    <item>Домашній</item>
+    <item>Дом.</item>
     <item>Мобільний</item>
-    <item>Робочий</item>
+    <item>Роб.</item>
     <item>Робочий факс</item>
     <item>Домашній факс</item>
     <item>Пейджер</item>
-    <item>Інший</item>
-    <item>Вибрати</item>
+    <item>Інше</item>
+    <item>Указати</item>
   </string-array>
   <string-array name="postalAddressTypes">
-    <item>Домашня</item>
-    <item>Робоча</item>
-    <item>Інша</item>
-    <item>Вибрати</item>
+    <item>Дом.</item>
+    <item>Роб.</item>
+    <item>Інше</item>
+    <item>Указати</item>
   </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Щоб телефонувати або надсилати повідомлення через Wi-Fi, спочатку попросіть свого оператора налаштувати цю послугу. Потім знову увімкніть дзвінки через Wi-Fi у налаштуваннях. (Код помилки: %1$s)</item>
+    <item>Щоб телефонувати або надсилати повідомлення через Wi-Fi, спершу попросіть свого оператора налаштувати цю послугу. Після цього знову ввімкніть дзвінки через Wi-Fi у налаштуваннях. (Код помилки: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Вимагає реєстрації дзвінків через Wi-Fi з вашим оператором: %1$s</item>
+    <item>Проблема з реєстрацією дзвінків через Wi‑Fi у вашого оператора: %1$s</item>
   </string-array>
 </resources>

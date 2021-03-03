@@ -85,10 +85,10 @@
         <item quantity="many">через %d хвилин</item>
     </plurals>
     <plurals name="last_several_days">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-        <item quantity="few">%d дн.</item>
-        <item quantity="many">%d дн.</item>
+        <item quantity="other">%d днів</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d днів</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Щойно</item>
@@ -103,10 +103,10 @@
         <item quantity="many">%d хвилин тому</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
-        <item quantity="other">"Ви використали свій пристрій на %d хвилин без переривання"</item>
-        <item quantity="one">"Ви використали свій пристрій на %d хвилину без переривань"</item>
-        <item quantity="few">"Ви використали свій пристрій на %d хвилин без переривання"</item>
-        <item quantity="many">"Ви використали свій пристрій на %d хвилин без переривання"</item>
+        <item quantity="other">"Ви безперервно використовували пристрій протягом %d хв"</item>
+        <item quantity="one">"Ви безперервно використовували пристрій протягом %d хв"</item>
+        <item quantity="few">"Ви безперервно використовували пристрій протягом %d хв"</item>
+        <item quantity="many">"Ви безперервно використовували пристрій протягом %d хв"</item>
     </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d хв</item>
@@ -115,70 +115,70 @@
         <item quantity="many">%d хв</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
-        <item quantity="one">Час екрану сьогодні дорівнює вашому середньому показнику за %d день</item>
-        <item quantity="few">Час екрану сьогодні дорівнює вашому середньому показнику за %d дня</item>
-        <item quantity="many">Час екрану сьогодні дорівнює вашому середньому показнику за %d днів</item>
+        <item quantity="other">Екранний час сьогодні дорівнює вашому середньому показнику за %d днів</item>
+        <item quantity="one">Екранний час сьогодні дорівнює вашому середньому показнику за %d день</item>
+        <item quantity="few">Екранний час сьогодні дорівнює вашому середньому показнику за %d дні</item>
+        <item quantity="many">Екранний час сьогодні дорівнює вашому середньому показнику за %d днів</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
-        <item quantity="one">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d день</item>
-        <item quantity="few">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d дня</item>
-        <item quantity="many">Час екрану сьогодні зменшився на %2$s у порівнянні з середнім показником за %1$d днів</item>
+        <item quantity="other">Екранний час сьогодні зменшився на %2$s у порівнянні із середнім показником за %1$d днів</item>
+        <item quantity="one">Екранний час сьогодні зменшився на %2$s у порівнянні із середнім показником за %1$d день</item>
+        <item quantity="few">Екранний час сьогодні зменшився на %2$s у порівнянні із середнім показником за %1$d дні</item>
+        <item quantity="many">Екранний час сьогодні зменшився на %2$s у порівнянні із середнім показником за %1$d днів</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
-        <item quantity="one">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d день</item>
-        <item quantity="few">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d дня</item>
-        <item quantity="many">Час екрану сьогодні збільшилася на %2$s у порівнянні з середнім показником за %1$d днів</item>
+        <item quantity="other">Екранний час сьогодні збільшився на %2$s у порівнянні із середнім показником за %1$d днів</item>
+        <item quantity="one">Екранний час сьогодні збільшився на %2$s у порівнянні із середнім показником за %1$d день</item>
+        <item quantity="few">Екранний час сьогодні збільшився на %2$s у порівнянні із середнім показником за %1$d дні</item>
+        <item quantity="many">Екранний час сьогодні збільшився на %2$s у порівнянні із середнім показником за %1$d днів</item>
     </plurals>
     <plurals name="unlock_times">
-        <item quantity="other">%.2f раз</item>
+        <item quantity="other">%.2f разів</item>
         <item quantity="one">%.2f раз</item>
-        <item quantity="few">%.2f раза</item>
-        <item quantity="many">%.2f раз</item>
+        <item quantity="few">%.2f рази</item>
+        <item quantity="many">%.2f разів</item>
     </plurals>
     <plurals name="usage_days">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">%d дн.</item>
-        <item quantity="few">%d дн.</item>
-        <item quantity="many">%d дн.</item>
+        <item quantity="other">%d дн</item>
+        <item quantity="one">%d дн</item>
+        <item quantity="few">%d дн</item>
+        <item quantity="many">%d дн</item>
     </plurals>
     <plurals name="usage_new_home_avg_unlockc">
-        <item quantity="other">%.2f разів на день</item>
-        <item quantity="one">%.2f раз в середньому на день</item>
-        <item quantity="few">%.2f разів на день</item>
-        <item quantity="many">%.2f разів на день</item>
+        <item quantity="other">%.2f разів у середньому за день</item>
+        <item quantity="one">%.2f раз у середньому за день</item>
+        <item quantity="few">%.2f рази у середньому за день</item>
+        <item quantity="many">%.2f разів у середньому за день</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Розблоковано %d разів</item>
         <item quantity="one">Розблоковано %d раз</item>
-        <item quantity="few">Розблоковано %d разів</item>
+        <item quantity="few">Розблоковано %d рази</item>
         <item quantity="many">Розблоковано %d разів</item>
     </plurals>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Розблоковано %1$d разів в %2$s</item>
-        <item quantity="one">Розблоковано %1$d раз в %2$s</item>
-        <item quantity="few">Розблоковано %1$d разів в %2$s</item>
-        <item quantity="many">Розблоковано %1$d разів в %2$s</item>
+        <item quantity="other">Розблоковано %1$d разів %2$s</item>
+        <item quantity="one">Розблоковано %1$d раз %2$s</item>
+        <item quantity="few">Розблоковано %1$d рази %2$s</item>
+        <item quantity="many">Розблоковано %1$d разів %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Розблоковано %d разів</item>
         <item quantity="one">Розблоковано %d раз</item>
-        <item quantity="few">Розблоковано %d разів</item>
+        <item quantity="few">Розблоковано %d рази</item>
         <item quantity="many">Розблоковано %d разів</item>
     </plurals>
     <plurals name="usage_remain_about_hour">
-        <item quantity="other">Натомість%s год</item>
-        <item quantity="one">себе%s год</item>
-        <item quantity="few">Натомість%s год</item>
-        <item quantity="many">Натомість%s год</item>
+        <item quantity="other">≈%s год</item>
+        <item quantity="one">≈%s год</item>
+        <item quantity="few">≈%s год</item>
+        <item quantity="many">≈%s год</item>
     </plurals>
     <plurals name="usage_remain_about_miunte">
-        <item quantity="other">≤%s хв</item>
-        <item quantity="one">Hav-%s хв</item>
-        <item quantity="few">≤%s хв</item>
-        <item quantity="many">≤%s хв</item>
+        <item quantity="other">≈%s хв</item>
+        <item quantity="one">≈%s хв</item>
+        <item quantity="few">≈%s хв</item>
+        <item quantity="many">≈%s хв</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Розблоковано %d разів</item>
@@ -205,10 +205,10 @@
         <item quantity="many">Отримано сповіщень: %d</item>
     </plurals>
     <plurals name="usage_state_focus_usage_summary">
-        <item quantity="other">Відмінний результат за %d хв.</item>
-        <item quantity="one">%d minute is a big step towards mindfulness and concentration.</item>
-        <item quantity="few">%d minutes is a big step towards mindfulness and concentration.</item>
-        <item quantity="many">%d minutes is a big step towards mindfulness and concentration.</item>
+        <item quantity="other">%d хвилина – це великий крок назустріч уважності та концентрації.</item>
+        <item quantity="one">%d хвилина – це великий крок назустріч уважності та концентрації.</item>
+        <item quantity="few">%d хвилини – це великий крок назустріч уважності та концентрації.</item>
+        <item quantity="many">%d хвилин – це великий крок назустріч уважності та концентрації.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d год</item>
@@ -253,10 +253,10 @@
         <item quantity="many">%d разів</item>
     </plurals>
     <plurals name="usage_state_unlock_count_new">
-        <item quantity="other">Середній %.2f раз</item>
-        <item quantity="one">Середній %.2f час</item>
-        <item quantity="few">Середній %.2f раз</item>
-        <item quantity="many">Середній %.2f раз</item>
+        <item quantity="other">У середньому %.2f разів</item>
+        <item quantity="one">У середньому %.2f раз</item>
+        <item quantity="few">У середньому %.2f рази</item>
+        <item quantity="many">У середньому %.2f разів</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Вихідні: %d год</item>

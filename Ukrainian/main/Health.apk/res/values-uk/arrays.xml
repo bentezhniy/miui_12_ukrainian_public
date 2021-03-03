@@ -76,18 +76,18 @@
         <item>Я</item>
     </string-array>
     <string-array name="arr_prompt_label">
-        <item>Резонний</item>
+        <item>Прийнятно</item>
         <item>Довго</item>
         <item>Занадто довго</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>Час рухатися!</item>
+        <item>Прийшов час активності!</item>
         <item>Дізнатися більше</item>
-        <item>Випийте води та погуляйте</item>
+        <item>Випийте келих води та пройдіться.</item>
         <item>Дізнатися більше</item>
-        <item>Підніміться сходами</item>
+        <item>Підніміться по сходах</item>
         <item>Дізнатися більше</item>
-        <item>"Не сидіть занадто довго"</item>
+        <item>"Не сидіть занадто довго на одному місці"</item>
         <item>Дізнатися більше</item>
     </string-array>
     <string-array name="arr_time_label">
@@ -127,7 +127,7 @@
         <item>O</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>Сьогодні</item>
+        <item>День</item>
         <item>Тиждень</item>
         <item>Місяць</item>
     </string-array>
@@ -151,13 +151,13 @@
         <item>Позитивне</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>Завжди</item>
-        <item>Обмежити фонову активність</item>
-        <item>На 10 хвилин</item>
+        <item>Жодних обмежень</item>
+        <item>Обмежити активність у фоні</item>
+        <item>Зупинити через 10 хвилин</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>" км/год"</item>
+        <item>" км/г"</item>
         <item>" м/с"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
@@ -174,31 +174,31 @@
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Неділя</item>
-        <item>Понеділок</item>
-        <item>Вівторок</item>
-        <item>Середа</item>
-        <item>Четвер</item>
-        <item>П\'ятниця</item>
-        <item>Субота</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <string-array name="week_label">
-        <item>НД</item>
-        <item>ПН</item>
-        <item>ВТ</item>
-        <item>СР</item>
-        <item>ЧТ</item>
-        <item>ПТ</item>
-        <item>СБ</item>
-    </string-array>
-    <string-array name="week_short">
-        <item>НД</item>
-        <item>Mon</item>
+        <item>Нд</item>
+        <item>Пн</item>
         <item>Вт</item>
         <item>Ср</item>
-        <item>Thu</item>
+        <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" г"</item>

@@ -8,7 +8,7 @@
     <string name="activate_feature_call_log_sync">Синхронізація викликів</string>
     <string name="activate_feature_default_name">Mi сервіси</string>
     <string name="activate_feature_default_title">Сяомі</string>
-    <string name="activate_feature_find_device">"Пошук пристрою"</string>
+    <string name="activate_feature_find_device">Позиціонування SMS</string>
     <string name="activate_feature_live_talk">Пакет поповнення</string>
     <string name="activate_feature_mi_roaming">Mi роумінг</string>
     <string name="activate_feature_mms_sync">Синхронізація SMS</string>

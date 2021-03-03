@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Диспетчер завантаження</string>
+    <string name="app_label">Завантаження</string>
     <string name="auto_restart_under_wifi">Автоматично завантажити файл через Wi-Fi</string>
     <string name="button_cancel_download">Скасувати</string>
     <string name="button_download_now">Завантажити</string>
-    <string name="button_queue_for_wifi">Пізніше</string>
-    <string name="button_start_now">Завантажити</string>
+    <string name="button_queue_for_wifi">В чергу</string>
+    <string name="button_start_now">Почати</string>
     <string name="button_wait_for_wifi">Очікувати</string>
     <string name="channel_active">Завантаження</string>
     <string name="channel_complete">Завантаження завершене</string>
@@ -30,45 +30,45 @@
     <string name="download_apk_desktop_pause">Пауза</string>
     <string name="download_apk_desktop_pending">Очікування…</string>
     <string name="download_apk_desktop_running">Завантаження…</string>
-    <string name="download_error">Помилка завантаження</string>
+    <string name="download_error">Не вдалося завантажити</string>
     <string name="download_no_application_title">"Неможливо відкрити файл"</string>
     <string name="download_queued">В черзі</string>
     <string name="download_remaining">Залишилося %s</string>
-    <string name="download_running">У процесі</string>
-    <string name="download_unknown_title">&lt;без назви&gt;</string>
+    <string name="download_running">Завантаження</string>
+    <string name="download_unknown_title">&lt;Без назви&gt;</string>
     <string name="enter_garbage_clean">Очищення пам\'яті</string>
     <string name="insufficient_space">"Недостатньо пам'яті для завантаження"</string>
     <string name="mobile_recommended_title">Мобільний інтернет</string>
     <string name="notif_text_engine_off">Прискорення Xunlei вимкнено</string>
     <string name="notif_text_engine_on">Прискорення…</string>
-    <string name="notif_title_file_size">Файлів: %1$d</string>
+    <string name="notif_title_file_size">Всього: %1$d</string>
     <string name="notif_title_multiple_downloading">Завантаження файлів: %1$d</string>
-    <string name="notif_title_single_downloading">Завантаження: %1$s</string>
-    <string name="notification_download_complete">Завантаження завершено</string>
-    <string name="notification_download_failed">Не вдалося завантажити файл</string>
+    <string name="notif_title_single_downloading">Завантаження %1$s</string>
+    <string name="notification_download_complete">Завантажено успішно.</string>
+    <string name="notification_download_failed">Не вдалося завантажити об\'єкти.</string>
     <string name="notification_download_success_more">Завантажено файлів: %1$d</string>
-    <string name="notification_need_wifi_for_size">Очікування Wi-Fi мережі</string>
-    <string name="notification_paused_in_background">Завантаження припинено</string>
+    <string name="notification_need_wifi_for_size">Розмір файлу завеликий, необхідне підключення до Wi-Fi.</string>
+    <string name="notification_paused_in_background">Зупинено у фоні.</string>
     <string name="notify_disabled_net_by_app">Доступ до інтернету заборонено програма \"Безпека\"</string>
     <string name="notify_install_guide_forward_text">Відкрити</string>
     <string name="notify_install_guide_msg">Відкрити</string>
     <string name="notify_install_guide_title">%s встановлено</string>
     <string name="notify_only_wifi_download">Очікування Wi-Fi мережі</string>
-    <string name="paused_waiting_for_network">Очікування мережі</string>
-    <string name="permdesc_accessAllDownloads">Програма зможе відкривати і змінювати завантаження незалежно від того, через яке ПЗ вони були завантажені</string>
-    <string name="permdesc_downloadCacheNonPurgeable">"Програма зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджеру завантаження буде потрібно більше місця"</string>
-    <string name="permdesc_downloadCompletedIntent">Програма зможе надсилати сповіщення про завершення завантаження. Шкідливі програми зможуть таким чином заважати роботі програм, завантажуючи файли</string>
-    <string name="permdesc_downloadManager">Програма отримає доступ до диспетчера завантажень і зможе завантажувати файли через нього. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію</string>
-    <string name="permdesc_downloadManagerAdvanced">"Програма отримає доступ до розширених функцій диспетчера завантажень. Шкідливі програми зможуть таким чином переривати завантаження і переглядати особисту інформацію"</string>
-    <string name="permdesc_downloadWithoutNotification">Програма зможе завантажувати файли через диспетчер завантажень без попередження користувача</string>
-    <string name="permdesc_seeAllExternal">Програма отримає доступ до завантажень на SD карті незалежно від того, через яке ПЗ вони були завантажені</string>
-    <string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
-    <string name="permlab_downloadCacheNonPurgeable">Резервувати місце в кеші завантаження</string>
-    <string name="permlab_downloadCompletedIntent">Надіслати сповіщення про завантаження</string>
-    <string name="permlab_downloadManager">Доступ до менеджера завантаження</string>
-    <string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантаження</string>
-    <string name="permlab_downloadWithoutNotification">Завантаження файлів без повідомлень</string>
-    <string name="permlab_seeAllExternal">Переглянути всі завантаження на SD карту</string>
+    <string name="paused_waiting_for_network">Очікування підключення до мережі</string>
+    <string name="permdesc_accessAllDownloads">Дозволяє програмі переглядати та змінювати всі завантаження, ініційовані будь-якою програмою в системі.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">"Дозволяє програмі завантажувати файли до кешу завантажень, який не може бути автоматично видалений адміністратором завантажень для звільнення місця."</string>
+    <string name="permdesc_downloadCompletedIntent">Надає дозвіл програмі на відправку сповіщень про завершення завантаження. Шкідливі програми можуть використати це для порушення роботи програм, які завантажили ці файли.</string>
+    <string name="permdesc_downloadManager">Надає програмі доступ до програми Завантаження та використання її для завантаження файлів. Шкідливі програми можуть використовувати це для переривання процесу завантаження та доступу до особистої інформації.</string>
+    <string name="permdesc_downloadManagerAdvanced">"Надає програмі доступ до розширених функцій програми Завантаження. Шкідливі програми можуть використовувати це для переривання процесу завантаження та доступу до особистої інформації."</string>
+    <string name="permdesc_downloadWithoutNotification">Дозволяє програмі завантажувати файли без сповіщення користувача.</string>
+    <string name="permdesc_seeAllExternal">Надає програмі дозвіл на перегляд усіх завантажень на SD-карті, незалежно від того, яка програма їх завантажила.</string>
+    <string name="permlab_accessAllDownloads">Доступ до всіх завантажень в системі</string>
+    <string name="permlab_downloadCacheNonPurgeable">Завантаження файлів до кешу завантажень</string>
+    <string name="permlab_downloadCompletedIntent">Відправляти сповіщення про завантаження.</string>
+    <string name="permlab_downloadManager">Доступ до Завантажень.</string>
+    <string name="permlab_downloadManagerAdvanced">Розширені функції Завантажень.</string>
+    <string name="permlab_downloadWithoutNotification">Завантаження файлів без сповіщень</string>
+    <string name="permlab_seeAllExternal">Переглянути всі завантаження у сховищі USB</string>
     <string name="privacy_notif_content">Натисніть для перегляду інформації</string>
     <string name="privacy_notif_title">Прискорення завантаження Xunlei увімкнено</string>
     <string name="privacy_tip_cancel">Скасувати</string>
@@ -83,14 +83,14 @@
     <string name="warning_tip_content">"При завантажені файлів по мобільному інтернету може стягуватись додаткова плата оператором. Припинити завантаження?"</string>
     <string name="warning_tip_ok">ОК</string>
     <string name="warning_tip_title">Попередження про трафік</string>
-    <string name="wifi_recommended_body">"Початок цього завантаження %1$s може призвести до надмірного використання мобільного з'єднання з інтернетом, що може призвести до стягнення вашого мобільного оператора в залежності від вашого тарифного плану даних.
+    <string name="wifi_recommended_body">"Запуск цього %1$s завантаження може збільшити швидкість зменшення заряду батареї та/або викликати велику втрату трафіку, за що вашим мобільним оператором буде стягуватися плата відповідно до вашого тарифного плану.
 
-Торкніться %2$s, щоб почати завантаження під час наступного під'єднання до Wi-Fi-мережі."</string>
-    <string name="wifi_recommended_title">Завантаження</string>
-    <string name="wifi_required_body">"Підключіться до Wi-Fi, щоб завершити це %1$s завантаження. 
+ Натисніть %2$s, щоб почати завантаження під час підключення до Wi-Fi."</string>
+    <string name="wifi_recommended_title">Поставити у чергу на завантаження?</string>
+    <string name="wifi_required_body">"Підключіться до Wi-Fi для завершення цього %1$s завантаження. 
 
-Торкніться %2$s щоб розпочати це завантаження під час наступного підключення до мережі Wi-Fi."</string>
-    <string name="wifi_required_title">Занадто великий файл для мережі оператора</string>
+Натисніть %2$s для продовження завантаження під час наступного підключення до мережі Wi-Fi."</string>
+    <string name="wifi_required_title">Файл занадто великий</string>
     <string name="xl_speedup_experience_notify_context">"Прискорення завантаження"</string>
     <string name="xl_speedup_experience_notify_title">Сервіс Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Попробуйте безкоштовно</string>

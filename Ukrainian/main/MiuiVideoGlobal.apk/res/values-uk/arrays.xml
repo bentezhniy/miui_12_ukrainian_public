@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Чоловік</item>
-        <item>Жінка</item>
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
@@ -237,7 +237,7 @@
     </string-array>
     <string-array name="feedback_tag_list">
         <item>Помилка</item>
-        <item>Варіант перекладу</item>
+        <item>Пропозиція</item>
         <item>Інше</item>
     </string-array>
 </resources>

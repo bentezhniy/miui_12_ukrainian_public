@@ -100,9 +100,12 @@
     <string name="input_method_category">"Оберіть типовий спосіб введення"</string>
     <string name="input_method_setting">Оберіть спосіб введення</string>
     <string name="install_preinstall_app">Завантаження програм…</string>
+    <string name="item_contents_wwarning">"Якщо ваш пристрій не спрацює, ви не зможете запобігти іншим людям користуватися ним і отримати доступ до своїх даних, якщо не встановити блокування екрана. У будь-якому випадку?"</string>
     <string name="item_fingerprint">Відбиток пальцю</string>
     <string name="item_lock_screen_password">Блокування паролем</string>
     <string name="item_lock_screen_password_only">Блокування екрана</string>
+    <string name="item_return">Сет</string>
+    <string name="item_skip">Пропустити</string>
     <string name="ktlocation_U">(Агент служби KT)</string>
     <string name="ktposition_header">Спільне користання інформації про розташування з екстреними рятувальними агенціями</string>
     <string name="language_picker_other_languages_title">Інші мови</string>
@@ -301,6 +304,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">Політика конфіденційності Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Політика конфіденційності Kika</string>
     <string name="title_fingerprint">Відбиток пальця</string>
+    <string name="title_set_fingerprint">Блокування екрана</string>
     <string name="user_agreement">Угода користувача</string>
     <string name="user_agreement_declare">У разі використання MIUI, ви повинні прочитати і погодитися з нашою Угодою про користувача і Політикою конфіденційності. Під час активації вашого пристрою, сервіс активації Mi SIM, Xiaomi Cloud, Сервіс резервного копіювання, Пошук пристроїв, домашній екран, часті фрази, Xiaomi Internet Communication, сервіс перекладу, сервіс перекладу, MIUI Daemon, HTML Viewer, MIUI SDK, Безпечний додаток елементу, AI Assistant, акумулятор та продуктивність, Power Detector, Joyose, налаштування OS AI і Updater з\'єднається з мережею. Смарт-картки, керування правами доступу та смарт-сервісами підключиться до мережі та буде отримувати доступ до розташування.</string>
     <string name="voice_assist_advice">Mi AI дозволяє використовувати голосові засоби управління, але споживає більше енергії (+1% за годину).</string>

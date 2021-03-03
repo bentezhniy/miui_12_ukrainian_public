@@ -3,38 +3,38 @@
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Переглянути %d відповідей</item>
         <item quantity="one">Переглянути %d відповідь</item>
-        <item quantity="few">Переглянути %d відповідей</item>
+        <item quantity="few">Переглянути %d відповіді</item>
         <item quantity="many">Переглянути %d відповідей</item>
     </plurals>
     <plurals name="feed_back_home">
-        <item quantity="other">Повернутися на головну сторінку за %1$d секунди…</item>
-        <item quantity="one">Повернутися на домашню сторінку через %1$d секунду…</item>
-        <item quantity="few">Повернутися на головну сторінку за %1$d секунди…</item>
-        <item quantity="many">Повернутися на головну сторінку за %1$d секунди…</item>
+        <item quantity="other">Перехід на головну сторінку через %1$d секунд…</item>
+        <item quantity="one">Перехід на головну сторінку через %1$d секунду…</item>
+        <item quantity="few">Перехід на головну сторінку через %1$d секунди…</item>
+        <item quantity="many">Перехід на головну сторінку через %1$d секунд…</item>
     </plurals>
     <plurals name="follower">
-        <item quantity="other">%d спостерігачів</item>
-        <item quantity="one">%d підписників</item>
-        <item quantity="few">%d спостерігачів</item>
-        <item quantity="many">%d спостерігачів</item>
+        <item quantity="other">%d підписників</item>
+        <item quantity="one">%d підписник</item>
+        <item quantity="few">%d підписника</item>
+        <item quantity="many">%d підписників</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
-        <item quantity="other">Субтитри буде показано ще %.1f секунд</item>
-        <item quantity="one">Субтитри буде показано %.1f секунд раніше</item>
-        <item quantity="few">Субтитри буде показано ще %.1f секунд</item>
-        <item quantity="many">Субтитри буде показано ще %.1f секунд</item>
+        <item quantity="other">Субтитри будуть відображатися на %.1f секунд раніше</item>
+        <item quantity="one">Субтитри будуть відображатися на %.1f секунду раніше</item>
+        <item quantity="few">Субтитри будуть відображатися на %.1f секунди раніше</item>
+        <item quantity="many">Субтитри будуть відображатися на %.1f секунд раніше</item>
     </plurals>
     <plurals name="lv_subtitle_offset_delay_times">
-        <item quantity="other">Субтитри буде показано через %.1f секунд</item>
-        <item quantity="one">Субтитри буде показано %.1f секунд пізніше</item>
-        <item quantity="few">Субтитри буде показано через %.1f секунд</item>
-        <item quantity="many">Субтитри буде показано через %.1f секунд</item>
+        <item quantity="other">Субтитри будуть відображатися на %.1f секунд пізніше</item>
+        <item quantity="one">Субтитри будуть відображатися на %.1f секунду пізніше</item>
+        <item quantity="few">Субтитри будуть відображатися на %.1f секунди пізніше</item>
+        <item quantity="many">Субтитри будуть відображатися на %.1f секунд пізніше</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Розмір: %.2fКб</item>
-        <item quantity="one">Розмір: %.2fКб</item>
-        <item quantity="few">Розмір: %.2fКб</item>
-        <item quantity="many">Розмір: %.2fКб</item>
+        <item quantity="other">Розмір: %.2fкБ</item>
+        <item quantity="one">Розмір: %.2fкБ</item>
+        <item quantity="few">Розмір: %.2fкБ</item>
+        <item quantity="many">Розмір: %.2fкБ</item>
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d відео</item>
@@ -43,22 +43,22 @@
         <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
-        <item quantity="other">%s сек залишилося</item>
-        <item quantity="one">%s с залишилося</item>
-        <item quantity="few">%s сек залишилося</item>
-        <item quantity="many">%s сек залишилося</item>
+        <item quantity="other">Залишилося %s сек</item>
+        <item quantity="one">Залишилася %s сек</item>
+        <item quantity="few">Залишилося %s сек</item>
+        <item quantity="many">Залишилося %s сек</item>
     </plurals>
     <plurals name="notice_user_banned">
-        <item quantity="other">Ваш вміст містить предмети (%1$s), які порушують наші стандарти спільноти. Ваш обліковий запис призупинено на %2$d днів до %3$s.</item>
-        <item quantity="one">Ваш вміст містить предмети (%1$s), які порушують наші стандарти спільноти. Ваш обліковий запис призупинено на %2$d день до %3$s.</item>
-        <item quantity="few">Ваш вміст містить предмети (%1$s), які порушують наші стандарти спільноти. Ваш обліковий запис призупинено на %2$d днів до %3$s.</item>
-        <item quantity="many">Ваш вміст містить предмети (%1$s), які порушують наші стандарти спільноти. Ваш обліковий запис призупинено на %2$d днів до %3$s.</item>
+        <item quantity="other">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
+        <item quantity="one">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
+        <item quantity="few">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
+        <item quantity="many">Ваш контент містить елементи (%1$s), які порушують стандарти та правила спільноти. Ваш акаунт заблоковано на %2$d дн до %3$s.</item>
     </plurals>
     <plurals name="notification_close_tip">
-        <item quantity="other">Цю функцію буде вимкнено на %s днів</item>
-        <item quantity="one">Цю функцію буде вимкнено на %s день</item>
-        <item quantity="few">Цю функцію буде вимкнено на %s днів</item>
-        <item quantity="many">Цю функцію буде вимкнено на %s днів</item>
+        <item quantity="other">Ця функція буде відключена через %s днів</item>
+        <item quantity="one">Ця функція буде відключена через %s день</item>
+        <item quantity="few">Ця функція буде відключена через %s дні</item>
+        <item quantity="many">Ця функція буде відключена через %s днів</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d відео</item>
@@ -73,33 +73,33 @@
         <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
-        <item quantity="other">Видалити %s елементів зараз?</item>
-        <item quantity="one">Видалити %s елемент зараз?</item>
-        <item quantity="few">Видалити %s елементів зараз?</item>
-        <item quantity="many">Видалити %s елементів зараз?</item>
+        <item quantity="other">Видалити %s об\'єктів зараз?</item>
+        <item quantity="one">Видалити %s об\'єкт зараз?</item>
+        <item quantity="few">Видалити %s об\'єктa зараз?</item>
+        <item quantity="many">Видалити %s об\'єктів зараз?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="other">Обрано %s елементів</item>
-        <item quantity="one">Вибраний %s елемент</item>
-        <item quantity="few">Обрано %s елементів</item>
-        <item quantity="many">Обрано %s елементів</item>
+        <item quantity="other">Вибрано %s об\'єктів</item>
+        <item quantity="one">Вибрано %s об\'єкт</item>
+        <item quantity="few">Вибрано %s об\'єктa</item>
+        <item quantity="many">Вибрано %s об\'єктів</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
-        <item quantity="other">Розмір файлу: %.2fКБ</item>
-        <item quantity="one">Розмір файлу: %.2fКБ</item>
-        <item quantity="few">Розмір файлу: %.2fКБ</item>
-        <item quantity="many">Розмір файлу: %.2fКБ</item>
+        <item quantity="other">Розмір файлу: %.2f кБ</item>
+        <item quantity="one">Розмір файлу: %.2f кБ</item>
+        <item quantity="few">Розмір файлу: %.2f кБ</item>
+        <item quantity="many">Розмір файлу: %.2f кБ</item>
     </plurals>
     <plurals name="plus_search_result_title">
-        <item quantity="other">%2$s результатів для \"%1$s\"</item>
-        <item quantity="one">%2$s результат для \"%1$s\"</item>
-        <item quantity="few">%2$s результатів для \"%1$s\"</item>
-        <item quantity="many">%2$s результатів для \"%1$s\"</item>
+        <item quantity="other">%2$s результатів з ”%1$s”</item>
+        <item quantity="one">%2$s результат з “%1$s”</item>
+        <item quantity="few">%2$s результатa з ”%1$s”</item>
+        <item quantity="many">%2$s результатів з ”%1$s”</item>
     </plurals>
     <plurals name="plus_serval_pictures">
         <item quantity="other">%d зображень</item>
         <item quantity="one">%d зображення</item>
-        <item quantity="few">%d зображень</item>
+        <item quantity="few">%d зображення</item>
         <item quantity="many">%d зображень</item>
     </plurals>
     <plurals name="plus_serval_videos">
@@ -109,39 +109,39 @@
         <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="s_double_tap_backward">
-        <item quantity="other">Двічі торкніться щоб перемотати назад на %d секунд</item>
-        <item quantity="one">Двічі торкніться для перемотування на %d секунду</item>
-        <item quantity="few">Двічі торкніться щоб перемотати назад на %d секунд</item>
-        <item quantity="many">Двічі торкніться щоб перемотати назад на %d секунд</item>
+        <item quantity="other">Натисніть двічі для перемотування на %d сек назад</item>
+        <item quantity="one">Натисніть двічі для перемотування на %d сек назад</item>
+        <item quantity="few">Натисніть двічі для перемотування на %d сек назад</item>
+        <item quantity="many">Натисніть двічі для перемотування на %d сек назад</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">Подвійне натискання для швидкого перемотування вперед на %d секунд</item>
-        <item quantity="one">Подвійне натискання для швидкого перемотування вперед на %d с</item>
-        <item quantity="few">Подвійне натискання для швидкого перемотування вперед на %d секунд</item>
-        <item quantity="many">Подвійне натискання для швидкого перемотування вперед на %d секунд</item>
+        <item quantity="other">Натисніть двічі для перемотування на %d сек вперед</item>
+        <item quantity="one">Натисніть двічі для перемотування на %d сек вперед</item>
+        <item quantity="few">Натисніть двічі для перемотування на %d сек вперед</item>
+        <item quantity="many">Натисніть двічі для перемотування на %d сек вперед</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s сек</item>
-        <item quantity="one">%1$s с</item>
+        <item quantity="one">%1$s сек</item>
         <item quantity="few">%1$s сек</item>
         <item quantity="many">%1$s сек</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other">%sпередплатників</item>
-        <item quantity="one">%sпередплатник</item>
-        <item quantity="few">%sпередплатників</item>
-        <item quantity="many">%sпередплатників</item>
+        <item quantity="other">%s підписників</item>
+        <item quantity="one">%s підписник</item>
+        <item quantity="few">%s підписника</item>
+        <item quantity="many">%s підписників</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Прискорення субтитрів на %.1f секунд</item>
-        <item quantity="one">Прискорення субтитрів на %.1f секунду</item>
-        <item quantity="few">Прискорення субтитрів на %.1f секунди</item>
-        <item quantity="many">Прискорення субтитрів на %.1f секунд</item>
+        <item quantity="other">Субтитри поспішають на %.1f сек</item>
+        <item quantity="one">Субтитри поспішають на %.1f сек</item>
+        <item quantity="few">Субтитри поспішають на %.1f сек</item>
+        <item quantity="many">Субтитри поспішають на %.1f сек</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Затримка субтитрів на %.1f секунд</item>
-        <item quantity="one">Затримка субтитрів на %.1f секунду</item>
-        <item quantity="few">Затримка субтитрів на %.1f секунди</item>
-        <item quantity="many">Затримка субтитрів на %.1f секунд</item>
+        <item quantity="other">Субтитри відстають на %.1f сек</item>
+        <item quantity="one">Субтитри відстають на %.1f сек</item>
+        <item quantity="few">Субтитри відстають на %.1f сек</item>
+        <item quantity="many">Субтитри відстають на %.1f сек</item>
     </plurals>
 </resources>

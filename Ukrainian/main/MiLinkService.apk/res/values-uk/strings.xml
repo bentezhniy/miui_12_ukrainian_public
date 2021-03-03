@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на головну</string>
-    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
     <string name="abc_action_menu_overflow_description">Більше опцій</string>
-    <string name="abc_action_mode_done">Виконано</string>
-    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
-    <string name="abc_activitychooserview_choose_application">Виберіть додаток</string>
-    <string name="abc_capital_off">ВИМК</string>
-    <string name="abc_capital_on">УВІМК</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показати всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">видалити</string>
-    <string name="abc_menu_enter_shortcut_label">введіть</string>
-    <string name="abc_menu_function_shortcut_label">Функції+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Зсув +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">пробіл</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Меню+</string>
-    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Введіть пошуковий запит…</string>
     <string name="abc_searchview_description_clear">Очистити запит</string>
-    <string name="abc_searchview_description_query">Пошук запиту</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
     <string name="abc_searchview_description_search">Пошук</string>
-    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_submit">Наіслати запит</string>
     <string name="abc_searchview_description_voice">Голосовий пошук</string>
-    <string name="abc_shareactionprovider_share_with">Поділитися з</string>
-    <string name="abc_shareactionprovider_share_with_application">Поділитися з %s</string>
+    <string name="abc_shareactionprovider_share_with">Поділитися:</string>
+    <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="account_other">Інше</string>
-    <string name="actionbar_button_up_description">Відмінити</string>
+    <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">Після обіду</string>
-    <string name="am">ДП</string>
+    <string name="am">ДО</string>
     <string name="casting_tips">Трансляція…</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
-    <string name="close_hotspot_hint">Вимкнути портативну точку доступу до лиття</string>
-    <string name="close_slave_wifi_hint">Відключитися від допоміжних мереж Wi-Fi перед литтям</string>
-    <string name="close_slave_wifi_hint_china">Відключитися від допоміжних мереж Wi-Fi перед литтям</string>
-    <string name="console_guide_btn_got_it">ОК</string>
-    <string name="console_guide_subtitle_hang_up">Не завершуйте трансляцію, коли екран телефону вимикається. Ця функція може збільшити енергоспоживання</string>
-    <string name="console_guide_subtitle_private">"Не передавайте спливаючі сповіщення, сповіщення про вхідні дзвінки та інші елементи, які можуть містити особисту інформацію"</string>
-    <string name="console_guide_subtitle_small_window">"Мінімізуйте вікно, що проектується, щоб мати можливість використовувати інші функції телефону під час трансляції"</string>
-    <string name="copy">Копія</string>
-    <string name="date_picker_lunar">Китайський традиційний календар</string>
+    <string name="close_hotspot_hint">Вимкніть точку доступу перед трансляцією</string>
+    <string name="close_slave_wifi_hint">Відключіть від допоміжних мереж Wi-Fi перед трансляцією</string>
+    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+    <string name="console_guide_btn_got_it">Зрозуміло</string>
+    <string name="console_guide_subtitle_hang_up">Ви можете продовжувати трансляцію, коли екран вашого пристрою відключений. Ця функція допоможе знизити енергоспоживання.</string>
+    <string name="console_guide_subtitle_private">"Не відображати спливаючі сповіщення, вхідні виклики та інші особисті об'єкти на зовнішніх моніторах"</string>
+    <string name="console_guide_subtitle_small_window">"Приховати вікно, яке транслюється, щоб продовжити використовувати ваш телефон"</string>
+    <string name="copy">Скопіювати</string>
+    <string name="date_picker_lunar">Традиційний китайський календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="device_desc_trust">Довірені пристрої</string>
     <string name="dialog_can_not_find_device">"Не вдалося знайти пристрої поблизу"</string>
     <string name="dialog_cancle">Скасувати</string>
-    <string name="dialog_connect_fail">"Помилка з'єднання"</string>
-    <string name="dialog_connect_retry">Натисніть для повтору</string>
-    <string name="dialog_connect_verify_perssion">Спочатку авторизуйтесь на ТБ</string>
-    <string name="dialog_connect_verify_perssion_fail">"Не вдалося авторизувати трансляцію на ТБ. Спробуйте знову"</string>
+    <string name="dialog_connect_fail">"Не вдалося підключитися"</string>
+    <string name="dialog_connect_retry">Натисніть, щоб повторити спробу</string>
+    <string name="dialog_connect_verify_perssion">Спочатку авторизуйте трансляцію на вашому телевізорі</string>
+    <string name="dialog_connect_verify_perssion_fail">"Не вдалося авторизувати трансляцію на вашому телевізорі. Зачекайте хвилинку та повторіть спробу."</string>
     <string name="dialog_connected">Підключено</string>
     <string name="dialog_connecting">Підключення…</string>
-    <string name="dialog_miplay_permission_message">Дозволити запис на аудіозапис, доступ до файлів у внутрішньому сховищі та доступ до вашого місця розташування, щоб мати можливість використовувати цю функцію як раніше. Натисніть \"Налаштування\" та виберіть \"Дозволи додатків\" для продовження.</string>
+    <string name="dialog_miplay_permission_message">Щоб мати можливість використовувати цю функцію, надайте програмі Трансляція дозвіл на запис аудіо, доступ до файлів у внутрішньому сховищі та доступ до вашого місцезнаходження. Натисніть \"Налаштування\" та виберіть \"Дозволи програми\" для продовження.</string>
     <string name="dialog_miplay_permission_positive">Налаштування</string>
-    <string name="dialog_miplay_permission_title">Потрібні дозволи</string>
-    <string name="dialog_nfc_cast_wifi_off">Увімкніть Wi-Fi, щоб мати можливість транслювати за допомогою NFC. Увімкнути зараз?</string>
-    <string name="dialog_no_device_message"><Data>1. Підключіть ваш телефон і телевізор до однієї мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких телемоделях ця функція доступна тільки коли увімкнено дзеркалення екрану. Перегляньте &lt;a href=milink://com.milink.service/specification&gt;\"Допомога\"&lt;/a&gt; , щоб дізнатися більше.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>1. Підключіть ваш телефон і телевізор до однієї мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких телемоделях ця функція доступна тільки коли увімкнено дзеркалення екрану. Перегляньте &lt;a href=milink://com.milink.service/specification&gt;\"Допомога\"&lt;/a&gt; , щоб дізнатися більше.</Data></string>
-    <string name="dialog_ok">ОК</string>
-    <string name="dialog_only_suport_content">Передача фотографій, відео або музики</string>
-    <string name="dialog_open_wifi_bt">Увімкнути</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">"Переконайтеся, що на цільовому пристрої увімкнено бездротовий екран.
- Для отримання додаткової інформації, дивіться допомогу"</string>
+    <string name="dialog_miplay_permission_title">Необхідні дозволи</string>
+    <string name="dialog_nfc_cast_wifi_off">Увімкніть Wi-Fi для трансляції через NFC. Увімкнути зараз?</string>
+    <string name="dialog_no_device_message">&lt;Data&gt;1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ &lt;a href=milink://com.milink.service/specification&gt;Довідка&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ &lt;a href=milink://com.milink.service/specification&gt;Довідка&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_only_suport_content">Транслюйте фото, відео та музику</string>
+    <string name="dialog_open_wifi_bt">Увімк</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Переконайтеся, що функція бездротової трансляції увімкнена на цільовому пристрої.
+Зверніться до Довідки, якщо ви зіткнулися з проблемою при підключенні."</string>
     <string name="dialog_recent_connected">Нещодавні</string>
-    <string name="dialog_retry">Повторити</string>
-    <string name="dialog_scan_message">"1. Підключіть ваш телефон і телевізор до однієї мережі Wi-Fi.
+    <string name="dialog_retry">Повторити спробу</string>
+    <string name="dialog_scan_message">"1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.
 
-2. На деяких телевізійних моделях ця функція доступна тільки коли увімкнено дзеркало екрану. Перегляньте \"Допомога\", щоб дізнатися більше."</string>
-    <string name="dialog_scan_message_china">"1. Підключіть ваш телефон і телевізор до однієї мережі Wi-Fi.
+2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ \"Довідка\"."</string>
+    <string name="dialog_scan_message_china">"1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.
 
-2. На деяких телевізійних моделях ця функція доступна тільки коли увімкнено дзеркало екрану. Перегляньте \"Допомога\", щоб дізнатися більше."</string>
-    <string name="dialog_scanning_device">Пошук пристроїв поблизу…</string>
-    <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на телефоні, щоб використовувати бездротовий екран</string>
-    <string name="dialog_select_tv">Оберіть пристрій (%d)</string>
-    <string name="dialog_show_help">Допомога</string>
-    <string name="disconnect">Зупинити</string>
+2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ \"Довідка\"."</string>
+    <string name="dialog_scanning_device">Пошук пристроїв неподалік…</string>
+    <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на вашому пристрої для використання Wi-Fi Display.</string>
+    <string name="dialog_select_tv">Виберіть пристрій (%d)</string>
+    <string name="dialog_show_help">Довідка</string>
+    <string name="disconnect">Зупинити трансляцію</string>
     <string name="early_morning">Ранок</string>
-    <string name="enable_screen_projection_summary">Транслювати вміст екрану на зовнішній монітор</string>
-    <string name="eras_ad">CE</string>
+    <string name="enable_screen_projection_summary">Транслювати зображення на зовнішній монітор</string>
+    <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.MM</string>
+    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">d.MM</string>
+    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -100,84 +100,85 @@
     <string name="global_privacy_negative">"Не погоджуйтеся"</string>
     <string name="global_privacy_positive">Погоджуюсь</string>
     <string name="global_privacy_tip"><Data>Нам необхідно зібрати необхідну особисту інформацію, щоб надати вам основні послуги та оптимізувати процес трансляції. Ви можете дізнатися, як ми обробляємо інформацію, яку ми збираємо в нашій &lt;a href=%1$s&gt;Політиці конфіденційності&lt;/a&gt;. Ви можете зняти вашу згоду на Політику конфіденційності в налаштуваннях в будь-який час.</Data></string>
-    <string name="hang_up">Вимкнути екран</string>
-    <string name="hang_up_alert_dialog_content">Проекція не буде перервана, якщо екран телефону вимкнеться. Натисніть кнопку живлення на телефоні, щоб знову увімкнути екран</string>
+    <string name="hang_up">Транслювати, коли екран вимкнено</string>
+    <string name="hang_up_alert_dialog_content">Продовжувати трансляцію, коли екран вашого пристрою вимкнено. Ця функція зменшує витрату енергії. Натисніть кнопку Живлення, щоб увімкнути екран.</string>
     <string name="hang_up_alert_dialog_neg">Скасувати</string>
-    <string name="hang_up_alert_dialog_pos">ОК</string>
-    <string name="hang_up_alert_dialog_title">Про проекції під час вимкненого екрану</string>
-    <string name="help_page_text_01">Допомога</string>
-    <string name="help_page_text_02">Що таке проекція?</string>
-    <string name="help_page_text_03">"Проекція транслює екран Вашого телефону на зовнішній монітор більшого розміру. Вона дозволяє обмінюватися зображеннями і відео з друзями та родиною, і навіть грати в ігри разом. Споживання енергії телефону зазвичай не змінюється при використанні цієї функції"</string>
-    <string name="help_page_text_04">Як транслювати на великий екран?</string>
-    <string name="help_page_text_05">Крок 1</string>
-    <string name="help_page_text_06">"1. За допомогою телефону для підключення до маленького телевізора, Ви можете встановити вертикальне підключення екрану без мережного середовища.
-2. Для деяких телевізорів Xiaomi або інших марок, які не підтримують інтелектуальне екранування, необхідно підключити телевізор (або пристрій з великим екраном) до мобільного телефону в тій же бездротової мережі"</string>
-    <string name="help_page_text_06_global">"1. Mi TV, Mi Box і Mi Projectors:
-Підключіть як свій телефон, так і зовнішній монітор на ту саму Wi-Fi-мережу для найкращого ефекту. Якщо вони з'єднані з різними мережами, може знадобитися більше часу, щоб знайти зовнішній монітор та з'єднання.
-Примітка: більш ранні Mi телевізори можуть не підтримувати трансляцію по різних мережах.
-2. Якщо ви використовуєте телевізори, установку топ коробки або проектори інших брендів, підключіть ваш телефон і зовнішній монітор до тієї ж мережі Wi-Fi.
-Якщо два пристрої не можуть бути підключені до однієї мережі, увімкніть Miracast у вашому зовнішньому моніторі. Назва функції Miracast може змінитися."</string>
-    <string name="help_page_text_08">Крок 2</string>
-    <string name="help_page_text_09">"Натисніть перемикач \"Проекція\" в панелі сповіщень на телефоні. Увімкніть Wi-Fi та Bluetooth для стабільнішого з'єднання."</string>
-    <string name="help_page_text_10">Якщо Ви хочете транслювати предмети з галереї або відео, Ви можете використовувати вбудовані функції кастингу в цих додатках</string>
-    <string name="help_page_text_11">Крок 3</string>
-    <string name="help_page_text_12">Виберіть зовнішній пристрій зі списку доступних пристроїв, щоб почати трансляцію</string>
-    <string name="help_page_text_13">"Неможливо з'єднатися до зовнішнього пристрою?"</string>
-    <string name="help_page_text_14">"1. Проекція Mi ТВ, оновіть програму Wireless Screening в списку додатків ТВ до останньої версії.
- 2. Ви можете спробувати підключити телефон до телевізора до тієї ж локальної мережі, щоб збільшити ймовірність успішного підключення.  Однак деякі маршрутизатори можуть не забезпечувати стабільне середовище з'єднання для екрану, що призводить до відсутності з'єднання або частим переривань.
- 3. Якщо ви використовуєте Mi ТВ, увімкнення Bluetooth може поліпшити з'єднання.
- 4. Якщо немає доступних Wi-Fi мереж, переконайтеся, що зовнішній пристрій підтримує функцію Miracast. Назви функцій трансляції на зовнішньому пристрої можуть відрізнятися в залежності від марки вашого пристрою.  Зверніться до інформації нижче, щоб дізнатися про функції Miracast на різних пристроях."</string>
-    <string name="help_page_text_14_global">"1. Якщо ви хочете використовувати пристрій Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте наступне:
-Підключіть ваш телефон і зовнішній монітор (e. . ваш телевізор) з тією ж мережею Wi-Fi або підключіть зовнішній монітор до вашої точки доступу телефону. Якщо немає доступних Wi-Fi мереж або ви не можете підключити обидва пристрої до однієї мережі, перевірте, чи є функції трансляції на зовнішніх моніторах оновлені, Увімкніть Bluetooth як на телефоні, так і на зовнішньому моніторі, так і на ньому ньому моніторі, і ввімкніть Miracast на телевізорі.
-2. Якщо ви вперше транслюєте пристрій Xiaomi, вам необхідно завершити верифікацію.
-3. Якщо ви хочете використовувати пристрій non-Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте наступне:
-Підключіть ваш телефон і зовнішній монітор (e. . ваш телевізор) з тією ж мережею Wi-Fi або підключіть зовнішній монітор до вашої точки доступу телефону."</string>
-    <string name="help_page_text_15">Функціональність Miracast на різних пристроях</string>
-    <string name="help_page_text_16">Mi TV / Mi Проектор</string>
-    <string name="help_page_text_17">"Мобільні телефони Xiaomi можуть безпосередньо підключатися до більшості телевізорів Xiaomi з функцією Bluetooth замість ручного відкриття функції Miracast.
-Якщо вам потрібно вручну відкрити функцію Miracast, ви можете натиснути кнопку [MENU] на пульті дистанційного керування телевізора, щоб вибрати себе на екрані телевізора.  Програми&gt; Бездротові екрани&gt; Millet/Android Miracas"</string>
-    <string name="help_page_text_17_1">Підтримка клієнтів Xiaomi: 400-100-5678</string>
+    <string name="hang_up_alert_dialog_pos">OK</string>
+    <string name="hang_up_alert_dialog_title">Про трансляцію з вимкненим екраном…</string>
+    <string name="help_page_text_01">Довідка</string>
+    <string name="help_page_text_02">Що таке трансляція?</string>
+    <string name="help_page_text_03">"Трансляція проектує елементи з екрану вашого телефону на більший зовнішній монітор. Це дозволяє обмінюватися зображеннями, відео з друзями та сім'єю без використання мобільного інтернету."</string>
+    <string name="help_page_text_04">Як транслювати елементи на зовнішній екран?</string>
+    <string name="help_page_text_05">Крок 1: перевірте мережеве підключення на вашому мобільному пристрої</string>
+    <string name="help_page_text_06">"1. Вам непотрібно підключатися до інтернету, якщо ви хочете транслювати елементи з телефонів Мі на Мі TV.
+2. Якщо ви не можете встановити підключення між двома пристроями, спробуйте підключити їх до однієї і тієї ж самої мережі Wi-Fi."</string>
+    <string name="help_page_text_06_global">"1. Пристрої Mi TV, Mi Box і Mi Projector:
+Підключіть смартфон і зовнішній монітор до однієї мережі Wi-Fi для найкращого ефекту. Коли пристрої підключені до різних мереж, пошук і підключення до зовнішнього монітору може може зайняти більше часу.
+Примітка: порівняно старі моделі Mi TV можуть не підтримувати трансляції, коли пристрої підключені до різних мереж.
+2 . Якщо ви використовуєте телевізор, ТВ-приставку або проектор іншого виробника, підключіть смартфон і зовнішній монітор до однієї мережі Wi-Fi.
+Якщо пристрої не можуть бути підключені до однієї мережі, увімкніть Miracast на зовнішньому моніторі. Назва функції Miracast може відрізнятися."</string>
+    <string name="help_page_text_08">Крок 2: увімкніть трансляцію</string>
+    <string name="help_page_text_09">"Натисніть перемикач \"Трансляція\" у панелі сповіщень вашого телефону. Увімкніть Wi-Fi та Bluetooth для більш стабільного підключення."</string>
+    <string name="help_page_text_10">Якщо ви хочете транслювати елементи з Галереї або Мі Відео, ви можете використовувати вбудовані функції у цих програмах.</string>
+    <string name="help_page_text_11">Крок 3: виберіть пристрій</string>
+    <string name="help_page_text_12">Виберіть зовнішній пристрій із списку доступних пристроїв, щоб почати трансляцію.</string>
+    <string name="help_page_text_13">"Не вдається підключитися до зовнішнього пристрою?"</string>
+    <string name="help_page_text_14">"1. Якщо ви хочете використовувати пристрій Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте виконати наступні дії:
+ підключіть телефон і зовнішній монітор (наприклад, телевізор) до однієї мережі Wi-Fi або підключіть зовнішній монітор до точки доступу вашого телефону. Якщо нема доступних мереж Wi-Fi або ви не можете підключити обидва пристрої до однієї мережі, перевірте, чи оновлені функції трансляції на зовнішньому моніторі, увімкніть Bluetooth на телефоні та на зовнішньому моніторі і увімкніть Miracast на телевізорі. 
+2. Якщо ви вперше використовуєте пристрій Xiaomi, вам необхідно завершити перевірку. 
+3. Якщо ви хочете використовувати пристрій іншого бренду, але не можете знайти його в списку доступних пристроїв, спробуйте виконати наступні дії:
+ підключіть телефон і зовнішній монітор (наприклад, телевізор) до однієї мережі Wi-Fi або підключити зовнішній монітор до точки доступу вашого телефону. Якщо це не допомагає, встановіть програму LeEco на свій телевізор і дотримуйтесь інструкцій."</string>
+    <string name="help_page_text_14_global">"1. Якщо ви хочете використовувати пристрій Xiaomi, але не можете знайти його в списку доступних пристроїв, спробуйте виконати наступні дії:
+ підключіть телефон і зовнішній монітор (наприклад, телевізор) до однієї мережі Wi-Fi або підключіть зовнішній монітор до точки доступу вашого телефону. Якщо нема доступних мереж Wi-Fi або ви не можете підключити обидва пристрої до однієї мережі, перевірте, чи оновлені функції трансляції на зовнішньому моніторі, увімкніть Bluetooth на телефоні та на зовнішньому моніторі і увімкніть Miracast на телевізорі. 
+2. Якщо ви вперше використовуєте пристрій Xiaomi, вам необхідно завершити перевірку. 
+3. Якщо ви хочете використовувати пристрій іншого бренду, але не можете знайти його в списку доступних пристроїв, спробуйте виконати наступні дії:
+ підключіть телефон і зовнішній монітор (наприклад, телевізор) до однієї мережі Wi-Fi або підключити зовнішній монітор до точки доступу вашого телефону."</string>
+    <string name="help_page_text_15">Функція Miracast на різних пристроях</string>
+    <string name="help_page_text_16">Mi TV/Mi Проектор</string>
+    <string name="help_page_text_17">"Ви можете траслювати елементи з вашого Мі теелфону на більшість моделей Mi TV з функцією Bluetooth, не вмикаючи вручну Miracast.
+Якщо вам необхідно увімкнути Miracast, натисніть кнопку [MENU] та виберіть Мої програми &gt; Трансляція &gt; Miracast."</string>
+    <string name="help_page_text_17_1">Служба підтримки клієнтів Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
-    <string name="help_page_text_19">Спочатку переконайтеся, що на Вашому телефоні підтримується функція Miracast. На деяких моделях ви можете натиснути кнопку [SOURCE] на пульті дистанційного керування, а потім вибрати \"Дублювання екрану\". Ця функція увімкнена за замовчуванням на різних моделях</string>
-    <string name="help_page_text_20">Підтримка клієнтів Samsung: 400-810-5858</string>
-    <string name="help_page_text_21">LG ТV</string>
-    <string name="help_page_text_22">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. Ця функція увімкнена за замовчуванням на різних моделях</string>
-    <string name="help_page_text_23">Підтримка клієнтів LG: 400-819-9999</string>
-    <string name="help_page_text_24">Philips ТV</string>
-    <string name="help_page_text_25">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. Ця функція увімкнена за замовчуванням на різних моделях</string>
-    <string name="help_page_text_26">Підтримка клієнтів Philips: 400-880-0008</string>
+    <string name="help_page_text_19">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете натиснути кнопку [SOURCE] на пульті та виберіть \"Дзеркальний екран\". На більшості моделях ця функція увімкнена за замовчуванням.</string>
+    <string name="help_page_text_20">Служба підтримки клієнтів Samsung: 400-810-5858</string>
+    <string name="help_page_text_21">LG TV</string>
+    <string name="help_page_text_22">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На більшості моделях ця функція увімкнена за замовчуванням.</string>
+    <string name="help_page_text_23">Служба підтримки клієнтів LG: 400-819-9999</string>
+    <string name="help_page_text_24">Philips TV</string>
+    <string name="help_page_text_25">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На більшості моделях ця функція увімкнена за замовчуванням.</string>
+    <string name="help_page_text_26">Служба підтримки клієнтів Philips: 400-880-0008</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях ви можете натиснути кнопку [MENU] на пульті дистанційного керування, а потім вибрати Налаштування&gt; З\'єднання&gt; Мережа&gt; Кілька екранів</string>
-    <string name="help_page_text_29">Підтримка клієнтів TPV: 400-887-8007</string>
+    <string name="help_page_text_28">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете натиснути кнопку [MENU] на пульті та виберіть Налаштування &gt; Підключення &gt; Мережа &gt; Декілька екранів.</string>
+    <string name="help_page_text_29">Служба підтримки клієнтів TPV: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях ви можете натиснути кнопку [SMART] на пульті дистанційного керування, а потім вибрати Проекція&gt; Бездротовий екран; На деяких моделях можна натиснути Hi Screen&gt; Game Screening&gt; Android</string>
-    <string name="help_page_text_32">Підтримка клієнтів Hisense: 400-611-1111</string>
+    <string name="help_page_text_31">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете натиснути кнопку [SMART] на пульті та виберіть Трансляція &gt; Бездротовий екран. Деякі моделі також підтримують трансляцію ігор: Hi Cast &gt; Трансляція ігор &gt; Android.</string>
+    <string name="help_page_text_32">Служба підтримки клієнтів Hisense: 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях Ви можете вибрати Програми&gt; Проекція&gt; Пристрій Android&gt; Miracast</string>
-    <string name="help_page_text_35">Підтримка клієнтів Skyworth: 95105555</string>
+    <string name="help_page_text_34">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете вибрати Програми &gt; Трансляція &gt; Пристрій Android &gt; Miracast.</string>
+    <string name="help_page_text_35">Служба підтримки клієнтів Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях ви можете натиснути кнопку [SOURCE] на пульті дистанційного керування, а потім вибрати \"Дублювання екрану\"; На деяких моделях можна вибрати Мережа&gt; Налаштування Wi-Fi Direct; Ця функція увімкнена за замовчуванням на різних моделях</string>
-    <string name="help_page_text_38">Підтримка клієнтів Sony: 400-810-9000</string>
+    <string name="help_page_text_37">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях пристроїв ви можете натиснути кнопку [SOURCE] на пульті ДУ, а потім вибрати \"Дублювання екрану\"; На деяких моделях необхідно вибрати пристрій у розділі Мережа &gt; Wi-Fi Direct; Ця функція увімкнена за замовчуванням на різних моделях пристроїв.</string>
+    <string name="help_page_text_38">Служба підтримки клієнтів Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях Ви можете вибрати Програми&gt; Дублювання екрану</string>
-    <string name="help_page_text_41">Підтримка клієнтів Panasonic: 400-881-1315</string>
+    <string name="help_page_text_40">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете вибрати Програми &gt; Дзеркальний екран.</string>
+    <string name="help_page_text_41">Служба підтримки клієнтів Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях Ви можете вибрати Система&gt; Системні інструменти&gt; Multiple Screens&gt; Дублювання екрану</string>
-    <string name="help_page_text_44">Підтримка клієнтів Changhong: 400-811-1666</string>
+    <string name="help_page_text_43">Перевірте налаштування телевізора та переконайтеся, що зовнішній монітор підтримує функцію Miracast.</string>
+    <string name="help_page_text_44">Служба підтримки клієнтів Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. На деяких моделях Ви можете вибрати Програми&gt; Бездротовий екран</string>
-    <string name="help_page_text_47">Підтримка клієнтів TCL: 400-812-3456</string>
+    <string name="help_page_text_46">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете вибрати Програми &gt; Бездротовий екран.</string>
+    <string name="help_page_text_47">Служба підтримки клієнтів TCL: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">Спочатку переконайтеся, що на вашому телефоні підтримується функція Miracast. Щоб увімкнути цю функцію, перейдіть в Мої програми&gt; WLAN екран.</string>
-    <string name="help_page_text_50">Підтримка клієнтів AODIN: 400-810-5858</string>
-    <string name="help_page_text_51">LeTV</string>
-    <string name="help_page_text_52">Переконайтеся, що модель вашого пристрою з великим екраном підтримує протокол Miracast. На деяких моделях, виберіть Налаштування&gt; Мережа&gt; Мультиекранний перегляд&gt; Бездротовий екран</string>
-    <string name="help_page_text_53">Підтримка клієнтів LeTV: 10109000</string>
-    <string name="help_page_text_55">"Якщо ви не можете підключитися до мережі, переконайтеся, що зовнішній монітор підтримує функцію Miracast і його ввімкнено. У деяких моделях ця функція називається Бездротовий режим, Віддзеркалення екрану або Мультиекран. Перегляньте інформацію нижче, щоб дізнатися, як увімкнути Miracast.
-4. Якщо у вас виникли будь-які проблеми, ви можете повідомити про них, що використовують додаток \"Послуги &amp; подачі даних\"."</string>
-    <string name="help_page_text_55_global">"Якщо ви не можете підключитися до мережі, переконайтеся, що зовнішній монітор підтримує функцію Miracast і його ввімкнено. На деяких моделях ця функція називається бездротовий режим, Віддзеркалення екрану, або кілька екранів.
-4. Якщо у вас виникли будь-які проблеми, ви можете повідомити про них, що використовують додаток \"Послуги &amp; подачі даних\"."</string>
-    <string name="help_page_text_end">"Якщо марка Вашого пристрою не вказана тут, зв'яжіться з виробником, щоб дізнатися більше про функцію проекції"</string>
+    <string name="help_page_text_49">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. Для увімкнення цієї функції перейдіть до розділу Мої програми &gt; Wi-Fi Display.</string>
+    <string name="help_page_text_50">Служба підтримки клієнтів AODIN: 400-810-5858</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">Спочатку переконайтеся, що функція Miracast підтримується на вашому пристрої. На деяких моделях ви можете увімкнути цю функцію у розділі Налаштування &gt; Мережі &gt; Декілька екранів &gt; Бездротовий екран.</string>
+    <string name="help_page_text_53">Служба підтримки клієнтів LeEco: 10109000</string>
+    <string name="help_page_text_55">"Якщо не вдається підключитися до мережі, переконайтеся, що зовнішній монітор увімкнено та він підтримує функцію Miracast. На деяких моделях ця функція називається Бездротовим екраном, Дзеркальним екраном або Декілька екранів. Перегляньте інформацію нижче, щоб дізнатися, як увімкнути Miracast.
+4. Якщо у вас виникнуть будь-які проблеми, ви можете повідомити про них за допомогою нашої програми \"Послуги та зворотний зв'язок\"."</string>
+    <string name="help_page_text_55_global">"Якщо не вдається підключитися до мережі, переконайтеся, що зовнішній монітор увімкнено та він підтримує функцію Miracast. На деяких моделях ця функція називається Бездротовим екраном, Дзеркальним екраном або Декілька екранів.
+4. Якщо у вас виникнуть будь-які проблеми, ви можете повідомити про них за допомогою нашої програми \"Послуги та зворотний зв'язок\"."</string>
+    <string name="help_page_text_end">"Якщо вашого пристрою немає у списку, зв'яжіться з виробником та дізнайтеся про підтримку функції трансляції."</string>
     <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
     <string name="midnight">Ніч</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти виділення</string>
@@ -203,17 +204,17 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Просто секунда…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
     <string name="monday">Понеділок</string>
-    <string name="monday_short">Mon</string>
-    <string name="monday_shortest">Mon</string>
+    <string name="monday_short">Пон</string>
+    <string name="monday_shortest">Пн</string>
     <string name="month_april">Квітень</string>
-    <string name="month_april_short">Кві</string>
-    <string name="month_april_shortest">Кві</string>
+    <string name="month_april_short">Квіт</string>
+    <string name="month_april_shortest">Квіт</string>
     <string name="month_august">Серпень</string>
-    <string name="month_august_short">Сер</string>
+    <string name="month_august_short">Серп</string>
     <string name="month_august_shortest">Сер</string>
     <string name="month_december">Грудень</string>
-    <string name="month_december_short">Гру</string>
-    <string name="month_december_shortest">Гру</string>
+    <string name="month_december_short">Груд</string>
+    <string name="month_december_shortest">Груд</string>
     <string name="month_february">Лютий</string>
     <string name="month_february_short">Лют</string>
     <string name="month_february_shortest">Лют</string>
@@ -224,38 +225,38 @@
     <string name="month_july_short">Лип</string>
     <string name="month_july_shortest">Лип</string>
     <string name="month_june">Червень</string>
-    <string name="month_june_short">Чер</string>
-    <string name="month_june_shortest">Чер</string>
+    <string name="month_june_short">Черв</string>
+    <string name="month_june_shortest">Черв</string>
     <string name="month_march">Березень</string>
     <string name="month_march_short">Бер</string>
     <string name="month_march_shortest">Бер</string>
     <string name="month_may">Травень</string>
-    <string name="month_may_short">Травень</string>
-    <string name="month_may_shortest">Травень</string>
+    <string name="month_may_short">Трав</string>
+    <string name="month_may_shortest">Трав</string>
     <string name="month_november">Листопад</string>
-    <string name="month_november_short">Лис</string>
-    <string name="month_november_shortest">Лис</string>
+    <string name="month_november_short">Лист</string>
+    <string name="month_november_shortest">Лист</string>
     <string name="month_october">Жовтень</string>
-    <string name="month_october_short">Жов</string>
-    <string name="month_october_shortest">Жов</string>
-    <string name="month_september">Вересні</string>
+    <string name="month_october_short">Жовт</string>
+    <string name="month_october_shortest">Жовт</string>
+    <string name="month_september">Вересень</string>
     <string name="month_september_short">Вер</string>
     <string name="month_september_shortest">Вер</string>
-    <string name="more">Більше</string>
+    <string name="more">Ще</string>
     <string name="morning">Ранок</string>
-    <string name="nfc_connect_failed_toast">"Не можливо відправити повідомлення. Спробуй ще раз."</string>
+    <string name="nfc_connect_failed_toast">"Помилка трансляції. Повторіть спробу."</string>
     <string name="night">Вечір</string>
-    <string name="noon">Midday</string>
+    <string name="noon">Полудень</string>
     <string name="normal_device_desc">"Пристрої, які ви підключили, але не позначені як надійні"</string>
     <string name="normal_device_desc_limit">"Пристрої, які ви підключили, але не позначені як надійні"</string>
     <string name="normal_device_none">Тут немає прикріплених раніше пристроїв</string>
     <string name="normal_device_title">Немає довірених пристроїв</string>
-    <string name="not_set">Не задано</string>
+    <string name="not_set">Не налаштовано</string>
     <string name="notification_cast_desc">Відтворення…</string>
     <string name="notification_desc_scanning">Пошук пристроїв неподалік…</string>
-    <string name="notification_rc_title">Віддалене керування Xiaomi</string>
-    <string name="notification_show_more">Подивіться більше можливостей</string>
-    <string name="open_game_accelerate">Увімкнути Турбо Гру</string>
+    <string name="notification_rc_title">Помічник XiaoMi TV</string>
+    <string name="notification_show_more">Натисніть для перегляду інших функцій</string>
+    <string name="open_game_accelerate">Увімкнути Game Turbo</string>
     <string name="path_setting_cast">З\'єднання &amp; спільний доступ</string>
     <string name="path_setting_cast_demo">З\'єднання &amp; спільне/Постань/Демос</string>
     <string name="path_setting_cast_demo_document">З\'єднання &amp; спільна/Пост/Демос/Документи</string>
@@ -263,68 +264,68 @@
     <string name="path_setting_cast_demo_game">З\'єднання &amp; спільний/Міст/Демос-Ігри</string>
     <string name="path_setting_cast_feature">З\'єднання &amp; спільний/Каст/Спеціальні можливості</string>
     <string name="path_setting_cast_help">З\'єднання &amp; спільне/Каст/Допомога</string>
-    <string name="pm">Очистити кеш</string>
-    <string name="preference_copied">\"%1$s\" скопійовано до буфера обміну.</string>
-    <string name="privacy_agree">ОК</string>
-    <string name="privacy_detail"><Data>Додаток повинен під\'єднатися до Інтернету і збирати необхідні персональні дані, щоб мати можливість працювати нормально. Щоб повністю зрозуміти ваші права як користувача, так і способи використання ваших даних, прочитайте і згодні з нашою &lt;a href=%1$s&gt;Угодою про користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt;.</Data></string>
-    <string name="privacy_detail_extra"><Data>Деякі функції надаються стороннім постачальникам послуг HappyCast. Перед використанням цієї функції, прочитайте та погоджуйтеся з &lt;a href=%1$s&gt;політикою конфіденційності HappyCast&lt;/a&gt; та &lt;a href=%2$s&gt;HappyCast Legal&lt;/a&gt;.</Data></string>
-    <string name="privacy_explain">"Ласкаво просимо до Налаштування! Casting дозволяє проектувати предмети з екрану вашого телефону на великому зовнішньому моніторі. Цей додаток потребує підключення до Інтернету і вимагає таких дозволів для нормальної роботи:"</string>
-    <string name="privacy_negative">Вийти</string>
+    <string name="pm">ПО</string>
+    <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
+    <string name="privacy_agree">Дозволити</string>
+    <string name="privacy_detail">&lt;Data&gt;Для нормальної роботи цій програмі необхідно підключатися до інтернету та збирати особисті дані. Щоб повністю зрозуміти ваші права як Користувача, а також те, як ми використовуємо ваші дані, прочитайте і погодьтеся з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt;.&lt;/Data&gt;.</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;Деякі функції надаються третьою стороною, такою як HappyCast. Перед використанням цих функцій прочитайте та погодьтеся з &lt;a href=%1$s&gt;Політикою конфіденційності HappyCast&lt;/a&gt; та &lt;a href=%2$s&gt;Юридичною заявою HappyCast&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="privacy_explain">"Ласкаво просимо до Трансляції! Завдяки цій функції ви зможете транслювати об'єкти з вашого телефону на зовнішній монітор. Для правильної роботи програмі необхідне підключення до інтернету та наступні дозволи:"</string>
+    <string name="privacy_negative">Вихід</string>
     <string name="privacy_permission_ble">Увімкнення та вимкнення Bluetooth</string>
-    <string name="privacy_permission_ble_desc">Для пошуку доступних пристроїв поблизу</string>
-    <string name="privacy_permission_location">Доступ до місця розташування</string>
-    <string name="privacy_permission_location_desc">Для пошуку доступних пристроїв поблизу</string>
-    <string name="privacy_permission_necessary">Mandatory permissions</string>
-    <string name="privacy_permission_necessary_desc">Ці дозволи необхідні для того, щоб зробити основні функції та послуги цього додатка.</string>
+    <string name="privacy_permission_ble_desc">Для пошуку доступних пристроїв неподалік</string>
+    <string name="privacy_permission_location">Доступ до місцезнаходження</string>
+    <string name="privacy_permission_location_desc">Для пошуку доступних пристроїв неподалік</string>
+    <string name="privacy_permission_necessary">Обов\'язкові дозволи</string>
+    <string name="privacy_permission_necessary_desc">Ці дозволи необхідні, щоб зробити доступними основні функції та послуги програми.</string>
     <string name="privacy_permission_nfc">NFC</string>
-    <string name="privacy_permission_nfc_desc">Для парних пристроїв за допомогою NFC</string>
+    <string name="privacy_permission_nfc_desc">Для прив\'язування пристрою за допомогою NFC</string>
     <string name="privacy_permission_optional">Необов\'язкові дозволи</string>
-    <string name="privacy_permission_optional_desc">"Використовується для додаткових функцій під час їх використання"</string>
+    <string name="privacy_permission_optional_desc">"Використовуються для додаткових функцій під час їх використання"</string>
     <string name="privacy_permission_wlan">Увімкнення та вимкнення Wi-Fi</string>
-    <string name="privacy_permission_wlan_china">Увімкнення та вимкнення Wi-Fi</string>
-    <string name="privacy_permission_wlan_desc">Для пошуку доступних пристроїв поблизу</string>
-    <string name="privacy_permission_wlan_desc_china">Для пошуку доступних пристроїв поблизу</string>
-    <string name="privacy_positive">Погоджуюсь</string>
-    <string name="privacy_text_1"><Data>\"Ласкаво просимо на екран! Перетворення дає змогу проектувати предмети з екрану вашого телефону на великому зовнішньому моніторі.
-Ми будемо захищати вашу особисту інформацію відповідно до відповідних законів, положень та політики конфіденційності. Деякі функції надаються стороннім постачальником послуг HappyCast. Перед використанням цієї функції, прочитайте і згодні з &lt;a href=%2$s&gt;HappyCast Legal&lt;/a&gt; та &lt;a href=%1$s&gt;HappyCast Privacy Policy&lt;/a&gt;.
-Щоб мати можливість працювати належним чином, цьому додатку необхідно підключитися до Інтернету і використовувати наступні дозволи для збору персональної інформації:\"</Data></string>
-    <string name="privacy_text_2"><Data>\"Якщо ви не згодні надавати такі дозволи або завантажувати свої особисті дані, ви не зможете використовувати цей додаток. Ви можете видалити цей додаток, вийти або обмежити права доступу в налаштуваннях в таких випадках.
-Прочитайте і погодьтеся з нашою &lt;a href=%1$s&gt;Угодою про користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням цієї функції.\"</Data></string>
-    <string name="privacy_text_pemission">"  • Потрібен доступ до Wi-Fi для роботи сервісу.
-• Bluetooth використовується для виявлення і підключення пристроїв.
-• Читання пам'яті телефону. Після прочитання вмісту, надішліть вміст на пристрій з великим екраном.
-• Читання інформації про телефон."</string>
+    <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
+    <string name="privacy_permission_wlan_desc">Для пошуку доступних пристроїв неподалік</string>
+    <string name="privacy_permission_wlan_desc_china">Для пошуку доступних пристроїв неподалік</string>
+    <string name="privacy_positive">Погодитися</string>
+    <string name="privacy_text_1">&lt;Data&gt;Ласкаво просимо до функції трасляції! Трансляція дозволяє проектувати елементи з екрану вашого телефону на більший зовнішній монітор.
+Ми будемо захищати вашу особисту інформацію відповідно до законів, правил та політики конфіденційності. Деякі функції надаються стороннім постачальником послуг HappyCast. Перед використанням цієї функції прочитайте і погодьтеся з &lt;a href=%2$s&gt;Заявою HappyCast&lt;/a&gt; та &lt;a href=%1$s&gt;Політикою конфіденційності HappyCast&lt;/a&gt;.
+Для нормальної роботи цій програмі необхідно підключатися до інтернету та отримати наступні дозволи для збору вашої особистої інформації:&lt;/Data&gt;</string>
+    <string name="privacy_text_2">&lt;Data&gt;Якщо ви не згодні надавати такі дозволи або ділитися і завантажувати свою особисту інформацію, ви не зможете використовувати цю програму. У таких випадках ви можете видалити цю програму, вийти з неї або обмежити дозволи в Налаштуваннях.
+Прочитайте та погодьтеся з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням цієї функції.&lt;/Data&gt;</string>
+    <string name="privacy_text_pemission">"　　•Мати доступ та зберігати зображення на пристрої для їх трансляції на зовнішніх моніторах
+　　•Записувати виклики та аудіо для їх трансляції на зовнішніх моніторах
+　　•Доступ до номера телефону, IMEI та IMSI для розпізнання вашого пристрої
+　　•Доступ до вашого місцезнаходження для пошуку пристроїв поблизу"</string>
     <string name="privacy_title">Увага</string>
-    <string name="private_protect">Захист даних</string>
-    <string name="san_wait_msg_1">На цільовому пристрої повинна бути включена функція бездротового екрана</string>
-    <string name="san_wait_msg_2">Пошук пристроїв…</string>
-    <string name="san_wait_msg_3">"Пристрої знайти легше, якщо вони підключені до тієї ж мережі, що і ваш телефон."</string>
-    <string name="san_wait_msg_4">"Перегляньте Допомога, якщо не виходить знайти пристрої."</string>
+    <string name="private_protect">Приховувати особисті об\'єкти</string>
+    <string name="san_wait_msg_1">Увімкніть бездротову трансляцію на цільовому пристрої</string>
+    <string name="san_wait_msg_2">Пошук пристроїв може зайняти деякий час…</string>
+    <string name="san_wait_msg_3">"Легше знайти зовнішні пристрої, коли вони підключені до однієї і тієї ж самої мережі"</string>
+    <string name="san_wait_msg_4">"Перегляньте \"Довідку\", якщо ви не можете знайти пристрій"</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="screen_projection">Транслювати</string>
-    <string name="screen_projection_characteristics">Особливості</string>
-    <string name="screen_projection_characteristics_off_screen_summary">Ви можете також транслювати коли екран вимкнений. Ця функція зменшує енергоспоживання.</string>
-    <string name="screen_projection_characteristics_off_screen_title">Транслювати при вимкненому екрані</string>
-    <string name="screen_projection_characteristics_privacy_protect_summary">"Не відображати плаваючі сповіщення, вхідні дзвінки та інші приватні елементи на зовнішніх моніторах."</string>
-    <string name="screen_projection_characteristics_privacy_protect_title">Приховати приватні елементи</string>
-    <string name="screen_projection_characteristics_small_window_summary">"Мінімізувати відтворення, яке буде відтворюватись для використання інших функцій телефону."</string>
+    <string name="screen_projection_characteristics">Спеціальні функції</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Ви можете продовжувати трансляцію, коли екран вашого пристрою відключений. Ця функція допоможе знизити енергоспоживання.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Транслювати, коли екран вимкнено</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Не відображати спливаючі сповіщення, вхідні виклики та інші особисті об'єкти на зовнішніх моніторах."</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Приховувати особисті об\'єкти</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Згортайте вікно, яке транслюється, щоб продовжити користуватися функціями смартфону."</string>
     <string name="screen_projection_characteristics_small_window_title">Згорнути вікно</string>
-    <string name="screen_projection_example_document_summary">Відображати презентації на зовнішньому моніторі при використанні вашого телефону для перемикання між нотатками і переглядом. Перейдіть в файловий менеджер &gt; Документи для використання цієї функції.</string>
+    <string name="screen_projection_example_document_summary">Транслюйте презентації на зовнішній монітор, використовуючи телефон для перемикання слайдів і перегляду нотаток. Відкрийте Провідник &gt; Документи та спробуйте цю функцію.</string>
     <string name="screen_projection_example_document_title">Документи</string>
-    <string name="screen_projection_example_gallery_summary">Натисніть кнопку Share під пунктом \"Поділитися\" у додатку \"Галерея\", щоб відобразити її на зовнішньому моніторі.</string>
-    <string name="screen_projection_example_gallery_title">Фотографії &amp; відео</string>
-    <string name="screen_projection_example_game_summary">Turbo дозволяє транслювати ігри зовнішнім монітором. Використовуйте ярлик у розділі інструментів Game Turbo, щоб увімкнути цю функцію.</string>
+    <string name="screen_projection_example_gallery_summary">Натисніть кнопку \"Поділитися\" над об\'єктом в Галереї, щоб відобразити його на зовнішньому моніторі.</string>
+    <string name="screen_projection_example_gallery_title">Фото та відео</string>
+    <string name="screen_projection_example_game_summary">Game Turbo дозволяє транслювати ігри на зовнішній монітор. Використовуйте ярлик в панелі Game Turbo, щоб активувати цю функцію.</string>
     <string name="screen_projection_example_game_title">Ігри</string>
     <string name="screen_projection_help">Довідка</string>
-    <string name="screen_projection_sample_summary">Відображення документів, ігор, фотографій та відео</string>
-    <string name="screen_projection_sample_title">Демос</string>
+    <string name="screen_projection_sample_summary">Трансляція документів, ігор, фото та відео</string>
+    <string name="screen_projection_sample_title">Демо</string>
     <string name="screen_projection_title">Транслювати</string>
     <string name="search_menu_title">Пошук</string>
     <string name="send">Відправити</string>
     <string name="small_window">Згорнути вікно</string>
-    <string name="small_window_not_supported">"Не можна згортати цю програму, поки вона транслюється"</string>
+    <string name="small_window_not_supported">"Неможливо згорнути цю програму під час трансляції"</string>
     <string name="solar_term_autumn_begins">Осінь починається</string>
     <string name="solar_term_autumn_equinox">Осінній рівнодення</string>
     <string name="solar_term_clear_and_bright">Ясно і яскраво</string>
@@ -349,66 +350,66 @@
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Зима починається</string>
     <string name="solar_term_winter_solstice">Зимове сонцестояння</string>
-    <string name="status_bar_in_casting">Проекція</string>
-    <string name="status_bar_in_casting_long">Натисніть для подробиць</string>
+    <string name="status_bar_in_casting">Трансляція…</string>
+    <string name="status_bar_in_casting_long">Натисніть для перегляду інших функцій</string>
     <string name="sunday">Неділя</string>
-    <string name="sunday_short">НД</string>
-    <string name="sunday_shortest">НД</string>
-    <string name="synergy_casting">"Не вдалося використовувати трансляцію, поки працює комбо екрану"</string>
-    <string name="the_anniversary_of_lifting_martial_law">Річниця визволення марсового права</string>
+    <string name="sunday_short">Нед</string>
+    <string name="sunday_shortest">Нд</string>
+    <string name="synergy_casting">"Неможливо проводити трансляцію під час роботи Screen Combo"</string>
+    <string name="the_anniversary_of_lifting_martial_law">Річниця скасування воєнного стану</string>
     <string name="the_anti_aggression_day">День боротьби з агресією</string>
-    <string name="the_arbor_day">День бухти</string>
-    <string name="the_armed_forces_day">День Збройних сил</string>
-    <string name="the_armys_day">День PLA</string>
-    <string name="the_childrens_day">"День Дітей"</string>
+    <string name="the_arbor_day">День деревонасадження</string>
+    <string name="the_armed_forces_day">День збройних сил</string>
+    <string name="the_armys_day">День заснування НОАК</string>
+    <string name="the_childrens_day">"День захисту дітей"</string>
     <string name="the_chinese_youth_day">День молоді</string>
     <string name="the_christmas_day">Різдво</string>
-    <string name="the_double_ninth_festival">Подвійний 9-й фестиваль</string>
-    <string name="the_dragon_boat_festival">Свято Човнів Дракона</string>
+    <string name="the_double_ninth_festival">Подвійний Дев\'ятий фестиваль</string>
+    <string name="the_dragon_boat_festival">Свято човнів-драконів</string>
     <string name="the_easter_day">Великдень</string>
-    <string name="the_eve_of_the_spring_festival">Єва китайського нового року</string>
-    <string name="the_fifth_day">П\'ятий день китайського нового року</string>
-    <string name="the_fools_day">"День Сміху"</string>
-    <string name="the_forth_day">Четвертий день китайського нового року</string>
-    <string name="the_hksar_establishment_day">День грамотності Гонконгу SAR</string>
-    <string name="the_international_womens_day">"Жіночий День"</string>
-    <string name="the_laba_festival">Фестиваль Лаби</string>
-    <string name="the_labour_day">День Праці</string>
-    <string name="the_lantern_festival">Свято Ліхтарів</string>
+    <string name="the_eve_of_the_spring_festival">Канун Китайського новго року</string>
+    <string name="the_fifth_day">П\'ятий день Китайського нового року</string>
+    <string name="the_fools_day">"День дурнів"</string>
+    <string name="the_forth_day">Четвертий день Китайського нового року</string>
+    <string name="the_hksar_establishment_day">День заснування САР Гонконг</string>
+    <string name="the_international_womens_day">"Жіночий день"</string>
+    <string name="the_laba_festival">Фестиваль Лаба</string>
+    <string name="the_labour_day">День праці</string>
+    <string name="the_lantern_festival">Фестиваль ліхтарів</string>
     <string name="the_mid_autumn_festival">Свято середини осені</string>
     <string name="the_national_day">Національний день</string>
     <string name="the_national_father_day">"День народження Сунь Ятсена"</string>
     <string name="the_new_years_day">Новий рік</string>
-    <string name="the_night_of_sevens">Цісіцзе</string>
-    <string name="the_partys_day">День ЦП</string>
+    <string name="the_night_of_sevens">Свято Цисі</string>
+    <string name="the_partys_day">День заснування КПК</string>
     <string name="the_peace_day">День пам\'яті</string>
-    <string name="the_retrocession_day">День повторення дії</string>
-    <string name="the_second_day">Другий день китайського нового року</string>
-    <string name="the_seventh_day">Сьомий день китайського нового року</string>
-    <string name="the_sixth_day">Шостий день китайського Нового року</string>
-    <string name="the_spirit_festival">Свято Привида</string>
+    <string name="the_retrocession_day">День Ретроцесії</string>
+    <string name="the_second_day">Другий день Китайського нового року</string>
+    <string name="the_seventh_day">Сьомий день Китайського нового року</string>
+    <string name="the_sixth_day">Шостий день Китайського нового року</string>
+    <string name="the_spirit_festival">Фестиваль духів</string>
     <string name="the_spring_festival">Китайський новий рік</string>
-    <string name="the_teachers_day">"День вчителів"</string>
-    <string name="the_third_day">Третій день китайського нового року</string>
-    <string name="the_tw_childrens_day">"День Дітей"</string>
+    <string name="the_teachers_day">"День вчителя"</string>
+    <string name="the_third_day">Третій день Китайського нового року</string>
+    <string name="the_tw_childrens_day">"День захисту дітей"</string>
     <string name="the_tw_youth_day">День молоді</string>
-    <string name="the_united_nations_day">День ООН</string>
-    <string name="the_valentines_day">"День святого Валентина"</string>
-    <string name="the_water_lantern_festival">Свято Водо-Ліхтар</string>
+    <string name="the_united_nations_day">День Організації Об\'єднаних Націй</string>
+    <string name="the_valentines_day">"День Святого Валентина"</string>
+    <string name="the_water_lantern_festival">Фестиваль водних ліхтарів</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
-    <string name="tile_label">Проекція</string>
-    <string name="time_picker_dialog_title">Установити час</string>
-    <string name="time_picker_label_hour">Н</string>
-    <string name="time_picker_label_minute">М-ль</string>
-    <string name="toast_guide_show_more">Детальніше</string>
-    <string name="toast_guide_title">Досліджуйте нові функції</string>
-    <string name="toast_msg_for_multi_window">"Недоступно в режимі поділу екрана"</string>
-    <string name="toast_msg_for_small_window">"Ви можете згорнути вікно, яке відтворює, щоб не користуватися іншими функціями Вашого телефону, без переривання процесу."</string>
-    <string name="toast_nfc_dont_move">"Не переміщуйте свій телефон"</string>
-    <string name="toast_title_for_small_window">Виберіть \"Мінімізувати вікно\" у додатку</string>
-    <string name="toast_turn_off_hotspot_before_cast">Вимкнути портативну точку доступу до лиття</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
+    <string name="tile_label">Трансляція</string>
+    <string name="time_picker_dialog_title">Задати час</string>
+    <string name="time_picker_label_hour">Г</string>
+    <string name="time_picker_label_minute">Х</string>
+    <string name="toast_guide_show_more">Дізнатися більше</string>
+    <string name="toast_guide_title">Дізнавайтеся про нові функції тут</string>
+    <string name="toast_msg_for_multi_window">"Цю функцію неможливо використовувати з розділеним екраном"</string>
+    <string name="toast_msg_for_small_window">"Ви можете зменшити вікно трансляції на вашому пристрої, щоб мати можливість використовувати інші функції телефону під час трансляції, не перериваючи її."</string>
+    <string name="toast_nfc_dont_move">"Не відкладайте телефон далеко"</string>
+    <string name="toast_title_for_small_window">Виберіть \"Зменшити вікно\" у вашій програмі</string>
+    <string name="toast_turn_off_hotspot_before_cast">Вимкніть точку доступу перед трансляцією</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="trust_device_desc">"Ці пристрої будуть з'являтися тут спочатку, коли вони поруч"</string>
@@ -421,8 +422,8 @@
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="v7_preference_off">ВИМК</string>
-    <string name="v7_preference_on">УВІМК</string>
+    <string name="v7_preference_off">ВИМКНЕНО</string>
+    <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

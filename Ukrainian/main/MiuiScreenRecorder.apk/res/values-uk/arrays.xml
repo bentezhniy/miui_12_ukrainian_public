@@ -60,31 +60,31 @@
         <item>Я</item>
     </string-array>
     <string-array name="screenrecorder_settings_bit_rate">
-        <item>200 Мбіт/с</item>
-        <item>100 Мбіт/с</item>
-        <item>50Мбіт/с</item>
-        <item>32Мбіт/с</item>
-        <item>24Мбіт/с</item>
-        <item>16 Мбіт/с</item>
-        <item>8Мбіт/с</item>
-        <item>4Мбіт/с</item>
-        <item>1 Мбіт/с</item>
+        <item>200Мбіт/c</item>
+        <item>100Мбіт/c</item>
+        <item>50Мбіт/c</item>
+        <item>32Мбіт/c</item>
+        <item>24Мбіт/c</item>
+        <item>16Мбіт/c</item>
+        <item>8Мбіт/c</item>
+        <item>4Мбіт/c</item>
+        <item>1Мбіт/c</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames">
-        <item>24 кадри</item>
+        <item>24 кадри/с</item>
         <item>30 кадрів/с</item>
-        <item>48FPS</item>
+        <item>48 кадрів/с</item>
         <item>60 кадрів/с</item>
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>Авто</item>
-        <item>Вертикальна орієнтація</item>
+        <item>Книжкова орієнтація</item>
         <item>Альбомна орієнтація</item>
     </string-array>
     <string-array name="screenrecorder_settings_resolution">
-        <item>1080р</item>
-        <item>720р</item>
-        <item>480р</item>
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Вимкнути звук</item>
@@ -92,7 +92,7 @@
         <item>Системні звуки</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
-        <item>Внутрішня пам\'ять</item>
-        <item>Зовнішня пам\'ять</item>
+        <item>Пам\'ять пристрою</item>
+        <item>Зовнішній накопичувач</item>
     </string-array>
 </resources>
