@@ -1109,6 +1109,17 @@
     <string name="ivr_type_settings">Тарифний план</string>
     <string name="ivr_type_settings_hint">Введіть код тарифного плану</string>
     <string name="jump_to_mobile_network_setting">Налаштування мобільної мережі</string>
+    <string name="kddi_sim_lock_status_allowed">Дозволено</string>
+    <string name="kddi_sim_lock_status_code">Код</string>
+    <string name="kddi_sim_lock_status_default_code">-</string>
+    <string name="kddi_sim_lock_status_no_sim">Немає SIM-карти</string>
+    <string name="kddi_sim_lock_status_not_allowed">Не дозволено</string>
+    <string name="kddi_sim_lock_status_open_wifi_warning">Для з\'єднання Wi-Fi необхідно</string>
+    <string name="kddi_sim_lock_status_status">Статус</string>
+    <string name="kddi_sim_lock_status_title">Статус SIM-картки</string>
+    <string name="kddi_sim_lock_status_update">SIM status update</string>
+    <string name="kddi_sim_lock_status_update_fail">Помилка оновлення</string>
+    <string name="kddi_sim_lock_status_update_success">Оновлення успішне</string>
     <string name="keep_screen_on">Підсвічування при зарядці</string>
     <string name="keep_screen_on_summary">Під час зарядки екран буде завжди увімкнено</string>
     <string name="keywords_adb_wireless">adb, відлагодження, dev</string>

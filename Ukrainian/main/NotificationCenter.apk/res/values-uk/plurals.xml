@@ -85,34 +85,34 @@
         <item quantity="many">через %d хвилин</item>
     </plurals>
     <plurals name="last_sent_time_day">
-        <item quantity="other">%d дн. назад</item>
-        <item quantity="one">%d дн. назад</item>
-        <item quantity="few">%d дн. назад</item>
-        <item quantity="many">%d дн. назад</item>
+        <item quantity="other">%d дн тому</item>
+        <item quantity="one">%d дн тому</item>
+        <item quantity="few">%d дн тому</item>
+        <item quantity="many">%d дн тому</item>
     </plurals>
     <plurals name="last_sent_time_hour">
-        <item quantity="other">%d г. назад</item>
-        <item quantity="one">%d г. назад</item>
-        <item quantity="few">%d г. назад</item>
-        <item quantity="many">%d г. назад</item>
+        <item quantity="other">%d год тому</item>
+        <item quantity="one">%d год тому</item>
+        <item quantity="few">%d год тому</item>
+        <item quantity="many">%d год тому</item>
     </plurals>
     <plurals name="last_sent_time_minute">
-        <item quantity="other">%d хв. назад</item>
-        <item quantity="one">%d хв. назад</item>
-        <item quantity="few">%d хв. назад</item>
-        <item quantity="many">%d хв. назад</item>
+        <item quantity="other">%d хв тому</item>
+        <item quantity="one">%d хв тому</item>
+        <item quantity="few">%d хв тому</item>
+        <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="last_sent_time_month">
-        <item quantity="other">%d міс. назад</item>
-        <item quantity="one">%d міс. назад</item>
-        <item quantity="few">%d міс. назад</item>
-        <item quantity="many">%d міс. назад</item>
+        <item quantity="other">%d місяців тому</item>
+        <item quantity="one">%d місяць тому</item>
+        <item quantity="few">%d місяці тому</item>
+        <item quantity="many">%d місяців тому</item>
     </plurals>
     <plurals name="last_sent_time_week">
-        <item quantity="other">%d тижд. назад</item>
-        <item quantity="one">%d тижд. назад</item>
-        <item quantity="few">%d тижд. назад</item>
-        <item quantity="many">%d тижд. назад</item>
+        <item quantity="other">%d тижнів тому</item>
+        <item quantity="one">%d тиждень тому</item>
+        <item quantity="few">%d тижні тому</item>
+        <item quantity="many">%d тижнів тому</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Щойно</item>

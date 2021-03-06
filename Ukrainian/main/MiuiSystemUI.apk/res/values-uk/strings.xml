@@ -1341,7 +1341,7 @@ d MMMM"</string>
     <string name="not_default_data_content_description">Не встановлено для використання даних</string>
     <string name="not_set">Не налаштовано</string>
     <string name="notification_alert_title">Типово</string>
-    <string name="notification_app_settings">Налаштувати: %1$s</string>
+    <string name="notification_app_settings">Налаштувати</string>
     <string name="notification_appops_ok">Гаразд</string>
     <string name="notification_appops_settings">Налаштування</string>
     <string name="notification_bubble_title">Пузир</string>
@@ -1588,6 +1588,7 @@ d MMMM"</string>
     <string name="quick_settings_cellular_detail_over_limit">Перевищення ліміту</string>
     <string name="quick_settings_cellular_detail_remaining_data">Залишок трафіку</string>
     <string name="quick_settings_cellular_detail_title">Мобільний інтернет</string>
+    <string name="quick_settings_cellular_detail_unable_change">"Неможливо встановити під час дзвінка"</string>
     <string name="quick_settings_color_space_label">Режим корекції кольору</string>
     <string name="quick_settings_connected">Підключено</string>
     <string name="quick_settings_connected_battery_level">Під’єднано, заряд акумулятора %1$s</string>
@@ -1841,8 +1842,8 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format_12">E, d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMMM</string>
-    <string name="status_bar_clock_date_weekday_format">EEE d.ММ</string>
-    <string name="status_bar_clock_date_weekday_format_12">EEE d.ММ</string>
+    <string name="status_bar_clock_date_weekday_format">EEE, d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE, d MMM</string>
     <string name="status_bar_date_format">"E
 d MMMM"</string>
     <string name="status_bar_date_format_12">"E

@@ -284,12 +284,12 @@
         <item>Оптимізувати якість звуку</item>
         <item>Баланс якості звуку та швидкості підключення</item>
         <item>Оптимізувати швидкість підключення</item>
-        <item>Найкращий можливий результат (адаптивний бітрейт)</item>
+        <item>Найкращий варіант (адаптивний бітрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Оптимізувати якість звуку (990 - 909 Кбіт/сек)</item>
-        <item>Баланс якості звуку та швидкості підключення (660/606 Кбіт/с)</item>
-        <item>Оптимізувати швидкість підключення (330 - 303 Кбіт/сек)</item>
+        <item>Оптимізовано якість звуку (990 - 909 Кбіт/сек)</item>
+        <item>Баланс якості звуку та швидкості підключення (660/606 Кбіт/сек)</item>
+        <item>Оптимізувано швидкість підключення (330 - 303 Кбіт/сек)</item>
         <item>Найкращий можливий результат (адаптивний бітрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
@@ -338,7 +338,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ аудіо</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC_V3</item>
         <item>LHDC_V2</item>
         <item>LHDC_V1</item>
@@ -353,11 +353,11 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Qualcomm® aptX™ TWS+ аудіо</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC_V3</item>
         <item>LHDC_V2</item>
         <item>LHDC_V1</item>
-        <item>Увімкнути додаткові кодеки</item>
+        <item>Вмикати додаткові кодеки</item>
         <item>Відключити додаткові кодеки</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -373,9 +373,9 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (За замовчуванням)</item>
-        <item>МАП 1.3</item>
-        <item>МАП 1.4</item>
+        <item>MAP 1.2 (за замовчуванням)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>За умовчанням: %1$d</item>
@@ -393,10 +393,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Відключено</item>
-        <item>Увімкнено із фільтрацією</item>
+        <item>Відфільтровано</item>
         <item>Увімкнено</item>
-        <item>Увімкнено \"Фільтрацію заголовків\"</item>
-        <item>Увімкнено \"Фільтрацію медіапакетів\"</item>
+        <item>Фільтрація заголовків</item>
+        <item>Фільтрація медіапакетів</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
@@ -415,21 +415,21 @@
         <item>Втиснений</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
-        <item>Дуже малий розмір тексту</item>
-        <item>Малий розмір тексту</item>
-        <item>Default text size</item>
-        <item>Великий розмір тексту</item>
-        <item>Дуже великий розмір тексту</item>
+        <item>Дуже малий шрифт</item>
+        <item>Малий шрифт</item>
+        <item>Шрифт за умовчанням</item>
+        <item>Великий шрифт</item>
+        <item>Дуже великий шрифт</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Дуже малий</item>
         <item>Малий</item>
-        <item>Звичайний</item>
+        <item>За умовчанням</item>
         <item>Великий</item>
         <item>Дуже великий</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>За умовчанням</item>
+        <item>Налаштовано додатком</item>
         <item>Білий на чорному</item>
         <item>Чорний на білому</item>
         <item>Жовтий на чорному</item>
@@ -839,9 +839,9 @@
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Не перевіряти</item>
-        <item>Статус сертифікату запиту</item>
-        <item>Вимагати статус сертифіката</item>
-        <item>Вимагати усіх статусів ненадійних сертифікатів</item>
+        <item>Запит статусу сертифіката</item>
+        <item>Потрібен статус сертифіката</item>
+        <item>Потрібні статуси всіх несхвалених сертифікатів</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Вимкнено</item>
@@ -1091,7 +1091,7 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>Тільки NR</item>
+        <item>Лише NR</item>
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
@@ -1312,7 +1312,7 @@
     <string-array name="true_color_screen_optimize_summary">
         <item>Налаштовуйте кольори в залежності від освітлення</item>
         <item>Завжди покращувати кольори</item>
-        <item>Відновити стандартний колір змісту екрану з калібруванням кольорів</item>
+        <item>Відновити стандартний колір змісту екрана з калібруванням кольорів</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Авто (рекомендовано)</item>
@@ -1387,9 +1387,9 @@
         <item>IPSec VPN зі спільними ключами й автентифікацією Xauth</item>
         <item>IPSec VPN із сертифікатами та автентифікацією Xauth</item>
         <item>IPSec VPN із сертифікатами та гібридною автентифікацією</item>
-        <item>IKEv2/IPSec VPN із сертифікатами, логіна/паролем/авторизацією</item>
-        <item>IKEv2/IPSec VPN зі спільними ключами</item>
-        <item>IKEv2/IPSec VPN із сертифікатами</item>
+        <item>VPN-підключення за протоколом IKEv2/IPSec із сертифікатами й автентифікацією імен користувачів або паролів</item>
+        <item>VPN-підключення за протоколом IKEv2/IPSec зі спільними ключами</item>
+        <item>VPN-підключення за протоколом IKEv2/IPSec із сертифікатами</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Пристрій підключений, створення сесії…</item>
@@ -1481,7 +1481,7 @@
         <item>Слабкий</item>
         <item>Слабкий</item>
         <item>Задовільний</item>
-        <item>Добрий</item>
+        <item>Хороший</item>
         <item>Відмінний</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">

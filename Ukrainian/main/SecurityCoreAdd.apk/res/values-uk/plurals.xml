@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fileCount">
-        <item quantity="other">%d елементів</item>
-        <item quantity="one">%d елемент</item>
-        <item quantity="few">%d елементи</item>
-        <item quantity="many">%d елементів</item>
+        <item quantity="other">Елементів: %d</item>
+        <item quantity="one">Елементів: %d</item>
+        <item quantity="few">Елементів: %d</item>
+        <item quantity="many">Елементів: %d</item>
     </plurals>
     <plurals name="first_space_notification_format">
-        <item quantity="other">%d сповіщень першого простору</item>
-        <item quantity="one">%d сповіщення першого простору</item>
-        <item quantity="few">%d сповіщення першого простору</item>
-        <item quantity="many">%d сповіщень першого простору</item>
+        <item quantity="other">%d сповіщень у Першому просторі</item>
+        <item quantity="one">%d сповіщення у Першому просторі</item>
+        <item quantity="few">%d сповіщення у Першому просторі</item>
+        <item quantity="many">%d сповіщень у Першому просторі</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">Пошук серед %d програм</item>
-        <item quantity="one">Пошук серед %d програми</item>
-        <item quantity="few">Пошук серед %d програм</item>
-        <item quantity="many">Пошук серед %d програм</item>
+        <item quantity="other">Пошук %d програм</item>
+        <item quantity="one">Пошук %d програми</item>
+        <item quantity="few">Пошук %d програм</item>
+        <item quantity="many">Пошук %d програм</item>
     </plurals>
     <plurals name="second_space_notification_format">
-        <item quantity="other">%d сповіщень другого простору</item>
-        <item quantity="one">%d сповіщення другого простору</item>
-        <item quantity="few">%d сповіщення другого простору</item>
-        <item quantity="many">%d сповіщень другого простору</item>
+        <item quantity="other">%d сповіщення у Другому просторі</item>
+        <item quantity="one">%d сповіщень у Другому просторі</item>
+        <item quantity="few">%d сповіщення у Другому просторі</item>
+        <item quantity="many">%d сповіщень у Другому просторі</item>
     </plurals>
     <plurals name="xspace_guide_content">
         <item quantity="other">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>

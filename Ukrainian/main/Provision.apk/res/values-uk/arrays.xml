@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="other_settings_auto_update_entries">
-        <item>По Wi-Fi та мобільному інтернету</item>
-        <item>Лише по Wi-Fi</item>
-        <item>Вимкнено</item>
+        <item>Wi-Fi та мобільний інтернет</item>
+        <item>Тільки Wi-Fi</item>
+        <item>Немає</item>
     </string-array>
 </resources>

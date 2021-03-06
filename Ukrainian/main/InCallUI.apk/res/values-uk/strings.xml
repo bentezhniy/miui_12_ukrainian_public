@@ -189,7 +189,7 @@
     <string name="user_locked_prompt">Необхідно розблокувати пристрій</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Недостатньо пропускної здатності, зниження на голосовий виклик</string>
     <string name="video_conference_caller_info_name">"Відеоконференція %1$s"</string>
-    <string name="video_crbt_title">"Кольорове підсвічування %s"</string>
+    <string name="video_crbt_title">"Відтворюється відеосигнал іншої сторони"</string>
     <string name="voicemail">Голосова пошта</string>
     <string name="volte_call">Виклик VoLTE</string>
     <string name="volume_boost_text">Гучність збільшена</string>

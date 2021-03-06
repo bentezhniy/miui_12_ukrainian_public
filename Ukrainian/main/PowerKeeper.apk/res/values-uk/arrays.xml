@@ -2,32 +2,32 @@
 <resources>
     <string-array name="emode_app_groups">
         <item>Системні програми</item>
-        <item>Встановлені програми</item>
+        <item>Інші програми</item>
         <item>Вибрані програми</item>
     </string-array>
     <string-array name="hmode_app_classify1">
-        <item>Користувацькі налаштування</item>
-        <item>Налаштування системи</item>
+        <item>Персональні налаштування</item>
+        <item>Розумний режим</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Активні програми</item>
         <item>Неактивні програми</item>
     </string-array>
     <string-array name="pc_manage_active_app_items">
-        <item>Закрити програми</item>
-        <item>Налаштувати фоновий режим</item>
+        <item>Зробити неактивним</item>
+        <item>Контроль фонової активності</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Продуктивність</item>
-        <item>Баланс</item>
+        <item>Збалансований</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Режим термоконтролю за замовчуванням</item>
+        <item>Температурний режим за замовчуванням</item>
         <item>Режим продуктивності</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Пріоритет контролю температури</item>
-        <item>Пріоритет високої продуктивності</item>
-        <item>Конфігурація вимкнена в режимі енергозбереження</item>
+        <item>Пріоритет продуктивності</item>
+        <item>Не підтримується в режимі максимальної економії</item>
     </string-array>
 </resources>

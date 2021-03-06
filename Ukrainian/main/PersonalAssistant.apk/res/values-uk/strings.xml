@@ -914,7 +914,7 @@ ID:%s
     <string name="express_setting_request_failed">"Не вдалося надіслати запит. Код помилки: %s."</string>
     <string name="express_setting_service_provider">Постачальник послуг</string>
     <string name="express_setting_service_unavailable">Сервіс недоступний. Будь ласка, спробуйте пізніше.</string>
-    <string name="express_setting_sim_card_index">"SIM слот %d"</string>
+    <string name="express_setting_sim_card_index">"SIM "</string>
     <string name="express_setting_subscribe_phone_failed">Помилка додавання номера</string>
     <string name="express_setting_subscribe_phone_success">Номер доданий</string>
     <string name="express_setting_supported_orders">Підтримуються більшість поштових відправлень</string>

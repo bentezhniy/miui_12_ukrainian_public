@@ -68,7 +68,7 @@
     </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Висока швидкість</item>
-        <item>Збалансований</item>
+        <item>Збалансовано</item>
         <item>Висока якість</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture_value">

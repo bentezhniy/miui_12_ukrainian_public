@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_repeat_type">
-        <item>Одноразово</item>
-        <item>Щоденно</item>
+        <item>Один раз</item>
+        <item>Кожного дня</item>
         <item>У робочі дні</item>
         <item>По буднях</item>
-        <item>Обрати дні</item>
+        <item>Власний</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Одноразово</item>
-        <item>Щоденно</item>
+        <item>Один раз</item>
+        <item>Кожного дня</item>
         <item>По буднях</item>
-        <item>Обрати дні</item>
+        <item>Власний</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
@@ -74,14 +74,14 @@
     </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Всі записи</item>
-        <item>Autostart</item>
-        <item>Ланцюговий старт</item>
+        <item>Автозапуск</item>
+        <item>Ланцюжковий запуск</item>
         <item>Використання дозволів</item>
-        <item>Дражливі дії</item>
+        <item>Конфіденційні дії</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>Графічний ключ</item>
-        <item>Код</item>
+        <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
     <string-array name="cellular_data_unit">
@@ -94,10 +94,10 @@
         <item>Щоденний план</item>
     </string-array>
     <string-array name="daily_brand">
-        <item>Користувацька</item>
-        <item>Карта Mi Fan</item>
-        <item>Сяо Тяньшен</item>
-        <item>Платент королівську картку</item>
+        <item>Власний</item>
+        <item>Карта Мі фана</item>
+        <item>Карта Xiao Tiansheng</item>
+        <item>Карта Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Користувацька</item>
@@ -107,42 +107,42 @@
         <item>Банківська картка</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"Вчора (мобільний інтернет)"</item>
-        <item>"Сьогодні (мобільний інтернет)"</item>
-        <item>"Минулий місяць (мобільний інтернет)"</item>
-        <item>"Поточний місяць (мобільний інтернет)"</item>
+        <item>"Вчора (3G/4G) "</item>
+        <item>"Сьогодні (3G/4G) "</item>
+        <item>"За минулий місяць (3G/4G) "</item>
+        <item>"За місяць (3G/4G) "</item>
         <item>"Вчора (Wi-Fi)"</item>
-        <item>"Сьогодні (Wi-Fi)"</item>
-        <item>"Минулий місяць (Wi-Fi)"</item>
-        <item>"Поточний місяць (Wi-Fi)"</item>
+        <item>"Сьогоднi (Wi-Fi) "</item>
+        <item>"За минулий мiсяць (Wi-Fi) "</item>
+        <item>"За мiсяць (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Вчора "</item>
         <item>"Сьогодні "</item>
-        <item>"Минулий місяць "</item>
-        <item>"Поточний місяць "</item>
+        <item>"За минулий місяць "</item>
+        <item>"За місяць "</item>
     </string-array>
     <string-array name="date_of_traffic_cmcc">
-        <item>"На цьому тижні "</item>
+        <item>"Цього тижня "</item>
         <item>"Сьогодні "</item>
-        <item>"Минулий місяць "</item>
+        <item>"За місяць "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>"Вчора "</item>
-        <item>"Сьогодні "</item>
-        <item>"Минулий місяць "</item>
-        <item>"Поточний місяць "</item>
+        <item>"Вчора% "</item>
+        <item>"Сьогодні: "</item>
+        <item>"За минулий місяць: "</item>
+        <item>"За місяць: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"На цьому тижні: "</item>
+        <item>"Цього тижня: "</item>
         <item>"Сьогодні: "</item>
-        <item>"В цьому місяці: "</item>
+        <item>"За місяць: "</item>
     </string-array>
     <string-array name="debug_open_intercept">
-        <item>Можна буде отримати доступ до файлів і редагувати на вашому пристрої за допомогою комп\'ютера.</item>
-        <item>Встановлення програм на вашому пристрої без вашого явного дозволу буде дозволено.</item>
-        <item>"Ви зможете відслідковувати та записувати вміст екрана дистанційно."</item>
-        <item>Докладно отримати доступ до інформації про ваш пристрій.</item>
+        <item>Ви зможете отримати доступ до файлів на вашому пристрої і редагувати їх за допомогою комп\'ютера.</item>
+        <item>Буде дозволено встановлення програм на вашому пристрої без вашого явного дозволу</item>
+        <item>"Ви зможете віддалено контролювати і записувати вміст вашого екрану."</item>
+        <item>Буде можливо отримати детальну інформацію про ваш пристрій.</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Так</item>
@@ -156,43 +156,43 @@
         <item>Найвищий</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>Після блокування екрану</item>
-        <item>Відразу після виходу з програми</item>
-        <item>Через хвилину після виходу з програми</item>
+        <item>Коли пристрій заблоковано</item>
+        <item>Коли пристрій заблоковано або після виходу з програми</item>
+        <item>Коли пристрій заблоковано або через 1 хвилину після виходу з програми</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Мобільний трафік "</item>
+        <item>"Трафік 3G/4G "</item>
         <item>"Трафік Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
-        <item>Важливо: багато системних додатків можуть перестати працювати належним чином.</item>
-        <item>Текстові макети, аккаунти та вміст може відображатися не коректно.</item>
+        <item>Важливо: декілька системних програм можуть перестати працювати належним чином.</item>
+        <item>Текст, акаунти і контент можуть відображатися неправильно.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Попереджувати про трафік</item>
-        <item>Відключати інтернет</item>
+        <item>Показувати попередження</item>
+        <item>Попереджувати та відключати мобільний інтернет</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
-        <item>Типово</item>
+        <item>За замовчуванням</item>
         <item>Пріоритет продуктивності</item>
     </string-array>
     <string-array name="pc_settings_thermal_summaries">
-        <item>Використовується режим контролю температури за замовчуванням</item>
+        <item>Використанян температурного режиму за замовчуванням</item>
         <item>Пріоритет продуктивності</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Прочитайте усі ваші повідомлення, разом із вмістом ваших текстових повідомлень та інших предметів, які можуть містити особисту інформацію</item>
-        <item>Обмежити дозволи для сповіщень для деяких програм</item>
-        <item>Імітувати сенсорні сповіщення і відкриті програми</item>
-        <item>Увімкнути та вимкнути режим DND</item>
+        <item>Читати всі ваші сповіщення, включаючи повідомлення та інші об\'єкти, які можуть містити особисту інформацію.</item>
+        <item>Обмежити дозволи сповіщень для деяких програм</item>
+        <item>Імітація натискання повідомлень і відкриття програм</item>
+        <item>Вмикання та вимикання Режиму \"Не турбувати\"</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
-        <item>Збирайте дані про ваші інтереси та поведінку, вивчаючи програми та частоту їх використання</item>
-        <item>Доступ до налаштувань мови, пов\'язаних з перевізником та мовою, а також до деталей</item>
+        <item>Збирати дані про ваші інтереси та поведінку, вивчивши, які програми та як часто ви використовуєте</item>
+        <item>Отримайте доступ до ваших налаштувань, пов\'язаних з оператором і мовою, а також до інших деталей</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Сторонні програми, що не були перевірені, можуть спричинити різноманітні проблеми та знизити стабільність системи."</item>
-        <item>Деякі програми можуть містити шкідливі програми, які ставлять під загрозу ваші особисті дані.</item>
+        <item>"Сторонні програми, які не є перевіреними, можуть викликати безліч проблем і знизити стабільність системи."</item>
+        <item>Деякі сторонні програми можуть містити шкідливі програми, які піддають ризику ваші персональні дані.</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Внутрішня пам\'ять</item>
@@ -200,36 +200,36 @@
     </string-array>
     <string-array name="roaming_network_type">
         <item>Завжди</item>
-        <item>Тільки для виключень</item>
+        <item>Тільки для винятків</item>
         <item>Ніколи</item>
     </string-array>
     <string-array name="sms_report_type">
-        <item>Трафік</item>
+        <item>Використання даних</item>
         <item>Баланс</item>
     </string-array>
     <string-array name="sort_title">
-        <item>Сортування за статусом</item>
-        <item>Сортування за назвою</item>
-        <item>Сортування за використанням</item>
-        <item>Сортування за розміром</item>
-        <item>Сортування за порядком інсталяції</item>
+        <item>Сортувати за статусом</item>
+        <item>Сортувати за іменем програми</item>
+        <item>Сортувати за частотою використання</item>
+        <item>Сортувати за зайнятим місцем</item>
+        <item>Сортувати за часом встановлення</item>
     </string-array>
     <string-array name="sort_type">
         <item>Статус</item>
-        <item>Назва</item>
-        <item>Використання</item>
-        <item>Розмір</item>
-        <item>Час інсталяції</item>
+        <item>Ім\'я програми</item>
+        <item>Частота використання</item>
+        <item>Займане місце</item>
+        <item>Час встановлення</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
-        <item>Попереджати про трафік</item>
-        <item>Вимикати інтернет</item>
+        <item>Вимикати та повідомляти</item>
+        <item>Повідомляти</item>
     </string-array>
     <string-array name="title_app_info">
-        <item>Джерело інсталяції</item>
-        <item>Час інсталяції</item>
-        <item>Джерело оновлення</item>
-        <item>Востаннє оновлено</item>
+        <item>Джерело встановлення</item>
+        <item>Час встановлення</item>
+        <item>Джерело останнього оновлення</item>
+        <item>Час останнього оновлення</item>
     </string-array>
     <string-array name="traffic_package_type">
         <item>Місячний тарифний план</item>
@@ -237,7 +237,7 @@
         <item>Безлімітний тарифний план</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"за мобільним трафіком "</item>
-        <item>"за Wi-Fi трафіком "</item>
+        <item>"Трафік 3G/4G "</item>
+        <item>"Трафік Wi-Fi "</item>
     </string-array>
 </resources>

@@ -269,7 +269,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">"Не вдалося відновити робочий стіл."</string>
     <string name="restore_home_screen_apps">Відновити із Xiaomi Cloud</string>
     <string name="restore_init_description">Почати відновлення</string>
-    <string name="restore_network_pause">%s (Натисніть для продовження)</string>
+    <string name="restore_network_pause">Призупинено для збереження мобільних даних. Торкніться, щоб відновити.</string>
     <string name="restore_network_unconnect">%s (Очікування підключення)</string>
     <string name="restore_task_cancelling">Скасування…</string>
     <string name="restore_task_in_process">Відновлення…</string>

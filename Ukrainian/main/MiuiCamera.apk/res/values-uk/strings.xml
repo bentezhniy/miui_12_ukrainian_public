@@ -1076,7 +1076,7 @@
     <string name="pref_camera_device_watermark_title">Водяний знак пристрою</string>
     <string name="pref_camera_dual_enable_title">Увімкнути подвійну камеру</string>
     <string name="pref_camera_dual_sat_enable_title">Увімкнути подвійну SAT-камеру</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Зменшувати частоту кадрів під час зйомки в умовах низької освітленості з %1$d до %2$d кадрів/с, щоб покращити якість відео.</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Автоматично зменшувати частоту кадрів при низькому освітленні, щоб покращити якість відео</string>
     <string name="pref_camera_dynamic_frame_rate_title">Регулювати частоту кадрів в умовах низького освітлення</string>
     <string name="pref_camera_eis_entry_normal">Стабільне відео</string>
     <string name="pref_camera_eis_entry_off">Вимкнено</string>
