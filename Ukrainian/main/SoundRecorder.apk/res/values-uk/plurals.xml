@@ -55,28 +55,28 @@
         <item quantity="many">%d хв. тому</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">Видалення %d записів</item>
-        <item quantity="one">Видалення %d запису</item>
-        <item quantity="few">Видалення %d записів</item>
-        <item quantity="many">Видалення %d записів</item>
+        <item quantity="other">Видалити %d записів</item>
+        <item quantity="one">Видалити %d запис</item>
+        <item quantity="few">Видалити %d записи</item>
+        <item quantity="many">Delete %d recordings</item>
     </plurals>
     <plurals name="choose_call_records_count">
-        <item quantity="other">%d записів</item>
-        <item quantity="one">%d запис</item>
-        <item quantity="few">%d записи</item>
-        <item quantity="many">%d записів</item>
+        <item quantity="other">%d об\'єктів</item>
+        <item quantity="one">%d об\'єкт</item>
+        <item quantity="few">%d об\'єкта</item>
+        <item quantity="many">%d об\'єктів</item>
     </plurals>
     <plurals name="confirm_delete_cloud_records">
-        <item quantity="other">Видалити %d записів з хмари?</item>
+        <item quantity="other">Видалити %d записів із хмари?</item>
         <item quantity="one">Видалити %d запис із хмари?</item>
-        <item quantity="few">Видалити %d записи з хмари?</item>
-        <item quantity="many">Видалити %d записів з хмари?</item>
+        <item quantity="few">Видалити %d записа із хмари?</item>
+        <item quantity="many">Видалити %d записів із хмари?</item>
     </plurals>
     <plurals name="confirm_delete_records">
-        <item quantity="other">Видалити %d запис?</item>
+        <item quantity="other">Видалити %d записів?</item>
         <item quantity="one">Видалити %d запис?</item>
-        <item quantity="few">Видалити %d запис?</item>
-        <item quantity="many">Видалити %d запис?</item>
+        <item quantity="few">Видалити %d записа?</item>
+        <item quantity="many">Видалити %d записів?</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Півгодини тому</item>
@@ -118,7 +118,7 @@
         <item quantity="other">%d записів</item>
         <item quantity="one">%d запис</item>
         <item quantity="few">%d записи</item>
-        <item quantity="many">%d записів</item>
+        <item quantity="many">%d items</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d елементів вибрано</item>
@@ -127,10 +127,10 @@
         <item quantity="many">%d елементів вибрано</item>
     </plurals>
     <plurals name="notification_warning">
-        <item quantity="other">Пам\'ять закінчується (менше %d хвилин)</item>
-        <item quantity="one">Пам\'ять закінчується (менше %d хвилини)</item>
-        <item quantity="few">Пам\'ять закінчується (менше %d хвилин)</item>
-        <item quantity="many">Пам\'ять закінчується (менше %d хвилин)</item>
+        <item quantity="other">Мало пам\'яті (залишилося менше %d хв)</item>
+        <item quantity="one">Мало пам\'яті (залишилося менше %d хв)</item>
+        <item quantity="few">Мало пам\'яті (залишилося менше %d хв)</item>
+        <item quantity="many">Мало пам\'яті (залишилося менше %d хв)</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвилин тому</item>
@@ -139,22 +139,22 @@
         <item quantity="many">%d хвилин тому</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">Завантажено %d записів</item>
-        <item quantity="one">Завантажений %d запис</item>
-        <item quantity="few">Завантажені %d записи</item>
-        <item quantity="many">Завантажено %d записів</item>
+        <item quantity="other">%d записи завантажені</item>
+        <item quantity="one">%d запис завантажений</item>
+        <item quantity="few">%d записи завантажені</item>
+        <item quantity="many">%d recordings downloaded</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
-        <item quantity="other">"Не вдалося відновити %d елементів через невідому помилку."</item>
-        <item quantity="one">"Не вдалося відновити %d елемент через невідому помилку."</item>
-        <item quantity="few">"Не вдалося відновити %d елементів через невідому помилку."</item>
-        <item quantity="many">"Не вдалося відновити %d елементів через невідому помилку."</item>
+        <item quantity="other">"Не вдалося відновити %d об'єктів через невідому помилку."</item>
+        <item quantity="one">"Не вдалося відновити %d об'єкт через невідому помилку."</item>
+        <item quantity="few">"Не вдалося відновити %d об'єкта через невідому помилку."</item>
+        <item quantity="many">"Не вдалося відновити %d об'єктів через невідому помилку."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">Пошук серед %d записів</item>
-        <item quantity="one">Пошук серед %d запису</item>
-        <item quantity="few">Пошук серед %d записів</item>
-        <item quantity="many">Пошук серед %d записів</item>
+        <item quantity="other">Шукати серед %d записів</item>
+        <item quantity="one">Шукати серед %d запису</item>
+        <item quantity="few">Шукати серед %d записів</item>
+        <item quantity="many">Шукати серед %d записів</item>
     </plurals>
     <plurals name="search_app_records_hint">
         <item quantity="other">Пошук серед %d записів</item>
@@ -163,39 +163,39 @@
         <item quantity="many">Пошук серед %d записів</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Пошук серед %d записів викликів</item>
-        <item quantity="one">Пошук серед %d запису дзвінка</item>
-        <item quantity="few">Пошук серед %d записів викликів</item>
-        <item quantity="many">Пошук серед %d записів викликів</item>
+        <item quantity="other">Шукати серез %d записів викликів</item>
+        <item quantity="one">Шукати серез %d запису виклику</item>
+        <item quantity="few">Шукати серез %d записів викликів</item>
+        <item quantity="many">Шукати серез %d записів викликів</item>
     </plurals>
     <plurals name="search_result">
-        <item quantity="other">Знайдений %d запис</item>
-        <item quantity="one">Знайдений %d запис</item>
-        <item quantity="few">Знайдений %d запис</item>
-        <item quantity="many">Знайдений %d запис</item>
+        <item quantity="other">Було знайдено %d записів</item>
+        <item quantity="one">Було знайдено %d запис</item>
+        <item quantity="few">Було знайдено %d записа</item>
+        <item quantity="many">Було знайдено %d записів</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
-        <item quantity="other">лишилося %d днів</item>
-        <item quantity="one">лишився %d день</item>
-        <item quantity="few">лишилося %d днів</item>
-        <item quantity="many">лишилося %d днів</item>
+        <item quantity="other">Залишилося днів: %d</item>
+        <item quantity="one">Залишилося днів: %d</item>
+        <item quantity="few">Залишилося днів: %d</item>
+        <item quantity="many">Залишилося днів: %d</item>
     </plurals>
     <plurals name="trash_box_delete_items">
-        <item quantity="other">Видалити назавжди %d вибраних записів?</item>
-        <item quantity="one">Видалити остаточно %d вибраний запис?</item>
-        <item quantity="few">Видалити назавжди %d вибраних записів?</item>
-        <item quantity="many">Видалити назавжди %d вибраних записів?</item>
+        <item quantity="other">Видалити %d вибраних записів назавжди?</item>
+        <item quantity="one">Видалити %d вибраний запис назавжди?</item>
+        <item quantity="few">Видалити %d вибраних записи назавжди?</item>
+        <item quantity="many">Видалити %d вибраних записів назавжди?</item>
     </plurals>
     <plurals name="trash_box_tip">
-        <item quantity="other">Видалені елементи можуть зберігатися в смітнику до %d днів</item>
-        <item quantity="one">Видалені елементи можуть зберігатися в смітнику до %d днів</item>
-        <item quantity="few">Видалені елементи можуть зберігатися в смітнику до %d днів</item>
-        <item quantity="many">Видалені елементи можуть зберігатися в смітнику до %d днів</item>
+        <item quantity="other">Видалені об\'єкти можуть зберігатися у смітнику до %d дн</item>
+        <item quantity="one">Видалені об\'єкти можуть зберігатися у смітнику до %d дн</item>
+        <item quantity="few">Видалені об\'єкти можуть зберігатися у смітнику до %d дн</item>
+        <item quantity="many">Видалені об\'єкти можуть зберігатися у смітнику до %d дн</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item quantity="other">%d записів не синхронізовано</item>
-        <item quantity="one">%d запис не синхронізований</item>
-        <item quantity="few">%d записи не синхронізовані</item>
-        <item quantity="many">%d записів не синхронізовано</item>
+        <item quantity="other">%d не синхронізовано</item>
+        <item quantity="one">%d не синхронізовано</item>
+        <item quantity="few">%d не синхронізовано</item>
+        <item quantity="many">%d not synced</item>
     </plurals>
 </resources>

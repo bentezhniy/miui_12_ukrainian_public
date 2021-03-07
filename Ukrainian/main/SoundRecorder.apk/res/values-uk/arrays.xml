@@ -76,24 +76,24 @@
         <item>Низька </item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3, 192 Кбіт/с, 90 МБ/г</item>
-        <item>MP3, 100 Кбіт/с, 45 МБ/г</item>
-        <item>MP3, 75 Кбіт/с, 32 МБ/г</item>
+        <item>MP3, ~192Кбіт/с, ~90Мб/г</item>
+        <item>MP3, ~100Кбіт/с, ~45Мб/г</item>
+        <item>MP3, ~75Кбіт/с, ~32Мб/г</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Музика</item>
-        <item>Голос</item>
+        <item>Для музики</item>
+        <item>Для голосу</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Запис двохканального Stereo звуку</item>
-        <item>Запис голосу однієї людини</item>
-        <item>Запис голосу кількох людей</item>
-        <item>Запис звуку на відстані 10 метрів</item>
+        <item>Записувати музику з кращою якістю</item>
+        <item>Перемістіть мікрофон ближче до джерела звуку для кращої якості</item>
+        <item>Помістіть телефон між 2 людьми, щоб краще записати їх розмову</item>
+        <item>Технологія HDR дозволяє записувати більш детальний звук</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-        <item>Запис звуку у режимі стерео</item>
-        <item>Запис голосу однієї людини</item>
-        <item>Запис голосу декількох людей</item>
-        <item>Запис звуку на відстані 10 метрів</item>
+        <item>Запис через два канали, прослуховування стерео звуку в навушниках</item>
+        <item>Перемістіть мікрофон ближче до джерела звуку для кращої якості</item>
+        <item>Помістіть телефон між 2 людьми, щоб краще записати їх розмову</item>
+        <item>Технологія HDR дозволяє записувати більш детальний звук</item>
     </string-array>
 </resources>

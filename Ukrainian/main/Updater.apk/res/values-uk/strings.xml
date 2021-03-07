@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Помічник натискань</string>
+    <string name="app_name">Оновлення</string>
     <string name="battery_islow">&lt;font color=#f37981&gt;Підключіть зарядний пристрій&lt;/font&gt;</string>
     <string name="battery_islow_desc">Рівень заряду акумулятора замалий для встановлення zip-файлу. Підключіть його до зарядки та повторіть спробу пізніше!</string>
     <string name="btn_changelog">Список змін</string>
@@ -35,9 +35,9 @@
     <string name="install_desc">Пристрій буде перезавантажений в Recovery і буде встановити обраний файл: <b>%1$s</b>
 Дані не будуть очищені.\"</string>
     <string name="install_title">Впевнені, що хочете продовжити?</string>
-    <string name="menu_title_current_version_log">Що нового?</string>
-    <string name="menu_title_pick_rom_file">Виберіть пакет оновлення</string>
-    <string name="menu_title_recovery">Перезавантажити в режим відновлення</string>
+    <string name="menu_title_current_version_log">Список змін</string>
+    <string name="menu_title_pick_rom_file">Вибрати файл прошивки</string>
+    <string name="menu_title_recovery">Перезавантажити в режим Recovery</string>
     <string name="message_checkbox">Приховати майбутні повідомлення від команди Xiaomi.eu</string>
     <string name="message_checkbox_device">Не показувати знову</string>
     <string name="message_title">ПРИМІТКА!</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="crop_wallpaper">Обрізка шпалер</string>
-    <string name="wallpaper_instructions">Встановити шпалери</string>
-    <string name="wallpaper_load_fail">"Неможливо встановити зображення як шпалери"</string>
+    <string name="crop_wallpaper">Обрізати фоновий малюнок</string>
+    <string name="wallpaper_instructions">Установити фон</string>
+    <string name="wallpaper_load_fail">"Не вдалося завантажити зображення як фоновий малюнок"</string>
 </resources>

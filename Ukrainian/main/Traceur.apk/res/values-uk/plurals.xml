@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_categories_selected">
-        <item quantity="other">%d обрано</item>
-        <item quantity="one">%d обрано</item>
-        <item quantity="few">%d обрано</item>
-        <item quantity="many">%d обрано</item>
+        <item quantity="other">Вибрано: %d</item>
+        <item quantity="one">Вибрано: %d</item>
+        <item quantity="few">Вибрано: %d</item>
+        <item quantity="many">Вибрано: %d</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d пристрій підключено</item>
-        <item quantity="one">%1$d пристрій підключено</item>
-        <item quantity="few">%1$d пристрій підключено</item>
-        <item quantity="many">%1$d пристрій підключено</item>
+        <item quantity="other">Під’єднано %1$d пристрою</item>
+        <item quantity="one">Під’єднано %1$d пристрій</item>
+        <item quantity="few">Під’єднано %1$d пристрої</item>
+        <item quantity="many">Під’єднано %1$d пристроїв</item>
     </plurals>
 </resources>
