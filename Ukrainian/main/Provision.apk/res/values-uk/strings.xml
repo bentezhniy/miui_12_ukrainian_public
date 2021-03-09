@@ -313,6 +313,15 @@
 2. При прослуховуванні музики з вимкненим екраном."</string>
     <string name="voice_assist_desp">Скажіть \"Mi AI\" своєму телефону. Mi AI розпізнає ваш голос та допоможе керувати пристроєм.</string>
     <string name="voice_assist_title">Голосовий помічник</string>
+    <string name="wc_dialog_agree">Погоджуюсь</string>
+    <string name="wc_dialog_reject">"Не погоджуйтеся"</string>
+    <string name="wc_dialog_summary">Шпалери Карусель надає приголомшливі зображення і захоплюючі історії на ваш екран блокування щодня.</string>
+    <string name="wc_dialog_title">Реформатований екран блокування</string>
+    <string name="wc_double_check_agree">Спробувати</string>
+    <string name="wc_double_check_reject">Ні, дякую</string>
+    <string name="wc_double_check_summary">Ви можете включити шпалер Карусель, щоб перевірити, чи працює він для вас. Пам\'ятайте, що ви завжди можете включити і виключити шпалери в меню Налаштування &gt; Блокування екрана.</string>
+    <string name="wc_double_check_title">Спробувати шпалери Карусель</string>
+    <string name="wc_notice_link_announcement_summary">"Прочитайте і погодьтеся з постачальником стороннього контенту &lt;a href=\"%1$s\"&gt;Політика конфіденційності&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Угоди про Угода користувача&lt;/a&gt; перед використанням цієї функції."</string>
     <string name="welcome">Ласкаво просимо</string>
     <string name="zone_picker_title">Оберіть часовий пояс</string>
 </resources>

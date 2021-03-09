@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -142,7 +142,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="data_detail_description">Деталі</string>
     <string name="data_item_desc">Мобільний інтернет</string>
     <string name="data_no_enough_space_message">"Недостатньо місця на пристрої."</string>
-    <string name="date_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="date_format">d.MM.yyyy HH:mm:ss</string>
     <string name="delete">Видалити</string>
     <string name="delete_backup_process">Видалення…</string>
     <string name="delete_backup_title">Видалити бекап</string>

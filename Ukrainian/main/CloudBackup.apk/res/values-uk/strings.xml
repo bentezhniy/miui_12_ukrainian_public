@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -75,6 +75,7 @@
     <string name="btn_retry">Перевірити ще раз</string>
     <string name="btn_skip">Пропустити цей крок</string>
     <string name="button_cancel">Скасувати</string>
+    <string name="button_confirm">Зрозуміло</string>
     <string name="button_delete">Видалити</string>
     <string name="button_next">Далі</string>
     <string name="can_not_backup_in_lite_mode">"Неможливо створити бекап у Простому режимі"</string>
@@ -222,6 +223,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Увімкніть резервування</string>
     <string name="other_device_main_space">Перший простір</string>
     <string name="other_device_second_space">Другий простір</string>
+    <string name="pc_mode_not_support_restore_warning">"Не вдалося відновити елементи в режимі ПК. Вимкніть режим ПК і повторіть спробу."</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="process_whole_recovery">Відновлення \"%s\"</string>
     <string name="provision_back">Відмінити</string>

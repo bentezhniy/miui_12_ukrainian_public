@@ -8,7 +8,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -1438,6 +1438,9 @@
     <string name="bt_ldac_open_dialog_summary">LDAC забезпечує високу якість звуку, але одночасно призводить до більш високих енергозатрат. Під час відтворення можуть виникати проблеми через програмні обмеження Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Увімкнути LDAC?</string>
     <string name="bt_ldac_property">Властивості</string>
+    <string name="bt_leaudio_open_dialog_summary">"Ви не зможете підключити кілька пристроїв до гарнітури під час увімкнення LC3. Інші підключені пристрої буде відключено, якщо ви включите цю функцію. Все одно вмикати LC3?"</string>
+    <string name="bt_leaudio_open_dialog_title">Увага</string>
+    <string name="bt_leaudio_summary">Високоякісний вигляд аудіо</string>
     <string name="bt_lhdc_declaration">Якщо пристрій Bluetooth підтримує LHDC, то він буде увімкнений за замовчуванням. LHDC забезпечує високу якість звуку та зменшує затримку під час гри, але одночасно призводить до більш високих енергозатрат. Під час відтворення можуть виникати проблеми через програмні обмеження Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">LHDC дозволяє відтворювати високу якість звуку та зменшує затримку під час гри, але також призводить до збільшення споживання енергії. Цю функцію можна відключити в Налаштуваннях.</string>
     <string name="bt_lhdc_dialog_title">Поточний пристрій підтримує LНDC, який був увімкнений за замовчуванням:</string>
@@ -7133,7 +7136,6 @@ OTG автоматично відключається через 10 хвилин
     <string name="switch_access_service_on">Switch Access</string>
     <string name="switch_bootup_sound">Аудіо завантаження</string>
     <string name="switch_headset_anti_lost">Відсутнє оповіщення навушників</string>
-    <string name="switch_headset_anti_lost_summary">Отримувати оповіщення кожного разу, коли один з ваших навушників не вистачає на хвилину</string>
     <string name="switch_headset_anti_lost_title">Відсутнє оповіщення навушників</string>
     <string name="switch_off_text">Вимкнено</string>
     <string name="switch_on_text">Увімкнено</string>

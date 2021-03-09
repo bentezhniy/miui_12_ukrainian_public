@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -98,7 +98,7 @@
     <string name="convertion_unit_volume">Конвертер об\'єму</string>
     <string name="convertion_unit_weight">Конвертер маси</string>
     <string name="cosDesc">косинус</string>
-    <string name="currency_dialog_privacy_content"><Data>Конвертер валют повинен підключатися до інтернету, щоб отримувати останні дані щодо курсів обміну валют. Прочитайте та погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Угодою користувача&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Політикою конфіденційності&lt;/a&gt; перед використанням цієї функції.</Data></string>
+    <string name="currency_dialog_privacy_content">&lt;Data&gt;Конвертер валют повинен підключатися до інтернету, щоб отримувати останні дані щодо курсів обміну валют. Прочитайте та погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Угодою користувача&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Політикою конфіденційності&lt;/a&gt; перед використанням цієї функції.&lt;/Data&gt;</string>
     <string name="currency_update_connect_to_get_data">Курси обміну валют надані Webull. Підключіться до мережі, щоб отримати останню інформацію.</string>
     <string name="currency_update_support">Курси валют надаються Webull.</string>
     <string name="currency_update_time_format">Курси валют надаються Webull (%s)</string>

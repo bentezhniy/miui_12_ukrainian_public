@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -88,6 +88,7 @@
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="gradienter_title">Рівень</string>
     <string name="guide_toast">Виконайте калібрування, обертаючи телефон так, як показано нижче.</string>
     <string name="keywords_search_compass">Компас;Калібрування компасу;Тиск;Широта;Довгота;Висота;MIUI компас;Сторони світу;Північ;Південь;Захід;Схід;Місцерозташування</string>
     <string name="latitude">Широта</string>

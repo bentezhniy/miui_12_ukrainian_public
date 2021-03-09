@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">Помічник AI Call</string>
     <string name="ai_assistant_not_installed">Встановити AI Call Assistant спочатку</string>
+    <string name="ai_dial">AI виклик</string>
     <string name="ai_mode_auto">Авто</string>
     <string name="ai_mode_manual">Вручну</string>
     <string name="ai_mode_subtitles">Субтитри</string>

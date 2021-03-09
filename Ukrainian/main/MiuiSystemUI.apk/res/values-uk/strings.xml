@@ -8,7 +8,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -777,6 +777,7 @@
     <string name="face_unlock_reveal_mouth">Ваші губи мають бути видимими</string>
     <string name="face_unlock_success">Успішно розблоковано</string>
     <string name="failed_to_open_app_settings_toast">"Не вдалося відкрити налаштування для %1$s"</string>
+    <string name="finger_error_single_mode">"Не вдається використовувати сканер відбитків пальців в режимі однією рукою. Закрити режим з однією рукою і повторіть спробу."</string>
     <string name="fingerprint_add_text">Було оновлено інтерфейс відбитка пальця. Додайте ваш відбиток ще раз.</string>
     <string name="fingerprint_add_title">Додати відбиток пальця</string>
     <string name="fingerprint_again_identified_msg">Ваш відбиток пальця активний. Використовуйте його для розблокування пристрою або введіть пароль.</string>

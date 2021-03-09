@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -40,6 +40,7 @@
     <string name="customization_continue">Продовжити</string>
     <string name="customization_pause_tip">Зупинити тест? Для продовження підключіть навушники.</string>
     <string name="customization_quit">Вийти</string>
+    <string name="dolby_atoms">Долбі Атмос</string>
     <string name="dolby_dax_geq_select_title">Шаблони</string>
     <string name="dolby_dax_geq_title">Графічний еквалайзер</string>
     <string name="dolby_dax_profile_dynamic">Динамічний</string>

@@ -616,6 +616,12 @@
         <item quantity="few">%1$d пропозиції</item>
         <item quantity="many">%1$d пропозицій</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Отримувати оповіщення щоразу, коли один з ваших навушників не вистачає на більше %d хвилин</item>
+        <item quantity="one">Отримувати оповіщення щоразу, коли один з ваших навушників не вистачає або заряду навушників %d хвилин</item>
+        <item quantity="few">Отримувати оповіщення щоразу, коли один з ваших навушників не вистачає на більше %d хвилин</item>
+        <item quantity="many">Отримувати оповіщення щоразу, коли один з ваших навушників не вистачає на більше %d хвилин</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d елемента</item>
         <item quantity="one">%d елемент</item>

@@ -106,7 +106,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_off">ВИМК</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -1253,6 +1253,9 @@
     <string name="message_decode_error">Під час розшифрування повідомлення сталася помилка.</string>
     <string name="mhh_disable">Медицина, здоров’я та лікарні – вимкнено</string>
     <string name="mhh_enable">Медицина, здоров’я та лікарні – увімкнено</string>
+    <string name="mi_mobile_sim_activate_message">Активуйте SIM %d щоб мати можливість використовувати Mi Mobile. Це може зайняти до 5 хвилин.</string>
+    <string name="mi_mobile_sim_activate_ok">Задіяти</string>
+    <string name="mi_mobile_sim_activate_title">Ласкаво просимо до Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Використовувати мобільний інтернет без SIM-картки</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">"Введені PIN-коди не збігаються. Повторіть спробу."</string>
@@ -2399,6 +2402,7 @@ SIM-картка буде заблокована при наступній не�
     <string name="wifi_auto_sel_wapi_cert">Вибрати автоматично</string>
     <string name="wifi_call_accept">Пропустити</string>
     <string name="wifi_call_available_message">"Тепер ви можете здійснювати дзвінки за допомогою Wi-Fi. Якщо ви підключені до мережі Wi-Fi, ви зможете говорити, навіть якщо ви перебуваєте в районах без покриття мобільної мережі."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Ви збираєтеся підключитися до Wi-Fi мережі, якість дзвінка може відрізнятися в залежності від мережі.</string>
     <string name="wifi_call_available_title">Увімкнення Wi-Fi-викликів</string>
     <string name="wifi_call_cancel">Детальніше</string>
     <string name="wifi_call_help">Довідка</string>
