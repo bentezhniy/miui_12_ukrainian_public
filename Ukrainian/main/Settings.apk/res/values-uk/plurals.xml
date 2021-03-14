@@ -349,9 +349,9 @@
         <item quantity="many">%d активних довірчих агентів</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d програм використовують пам\'ять (%2$s)</item>
+        <item quantity="other">За ост. %2$s пам’ять використовувало %1$d додатка</item>
         <item quantity="one">1 додаток використав пам\'ять за останній %2$s</item>
-        <item quantity="few">%1$d програми використовують пам\'ять (%2$s)</item>
+        <item quantity="few">За ост. %2$s пам’ять використовували %1$d додатки</item>
         <item quantity="many">За ост. %2$s пам’ять використовувало %1$d додатків</item>
     </plurals>
     <plurals name="minutes">

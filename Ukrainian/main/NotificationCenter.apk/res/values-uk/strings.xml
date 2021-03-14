@@ -198,6 +198,11 @@
     <string name="notification_aggregate_title">Групувати сповіщення</string>
     <string name="notification_display_setting">Панель сповіщень</string>
     <string name="notification_display_style">Стиль сповіщень</string>
+    <string name="notification_fold_description1">Тека сповіщень була введена в MIUI 9. Ця функція фільтрує неважливі сповіщення і кладе їх в окрему папку.</string>
+    <string name="notification_fold_description2">MIUI запам\'ятовує, які сповіщення ви натискаєте, а потім використовуйте кілька критеріїв щоб визначити, чи вони важливі.</string>
+    <string name="notification_fold_description3">"Якщо ті повідомлення, які ви розглянете все ще залишите в теці сповіщень, переконайтеся, що ви повідомляєте про такі проблеми. Ми будемо цінувати ваш відгук."</string>
+    <string name="notification_fold_footer_icon_summary">Показувати піктограми додатків коли згруповані неважливі сповіщення</string>
+    <string name="notification_fold_footer_icon_title">Показати піктограми програм</string>
     <string name="notification_fold_summary">Автоматично групувати неважливі сповіщення</string>
     <string name="notification_fold_title">Групувати сповіщення</string>
     <string name="notification_keyguard_hide_content">Показувати сповіщення, але приховати вміст</string>

@@ -187,10 +187,10 @@
         <item quantity="many">Запускалася %d років тому</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Ви можете використовувати блокування програм %1$s</item>
-        <item quantity="one">Ви можете використовувати блокування програм %1$s</item>
-        <item quantity="few">Ви можете використовувати блокування програм %1$s</item>
-        <item quantity="many">Ви можете використовувати блокування програм %1$s</item>
+        <item quantity="other">Ви можете використовувати програму Захист програм з %1$s програмами</item>
+        <item quantity="one">Ви можете використовувати програму Захист програм з %1$s програмою</item>
+        <item quantity="few">Ви можете використовувати програму Захист програм з %1$s програмами</item>
+        <item quantity="many">Ви можете використовувати програму Захист програм з %1$s програмами</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Ви можете захистити принаймні %s програм</item>
@@ -199,10 +199,10 @@
         <item quantity="many">Ви можете захистити принаймні %s програм</item>
     </plurals>
     <plurals name="applock_one_key_lock">
-        <item quantity="other">%s додатків будуть захищені блокуванням програм</item>
-        <item quantity="one">%s програму буде захищено блокуванням програм</item>
-        <item quantity="few">%s додатків будуть захищені блокуванням програм</item>
-        <item quantity="many">%s додатків будуть захищені блокуванням програм</item>
+        <item quantity="other">%s програм будуть захищені програмою Захист програм</item>
+        <item quantity="one">%s програма буде захищена програмою Захист програм</item>
+        <item quantity="few">%s програми будуть захищені програмою Захист програм</item>
+        <item quantity="many">%s програм будуть захищені програмою Захист програм</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d програм з підключеням до мережі у фоні</item>

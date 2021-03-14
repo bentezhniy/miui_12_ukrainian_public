@@ -524,15 +524,15 @@
     <string name="application_item_disable">Заборонено</string>
     <string name="applock_add_account">Додати</string>
     <string name="applock_add_account_ignore">Не зараз</string>
-    <string name="applock_add_account_ignore_with_seconds">Не зараз (%dсек)</string>
+    <string name="applock_add_account_ignore_with_seconds">Не зараз (%d сек)</string>
     <string name="applock_add_account_info">Додайте Mi акаунт, щоб мати змогу скинути ваш пароль, якщо ви його забудете.</string>
     <string name="applock_add_account_setting">Акаунт та конфіденційність</string>
-    <string name="applock_add_account_tips">"З Mi аккаунтом, ви зможете відновити блокування програми, якщо забудете її."</string>
-    <string name="applock_add_account_title">Додати свій Mi акаунт</string>
-    <string name="applock_already_add_account">Поточний обліковий запис: %s</string>
+    <string name="applock_add_account_tips">"За допомогою Mi акаунту ви зможете відновити програму Захист програм"</string>
+    <string name="applock_add_account_title">Додайте ваш Мі акаунт</string>
+    <string name="applock_already_add_account">Поточний акаунт: %s</string>
     <string name="applock_app_recommend_lock_title">Ви можете заблокувати наступні програми</string>
-    <string name="applock_bind_account_dialog_content">Ваш Mi аккаунт є єдиним способом відновити блокування додатка, якщо ви його забудете. Увійдіть, щоб додати свій Mi аккаунт</string>
-    <string name="applock_bind_account_dialog_title">Додати свій Mi акаунт</string>
+    <string name="applock_bind_account_dialog_content">Ваш Мі акаунт - це єдиний спосіб відновити програму Захист програм, якщо ви забудете пароль для неї. Увійдіть, щоб додати Мі акаунт.</string>
+    <string name="applock_bind_account_dialog_title">Додайте ваш Мі акаунт</string>
     <string name="applock_bind_account_title">Забули пароль</string>
     <string name="applock_close_dialog_summary">Приховання всіх програм буде скасовано, їх ярлики на робочому столі відновлені, а ваш пароль для Захисту програм видалено. Вимкнути Захист програм?</string>
     <string name="applock_close_dialog_title">Відключити захист?</string>
@@ -542,8 +542,8 @@
     <string name="applock_function_base_settings">Захист програм</string>
     <string name="applock_function_pwd_settings">Пароль</string>
     <string name="applock_go_to">Налаштування</string>
-    <string name="applock_guide_notification_summary">Захистіть приватність через блокування програм</string>
-    <string name="applock_guide_notification_title">Інші люди можуть бачити чутливу інформацію на екрані</string>
+    <string name="applock_guide_notification_summary">Захистіть вашу конфіденційність за допомогою Захисту програм</string>
+    <string name="applock_guide_notification_title">Інші люди можуть побачити вашу особисту інформацію на екрані</string>
     <string name="applock_guide_open_applock">Увімкнути</string>
     <string name="applock_guide_tip1">Доступна функція декількох типів паролів. Розблоковуйте програми за допомогою відбитка пальця, за допомогою обличчя або шляхом введення пароля.</string>
     <string name="applock_guide_tip1_global">Розблоковуйте програми за допомогою відбитка пальця, за допомогою обличчя або шляхом введення пароля.</string>
@@ -560,18 +560,18 @@
     <string name="applock_header_text_less_than_half">Дуже мало місця. Посуньте роздільник подалі.</string>
     <string name="applock_lock_all">Заблокувати всі</string>
     <string name="applock_login_and_add_account">ОК</string>
-    <string name="applock_no_account_login">"Ви не ввійшли до Mi аккаунту"</string>
+    <string name="applock_no_account_login">"Ви не увійшли до Мі акаунту"</string>
     <string name="applock_not_add_account"><u>Не зараз</u></string>
     <string name="applock_not_login_account">"Вхід не здійснено"</string>
-    <string name="applock_operate_faceunlock_summary">Розблокуй додатки, просто переглядаючи екран</string>
-    <string name="applock_operate_faceunlock_title">Використовувати грані дані</string>
-    <string name="applock_operate_fingerprint_summary">Підтримує блокування програм додавання декількох відбитків пальців</string>
-    <string name="applock_operate_fingerprint_title">Використовуйте свій відбиток пальця</string>
-    <string name="applock_operate_hidenoti_summary">Блокування може робити це для захищених додатків</string>
-    <string name="applock_operate_hidenoti_title">Бажаєте приховати чутливі повідомлення?</string>
-    <string name="applock_recommend_tips">%s користувачів захищають ці додатки</string>
-    <string name="applock_recommend_title">Виберіть додатки</string>
-    <string name="applock_set_complete">Використовувати блокування програм</string>
+    <string name="applock_operate_faceunlock_summary">Розблоковуйте програми одним поглядом на екран</string>
+    <string name="applock_operate_faceunlock_title">Використовувати дані обличчя</string>
+    <string name="applock_operate_fingerprint_summary">Захист програми підтримує додавання декількох відбитків пальців.</string>
+    <string name="applock_operate_fingerprint_title">Використайте відбиток пальця</string>
+    <string name="applock_operate_hidenoti_summary">Програма Захист програм може робити це для прихованих програм</string>
+    <string name="applock_operate_hidenoti_title">Хочете приховати особисті сповіщення?</string>
+    <string name="applock_recommend_tips">%s користувачів захистили свої програми</string>
+    <string name="applock_recommend_title">Вибрати програми</string>
+    <string name="applock_set_complete">Використовувати програму Захист програм</string>
     <string name="applock_set_password_title">Змінити тип пароля</string>
     <string name="applock_settings_unlock_all_toast">Розблокувати всі програми</string>
     <string name="applock_toast_tip">Захист програм перевірено</string>
@@ -855,10 +855,10 @@
     <string name="cellular_data_auto_check">Перевіряти автоматично</string>
     <string name="cellular_package_daily_input">Ввести</string>
     <string name="charger_detect_button_ok">Зрозуміло</string>
-    <string name="charger_detect_info1">Перевірте, чи підключено живлення адаптер та кабель належним чином.</string>
-    <string name="charger_detect_info2">"Заряджання також може сповільнитися, якщо ви використовуєте нестандартні або старі адаптери та кабелі."</string>
-    <string name="charger_detect_no_remind">"Не показувати знову"</string>
-    <string name="charger_detect_title">Заряджання повільне</string>
+    <string name="charger_detect_info1">Переконайтеся, що адаптер живлення та кабель зарядки підключені правильно.</string>
+    <string name="charger_detect_info2">"Швидкість заряджання може бути повільнішою, якщо ви використовуєте нестандартний або старий адаптер живлення або кабель для заряджання."</string>
+    <string name="charger_detect_no_remind">"Більше не показувати"</string>
+    <string name="charger_detect_title">Повільна зарядка</string>
     <string name="charging_text_battery_full_time">"Час останньої зарядки "</string>
     <string name="charging_text_battery_nearly_full">Батарея майже повністю заряджена</string>
     <string name="charging_text_battery_perfect">Батарея заряджена</string>
@@ -1049,10 +1049,10 @@
     <string name="dlg_no_block_ok">Розблоковувати</string>
     <string name="dlg_not_block_call">"Розблокувати вибрані номери? Їх буде додано до обраних, але об'єкти, які були заблоковані раніше не будуть відображатися в історії викликів."</string>
     <string name="dlg_not_block_sms">"Розблокувати вибрані номери? Їх буде додано до обраних, але об'єкти, які були заблоковані раніше не будуть відображатися у вхідних повідомленнях."</string>
-    <string name="dlg_onlie_service_summary">Вимкнення онлайн-сервісів зробить деякі функції додатка недоступними. Вимкнути все одно?</string>
+    <string name="dlg_onlie_service_summary">Вимкнення онлайн-послуг зробить деякі функції програми недоступними. Вимкнути все одно?</string>
     <string name="dlg_open_online_service_pos_text">Увімкнути</string>
-    <string name="dlg_open_online_service_summary">"Деякі функції не будуть доступні коли відключені онлайн-сервіси. Увімкнути онлайн-сервіси?"</string>
-    <string name="dlg_open_online_service_title">Онлайн сервіси</string>
+    <string name="dlg_open_online_service_summary">"Деякі функції будуть недоступними, коли онлайн-посуги вимкнено. Увімкнути онлайн-послуги зараз?"</string>
+    <string name="dlg_open_online_service_title">Онлайн-послуги</string>
     <string name="dlg_remove_address_blacklist">Видалити цей регіон із чорного списку?</string>
     <string name="dlg_remove_address_whitelist">Видалити цей регіон із винятків?</string>
     <string name="dlg_remove_blacklist">Видалити ці номери з чорного списку?</string>
@@ -1533,19 +1533,19 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gateway_exception_title">Діагностика роутера</string>
     <string name="gb_add_game_hint">Додайте об\'єкти із списку програм</string>
     <string name="gb_add_game_loading_tips">Секунду…</string>
-    <string name="gb_adv_touch_adv_title">Класичний режим (типово)</string>
-    <string name="gb_adv_touch_custom1">Проведіть відповідь</string>
-    <string name="gb_adv_touch_custom2">Чутливість до безперервних доторків</string>
+    <string name="gb_adv_touch_adv_title">Класика (за замовчуванням)</string>
+    <string name="gb_adv_touch_custom1">Відгук на свайп</string>
+    <string name="gb_adv_touch_custom2">Відгук на непреривне натиснення</string>
     <string name="gb_adv_touch_custom3">Точність прицілювання</string>
-    <string name="gb_adv_touch_custom4">Натискання стабільності</string>
-    <string name="gb_adv_touch_custom_tip1">При цьому більша швидкість реакції збільшується швидкість реакції на цей жест, при меншому свайпі відповіді робить жест стабільнішим.</string>
-    <string name="gb_adv_touch_custom_tip2">Більша чутливість до постійних кадрів підвищує швидкість реакції на цей жест, при цьому знижена чутливість робить жест більш стабільним.</string>
-    <string name="gb_adv_touch_custom_tip3">Більш високе прицілювання точності робить менший свайп точнішим, при меншому зниженні точності робить цей жест більш стабільним.</string>
-    <string name="gb_adv_touch_custom_tip4">При підвищенні стабільності в цих дотиках збільшується стабільність, а точність при меншому дотику зростає і точність.</string>
-    <string name="gb_adv_touch_custom_title">Налаштовувати</string>
-    <string name="gb_adv_touch_mode_pro_tips">*Цей режим розроблено для професійних гравців. Звичайні гравці можуть знайти цей режим незручно.</string>
+    <string name="gb_adv_touch_custom4">Стабільність натиснень</string>
+    <string name="gb_adv_touch_custom_tip1">Висока чутливість збільшує швидкість відповіді на цей жест. Низька чутливість робить цей жест більш стабільним.</string>
+    <string name="gb_adv_touch_custom_tip2">Висока чутливість збільшує швидкість відповіді на непреривне натиснення. Низька чутливість робить цей жест більш стабільним.</string>
+    <string name="gb_adv_touch_custom_tip3">Висока точність прицілювання робить невеликі свайпи більш точними. Низька точність робить прицілювання більш стабільним.</string>
+    <string name="gb_adv_touch_custom_tip4">Висока стабільність натиснень робить натиснення більш точними. Низька стабільність збільшує точність коротких свайпів.</string>
+    <string name="gb_adv_touch_custom_title">Налаштувати</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Режим розроблено для професійних гравців. Звичайним користувачам можуть не підійти такі налашутування.</string>
     <string name="gb_adv_touch_mode_select_title">Жести</string>
-    <string name="gb_adv_touch_pro_title">Pro mode</string>
+    <string name="gb_adv_touch_pro_title">Режим \"Профі\"</string>
     <string name="gb_advance_settings_edge_gear1">Немає</string>
     <string name="gb_advance_settings_edge_gear2">Маленька</string>
     <string name="gb_advance_settings_edge_gear3">Середня</string>
@@ -1774,9 +1774,9 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gtb_exit_game_to_gtb">Відкрити коробку з іграми</string>
     <string name="gtb_exit_game_to_home">Назад на робочий стіл</string>
     <string name="gtb_setting_item_summary_smart_5g">Всякий раз, коли Game Turbo буде виявляти мережу 5G, він може підключити ваш пристрій до найкращої доступної мережі, щоб зменшити мережеву затримку.</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Підвищити швидкість з\'єднання на 10%-20% коли підключений до Mi/Redmi маршрутизаторів</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Збільшення на 10-20% швидкості підключення при використанні роутерів Mi і Redmi.</string>
     <string name="gtb_setting_item_title_smart_5g">Оптимізація мережі 5G</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Пришвидшувач швидкості Mi WiFi</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Збільшення швидкості Мі Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Повернутися до гри</string>
     <string name="gtb_spring_festival_egg_obtain_fail">"Не вдалося підключитися до мережі"</string>
     <string name="gtb_spring_festival_goto_gameturbo">Дивитись</string>
@@ -1791,7 +1791,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gtb_spring_festival_push_join">Приєднатися до</string>
     <string name="gtb_spring_festival_push_see">Дивитись</string>
     <string name="gtb_spring_festival_shortcut_create">Створити ярлик на головному екрані</string>
-    <string name="gtb_wlan_speed_tips">Використовуючи Mi WiFi…</string>
+    <string name="gtb_wlan_speed_tips">Використовується Mi Wi-Fi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неправильний оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш поточний оператор: "</string>
     <string name="guide_quck_open">Увімкнути</string>
@@ -3337,7 +3337,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="section_title_clear_acc">Очистити кеш</string>
     <string name="section_title_security_defend">Безпека</string>
     <string name="section_title_system">Безпека системи</string>
-    <string name="security_bottom_guide_to_pm_text">Відпустіть для відкриття утилітів</string>
+    <string name="security_bottom_guide_to_pm_text">Відпустіть для відкриття утиліти</string>
     <string name="security_center_slogan">Тримайте ваш пристрій захищеним та швидким</string>
     <string name="security_guide_bubble_text">Відкриті</string>
     <string name="security_guide_summary">Єдина пляма для інструментів та послуг</string>
@@ -3365,7 +3365,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="set_pattern_password_name">Встановити графічний ключ</string>
     <string name="set_traffic_tips">Налаштуйте тариф на передачу даних для керування використанням мобільного інтернету та уникайте додаткових зборів за перевізником</string>
     <string name="setting">Налаштування</string>
-    <string name="setting_online_service">Онлайн сервіси</string>
+    <string name="setting_online_service">Онлайн-послуги</string>
     <string name="setting_privacy_password">Додати графічний ключ</string>
     <string name="settings">Налаштування трафіку</string>
     <string name="settings_battery_consume_abnormal_summary">Отримувати сповіщення, коли заряд батареї знижується занадто швидко</string>
@@ -4246,15 +4246,15 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_settings_liquid">Чіткість</string>
     <string name="vb_video_effects_settings_stereo">Гучність</string>
     <string name="vb_video_effects_srs_premium_sound">Звук</string>
-    <string name="vb_video_super_division">Упсалия</string>
-    <string name="vb_video_super_division_desc">"Масштабування роздільної здатності автоматично коли вона Ctrl-720p.
+    <string name="vb_video_super_division">Масштабування зображення</string>
+    <string name="vb_video_super_division_desc">"Автоматично масштабувати зображення, якщо роздільна здатність нижче або дорівнює 720p.
 
-використання цієї функції збільшує енергоспоживання.
+Використання цієї функції збільшує енергоспоживання.
 
-Ця функція не працює з плавним рухом.
-Увімкнення однієї з функцій, увімкнутих, хто вимкнеться, буде вимкнуто."</string>
-    <string name="vb_video_super_division_tips">"Не достатньо?
-Спробуйте масштабувати роздільну здатність!"</string>
+Ця функція не працює разом із \"Згладжування рухів\".
+Увімкнення однієї з функцій відключить іншу."</string>
+    <string name="vb_video_super_division_tips">"Недостатньо зрозуміло?
+Спробуйте збільшити роздільну здатність!"</string>
     <string name="video_repeat">Повторити</string>
     <string name="videobox_hangup_tips_content">Ваш екран буде заблоковано, але програма буде все ще працювати у фоні, коли ця функція увімкнена. Натисніть на кнопку Живлення, щоб увімкнути екран. Увімкнути цю функцію зараз?</string>
     <string name="videobox_hangup_tips_title">Увага</string>
@@ -4275,7 +4275,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">Попередження</string>
     <string name="virus_wait_network_dialog_message">"Ваш телефон не підключено до Wi-Fi. Використати мобільний інтернет?"</string>
     <string name="vtb_func_desc">Детальніше про цю функцію</string>
-    <string name="vtb_func_display_style_desc1">"Вибрані ефекти не будуть застосовані до відео у форматі HDR."</string>
+    <string name="vtb_func_display_style_desc1">"Вибрані ефекти не будуть застосовані до відео у форматі HDR на вибраних пристроях."</string>
     <string name="vtb_func_display_style_desc2">"Ці ефекти не можуть бути застосовані до скріншотів."</string>
     <string name="vtb_func_frc_desc0">Згладжування руху зменшує розмиття і додає деталей до рухомих об\'єктів. Використання цієї функції збільшує енергоспоживання.</string>
     <string name="vtb_func_frc_desc1">"Функція згладжування руху не буде працювати у наступних умовах:"</string>

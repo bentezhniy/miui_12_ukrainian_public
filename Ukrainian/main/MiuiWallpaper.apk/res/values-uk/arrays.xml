@@ -66,8 +66,8 @@
     </string-array>
     <string-array name="settings_search_geometry">
         <item>Геометрія</item>
-        <item>Фонові малюнки/Супершпалери/Геометрія</item>
-        <item>Геометрія;Абстракт;Супершпалери;Шпалери</item>
+        <item>Шпалери/Супершпалери/Геометрія</item>
+        <item>Геометрія.Абстракція;Супершпалери;Шпалери</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>Червона планета</item>
@@ -91,7 +91,7 @@
     </string-array>
     <string-array name="settings_search_weather">
         <item>Погода</item>
-        <item>Шпалер/Супер шпалери/Погода</item>
-        <item>Weather;Погода info;Супершпалер;Шпалери</item>
+        <item>Шпалери/Супершпалери/Погода</item>
+        <item>Погода;Дані про погоду;Супершпалери;Шпалери</item>
     </string-array>
 </resources>

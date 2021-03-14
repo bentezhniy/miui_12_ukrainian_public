@@ -431,7 +431,7 @@
     <string name="mi_key_summary_open_camera">Натисніть Mi Key двічі, щоб відкрити камеру</string>
     <string name="mi_key_summary_take_photo">Натисніть Mi Key, щоб зробити фото</string>
     <string name="mi_key_take_photo">Сфотографувати</string>
-    <string name="miheadset_notification_Box">Ящик</string>
+    <string name="miheadset_notification_Box">Звернення</string>
     <string name="miheadset_notification_Disconnect">Від\'єднатись</string>
     <string name="miheadset_notification_LeftEar">Л</string>
     <string name="miheadset_notification_RightEar">П</string>

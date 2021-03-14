@@ -991,7 +991,7 @@
     <string name="fiveg_bearer_status1">5G статус перенесення:</string>
     <string name="fiveg_endc_available1">NR ENDC доступно:</string>
     <string name="fiveg_endc_status1">Кінцевий статус:</string>
-    <string name="fiveg_hosted_mode_summary">Автоматично перемикатися на найкращу доступну мережу при поганій якості 5G-мережі.</string>
+    <string name="fiveg_hosted_mode_summary">Автоматично обирати найкращу мережу для економії заряду</string>
     <string name="fiveg_hosted_mode_title">Смарт-перемикання 5G</string>
     <string name="fiveg_icon_type1">Тип значка N:</string>
     <string name="fiveg_infos">5G infos</string>
@@ -1308,7 +1308,7 @@
     <string name="mobile_data_status_roaming_turned_on_subtext">Роумінг даних увімкнено</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Роумінг працює, трафік активний</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Роумінг працює, потрібен трафік</string>
-    <string name="mobile_intelligent_connection_title">Смарт-мобільне підключення до мережі</string>
+    <string name="mobile_intelligent_connection_title">Інтелектуальне підключення до мобільного інтернету</string>
     <string name="mobile_network_settings_not_available">Налаштування мобільної мережі недоступні для цього користувача</string>
     <string name="mobile_networks">Налаштування мобільної мережі</string>
     <string name="mobile_property">Властивості мобільної мережі</string>
@@ -2203,7 +2203,7 @@ SIM-картка буде заблокована при наступній не�
     <string name="title_cfu_enabled">Переадресація увімкнена</string>
     <string name="title_convert_fbe">Конвертація в зашифрований файл</string>
     <string name="track_frame_time">Обробка HWUI за профілем</string>
-    <string name="traffic_mode_summary">Пріоритет підключення мобільної мережі для вже використовуваних програм. Додатки у фоновому режимі можуть не підключитися.</string>
+    <string name="traffic_mode_summary">Вибирати підключення через мобільний Інтернет для програм, які зараз використовуються. Програми у фоновому режимі можуть не мати можливості підключатися до мережі.</string>
     <string name="traffic_mode_switch_title">Екстремальний режим</string>
     <string name="transition_animation_scale_title">Анімація переходів</string>
     <string name="transport_title">Тип транспортування</string>

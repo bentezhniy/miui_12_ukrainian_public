@@ -470,6 +470,7 @@
     <string name="allow_sound_title">Дозволити звук</string>
     <string name="allow_vibrate_title">Дозволити вібрацію</string>
     <string name="alpha_build">Alpha-версія</string>
+    <string name="already_delete_system_app">Видалені системні програми</string>
     <string name="always">Завжди</string>
     <string name="always_allow_bind_appwidgets_text">Ви вирішили дозволити цій програмі створювати віджети й отримувати доступ до їх даних.</string>
     <string name="always_running">Завжди працює (%s)</string>
@@ -766,12 +767,12 @@
     <string name="awake">Час активн. пристрою</string>
     <string name="back">Відмінити</string>
     <string name="back_button">Назад</string>
-    <string name="back_double_tap">Подвійне натиснення</string>
+    <string name="back_double_tap">Подвійне натиснення ззаду</string>
     <string name="back_key">Кнопка \"Назад\"</string>
     <string name="back_sensitivity_dialog_message">Через високу чутливість можуть не працювати жести з боків екрана в додатку.</string>
     <string name="back_sensitivity_dialog_title">Чутливість країв екрана</string>
     <string name="back_tap">Натиснути ззаду</string>
-    <string name="back_triple_tap">Потрійне натиснення</string>
+    <string name="back_triple_tap">Потрійне натиснення ззаду</string>
     <string name="background_activity_disabled_dialog_text">"Оскільки в додатку не передбачено економію заряду акумулятора, його не можна обмежити.
 
 Увімкніть оптимізацію споживання заряду."</string>
@@ -1085,7 +1086,7 @@
     <string name="bluetooth_device_advanced_profile_header_title">Використовувати для</string>
     <string name="bluetooth_device_advanced_rename_device">Перейменувати</string>
     <string name="bluetooth_device_advanced_title">Спарений пристрій Bluetooth</string>
-    <string name="bluetooth_device_blacklist_summary">Керування заблокованими пристроями Bluetooth</string>
+    <string name="bluetooth_device_blacklist_summary">Керування пристроями з чорного списку Bluetooth</string>
     <string name="bluetooth_device_blacklist_tital">Чорний список Bluetooth</string>
     <string name="bluetooth_device_context_connect">Підключити</string>
     <string name="bluetooth_device_context_connect_advanced">Параметри…</string>
@@ -1201,7 +1202,7 @@
     <string name="bluetooth_pairing">Прив\'язування…</string>
     <string name="bluetooth_pairing_accept">Прив\'язати</string>
     <string name="bluetooth_pairing_accept_all_caps">ПРИВ\'ЯЗАТИ</string>
-    <string name="bluetooth_pairing_add_to_blackfile">Блок</string>
+    <string name="bluetooth_pairing_add_to_blackfile">Заблокувати</string>
     <string name="bluetooth_pairing_decline">Скасувати</string>
     <string name="bluetooth_pairing_device_down_error_message">"Не вдалося встановити зв'язок з %1$s."</string>
     <string name="bluetooth_pairing_dialog_contants_request">Пристрій %1$s хоче отримати доступ до ваших контактів та історії викликів.</string>
@@ -1216,7 +1217,7 @@
     <string name="bluetooth_pairing_rejected_error_message">Прив\'язування було відхилено %1$s.</string>
     <string name="bluetooth_pairing_request">Підключити пристрій %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Дозволити доступ до контактів та історії викликів</string>
-    <string name="bluetooth_pairing_toast_add_to_blackfile">Успішно заблоковано. Ви можете керувати заблокованими елементами в \"Додаткові налаштування\".</string>
+    <string name="bluetooth_pairing_toast_add_to_blackfile">Заблоковано успішно. Ви можете керувати заблокованими об\'єктами у розділі \"Додаткові налаштування\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Підключеному пристрою буде надано доступ до ваших контактів та історії викликів.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Пристрій має доступ до локального інтернет-з’єднання</string>
     <string name="bluetooth_pan_profile_summary_use_for">Використано для доступу до інтернету</string>
@@ -1695,6 +1696,7 @@
     <string name="cmcc_hardware_version">Версія прошивки</string>
     <string name="codec_low_latency_summary">Мінімізувати затримку під час відтворення аудіо у іграх та синхронізації відео</string>
     <string name="codec_low_latency_title">Низька затримка</string>
+    <string name="codec_low_latency_video_summary">Забезпечте досвід аудіо з низькою затримкою для ігор та відео, роблячи звукові та синхронізацію зображення більш реалістичними.</string>
     <string name="color_black">Чорний</string>
     <string name="color_blue">Синій</string>
     <string name="color_calibration_none">Цей пристрій</string>
@@ -2552,17 +2554,17 @@
     <string name="doze_always_on_title">Завжди активний екран</string>
     <string name="doze_summary">Коли екран темний, він вмикається, щоб показати нові сповіщення</string>
     <string name="doze_title">Вмикати екран для сповіщень</string>
-    <string name="dpp_before_share_summary">Поділитися мережею \"%1$s\" через Wi-Fi з іншою людиною?</string>
+    <string name="dpp_before_share_summary">Поділитися мережею Wi-Fi \"%1$s\" з іншим користувачем?</string>
     <string name="dpp_cannot_connect_target">"Не вдалося підключитися до цільової мережі"</string>
-    <string name="dpp_connect_success">Успішно підключено</string>
-    <string name="dpp_not_support">"Неможливо поділитися цією мережею"</string>
-    <string name="dpp_qr_code_summary">Попросіть іншої людини відсканувати цей QR-код за допомогою сканера в налаштуваннях Wi-Fi</string>
+    <string name="dpp_connect_success">Підключено успішно</string>
+    <string name="dpp_not_support">"Не вдалося поділитися цією мережею"</string>
+    <string name="dpp_qr_code_summary">Підключіться до мережі Wi-Fi, відсканувавши QR-код.</string>
     <string name="dpp_qrcode_generator_summary">Відскануйте QR-код за допомогою пристрою з підтримкою Easy Connect.</string>
-    <string name="dpp_scanner_summary">Розмістіть QR-код всередині кадру</string>
-    <string name="dpp_shared_fail">"Не вдалося поділитись Wi-Fi"</string>
-    <string name="dpp_shared_success">Успішно поширений Wi-Fi</string>
-    <string name="dpp_sharing_wifi_summary">Поширення Wi-Fi…</string>
-    <string name="dpp_theme_title">Спільний Wi-Fi</string>
+    <string name="dpp_scanner_summary">Помістіть QR-код всередину рамки</string>
+    <string name="dpp_shared_fail">"Не вдалося надати спільний доступ до Wi-Fi"</string>
+    <string name="dpp_shared_success">Доступ до Wi-Fi надано</string>
+    <string name="dpp_sharing_wifi_summary">Надання спільного доступу до Wi-Fi…</string>
+    <string name="dpp_theme_title">Спільний доступ Wi-Fi</string>
     <string name="draw_overlay">Показувати поверх додатків</string>
     <string name="dsu_is_running">DSU працює</string>
     <string name="dsu_loader_description">Завантажити зображення динамічної системи оновлення</string>
@@ -2813,6 +2815,7 @@
     <string name="face_data_input_ok_title">Додано успішно</string>
     <string name="face_data_input_structure_title">3D-дані обличчя</string>
     <string name="face_data_input_title">Додати дані про обличчя</string>
+    <string name="face_data_introduction_add">Старт</string>
     <string name="face_data_introduction_msg">Розпізнавання обличчя може використовуватися для розблокування пристрою або перевірки вашої особистості. Спочатку необхідно додати пароль блокування екрана.</string>
     <string name="face_data_introduction_next">Далі</string>
     <string name="face_data_introduction_title">Розпізнавання обличчя</string>
@@ -2916,7 +2919,7 @@
     <string name="fingerprint_apply_to_privacy_password_scenarios">Пароль для захисту особистих даних захищає ваші повідомлення, фото, файли, нотатки та програми.</string>
     <string name="fingerprint_delete_message">Видалити цей відбиток пальця?</string>
     <string name="fingerprint_delete_title">"Видалити \"%1$s\""</string>
-    <string name="fingerprint_double_tap">Подвійне натискання на сканер відбитків пальців</string>
+    <string name="fingerprint_double_tap">Двічі торкніться сканера відбитків пальців</string>
     <string name="fingerprint_enable_keyguard_toggle_title">блокування екрана</string>
     <string name="fingerprint_enroll_button_add">Додати ще</string>
     <string name="fingerprint_enroll_button_next">Далі</string>
@@ -3122,7 +3125,6 @@
 
 Коли ви вмикаєте автозавантаження, дані з пристроїв і додатків віддалено зберігаються через певні проміжки часу. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії."</string>
     <string name="fullbackup_erase_dialog_message">Не створювати резервні копії даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і додатків (як-от налаштувань і збережених файлів) та стерти всі копії на віддалених серверах?</string>
-    <string name="function_description">Детальніше про цю функцію</string>
     <string name="gadget_picker_title">Вибрати віджет</string>
     <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -3281,6 +3283,8 @@
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
     <string name="headset_connectiong">З\'єднання…</string>
+    <string name="headset_notification_switch_summary">Показувати статус віджета штору сповіщень коли телефон підключено до навушників</string>
+    <string name="headset_notification_switch_title">Віджет тіні сповіщень</string>
     <string name="headset_remove_message">Відв\'язати пристрій?</string>
     <string name="headset_remove_message_indicate">%1$s буде знято з усіх пристроїв, пов\'язаних з цим Mi аккаунтом.</string>
     <string name="headset_settings_title">Звукові ефекти</string>
@@ -3473,7 +3477,7 @@ Xiaomi Cloud
     <string name="instruction_title">Важлива інформація щодо безпеки</string>
     <string name="insufficient_storage">Недостатньо пам’яті.</string>
     <string name="intelligence_suppression_summary">Динамічно налаштовувати розмір області поблизу країв, де випадковий дотик буде проігноровано на основі вашого захоплення</string>
-    <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="intelligence_suppression_title">Авто (рекомендується)</string>
     <string name="intent_sender_account_label">Обл. запис:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_data_label">Дані:</string>
@@ -3548,6 +3552,7 @@ Xiaomi Cloud
     <string name="keyboard_settings_title">Клавіатура Android</string>
     <string name="keyboard_shortcuts_helper">Комбінації клавіш</string>
     <string name="keyboard_shortcuts_helper_summary">Показати доступні комбінації клавіш</string>
+    <string name="keyboard_skin_follow_system_enable">Перемкнути в темний режим разом з системою</string>
     <string name="keyguard_advance_setting_title">Розширені налаштування</string>
     <string name="keyguard_security_setting_others">Інші</string>
     <string name="keyguard_security_setting_privacy_policy">Політика конфіденційності</string>
@@ -3680,7 +3685,7 @@ Xiaomi Cloud
     <string name="last_synced">Остання синхронізація: %1$s</string>
     <string name="last_time_used_label">Останнє використання</string>
     <string name="lattice_smartcover_title">Решітка</string>
-    <string name="launch_ai_shortcut">Ярлик Mi AI</string>
+    <string name="launch_ai_shortcut">Запуск Mi AI</string>
     <string name="launch_alipay_health_code">Код здоров\'я Alipay</string>
     <string name="launch_alipay_health_code_auto_close">Ярлик коду здоров\'я Alipay більше не доступний. Ви можете переключитись на інший ярлик.</string>
     <string name="launch_alipay_payment_code">Код оплати Alipay</string>
@@ -4362,6 +4367,8 @@ Xiaomi Cloud
     <string name="miui_allow_vibrate">Вібрація</string>
     <string name="miui_data_usage_menu_metered">Мобільні точки доступу</string>
     <string name="miui_experience_optimization">Увімкнути оптимізацію MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Скасувати</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Увага</string>
     <string name="miui_face_enroll_success">"Тепер ви можете розблоковувати телефон за допомогою обличчя.
 Продовжіть, щоб отримати доступ до додаткових налаштувань."</string>
     <string name="miui_input_method_settings">Налаштування методу введення</string>
@@ -4898,11 +4905,6 @@ Xiaomi Cloud
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Без звуку чи вібрації, з\'являється нижче в розділі розмов</string>
     <string name="notification_display_settings">Панель сповіщень</string>
-    <string name="notification_fold_description1">Фільтр сповіщень був представлений у версії MIUI 9. Ця функція фільтрує неважливі повідомлення та переміщує їх в окрему папку.</string>
-    <string name="notification_fold_description2">MIUI запам\'ятає, які сповіщення ви відзначили, а потім використовує декілька критеріїв для визначення їх важливості.</string>
-    <string name="notification_fold_description3">"Якщо сповіщення, які ви вважаєте важливими, як і раніше потрапляють до папки \"Сповіщення\", повідомте нам про цю проблему. Ми будемо вдячні вам за відгуки."</string>
-    <string name="notification_fold_footer_icon_summary">Показувати іконки програм під час групування неважливих сповіщень</string>
-    <string name="notification_fold_footer_icon_title">Показувати іконки програми</string>
     <string name="notification_fold_summary">Всі неважливі сповіщення будуть з\'являтися в окремій папці</string>
     <string name="notification_fold_title">Фільтр сповіщень</string>
     <string name="notification_group_title">Група категорій сповіщень</string>
@@ -5732,9 +5734,9 @@ OTG автоматично відключається через 10 хвилин
     <string name="reset_title">Скинути</string>
     <string name="resetting_second_space_passwd">Скидання пароля для Другого простору</string>
     <string name="resident_timezone_summary">Другий годинник</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (економить акумулятор)</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (додає чіткість)</string>
-    <string name="resolution_sub_title">MIUI може закрити програми, що працюють у фоновому режимі при перемиканні роздільної здатності</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (економія енергії).</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (покращення чіткості).</string>
+    <string name="resolution_sub_title">MIUI може закрити деякі програми, які працюють у фоні, під час зміни роздільної здатності</string>
     <string name="resolver_settings_label">Сортування</string>
     <string name="restore_default_apn">Відновлення налаштувань APN за умовчанням.</string>
     <string name="restore_default_apn_completed">Налаштування за умовчанням відновлено.</string>
@@ -5834,8 +5836,8 @@ OTG автоматично відключається через 10 хвилин
     <string name="rx_wifi_speed">Швидкість отримання даних</string>
     <string name="safety_and_regulatory_info">Посібник із безпеки та нормативних вимог</string>
     <string name="save">Зберегти</string>
-    <string name="save_battery_mode">Зберегти заряд акумулятора із WQHD+</string>
-    <string name="save_battery_mode_summary">Автоматичне перемикання роздільної здатності для економії електроенергії</string>
+    <string name="save_battery_mode">Економія енергії з WQHD+</string>
+    <string name="save_battery_mode_summary">Автоматично перемикати роздільну здатність для економії енергії.</string>
     <string name="saved_network">Збережено %1$s</string>
     <string name="saved_wifi">Збережені мережі</string>
     <string name="saved_wifi_delete">Видалити</string>
@@ -5858,27 +5860,27 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_dark_mode_smart_dark_title">Темний режим для всіх</string>
     <string name="screen_dark_mode_time_title">Темний режим за розкладом</string>
     <string name="screen_effect">Колірна схема</string>
-    <string name="screen_enhance_engine_ai_note">%d. Ця функція трохи збільшує енергоспоживання.</string>
-    <string name="screen_enhance_engine_ai_note_2">%d. Лише зображення з додатку Галерея можуть бути розширені.</string>
-    <string name="screen_enhance_engine_ai_note_3">"%d. Ця функція не працюватиме, якщо ви обрали вибір оригінальних кольорів або застосовані додаткові налаштування."</string>
+    <string name="screen_enhance_engine_ai_note">%d. Ця функція трохи збільшує споживання енергії.</string>
+    <string name="screen_enhance_engine_ai_note_2">%d. Тільки зображення з Галереї можуть бути покращені.</string>
+    <string name="screen_enhance_engine_ai_note_3">"%d. Ця функція не буде працювати, якщо ви брали відображення оригінальних кольорів та застосували додаткові покращення."</string>
     <string name="screen_enhance_engine_ai_open">Покращення зображень</string>
-    <string name="screen_enhance_engine_ai_pic_summary">"Ідентифікація об'єктів (наприклад, рослин, тварин, будівель) і динамічне налаштування ефектів відображення. Ця функція трохи збільшує енергоспоживання."</string>
+    <string name="screen_enhance_engine_ai_pic_summary">"Ідентифікація об'єктів (наприклад, рослин, тварин, будівель) і динамічне налаштування ефектів відображення. "</string>
     <string name="screen_enhance_engine_ai_title">Покращениия зображень з АІ</string>
-    <string name="screen_enhance_engine_memc_note">"Неможливо покращити відео коли \"супер роздільна здатність ввімкнено\". Увімкнення відео ви вимкнете супер роздільну здатність."</string>
+    <string name="screen_enhance_engine_memc_note">"Покращення відео недоступно, коли увімкнено режим \"Надвисока роздільна здатність\". Увімкнувши покращення відео, ви відключите режим \"Надвисока роздільна здатність\"."</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Ця функція трохи збільшує енергоспоживання.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Ця функція працює тільки коли ввімкнено панель відео-інструментів.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Додайте додаткові кадри до відео, щоб зробити контент плавним, а переходи більш живими."</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Покращениия HDR з АІ</string>
-    <string name="screen_enhance_engine_s2h_pic_summary">"Обробляйте відео за допомогою ефектів HDR, щоб виявити більше деталей в більш світлих та темних областях і зробити кольори більш яскравими. Ця функція підтримується деякими програмами."</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">"Обробляйте відео за допомогою ефектів HDR, щоб виявити більше деталей в більш світлих та темних областях. "</string>
     <string name="screen_enhance_engine_s2h_title">Покращениия HDR з АІ</string>
     <string name="screen_enhance_engine_sr_for_pic">Покращення зображень</string>
     <string name="screen_enhance_engine_sr_for_video">Покращення відео</string>
-    <string name="screen_enhance_engine_sr_for_video_note">"Super resolution не працює з покращеними відео. Якщо ви вимкнете супер розділені відео, ви також вимкнете розширені відео."</string>
-    <string name="screen_enhance_engine_sr_note">Ця функція трохи збільшує енергоспоживання.</string>
-    <string name="screen_enhance_engine_sr_pic_summary">"Збільште роздільну здатність зображень або відео до 1440p. Ця функція підтримується деякими програмами та трохи збільшує витрату заряду батареї."</string>
-    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Масштабування роздільної здатності відео. "</string>
+    <string name="screen_enhance_engine_sr_for_video_note">"Режим \"Надвисока роздільна здатність\" не працює з функцією покращення відео. Увімкнувши режим \"Надвисока роздільна здатність\", ви відключите покращення відео."</string>
+    <string name="screen_enhance_engine_sr_note">Ця функція трохи збільшує споживання енергії.</string>
+    <string name="screen_enhance_engine_sr_pic_summary">"Збільшити роздільну здатність зображень та відео. "</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Збільшити роздільну здатність відео. "</string>
     <string name="screen_enhance_engine_sr_title">Дуже висока роздільна здатність</string>
     <string name="screen_enhance_engine_title">Система візуалізації з АІ</string>
     <string name="screen_enhance_status_disable">Вимк</string>
@@ -5993,7 +5995,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_resolution_normal_format">Нормальна (%1$s)</string>
     <string name="screen_resolution_summary">"Зниження роздільної здатності екрана може продовжити термін роботи батареї та підвищить швидкість роботи системи, але зображення на екрані відображатимуться менш чітко."</string>
     <string name="screen_resolution_switch">Застосовувати</string>
-    <string name="screen_resolution_title">Роздільна здатність</string>
+    <string name="screen_resolution_title">Роздільна здатність екрана</string>
     <string name="screen_resolution_ultrahigh_format">Дуже висока (%1$s)</string>
     <string name="screen_saturation">Насиченість</string>
     <string name="screen_shot">Зробити скріншот</string>
@@ -7320,7 +7322,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="traffic_none">Немає</string>
     <string name="transition_animation_scale_title">Анімація переходів</string>
     <string name="trigger_carrier_provisioning">Активатор ініціалізації оператора</string>
-    <string name="truetone_summary">Налаштування кольорів для навколишнього світла</string>
+    <string name="truetone_summary">Налаштовувати кольори в залежності від освітлення</string>
     <string name="truetone_title">Адаптивні кольори</string>
     <string name="trust_lost_locks_screen_summary">Якщо цю функцію ввімкнено, пристрій заблокується, коли останній агент утратить довіру</string>
     <string name="trust_lost_locks_screen_title">Блокувати екран, коли втрачено довіру</string>

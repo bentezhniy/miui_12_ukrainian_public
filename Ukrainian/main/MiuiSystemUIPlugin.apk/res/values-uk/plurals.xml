@@ -55,10 +55,10 @@
         <item quantity="many">%d хв тому</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s елементів керування додано.</item>
-        <item quantity="one">%s додано контроль.</item>
-        <item quantity="few">%s елементів керування додано.</item>
-        <item quantity="many">%s елементів керування додано.</item>
+        <item quantity="other">Додано команд: %s</item>
+        <item quantity="one">Додано команд: %s</item>
+        <item quantity="few">Додано команд: %s</item>
+        <item quantity="many">Додано команд: %s</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Півгодини тому</item>
