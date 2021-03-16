@@ -69,6 +69,8 @@
     <string name="feedback_tip_cancel">"Дані сповіщень не будуть відстежуватися"</string>
     <string name="feedback_tip_msg">Для більш точного групування сповіщень нам необхідно здійснювати збір інформації про назву програми, заголовок і опис сповіщення, а також про час, в який було отримано сповіщення. Надіслати звіт?</string>
     <string name="feedback_tip_title">Звіт про катеорії сповіщень</string>
+    <string name="float_notification_snooze_strategy">Приховати тимчасово</string>
+    <string name="float_notification_snooze_summary">Проведіть вгору на плаваючому повідомленні, щоб тимчасово приховати майбутні</string>
     <string name="float_notifications">Спливаючі сповіщення</string>
     <string name="float_notifications_short">Спливаючі</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -104,6 +106,10 @@
     <string name="menu_setting_tip_unfold">Всі сповіщення від цієї програми будуть вважатися важливими</string>
     <string name="menu_setting_unfold">Важливі</string>
     <string name="midnight">Ніч</string>
+    <string name="miui_snooze_always_float">"Не приховувати"</string>
+    <string name="miui_snooze_cancel">Скасувати</string>
+    <string name="miui_snooze_default_time">Протягом %d хвилини</string>
+    <string name="miui_snooze_until_unlock_screen">До заблокованого</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронізація з хмарою вимкнена</string>
     <string name="miuix_appcompat_cloud_state_finished">Вдало синхронізовано з хмарою</string>
     <string name="miuix_appcompat_cloud_state_syncing">Синхронізація із хмарою…</string>

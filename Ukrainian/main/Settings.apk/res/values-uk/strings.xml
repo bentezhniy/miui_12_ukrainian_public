@@ -1299,8 +1299,8 @@
     <string name="bluetooth_select_a2dp_codec_type_help_info">Сірий колір означає, що відсутня підтримка телефоном або навушниками</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Виберіть версію Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Версія Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Виберіть версію Bluetooth МАР</string>
-    <string name="bluetooth_select_map_version_string">Версія Bluetooth МАР</string>
+    <string name="bluetooth_select_map_version_dialog_title">Виберіть MAP-версію Bluetooth</string>
+    <string name="bluetooth_select_map_version_string">Версія Bluetooth MAP</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Кер. підключ. і встан. назву пристрою та його видимість.</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -4272,9 +4272,9 @@ Xiaomi Cloud
     <string name="miheadset_RightEar">Праворуч</string>
     <string name="miheadset_active">Енергійний</string>
     <string name="miheadset_ancClosed">Вимкнено</string>
-    <string name="miheadset_ancHigh">Високий</string>
-    <string name="miheadset_ancLow">Низька</string>
-    <string name="miheadset_ancMedium">Медіум</string>
+    <string name="miheadset_ancHigh">Літак</string>
+    <string name="miheadset_ancLow">Офіс</string>
+    <string name="miheadset_ancMedium">Щоденно</string>
     <string name="miheadset_anc_indicate">Підключення та парові навушники</string>
     <string name="miheadset_audio_mode">Якість звуку</string>
     <string name="miheadset_audio_mode_high">Високий</string>
@@ -4322,6 +4322,7 @@ Xiaomi Cloud
     <string name="miheadset_ignore">Відмінити парування</string>
     <string name="miheadset_in_ear_check">Виявляти наявність вуха</string>
     <string name="miheadset_in_ear_check_summary">Призупиняти і відновлювати відтворення автоматично, коли ви носите або видаляєте навушники</string>
+    <string name="miheadset_key_config_ANC_list_title">Управління шумом</string>
     <string name="miheadset_key_config_call_ai">Голосовий помічник</string>
     <string name="miheadset_key_config_close">Вимкнено</string>
     <string name="miheadset_key_config_close_summary">Вимкнути шумопоглинання та прозорість</string>

@@ -103,9 +103,9 @@
     <string name="currency_update_support">Курси валют надаються Webull.</string>
     <string name="currency_update_time_format">Курси валют надаються Webull (%s)</string>
     <string name="currency_update_updating">Оновлення курсу валют…</string>
-    <string name="date_format">MMM dd, yyyy</string>
+    <string name="date_format">dd MMM yyyy</string>
     <string name="date_time_picker_dialog_title">Виберіть дату та час</string>
-    <string name="dateformat">d.MM.yyyy</string>
+    <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">день</string>
     <string name="degDesc">Кут</string>
     <string name="del">DEL</string>

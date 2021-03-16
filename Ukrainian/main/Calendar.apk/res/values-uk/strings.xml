@@ -763,7 +763,7 @@
     <string name="train_event_error_train_info">"Не вдалося перевірити тікет"</string>
     <string name="train_event_more_info">Планування, Wi-Fi і т. д.</string>
     <string name="train_event_service">Залізничні послуги</string>
-    <string name="train_event_station_date_format">ММ/дд</string>
+    <string name="train_event_station_date_format">dd/MM</string>
     <string name="train_event_station_header_arrive_time">Аррівес</string>
     <string name="train_event_station_header_depart_time">Відправляється</string>
     <string name="train_event_station_header_name">Станція</string>

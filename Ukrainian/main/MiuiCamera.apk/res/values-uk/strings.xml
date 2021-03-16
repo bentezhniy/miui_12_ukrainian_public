@@ -143,6 +143,7 @@
     <string name="accessibility_preview_effect_button">Попередній перегляд ефекту</string>
     <string name="accessibility_preview_expand">Збільшити масштаб</string>
     <string name="accessibility_preview_front">Попередній перегляд передньої камери</string>
+    <string name="accessibility_preview_remote">Попередній перегляд запису телефону</string>
     <string name="accessibility_preview_select_tip">Позиція %1$d</string>
     <string name="accessibility_preview_selected">Вибрано</string>
     <string name="accessibility_preview_shrink">Зменшити масштаб</string>
@@ -310,6 +311,7 @@
     <string name="ambilight_tips_for_suggest_using_tripod">Використати штатив</string>
     <string name="ambilight_tips_for_using_tripod">Використати штатив</string>
     <string name="audio_focus_exit_button_text">Вимкнути Аудіо фокус</string>
+    <string name="audio_map_summary_tip">Слідкувати за гучністю лівого і правого каналу в реальному часі і налаштувати його за допомогою слайдера</string>
     <string name="auto_hibernation_enter_tip">Вимкнення екрана…</string>
     <string name="autozoom_click_hint">"Натисніть на об'єкт, щоб тримати його у фокусі. Залишайтеся на відстані не менше 3 метрів для досягнення найкращого ефекту."</string>
     <string name="autozoom_disabled_hint">Відстеження об\'єкта зупинено</string>
@@ -517,6 +519,15 @@
     <string name="custom_watermark_words">Власний водяний знак</string>
     <string name="custom_watermark_words_input_hint">Введіть текст</string>
     <string name="custom_watermark_words_save_success">Збережено успішно</string>
+    <string name="dialog_button_accept">Прийняти</string>
+    <string name="dialog_button_back">Відмінити</string>
+    <string name="dialog_button_cancel">Скасувати</string>
+    <string name="dialog_button_connect">Підключитися</string>
+    <string name="dialog_button_disconnect">Вийти</string>
+    <string name="dialog_button_exit">Вимкнути</string>
+    <string name="dialog_button_ok">Гаразд</string>
+    <string name="dialog_button_reject">Відхилити</string>
+    <string name="dialog_button_scan">Пошук пристроїв</string>
     <string name="dialog_google_lens_option_0">Google Lens (рекомендується)</string>
     <string name="dialog_ok">ОК</string>
     <string name="dialog_ok_time">OK (%d с)</string>
@@ -656,6 +667,7 @@
     <string name="hint_slow_motion">Відео буде відтворюватися повільніше.</string>
     <string name="hint_subtitle">"Диктуйте субтитри під час зйомки відео"</string>
     <string name="hint_subtitle_prompt">Тепер ви можете диктувати субтитри</string>
+    <string name="histogram_summary_tip">Відображати відгук про експозицію в реальному часі</string>
     <string name="hunt_dual_water_mark">Водяний знак стереокамери буде додано автоматично.</string>
     <string name="id_card_mode_hint_back">Відскануйте тильну сторону посвідчення особи</string>
     <string name="id_card_mode_hint_front">Відскануйте лицьову сторону посвідчення особи</string>
@@ -823,6 +835,7 @@
     <string name="mimoji_eyebrow_shape">Форма брів</string>
     <string name="mimoji_eyeglass">Окуляри</string>
     <string name="mimoji_eyelash">Вії</string>
+    <string name="mimoji_eyelid">Повіка</string>
     <string name="mimoji_featured_face">Обличчя</string>
     <string name="mimoji_fragment_tab_name">Наклейки-аватари</string>
     <string name="mimoji_freckle">Веснянки</string>
@@ -909,6 +922,12 @@
     <string name="network_access_user_notice_message_sticker">&lt;Data&gt;Програмі Камера необхідний доступ до інтернету, щоб надавати стікери для цієї функції.&lt;br/&gt;&lt;br/&gt;Натискаючи \"Погоджуюся\", ви погоджуєтеся з нашою &lt;a href =%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href =%2$s&gt;Політикою конфіденційності&lt;/a&gt; та дозволяєте Камері підключатися до інтернету.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;Програмі Камера необхідний доступ до інтернету для надання послуг щодо механізмів розпізнавання мовлення.&lt;br/&gt;&lt;br/&gt;Натискаючи кнопку \"Погоджуюся\", ви даєте згоду та приймаєте нашу &lt;a href =%1$s&gt;Угоду користувача&lt;/a&gt; та &lt;a href =%2$s&gt;Політику конфіденційності&lt;/a&gt; та дозволяєте Камері доступ до інтернету.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Підключення до мережі</string>
+    <string name="network_connection_failed">"Не вдалося підключитися"</string>
+    <string name="network_connection_ongoing">З\'єднання…</string>
+    <string name="network_connection_prerequisites">Увімкніть Bluetooth і Wi-Fi, щоб мати можливість використовувати запис двох телефонів.</string>
+    <string name="network_connection_prerequisites_china">Увімкніть Bluetooth і Wi-Fi, щоб мати можливість використовувати запис двох телефонів.</string>
+    <string name="network_connection_rejected">Відхилено</string>
+    <string name="network_connection_timed_out">Минув час очікування підключення</string>
     <string name="no_storage">Вставте SD карту перед використанням камери</string>
     <string name="not_enough_space">SD карта заповнена</string>
     <string name="not_set">Не налаштовано</string>
@@ -1283,6 +1302,7 @@
     <string name="pref_custom_feature_layout_title">Ярлик</string>
     <string name="pref_custom_shutter_sound_title">Звук</string>
     <string name="pref_custom_tint_title">Кольори</string>
+    <string name="pref_customization_style">Користувацький стиль</string>
     <string name="pref_customization_title">Налаштувати</string>
     <string name="pref_document_mode">Документи</string>
     <string name="pref_dual_camera_video">Подвійне відео</string>
@@ -1316,6 +1336,7 @@
     <string name="pref_module_settings">Режими</string>
     <string name="pref_more_mode_style_title">Режими</string>
     <string name="pref_multi_camera_dual_video_front">Фронтальна камера</string>
+    <string name="pref_multi_camera_dual_video_remote">Подвійний запис телефону</string>
     <string name="pref_n_s_a">Налаштування звуку</string>
     <string name="pref_n_s_o_l">Увімк</string>
     <string name="pref_n_s_o_m">Вимкнено</string>
@@ -1348,6 +1369,8 @@
     <string name="pref_super_night_se_title">Нічний режим</string>
     <string name="pref_userdefine_watermark_title">Власний водяний знак</string>
     <string name="pref_video_captrue_ability_title">Захоплення кадру при зйомці</string>
+    <string name="pref_video_cast_setting_summary">Увімкніть для можливості стріляти одне відео з кількома пристроями</string>
+    <string name="pref_video_cast_setting_title">Подвійний запис телефону</string>
     <string name="pref_video_denoise_off">Вимк</string>
     <string name="pref_video_denoise_on">Увімк</string>
     <string name="pref_video_denoise_title">Фільтр шуму</string>
@@ -1403,6 +1426,19 @@
     <string name="recommend_soft_light_tip">Увімкнути спалах</string>
     <string name="recommend_super_night">Спробуйте Нічний режим</string>
     <string name="record_back_pressed_hint">Натисніть ще раз для зупинки запису</string>
+    <string name="remote_online_connecting">Виберіть пристрій для підключення</string>
+    <string name="remote_online_disconnect_confirmation">Скасувати підключення до %1$s?</string>
+    <string name="remote_online_exit_confirmation">Вимкнути запис двох телефонів зараз?</string>
+    <string name="remote_online_exit_connecting">Від\'єднатися та вийти із запису двох телефонів зараз?</string>
+    <string name="remote_online_guide">Увімкніть запис двох телефонів на іншому пристрої за допомогою перемикача управління.</string>
+    <string name="remote_online_interrupted">Підключіться ще раз для продовження.</string>
+    <string name="remote_online_introduction_i">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
+    <string name="remote_online_introduction_ii">Для того, щоб зробити цю функцію працюючою, інші Mi або Redmi повинні підтримувати Dual phone recording. Вона може бути увімкнена за допомогою перемикача центру управління.</string>
+    <string name="remote_online_searching">Пошук пристроїв…</string>
+    <string name="remote_online_service_name">Подвійний запис телефону</string>
+    <string name="remote_online_unavailable">"Не вдалося знайти пристрої поблизу"</string>
+    <string name="remote_online_waiting">Очікування підключення іншого пристрою…</string>
+    <string name="remote_online_whats">Як працює подвійний запис телефону?</string>
     <string name="reset_manual_picture_style_toast">Оновлено параметри</string>
     <string name="reset_manually_parameter_confirmed">ОК</string>
     <string name="reset_manually_parameter_hint">Скинути</string>
@@ -1485,7 +1521,7 @@
     <string name="timbre_normal">Початковий</string>
     <string name="timbre_robot">Робот</string>
     <string name="time_lapse_error">"Неможливо зняти прискорене відео в цій роздільній якості"</string>
-    <string name="time_stamp_date_format">ДД/ММ/РРРР</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">Ви можете заморозити та розблокувати фон в будь-який час до або під час стрільби.</string>
     <string name="timefreeze_guide_tip3">Попросіть об\'єкт залишитися у центрі кадру.</string>
     <string name="timefreeze_guide_tip4">Зупиняти дорожній рух.</string>
@@ -1497,6 +1533,7 @@
     <string name="timer_burst_manu_param_interval">Інтервал без експозиції</string>
     <string name="timer_burst_param_interval">Інтервал</string>
     <string name="timer_burst_param_total_count">Кількість знімків</string>
+    <string name="timerburst_pressed_hint">Натисніть ще раз, щоб зупинити</string>
     <string name="title_snap_double_confirm">Повторне підтвердження</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Серійна зйомка недоступна, коли увімкнене керування голосом"</string>
     <string name="toast_saving">Зберігання фото…</string>
@@ -1551,6 +1588,16 @@
     <string name="video_bokeh_zoom_in">Приближення</string>
     <string name="video_bokeh_zoom_out">Віддалення</string>
     <string name="video_camera_label">Відеокамера</string>
+    <string name="video_cast_connecting">З\'єднання…</string>
+    <string name="video_cast_exit_confirmation">Вийти зараз?</string>
+    <string name="video_cast_exit_warning">"Ваша стрічка не буде доступна іншим пристроєм."</string>
+    <string name="video_cast_inviting">%1$s хоче використовувати Dual phone recording на цьому пристрої.</string>
+    <string name="video_cast_notification_content">Торкніться для зупинки</string>
+    <string name="video_cast_notification_title">Використання декількох камер в фоновому режимі…</string>
+    <string name="video_cast_service_error">"Не вдалося ввімкнути подвійний запис телефону у фоновому режимі"</string>
+    <string name="video_cast_service_name">Подвійний телефон</string>
+    <string name="video_cast_state_exited">Запис подвійного телефону завершено</string>
+    <string name="video_cast_state_paused">Призупинено</string>
     <string name="video_effect_entry_blackwhite">Ч/Б</string>
     <string name="video_effect_entry_bygone">Ретро</string>
     <string name="video_effect_entry_central">Центральний</string>
@@ -1577,7 +1624,7 @@
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Переглянути Політику конфіденційності</string>
     <string name="vv_duartion_hint">%1$s | Кадр %2$d | %3$sсек</string>
-    <string name="vv_hint">Ви можете знімати відеоблоги тільки у альбомному режимі</string>
+    <string name="vv_hint">Можна знімати vlogs тільки в ландшафтному режимі</string>
     <string name="vv_mode_menu_item_name">Влог</string>
     <string name="vv_stability_hint">Не рухайте пристрій</string>
     <string name="vv_start">Зняти відеоблог</string>

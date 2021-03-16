@@ -250,7 +250,7 @@
     <string name="current_version">Поточна версія</string>
     <string name="data_usage_warning">Використання даних</string>
     <string name="data_usage_warning_summary">За допомогою вашої мережі мобільне передавання даних до високої якості музики може збільшити витрати на використання даних.</string>
-    <string name="date_format_str">ММ ДД РРРР</string>
+    <string name="date_format_str">dd-MM-yyyy</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
     <string name="declaration_main_content">"Ми повинні захищати вашу особисту інформацію відповідно до відповідних законів, положень та політики конфіденційності. o може працювати належним чином, для збору вашої особистої інформації потрібно підключитися до інтернету й отримати наступні дозволи:
 "</string>

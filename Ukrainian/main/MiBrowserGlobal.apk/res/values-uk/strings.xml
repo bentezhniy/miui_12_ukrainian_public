@@ -399,7 +399,7 @@
     <string name="custom_page_guide_content">Закладки, налаштування та інструменти знаходяться тут!</string>
     <string name="dark_mode">Темний режим</string>
     <string name="data_error">Помилка даних</string>
-    <string name="data_format_ymd">d.MM.yyyy</string>
+    <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="data_traffic_continue">Відтворити все одно</string>
     <string name="data_traffic_download_cancel">Скасувати</string>
     <string name="data_traffic_download_prompt">Ви можете завантажити це відео тільки під час підключення пристрою до Wi-Fi.</string>

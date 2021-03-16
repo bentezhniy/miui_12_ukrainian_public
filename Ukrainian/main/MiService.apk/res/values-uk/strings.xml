@@ -31,6 +31,7 @@
     <string name="afternoon">Після обіду</string>
     <string name="am">ДО</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="close">Закрити</string>
     <string name="copy">Копія</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
@@ -293,6 +294,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Відправити</string>
     <string name="share_cancel">Скасований спільний доступ</string>
     <string name="share_failed">"Не вдалося поділитись"</string>
     <string name="share_no_network">"Не вдалося підключитися до мережі"</string>

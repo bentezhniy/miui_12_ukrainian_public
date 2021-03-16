@@ -224,6 +224,7 @@
     <string name="notification_playback">Відтворення…</string>
     <string name="notification_recording">Запис…</string>
     <string name="notification_recording_ticker">Запис…</string>
+    <string name="notification_save_as_complete">Успішно збережено</string>
     <string name="notification_stopped">Запис зупинено</string>
     <string name="notification_title_all_paused">Завантаження призупинене</string>
     <string name="offline_recognize_progress">Розшифрування офлайн %s…</string>
@@ -372,6 +373,7 @@
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="save_as">Зберегти як</string>
     <string name="save_record_dialog_title">Зберегти запис</string>
     <string name="search_app">Диктофон</string>
     <string name="search_empty">"Не вдалося знайти результати"</string>

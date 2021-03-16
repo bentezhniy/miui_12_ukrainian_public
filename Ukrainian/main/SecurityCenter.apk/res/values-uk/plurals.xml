@@ -266,6 +266,18 @@
         <item quantity="few">%d дн. тому</item>
         <item quantity="many">%d дн. тому</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Швидко вперед %d секунд</item>
+        <item quantity="one">Швидке перемотування вперед %d секунд</item>
+        <item quantity="few">Швидко вперед %d секунд</item>
+        <item quantity="many">Швидко вперед %d секунд</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотати %d секунд</item>
+        <item quantity="one">Перемотати %d секунду</item>
+        <item quantity="few">Перемотати %d секунд</item>
+        <item quantity="many">Перемотати %d секунд</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Пошук серед %d програм</item>
         <item quantity="one">%d програма</item>
@@ -849,6 +861,12 @@
         <item quantity="one">Завантажень: %1$d</item>
         <item quantity="few">Завантажень: %1$d</item>
         <item quantity="many">Завантажень: %1$d</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Ваш пристрій буде вимкнено через %d сек</item>
+        <item quantity="one">Ваш пристрій буде вимкнуто через %d с</item>
+        <item quantity="few">Ваш пристрій буде вимкнено через %d сек</item>
+        <item quantity="many">Ваш пристрій буде вимкнено через %d сек</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">разів</item>

@@ -248,9 +248,9 @@ to add cards"</string>
     <string name="date_format_m_d">d.MM</string>
     <string name="date_format_m_d_2">MM/dd</string>
     <string name="date_format_m_d_3">MM/dd</string>
-    <string name="date_format_m_d_h_m">ММ-дд ГГ:мм</string>
+    <string name="date_format_m_d_h_m">dd-MM HH:mm</string>
     <string name="date_format_mm_dd">d MMMM</string>
-    <string name="date_format_mm_dd_2">MM/dd</string>
+    <string name="date_format_mm_dd_2">dd/MM</string>
     <string name="date_format_y">рррр</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m">MM.yyyy</string>
@@ -258,11 +258,11 @@ to add cards"</string>
     <string name="date_format_y_m_d_2">MMM dd, yyyy</string>
     <string name="date_format_y_m_d_h_m">MM/dd/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">MMM dd, yyyy HH:mm</string>
-    <string name="date_format_y_m_d_h_m_3">MM/dd/yyyy HH:mm</string>
+    <string name="date_format_y_m_d_h_m_3">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_4">MM/dd/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_h_m_s">d.MM.yyyyy HH:mm:ss</string>
-    <string name="date_format_y_m_d_notranslate">ррррр-ММ-дд</string>
-    <string name="date_format_yyyy_m_d_h_m">MM/dd/yyyy HH:mm</string>
+    <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
+    <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату та час</string>
     <string name="date_week_index">"yyyy 'Н'ww"</string>

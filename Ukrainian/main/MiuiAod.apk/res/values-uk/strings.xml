@@ -49,8 +49,8 @@
     <string name="animation_clock_panel">Анімація</string>
     <string name="aod_close_color_inversion">"Ця функція несумісна з режимом \"Інверсія кольору\". Спочатку вимкніть її."</string>
     <string name="aod_component">Відображувані об\'єкти</string>
-    <string name="aod_dual_clock_date">ГГ:хм ММ/дд</string>
-    <string name="aod_dual_clock_date_12">гг:хв ММ/дд aa</string>
+    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+    <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12_signature">d.M</string>
