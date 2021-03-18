@@ -90,7 +90,7 @@
         <item>Минулий місяць</item>
         <item>Минулий вівторок</item>
         <item>Минула середа</item>
-        <item>Минулий четвер</item>
+        <item>Останній четвер</item>
         <item>Минула п\'ятниця</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">

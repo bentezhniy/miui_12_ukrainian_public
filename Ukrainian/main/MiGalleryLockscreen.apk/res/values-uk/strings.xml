@@ -882,8 +882,8 @@ dd/M"</string>
     <string name="theme_title_lock_style">Перейти на типовий екран блокування</string>
     <string name="theme_title_subscribe">Підписатися на шпалери Карусель</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="ticket_hint">Код підтвердження</string>
     <string name="ticket_invalid">Ви ввели неправильний код</string>
     <string name="ticket_sign_in">Увійдіть за допомогою SMS</string>

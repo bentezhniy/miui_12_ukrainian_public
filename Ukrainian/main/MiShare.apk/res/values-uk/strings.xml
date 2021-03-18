@@ -325,8 +325,8 @@ OPPO, vivo, realme та інші бренди скоро також будуть
     <string name="throwing_print">Друкувати</string>
     <string name="throwing_screen">Трансляція</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="tile_state_active">Увімк</string>
     <string name="tile_state_inactive">Вимкнено</string>
     <string name="tile_state_unavailable">Недоступний</string>

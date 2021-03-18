@@ -484,8 +484,8 @@
     <string name="the_valentines_day">"День святого Валентина"</string>
     <string name="the_water_lantern_festival">Свято Водо-Ліхтар</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="toast_max_record_time">Програма \"%1$s\" підтримує максимальний час запису: %2$s</string>
     <string name="toast_uninstall_fileexplorer">"Провідник не встановлено"</string>

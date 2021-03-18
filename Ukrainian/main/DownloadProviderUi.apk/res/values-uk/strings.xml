@@ -428,10 +428,10 @@
     <string name="search_favorite_title">Обрані</string>
     <string name="search_history">Історія пошуку</string>
     <string name="search_history_empty">Порожньо</string>
-    <string name="search_history_month">d MMM</string>
+    <string name="search_history_month">dd/MM</string>
     <string name="search_history_title">Історія</string>
     <string name="search_history_today">Сьогодні</string>
-    <string name="search_history_year">d MMMM yyyy</string>
+    <string name="search_history_year">dd/MM/yyyy</string>
     <string name="search_history_yesterday">Вчора</string>
     <string name="search_home_download_popup">Назад</string>
     <string name="search_home_vif_show_more">Ще</string>
@@ -624,8 +624,8 @@
     <string name="third_web_title">Збереження</string>
     <string name="thunder_download_speedup">Прискорення роботи за допомогою Xunlei…</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="time_consume">Затримка</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="title_homepage_infoflow">Нещодавні оновлення</string>

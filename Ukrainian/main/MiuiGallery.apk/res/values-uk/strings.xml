@@ -2084,9 +2084,9 @@
     <string name="thumbnail_build_error">"Не вдається завантажити ескіз"</string>
     <string name="thumbnail_error_log_cleared">Очищення завершено</string>
     <string name="thumbnail_name">мініатюра</string>
-    <string name="thursday">Thursday</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">T</string>
+    <string name="thursday">Четвер</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="time_burst_photo_enter">Серійна зйомка з таймером</string>
     <string name="time_burst_preview_title">Серійна зйомка з таймером</string>
     <string name="time_burst_save_all">Експорт всіх фото</string>

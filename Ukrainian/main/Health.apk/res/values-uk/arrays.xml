@@ -140,7 +140,7 @@
         <item>Кожен понеділок</item>
         <item>Кожен вівторок</item>
         <item>Кожна середа</item>
-        <item>Кожна четвер</item>
+        <item>Щочетверга</item>
         <item>Кожна п\'ятниця</item>
         <item>Щосуботи</item>
         <item>Щонеділі</item>
@@ -178,7 +178,7 @@
         <item>Monday</item>
         <item>Tuesday</item>
         <item>Wednesday</item>
-        <item>Thursday</item>
+        <item>Четвер</item>
         <item>Friday</item>
         <item>Saturday</item>
     </string-array>

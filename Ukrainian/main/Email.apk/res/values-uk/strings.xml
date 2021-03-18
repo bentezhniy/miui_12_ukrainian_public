@@ -30,9 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Поділитися:</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
-    <string name="about_checking_update">перевірка оновлення...</string>
-    <string name="about_go_to_update">Перейти до оновлення</string>
-    <string name="about_lasted_version">Це останнє видання</string>
+    <string name="about_checking_update">Перевірка оновлень...</string>
+    <string name="about_go_to_update">Оновлення</string>
+    <string name="about_lasted_version">Встановлено останню версію</string>
     <string name="account_add_title">Оберіть послугу електронної пошти</string>
     <string name="account_duplicate_dlg_message_fmt">"Це ім'я вже використовується у аккаунті \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Копіювати аккаунт</string>
@@ -48,8 +48,8 @@
     <string name="account_security_title">Безпека пристрою</string>
     <string name="account_security_verification">Підтвердження акаунту</string>
     <string name="account_set_up_change_type_note">Для перемикання між налаштуваннями POP3 та IMAP, необхідно видалити аккаунт, створити новий та налаштувати його відповідно до бажаних налаштувань.</string>
-    <string name="account_setting_general_summry">Встановити загальні функції для електронної пошти</string>
-    <string name="account_setting_general_title">Налаштування функцій</string>
+    <string name="account_setting_general_summry">Встановити загальні функції електронної пошти</string>
+    <string name="account_setting_general_title">Функції</string>
     <string name="account_setting_message_body_load_complete">Повністю все повідомлення</string>
     <string name="account_setting_message_body_load_head_abstract">Стисле повідомлення</string>
     <string name="account_setting_message_body_load_head_only">Тільки заголовок</string>
@@ -75,7 +75,7 @@
     <string name="account_settings_notifications">Сповіщення</string>
     <string name="account_settings_notify_label">Сповіщення про пошту</string>
     <string name="account_settings_notify_summary">Показувати сповіщення при отриманні нових повідомлень</string>
-    <string name="account_settings_only_notify_inbox">Тільки відправка повідомлень вхідної пошти</string>
+    <string name="account_settings_only_notify_inbox">Нагадування лише про вхідну пошту</string>
     <string name="account_settings_param">Налаштування аккаунта</string>
     <string name="account_settings_preference_att_save_path">Папка за замовчуванням для вкладень</string>
     <string name="account_settings_preference_head_icon">Фото профілю</string>
@@ -198,8 +198,8 @@
     <string name="allread">Прочитати все</string>
     <string name="always_bcc_myself">Відправляти приховану копію собі</string>
     <string name="app_name">Пошта</string>
-    <string name="app_uninstall_content">Електронна пошта - це системний додаток. Після видалення, Ви не зможете додавати облікові записи, надсилати та отримувати листи та синхронізувати розклади електронної пошти.</string>
-    <string name="app_uninstall_title">Вилучити \"email\"?</string>
+    <string name="app_uninstall_content">"Машини - системна програма. Ви не зможете керувати обліковими записами електронної пошти, надсилати та отримувати електронні листи, або синхронізувати події після видалення додатку."</string>
+    <string name="app_uninstall_title">Видалити \"Mail\"?</string>
     <string name="appraise_des">Вам подобається наша програма?</string>
     <string name="appraise_good">Так</string>
     <string name="appraise_ignore">"Не можу сказати"</string>
@@ -272,7 +272,7 @@
     <string name="bottom_bar_more_quickreply">Швидкі відповіді</string>
     <string name="bottom_bar_more_share">Поділитися</string>
     <string name="bottom_bar_no_quickreply_toast">Немає швидкої відповіді</string>
-    <string name="calendar_remind_dialog_title">Нагадати пізніше</string>
+    <string name="calendar_remind_dialog_title">Додати у календар</string>
     <string name="calendar_remind_gridview_pick_date">Вибрати дату</string>
     <string name="calendar_skip_no_account_alert">"Не вдалося знайти цей акаунт"</string>
     <string name="cancel">Скасувати</string>
@@ -343,7 +343,7 @@
     <string name="contact_list_title">Список контактів</string>
     <string name="contact_permission_error">"Доступ до контактів на телефоні заборонений"</string>
     <string name="contact_select">Вибрати контакти</string>
-    <string name="contain_view_all_body">Переглянути повний текст повідомлення</string>
+    <string name="contain_view_all_body">Переглянути повний email</string>
     <string name="content_description">%1$s про %2$s, %3$s на %4$s, %5$s</string>
     <string name="content_description_today">%1$s про %2$s, %3$s в %4$s, %5$s</string>
     <string name="contextmenu_add">Додати до контактів</string>
@@ -444,10 +444,10 @@
     <string name="drawer_close">Закрити панель навігації</string>
     <string name="drawer_contacts">Контакти</string>
     <string name="drawer_open">Відкрити панель навігації</string>
-    <string name="drive_card_button_tips">Скопіюйте розпакований код і отримайте спільний вміст</string>
-    <string name="drive_card_code">код видобування</string>
-    <string name="drive_card_tips">Посилання на обмін знайдено від %s</string>
-    <string name="drive_card_title">Посилання на диск</string>
+    <string name="drive_card_button_tips">Скопіюйте код видобування та отримайте спільний вміст</string>
+    <string name="drive_card_code">Код видобування:</string>
+    <string name="drive_card_tips">Знайдено посилання на обмін інформацією з підключенням від %s</string>
+    <string name="drive_card_title">Netdisk link</string>
     <string name="dtend">Кінець</string>
     <string name="dtstart">Початок</string>
     <string name="due">До сплати</string>
@@ -574,8 +574,8 @@
     <string name="general_preference_text_zoom_normal">Середній</string>
     <string name="general_preference_text_zoom_small">Звичайний</string>
     <string name="general_preference_text_zoom_tiny">Дрібний</string>
-    <string name="general_preference_trash_contact">Екранування спаму</string>
-    <string name="general_preference_trash_contact_sum">Обробка листів від відправників, про яких повідомлялося у великих цифрах</string>
+    <string name="general_preference_trash_contact">Фільтрувати спам</string>
+    <string name="general_preference_trash_contact_sum">Фільтрувати листи від відправників, повідомлених численними користувачами</string>
     <string name="generic_attachment_problem">"Не вдалося прикріпити файл."</string>
     <string name="get_database_exception">"Очистьте дані програми у Налаштуваннях &gt; Системні програми та спробуйте ще раз."</string>
     <string name="get_oauth_code">Отримати код</string>
@@ -602,17 +602,17 @@
     <string name="inline_picture_deleted">Завантаження бракуючого зображення…</string>
     <string name="input_password_prompt">Введіть пароль:</string>
     <string name="install_mime_encrypt_cert">Встановити S/MIME сертифікат шифрування</string>
-    <string name="install_mime_sign_cert">Встановити сертифікат підпису S/MIME</string>
+    <string name="install_mime_sign_cert">Встановити S/MIME сертифікат підпису</string>
     <string name="interact_with_server_error">"Не вдалося підключитися до сервера"</string>
     <string name="invalid_recipient">Неправильна адреса \"%s\".</string>
     <string name="invalid_recipient_title">Неприпустимий одержувач</string>
-    <string name="invoice_card_amount">кількість</string>
-    <string name="invoice_card_buyer">покупець</string>
+    <string name="invoice_card_amount">Всього до сплати</string>
+    <string name="invoice_card_buyer">Покупець</string>
     <string name="invoice_card_date">дата</string>
-    <string name="invoice_card_open">відкрити рахунок</string>
-    <string name="invoice_card_save">зберегти рахунок</string>
-    <string name="invoice_card_seller">продавець</string>
-    <string name="invoice_card_title">електронний рахунок</string>
+    <string name="invoice_card_open">Відкрити рахунок</string>
+    <string name="invoice_card_save">Зберегти рахунок</string>
+    <string name="invoice_card_seller">Продавець</string>
+    <string name="invoice_card_title">Електронний рахунок</string>
     <string name="kilobytes">%s Кб</string>
     <string name="list_empty_to_fresh">Поки немає повідомлень електронної пошти.</string>
     <string name="load_from_remote">Продовжити пошук на сервері</string>
@@ -639,13 +639,13 @@
     <string name="login_des_yangdex">Увійти до Yandex Mail</string>
     <string name="login_err_message">Використовуйте авторизовані код-паролі для входу до %1$s, якщо ви вибрали цю опцію раніше. Перейдіть за адресою https://email.163.com/ для скидання пароля або код-пароля.</string>
     <string name="login_err_outlook_msg">"%s
-Будь ласка, підтвердіть, чи включений пароль програми, якщо його увімкнено, будь ласка, перейдіть на веб-сайт Microsoft, щоб скинути пароль додатка"</string>
+Вітаємо, будь ласка, підтвердіть, чи включений пароль програми, якщо його увімкнено, будь ласка, перейдіть на офіційний сайт Microsoft, щоб змінити пароль додатку"</string>
     <string name="login_err_sina_message">Використовуйте авторизовані код-паролі для входу до %1$s, якщо ви вибрали цю опцію раніше. Перейдіть за адресою https://mail.sina.com.cn/ для скидання пароля або код-пароля.</string>
     <string name="login_failed_ticker">Помилка авторизації \"%s\"</string>
     <string name="login_failed_tip">"Зв'яжіться з нами в WeChat, щоб отримати допомогу: "</string>
     <string name="login_failed_title">"Не вдалося увійти до аккаунту"</string>
     <string name="login_mail">Вхід</string>
-    <string name="login_manual">Ручне налаштування</string>
+    <string name="login_manual">ручні налаштування</string>
     <string name="login_qq_psw">Введіть код вручну</string>
     <string name="long_press_to_select_tip">Натисніть і утримуйте для множинного вибору.</string>
     <string name="mail">Пошта</string>
@@ -659,7 +659,8 @@
     <string name="mail_login_help_details2">Авторизаційні коди третьої сторони можуть бути використані для авторизації в поштовому клієнті третьої сторони, коли увімкнено сервіси POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Пароль електронної пошти/Клієнт сторонніх розробників:</string>
     <string name="mail_outlook_login_tips">"Ви будете перенаправлені в Microsoft, щоб ввести пароль"</string>
-    <string name="mail_outlook_oauth_login">"Увійти, за допомогою OAuth"</string>
+    <string name="mail_outlook_oauth_login">"Використовувати більш безпечний Oauth логін
+ (Персональні Outlook користувачі не можуть синхронізувати їх при вході до OAuth)"</string>
     <string name="mail_outlook_psw_login">Увійти за допомогою пароля</string>
     <string name="mailbox_list_account_selector_combined_view">Комбінований аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
@@ -716,7 +717,7 @@
     <string name="menu_search">Пошук</string>
     <string name="menu_settings">Налаштування</string>
     <string name="merged_mailbox_compose_select_account">Виберіть аккаунт</string>
-    <string name="message_all_body">Повний текст</string>
+    <string name="message_all_body">Повний текст електронної пошти</string>
     <string name="message_body_load_set_description">Завантажувати листи, під час використання мобільного інтернету</string>
     <string name="message_compose_insert_quick_response_list_title">Швидкі відповіді</string>
     <string name="message_decode_error">"При розшифровці повідомлення сталася помилка"</string>
@@ -790,6 +791,7 @@
     <string name="ntes_do_not_sms_uplink">Відправте SMS від прив\'язаного номера телефону та натисніть \"Повідомлення відправлено\".</string>
     <string name="ntes_had_send">Повідомлення відправлено</string>
     <string name="ntes_had_send_to_content">"Якщо ви вже відправили SMS від прив'язаного номера телефону, натисніть \"Повідомлення відправлено\" для продовження."</string>
+    <string name="ntes_login_auth_too_much">"Неможливо додати більше 5 кодів підтвердження. Увійдіть до вхідних повідомлень на комп'ютері та видаліть коди, які ви не використовуєте."</string>
     <string name="ntes_login_error_message" formatted="false">"Не вдалося отримати інформацію (помилка %s). %s."</string>
     <string name="ntes_password_error_hint">"Якщо під час введення пароля виникають помилка, закрийте цю сторінку та відкрийте її ще раз."</string>
     <string name="ntes_phone_send">Відправте повідомлення з прив\'язаного номера телефону</string>
@@ -811,7 +813,7 @@
     <string name="open_external_storage_and_contacts_and_calendar_permission">Дозвольте Пошті доступ до пам\'яті, контактів та інформації календаря у Налаштуваннях</string>
     <string name="open_external_storage_and_contacts_permission">Дозвольте Пошті доступ до пам\'яті та контактів у Налаштуваннях</string>
     <string name="open_notification_kingagent">Увімкнути сповіщення burial point</string>
-    <string name="open_pdf_error">Не вдалося відкрити файл Pdf. Будь ласка, завантажте інші інструменти відкриття PDF та спробуйте ще раз пізніше.</string>
+    <string name="open_pdf_error">"Не вдалося відкрити PDF. Встановіть читач PDF та повторіть спробу."</string>
     <string name="optimization_suggestion">Пропозиції щодо оптимізації</string>
     <string name="others_mail">Інші</string>
     <string name="others_mail_des">Інші приватні або корпоративні email сервіси</string>
@@ -856,17 +858,17 @@
     <string name="password_expired_ticker">Термін дії вашого PIN коду або пароля блокування екрану збіг.</string>
     <string name="pdf_has_signature_prompt_cancel">Відкрити оригінальний файл</string>
     <string name="pdf_has_signature_prompt_confirm">Відкрити копію</string>
-    <string name="pdf_has_signature_prompt_message">Виявлено підписану копію цього вкладення. Відкрити чи ні?</string>
-    <string name="pdf_save_error">Тіло занадто велике, його не можна експортувати як PDF файл</string>
-    <string name="pdf_save_no_body">Зачекайте, поки текст завантажиться і повторіть спробу</string>
+    <string name="pdf_has_signature_prompt_message">Виявлено підписану копію цього вкладення, відкрити його?</string>
+    <string name="pdf_save_error">Оскільки тіло завелике, його не можна експортувати як PDF файл</string>
+    <string name="pdf_save_no_body">Зачекайте, поки текст завантажується успішно і повторіть спробу</string>
     <string name="pdf_save_to">Збережено в</string>
-    <string name="pdf_signature_create_title">Створити підпис</string>
-    <string name="pdf_signature_manager_max_count">Максимальна кількість підписів, будь ласка, видаліть існуючий підпис і спробуйте ще раз</string>
-    <string name="pdf_signature_manager_title">Менеджер підписів</string>
-    <string name="pdf_viewer_actionbar_more_other">Відкрити іншим додатком</string>
-    <string name="pdf_viewer_actionbar_more_wps">Відкрито WPS</string>
-    <string name="pdf_viewer_file_damage_toast">Pdf файл пошкоджено. Перевірте файл і спробуйте ще раз</string>
-    <string name="pdf_viewer_new_email">Нова адреса електронної пошти</string>
+    <string name="pdf_signature_create_title">Намалюйте підпис</string>
+    <string name="pdf_signature_manager_max_count">Досягнута максимальна кількість підписів, які можуть бути створені. Будь ласка, видаліть існуючий підпис перед їх створенням</string>
+    <string name="pdf_signature_manager_title">Керування підписами</string>
+    <string name="pdf_viewer_actionbar_more_other">Відкрити в інших програмах</string>
+    <string name="pdf_viewer_actionbar_more_wps">Відкрити в WPS</string>
+    <string name="pdf_viewer_file_damage_toast">PDF-файл пошкоджений, будь ласка, перевірте файл і спробуйте ще раз</string>
+    <string name="pdf_viewer_new_email">Надіслати поштою</string>
     <string name="pdf_viewer_reply">Відповісти з цим файлом</string>
     <string name="pdf_viewer_save_signature">Зберегти підпис</string>
     <string name="pdf_viewer_sign_file_damage_toast">Файл не існує</string>
@@ -879,8 +881,8 @@
     <string name="perference_setup_send_tag">Сервер вихідної пошти</string>
     <string name="permission_access_provider_desc">Дозволяє програмі отримувати доступ до пошти, імен користувачів та паролів.</string>
     <string name="permission_access_provider_label">Доступ до даних електронної пошти</string>
-    <string name="permission_des_calendar">Для синхронізації подій календаря</string>
-    <string name="permission_des_contact">Для доступу до адрес електронної пошти ваших контактів з метою автозаповнення адреси одержувача</string>
+    <string name="permission_des_calendar">Він використовується для синхронізації ваших листів з розкладом в календар часі. Рекомендується вибрати Завжди Дозволити</string>
+    <string name="permission_des_contact">Використовується для миттєвої синхронізації контактів з електронною поштою у мобільні контакти, рекомендується вибрати Завжди</string>
     <string name="permission_des_external_storage">Для створення нових листів, а також збереження і додавання вкладень</string>
     <string name="permission_read_attachment_desc">"Дозволити програмі відкрити вкладення електронної пошти"</string>
     <string name="permission_read_attachment_label">Відкривати вкладення</string>
@@ -1087,6 +1089,7 @@
     <string name="server_cet_issuer_no_trust">"Цей сертифікат отриманий з ненадійних джерел."</string>
     <string name="server_cet_subject_cn">"Підтримуваний домен: "</string>
     <string name="server_cet_title">Деталі сертифікату</string>
+    <string name="server_log">Угода про надання послуг</string>
     <string name="service_protocol_discribe"><u>Я прочитав та погодився з \"Угодою про надання послуг WPS Пошти\"</u></string>
     <string name="service_protocol_title">Угода про надання послуг</string>
     <string name="set_network">Встановити мережу</string>
@@ -1110,7 +1113,7 @@
     <string name="signature_black_shark">Відправлено з телефону Blackshark</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="sms_not_found_tip">Не вдалося запустити системну SMS-програму. Будь ласка, запустьте програму SMS та надішліть SMS з підтвердженням.</string>
+    <string name="sms_not_found_tip">"Не вдалося відкрити додаток для SMS за умовчанням. Відкрийте програму та надішліть SMS вручну через верифікацію."</string>
     <string name="smtp_password_error">Невірний пароль сервера вихідних повідомлень</string>
     <string name="sort_attachment">Сортування</string>
     <string name="special_text_1">写道:</string>
@@ -1156,8 +1159,11 @@
     <string name="toast_bar_send_fail_remind">"Не вдалося надіслати листа, його було збережено у папці \"Вихідні\"."</string>
     <string name="toast_bar_sync_failed_client_cert">"Не вдається синхронізувати через відсутність сертифікату. Натисніть, щоб додати сертифікат ще раз."</string>
     <string name="toast_bar_sync_failed_mi_authority">Увійдіть для авторизації вашого пристрою</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Графік і інформація про контакт не були синхронізовані в реальному часі, дозвіл на доступ до контактів встановлено</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Надайте Пошті необхідні дозволи у Налаштуваннях, щоб синхронізовувати інформацію календаря та контакти</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">Пошта не може запланувати синхронізацію в реальному часі, встановити права доступу до календаря завжди дозволити</string>
     <string name="toastbar_calendar_permission_switch_close">Надайте Пошті необхідні дозволи у Налаштуваннях, щоб отримувати нагадування календаря</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">Контактна інформація не була синхронізовано в режимі реального часу, встановлено дозвіл на доступ до контактів, щоб завжди дозволити</string>
     <string name="toastbar_contacts_permission_switch_close">Надайте Пошті необхідні дозволи у Налаштуваннях, щоб додавати контакти</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Увімкніть синхронізацію календаря та контактів для їх синхронізації</string>
     <string name="toastbar_local_calendar_sync_switch_close">Увімкніть синхронізацію календаря, щоб отримувати нагадування</string>
@@ -1171,11 +1177,11 @@
     <string name="toolbar_part_symbol">Знак абзацу</string>
     <string name="topic_merge">Налаштування екрану</string>
     <string name="topic_merge_summary">Згрупувати за темою</string>
-    <string name="train_card_title">Квиток на поїзд успішно придбаний</string>
-    <string name="train_card_title_alternate">Чекаємо на квиток до потягу успішно</string>
-    <string name="train_card_title_change">Тікет поїзда успішно змінено</string>
-    <string name="train_card_title_change_arrival">Тікет поїзда успішно змінено</string>
-    <string name="train_card_title_refund">Успішне повернення квитка по поїздок</string>
+    <string name="train_card_title">Успішна покупка квитка</string>
+    <string name="train_card_title_alternate">Операція списка очікування тікета була успішною</string>
+    <string name="train_card_title_change">Тікет змінено успішно</string>
+    <string name="train_card_title_change_arrival">Тікет змінено успішно</string>
+    <string name="train_card_title_refund">Повернення квитка до замовлення</string>
     <string name="translation_loading">Секунду…</string>
     <string name="translation_no_result">Немає результатів</string>
     <string name="translation_pronunciation_am">Американська англійська</string>
@@ -1210,6 +1216,12 @@
     <string name="upload_log_title">Надсилайте звіти, щоб допомогти нам покращити сервіс Mail</string>
     <string name="upload_log_yes">Надіслати</string>
     <string name="uploading_logs">Зачекайте…</string>
+    <string name="user_experience_content">Будь ласка, підтвердіть, що ви прочитали і погодилися з програмою користувацького досвіду</string>
+    <string name="user_experience_log">Програма користувацького досвіду</string>
+    <string name="user_experience_login">Приєднатися до</string>
+    <string name="user_experience_logout">Завершити роботу програми</string>
+    <string name="user_experience_positive">Погодитись і продовжити</string>
+    <string name="user_experience_title">Декларація та умови</string>
     <string name="user_new_auth_code">Використайте новий код для входу</string>
     <string name="user_privacy_settings">Налаштування конфіденційності</string>
     <string name="user_privacy_settings_agreement_authorization">"(Натискаючи \"Пооджуюся\" ви даєте Пошті всі необхідні дозволи)"</string>
@@ -1226,11 +1238,11 @@
     <string name="wait_for_sync_title">Очікування на синхронізацію</string>
     <string name="wait_help_context">очікування</string>
     <string name="wait_while_update_db">Оновлення бази даних…</string>
-    <string name="web_view_load_error_tip">Деякі проблеми відбулися, і тіло цього листа не може бути відображене належним чином. Якщо ви стикаєтеся з цією проблемою, будь ласка, додайте QQ групу 952315061 щоб дати нам відгук.</string>
+    <string name="web_view_load_error_tip">"Тіло цього листа не може бути коректно відображено. Повідомте нам про цю проблему у нашій групі QQ (952315061)."</string>
     <string name="webview_logout">Ви можете спробувати увійти ще раз</string>
     <string name="webview_logout_cancel">Не зараз</string>
     <string name="webview_logout_sure">Повторити спробу</string>
-    <string name="webview_not_found">Сторінка не може бути відкрита, тому що компонент WebView не може бути знайдений.</string>
+    <string name="webview_not_found">"Не вдалося відкрити сторінку, через відсутність додатка WebView"</string>
     <string name="webview_sslerror_handle_cancel">Скасувати</string>
     <string name="webview_sslerror_handle_continue">Продовжити</string>
     <string name="webview_sslerror_handle_hitmessage">Сталася помилка сертифіката, продовжити все одно?</string>
@@ -1239,7 +1251,7 @@
     <string name="wipe_account_fail_description">Дозволити</string>
     <string name="wipe_account_fail_title">"Не вдалося видалити особисту інформацію"</string>
     <string name="wps_card_button_tips">Відкрити Kingsoft Документ</string>
-    <string name="wps_card_tips">Знайдене посилання на спільний доступ з \"%s\"</string>
+    <string name="wps_card_tips">Found a Kingsoft Document sharing link from %s</string>
     <string name="wps_card_title">Kingsoft Документ</string>
     <string name="wrong_password">Невірний пароль</string>
     <string name="xiaomi_email">Пошта</string>

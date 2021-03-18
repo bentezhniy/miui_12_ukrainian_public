@@ -851,6 +851,8 @@ dd/M"</string>
     <string name="resource_wallpaper_download">Завантажити шпалери</string>
     <string name="restore_home_icon_text">Додати ярлик на головний екран</string>
     <string name="restore_icon_later">Ви можете додати ярлик на головний екран в Налаштуваннях</string>
+    <string name="ringtone_confirm_dialog_message">"Тривалість цього дзвінка відносно довга. Використовувати її в будь-якому випадку?"</string>
+    <string name="ringtone_confirm_dialog_title">Увага</string>
     <string name="ringtone_set_success">Встановлено успішно</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
@@ -877,8 +879,7 @@ dd/M"</string>
     <string name="set_as_colorring">Встановити як користувацький звук</string>
     <string name="set_color_ring_back_tone">Встановити власну мелодію</string>
     <string name="set_home_wallpaper_failed">"%s. Неможливо застосувати шпалери на робочий стіл"</string>
-    <string name="set_wallpaper_group_success">"%1$s застосовувався.
-Ви бачитимете нове зображення щогодини."</string>
+    <string name="set_wallpaper_group_success">Застосовано шпалери%1$s\" вдало</string>
     <string name="setting_font_online">Шрифти онлайн</string>
     <string name="settings">Налаштування</string>
     <string name="settings_search_keyword_font_free">Вільні шрифти</string>
@@ -1103,8 +1104,8 @@ dd/M"</string>
     <string name="theme_yes">ОК</string>
     <string name="third_party_pickers_activity_title">Додати %1$s</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Т</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Ч</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="time_picker_label_hour">Н</string>
     <string name="time_picker_label_minute">М-ль</string>

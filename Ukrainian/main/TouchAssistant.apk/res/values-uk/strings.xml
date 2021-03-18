@@ -252,8 +252,8 @@
     <string name="theme_manager_not_supported">"Менеджер тем не підтримується."</string>
     <string name="three_seconds_auto_hide">Приховувати після 3 секунд бездіяльності</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
