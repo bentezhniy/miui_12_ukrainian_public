@@ -387,7 +387,11 @@
     <string name="add_fingerprint_toast_text">Помістіть палець на сенсор</string>
     <string name="add_front_fingerprint_instruction_msg">Сенсор відбитків вбудований в кнопку \"Додому\" на вашому пристрої.</string>
     <string name="add_new">Додати</string>
+    <string name="add_one_text_app_name_once">Ви можете додати одночасно один пакет</string>
     <string name="add_rule">Додати розклад</string>
+    <string name="add_text_app_name">Додати тестовий пакет</string>
+    <string name="add_text_app_name_here">Введіть назву пакунку</string>
+    <string name="add_text_app_package_name">Додати тестовий пакет</string>
     <string name="add_virtual_keyboard">Керувати екранною клавіатурою</string>
     <string name="adding_profile_owner_warning">"Якщо продовжити, користувачем керуватиме адміністратор, який також зможе зберігати пов’язані з ним дані, а також ваші особисті.
 
@@ -1697,6 +1701,8 @@
     <string name="codec_low_latency_summary">Мінімізувати затримку під час відтворення аудіо у іграх та синхронізації відео</string>
     <string name="codec_low_latency_title">Низька затримка</string>
     <string name="codec_low_latency_video_summary">Забезпечте досвід аудіо з низькою затримкою для ігор та відео, роблячи звукові та синхронізацію зображення більш реалістичними.</string>
+    <string name="codec_low_latency_zmi_summary">Зменшити затримки звуку та покращити звукові ефекти для ігор автоматично</string>
+    <string name="codec_low_latency_zmi_title">Низька затримка для ігор</string>
     <string name="color_black">Чорний</string>
     <string name="color_blue">Синій</string>
     <string name="color_calibration_none">Цей пристрій</string>
@@ -4267,10 +4273,11 @@ Xiaomi Cloud
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Центральна площа</string>
     <string name="miheadet_up_music">Попередня композиція</string>
-    <string name="miheadset_Box">Ящик</string>
+    <string name="miheadset_Box">Звернення</string>
     <string name="miheadset_LeftEar">Ліворуч</string>
     <string name="miheadset_RightEar">Праворуч</string>
     <string name="miheadset_active">Енергійний</string>
+    <string name="miheadset_adaptive">Адаптивний колір</string>
     <string name="miheadset_ancClosed">Вимкнено</string>
     <string name="miheadset_ancHigh">Літак</string>
     <string name="miheadset_ancLow">Офіс</string>
@@ -8133,7 +8140,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="wifi_assistant_auto_confirm_data_message">"Використовувати мобільний інтернет, коли пристрій не може підключитися до мережі Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"Більше не показувати"</string>
     <string name="wifi_assistant_confirm_connection_title">"Автоматично вибирати найкращу мережу"</string>
-    <string name="wifi_assistant_data_prompt">Попередження</string>
+    <string name="wifi_assistant_data_prompt">Показувати попередження про використання даних</string>
     <string name="wifi_assistant_data_prompt_summary">Показувати попередження щодо трафіку під час перемикання на мобільний інтернет</string>
     <string name="wifi_assistant_description">"Ось, як працює ця функція:
 1. При поганій якості підключення ваш пристрій автоматично спробує підключитися до інших доступних мереж Wi-Fi
@@ -8386,12 +8393,13 @@ OTG автоматично відключається через 10 хвилин
     <string name="wifi_link_turbo_customize">Власні програми</string>
     <string name="wifi_link_turbo_customize_summary">Виберіть програми, які будуть працювати з помічником Wi-Fi у відповідності до ваших уподобань</string>
     <string name="wifi_link_turbo_list">Програми</string>
+    <string name="wifi_link_turbo_mode">Режим прискорення</string>
     <string name="wifi_link_turbo_no_app">Програми відсутні.</string>
     <string name="wifi_link_turbo_off">Вимк</string>
     <string name="wifi_link_turbo_on">Увімк</string>
     <string name="wifi_link_turbo_recommendation">Рекомендовані програми</string>
     <string name="wifi_link_turbo_recommendation_summary">Отримувати рекомендації, засновані на статистиці трафіку</string>
-    <string name="wifi_link_turbo_summary">Збільшувати швидкість з\'єднання в обраних програмах за допомогою мобільного інтернету, якщо підключення по Wi-Fi працює погано</string>
+    <string name="wifi_link_turbo_summary">Використовувати мобільний інтернет для прискорення швидкості. Використання цієї функції може генерувати додаткові збори оператора.</string>
     <string name="wifi_menu_advanced">Додатково</string>
     <string name="wifi_menu_configure">Налаштувати</string>
     <string name="wifi_menu_connect">Підключитися до мережі</string>

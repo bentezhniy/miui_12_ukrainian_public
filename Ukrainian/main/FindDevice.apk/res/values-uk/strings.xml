@@ -68,7 +68,9 @@
     <string name="find_device_error_unknown">Невідома помилка (%s).</string>
     <string name="find_device_noise_title">Сигнал пошуку пристрою</string>
     <string name="find_device_notice">Перейдіть на&lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;, щоб знаходити, блокувати або відновлювати ваш пристрій.</string>
-    <string name="find_device_notice_sms_alert">Якщо ви замінили SIM-карту, SMS для повторної активації буде відправлено автоматично.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Щоб оновити статус SIM-карти та переконатися, що всі послуги працюють нормально, одне &lt;font color=#0097FF&gt;&lt;b&gt;платне текстове повідомлення&lt;/b&gt;&lt;/font&gt; буде відправлено після переходу на SIM-карту. Ви будете сплачені за це повідомлення від вашого перевізника."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Щоб оновити статус SIM-карти та переконатися, що всі послуги працюють нормально, одне &lt;font color=#0097FF&gt;&lt;b&gt;внутрішньоплатне текстове повідомлення&lt;/b&gt;&lt;/font&gt; буде відправлено після переключення SIM-карти. Ви будете сплачені за це повідомлення від вашого перевізника."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Щоб оновити статус SIM-карти та переконатися, що всі послуги працюють нормально, один &lt;font color=#0097FF&gt;&lt;b&gt;міжнародне платне повідомлення&lt;/b&gt;&lt;/font&gt; буде відправлено після переходу на SIM-карту. Ви будете сплачені за це повідомлення від вашого перевізника."</string>
     <string name="find_device_stop_noise">Натисніть OK щоб вимкнути звук</string>
     <string name="find_device_storage_corrupted">Сховище програми пошуку пристрою пошкоджене. Ваш пристрій зараз у небезпеці.</string>
     <string name="find_device_success_title">Пошук пристрою</string>

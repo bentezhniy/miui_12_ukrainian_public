@@ -415,6 +415,7 @@
     <string name="phone_can_not_be_empty">"Поле номера телефону не може бути порожнім"</string>
     <string name="phone_number">Номер телефону</string>
     <string name="phone_storage">Внутрішня пам\'ять</string>
+    <string name="picture">Галерея</string>
     <string name="picture_is_being_saved">Картинка зберігається</string>
     <string name="place_barcode_into_rectangle">Помістіть код всередину рамки</string>
     <string name="plant_fail">"Не вдалося розпізнати"</string>

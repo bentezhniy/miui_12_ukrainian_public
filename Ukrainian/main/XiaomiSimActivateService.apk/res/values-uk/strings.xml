@@ -45,9 +45,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Надіслати знову</string>
     <string name="activate_popup_confirm_failed_server">Повторити спробу</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 міжнародних повідомлення будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg">Для активації %2$s буде відправлено %1$d міжнародних повідомлення. Ваш оператор буде стягувати за них плату.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш оператор заплатить за ці повідомлення.</string>
     <string name="activate_popup_desc_2_sim_cards">2 звичайних повідомлення будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg">Для активації %2$s буде відправлено %1$d звичайне повідомлення. Ваш оператор буде стягувати за них плату.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;буде відправлений внутрішній платний СМС&lt;/b&gt; . Ваш оператор заплатить за ці повідомлення.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Не вдається знайти номер телефону. Переконайтеся, що SIM-карта активована.
 Введіть номер телефону нової SIM-карти для повторної активації %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не вдалося відправити SMS для активації. Переконайтеся, що SIM-карта активована.
@@ -64,10 +64,10 @@
     <string name="activate_popup_desc_find_device_postfix">Після заміни SIM-картки може бути відправлене SMS для активації.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активації %3$s введіть номер телефону SIM-карти %2$d. Якщо ви замінили цю SIM-карту, буде відправлено повідомлення з кодом активації.</string>
     <string name="activate_popup_desc_intl_sim_card">Міжнародне SMS буде відправлене для активації %s. За нього стягується плата.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg">Для активації %2$s буде відправлено %1$d міжнародне повідомлення. Ваш оператор буде стягувати за нього плату.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt;. Ваш оператор заплатить за це повідомлення.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Зверніться до &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Керівництва з використання Мі акаунту&lt;/a&gt;, якщо у вас виникнуть будь-які запитання.&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 повідомлення (звичайне та міжнародне) будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg">Для активації %3$s було відправлено %1$d звичайне та %2$d міжнародне SMS. Ваш оператор може стягувати плату за ці повідомлення.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Аби активувати %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;також будуть відправлені платні SMS&lt;/b&gt; , &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;міжнародне платне смс-повідомлення&lt;/b&gt; . Ваш перевізник стягує з вас кошти за ці повідомлення.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Схоже, що ви замінили SIM-картку. 2 міжнародні повідомлення будуть відправлені для активації %s. За них стягується плата."</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Схоже, що ви замінили SIM-картку. 2 звичайні повідомлення будуть відправлені для активації %s. За них стягується плата."</string>
     <string name="activate_popup_desc_new_intl_sim_card">"Схоже, що ви замінили SIM-картку. Міжнародне SMS буде відправлене для активації %s. За нього стягується плата."</string>
@@ -80,7 +80,7 @@
     <string name="activate_popup_desc_sim_card">Звичайне SMS буде відправлене для активації %s. За нього стягується плата.</string>
     <string name="activate_popup_desc_sim_card_downlink">Введіть поточний номер телефону для активації %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Для активації %2$s введіть номер телефону SIM-карти %1$d.</string>
-    <string name="activate_popup_desc_sim_card_msg">Для активації %2$s буде відправлено %1$d звичайне повідомлення. Ваш оператор буде стягувати за нього плату.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;оплачені SMS&lt;/font&gt; будуть відправлені. Ваш оператор заплатить вам за це повідомлення.</string>
     <string name="activate_popup_desc_voip_privacy">Політика конфіденційності</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Служба VoIP надається компанією Weihui. Переглянути"</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Для активації %3$s введіть номер телефону SIM-карти %2$d. Технічна підтримка надається Weihuitel. Перегляньте Політику конфіденційності Weihuitel, щоб отримати більш детальну інформацію.</string>

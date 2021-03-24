@@ -1510,6 +1510,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gamebooster_network_dialog_title">"Деякі функції недоступні"</string>
     <string name="gamebox_app_not_find">Спочатку встановіть програму.</string>
     <string name="gamebox_browser_not_find">Встановіть Мі Браузер</string>
+    <string name="gamebox_collimator">Приціл</string>
     <string name="gamebox_display_1">Нічого</string>
     <string name="gamebox_display_2">Насиченість</string>
     <string name="gamebox_display_3">Яскравість</string>
@@ -1538,6 +1539,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gamebox_qq_not_find">Встановіть QQ та повторіть спробу.</string>
     <string name="gamebox_recent_task_expand_fail">"Немає програм, які працюють з ярликами"</string>
     <string name="gamebox_simcard">Змінити SIM-карти</string>
+    <string name="gamebox_time">Таймер</string>
     <string name="gamebox_type_close">"Не показувати"</string>
     <string name="gamebox_type_float">Фіксована</string>
     <string name="gamebox_type_gesture">Провести, щоб показати</string>
@@ -1588,6 +1590,10 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gb_advance_settings_vibration_4d_summary2">Вібрувати під час смерті у грі</string>
     <string name="gb_audition_instruction">Натисніть та утримуйте для запису (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Для найкращого ефекту підключіть навушники</string>
+    <string name="gb_collimator_color">Колір</string>
+    <string name="gb_collimator_size">Розмір</string>
+    <string name="gb_collimator_style">Тип</string>
+    <string name="gb_collimator_toast">Вигляд виглядає набагато зручнішим</string>
     <string name="gb_create_icon_summary">Створити ярлик на робочому столі</string>
     <string name="gb_description_image_button_answer">Відповісти</string>
     <string name="gb_description_image_button_reject">Відхилити</string>
@@ -1622,6 +1628,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gb_game_macro_bubble_tips">Спробуйте комбо</string>
     <string name="gb_game_macro_toast_tips">"Спробуйте поєднатися!
 Записуйте послідовності і використовуйте їх в будь-який час!"</string>
+    <string name="gb_game_time_toast">Таймер доступний!</string>
     <string name="gb_game_video_bottom_tips">Дивіться записи ваших сеансів в ігровому ящику. За замовчуванням відео будуть зберігатися там протягом 7 днів.</string>
     <string name="gb_game_video_item_tag">Ключовий момент</string>
     <string name="gb_game_video_page_delete_success">Видалено успішно</string>
@@ -1648,6 +1655,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gb_msg_transparent_dispaly_summary">Прозорий</string>
     <string name="gb_network_status_bad">Сталася помилка підключення.</string>
     <string name="gb_new_feature">Нова функція</string>
+    <string name="gb_not_support_on_device">"Цей додаток не можна використовувати на зовнішньому екрані"</string>
     <string name="gb_operat_frequently">Не так швидко!</string>
     <string name="gb_shortcut_pref_title">Ярлик на робочому столі</string>
     <string name="gb_sign_gift">Відмічайтеся, щоб отримати винагороду</string>
@@ -4132,7 +4140,7 @@ Rolled over extra data"</string>
     <string name="traffic_limit_error_alert_title">Нагадування про трафік %s</string>
     <string name="traffic_limit_input">Обмеження даних (обов\'язково)</string>
     <string name="traffic_none">Немає</string>
-    <string name="traffic_over_purchase_link">"Ви досягли межі трафіку.&lt;br/&gt;За подальше використання мобільного інтернету може стягуватися додаткова плата оператором.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Натисніть, щоб поповнити баланс.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"Ви досягли ліміту використання даних вашого мобільного плану.&lt;br/&gt;Якщо ви перевищите обмеження використання даних на план, ваш оператор може стягувати додаткову плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Натисніть, щоб поповнити баланс.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"SIM-карта не встановлена"</string>
     <string name="traffic_purchase_body">Натисніть, щоб поповнити баланс.</string>
     <string name="traffic_setting_fragment_area">Регіон</string>
@@ -4231,6 +4239,7 @@ Rolled over extra data"</string>
     <string name="vb_quick_func_screen_record">Запис</string>
     <string name="vb_quick_func_screening">Трансляція</string>
     <string name="vb_settings">Налаштування</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Ці ефекти будуть застосовані до всього екрану</string>
     <string name="vb_ve_settings_pic_border_stronger">Покращені контури</string>
     <string name="vb_ve_settings_picture_stronger">Покращена анімація</string>
@@ -4287,6 +4296,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">Попередження</string>
     <string name="virus_wait_network_dialog_message">"Ваш телефон не підключено до Wi-Fi. Використати мобільний інтернет?"</string>
     <string name="vtb_func_desc">Детальніше про цю функцію</string>
+    <string name="vtb_func_display_style_desc0">ШІ може розпізнавати людей, тварин, рослин, небо, будівлі, інші об\'єкти, позначені у відео та динамічно покращувати їх.</string>
     <string name="vtb_func_display_style_desc1">"Вибрані ефекти не будуть застосовані до відео у форматі HDR на вибраних пристроях."</string>
     <string name="vtb_func_display_style_desc2">"Ці ефекти не можуть бути застосовані до скріншотів."</string>
     <string name="vtb_func_frc_desc0">Згладжування руху зменшує розмиття і додає деталей до рухомих об\'єктів. Використання цієї функції збільшує енергоспоживання.</string>

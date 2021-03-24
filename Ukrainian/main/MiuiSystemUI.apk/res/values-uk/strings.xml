@@ -790,6 +790,7 @@
     <string name="fingerprint_not_identified_title">Введіть пароль</string>
     <string name="fingerprint_try_again_msg">"Не вдалося перевірити відбиток пальця, спробуйте ще раз."</string>
     <string name="fingerprint_try_again_text">Повторити спробу</string>
+    <string name="float_notification_snooze_strategy">Приховати плаваючі сповіщення тимчасово</string>
     <string name="force_allow_on_external">Дозволити зберігання на зовнішніх накопичувачах</string>
     <string name="force_allow_on_external_summary">Дозволити збереження програм на зовнішніх накопичувачах незалежно від значень в маніфесті</string>
     <string name="force_msaa">Увімкнути 4x MSAA</string>
@@ -1229,6 +1230,15 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Виконано</string>
     <string name="miui_notification_menu_snooze">Повторити</string>
     <string name="miui_notification_menu_title_not_allow">Обмежити</string>
+    <string name="miui_snooze_always_float">"Не приховувати"</string>
+    <string name="miui_snooze_cancel">Скасувати</string>
+    <string name="miui_snooze_default_time">Протягом %d хвилини</string>
+    <string name="miui_snooze_to_settings">Налаштування</string>
+    <string name="miui_snooze_toast_hint_default">"Майбутні сповіщення будуть приховані на %d хвилину. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Майбутні сповіщення будуть приховані, поки пристрій не буде заблоковано. "</string>
+    <string name="miui_snooze_until_unlock_screen">До заблокованого</string>
+    <string name="miui_snooze_user_set_fail">Перейдіть до Налаштувань &gt; Повідомлення &amp; Контрольний центр для додаткових опцій</string>
+    <string name="miui_snooze_user_set_success">Успішно застосовано. Перейдіть в Налаштування &gt; Повідомлення &amp; Контрольний центр для додаткових опцій.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>

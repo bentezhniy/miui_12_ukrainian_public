@@ -525,6 +525,7 @@
     <string name="dialog_button_connect">Підключитися</string>
     <string name="dialog_button_disconnect">Вийти</string>
     <string name="dialog_button_exit">Вимкнути</string>
+    <string name="dialog_button_goto">Налаштування</string>
     <string name="dialog_button_ok">Гаразд</string>
     <string name="dialog_button_reject">Відхилити</string>
     <string name="dialog_button_scan">Пошук пристроїв</string>
@@ -568,10 +569,13 @@
     <string name="dual_camera_too_close_toast">Камера знаходиться занадто близько до об\'єкта.</string>
     <string name="dual_camera_use_hint">"Переконайтеся, що об'єкт розміщено не далі ніж за 2 метри."</string>
     <string name="dual_video_record_merged">Поєднане</string>
+    <string name="dual_video_record_remote">Подвійний запис телефону</string>
     <string name="dual_video_record_standalone">Розділені</string>
     <string name="dual_video_user_guide_main_content">Щоб створити багатокамерне відео, виберіть два об\'єктива і почніть зйомку з одночасним використанням обраних камер. Запис може бути збережений у вигляді двох окремих файлів, а також в якості об\'єднаного відео в режимі поділу екрану або \"картинка в картинці\".</string>
     <string name="dual_video_user_guide_main_title">Багатокамерна зйомка</string>
     <string name="dual_video_user_guide_merge_content">Одночасна зйомка двома камерами з можливістю об\'єднання відео в режимі розділення екрану або\"картинка в картинці\".</string>
+    <string name="dual_video_user_guide_remote_content">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
+    <string name="dual_video_user_guide_remote_p">Телефон %d</string>
     <string name="dual_video_user_guide_standalone_content">Одночасна зйомка двома камерами з можливістю збереження двох записів в якості окремих відео.</string>
     <string name="edit_blusher">Рум\'яна</string>
     <string name="edit_chin">Підборіддя</string>
@@ -1328,7 +1332,7 @@
     <string name="pref_hdr10plus_video_mode_description">Оптимізуйте кольори і налаштуйте контраст для 4K і 8K відео. Ця функція працює тільки на сумісних пристроях HDR10+.</string>
     <string name="pref_i_n_r_b">Розумне зниження шуму</string>
     <string name="pref_k_h">Живий монітор</string>
-    <string name="pref_k_s_i">Відтворювати записаний звук у навушники після під\'єднання</string>
+    <string name="pref_k_s_i">Моніторинг запису звуку через навушники у підключенні</string>
     <string name="pref_lens_dirty_detect_summary">Отримувати сповіщення, коли об\'єктив забруднено</string>
     <string name="pref_lens_dirty_detect_title">Сповіщати про брудний об\'єктив</string>
     <string name="pref_live_duration_title">Тривалість наживо</string>
@@ -1368,6 +1372,7 @@
     <string name="pref_super_night_se_summary">Отримуйте низькоосвітлені умови та покращуйте якість зображення автоматично</string>
     <string name="pref_super_night_se_title">Нічний режим</string>
     <string name="pref_userdefine_watermark_title">Власний водяний знак</string>
+    <string name="pref_video_ai_audio_single">Лобовий звук</string>
     <string name="pref_video_captrue_ability_title">Захоплення кадру при зйомці</string>
     <string name="pref_video_cast_setting_summary">Увімкніть для можливості стріляти одне відео з кількома пристроями</string>
     <string name="pref_video_cast_setting_title">Подвійний запис телефону</string>
@@ -1417,6 +1422,11 @@
     <string name="pref_watermark_title">Водяний знак</string>
     <string name="pref_wind_denoise_title">Фільтр вітру</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
+    <string name="prek_b_j_o">Повторно створити стереозвучений ефект</string>
+    <string name="prek_b_j_p">Зменшення впливу вітру на запис звуку</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Звуки від предмету у фокусі покращені</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Звуки позаду екрану фільтруються</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудіо Зум не працює з живим через вушний монітор та зовнішнім мікрофоном"</string>
     <string name="preparing_sd">Підготовка SD карти...</string>
     <string name="preview_back_pressed_hint">Натисніть ще раз, щоб повернутися до перегляду</string>
     <string name="pro_color_mode">Професійні кольори</string>
@@ -1434,6 +1444,7 @@
     <string name="remote_online_interrupted">Підключіться ще раз для продовження.</string>
     <string name="remote_online_introduction_i">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
     <string name="remote_online_introduction_ii">Для того, щоб зробити цю функцію працюючою, інші Mi або Redmi повинні підтримувати Dual phone recording. Вона може бути увімкнена за допомогою перемикача центру управління.</string>
+    <string name="remote_online_permission">"Змініть дозвіл на місцезнаходження камери на \"Дозволити лише під час використання програми\", щоб використовувати подвійний телефонний запис."</string>
     <string name="remote_online_searching">Пошук пристроїв…</string>
     <string name="remote_online_service_name">Подвійний запис телефону</string>
     <string name="remote_online_unavailable">"Не вдалося знайти пристрої поблизу"</string>

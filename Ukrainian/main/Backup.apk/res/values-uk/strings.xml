@@ -645,6 +645,7 @@ r
 Звільніть пам'ять або передайте тільки важливі файли."</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover необхідне місце для пакування переданих даних, але схоже, що на старому пристрої недостатньо вільного місця. Звільніть місце у меню \"Безпека\" або передайте тільки важливі об'єкти."</string>
     <string name="trans_old_phone_low_space_title">Недостатньо пам\'яті</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Перезавантажте пристрій або перевірте, чи може Mi Mover використовувати &lt;b&gt;Камеру&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Не вдалося підключитися до Камери"</string>
     <string name="trans_open_location_button">Увімкнути</string>
@@ -759,6 +760,7 @@ r
     <string name="wifi_title">Параметри Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Не вдалося запустити завантаження. Переконайтеся, що Менеджер завантажень працює нормально."</string>
     <string name="xiaomi_external_storage_unavailable">"Сховище недоступне, перевірте вашу SD-карту."</string>
+    <string name="xiaomi_router">Mi Роутер</string>
     <string name="xiaomi_router_location">Mi роутер %s</string>
     <string name="xiaomi_update_dialog_message">"Представлена версія %1$s
 Розмір:%2$s"</string>

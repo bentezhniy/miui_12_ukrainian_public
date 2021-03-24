@@ -196,7 +196,7 @@ ID:%s
     <string name="feedback_choose_third_app_name">Виберіть ім\'я програми</string>
     <string name="feedback_collect_log_failed">"Не вдалося отримати журнали"</string>
     <string name="feedback_contact_info_hint">Номер телефону/Email</string>
-    <string name="feedback_continue">Продовжити, надавши відгук</string>
+    <string name="feedback_continue">Відправити відгук</string>
     <string name="feedback_delete_images">Видалити зображення</string>
     <string name="feedback_description">Опис</string>
     <string name="feedback_description_hint">"Опишіть проблему, з якою ви зіткнулися.
@@ -620,7 +620,7 @@ ID:%s
     <string name="stop_full_log_dialog_title">Створення журналів…</string>
     <string name="submit_dialog_cancel">"Не згоден"</string>
     <string name="submit_dialog_confirm">Прийняти</string>
-    <string name="submit_dialog_content">&lt;Data&gt;Ви повинні погодитися з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Угодою користувача&lt;/a&gt; для використання програми Звіт. Проблеми, про які ви повідомляєте, разом з прикріпленими елементами (можуть містити особисті дані, а також інформацію про ваш пристрій та мережі) будуть завантажені на сервери MIUI. Це допоможе нам знайти і вирішити проблеми, про які ви повідомляєте.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content"><Data>\"Прочитати і погодитися з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Угодою користувача&lt;/a&gt; перед надсиланням зворотного зв\'язку. У звіті задачі включені пункти (включаючи логи, які можуть містити персональну інформацію, Також інформація про ваш пристрій і мережу) буде завантажена на сервери MIUI. Це допоможе нам знайти і вирішити проблеми, про які повідомляли. Якщо ви повідомляєте про проблеми з кількома пристроями, то журнали з інших пристроїв, де також будуть завантажені Mi аккаунти.\"</Data></string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Ваш звіт разом з вкладеннями (якщо є) і журналами (ви можете зняти прапорці з відповідних полів для об\'єктів, які ви не хочете відправляти) буде відправлений на сервери MIUI. Журнали можуть містити особисту інформацію і дані про ваше місцезнаходження. Натиснення \"Згоден\", буде означати, що ви прочитали і приймаєте нашу &lt;a href=\"%1$s\"&gt;Політику конфіденціальності&lt;/a&gt; та &lt;a href=\"%2$s\"&gt;Умови використання&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_not_show_again">"Більше не показувати"</string>
     <string name="submit_dialog_title">Відправити звіт</string>

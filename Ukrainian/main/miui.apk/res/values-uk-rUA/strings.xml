@@ -22,6 +22,7 @@
     <string name="click_to_restore">Відновіть системні об\'єкти, щоб мати можливість нормально користуватися системою MIUI після скидання до заводських налаштувань. Натисніть для початку.</string>
     <string name="close">Закрити</string>
     <string name="com_android_email">Пошта</string>
+    <string name="com_android_soundrecorder">Рекордер</string>
     <string name="com_mi_liveassistant">Помічник трансляцій</string>
     <string name="com_miui_calculator">Калькулятор</string>
     <string name="com_miui_cleanmaster">Очищення</string>
@@ -35,6 +36,7 @@
     <string name="com_xiaomi_drivemode">Режим \"За кермом\"</string>
     <string name="com_xiaomi_gamecenter">Ігри</string>
     <string name="com_xiaomi_jr">Mi Finance</string>
+    <string name="com_xiaomi_midrop">Шейм</string>
     <string name="com_xiaomi_scanner">Сканер</string>
     <string name="com_xiaomi_shop">Mi Store</string>
     <string name="com_xiaomi_vipaccount">Спільнота Mi</string>

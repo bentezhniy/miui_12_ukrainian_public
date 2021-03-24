@@ -628,9 +628,13 @@
     <string name="thursday_shortest">Чт</string>
     <string name="time_consume">Затримка</string>
     <string name="time_picker_dialog_title">Установити час</string>
+    <string name="tip_download_icon_restore">Додати ярлик для завантаження</string>
+    <string name="tip_download_icon_retry">"Не вдалося додати ярлик. Повторіть спробу."</string>
     <string name="title_homepage_infoflow">Нещодавні оновлення</string>
     <string name="title_tips">Попередження</string>
     <string name="title_unbind_xunlei">Видалення акаунту Xunlei</string>
+    <string name="toast_download_icon_restore_fail">"Не вдалося додати ярлик"</string>
+    <string name="toast_download_icon_restore_success">Успішно додано</string>
     <string name="toast_only_wifi_download">Підключіться до Wi-Fi, щоб завантажити цей об\'єкт</string>
     <string name="toast_update_data_limit_fail">"Неможливо встановити"</string>
     <string name="toast_xunlei_engine_open">Сервіс прискорення завантаження Xunlei увімкнено.Налаштування сервісу доступні в правому верхньому куті.</string>
