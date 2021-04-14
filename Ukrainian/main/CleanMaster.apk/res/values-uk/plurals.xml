@@ -262,4 +262,10 @@
         <item quantity="few">Видалити %1$d об\'єкта?</item>
         <item quantity="many">Видалити %1$d об\'єктів?</item>
     </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s аудіо файли</item>
+        <item quantity="one">%1$s аудіофайл</item>
+        <item quantity="few">%1$s аудіо файли</item>
+        <item quantity="many">%1$s аудіо файли</item>
+    </plurals>
 </resources>

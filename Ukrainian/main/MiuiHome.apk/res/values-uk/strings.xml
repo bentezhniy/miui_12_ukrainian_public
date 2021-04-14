@@ -432,6 +432,7 @@
     <string name="navigation_type_full_screen">Жести</string>
     <string name="navigation_type_title">Системна навігація</string>
     <string name="navigation_type_virtual_key">Кнопки</string>
+    <string name="network_error">"Не вдалося підключитися до мережі. Спробуйте ще раз."</string>
     <string name="no_detail_page">Відсутня сторінка з деталями</string>
     <string name="no_space_toast">Недостатньо місця</string>
     <string name="no_space_toast_when_click_widget">Недостатньо місця на сторінці. Спробуйте перетягнути об\'єкт на іншу сторінку.</string>
@@ -528,6 +529,8 @@
     <string name="remove_dialog_message">Вибрані програми містять важливі функції системи. Ви можете видалити лише ярлики робочого столу.</string>
     <string name="remove_dialog_title_format">Видалити \"%s\" з головного екрану?</string>
     <string name="remove_invalidate_gadget_tips">Один з використовуваних вами віджетів більше не доступний. Ви можете вибрати інший віджет.</string>
+    <string name="remove_sys_app_content">"Ви зможете знову додати ярлик на головному екрані в меню Налаштування &gt; Додатки &gt; Керування ярликами головного екрану. Видалити зараз?"</string>
+    <string name="remove_sys_app_title">Видалити ярлики на головному екрані?</string>
     <string name="reset_cate_tip_content">Будуть відновлені групи програм за замовчуванням. Ви хочете продовжити?</string>
     <string name="reset_cate_tip_title">Відновити групи за замовчуванням</string>
     <string name="reset_description_first_time">Ви можете відновити макет у %1$s впродовж 2 годин</string>
@@ -538,6 +541,7 @@
     <string name="resource_canary_leak_tip">він має свою слабу!</string>
     <string name="resource_canary_wait_for_heapdump_message">Вивантаження знімка кути...</string>
     <string name="restore_icon_successful">Успішно додано</string>
+    <string name="russia_preinstall_folder_name">Россия</string>
     <string name="screen_cells_config_title">Вигляд робочого столу</string>
     <string name="screen_locked_toast">Робочий стіл заблоковано.</string>
     <string name="screen_number">%d екран</string>
@@ -547,6 +551,7 @@
     <string name="select_all">Вибрати все</string>
     <string name="select_frame">Рамка</string>
     <string name="select_photo">Фото</string>
+    <string name="server_error">Сталася помилка сервера. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="setting_wallpaper_tip">Пересувайте або змінюйте розмір</string>
     <string name="settings">Налаштування</string>
     <string name="settings_shortcut">Налаштування</string>

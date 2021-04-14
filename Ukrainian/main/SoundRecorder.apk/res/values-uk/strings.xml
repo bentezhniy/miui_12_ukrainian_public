@@ -363,6 +363,8 @@
     <string name="reg_error_server">Сталася помилка сервера. Повідомте про неї та повторіть спробу.</string>
     <string name="reg_error_upload_audio">"Не вдалося завантажити файл, повторіть спробу."</string>
     <string name="reg_error_upload_order">"Не вдалося завантажити, повторіть спробу."</string>
+    <string name="remove_icon_description_content">"Recorder - це системна програма. Ви не зможете керувати записами після видалення ярлика на головному екрані."</string>
+    <string name="remove_icon_description_title">Видалити записувач з головного екрану?</string>
     <string name="rename">Перейменувати</string>
     <string name="rename_dialog_title">Перейменувати запис</string>
     <string name="rename_duplicate">Запис таким ім\'ям вже існує.</string>

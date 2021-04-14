@@ -952,6 +952,12 @@
         <item quantity="few">об\'єкта</item>
         <item quantity="many">об\'єктів</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Скасувати (%dсек)</item>
+        <item quantity="one">Скасувати (%dсек)</item>
+        <item quantity="few">Скасувати (%dсек)</item>
+        <item quantity="many">Скасувати (%dсек)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">Заряду вистачить на %s днів</item>
         <item quantity="one">Заряду вистачить на %s день</item>

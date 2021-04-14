@@ -567,6 +567,7 @@
     <string name="character_counter_content_description">Символи увійшли %1$d з %2$d</string>
     <string name="character_counter_overflowed_content_description">Перевищено ліміт символу %1$d з %2$d</string>
     <string name="charge_length_format">%1$s тому</string>
+    <string name="choose_clock_dual_clock_hint_text">"Неможливо змінити формат, коли ввімкнено Dual clock"</string>
     <string name="choose_clock_panel_title">Вигляд екрану блокування</string>
     <string name="choose_clock_third_theme_hint_text">Екран блокування з поточної теми</string>
     <string name="choose_clock_title_left_top">З лівого краю</string>
@@ -714,8 +715,8 @@
     <string name="dnd_is_off">Режим \"Не турбувати\"</string>
     <string name="dnd_notification_warnings_title">Режим \"Не турбувати\" увімкнено. Звуки дзвінків та сповіщень будуть вимкнені.</string>
     <string name="dnd_suppressing_shade_text">Режим \"Не турбувати\" призупинив сповіщення</string>
-    <string name="do_disclosure_generic">Цей пристрій керується вашою організацією</string>
-    <string name="do_disclosure_with_name">Цей пристрій керується %s</string>
+    <string name="do_disclosure_generic">Цей пристрій належить до вашої організації</string>
+    <string name="do_disclosure_with_name">Цей пристрій належить %s</string>
     <string name="do_not_silence">"Не замовчувати"</string>
     <string name="do_not_silence_block">"Не вимикати звук або не блокувати"</string>
     <string name="dock_alignment_not_charging">Переключення телефону для бездротової зарядки</string>
@@ -1844,6 +1845,7 @@ d MMMM"</string>
     <string name="ssl_ca_cert_warning">"Мережевий трафік може
 відстежуватися"</string>
     <string name="standby_bucket_summary">Статистика роботи програми: %s</string>
+    <string name="start_camera_error_try_again">"Не вдалося запустити камеру. Повторіть спробу."</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Рядок стану</string>
     <string name="status_bar_airplane">Режим польоту</string>

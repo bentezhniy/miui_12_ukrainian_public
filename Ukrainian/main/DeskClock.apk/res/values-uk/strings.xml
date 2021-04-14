@@ -599,6 +599,9 @@
     <string name="user_agreement">Угода користувача</string>
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
+    <string name="version_update_dialog_negative_desc">Не зараз</string>
+    <string name="version_update_dialog_positive_desc">Оновити</string>
+    <string name="version_update_dialog_title">Доступне оновлення</string>
     <string name="vibrate_pref_summary">Вібрувати під час сигналу</string>
     <string name="vibrate_when_ringing">Вібрувати під час сигналу</string>
     <string name="voice_add_alarm">Додати будильник за допомогою голосової команди</string>

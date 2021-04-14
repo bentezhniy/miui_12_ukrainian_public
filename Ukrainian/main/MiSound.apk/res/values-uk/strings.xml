@@ -127,10 +127,12 @@
     <string name="music_headphone_settings">Тип навушників</string>
     <string name="music_headset_audio_visual">Візуальні ефекти</string>
     <string name="music_headset_audio_visual_apply">Застосувати</string>
+    <string name="music_headset_audio_visual_mute">Попередній перегляд без звуку</string>
     <string name="music_headset_audio_visual_style">Стиль візуальних ефектів</string>
     <string name="music_headset_audio_visual_style_summary">Вибеіть стиль візуальних ефектів</string>
     <string name="music_headset_audio_visual_summary">Супроводжувати звук візуальними ефектами, які відображаються на екрані блокування</string>
     <string name="music_headset_audio_visual_toast">Успішно застосовано</string>
+    <string name="music_headset_audio_visual_unmute">Попередній перегляд з звуком</string>
     <string name="music_headset_button_settings">Функції кнопок</string>
     <string name="music_headset_calibrate">Калібрування кнопок</string>
     <string name="music_headset_calibrate_apply">Застосувати</string>
@@ -183,6 +185,8 @@
     <string name="music_upper_sixty_years">Старше 60 років</string>
     <string name="name">Ім\'я</string>
     <string name="not_set">Не налаштовано</string>
+    <string name="not_support_sound_transmission_content">"Ця функція не підтримується під'єднаним пристроєм. Спробуйте інший пристрій Bluetooth."</string>
+    <string name="not_support_sound_transmission_prompt">Увага</string>
     <string name="now_here">А зараз?</string>
     <string name="original_sound">Відтворити оригінал</string>
     <string name="personal_sound">Відтворити з налаштуваннями</string>

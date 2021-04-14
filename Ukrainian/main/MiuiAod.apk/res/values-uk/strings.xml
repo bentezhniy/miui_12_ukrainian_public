@@ -70,7 +70,7 @@ d.MM"</string>
     <string name="aod_style">Тема</string>
     <string name="aod_theme_store">Завжди відображати теми</string>
     <string name="aod_to_close">Вимкнути</string>
-    <string name="app_name">Налаштування</string>
+    <string name="app_name">blur</string>
     <string name="apply">Застосувати</string>
     <string name="apply_succeed">Застосовано успішно</string>
     <string name="background_icon">Фон</string>
@@ -84,6 +84,7 @@ d.MM"</string>
     <string name="clear_text_end_icon_content_description">Очистити текст</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="clock_panel_icon">Циферблат</string>
+    <string name="close">Закрити</string>
     <string name="color_change_with_time_description">Автоматично змінювати колір з плином часу</string>
     <string name="color_change_with_time_title">Автоматично змінювати колір</string>
     <string name="component_battery">Заряд</string>
@@ -95,6 +96,7 @@ d.MM"</string>
     <string name="copy">Скопіювати</string>
     <string name="custom_image">Власне зображення</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
+    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="deep_space_planet">Космос</string>
     <string name="deep_space_planet_des">Ця тема відображає зміни освітлення, що відбуваються протягом дня. Світанки і заходи сонця в цій темі синхронізуються з вашим місцем розташування.</string>
     <string name="delete">Видалити</string>
@@ -137,10 +139,13 @@ d.MM"</string>
     <string name="miuix_appcompat_cancel_description">Скасувати</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
+    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Вибрати все</string>
+    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -257,6 +262,7 @@ d.MM"</string>
     <string name="search_menu_title">Пошук</string>
     <string name="select_notification_animation_style">Виберіть спеціальний ефект</string>
     <string name="select_notification_notify_style">Виберіть ефект сповіщення</string>
+    <string name="send">Відправити</string>
     <string name="share">Поділитися</string>
     <string name="share_to_community">Відправити до Mi Спільноти</string>
     <string name="show_battery">Показувати стан заряду батареї</string>

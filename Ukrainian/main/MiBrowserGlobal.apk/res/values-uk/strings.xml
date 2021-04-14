@@ -1795,6 +1795,7 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="setting">Налаштування</string>
     <string name="setting_app_language">Мова браузера</string>
     <string name="setting_feed_language">Мова стрічки</string>
+    <string name="setting_home_page_show_title">Стартова сторінка</string>
     <string name="setting_privacy_password">Встановити графічний ключ для розблокування</string>
     <string name="share_image_text">Подивіться, чим я поділився! @MIUI</string>
     <string name="share_page_text">Подивіться, чим я поділився: %1$s @MIUI | %2$s</string>

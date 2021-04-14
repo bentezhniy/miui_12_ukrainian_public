@@ -84,36 +84,6 @@
         <item quantity="few">через %d хвилин</item>
         <item quantity="many">через %d хвилин</item>
     </plurals>
-    <plurals name="last_sent_time_day">
-        <item quantity="other">%d дн тому</item>
-        <item quantity="one">%d дн тому</item>
-        <item quantity="few">%d дн тому</item>
-        <item quantity="many">%d дн тому</item>
-    </plurals>
-    <plurals name="last_sent_time_hour">
-        <item quantity="other">%d год тому</item>
-        <item quantity="one">%d год тому</item>
-        <item quantity="few">%d год тому</item>
-        <item quantity="many">%d год тому</item>
-    </plurals>
-    <plurals name="last_sent_time_minute">
-        <item quantity="other">%d хв тому</item>
-        <item quantity="one">%d хв тому</item>
-        <item quantity="few">%d хв тому</item>
-        <item quantity="many">%d хв тому</item>
-    </plurals>
-    <plurals name="last_sent_time_month">
-        <item quantity="other">%d місяців тому</item>
-        <item quantity="one">%d місяць тому</item>
-        <item quantity="few">%d місяці тому</item>
-        <item quantity="many">%d місяців тому</item>
-    </plurals>
-    <plurals name="last_sent_time_week">
-        <item quantity="other">%d тижнів тому</item>
-        <item quantity="one">%d тиждень тому</item>
-        <item quantity="few">%d тижні тому</item>
-        <item quantity="many">%d тижнів тому</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Щойно</item>
         <item quantity="few">Щойно</item>
@@ -126,28 +96,10 @@
         <item quantity="few">%d елементів вибрано</item>
         <item quantity="many">%d елементів вибрано</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d сповіщення</item>
-        <item quantity="one">%d сповіщення</item>
-        <item quantity="few">%d сповіщення</item>
-        <item quantity="many">%d сповіщення</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хвилин тому</item>
         <item quantity="one">1 хвилину тому</item>
         <item quantity="few">%d хвилин тому</item>
         <item quantity="many">%d хвилин тому</item>
-    </plurals>
-    <plurals name="sent_frequency_per_day">
-        <item quantity="other">%d сповіщень за день</item>
-        <item quantity="one">%d сповіщення за день</item>
-        <item quantity="few">%d сповіщення за день</item>
-        <item quantity="many">%d сповіщень за день</item>
-    </plurals>
-    <plurals name="sent_frequency_per_week">
-        <item quantity="other">%d сповіщень за тиждень</item>
-        <item quantity="one">%d сповіщення за тиждень</item>
-        <item quantity="few">%d сповіщення за тиждень</item>
-        <item quantity="many">%d сповіщень за тиждень</item>
     </plurals>
 </resources>

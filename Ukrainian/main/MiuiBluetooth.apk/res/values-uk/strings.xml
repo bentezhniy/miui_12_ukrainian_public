@@ -360,6 +360,7 @@
     <string name="headset_device_error_box_close">Вимикається заряджання</string>
     <string name="headset_device_error_disconnect">Обидва телефони відключені. Закрийте випадок зарядки та відкрийте його знову, щоб розпочати оновлення.</string>
     <string name="headset_device_error_failed">"Не вдалося оновити"</string>
+    <string name="headset_device_error_multconnect">"Неможливо оновити коли під’єднано декілька пристроїв"</string>
     <string name="headset_device_error_no_device">Не вистачає принаймні одного навушника з випадку зарядки</string>
     <string name="headset_device_error_single_device">"Не можна оновити навушник. Знову пов'язані."</string>
     <string name="headset_device_sync_donot_move_device">Синхронізація… Зачекайте до завершення синхронізації перед використанням навушників.</string>

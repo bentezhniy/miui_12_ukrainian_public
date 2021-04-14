@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="actionbar_button_up_description">Відмінити</string>
+    <string name="adaptive_fps_tip">2. Досягніть найкращого балансу між гладкістю і життям батареї шляхом динамічної корекції швидкості оновлення.</string>
     <string name="advanced_mode">Розширені налаштування</string>
     <string name="africa_introduction">"Дикі тварини процвітають в Африці - будинок багатьох найвідоміших у світі тварин."</string>
     <string name="african_bush_elephant">Слон саванний</string>
@@ -120,6 +121,7 @@
     <string name="class_breast_feeding">Mammals</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="click_to_save">Натисніть \"Готово\" щоб встановити загальний мелодія.</string>
+    <string name="close">Закрити</string>
     <string name="color_gamut">Колірна гама</string>
     <string name="common_brushtail">Суми пензликів</string>
     <string name="common_ostrich">Страус</string>
@@ -231,7 +233,7 @@
     <string name="fps_smooth_title">Середній</string>
     <string name="fps_standard_summary">Середня частота оновлення зберігає заряд батареї</string>
     <string name="fps_standard_title">Стандартний</string>
-    <string name="fps_user_tip">Ці демо-анімації відтворюються на низькій швидкості для довідки. Фактичне відображення може виглядати по-різному в залежності від різних факторів.</string>
+    <string name="fps_user_tip">1. Ці демонстраційні анімації грають з низькою швидкістю передачі артикула. Фактична продуктивність може виглядати в залежності від різних факторів.</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -471,6 +473,7 @@
     <string name="search_app_name">Пошук програм</string>
     <string name="search_empty">Програми не знайдені</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Відправити</string>
     <string name="several_days_use_time">Екранний час: %2$s</string>
     <string name="short_eared_owl">Сова вухата</string>
     <string name="shortcut_created">Ярлик вже існує</string>

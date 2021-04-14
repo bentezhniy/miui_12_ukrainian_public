@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cлужба паролів</string>
-    <string name="auth_activity_label">Перевірочні коди</string>
-    <string name="auth_fingerprint_content">Читання відбитків пальців …</string>
+    <string name="app_name">Служба розширення додатку</string>
+    <string name="auth_activity_label">Коди перевірки</string>
+    <string name="auth_fingerprint_content">Читання цифрового відбитку…</string>
     <string name="auth_fingerprint_content_message">Покладіть палець на датчик</string>
-    <string name="auth_fingerprint_content_message_error">"Неможливо сканувати відбиток пальця"</string>
-    <string name="auth_fingerprint_title">Перевірка відбитка</string>
-    <string name="autofill_description">"MIUI може зберігати ваші паролі в зашифрованому вигляді, щоб використовувати для автозаповнення в додатках."</string>
-    <string name="autofill_hint_email_address">Email</string>
+    <string name="auth_fingerprint_content_message_error">"Не вдалося відсканувати відбиток пальця, спробуйте ще раз"</string>
+    <string name="auth_fingerprint_title">Підтвердіть свій відбиток пальця</string>
+    <string name="autofill_description">"MIUI можна зашифрувати і зберігати паролі, щоб ви могли вводити їх кожен раз, коли вам знадобиться автоматично. Xiaomi не зможе прочитати зашифровані паролі."</string>
+    <string name="autofill_hint_email_address">Ел. пошта</string>
     <string name="autofill_hint_name">Ім\'я</string>
     <string name="autofill_hint_password">Пароль</string>
     <string name="autofill_hint_phone">Номер телефону</string>
     <string name="autofill_hint_username">Ім\'я користувача</string>
     <string name="autofill_item_activity_label">Паролі додатків</string>
     <string name="autofill_list_activity_label">Паролі додатків</string>
-    <string name="autofill_list_title">Управління паролями</string>
-    <string name="autofill_password">Заповнити форму паролів</string>
-    <string name="autofill_password_activity_label">Перевірочні коди</string>
-    <string name="autofill_service_label">Управління паролями MIUI</string>
-    <string name="autofill_setting_activity_label">Управління паролями</string>
+    <string name="autofill_list_title">Керування паролями</string>
+    <string name="autofill_password">Автоматично вводити паролі</string>
+    <string name="autofill_password_activity_label">Коди перевірки</string>
+    <string name="autofill_service_label">Керування паролями</string>
+    <string name="autofill_setting_activity_label">Керування паролями</string>
+    <string name="back_button_label">Відмінити</string>
     <string name="cancel">Скасувати</string>
-    <string name="change_passwork_dialog_content">"Ви вже зберегли пароль для цього облікового запису. Оновити пароль"</string>
+    <string name="change_passwork_dialog_content">"Ви вже зберегли пароль для цього облікового запису. Оновити пароль зараз?"</string>
     <string name="change_passwork_dialog_title">Оновити пароль?</string>
-    <string name="delete">Вилучити</string>
-    <string name="invalid_package_signature">Неверная подпись приложения</string>
+    <string name="delete">Видалити</string>
+    <string name="invalid_package_signature">Недійсний підпис додатку</string>
     <string name="login_mi_account_alert">Prompt</string>
     <string name="login_mi_account_summary">Щоб увімкнути менеджер паролів, вам потрібно увійти в акаунт Xiaomi, чи потрібно увійти?</string>
-    <string name="ok">OK</string>
+    <string name="ok">Гаразд</string>
     <string name="password_manager">Керування паролями</string>
     <string name="password_manager_summary">Менеджер паролів Cloud, резервне копіювання до облікового запису Xiaomi</string>
-    <string name="save_content_tip">"Наступні дані будуть збережені: "</string>
+    <string name="save_content_tip">"Наступні елементи будуть збережені: "</string>
     <string name="search">Пошук</string>
-    <string name="settings_clear_data_confirmation_description">"Якщо ви видалите паролі, вам потрібно буде ввести їх вручну при наступному вході в систему.
-Все одно видалити?"</string>
-    <string name="settings_clear_data_confirmation_title">Видалення пароля</string>
-    <string name="using_miui_autofill_message">Система буде зберігати інформацію про ваших акаунтах для автоматичного введення паролів</string>
+    <string name="settings_clear_data_confirmation_description">"Якщо ви видалите паролі зараз, вам доведеться ввести їх вручну наступного разу при вході.
+Видалити пароль?"</string>
+    <string name="settings_clear_data_confirmation_title">Видалення паролів</string>
+    <string name="using_miui_autofill_message">Щоб автоматично вводити паролі, MIUI зберігатиме інформацію про ваш обліковий запис на вашому пристрої.</string>
 </resources>

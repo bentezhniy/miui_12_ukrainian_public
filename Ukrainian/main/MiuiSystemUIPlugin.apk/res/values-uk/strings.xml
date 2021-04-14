@@ -90,6 +90,7 @@
     <string name="disabled">Недоступно</string>
     <string name="dnd_popup_close_message">Зрозуміло</string>
     <string name="dnd_popup_message">Увімкніть режим \"Не турбувати\", щоб вимкнути звук для викликів та повідомлень без відключення звуку мультимедіа.</string>
+    <string name="dolby_atoms_sound_effect_label">Долбі Атмос</string>
     <string name="early_morning">Ранок</string>
     <string name="eras_ad">н. е.</string>
     <string name="eras_bc">до н. е.</string>
@@ -112,7 +113,7 @@
     <string name="material_slider_range_end">У діапазоні до кінця,</string>
     <string name="material_slider_range_start">Стрільбище початок,</string>
     <string name="midnight">Ніч</string>
-    <string name="miui_dnd_count_down">Таймер для режиму \"Не турбувати\"</string>
+    <string name="miui_dnd_count_down">Свайп, щоб встановити таймер</string>
     <string name="miui_dnd_count_down_time">"Таймер для режиму \"Не турбувати\"
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Налаштування</string>

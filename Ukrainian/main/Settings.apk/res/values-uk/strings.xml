@@ -1184,6 +1184,11 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Вибрати максимальну кількість підключених аудіопристроїв Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Максимальна кількість підключених аудіопристроїв Bluetooth</string>
     <string name="bluetooth_menu_advanced">Розширені</string>
+    <string name="bluetooth_message_access_dialog_content">"Ненадійний пристрій Bluetooth %1$s, хоче отримати доступ до ваших повідомлень.
+
+Ви не підключені до %2$s раніше."</string>
+    <string name="bluetooth_message_access_dialog_title">Дозволити доступ до повідомлень?</string>
+    <string name="bluetooth_message_access_notification_content">Ненадійний пристрій хоче отримати доступ до ваших повідомлень. Натисніть для деталей.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Розблокувати %1$s зараз?</string>
     <string name="bluetooth_mi_fast_connect">Прив\'язати сумісні пристрої</string>
     <string name="bluetooth_mi_fast_connect_summary">Підключення до пристроїв неподалік за допомогою спрощеного способу</string>
@@ -1228,6 +1233,11 @@
     <string name="bluetooth_pan_user_profile_summary_connected">Під’єднано до пристрою для доступу до Інтернету</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Пристрою %1$s потрібен доступ до ваших контактів та історії викликів. Надати доступ пристрою %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Не запитувати знову</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Надійний пристрій Bluetooth, %1$s, хоче отримати доступ до ваших контактів та журналу дзвінків. Сюди входять дані про вхідні та вихідні дзвінки.
+
+Ви раніше не підключалися до %2$s."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Надати доступ до контактів та журналу дзвінків?</string>
+    <string name="bluetooth_phonebook_access_notification_content">Ненадійний пристрій хоче отримати доступ до ваших контактів та журналу викликів. Торкніться, щоб дізнатися більше.</string>
     <string name="bluetooth_phonebook_request">Запит на доступ до телефонної книги</string>
     <string name="bluetooth_pin_values_hint">Зазвичай 0000 або 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Має складатися із 16 цифр</string>
@@ -2923,6 +2933,7 @@
     <string name="fingerprint_and_password_entrance_title">Екран блокування та відбиток пальців</string>
     <string name="fingerprint_apply_to_privacy_password">Пароль для захисту особистих даних</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Пароль для захисту особистих даних захищає ваші повідомлення, фото, файли, нотатки та програми.</string>
+    <string name="fingerprint_base_title">Відбиток пальця %s</string>
     <string name="fingerprint_delete_message">Видалити цей відбиток пальця?</string>
     <string name="fingerprint_delete_title">"Видалити \"%1$s\""</string>
     <string name="fingerprint_double_tap">Двічі торкніться сканера відбитків пальців</string>
@@ -2933,6 +2944,7 @@
     <string name="fingerprint_first_open_screen_password_tittle">Відбиток пальця (необхідно налаштувати блокування екрана)</string>
     <string name="fingerprint_for_keyguard_disabled">Використання відбитка вимкнено з міркувань безпеки.</string>
     <string name="fingerprint_gesture_screen_title">Гортання сканером</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Збережено як \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Введіть пароль</string>
     <string name="fingerprint_identify_msg">Читання відбитка пальця…</string>
     <string name="fingerprint_identify_try_again_msg">"Не вдалося прочитати відбиток пальця, повторіть спробу"</string>
@@ -3289,6 +3301,22 @@
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
     <string name="headset_connectiong">З\'єднання…</string>
+    <string name="headset_find_both">З обох сторін</string>
+    <string name="headset_find_cancel">Скасувати</string>
+    <string name="headset_find_connected">Підключено</string>
+    <string name="headset_find_disconnect">Не підключено</string>
+    <string name="headset_find_handle_tip">Торкніться для відтворення сигналу</string>
+    <string name="headset_find_left">Ліворуч</string>
+    <string name="headset_find_notify_connected">Підключено</string>
+    <string name="headset_find_notify_disconnect">З\'єднання розірвано. Підключіться та спробуйте ще раз.</string>
+    <string name="headset_find_play_warning">Схоже, що хоча б один з навушників - це вам не так завдати шкоди слуху. Видаліть навушники з вух, перш ніж продовжити.</string>
+    <string name="headset_find_playing">Відтворюється…</string>
+    <string name="headset_find_query_play">Відтворити</string>
+    <string name="headset_find_right">Праворуч</string>
+    <string name="headset_find_tip">Ваші навушники мають бути поруч і підключені до цього пристрою, щоб знайти їх. Відтворити будильник доки хоча б один з навушників може пошкодити ваш слух.</string>
+    <string name="headset_find_tip_title">Увага</string>
+    <string name="headset_find_title">Знайдіть свої навушники</string>
+    <string name="headset_find_voice_warning">Висока гучність попередження</string>
     <string name="headset_notification_switch_summary">Показувати статус віджета штору сповіщень коли телефон підключено до навушників</string>
     <string name="headset_notification_switch_title">Віджет тіні сповіщень</string>
     <string name="headset_remove_message">Відв\'язати пристрій?</string>
@@ -4176,6 +4204,8 @@ Xiaomi Cloud
     <string name="max_fingerprint_number_reached">"Не можна додати більше 5 відбитків. Видаліть один з існуючих, щоб додати новий."</string>
     <string name="max_fingerprint_reached_toast">Ви можете додати до 5 відбитків пальців</string>
     <string name="maximum_memory_use">Найбільше використання пам’яті</string>
+    <string name="mechanical_ime">Механічна клавіатура</string>
+    <string name="mechanical_ime_hint">Підтримується лише клавіатура, настроєна для Xiaomi</string>
     <string name="media_button">Кнопка медіа</string>
     <string name="media_category">Медіа</string>
     <string name="media_feedback_enable_title">Вібрувати в ритм</string>
@@ -4279,9 +4309,12 @@ Xiaomi Cloud
     <string name="miheadset_active">Енергійний</string>
     <string name="miheadset_adaptive">Адаптивний колір</string>
     <string name="miheadset_ancClosed">Вимкнено</string>
+    <string name="miheadset_ancDepth">Глибока</string>
+    <string name="miheadset_ancEquilibrium">Збалансований</string>
     <string name="miheadset_ancHigh">Літак</string>
     <string name="miheadset_ancLow">Офіс</string>
     <string name="miheadset_ancMedium">Щоденно</string>
+    <string name="miheadset_ancMild">Світла</string>
     <string name="miheadset_anc_indicate">Підключення та парові навушники</string>
     <string name="miheadset_audio_mode">Якість звуку</string>
     <string name="miheadset_audio_mode_high">Високий</string>
@@ -4315,8 +4348,10 @@ Xiaomi Cloud
     <string name="miheadset_fitness_check_result_dialog1">Розмістіть навушники перед початком тесту.</string>
     <string name="miheadset_fitness_check_result_dialog2">Завершіть поточний виклик перед початком тесту.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Увага</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Читання навушників</string>
     <string name="miheadset_fitness_check_result_not_ok">Поганий прибуток</string>
     <string name="miheadset_fitness_check_result_ok">Припасування</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Читання навушників</string>
     <string name="miheadset_fitness_check_result_summary1">Це чудово підходить для вас!</string>
     <string name="miheadset_fitness_check_result_summary2">Налаштуйте або спробуйте іншу вушну наконечницю та спробуйте ще раз.</string>
     <string name="miheadset_fitness_check_start">Старт</string>
@@ -4327,8 +4362,8 @@ Xiaomi Cloud
     <string name="miheadset_game_mode">Ігровий режим вимкнено</string>
     <string name="miheadset_game_mode_summary">Зменшення затримки звуку під час гри</string>
     <string name="miheadset_ignore">Відмінити парування</string>
-    <string name="miheadset_in_ear_check">Виявляти наявність вуха</string>
-    <string name="miheadset_in_ear_check_summary">Призупиняти і відновлювати відтворення автоматично, коли ви носите або видаляєте навушники</string>
+    <string name="miheadset_in_ear_check">Вбудоване визначення</string>
+    <string name="miheadset_in_ear_check_summary">"Призупинити звук, коли пристрої забираються і відновлюються автоматично, коли телефон повертається назад"</string>
     <string name="miheadset_key_config_ANC_list_title">Управління шумом</string>
     <string name="miheadset_key_config_call_ai">Голосовий помічник</string>
     <string name="miheadset_key_config_close">Вимкнено</string>
@@ -7900,6 +7935,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="voice_search_settings_title">Голос. пошук</string>
     <string name="voice_service_preference_section_title">Служби голосового вводу</string>
     <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
+    <string name="voip_assistant_settings">VoIP помічник</string>
     <string name="volte_5G_limited_text">"Також буде вимкнено з'єднання 5G.
 Під час голосового виклику не можна користуватись Інтернетом, а деякі додатки можуть не працювати."</string>
     <string name="volte_5G_limited_title">Вимкнути VoLTE?</string>
@@ -8772,6 +8808,8 @@ OTG автоматично відключається через 10 хвилин
     <string name="xiaomi_cloud_service_disabled">Вимкнено</string>
     <string name="xiaomi_cloud_service_unknown">Невідомо</string>
     <string name="xiaomi_custom_input_method">Модифіковано для Xiaomi</string>
+    <string name="xiaomi_hp_location">Точний доступ до місця розташування</string>
+    <string name="xiaomi_hp_location_description">Інформація про точне місцезнаходження дозволяє точну навігацію</string>
     <string name="xiaomi_money_service">Mi Coins</string>
     <string name="xiaomi_router_available_notif_summary">Натисніть для перегляду</string>
     <string name="xiaomi_router_available_notif_title">Доступний Mi роутер</string>

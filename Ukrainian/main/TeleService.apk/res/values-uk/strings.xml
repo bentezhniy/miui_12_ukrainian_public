@@ -530,6 +530,8 @@
     <string name="call_barring_sum">Налаштування заборони голосових викликів</string>
     <string name="call_category">Виклики</string>
     <string name="call_description_recording">Запис…</string>
+    <string name="call_fold_setting">Очищення та розгортання</string>
+    <string name="call_fold_setting_title">Очищення та розгортання</string>
     <string name="call_forward_option">Переадресація виклику</string>
     <string name="call_forwarding_number_hint">Переадресовувати виклики до</string>
     <string name="call_forwarding_settings">Переадресація</string>
@@ -1011,6 +1013,8 @@
     <string name="fiveg_upperlayer_indication1">Верхній шар показники стану:</string>
     <string name="flash_when_ring_summary">Використовувати спалах для сповіщення про вхідні виклики</string>
     <string name="flash_when_ring_title">Спалах під час вхідних викликів</string>
+    <string name="fold_answer_pref_summary">Загорнути пристрій, щоб отримувати вхідний дзвінок автоматично</string>
+    <string name="fold_answer_pref_title">Згорнути для прийняття дзвінків</string>
     <string name="forbidden_network">(заборонено)</string>
     <string name="force_allow_on_external">Примусово записувати додатки в зовнішню пам’ять</string>
     <string name="force_allow_on_external_summary">Можна записувати додатки в зовнішню пам’ять, незалежно від значень у маніфесті</string>
@@ -1020,6 +1024,8 @@
     <string name="force_resizable_activities_summary">Масштабувати активність на кілька вікон, незалежно від значень у файлі маніфесту.</string>
     <string name="force_rtl_layout_all_locales">Макет письма справа наліво</string>
     <string name="force_rtl_layout_all_locales_summary">Застосовувати макет письма справа наліво для всіх мов</string>
+    <string name="four_point_five_switch_summary">Використайте 4.5G, щоб поліпшити швидкість доступу до даних і якість голосового зв\'язку.</string>
+    <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">lte канал num</string>
     <string name="fw_change_failed">"Не вдалося змінити номер переадресації.
 Зв’яжіться зі своїм оператором, якщо проблема не зникне."</string>
@@ -2246,6 +2252,10 @@ SIM-картка буде заблокована при наступній не�
     <string name="turnover_mute_summary">Якщо телефон, який дзвонить, лежить екраном вгору, переверніть його екраном вниз для відключення дзвінка, вібрації і світлових сигналів.</string>
     <string name="turnover_mute_title">Відключати звук під час перевертання</string>
     <string name="undefined">Невідомо</string>
+    <string name="unfold_close_camera_pref_summary">Розгорнути пристрій під час відеодзвінку, щоб вимкнути камеру</string>
+    <string name="unfold_close_camera_pref_title">Від’єднайте для вимкнення камери</string>
+    <string name="unfold_speaker_pref_summary">Відгорніть пристрій під час дзвінка, щоб увімкнути динамік</string>
+    <string name="unfold_speaker_pref_title">Увімкніть, щоб використовувати динамік</string>
     <string name="unknown">Невідомо</string>
     <string name="unlock_failed">Не здійсн. запит розблокування мережі</string>
     <string name="unlock_success">Мережу успішно розблоковано.</string>
@@ -2395,6 +2405,7 @@ SIM-картка буде заблокована при наступній не�
     <string name="wapi_password_length_is_min_to_max">Пароль має бути: 8-64 символи</string>
     <string name="wapi_yes">так</string>
     <string name="wfc_provisioned_switch_string">Виклики через Wi-Fi ініціалізовано</string>
+    <string name="wfcmode_ims_preferred">Бажаний IMS</string>
     <string name="wfcmode_mobile_preferred">Переважно мобільні мережі</string>
     <string name="wfcmode_wifi_only">Тільки по Wi-Fi</string>
     <string name="wfcmode_wifi_preferred">Переважно Wi-Fi</string>

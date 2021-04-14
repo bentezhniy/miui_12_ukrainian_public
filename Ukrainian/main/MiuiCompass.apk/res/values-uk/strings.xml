@@ -185,6 +185,8 @@
     <string name="preference_other">Інші</string>
     <string name="preference_privacy_title">Політика конфіденційності</string>
     <string name="pressure_title">Тиск</string>
+    <string name="remove_icon_description_content">"Компас - це системний додаток. Ви не зможете використовувати її для перевірки напрямків, координацій, атмосферного тиску й поточної висоти після видалення ярлика головного екрану."</string>
+    <string name="remove_icon_description_title">Видалити \"Compass\" з головного екрану?</string>
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

@@ -74,6 +74,8 @@
 2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ \"Довідка\"."</string>
     <string name="dialog_scanning_device">Пошук пристроїв неподалік…</string>
     <string name="dialog_scanning_precondition">Увімкніть Wi-Fi та Bluetooth на вашому пристрої для використання Wi-Fi Display.</string>
+    <string name="dialog_scanning_precondition_new_china">Увімкніть Wi-Fi, Bluetooth і служби локації, щоб мати можливість використовувати трансляції. Увімкнути зараз?</string>
+    <string name="dialog_scanning_precondition_new_global">Увімкніть Wi-Fi, Bluetooth і служби локації, щоб мати можливість використовувати трансляції. Увімкнути зараз?</string>
     <string name="dialog_select_tv">Виберіть пристрій (%d)</string>
     <string name="dialog_show_help">Довідка</string>
     <string name="disconnect">Зупинити трансляцію</string>

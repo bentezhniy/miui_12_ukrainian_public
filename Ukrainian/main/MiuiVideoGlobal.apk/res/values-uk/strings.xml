@@ -264,11 +264,11 @@ ID:%s
 Відправте цей код менеджеру."</string>
     <string name="dialog_disagree_privacychange_info">"Ви не зможете використовувати Mi Відео онлайн-сервіси, якщо не погоджуєтесь на нашу Політику конфіденційності. Торкніться кнопки \"Скасувати\", щоб повернутися назад або \"Не погоджуюсь з правилами продовження та використовувати лише локального гравця."</string>
     <string name="dialog_disagree_privacychange_title">"Ви не згодні?"</string>
-    <string name="dialog_privacy_change_info">"Ми оновили Mi Video Privacy Policy через коригування наших послуг, що ми пропонуємо. Щоб повністю зрозуміти ваші права як користувача, так і способи використання ваших даних, читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою про користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням застосунку."</string>
+    <string name="dialog_privacy_change_info">"Ми оновили Mi Video Privacy Policy через зміни в наших послугах. Щоб повністю зрозуміти ваші права як користувача, так і способи використання ваших даних, читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою про користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням застосунку."</string>
     <string name="dialog_privacy_change_title">Оновлення Політики конфіденційності</string>
     <string name="dialog_privacy_info_new2">"Для використання послуг ви повинні погодитися з тим, що %1$s буде збирати, обробляти і використовувати ваші особисті дані. Натиснувши \"Погодитися\", ви підтверджуєте, що ви прочитали та приймаєте нашу &lt;a href=%2$s&gt;Політику конфіденційності&lt;/a&gt;."</string>
     <string name="dialog_privacy_info_new3">"Щоб мати можливість користуватися цією послугою, вам необхідно дозволити %1$sзбирати, обробляти та використовувати вашу особисту інформацію відповідно до Політики конфіденційності. Натискаючи кнопку Згоден нижче, ви погоджуєтеся з &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; та &lt;a href=%3$s&gt;Угодою користувача&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt;Натиснення кнопки Згоден також дозволяє Mi Відео отримувати доступ до списку програм, встановлених на вашому пристрої. З цим дозволом Мi Відео зможе обмінюватися елементами, розуміти, чи встановлено програму на вашому пристрої, яка версія програми встановлена і чи є програма безпечною."</string>
-    <string name="dialog_privacy_info_new4">"Ласкаво просимо до Mi Video! У цьому додатку наведені такі послуги:&lt;br&gt;&lt;/br&gt; - Онлайн потокові служби&lt;br&gt;&lt;/br&gt;- місцевий відеоплеєр&lt;br&gt;&lt;/br&gt;Mi Video потребує збору необхідної особистої інформації, щоб надати вам основні послуги. Ви можете дізнатися, як ми обробляємо інформацію, яку ми збираємо в нашій Політиці конфіденційності. Ви зможете змінити відповідні налаштування в налаштуваннях &gt; Паролі &amp;підписок; безпека.&lt;br&gt;&lt;/br&gt;Читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням Mi Video."</string>
+    <string name="dialog_privacy_info_new4">"Ласкаво просимо до Mi Video! У цьому додатку наведені такі послуги:&lt;br&gt;&lt;/br&gt; - Онлайн потокові служби&lt;br&gt;&lt;/br&gt;- місцевий відеоплеєр&lt;br&gt;&lt;/br&gt;Mi Video потребує збору необхідної особистої інформації, щоб надати вам основні послуги. Ви можете дізнатися, як ми обробляємо інформацію, яку ми збираємо в нашій Політиці конфіденційності. Ви зможете змінити відповідні налаштування в налаштуваннях &gt; Паролі &amp;підписок. Безпека.&lt;br&gt;&lt;/br&gt;Читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Скасувати</string>
     <string name="dialog_privacy_revoke_count_down">Вивести (%1$dсек)</string>
     <string name="dialog_privacy_revoke_description">Відключивши перемикач, ви знімаєте свою згоду на Політику конфіденційності Mi Video. Ми перестанемо збирати вашу персональну інформацію. Особиста інформація вже зібрана і збережена буде видалена протягом певного періоду, оскільки обов’язково із чинними законами. Ваше виведення згоди з Політикою конфіденційності буде виконано як відмову приймати онлайн-сервіси, засновані на зібраній особистої інформації.</string>
@@ -276,7 +276,7 @@ ID:%s
     <string name="dialog_privacy_revoke_ok">Зняття коштів</string>
     <string name="dialog_privacy_revoke_success">Успішно знято</string>
     <string name="dialog_privacy_revoking">Згода на виведення…</string>
-    <string name="dialog_privacy_title">Авторизація</string>
+    <string name="dialog_privacy_title">Правила та умови використання</string>
     <string name="dialog_revoke_privacy_info_new2">Після відкликання дозволу програма припинить збір даних та видалить всі свої дані з серверів. Це може зробити програму практично непридатною для використання. Відкликати дозвіл?</string>
     <string name="dialog_revoke_privacy_title">Відкликання авторизації</string>
     <string name="disagree">"Не погоджуйтеся"</string>
@@ -1134,6 +1134,7 @@ ID:%s
     <string name="screenrecord_nosupport_record">"Запис экрана поки що не підтримується на цьому пристрої."</string>
     <string name="search">Пошук</string>
     <string name="search_bar_hint">Шукати відео</string>
+    <string name="search_bar_video_download_hint">Пошук або введення URL</string>
     <string name="search_choose_language">Виберіть мову</string>
     <string name="search_choose_voice_language">Виберіть мову для голосового пошуку</string>
     <string name="search_hot_words">Популярні</string>
@@ -1294,7 +1295,19 @@ ID:%s
     <string name="v_txt_login">Увійдіть до системи для синхронізації обраного</string>
     <string name="v_update">Оновити</string>
     <string name="video_already_download_tip">"Ви вже завантажили цей об'єкт"</string>
+    <string name="video_download_btn">Звантажити</string>
     <string name="video_download_fail">"Не вдалося завантажити відео"</string>
+    <string name="video_download_fail_hint">"Не вдалося завантажити"</string>
+    <string name="video_download_floating_guide">Завантажити відео безкоштовно</string>
+    <string name="video_download_forbidden">"Не вдалося завантажити з цього сайту"</string>
+    <string name="video_download_network_error">Помилка мережі</string>
+    <string name="video_download_play_video_guide">По-перше, пограйте відео.</string>
+    <string name="video_download_play_video_guide2">Далі натисніть кнопку, щоб завантажити.</string>
+    <string name="video_download_site_search">Адреса</string>
+    <string name="video_download_source">Веб-завантаження</string>
+    <string name="video_download_start">Завантаження…</string>
+    <string name="video_download_storage_error">Недостатньо місця на диску</string>
+    <string name="video_downloading">Завантаження…</string>
     <string name="video_live_over">Сеанс завершено</string>
     <string name="video_noyet_download_tip">Це відео ще завантажується</string>
     <string name="video_offline">Цей об\'єкт більше не доступний</string>

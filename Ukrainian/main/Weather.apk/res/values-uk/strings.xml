@@ -515,8 +515,10 @@
     <string name="welcome_app_title">Ласкаві просимо до Погоди!</string>
     <string name="wind_direction_no_data">Вітер</string>
     <string name="wind_unit">%1$s км/год</string>
-    <string name="xiaomi_weather_description_content">"Програма надає вам точну інформацію про погоду. Віджети «Погода» у рядку стану та на робочому столі не будуть працювати без неї належним чином. Перед видаленням програми переконайтеся, що ви зможете обійтися без цих функцій."</string>
-    <string name="xiaomi_weather_description_title">Про програму</string>
+    <string name="xiaomi_weather_description_content">"Погода - це системна програма. Ви не зможете переглянути інформацію про погоду або використовувати пов'язані з нею віджети."</string>
+    <string name="xiaomi_weather_description_content_remove">"Додаток погода. Ви не зможете переглянути інформацію про погоду або використовувати пов'язані з ним віджети після видалення ярлика головного екрану."</string>
+    <string name="xiaomi_weather_description_title">Видалити \"Weather\"?</string>
+    <string name="xiaomi_weather_description_title_remove">Видалити \"Погоду\" з головного екрану?</string>
     <string name="yes_vote_ratio">За %1$s%%</string>
     <string name="yesterday">Вчора</string>
 </resources>

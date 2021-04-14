@@ -105,6 +105,8 @@
     <string name="dialog_content_limit0">Обмеження завантажень</string>
     <string name="dialog_content_limit_max">Без обмежень</string>
     <string name="dialog_delete_positive">Видалити</string>
+    <string name="dialog_download_dir_content" formatted="false">Тека призначення за замовчуванням для завантажень була змінена з \"%s\" на%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Нова папка для призначення</string>
     <string name="dialog_failed_body">Спробуйте завантажити цей файл пізніше або видалити його з черги?</string>
     <string name="dialog_file_already_exists">Цей файл вже існує.</string>
     <string name="dialog_file_missing_body">"Не вдалося знайти файл, схоже, що він був видалений."</string>

@@ -612,6 +612,7 @@
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="clock_alarm">Alarm</string>
     <string name="clock_parent">Годинник</string>
+    <string name="close">Закрити</string>
     <string name="closed">Вимкнено</string>
     <string name="collect_diagnosis_log">Збір діагностики</string>
     <string name="commute">Рекомендації карти</string>
@@ -676,6 +677,7 @@
     <string name="data_error">Сталася помилка</string>
     <string name="data_error_show">"Замовлення завершене"</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
+    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="debug_card_brief">Налаштування та інструменти налагодження</string>
     <string name="debug_card_detail">Налаштування та інструменти налагодження</string>
     <string name="debug_card_title">Відлагодження</string>
@@ -1251,10 +1253,13 @@ ID:%s
     <string name="miuix_appcompat_cancel_description">Скасувати</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
+    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти всі виділення</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
+    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -1505,6 +1510,7 @@ ID:%s
     <string name="search_category_video">Відео</string>
     <string name="search_change_header">Змінити обкладинку</string>
     <string name="search_clear_header">Видалити обкладинку</string>
+    <string name="search_header_dialog_title">Змінити тло сторінки</string>
     <string name="search_hint">Пошук у обраному</string>
     <string name="search_label">Пошук…</string>
     <string name="search_menu_title">Пошук</string>
@@ -1512,6 +1518,7 @@ ID:%s
     <string name="search_tip">Пошук…</string>
     <string name="security">Безпека</string>
     <string name="selected_shortcuts_title">Особливості</string>
+    <string name="send">Відправити</string>
     <string name="send_action_title">Додати до обраних</string>
     <string name="send_diagnosis_log">Надіслати журнал діагностики</string>
     <string name="send_express">Доставка</string>
