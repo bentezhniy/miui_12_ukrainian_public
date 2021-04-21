@@ -3127,6 +3127,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Натисніть і утримуйте, а потім потягніть вниз рядок сповіщення</string>
     <string name="freeform_guide_notification_drop_down_title">Відкриття спливаючих вікон</string>
     <string name="freeform_guide_settings">Спливаючі вікна</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Проведіть від нижньої частини екрана до правого верхнього кута екрана</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Проведіть до плаваючих вікон</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведіть вверх від рядка спливаючого вікна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закриття спливаючих вікон</string>
     <string name="freeform_vedio_description">"· Натисніть і утримуйте, а потім потягніть вниз сповіщення, щоб відкрити його у спливаючому вікні.
@@ -4336,6 +4338,8 @@ Xiaomi Cloud
     <string name="miheadset_double_click_key_mode">Подвійний дотик</string>
     <string name="miheadset_double_click_left">Подвійне натискання на лівий навушник</string>
     <string name="miheadset_double_click_right">Подвійне натискання на праву навушник</string>
+    <string name="miheadset_double_press_left">Подвійне натискання зліва навушників</string>
+    <string name="miheadset_double_press_right">Гарнітура з подвійним натисканням правого боку</string>
     <string name="miheadset_enhanceVoice">Підвищити голос</string>
     <string name="miheadset_enhence_high">Підвищена частка</string>
     <string name="miheadset_enhence_low">Розширені баси</string>
@@ -4397,6 +4401,8 @@ Xiaomi Cloud
     <string name="miheadset_transparent">Прозорість</string>
     <string name="miheadset_transparentMode">Прозорість</string>
     <string name="miheadset_triple_click_key_mode">Потрійний дотик</string>
+    <string name="miheadset_triple_press_left">Потрійне натискання лівого навушника</string>
+    <string name="miheadset_triple_press_right">Потрійне натискання правого навушника</string>
     <string name="miheadset_unpair_device_text">%1$s буде знято з усіх пристроїв, пов\'язаних з цим Mi аккаунтом.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Різні файли</string>
@@ -6033,6 +6039,7 @@ OTG автоматично відключається через 10 хвилин
     <string name="screen_projection_sample_title">Демо</string>
     <string name="screen_projection_title">Трансляція</string>
     <string name="screen_reader_category_title">Програми зчитування з екрана</string>
+    <string name="screen_recorder_title">Запис екрану</string>
     <string name="screen_resolution_dialog_title">Змінити роздільну здатність</string>
     <string name="screen_resolution_high_format">Висока (%1$s)</string>
     <string name="screen_resolution_normal_format">Нормальна (%1$s)</string>

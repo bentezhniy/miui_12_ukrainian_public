@@ -31,7 +31,10 @@
     <string name="afternoon">Після обіду</string>
     <string name="am">ДП</string>
     <string name="app_name">Запис екрану</string>
+    <string name="app_notification_channel_record_complete">Сповіщення про завершені записи</string>
     <string name="app_notification_info">Запис екрана працює в фоновому режимі</string>
+    <string name="app_notification_record_complete">"Запис екрана збережено до Галереї
+при натисканні на перегляд"</string>
     <string name="app_notification_title">Запис екрану</string>
     <string name="auto_stop_title">Відео успішно збережено</string>
     <string name="battery_not_allowed" formatted="false">"Запис неможливий, коли заряд батареї нижче 3%. Переконайтеся, що батарея заряджена принаймні на 20%."</string>

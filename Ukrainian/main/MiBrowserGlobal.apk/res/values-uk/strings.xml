@@ -147,6 +147,8 @@
     <string name="app_name_miuiwallpaper">Шпалери</string>
     <string name="app_name_screenshot">Скріншоти</string>
     <string name="app_new_version">Остання версія програми вже встановлена.</string>
+    <string name="app_uninstall_description_content">"Браузер - це системна програма. Ви не зможете користуватися пошуком і веб-переглядачем, які вона надається після видалення додатку."</string>
+    <string name="app_uninstall_description_title">Видалити веб-переглядач?</string>
     <string name="app_update_install">Оновлення готове до встановлення.</string>
     <string name="application_name">Браузер</string>
     <string name="aqi_quality_index_break">Особливо небезпечне</string>
@@ -1795,7 +1797,6 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="setting">Налаштування</string>
     <string name="setting_app_language">Мова браузера</string>
     <string name="setting_feed_language">Мова стрічки</string>
-    <string name="setting_home_page_show_title">Стартова сторінка</string>
     <string name="setting_privacy_password">Встановити графічний ключ для розблокування</string>
     <string name="share_image_text">Подивіться, чим я поділився! @MIUI</string>
     <string name="share_page_text">Подивіться, чим я поділився: %1$s @MIUI | %2$s</string>

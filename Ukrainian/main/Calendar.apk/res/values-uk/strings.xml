@@ -105,7 +105,9 @@
     <string name="birthday_term_chinese_calendar">"День народження: %1$s"</string>
     <string name="calendar_account_settings">Налаштування облікового запису</string>
     <string name="calendar_import_source">Джерело</string>
+    <string name="calendar_privacy_policy">Політика конфіденційності</string>
     <string name="calendar_subscription_group_title">Підписка на календар</string>
+    <string name="calendar_user_agreement">Угода користувача</string>
     <string name="can_not_create_long_event">Занадто довгий захід</string>
     <string name="can_not_modify_allday_event">"Неможливо змінити захід, який встановлено на цілий день"</string>
     <string name="can_not_modify_event">"Неможливо змінити"</string>
@@ -133,6 +135,7 @@
     <string name="click_paste">Натисніть для вставки</string>
     <string name="close_alarm">Вимкнути</string>
     <string name="content_confirm_close_chinese_calendar">Всі Ваші події, засновані на традиційному китайському календарі, будуть перенесені в григоріанський календар після того, як Ви вимкнете цю функцію</string>
+    <string name="copy">Копія</string>
     <string name="copy_email">Копіювати адресу Email</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="countdown_event_title">Таймер %1$s</string>
@@ -249,6 +252,7 @@
     <string name="event_title">Назва</string>
     <string name="event_view">Перегляд заходу</string>
     <string name="every_weekday">Кожен будень (пн-пт)</string>
+    <string name="expand_button_title">Додатково</string>
     <string name="exposed_dropdown_menu_content_description">Показувати випадаюче меню</string>
     <string name="festival_detail_title">Свято</string>
     <string name="flight_check_in">Реєстрація рейсу</string>
@@ -355,10 +359,13 @@
     <string name="miuix_appcompat_cancel_description">Скасувати</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
+    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти всі виділення</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
+    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -479,6 +486,7 @@
     <string name="no_visiable_calendar_select_account">Оберіть акаунт</string>
     <string name="no_visiable_calendar_title">Оберіть акаунт календаря</string>
     <string name="noon">Midday</string>
+    <string name="not_set">Не задано</string>
     <string name="notification_channel_name">Нагадування календаря</string>
     <string name="notification_channel_name_no_sound">Заглушені нагадування</string>
     <string name="notification_channel_name_no_vibration">Нагадування без вібрації</string>
@@ -504,6 +512,7 @@
     <string name="pref_reminder_time">Час нагадування</string>
     <string name="pref_title_alarm_remind">Звуковий сигнал</string>
     <string name="pref_title_no_remind">Не нагадувати</string>
+    <string name="preference_copied">\"%1$s\" скопійовано до буфера обміну.</string>
     <string name="preferences_alarms_category_title">Нагадування</string>
     <string name="preferences_alarms_default_event">Оберіть події</string>
     <string name="preferences_alarms_sound">Звук</string>
@@ -523,6 +532,7 @@
     <string name="preferences_use_home_tz_title">Фіксувати часовий пояс</string>
     <string name="preferences_week_start_day_dialog">Перший день тижня</string>
     <string name="preferences_week_start_day_title">Перший день тижня</string>
+    <string name="prefsx_notify_sound_none">Беззвучний</string>
     <string name="premission_description_agree">Дозволити цьому додатку підключатися до Інтернету і надати обов\'язкові дозволи, зазначені вище.</string>
     <string name="premission_description_calendar">Для додавання та відображення ваших подій</string>
     <string name="premission_description_contact">Відображення днів народження ваших контактів</string>
@@ -811,6 +821,8 @@
     <string name="user_notice_button_ok">ОК</string>
     <string name="user_notice_message">Ознайомтеся перед використанням: %1$s, %2$s. Для роботи програми необхідне підключення до інтернету</string>
     <string name="user_notice_title">Сповіщення користувача</string>
+    <string name="v7_preference_off">ВИМК</string>
+    <string name="v7_preference_on">УВІМК</string>
     <string name="view_event_calendar_label">Календар:</string>
     <string name="view_event_organizer_label">Організатор:</string>
     <string name="view_event_response_label">Прийняти запрошення?</string>

@@ -42,6 +42,7 @@
     <string name="atrace_saving">Збереження журналу ATrace…</string>
     <string name="atrace_start">Запис журналу ATrace…</string>
     <string name="base_info">Основна інформація</string>
+    <string name="checking_intranet">Перевірка внутрішнього з\'єднання, будь ласка, зачекайте...</string>
     <string name="cloud_addr_info">Хмарна інформація</string>
     <string name="cloud_china_addr">Оновлення даних китайського серверу</string>
     <string name="cloud_international_addr">Оновлення даних глобального серверу</string>
@@ -62,8 +63,10 @@
 Економія заряду батареї буде застосовуватися вибірково."</string>
     <string name="config_suggest_suffix_title">Економія заряду (рекомендовано)</string>
     <string name="confirm">OK </string>
+    <string name="connect_intranet_hint">Підключитися до інтранету</string>
     <string name="copy">Скопіювати</string>
     <string name="current_cloud_addr_is">Адрес серверу хмарного керування:</string>
+    <string name="delete_data_confirm">Підтверджуєте видалення цих даних</string>
     <string name="empty_title_apps_container_list">Немає програм</string>
     <string name="enable_sleep_mode">Увімкніть Режим сну для економії заряду батареї вночі</string>
     <string name="error_filename_too_long">Ім\'я файлу занадто довге.</string>
@@ -86,6 +89,7 @@
     <string name="high_temp_state_message">Ваш пристрій перегрівся. Мобільний інтернет, точки доступу Wi-Fi, GPS та камера будуть відключені.</string>
     <string name="hints_loading_text">Секунду…</string>
     <string name="important_warning">Увага</string>
+    <string name="insert_data">Вставити дані</string>
     <string name="lasttime_applist_cloud">Оновлені програми:</string>
     <string name="lasttime_feature_cloud">Оновлені функції:</string>
     <string name="message_i_know">Зрозуміло</string>
@@ -97,6 +101,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Більше нічого немає"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
+    <string name="modify_data">Змінити дані</string>
     <string name="nonui_mode_config_description">"Не вмикати екран під час отримання сповіщень, відключати світловий індикатор, сканер відбитків пальців та сенсорне керування для економії заряду батареї, коли MIUI виявить, що пристрій не використовується."</string>
     <string name="nonui_mode_config_title">Неінтерактивний режим</string>
     <string name="not_set">Не налаштовано</string>
@@ -132,6 +137,7 @@
     <string name="pref_config_title">Оптимізація продуктивності</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy">Політика конфіденційності</string>
+    <string name="save_data">Зберегти дані</string>
     <string name="scenario_policies_summary">Застосовуйте різні стратегії економії енергії для різних сценаріїв.</string>
     <string name="scenario_policies_title">Розумні сценарії</string>
     <string name="scenario_policies_warmcontrol">Контроль температури</string>
@@ -147,6 +153,8 @@
     <string name="sleepmode_privacy_link">Дізнайтеся більше про конфіденційність та безпеку</string>
     <string name="sleepmode_privacy_title">Режим сну</string>
     <string name="sucess">Завершено</string>
+    <string name="thermal_cancel">Ні</string>
+    <string name="thermal_confirm">ТАК</string>
     <string name="update_profile_failture_not_connect_wifi">"Помилка оновлення. Wi-Fi мережа недоступна"</string>
     <string name="update_profile_sucess">Оновлення завершене</string>
     <string name="v7_preference_off">ВИМКНЕНО</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">freeform</string>
+    <string name="bottom_bar_smallwindow_text">Відпустіть для контакту</string>
     <string name="contentDescription">Переміщення вікна</string>
     <string name="freeform_demo_back">Назад</string>
     <string name="freeform_demo_final_over">Готово</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">Далі</string>
     <string name="freeform_demo_title_finish">Чудово!</string>
     <string name="freeform_demo_title_skip">Пропустити</string>
+    <string name="freeform_slide_to_small_freeform">Freeform ковзання до дрібної довільної форми</string>
+    <string name="freeform_slide_to_small_freeform_summary">Натисніть та ковзніть до панелі дій плаваючого вікна до верхнього правого кута</string>
+    <string name="fullscreen_slide_to_small_freeform">Повноекранний ковзання для довільної форми</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Проведіть від нижньої частини екрана до правого верхнього кута екрана</string>
     <string name="how_to_close_or_fullscreen_freeform">Закриття спливаючого вікна або переключення на повноекранний режим</string>
     <string name="how_to_drop_down_to_fullscreen">Перемикання на повноекранний режим</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Натисніть і утримуйте, а потім потягніть вниз рядок спливаючого вікна</string>

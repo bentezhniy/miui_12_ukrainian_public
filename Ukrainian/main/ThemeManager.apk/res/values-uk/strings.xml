@@ -562,6 +562,7 @@ dd/M"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Зрозуміло</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Більше не показувати"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Проблеми сумісності</string>
+    <string name="multiwindow_no_support_icon">"Не можна змінити іконки при розділенні екрану"</string>
     <string name="network_exception">"Неможливо підключитися до інтернету"</string>
     <string name="new_resource_price_unit">Мі</string>
     <string name="night">Очистити кеш</string>

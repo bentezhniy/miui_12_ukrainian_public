@@ -1259,6 +1259,8 @@
     <string name="message_decode_error">Під час розшифрування повідомлення сталася помилка.</string>
     <string name="mhh_disable">Медицина, здоров’я та лікарні – вимкнено</string>
     <string name="mhh_enable">Медицина, здоров’я та лікарні – увімкнено</string>
+    <string name="mi_mobile_settings_summary">Тарифні плани даних надаються Xiaomi</string>
+    <string name="mi_mobile_settings_title">Мі мобіль</string>
     <string name="mi_mobile_sim_activate_message">Активуйте SIM %d щоб мати можливість використовувати Mi Mobile. Це може зайняти до 5 хвилин.</string>
     <string name="mi_mobile_sim_activate_ok">Задіяти</string>
     <string name="mi_mobile_sim_activate_title">Ласкаво просимо до Mi Mobile!</string>
@@ -1377,7 +1379,7 @@
     <string name="msim_set_sub_not_supported_phone_in_call">"Неможливо задати під час виклику"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Помилка SIM-картки</string>
     <string name="msim_setting_categery_title">Налаштування SIM-картки</string>
-    <string name="msim_setting_default_data">Дані про карту</string>
+    <string name="msim_setting_default_data">SIM-дані</string>
     <string name="msim_setting_default_data_description">Дані SIM %d</string>
     <string name="msim_setting_default_voice">За замовчуванням для викликів</string>
     <string name="msim_setting_default_voice_description">SIM %d для дзвінків</string>
