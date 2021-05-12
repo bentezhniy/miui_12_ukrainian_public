@@ -26,6 +26,7 @@
     <string name="dialog_stop_desc">Ви можете або призупинити завантаження, або зробити вибір на паузу.</string>
     <string name="dialog_stop_title">Зупинити завантаження?</string>
     <string name="dialog_twrp">Ваша внутрішня пам’ять зашифрована. Після перезавантаження пристрою до відновлення, введіть пароль розблокування пристрою, щоб продовжити.</string>
+    <string name="downgrade_warning">Понизити через OTA виявлений і заблокований! Щоб не дозволити вам зламати систему!</string>
     <string name="download_done">Успішно завантажено!</string>
     <string name="download_fail">Помилка під час завантаження!</string>
     <string name="download_fail_desc">Сума MD5 не збігається…</string>

@@ -57,7 +57,6 @@
     <string name="all_list_empty">Немає контактів</string>
     <string name="am">ДО</string>
     <string name="antispam_mark_my_contribution">Поділитися інформацією про мітку</string>
-    <string name="app_name">Налаштування</string>
     <string name="attach_photo_dialog_title">Фото контакту</string>
     <string name="audio_chat">Голосовий чат</string>
     <string name="auto_nickname">Авто</string>
@@ -304,6 +303,7 @@
     <string name="clear_default">Видалити налаштування за замовчуванням</string>
     <string name="clear_digits">Видалити номер телефону</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="close">Закрити</string>
     <string name="close_dial_pad_description">Закрити клавіатуру</string>
     <string name="cloud_antispam_mark">Мітка</string>
     <string name="cloud_antispam_marked">Відмічено</string>
@@ -393,6 +393,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="custom_list_filter">Налаштування відображення</string>
     <string name="custom_nickname_hint">Введіть нік</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
+    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="date_year_toggle">Вказати рік</string>
     <string name="default_ringtone">Мелодія за замовчуванням</string>
     <string name="deleteCloudConfirmationDetail">Видалити інформацію про контакт %s з пристрою та з хмари?</string>
@@ -705,10 +706,13 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="miuix_appcompat_cloud_state_syncing">Синхронізація із хмарою…</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
+    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Вибрати все</string>
+    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -973,6 +977,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="select_all">Вибрати все</string>
     <string name="select_groups">Вибрати групи</string>
     <string name="select_vcard_title">Вибір файлу vCard</string>
+    <string name="send">Відправити</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Ярлик вже існує</string>
     <string name="send_contact_shortcut_todesktop_failed">"Не вдалося помістити ярлик на робочому столі"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Не вдалося помістити більше ярликів на робочому столі"</string>

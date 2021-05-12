@@ -150,6 +150,12 @@
         <item quantity="few">Повідомлень: %1$s</item>
         <item quantity="many">Повідомлень: %1$s</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d елементів вибрано</item>
+        <item quantity="one">%d елемент обрано</item>
+        <item quantity="few">%d елементів вибрано</item>
+        <item quantity="many">%d елементів вибрано</item>
+    </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s повідомлень | "</item>
         <item quantity="one">"%s повідомлення | "</item>

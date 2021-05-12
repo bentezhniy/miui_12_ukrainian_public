@@ -533,6 +533,7 @@
     <string name="custom_watermark_words_save_success">Збережено успішно</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
+    <string name="dd_frn_f_t">Згортайте пристрій для використання передньої камери</string>
     <string name="dialog_button_accept">Прийняти</string>
     <string name="dialog_button_back">Відмінити</string>
     <string name="dialog_button_cancel">Скасувати</string>
@@ -616,6 +617,7 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">до н. е.</string>
     <string name="error_fail_to_start_audio_capture">"Неможливо записати звук"</string>
+    <string name="esp_tip">Попередній перегляд екрана</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
     <string name="extend_time_watermark_2_logo_text">ПІДПИСАТИСЯ</string>
@@ -953,6 +955,7 @@
     <string name="module_name_panorama">Панорама</string>
     <string name="module_name_portrait">Портрет</string>
     <string name="module_name_professional">Профі</string>
+    <string name="module_name_scanner">Сканер</string>
     <string name="module_name_square">Квадрат</string>
     <string name="module_name_super_moon">Режим \"Супермісяць\"</string>
     <string name="module_name_video">Відео</string>
@@ -1191,6 +1194,7 @@
     <string name="pref_camera_eis_entry_off">Вимкнено</string>
     <string name="pref_camera_eis_entry_pro">Стабільне відео PRO</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Задній попередній перегляд екрана</string>
     <string name="pref_camera_exposuretime_entry_auto">Авто</string>
     <string name="pref_camera_face_info_watermark_title">Додавати вік на фото</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Автоматичне приховування обличчя</string>
@@ -1351,6 +1355,8 @@
     <string name="pref_camera_tip_id_card">Послідовний сканер</string>
     <string name="pref_camera_touchafaec_entry_off">Вимк.</string>
     <string name="pref_camera_touchafaec_entry_on">Увімк</string>
+    <string name="pref_camera_track_focus_preferred_description">"Увімкніть, щоб автоматично підтримувати фокус на людей і тварин. Ви також зможете вибрати теми для відстеження вручну."</string>
+    <string name="pref_camera_track_focus_preferred_title">Відстеження фокусу</string>
     <string name="pref_camera_ubifocus_title">Перефокусування</string>
     <string name="pref_camera_ultra_wide_ldc_description">Автоматично виправляти викривлені об\'єкти</string>
     <string name="pref_camera_ultra_wide_ldc_title">Виправляти ширококутні викривлення</string>
@@ -1511,11 +1517,15 @@
     <string name="prek_b_j_o">Повторно створити стереозвучений ефект</string>
     <string name="prek_b_j_p">Зменшення впливу вітру на запис звуку</string>
     <string name="prep_video_ai_audio_new_desc_tip">Звуки від предмету у фокусі покращені</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Звуки з предмету у пейзажному режимі</string>
     <string name="prep_video_ai_audio_single_desc_tip">Звуки позаду екрану фільтруються</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Звуки з-за екрана у ландшафтному режимі</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Аудіо Зум не працює з живим через вушний монітор та зовнішнім мікрофоном"</string>
     <string name="preparing_sd">Підготовка SD карти...</string>
     <string name="preview_back_pressed_hint">Натисніть ще раз, щоб повернутися до перегляду</string>
     <string name="pro_color_mode">Професійні кольори</string>
+    <string name="process_tips_1">"Не складайте пристрій доки відео не буде збережено"</string>
+    <string name="process_tips_2">"Не вмикати пристрій, поки не буде збережено відео"</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Спробуйте макро режим</string>
     <string name="recommend_portrait">Спробуйте портретний режим</string>
@@ -1542,6 +1552,9 @@
     <string name="saturday">Субота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="scan_install_prompt_header">Встановити сканер</string>
+    <string name="scan_install_prompt_loading">Встановлення сканера…</string>
+    <string name="scan_install_prompt_message">Встановіть сканер та повторіть спробу.</string>
     <string name="screen_on_proximity_sensor_hint">Для відключення цієї функції одночасно натисніть кнопки \"Збільшити гучність\" та \"Назад\".</string>
     <string name="screen_on_proximity_sensor_summary">"Не закривайте динамік"</string>
     <string name="search_menu_title">Пошук</string>

@@ -207,6 +207,7 @@
     <string name="defalut_launcher_title">Робочий стіл за замовчуванням</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Ігри</string>
+    <string name="default_folder_title_hot">Популярні програми</string>
     <string name="default_folder_title_meitu">Програми Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Інші програми</string>
@@ -222,6 +223,7 @@
     <string name="delete_category_dialog_title">Видалити цю категорію?</string>
     <string name="delete_screen">Видалити екран</string>
     <string name="delete_wallpaper_message">Видалити шпалери? (%1$d)</string>
+    <string name="deleted_system_applications">Видалені системні програми</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="dialog_work_profile_button_1">Уперед</string>
     <string name="dialog_work_profile_button_2">Зрозуміло</string>

@@ -1079,7 +1079,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN-коди не збігаються</string>
     <string name="kg_invalid_puk">Введіть правильний PUK-код. Після декількох невдалих спроб SIM-карта буде заблокована.</string>
     <string name="kg_invalid_sim_pin_hint">Введіть PIN-код, який містить від 4 до 8 цифр.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-код має містити не менше 8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код має містити %1$d цифр.</string>
     <string name="kg_login_too_many_attempts">Забагато спроб вводу</string>
     <string name="kg_password_instructions">Введіть пароль</string>
     <string name="kg_password_pin_failed">Не вдалося розблокувати за допомогою PIN-коду</string>

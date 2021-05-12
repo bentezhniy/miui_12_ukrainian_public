@@ -258,6 +258,12 @@
         <item quantity="few">Контактів з частково ідентичними даними: %1$d</item>
         <item quantity="many">Контактів з частково ідентичними даними: %1$d</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d елементів вибрано</item>
+        <item quantity="one">%d елемент обрано</item>
+        <item quantity="few">%d елементів вибрано</item>
+        <item quantity="many">%d елементів вибрано</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Вибрано: %1$d</item>
         <item quantity="one">Вибрано: %1$d</item>

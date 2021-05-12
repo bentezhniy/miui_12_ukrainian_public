@@ -85,7 +85,6 @@
     <string name="bugreport_tool_log_dumping_title">Створення звіту про помилку</string>
     <string name="catch_full_log_action_cancel">Скасувати</string>
     <string name="catch_full_log_action_complete">Завершити та відправити</string>
-    <string name="catch_full_log_action_start">Створити журнал</string>
     <string name="catch_full_log_add_original_photo">Додайте зображення або коротке відео</string>
     <string name="catch_full_log_add_photo">Додати фото</string>
     <string name="catch_full_log_add_photo_dialog_content">"Якщо проблема, про яку ви повідомляєте, пов'язана з якістю зображення камери, додайте зразок фото (без обрізки), щоб допомогти нам знайти її. Додати фото?"</string>
@@ -94,9 +93,6 @@
     <string name="catch_full_log_dump_hprof_failed">"Не вдалося створити журнал затримок"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Поверніться до функції, про яку ви хочете повідомити і відтворіть проблему.
 2. Поверніться на цю сторінку і натисніть \"Завершити і відправити\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Натисніть \"Створити журнал\".
-2. Поверніться до функції, про яку ви хочете повідомити і відтворіть проблему.
-3. Поверніться на цю сторінку і натисніть \"Завершити та відправити\"."</string>
     <string name="catch_full_log_item_content_title">Кроки</string>
     <string name="catch_full_log_item_title_audio">Аудіо, запис звуку та виклики</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>

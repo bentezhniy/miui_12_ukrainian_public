@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">Видалити цей запис?</string>
     <string name="alert_message_delete_record">Видалення запису з пристрою також видалить цей запис з Xiaomi Cloud. Видалити зараз?</string>
     <string name="alert_message_delete_record_title">Видалити запис?</string>
+    <string name="all_record">Всі записи</string>
     <string name="am">ДП</string>
     <string name="app_name">Диктофон</string>
     <string name="app_record">Записи програми</string>
@@ -107,6 +108,7 @@
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
     <string name="export_to_note">Експорт</string>
+    <string name="fm_record">Радіомодуль</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -216,9 +218,12 @@
     <string name="network_unavailable_tip">Підключіться до мережі та повторіть спробу.</string>
     <string name="new_record_name">Новий запис</string>
     <string name="night">Вечір</string>
+    <string name="no_content">Тут ще немає товарів</string>
     <string name="no_file">Немає записів</string>
     <string name="no_network">"Не вдалося підключитися до мережі"</string>
+    <string name="no_playback_file">Виберіть запис, щоб переглянути подробиці</string>
     <string name="noon">Midday</string>
+    <string name="normal_settings_pref_title">Загальні налаштування</string>
     <string name="not_set">Не налаштовано</string>
     <string name="notification_message_all_paused">Можливе надмірне споживання трафіку.</string>
     <string name="notification_playback">Відтворення…</string>
@@ -255,6 +260,7 @@
     <string name="order_item_duration">Тривалість: %s</string>
     <string name="order_item_number">Номер замовлення: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Додаткові налаштування</string>
     <string name="path_soundrecorder_setting">Системні програми/Диктофон</string>
     <string name="pause">Пауза</string>
     <string name="pay_error_cancel">Оплата була скасована</string>
@@ -265,19 +271,19 @@
     <string name="pm">Очистити кеш</string>
     <string name="preference_clear_data">Очистити дані</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
-    <string name="preference_enable_earpiece_summary">Використовувати розмовний динамік для відтворення</string>
-    <string name="preference_enable_earpiece_title">Розмовний динамік</string>
+    <string name="preference_enable_earpiece_summary">Відтворювати звук за допомогою динаміка навушника</string>
+    <string name="preference_enable_earpiece_title">Режим Навушників</string>
     <string name="preference_led_indicator">Сповіщення на екрані блокування</string>
-    <string name="preference_led_indicator_prompt">Відображати ярлик у рядку стану та блимати світлодіодом під час запису у заблокованому режимі</string>
+    <string name="preference_led_indicator_prompt">Показувати синій індикатор на екрані блокування та світлодіодний індикатор під час запису</string>
     <string name="preference_online_orders">Онлайн замовлення</string>
     <string name="preference_recog_faqs">Запитання та відповіді щодо розшифрування онлайн</string>
     <string name="preference_recog_terms">Умови використання</string>
-    <string name="preference_record_desktop_indicator_summary">Синій індикатор буде відображатися на робочому столі, коли Диктофон працює у фоновому режимі</string>
+    <string name="preference_record_desktop_indicator_summary">Показати синій індикатор на головному екрані під час запису</string>
     <string name="preference_record_desktop_indicator_title">Індикатор робочого столу</string>
     <string name="preference_record_scenes_dialog_title">Виберіть режим запису</string>
     <string name="preference_scenes">Режим запису</string>
     <string name="preference_silent_mode">Вимикати всі звуки</string>
-    <string name="preference_status_bar_indicator_prompt">Показувати ярлик у рядку стану під час запису</string>
+    <string name="preference_status_bar_indicator_prompt">Показати синій індикатор на екрані блокування під час запису</string>
     <string name="preference_tip_rename">Перейменування записів вручну</string>
     <string name="privacy_policy_title">Політика конфіденційності</string>
     <string name="recognition_button_add_to_queue">Додати до черги</string>
@@ -344,6 +350,7 @@
     <string name="record_mark_point">Мітка %s</string>
     <string name="record_quliaty_preference_title">Якість запису</string>
     <string name="record_resotre">Відновити записи</string>
+    <string name="recorder_record">Аудіо</string>
     <string name="recording">Запис</string>
     <string name="recording_quality_high">Висока якість</string>
     <string name="recording_quality_low">Низька якість</string>
@@ -363,6 +370,7 @@
     <string name="reg_error_server">Сталася помилка сервера. Повідомте про неї та повторіть спробу.</string>
     <string name="reg_error_upload_audio">"Не вдалося завантажити файл, повторіть спробу."</string>
     <string name="reg_error_upload_order">"Не вдалося завантажити, повторіть спробу."</string>
+    <string name="remind_settings_pref_title">Сповіщення</string>
     <string name="remove_icon_description_content">"Recorder - це системна програма. Ви не зможете керувати записами після видалення ярлика на головному екрані."</string>
     <string name="remove_icon_description_title">Видалити записувач з головного екрану?</string>
     <string name="rename">Перейменувати</string>
@@ -379,7 +387,7 @@
     <string name="save_record_dialog_title">Зберегти запис</string>
     <string name="search_app">Диктофон</string>
     <string name="search_empty">"Не вдалося знайти результати"</string>
-    <string name="search_enable_earpiece_title">Використовувати розмовний динамік для відтворення</string>
+    <string name="search_enable_earpiece_title">Режим Навушників</string>
     <string name="search_hint">Пошук</string>
     <string name="search_led_indicator">Сповіщення на екрані блокування</string>
     <string name="search_led_indicator_prompt">Відображати ярлик у рядку стану та блимати світлодіодом під час запису у заблокованому режимі</string>
@@ -429,6 +437,7 @@
     <string name="sunday">Неділя</string>
     <string name="sunday_short">НД</string>
     <string name="sunday_shortest">НД</string>
+    <string name="tap_to_record">Натисніть на кнопку, щоб почати запис</string>
     <string name="text_btn_backward_3_seconds">3 сек назад</string>
     <string name="text_btn_complete">Зупинити</string>
     <string name="text_btn_forward_3_seconds">3 сек вперед</string>

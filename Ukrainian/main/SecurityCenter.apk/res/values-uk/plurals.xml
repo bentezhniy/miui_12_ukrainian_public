@@ -60,6 +60,18 @@
         <item quantity="few">Додано ігор: %d</item>
         <item quantity="many">Додано ігор: %d</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d додатка</item>
+        <item quantity="one">%d додаток</item>
+        <item quantity="few">%d додатка</item>
+        <item quantity="many">%d додатка</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d додатка</item>
+        <item quantity="one">%d додаток</item>
+        <item quantity="few">%d додатка</item>
+        <item quantity="many">%d додатка</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Дозволено %3$d разів між %1$s та %2$s</item>
         <item quantity="one">Дозволено %3$d раз між %1$s та %2$s</item>
@@ -161,12 +173,6 @@
         <item quantity="one">Видалити %d додаток</item>
         <item quantity="few">Видалити %d застосунків</item>
         <item quantity="many">Видалити %d застосунків</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Доступні оновлення для %d додатків</item>
-        <item quantity="one">Доступні оновлення для %d програми</item>
-        <item quantity="few">Доступні оновлення для %d додатків</item>
-        <item quantity="many">Доступні оновлення для %d додатків</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Запускалася %d днів тому</item>

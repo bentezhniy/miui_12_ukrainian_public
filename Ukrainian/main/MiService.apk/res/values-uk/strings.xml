@@ -137,11 +137,14 @@
     <string name="miui_feedback_edit_toast_third_packagename_required">Введіть назву програми</string>
     <string name="miui_feedback_main_answer_title">"У нас є відповідь на це питання"</string>
     <string name="miui_feedback_main_frequent_question_title">Запитання та відповіді</string>
-    <string name="miui_feedback_main_menu_catch_full_log">Створити журнали</string>
-    <string name="miui_feedback_main_menu_feedback_list">Історія звітів</string>
+    <string name="miui_feedback_main_item_catch_full_log">Отримати журнали</string>
+    <string name="miui_feedback_main_item_customer_service">Послуги після продажу</string>
+    <string name="miui_feedback_main_item_feedback_list">Мій відгук</string>
+    <string name="miui_feedback_main_menu_view_privacy">Політика конфіденційності</string>
     <string name="miui_feedback_main_search_footer">"Це не ті питання, які ви хочете задати?"</string>
     <string name="miui_feedback_main_search_footer_submit">Відправити звіт</string>
     <string name="miui_feedback_main_search_issue">Введіть ключові слова</string>
+    <string name="miui_feedback_main_search_no_answer">"Немає результатів"</string>
     <string name="miui_feedback_main_start_submit">Відправити відгук</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Відправити</string>
     <string name="miui_feedback_main_submit_dialog_content">"Схоже, що ми не змогли знайти вирішення вашої проблеми. Ви можете надіслати нам звіт."</string>

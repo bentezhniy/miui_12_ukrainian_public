@@ -245,6 +245,7 @@
     <string name="app_express_shunfeng_verify_dialog_title">Завершення верифікації</string>
     <string name="app_express_shunfeng_verify_failed">"Не вдалося перевірити контактну інформацію. Перевірте, чи правильно введені останні чотири цифри номера телефону, та повторіть спробу."</string>
     <string name="app_express_tail_number">Замовлення: %1$s</string>
+    <string name="app_first_loading_txt">Завантаження карт…</string>
     <string name="app_health_card_completion">Прогрес</string>
     <string name="app_health_card_energy">Калорії</string>
     <string name="app_health_card_step">Кроки</string>
@@ -349,9 +350,8 @@
     <string name="app_pa_setting_version">Версія: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Час екрану</string>
-    <string name="app_screen_time_no_time_title">Менш ніж 1 хв</string>
     <string name="app_screen_time_support_false">"Ця служба не підтримується"</string>
-    <string name="app_screen_time_title">"Час екрану: "</string>
+    <string name="app_screen_time_title">"Час екрану"</string>
     <string name="app_setting">Налаштування</string>
     <string name="app_setting_account">Акаунти</string>
     <string name="app_setting_account_binding">Додати</string>

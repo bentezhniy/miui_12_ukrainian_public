@@ -281,7 +281,7 @@
     <string name="backup_no_wifi_btn_text">Використовувати мобільний інтернет</string>
     <string name="backup_no_wifi_desc">Ви також можете відновити синхронізацію, використовуючи мобільний інтернет</string>
     <string name="backup_no_wifi_title">Синхронізація відновиться після підключення до Wi-Fi</string>
-    <string name="backup_only_in_wifi">Використовувати тільки Wi‑Fi для синхронізації фото та відео</string>
+    <string name="backup_only_in_wifi">Використовувати лише Wi-Fi для синхронізації фотографій і відео</string>
     <string name="backup_only_in_wifi_summary">Ніколи не використовувати мобільний інтернет для синхронізації фото та відео</string>
     <string name="backup_only_wifi_dialog_message">Використовувати мобільний інтернет для синхронізації фото та відео?</string>
     <string name="backup_pause">Призупинити створення бекапу</string>
@@ -450,6 +450,10 @@
     <string name="cloud_bacup_disable_processing">Обробка…</string>
     <string name="cloud_camera_display_name">Фото з камери</string>
     <string name="cloud_cancel_authorizing_to_device">Скасування авторизації…</string>
+    <string name="cloud_full_space_tip_message">Оновіть план хмарного сховища, щоб синхронізувати всі ваші фото та відео до хмари.</string>
+    <string name="cloud_full_space_tip_negative">Не зараз</string>
+    <string name="cloud_full_space_tip_positive">Апґрейд</string>
+    <string name="cloud_full_space_tip_title">Недостатнє хмарне сховище</string>
     <string name="cloud_guide_auto_backup_title">Виберіть альбоми для синхронізації з Mi Cloud</string>
     <string name="cloud_guide_login_title">Автоматичний бекап фото та відео</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -773,6 +777,7 @@
     <string name="filter_category_texture">Lilt</string>
     <string name="filter_category_travel">Подорож</string>
     <string name="filter_food_caramel">Caramel</string>
+    <string name="filter_food_orangeflavor">Tangerine</string>
     <string name="filter_general_blackice">Чорний лід</string>
     <string name="filter_general_blackwhite">Ч/Б</string>
     <string name="filter_general_delicious">Їжа</string>
@@ -783,6 +788,7 @@
     <string name="filter_general_lilt">Ритм</string>
     <string name="filter_general_movie">Кіно</string>
     <string name="filter_general_nature">Природа</string>
+    <string name="filter_general_past">Йоре</string>
     <string name="filter_general_pink">Рожевий</string>
     <string name="filter_general_portrait">Портрет</string>
     <string name="filter_general_rise">Схід</string>
@@ -826,15 +832,18 @@
     <string name="filter_popular_coldsmoke">Холодний туман</string>
     <string name="filter_popular_comic">Аніме</string>
     <string name="filter_popular_dream">Мріяння</string>
+    <string name="filter_popular_gingertea">Імбир</string>
     <string name="filter_popular_hill">Пагорби</string>
     <string name="filter_popular_humanity">Документалістика</string>
     <string name="filter_popular_icesnow">Снігопад</string>
     <string name="filter_popular_kamakura">Камакура</string>
     <string name="filter_popular_lnk">Чорнило</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Фіолетовий</string>
     <string name="filter_popular_shallow_summer">Червень</string>
     <string name="filter_popular_smokegreen">Шавлія</string>
     <string name="filter_popular_watergreen">Смарагд</string>
+    <string name="filter_popular_windchime">Чіме</string>
     <string name="filter_popular_wintersun">Зима</string>
     <string name="filter_portrait_greyish">Попіл</string>
     <string name="filter_portrait_hint">Колірний фокус</string>
@@ -913,6 +922,7 @@
     <string name="filter_sky_yunmeng">Fantasy</string>
     <string name="filter_sky_yunxu">Перисті хмари</string>
     <string name="filter_texture_shadow">Сутінки</string>
+    <string name="filter_travel_charlotte">Шарлотта</string>
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" створений в Xiaomi Cloud</string>
     <string name="finish_fill_baby">Створити</string>
     <string name="first_time_add_video_to_secret_tips">Оновіть Галерею, щоб мати можливість додавати відео до особистого альбому</string>
@@ -1182,6 +1192,7 @@
     <string name="mi_mover_working_desc">Mi Mover переносить елементи…</string>
     <string name="micloud_introduce">Синхронізація фото та відео (необхідний Mi акаунт)</string>
     <string name="midnight">AM</string>
+    <string name="mishare_all_devices">Усі пристрої</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_action_mode_select_all">Виділити все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Виберіть предмети</string>
@@ -1761,7 +1772,7 @@
     <string name="search_backup_now">Увімкнути</string>
     <string name="search_backup_sub_title">Увімкніть, щоб знайти більше зображень</string>
     <string name="search_backup_title">Синхронізувати із хмарним сховищем</string>
-    <string name="search_clear_histories">Очистити</string>
+    <string name="search_clear_histories">Очистити історію пошуку</string>
     <string name="search_connection_error">"Не вдалося підключитися до мережі"</string>
     <string name="search_connection_error_and_set">Натисніть, щоб перевірити налаштування мережі</string>
     <string name="search_empty_title">Знаходьте фото з зазначеними людьми, місцями та об\'єктами у вашій Галереї</string>
@@ -2016,6 +2027,7 @@
     <string name="sync_off_title">Увімкніть синхронізацію із Xiaomi Cloud, щоб мати можливість автоматично створювати бекап фото та відео</string>
     <string name="sync_pending_title">Буде синхронізовано автоматично</string>
     <string name="sync_state_unknow">Отримання інформації</string>
+    <string name="synced_photo_video_count">Синхронізовано %1$s і %2$s</string>
     <string name="synced_title">Бекап фото та відео створено успішно</string>
     <string name="syncing_gprs_title">Використання мобільного інтернету для створення бекапу фото та відео</string>
     <string name="syncing_metadata_title">Синхронізація даних Xiaomi Cloud</string>

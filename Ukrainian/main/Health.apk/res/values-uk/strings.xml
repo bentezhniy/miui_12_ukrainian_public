@@ -68,6 +68,8 @@
     <string name="add_data_type_datasource">Додати дані джерела (%1$s)</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Натисніть на кнопку вище, щоб додати карти.
+Ви зможете відслідковувати тренування та активність."</string>
     <string name="add_owned_device">Доступні пристрої</string>
     <string name="add_record">Add</string>
     <string name="added_data_source">Додані джерела</string>
@@ -334,6 +336,7 @@ Xiaomi Здоров'я буде сповіщати вас тільки про в
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">Ласкаво просимо до Xiaomi Здоров\'я! \"Лічильник кроків\" дозволяє побачити, скільки кроків ви робите протягом дня, а також змінювати і керувати вашими цілями активності. Всі пов\'язані дані будуть зберігатися локально на вашому пристрої, що дозволяє легко ними керувати.</string>
     <string name="dialog_exit">Вийти</string>
+    <string name="dialog_exit_use">Вийти</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Щоб відправити відгук, програмі Xiaomi Здоров\'я необхідний доступ до пам\'яті.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -365,6 +368,8 @@ Xiaomi Здоров'я буде сповіщати вас тільки про в
     <string name="diastolic_pressure">Діастолік</string>
     <string name="disable">Off</string>
     <string name="discard_update">No thanks</string>
+    <string name="download_apk">Завантаження %s…</string>
+    <string name="download_background">Звантажити</string>
     <string name="drag_sort">Змінити порядок</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>

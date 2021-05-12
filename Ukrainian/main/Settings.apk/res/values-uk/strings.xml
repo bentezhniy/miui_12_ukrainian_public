@@ -2012,6 +2012,7 @@
     <string name="custom_color">Власний</string>
     <string name="custom_gesture_title">Власні жести</string>
     <string name="custom_wifi_name_title">Змінити ім\'я Wi-Fi</string>
+    <string name="customize_knock_gesture">Користувацькі візерункові жести</string>
     <string name="cutout_mode_always">Показувати завжди</string>
     <string name="cutout_mode_default">Авто</string>
     <string name="cutout_mode_settings_title">При налаштованому способі відображення вирізу деякі програми можуть відображатися неправильно.</string>
@@ -2559,6 +2560,7 @@
     <string name="done_button">Готово</string>
     <string name="double_click_power_key">Подвійне натиснення кнопки \"Живлення\"</string>
     <string name="double_click_volume_down_when_lock">Подвійне натиснення кнопки зменшення гучності, коли екран заблоковано</string>
+    <string name="double_knock">Ковзне подвійне натискання</string>
     <string name="double_tap_power_for_camera_suggestion_title">Швидке відкривання камери</string>
     <string name="double_tap_power_for_camera_summary">Щоб швидко відкрити камеру, двічі натисніть кнопку живлення. Працює на будь-якому екрані.</string>
     <string name="double_tap_power_for_camera_title">Швидко відкривати камеру</string>
@@ -2816,6 +2818,13 @@
     <string name="exterior">Колірна схема</string>
     <string name="external_code_size_label">Додаток на носії USB</string>
     <string name="external_data_size_label">Дані на носії USB</string>
+    <string name="external_ram_dialog_btn_cancel">Пізніше</string>
+    <string name="external_ram_dialog_btn_ok">Reboot</string>
+    <string name="external_ram_dialog_message">Перезавантажте пристрій для застосування змін.</string>
+    <string name="external_ram_dialog_title">Перезавантажити пристрій</string>
+    <string name="external_ram_summary">"Додайте %1$s %2$s оперативної пам'яті шляхом займання сховища. Використовуйте цю функцію тільки тоді, коли на пристрої буде достатньо вільного місця."</string>
+    <string name="external_ram_title">Розширення пам\'яті</string>
+    <string name="external_ram_toast">"Неможливо використати розширення пам'яті через брак місця для зберігання"</string>
     <string name="external_source_switch_title">Дозволити з цього джерела</string>
     <string name="external_source_trusted">Дозволено</string>
     <string name="external_source_untrusted">Не дозволено</string>
@@ -3302,6 +3311,7 @@
     <string name="header_category_system">Система</string>
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
+    <string name="headset_aptx-adapter">Qualcomm® aptXTM адаптивна</string>
     <string name="headset_connectiong">З\'єднання…</string>
     <string name="headset_find_both">З обох сторін</string>
     <string name="headset_find_cancel">Скасувати</string>
@@ -3710,6 +3720,16 @@ Xiaomi Cloud
     <string name="keywords_zen_mode_settings">не турбувати, графік, сповіщення, блокувати, без звуку, вібрація, сон, робота, зосередитися, звук, вимкнути звук, день, будній день, вихідні, будній вечір, подія</string>
     <string name="kid_space_settings">Дитячий режим</string>
     <string name="kilobyte_per_second">Кб/с</string>
+    <string name="knock_edge_area_invalid">"Цей жест не працює поблизу меж екрану"</string>
+    <string name="knock_guide_dialog_title">Виберіть дію для цього жеста. Ви можете змінити його пізніше в Налаштуваннях &gt; Додаткові налаштування &gt; Ярлики кнопки.</string>
+    <string name="knock_guide_drive_desc">Робити знімки екрану за кермом</string>
+    <string name="knock_guide_launch_desc">Тригер Mi AI, коли ваш телефон лежить на столі</string>
+    <string name="knock_guide_set_screenshot">Знімок екрану</string>
+    <string name="knock_guide_sub_title">Ви можете запустити Mi AI або зробити скріншоти натиснувши на екран за допомогою шнура</string>
+    <string name="knock_guide_title">Ковзне подвійне натискання</string>
+    <string name="knock_long_press_horizontal_slid">Натисніть та проведіть пальцем по горизонталі з кісточкою</string>
+    <string name="knock_slide_shape">Намалюй коло за допомогою кастела</string>
+    <string name="knock_slide_v">Намалюйте V кісточкою</string>
     <string name="label_available">Доступні мережі</string>
     <string name="label_mi_stats">Mi аналітика</string>
     <string name="language_and_input_for_work_category_title">Клавіатури та інструменти робочого профілю</string>
@@ -4390,6 +4410,7 @@ Xiaomi Cloud
     <string name="miheadset_moreSettingsInAi">Додаткові налаштування</string>
     <string name="miheadset_multi_connect_mode">Множина</string>
     <string name="miheadset_multi_connect_mode_summary">Під\'єднатися до кількох пристроїв одночасно</string>
+    <string name="miheadset_network_not_available">Перевірте параметри мережі та повторіть спробу</string>
     <string name="miheadset_next">Наступна пісня</string>
     <string name="miheadset_ok_device">Гаразд</string>
     <string name="miheadset_openAnc">Скасування шуму</string>
@@ -5247,6 +5268,8 @@ OTG автоматично відключається через 10 хвилин
     <string name="permission_manage_title">Дозволів: %s</string>
     <string name="permission_manager">Дозволи</string>
     <string name="permission_mgr">Дозволи</string>
+    <string name="permission_records">Дозволи використання</string>
+    <string name="permission_records_summary">Підсумок використання застосунків</string>
     <string name="permission_settings_summary">Керувати дозволами, які відносяться до місцезнаходження, сховища, телефона, повідомлень та контактів.</string>
     <string name="permission_settings_title">Дозволи</string>
     <string name="permissions_label">Дозволи</string>

@@ -37,6 +37,7 @@
     <string name="app_version_which_call">Версія програми: %s</string>
     <string name="autoconnect">Підключатися автоматично</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="close">Закрити</string>
     <string name="copyright">Авторське право</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
@@ -143,6 +144,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Відправити</string>
     <string name="settings_ad_loading">Хвилинку…</string>
     <string name="settings_ad_loading_unavailable">"Не вдалося завантажити інформацію."</string>
     <string name="settings_license_activity_loading">Хвилинку…</string>

@@ -200,6 +200,7 @@
     <string name="copy_verification_code_tip">Успішно скопійовано</string>
     <string name="current_data_version">Версія Mi повідомлень</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
+    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="debug_about_mms">Про MMS</string>
     <string name="debug_category_db">База даних</string>
     <string name="debug_category_others">Інші</string>
@@ -436,7 +437,10 @@
     <string name="message_too_big_for_audio">Повідомлення занадто велике, щоб прикріпити аудіо.</string>
     <string name="message_too_big_for_video">Повідомлення занадто велике, щоб прикласти відео</string>
     <string name="message_type_label">"Тип: "</string>
+    <string name="message_unread">Непрочитані</string>
     <string name="messagelist_sender_self">Я</string>
+    <string name="messages_installed_notification_text_xiaomi">Торкніться, щоб розпочати чат</string>
+    <string name="messages_installed_notification_title_xiaomi">Повідомлення встановлені</string>
     <string name="messaging">Повідомлення</string>
     <string name="mi_message_title">Mi повідомлення</string>
     <string name="midnight">Ніч</string>
@@ -450,10 +454,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Синхронізація із хмарою…</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
+    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти всі виділення</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
+    <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
+    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -616,6 +623,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="notification_add_todo_content">Код отримання: %s</string>
     <string name="notification_channel_msg_description">Сповіщення про повідомлення</string>
     <string name="notification_channel_msg_name">Повідомлення</string>
+    <string name="notification_channel_name_xiaomi">Сповіщення про оновлення програми</string>
     <string name="notification_channel_other_description">Сповіщення не про повідомлення</string>
     <string name="notification_channel_other_name">Інші</string>
     <string name="notification_channel_sim1_description">Сповіщення про повідомлення SIM1</string>
@@ -750,6 +758,9 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="privacy_password_title3">Пароль конфіденційності</string>
     <string name="privacy_password_title4">Пароль оновлено</string>
     <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="privacy_revoke_nonetwork_msg">Ваш пристрій повинен під’єднатися до мережі для того, щоб мати можливість відкликати вилучення. Перевірте параметри мережі та повторіть спробу.</string>
+    <string name="privacy_revoke_nonetwork_ok">Зрозуміло</string>
+    <string name="privacy_revoke_nonetwork_title">"Мережа не може бути підключена"</string>
     <string name="privacy_state_revoked_cancel">Скасувати</string>
     <string name="privacy_state_revoked_content">Відключивши перемикач, ви знімаєте свою згоду на Політику конфіденційності повідомлень. Ми перестанемо збирати вашу персональну інформацію. Особиста інформація вже зібрана і збережена буде видалена протягом певного періоду, оскільки обов’язково із чинними законами. Mi message і Smart Messaging надані повідомленнями необхідно збирати необхідну особисту інформацію для надання основних сервісів. Ваш вивід згоди на Політику конфіденційності обміну повідомленнями буде виконано як відмову приймати послуги на основі зібраної особистої інформації, наданої Mi Message і Smart Messaging.</string>
     <string name="privacy_state_revoked_dialog_title">Виведення згоди</string>
@@ -764,6 +775,21 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="private_protect">Загальні</string>
     <string name="private_settings">Налаштування</string>
     <string name="processing">Обробка…</string>
+    <string name="promo_back_btn_text_xiaomi">Назад до Mi Message</string>
+    <string name="promo_install_btn_text">Уперед</string>
+    <string name="promo_install_bullet_1_xiaomi">Використовувати Google Assistant для текстів &amp; завдань</string>
+    <string name="promo_install_bullet_2_xiaomi">Тримайте ваші поточні розмови &amp; медіа</string>
+    <string name="promo_install_bullet_3_xiaomi">Легко знайти спільні повідомлення &amp; медіа</string>
+    <string name="promo_install_bullet_4_xiaomi">Використовувати повідомлення як типову програму для SMS</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Докладніше</a></string>
+    <string name="promo_install_subtitle_xiaomi">Завантажте більш насичений, якісний чат на Wi-Fi або дані. Встановіть повідомлення &amp; використовуйте це як додаток для SMS за умовчанням. <a href="https://support.google.com/messages/answer/6089066">Дізнатися більше</a></string>
+    <string name="promo_install_title_xiaomi">Xiaomi рекомендує оновлення до повідомлень Google</string>
+    <string name="promo_launch_messages_btn_text">Відкрити повідомлення</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Ні, дякую</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Повідомлення від Google тепер є вашим додатком для SMS за замовчуванням. Щоб розмістити повідомлення Google як важливе на головному екрані, довго натисніть на Mi Повідомлення та перемістіть його з улюбленого, потім довго натискайте на Повідомлення та переміщайте його в обране.</string>
+    <string name="promo_post_install_title_no_default_xiaomi">Замінити Mi Message новішими повідомленнями від Google</string>
+    <string name="promo_post_install_title_with_default_xiaomi">Запускати тепер більш високу якість тексту з повідомленнями від Google</string>
+    <string name="promo_use_messages_btn_text">Використовувати повідомлення</string>
     <string name="prompt_otp">Код</string>
     <string name="prompt_phone">Номер телефону</string>
     <string name="prompt_summary">RCS дозволяє обмінюватися повідомленнями, фотографіями, відео та створювати групові чати безкоштовно.</string>
@@ -1057,6 +1083,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="slide_show_part">Частина %1$d з %2$d</string>
     <string name="slide_up_to_cancel">Проведіть щоб скасувати</string>
     <string name="slideshow_activity"> Слайд-шоу</string>
+    <string name="small_window_log_text">"Камеру не можна використовувати в багатовіконному режимі"</string>
     <string name="smart_message_title">Розумні повідомлення</string>
     <string name="smart_message_upgrade_title">Оновлення конфіденційності конфіденційності Smart Messaging</string>
     <string name="smart_messages_network_allow_message">Дозволити доступ до інтернету для Mi повідомлень?</string>

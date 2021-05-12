@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="actionbar_button_up_description">Відмінити</string>
-    <string name="adaptive_fps_tip">2. Досягніть найкращого балансу між гладкістю і життям батареї шляхом динамічної корекції швидкості оновлення.</string>
+    <string name="adaptive_fps_tip">- Досягніть найкращого балансу між споживанням плавності руху та рівнем заряду акумулятора, динамічно регулюючи швидкість оновлення.</string>
     <string name="advanced_mode">Розширені налаштування</string>
     <string name="africa_introduction">"Дикі тварини процвітають в Африці - будинок багатьох найвідоміших у світі тварин."</string>
     <string name="african_bush_elephant">Слон саванний</string>
@@ -233,7 +233,7 @@
     <string name="fps_smooth_title">Середній</string>
     <string name="fps_standard_summary">Середня частота оновлення зберігає заряд батареї</string>
     <string name="fps_standard_title">Стандартний</string>
-    <string name="fps_user_tip">1. Ці демонстраційні анімації грають з низькою швидкістю передачі артикула. Фактична продуктивність може виглядати в залежності від різних факторів.</string>
+    <string name="fps_user_tip">- Ці демо-анімації грають з низькою швидкістю для вашого еталону. Фактична продуктивність може виглядати в залежності від різних факторів.</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -474,6 +474,7 @@
     <string name="search_empty">Програми не знайдені</string>
     <string name="search_menu_title">Пошук</string>
     <string name="send">Відправити</string>
+    <string name="service_ringtone_title">Мелодія служби</string>
     <string name="several_days_use_time">Екранний час: %2$s</string>
     <string name="short_eared_owl">Сова вухата</string>
     <string name="shortcut_created">Ярлик вже існує</string>

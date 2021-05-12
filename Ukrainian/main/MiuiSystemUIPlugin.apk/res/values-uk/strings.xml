@@ -343,6 +343,9 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wireless_charging_connected_message">"Неможливо використовувати реверсивну бездротову зарядку, коли ваш пристрій заряджається бездротовим шляхом."</string>
+    <string name="wireless_charging_fg_control_cancel">Скасувати</string>
+    <string name="wireless_charging_fg_control_messgae">"Зворотний бездротовий заряд був вимкнений, оскільки менше ніж %d%% заряду батареї. Ви можете налаштувати параметри, щоб дозволити довше працювати зворотне бездротове заряджання."</string>
+    <string name="wireless_charging_fg_control_ok">Регулювати</string>
     <string name="wireless_charging_low_battery_level_message">"Неможливо використовувати реверсивну бездротову зарядку, коли рівень заряду менше %d%%."</string>
     <string name="wireless_charging_ok">Зрозуміло</string>
     <string name="wireless_charging_saver_cancel">Вимкнути</string>

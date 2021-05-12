@@ -315,6 +315,7 @@
     <string name="disabled">Вимкнено</string>
     <string name="disabled_by_admin">Вимкнено адміністратором</string>
     <string name="disabled_by_admin_summary_text">Керується адміністратором</string>
+    <string name="do_not_show_again">"Не показувати знову"</string>
     <string name="duplicate_video_call_not_allowed">Зараз не можна почати дзвінок.</string>
     <string name="enable_account_preference_title">Облікові записи для дзвінків</string>
     <string name="enable_adb">Налагодження USB</string>
@@ -518,6 +519,11 @@
     <string name="runningservices_settings_summary">Переглянути й налаштувати запущені сервіси</string>
     <string name="runningservices_settings_title">Запущені сервіси</string>
     <string name="saved_network">Збережено додатком %1$s</string>
+    <string name="scam_cancle">Скасувати</string>
+    <string name="scam_message">"Налаштування переадресації викликів. Після цього на всі вхідні дзвінки відповідатимуть %1$s телефонним номером. Якщо вам не належить цей номер переадресації, ви можете ризикувати викрити свою особисту інформацію або компрометувати свою власність. Будьте обережні при використанні."</string>
+    <string name="scam_message_2">**21*Пересилання номера# - це код переадресації. Зверніться до свого оператора, якщо у вас виникли будь-які питання.</string>
+    <string name="scam_ok">Набір номера</string>
+    <string name="scam_title">Нагадування про ризик шахрайства</string>
     <string name="screen_zoom_summary_custom">Спеціальний масштаб (%d)</string>
     <string name="screen_zoom_summary_default">За умовчанням</string>
     <string name="screen_zoom_summary_extremely_large">Найбільші елементи</string>

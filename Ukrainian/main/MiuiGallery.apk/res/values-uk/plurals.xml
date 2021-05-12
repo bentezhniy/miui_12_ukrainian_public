@@ -420,6 +420,12 @@
         <item quantity="few">Очікування синхронизації: %1$d відео</item>
         <item quantity="many">Очікування синхронизації: %1$d відео</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d фотографій</item>
+        <item quantity="one">%d фотографія</item>
+        <item quantity="few">%d фотографій</item>
+        <item quantity="many">%d фотографій</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Всього %1$d об/\'єктів</item>
         <item quantity="one">Всього %1$d об/\'єкт</item>
@@ -750,6 +756,18 @@
         <item quantity="few">%d об\'єкта</item>
         <item quantity="many">%d об\'єктів</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Синхронізовано %d фотографій</item>
+        <item quantity="one">Синхронізовано %d фотографій</item>
+        <item quantity="few">Синхронізовано %d фотографій</item>
+        <item quantity="many">Синхронізовано %d фотографій</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Синхронізовано %d відео</item>
+        <item quantity="one">Синхронізовано %d відео</item>
+        <item quantity="few">Синхронізовано %d відео</item>
+        <item quantity="many">Синхронізовано %d відео</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Ви не зможете відновити %d обраних об'єктів після видалення. Видалити?"</item>
         <item quantity="one">"Ви не зможете відновити %d обраний об'єкт після видалення. Видалити?"</item>
@@ -785,5 +803,11 @@
         <item quantity="one">%1$d файл</item>
         <item quantity="few">%1$d файла</item>
         <item quantity="many">%1$d файлів</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+        <item quantity="many">%d відео</item>
     </plurals>
 </resources>

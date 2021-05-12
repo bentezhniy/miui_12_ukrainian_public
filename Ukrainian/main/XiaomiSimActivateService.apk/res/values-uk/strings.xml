@@ -92,7 +92,7 @@
     <string name="activate_popup_desc_find_device_postfix">Після заміни SIM-картки може бути відправлене SMS для активації.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активації %3$s введіть номер телефону SIM-карти %2$d. Якщо ви замінили цю SIM-карту, буде відправлено повідомлення з кодом активації.</string>
     <string name="activate_popup_desc_intl_sim_card">Міжнародне SMS буде відправлене для активації %s. За нього стягується плата.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt;. Ваш оператор заплатить за це повідомлення.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш оператор заплатить за це повідомлення.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Зверніться до &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Керівництва з використання Мі акаунту&lt;/a&gt;, якщо у вас виникнуть будь-які запитання.&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 повідомлення (звичайне та міжнародне) будуть відправлені для активації %s. За них стягується плата.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Аби активувати %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;також будуть відправлені платні SMS&lt;/b&gt; , &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;міжнародне платне смс-повідомлення&lt;/b&gt; . Ваш перевізник стягує з вас кошти за ці повідомлення.</string>
@@ -169,6 +169,7 @@
     <string name="app_name">Сервіс активації Xiaomi SIM</string>
     <string name="checking_client">Перевірка умов активації</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="close">Закрити</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
     <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="early_morning">Ранок</string>
@@ -278,6 +279,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="search_menu_title">Пошук</string>
+    <string name="send">Відправити</string>
     <string name="sim_activated_failed_msg">"Не вдалося активувати послугу. Натисніть, щоб повторити спробу."</string>
     <string name="sim_unactivated_feature_title">"%s не було активовано"</string>
     <string name="sim_unactivated_msg">"Цю послугу не активовано. Натисніть, щоб повторити спробу."</string>

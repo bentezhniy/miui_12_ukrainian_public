@@ -78,6 +78,7 @@
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
     <string name="first_using_dialog_message">"Для нормальної роботи програми потрібний доступ до мережі, камери та служб місцезнаходження."</string>
+    <string name="first_using_dialog_message_no_camera">Компас необхідно підключитися до Інтернету і отримати доступ до даних про місцерозташування, щоб мати можливість працювати нормально. Прийняти?</string>
     <string name="first_using_dialog_title">Дозвіл доступу</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -177,6 +178,7 @@
     <string name="noon">Midday</string>
     <string name="not_set">Не налаштовано</string>
     <string name="open_perm_msg">Компасу потрібен доступ до даних розташування та камери. Це необхідно для визначення координат та перегляду в режимі реального часу. Дозволити?</string>
+    <string name="open_perm_msg_no_camera">Компас потребує доступу до інформації про місцезнаходження, щоб визначити координати. Дозволити?</string>
     <string name="open_perm_title">Необхідні дозволи</string>
     <string name="permission_camera_desc">Для відображення азимута в режимі реального часу</string>
     <string name="permission_location_desc">Для відображення координат</string>

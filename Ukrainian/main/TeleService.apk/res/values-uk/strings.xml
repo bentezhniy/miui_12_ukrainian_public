@@ -1024,7 +1024,7 @@
     <string name="force_resizable_activities_summary">Масштабувати активність на кілька вікон, незалежно від значень у файлі маніфесту.</string>
     <string name="force_rtl_layout_all_locales">Макет письма справа наліво</string>
     <string name="force_rtl_layout_all_locales_summary">Застосовувати макет письма справа наліво для всіх мов</string>
-    <string name="four_point_five_switch_summary">Використайте 4.5G, щоб поліпшити швидкість доступу до даних і якість голосового зв\'язку.</string>
+    <string name="four_point_five_switch_summary">Використайте 4.5G для збільшення швидкості передачі даних моб. даних та покращення якості голосу</string>
     <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">lte канал num</string>
     <string name="fw_change_failed">"Не вдалося змінити номер переадресації.
