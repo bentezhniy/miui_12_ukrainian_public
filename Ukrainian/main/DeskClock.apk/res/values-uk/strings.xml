@@ -606,7 +606,7 @@
     <string name="version_update_dialog_title">Доступне оновлення</string>
     <string name="vibrate_pref_summary">Вібрувати під час сигналу</string>
     <string name="vibrate_when_ringing">Вібрувати під час сигналу</string>
-    <string name="voice_add_alarm">Додати будильник за допомогою голосової команди</string>
+    <string name="voice_add_alarm">Дадати будильник за домпомогою голсової команди</string>
     <string name="volume_button_setting_desc">Налаштування функції кнопок Живлення і Гучність +/-</string>
     <string name="volume_button_setting_summary">"Призначити функцію кнопок гучності під час дзвінка будильника"</string>
     <string name="volume_button_setting_title">Кнопки гучності</string>

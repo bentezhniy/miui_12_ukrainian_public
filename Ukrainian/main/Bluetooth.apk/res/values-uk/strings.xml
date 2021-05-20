@@ -63,8 +63,8 @@
     <string name="bluetooth_sap_notif_message">Попросити клієнта відключитися?</string>
     <string name="bluetooth_sap_notif_ticker">Доступ до SIM-карти через Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Доступ до SIM-карти через Bluetooth</string>
-    <string name="bt_audio_share_notification_content">Натисніть для перегляду опцій</string>
-    <string name="bt_audio_share_notification_title">Спільний доступ аудіо</string>
+    <string name="bt_audio_share_notification_content">Натисніть, щоб переглянути опції</string>
+    <string name="bt_audio_share_notification_title">Передача звуку</string>
     <string name="bt_enable_cancel">Скасувати</string>
     <string name="bt_enable_line1">Щоб корист. послугами Bluetooth, спершу треба ввімкн. Bluetooth.</string>
     <string name="bt_enable_line2">Увімк. Bluetooth зараз?</string>
@@ -205,7 +205,7 @@
     <string name="not_exist_file">Немає файлу</string>
     <string name="not_exist_file_desc">"Файл не існує. 
 "</string>
-    <string name="notice_audio_share_disconnected">Аудіо файл більше не відображається через перерване з’єднання</string>
+    <string name="notice_audio_share_disconnected">Передача звуку призупинена через переривання з\'єднання</string>
     <string name="notification_received">Через Bluetooth: отримано %1$s</string>
     <string name="notification_received_fail">Через Bluetooth: файл %1$s не отримано</string>
     <string name="notification_receiving">Через Bluetooth: отримання %1$s</string>

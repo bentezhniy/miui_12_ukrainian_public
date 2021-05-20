@@ -181,10 +181,10 @@
         <item quantity="many">%1$d hrs</item>
     </plurals>
     <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">лишилося %1$d секунд</item>
-        <item quantity="one">лишилася %1$d секунда</item>
-        <item quantity="few">лишилося %1$d секунд</item>
-        <item quantity="many">лишилося %1$d секунд</item>
+        <item quantity="other">Залишилося: %1$d сек</item>
+        <item quantity="one">Залишилося: %1$d сек</item>
+        <item quantity="few">Залишилося: %1$d сек</item>
+        <item quantity="many">Залишилося: %1$d сек</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Через годину</item>

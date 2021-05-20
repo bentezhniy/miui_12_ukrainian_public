@@ -285,7 +285,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="month_september_shortest">Вер</string>
     <string name="more">Більше</string>
     <string name="morning">Ранок</string>
-    <string name="msg_alert_cancel_restore">Відновлення об\'єктів. Зупинити?</string>
+    <string name="msg_alert_cancel_restore">Процес відновлення об\'єктів із Xiaomi Cloud. Скасувати зараз?</string>
     <string name="msg_alert_restore_error">"Не вдалося відновити об'єкти з Xiaomi Cloud. Повторіть спробу."</string>
     <string name="msg_restore_start_with_metered_network">"Ваш робочий стіл буде перезапущений. Зарезервовані програми будуть завантажені автоматично.&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Буде завантажено файлів: %s&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">При переході до відновлення об\'єктів для їх завантаження буде використовуватися мобільний інтернет.</string>
@@ -301,15 +301,15 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Увімкніть резервування</string>
     <string name="other_device_main_space">Перший простір</string>
     <string name="other_device_second_space">Другий простір</string>
-    <string name="pc_mode_not_support_restore_warning">"Не вдалося відновити елементи в режимі ПК. Вимкніть режим ПК і повторіть спробу."</string>
+    <string name="pc_mode_not_support_restore_warning">"Неможливо відновлювати дані в режимі ПК. Відключіть режим ПК та повторіть спробу."</string>
     <string name="pm">Очистити кеш</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="process_whole_recovery">Відновлення \"%s\"</string>
-    <string name="provision_back">Відмінити</string>
+    <string name="provision_back">Назад</string>
     <string name="provision_background_restore_more_data">Відновіть об\'єкти у фоновому режимі</string>
     <string name="provision_error_connect_msg">"Протестуйте мережу та повторіть спробу. Резервні копії недоступні, коли ваш пристрій знаходиться офлайн."</string>
     <string name="provision_error_connect_title">"Неможливо підключитися"</string>
-    <string name="provision_next">Уперед</string>
+    <string name="provision_next">Далі</string>
     <string name="provision_restore_data">Відновлення об\'єктів</string>
     <string name="provision_skip_underline">Пропустити</string>
     <string name="query_restore_description">Відновити дані та налаштування програм на робочому столі, використовуючи цю резервну копію. Ця дія перезапише дані, що дублюються на програмах, які вже встановлені на пристрої. Програми, які були не включені в резервну копію, будуть переміщені на останній робочий стіл.</string>
@@ -358,7 +358,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_unfinished">Відновлення, повторіть спробу пізніше</string>
     <string name="restoring_app_data_title_no_progress">Відновлення даних WeChat…</string>
     <string name="restoring_data">Відновлення даних…</string>
-    <string name="restoring_file_title_no_progress">Відновлення файлів…</string>
+    <string name="restoring_file_title_no_progress">Відновлення програм…</string>
     <string name="restoring_home_screen_apps">Відновлення з Xiaomi Cloud…</string>
     <string name="restoring_settings">Відновлення налаштувань…</string>
     <string name="retry">Спробувати ще раз</string>

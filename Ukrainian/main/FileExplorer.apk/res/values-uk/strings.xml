@@ -131,7 +131,7 @@
     <string name="decompress_title">Витягнути</string>
     <string name="decompress_to">Витягнути в…</string>
     <string name="decompress_to_here">Витягнути в поточну папку</string>
-    <string name="decrypt">Видалити</string>
+    <string name="decrypt">Скасувати приховання</string>
     <string name="decrypt_error">"Не вдалося видалити"</string>
     <string name="decrypt_to">Розшифрувати та зберегти до…</string>
     <string name="decrypting">Видалення…</string>
@@ -178,7 +178,7 @@
     <string name="error_create_dir">"Не вдалося створити папку"</string>
     <string name="error_create_file">"Не вдалося створити файл"</string>
     <string name="error_delete_failed">"Не вдалося видалити файл"</string>
-    <string name="error_file_already_exists">Цей файл уже існує</string>
+    <string name="error_file_already_exists">Цей файл вже існує.</string>
     <string name="error_filename_too_long">Ім\'я файлу занадто довге.</string>
     <string name="error_folder_already_exists">Цей файл вже існує</string>
     <string name="error_hint_copy_folder_to_self_or_sub">"Не можна перемістити або скопіювати теки в самі собі або їх підтеки"</string>
@@ -263,7 +263,7 @@
     <string name="instruction_pre_pad">Запустити FTP сервер</string>
     <string name="instruction_pre_phone">Запустити FTP сервер</string>
     <string name="item_view_role_description">Tab</string>
-    <string name="just_now">щойно</string>
+    <string name="just_now">Щойно</string>
     <string name="kilobyteShort">кБ</string>
     <string name="launcher_icon_add_description">Додати ярлик на головний екран</string>
     <string name="launcher_icon_remove_description_content">"Файловий менеджер - це системна програма. Ви не зможете керувати файлами на пристрої після видалення ярлика головного екрану."</string>
@@ -526,7 +526,7 @@
     <string name="refresh_success">Оновлення завершено</string>
     <string name="release_enter_private">Відпустіть, щоб відкрити приватну папку</string>
     <string name="rename_alert">"Якщо ви зміните розширення файлу, можливо, вам не вдасться відкрити його."</string>
-    <string name="rename_alert2">Після зміни розширення файлу він буде прихований.</string>
+    <string name="rename_alert2">Файли з іменами, що починаються з \".\", будуть автоматично приховані. Все одно використовувати це ім\'я?</string>
     <string name="rename_failed">"Не вдалося перейменувати \"%1$s\""</string>
     <string name="rename_input_null">Введіть нове ім\'я</string>
     <string name="rename_msg">Файл з назвою \"%s\" вже існує.</string>

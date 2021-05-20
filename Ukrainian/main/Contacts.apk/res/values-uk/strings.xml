@@ -222,8 +222,8 @@
     <string name="call_record_content_type_text">Тільки текст</string>
     <string name="call_record_history">Записи викликів</string>
     <string name="call_record_password">Пароль для захисту конфіденційності</string>
-    <string name="call_record_password_closed">Вимк</string>
-    <string name="call_record_password_opened">Увімк</string>
+    <string name="call_record_password_closed">Вимк.</string>
+    <string name="call_record_password_opened">Увімк.</string>
     <string name="call_record_password_summary">Захищати голосові виклики додатковим паролем</string>
     <string name="call_record_storage_list">Записи викликів</string>
     <string name="call_record_text_auto_delete">Автоматично видаляти записи</string>
@@ -393,7 +393,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="custom_list_filter">Налаштування відображення</string>
     <string name="custom_nickname_hint">Введіть нік</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
-    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
+    <string name="date_time_picker_dialog_title">Встановити дату та час</string>
     <string name="date_year_toggle">Вказати рік</string>
     <string name="default_ringtone">Мелодія за замовчуванням</string>
     <string name="deleteCloudConfirmationDetail">Видалити інформацію про контакт %s з пристрою та з хмари?</string>
@@ -462,7 +462,7 @@ Mi Roaming потребує підключення до Інтернету та 
 - На пристроях Android функція Bluetooth знаходиться у налаштуваннях мережі.
 - На пристроях iOS Bluetooth знаходиться у Налаштуваннях.
 
-%2$d. На пристроях Android має бути увімкнено Режим видимості.
+%2$d. На пристроях Android має бути увімкнено \"Режим видимості\".
 
 %3$d. Натисніть \"Далі\" та надайте контактам необхідні дозволи."</string>
     <string name="device_transfer_by_sim_message">"%1$d1. Збережіть контакти з іншого пристрою на SIM-карту;
@@ -556,7 +556,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="firewall_setting">Чорний список</string>
     <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Статистика використання</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d.MM</string>
     <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
@@ -706,13 +706,13 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="miuix_appcompat_cloud_state_syncing">Синхронізація із хмарою…</string>
     <string name="miuix_appcompat_confirm_description">Підтвердити</string>
     <string name="miuix_appcompat_delete_description">Видалити</string>
-    <string name="miuix_appcompat_deselect_all">Зняти виділення</string>
+    <string name="miuix_appcompat_deselect_all">Зняти вибір</string>
     <string name="miuix_appcompat_deselect_all_description">Зняти вибір</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Скасувати</string>
     <string name="miuix_appcompat_search_input_description">Пошук</string>
-    <string name="miuix_appcompat_select_all">Виділити все</string>
+    <string name="miuix_appcompat_select_all">Вибрати все</string>
     <string name="miuix_appcompat_select_all_description">Вибрати все</string>
-    <string name="miuix_appcompat_select_item">Виберіть предмети</string>
+    <string name="miuix_appcompat_select_item">Вибрати елементи</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
@@ -924,7 +924,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="quit_dialog_confirm_title">Відмінити об\'єднання контактів</string>
     <string name="readingSimContacts">Читання контактів з SIM-карти…</string>
     <string name="reading_vcard_failed_title">"Помилка читання vCard"</string>
-    <string name="rebuild_t9_index_dialog_message">Перестроювання даних індексу...</string>
+    <string name="rebuild_t9_index_dialog_message">Перестроювання даних індексу…</string>
     <string name="recentCallsIconLabel">Журнал викликів</string>
     <string name="recent_contacts_label">Останні</string>
     <string name="recent_number">Останній</string>
@@ -977,7 +977,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="select_all">Вибрати все</string>
     <string name="select_groups">Вибрати групи</string>
     <string name="select_vcard_title">Вибір файлу vCard</string>
-    <string name="send">Відправити</string>
+    <string name="send">Надіслати</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Ярлик вже існує</string>
     <string name="send_contact_shortcut_todesktop_failed">"Не вдалося помістити ярлик на робочому столі"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Не вдалося помістити більше ярликів на робочому столі"</string>
