@@ -326,7 +326,7 @@
     <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>
     <string name="wireless_charging_notification_message1">"Немає пристроїв для бездротової зарядки. Реверсивна бездротова зарядка була відключена."</string>
-    <string name="wireless_charging_notification_message2">Рівень заряду менше 30%. Реверсивна бездротова зарядка була відключена.</string>
+    <string name="wireless_charging_notification_message2">Акумулятор менше %s заряджено. Зараз вимкнено індикатор бездротової зарядки.</string>
     <string name="wireless_charging_notification_message3">Сталася помилка. Реверсивна бездротова зарядка була відключена.</string>
     <string name="wireless_charging_notification_titile">Реверсивна бездротова зарядка відключена</string>
     <string name="xiaomi">Mi</string>

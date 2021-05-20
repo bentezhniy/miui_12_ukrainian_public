@@ -362,6 +362,12 @@
         <item quantity="few">Відмічено %d рази</item>
         <item quantity="many">Відмічено %d разів</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Зрозуміло (%dсек)</item>
+        <item quantity="one">Зрозуміло (%dсек)</item>
+        <item quantity="few">Зрозуміло (%dсек)</item>
+        <item quantity="many">Зрозуміло (%dсек)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Спробуйте перетворити голос зараз
 , щоб отримати пробну версію на %d-день!"</item>

@@ -73,6 +73,7 @@
     <string name="caller_app">Запит: %1$s</string>
     <string name="cancel">Скасувати</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="close">Закрити</string>
     <string name="copy">Копія</string>
     <string name="cta_button_text_agree">ОК</string>
     <string name="cta_button_text_cancel">Вихід</string>
@@ -81,6 +82,7 @@
     <string name="current_permission_template">%1$s із %2$s</string>
     <string name="current_permissions_category">Наявні дозволи</string>
     <string name="date_picker_lunar">Китайський традиційний календар</string>
+    <string name="date_time_picker_dialog_title">Встановити дату і час</string>
     <string name="default_permission_description">виконує невідомі дії</string>
     <string name="devicePerms">Доступ до пристрою</string>
     <string name="dlg_app_replacement_statement">"Програма, яку Ви інсталюєте, замінить уже вставлену.
@@ -423,6 +425,7 @@
     <string name="screen_overlay_title">Виявлено накладання</string>
     <string name="search_menu_title">Пошук</string>
     <string name="security_settings_desc">Дозволити цій програмі:</string>
+    <string name="send">Відправити</string>
     <string name="settings">Налаштування</string>
     <string name="settings_warning_dialog_detail">Попередження будуть з\'являтися в наступних випадках:
  <li>Якщо додаток містить віруси.</li>

@@ -50,6 +50,7 @@
     <string name="application_permissions">Дозволи програми</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Ви можете використовувати цю програму для створення резервних копій та відновлення файлів на вашому пристрої.</string>
+    <string name="boot_video_desc">Переглянути світ у 2K</string>
     <string name="boot_video_replay">Грати знову</string>
     <string name="boot_video_skip">Пропустити</string>
     <string name="calculator_introduction">Ви можете використовувти цю програму для розрахунків, конвертації одиниць вимірів та валют, а також планування ваших іпотечних виплат.</string>

@@ -403,6 +403,7 @@
     <string name="adjust_3d_depth_title">"Регулювання глибини 3D-ігор"</string>
     <string name="adjust_font_size_answer_cn">Спробуйте налаштувати розмір тексту і вагу шрифту за допомогою повзунків нижче!</string>
     <string name="adjust_font_size_answer_global">Спробуйте налаштувати розмір тексту за допомогою повзунка нижче!</string>
+    <string name="adjust_ligth">Регулювання яскравості</string>
     <string name="adjust_temperature_title">Колірна температура</string>
     <string name="admin_device_owner_message">"Адміністратор може відстежувати та контролювати додатки й дані, пов’язані з цим пристроєм, зокрема налаштування, дозволи, корпоративний доступ, активність у мережі чи інформацію про місцезнаходження пристрою."</string>
     <string name="admin_disabled_other_options">Адміністратор вимкнув інші опції</string>
@@ -3136,8 +3137,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Натисніть і утримуйте, а потім потягніть вниз рядок сповіщення</string>
     <string name="freeform_guide_notification_drop_down_title">Відкриття спливаючих вікон</string>
     <string name="freeform_guide_settings">Спливаючі вікна</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Проведіть від нижньої частини екрана до правого верхнього кута екрана</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Проведіть до плаваючих вікон</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Натисніть і утримуйте нижню частину вікна і перетягніть його до верхнього правого кута</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведіть вверх від рядка спливаючого вікна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закриття спливаючих вікон</string>
     <string name="freeform_vedio_description">"· Натисніть і утримуйте, а потім потягніть вниз сповіщення, щоб відкрити його у спливаючому вікні.
@@ -3311,7 +3312,6 @@
     <string name="header_category_system">Система</string>
     <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
-    <string name="headset_aptx-adapter">Qualcomm® aptXTM адаптивна</string>
     <string name="headset_connectiong">З\'єднання…</string>
     <string name="headset_find_both">З обох сторін</string>
     <string name="headset_find_cancel">Скасувати</string>
@@ -4128,7 +4128,7 @@ Xiaomi Cloud
     <string name="low_label">Низька</string>
     <string name="low_storage_summary">Замало пам’яті. %1$s використано, %2$s вільно</string>
     <string name="macaddr_label">MAC адреса: </string>
-    <string name="magic_window_name">Розділити вікно</string>
+    <string name="magic_window_name">Паралельні вікна</string>
     <string name="main_netcheck_summary">Протестуйте мережу на наявність проблем</string>
     <string name="main_running_process_description">Основний процес, який використовується.</string>
     <string name="main_toolbar_statistic">Статистика використання трафіку</string>
@@ -4418,6 +4418,7 @@ Xiaomi Cloud
     <string name="miheadset_plus">Гучніше</string>
     <string name="miheadset_rename">Перейменувати</string>
     <string name="miheadset_rename_device">Перейменувати</string>
+    <string name="miheadset_single_ear_indicate">Одягнути обидва навушники, щоб використовувати скасування шуму</string>
     <string name="miheadset_soft">М\'яко</string>
     <string name="miheadset_transparent">Прозорість</string>
     <string name="miheadset_transparentMode">Прозорість</string>
@@ -6784,6 +6785,8 @@ OTG автоматично відключається через 10 хвилин
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Розумна обкладинка\"</string>
     <string name="smartcover_sensitive_summary">Блокуйте або розблоковуйте екран за допомогою розумної обкладинки</string>
     <string name="smartcover_sensitive_title">Розумна обкладинка</string>
+    <string name="smooth_adjust_ligth">Згладження переходів</string>
+    <string name="smooth_adjust_ligth_summary">Зробіть переходи згладжуватими, тому що ви налаштовуєте яскравість вручну. Якщо ця функція ввімкнена, деякі з них можуть з\'явитися невідповідність кольору.</string>
     <string name="sms_application_title">Повідомлення</string>
     <string name="sms_change_default_dialog_text">Використовувати для SMS додаток %1$s замість %2$s?</string>
     <string name="sms_change_default_dialog_title">Змінити додаток для SMS?</string>

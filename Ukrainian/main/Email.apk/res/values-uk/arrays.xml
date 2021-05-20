@@ -73,6 +73,65 @@
         <item>Э</item>
         <item>Ю</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Сьогодні ввечері</item>
         <item>Завтра</item>
@@ -112,6 +171,11 @@
     <string-array name="prefEntries_contact_add">
         <item>Усе</item>
         <item>Тільки відправники</item>
+    </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Вхід в протокол oautlook oauth imap</item>
+        <item>IMAP (без календаря)</item>
+        <item>ЕКСТАНДЖ (з календаря)</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Блог:</item>

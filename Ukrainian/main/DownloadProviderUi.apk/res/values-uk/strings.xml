@@ -70,12 +70,14 @@
     <string name="cancel">Скасувати</string>
     <string name="cancel_running_download">Скасувати</string>
     <string name="cancle">Скасувати</string>
+    <string name="character_counter_content_description">Перевищено ліміт символу %1$d з %2$d</string>
     <string name="choose_open_picture">Оберіть</string>
     <string name="choose_open_time">"Виберіть час відкриття"</string>
     <string name="clear_data">Очистити</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="close">Закрити</string>
     <string name="close_ad">Закрити рекламу</string>
+    <string name="collect_diagnosis_log">Збір діагностики</string>
     <string name="complete_time">Завершено:</string>
     <string name="confirm">OK </string>
     <string name="confirm_delete_downloads_message">Видалити вибрані завантаження? 
@@ -96,6 +98,10 @@
     <string name="deselect_all">Зняти вибір</string>
     <string name="deselect_subfile_all">Зняти вибір</string>
     <string name="determine">OK</string>
+    <string name="diagnosis_log_send_failed">Журнал діагностики не вдалося.</string>
+    <string name="diagnosis_log_sent_format">"Журнал діагностики було надіслано.
+ID:%s
+Надішліть цей код технологічнику."</string>
     <string name="dialog_btn_cancel">Скасувати</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Налаштування мережі</string>
@@ -208,6 +214,7 @@
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="for_diagnosis_usage_only">Використайте цю інформацію лише для діагностики.</string>
     <string name="force_touch_newdownload">Додати завантаження</string>
     <string name="force_touch_rank">Рейтинг</string>
     <string name="force_touch_search">Пошук у інтернеті</string>
@@ -330,6 +337,7 @@
     <string name="month_september_shortest">Вер</string>
     <string name="more">Більше</string>
     <string name="morning">Ранок</string>
+    <string name="mtrl_chip_close_icon_content_description">Вилучити %1$s</string>
     <string name="net_error">"Підключіться до мережі та повторіть спробу"</string>
     <string name="network_error">"Неможливо під'єднатися до інтернету"</string>
     <string name="new_add">Додати</string>
@@ -354,6 +362,7 @@
     <string name="notify_install_guide_title">%s встановлено</string>
     <string name="notify_not_support">"Тип сповіщень не підтримується"</string>
     <string name="notify_only_wifi_download">Очікування на Wi-Fi</string>
+    <string name="ok">Гаразд</string>
     <string name="one_month">Один місяць</string>
     <string name="only_support_torrent">Підтримуються тільки торрент-файли</string>
     <string name="open">Відкрити</string>
@@ -366,6 +375,9 @@
     <string name="other">Інше</string>
     <string name="other_filter">Інше</string>
     <string name="package_filter">Пакети</string>
+    <string name="passport_oauth_actionbar_title">Mi аккаунт</string>
+    <string name="passport_oauth_sucess_tip">Авторизовано успішно</string>
+    <string name="password_toggle_content_description">Показати пароль</string>
     <string name="path_no_available">"Шлях недоступний"</string>
     <string name="pause_download">Пауза</string>
     <string name="paused">Призупинено</string>
@@ -461,6 +473,8 @@
     <string name="select_subfile_all">Вибрати усе</string>
     <string name="selected_count">Вибрано %1$d з %2$d</string>
     <string name="send">Відправити</string>
+    <string name="send_diagnosis_log">Надіслати журнал діагностики</string>
+    <string name="sending">Надсилання…</string>
     <string name="setting_close_debug">Режим відладки відключений</string>
     <string name="setting_debug_fail">"Не вдалося активувати режим відладки"</string>
     <string name="setting_open_debug">Режим відладки активований. Натисніть тут 6 разів для його відключення.</string>
@@ -571,6 +585,7 @@
     <string name="task_detail">Завдання</string>
     <string name="task_detail_notfound_confirm">OK </string>
     <string name="task_fail">"Сталася помилка"</string>
+    <string name="temporary_not_available">тимчасово недоступний</string>
     <string name="terabyteShort">ТБ</string>
     <string name="test_speed">Тест</string>
     <string name="test_speed_detail">Інформація</string>

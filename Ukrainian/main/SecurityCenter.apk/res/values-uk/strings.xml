@@ -575,6 +575,8 @@
     <string name="applock_header_text_less_than_half">Дуже мало місця. Посуньте роздільник подалі.</string>
     <string name="applock_lock_all">Заблокувати всі</string>
     <string name="applock_login_and_add_account">ОК</string>
+    <string name="applock_mixtype_hidepwd_icon">Приховати</string>
+    <string name="applock_mixtype_showpwd_icon">Показати</string>
     <string name="applock_no_account_login">"Ви не увійшли до Мі акаунту"</string>
     <string name="applock_not_add_account"><u>Не зараз</u></string>
     <string name="applock_not_login_account">"Вхід не здійснено"</string>
@@ -1277,6 +1279,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="examination_score_80_100">Доступна оптимізація</string>
     <string name="examination_score_80_60">Доступна оптимізація</string>
     <string name="examination_score_has_virus">Виявлені підозрілі програми</string>
+    <string name="exception_checking">Перевірка…</string>
     <string name="exception_dialog_message">"Дані статистики викоритання трафіку не можуть бути розраховані через помилку. Без точної статистики програма Безпека не зможе відстежувати викоритання трафіку. Перезавантажити, щоб відновити цю функцію?"</string>
     <string name="exception_dialog_ok_button">Перезавантажити</string>
     <string name="exception_notify_message">"Не вдалося обчислити статистичні дані через помилку. Перезавантажте або відновіть."</string>
@@ -1529,6 +1532,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gamebooster_lowbattery_notification_summary">Підключіть зарядний пристрій.</string>
     <string name="gamebooster_lowbattery_notification_title">Заряд батареї менший ніж 5%%</string>
     <string name="gamebooster_main_activity_back">Назад</string>
+    <string name="gamebooster_network_dialog_cn_message">"Ви не можете використовувати Game Turbo якщо безпека не дозволена для з'єднання з інтернетом і доступу до вашого місцезнаходження. Дозволити зараз?"</string>
     <string name="gamebooster_network_dialog_message">Дозволити програмі підключатися до інтернету для використання всіх функцій Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">"Деякі функції недоступні"</string>
     <string name="gamebox_app_not_find">Спочатку встановіть програму.</string>
@@ -1681,6 +1685,24 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gb_not_support_on_device">"Цей додаток не можна використовувати на зовнішньому екрані"</string>
     <string name="gb_operat_frequently">Не так швидко!</string>
     <string name="gb_shortcut_pref_title">Ярлик на робочому столі</string>
+    <string name="gb_shoulder_key">Кнопки плеча</string>
+    <string name="gb_shoulder_key_add_show_btn">Показати віртуальні кнопки в іграх</string>
+    <string name="gb_shoulder_key_add_tips">Перемістіть кнопки [L] і [R] у будь-яке функціональне положення і використовуйте їх за допомогою кнопок плеча</string>
+    <string name="gb_shoulder_key_btn_cancel">Скасувати</string>
+    <string name="gb_shoulder_key_btn_save_exit">Зберегти</string>
+    <string name="gb_shoulder_key_circle_left">Лу</string>
+    <string name="gb_shoulder_key_circle_right">Р</string>
+    <string name="gb_shoulder_key_dialog_message">"Ви можете використовувати обидва кнопки плеча одночасно, щоб запустити гру Турбо, коли ви не граєте в ігри."</string>
+    <string name="gb_shoulder_key_dialog_txt">Ви можете увімкнути гру Turbo за допомогою кнопок плечей.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Зрозуміло</string>
+    <string name="gb_shoulder_key_guide_btn_next">Уперед</string>
+    <string name="gb_shoulder_key_guide_tips">Налаштуйте плече кнопки, щоб грати як про!</string>
+    <string name="gb_shoulder_key_guide_tips1">Відкрити панель інструментів і налаштувати плечі</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Перемістіть кнопки [L] та [R] у будь-яку функціональну позицію для завершення конфігурації</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Використовувати плечі для функцій, які ви призначили їм під час ігор</string>
+    <string name="gb_shoulder_key_settings_summary">"Використовуйте обидва плечі щоб запустити Game Turbo коли ви не граєте в ігри"</string>
+    <string name="gb_shoulder_key_settings_title">Використовувати плечі для Турбо гри</string>
+    <string name="gb_shoulder_key_settings_title_new">Швидке запуску гри Turbo</string>
     <string name="gb_sign_gift">Відмічайтеся, щоб отримати винагороду</string>
     <string name="gb_sign_gift_button_text">Отримати</string>
     <string name="gb_sign_notification_summary">Відмічайтеся щодня, щоб отримати прискорення Xunyou</string>
@@ -1689,6 +1711,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="gb_signed_gift_loading_summary">Хвилинку…</string>
     <string name="gb_signed_title">Відмічань за місяць</string>
     <string name="gb_sound_audition">Спробувати</string>
+    <string name="gb_storage_game_dialog_message">"У грі Turbo можна зберігати автоматично, але вони не відображатимуться на головному екрані, якщо ввімкнути цю функцію. Увімкнути зараз?"</string>
     <string name="gb_storage_game_uninstall">Видалити ігри</string>
     <string name="gb_storage_summary">"Не відображати, додані на приставку, ігри на робочому столі"</string>
     <string name="gb_storage_title">Видалити додані ігри з робочого столу</string>
@@ -4069,6 +4092,7 @@ Xiaomi не обіцяє і не гарантує точність, достов
     <string name="timeshow_h_int">%d год</string>
     <string name="timeshow_m">%d хв</string>
     <string name="timeshow_s">%d сек</string>
+    <string name="tips">Увага</string>
     <string name="tips_dialog_title">"Ліміт невідомий"</string>
     <string name="tips_message">"Щоб дізнатися про свій тарифний план, зателефонуйте %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Видаляйте рідко використовувані програми для заощадження пам\'яті</string>
@@ -4498,6 +4522,9 @@ Rolled over extra data"</string>
     <string name="write_clipboard_tip_title">Збереження елементів в буфер обміну</string>
     <string name="wrong_password">Неправильний пароль</string>
     <string name="xiaomi_privacy_protection_measures">Заходи захисту приватності</string>
+    <string name="xspace_warning_dialog_button">Зрозуміло</string>
+    <string name="xspace_warning_dialog_message">Через обмеження, що приймаються в Android %d, всі подвійні додатки зможуть отримувати доступ тільки до фотографії та відео згенерованих і збережених у відповідній подвійній програмі.</string>
+    <string name="xspace_warning_dialog_title">Увага</string>
     <string name="xunyou_net_booster">Збільшення швидкості мережі</string>
     <string name="xunyou_net_booster_detail">Використовуйте сервіс Xunyou для збільшення швидкості ігор</string>
     <string name="xunyou_pay_webview">Послуги Xunyou</string>

@@ -564,6 +564,10 @@
     <string name="show_touches">Показувати дотики</string>
     <string name="show_touches_summary">Показувати візуальну реакцію на торкання</string>
     <string name="simulate_color_space">Моделювання кольорів</string>
+    <string name="softap_beacon_protection">Увімкнути захист SoftAp маяка</string>
+    <string name="softap_beacon_protection_summary">Увімкнути захист від маяку SoftAp використовуючи точку доступу</string>
+    <string name="softap_ocv">Увімкнути SoftAp OCV</string>
+    <string name="softap_ocv_summary">Увімкнути SoftAp OCV використовуючи точку доступу</string>
     <string name="speed_label_fast">Швидка</string>
     <string name="speed_label_medium">Середня</string>
     <string name="speed_label_okay">ОК</string>
@@ -708,6 +712,8 @@
     <string name="wifi_hand_sel_wapi_cert">Сертифікат WAPI</string>
     <string name="wifi_limited_connection">Обмежене з’єднання</string>
     <string name="wifi_metered_label">З тарифікацією трафіку</string>
+    <string name="wifi_new_network_auto_connection">SSID сітка для автопідключення</string>
+    <string name="wifi_new_network_auto_connection_summary">Увімкнено автоматичне підключення до нових облікових даних WPA/WPA2&lt;unk&gt; PSK 5GHz SSID з поточним підключеним WPA/WPA2&lt;unk&gt; PSK 2GHz SSID на SSID і BSSID частковий збіг</string>
     <string name="wifi_no_internet">Немає доступу до Інтернету</string>
     <string name="wifi_no_internet_no_reconnect">"Не під’єднуватиметься автоматично"</string>
     <string name="wifi_not_in_range">Не в діапазоні</string>
@@ -738,6 +744,8 @@
     <string name="wifi_wapi_fail_to_init">"Неможливо відкрити сертифікати WAPI"</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Призначений для користувача сертифікат</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‐ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Увімкнути роумінг між різними SSID WPA/WPA2&lt;unk&gt; PSK APK-застосунками з тією самою MAC-адресою</string>
     <string name="window_animation_scale_title">Анімація вікон</string>
     <string name="zen_alarm_warning">"Наступний сигнал %1$s не пролунає"</string>
     <string name="zen_alarm_warning_indef">"Наступний сигнал %1$s не пролунає, якщо ви до того часу не вимкнете цю функцію"</string>

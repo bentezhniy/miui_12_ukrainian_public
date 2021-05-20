@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ANT_set_title">встановити мут</string>
-    <string name="DSI_configuration_set">встановити ДСІ</string>
-    <string name="DSI_setting">ДСІ</string>
-    <string name="DSI_value_get">get DSI</string>
-    <string name="SDCard">SD-карта</string>
-    <string name="SD_INTERNAL_SDCard_mounted">Виявляти внутрішню SD-картку</string>
-    <string name="SD_INTERNAL_SDCard_unmounted">Внутрішня карта SD недоступна</string>
-    <string name="SD_SDCard_available_szie">Доступні розміри</string>
-    <string name="SD_SDCard_mounted">Detect SDCard</string>
-    <string name="SD_SDCard_total_size">Загальний розмір</string>
-    <string name="SD_SDCard_unmounted">SDCard unavailable</string>
     <string name="abc_action_bar_home_description">Перейти на головний</string>
     <string name="abc_action_bar_up_description">Перейти вгору</string>
     <string name="abc_action_menu_overflow_description">Інші опції</string>
@@ -38,22 +27,12 @@
     <string name="abc_shareactionprovider_share_with">Надіслати через</string>
     <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
-    <string name="action_example">Дія при прикладі</string>
-    <string name="action_nothing">чекати на тест</string>
-    <string name="add">Додати</string>
-    <string name="afdcalibration_test">ПІДТВЕРДИТИ КАЛІБРУВАННЯ</string>
-    <string name="afdcalibrationrubberstamp_test">AFD CALIBRATION RUBBER STAMP</string>
-    <string name="afdrubberstamp_test">AFD RUBBER STAMP ТЕМА</string>
-    <string name="allow_gpu_maxfreq_summary">Експериментальний режим графічного процесора може ввести проблеми з потужністю або ще більші проблеми. Однак, при вимкненні цього режиму буде відновлено після вимкнення цього режиму. Увімкнути режим максимальної частоти відеопроцесора?</string>
-    <string name="ant_setting">ant</string>
-    <string name="audio_rule">Аналізатор аудіо xml</string>
     <string name="audio_spk_cal_wait">Калібрування…</string>
     <string name="audio_spk_def">Калібрування динаміка…</string>
     <string name="back_mic_check_record_tip">Виконується запис. Скажіть що-небудь в мікрофон на задній панелі пристрою.</string>
-    <string name="band_config_setting">ГУРА</string>
-    <string name="battery_dual_connector">Другий конектор батареї</string>
-    <string name="battery_id">ID акумулятора:</string>
-    <string name="battery_info">Інформація про заряд акумулятора</string>
+    <string name="battery_authentic">Автор батарейки</string>
+    <string name="battery_dual_connector">Батарейський коннектор</string>
+    <string name="battery_id">Ідентифікатор акумулятора</string>
     <string name="battery_plug_wirelee_summary">Бездротовий зарядний пристрій для кожного підключення. Одноразове відключення.</string>
     <string name="battery_plug_wirelee_title">Тест бездротової зарядки</string>
     <string name="battery_plugin_wirelee">Бездротова зарядка підключена</string>
@@ -63,48 +42,34 @@
     <string name="battery_reverse_wireless_charge_time_out">Час очікування зворотного бездротова зарядки вийшло</string>
     <string name="battery_reverse_wireless_charge_title">Зворотна бездротова зарядка</string>
     <string name="battery_value">Електрика</string>
-    <string name="begin_to_save_finger_data">Почніть зберігати палець</string>
+    <string name="bottom_left_high_speaker">Тест нижнього правого краю твітера</string>
+    <string name="bottom_left_low_speaker">Випробування лівого нижнього дерева</string>
+    <string name="bottom_right_high_speaker">Тест правої частини твіттера</string>
+    <string name="bottom_right_low_speaker">Правий бічний тест нижнього лісу</string>
     <string name="bt_address">Адреса:</string>
     <string name="bt_name">Ім\'я:</string>
-    <string name="button_ok">Гаразд</string>
     <string name="camera_capture">Зняти</string>
-    <string name="camera_done">Виконано</string>
-    <string name="camera_error">"Цей пристрій не підтримує API Camera2."</string>
-    <string name="camera_flood">- Повінь -</string>
-    <string name="camera_menu_list">Список камер</string>
-    <string name="camera_not_support_raw10">Камера не підтримує формат зображення raw10-!</string>
-    <string name="camera_preview">попередній перегляд</string>
-    <string name="camera_projector">- Проектор -</string>
-    <string name="camera_zoom">Масштабування</string>
     <string name="camerainfo">Інформація про камеру</string>
-    <string name="can_not_get_numbers_of_keys">не можливо отримати кількість ключів</string>
     <string name="cancel">Скасувати</string>
-    <string name="cancelEnrol">Канчельправол</string>
-    <string name="cancel_test">ТЕСТОВА СКАСУВАННЯ</string>
-    <string name="capacitance_test">ТЕСТЬ КАРТУ</string>
     <string name="charger_test_end">"Тест зарядного пристрою завершений. Відключіть його від пристрою."</string>
-    <string name="checkerboard_test">РЕЄСТРАЦІЯ</string>
     <string name="cit_OTG_plug_check_summary">Під час тесту підключіть пристрій USB_OTG</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
-    <string name="cit_OTG_plugin_check_summary">Під час під\'єднання пристрою OTG слід відображати нижче текст «USB-OTG-пристрою».</string>
-    <string name="cit_OTG_plugin_check_title">OTG (виявлення)</string>
-    <string name="cit_OTG_plugout_check_summary">Під час видалення пристрою OTG слід показати текст \"USB OTG видалено\" нижче.</string>
-    <string name="cit_OTG_plugout_check_title">OTG (видалити)</string>
     <string name="cit_OTG_waiting_in">Підключіть USB OTG пристрій</string>
     <string name="cit_OTG_waiting_in_charge">Підключіть USB OTG пристрій</string>
     <string name="cit_OTG_waiting_out">Відключіть USB OTG пристрій</string>
-    <string name="cit_Reserse_charge_check_title">Перевірка газування в зворотньому порядку заряду</string>
-    <string name="cit_SAR_TEST_TOOL">СТАРТ ЗБЕРЕЖЕНЬ</string>
+    <string name="cit_OTG_waiting_out_end">Будь ласка, підключіть тест USB_OTG на пристрої, завершення</string>
     <string name="cit_abnormal_reboot_summary">Зчитування даних про стабільність…</string>
     <string name="cit_abnormal_reboot_title">Дані про стабільність пристрою</string>
     <string name="cit_ac_charger_in">Зарядка через зарядний пристрій</string>
     <string name="cit_ac_charger_out">Зарядний пристрій від\'єднано</string>
-    <string name="cit_accdata_second_sensor_check_title">Другий акселерометр</string>
     <string name="cit_accdata_sensor_check_summary">Значення для X, Y, Z. Координати повинні відображатися нижче</string>
     <string name="cit_accdata_sensor_check_title">Акселерометр</string>
+    <string name="cit_accdata_sensor_second_screen_check_title">Пришвидшувач другого екрану</string>
+    <string name="cit_accelermeter_sensor_cali_title">Тест калібрування датчика прискорення</string>
     <string name="cit_accelermeter_sensor_check_summary">"Швидко переміщуйте пристрій в одному напрямку. Нижче будуть відображатися координати X, Y, Z (X відображає рухи ліворуч/праворуч, Y відображає рухи вперед/назад, Z відображає рухи вгору/вниз).
 Перед калібруванням пристрою покладіть пристрій на рівну поверхню."</string>
-    <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
+    <string name="cit_action_off">Вимкнено</string>
+    <string name="cit_action_on">Увімк</string>
     <string name="cit_analog_headset_plug_hint">З’єднання аналогових навушників зараз</string>
     <string name="cit_apk_signature_failed">Помилка підпису APK</string>
     <string name="cit_apk_signature_passed">Підпис APK підтверджений</string>
@@ -112,118 +77,54 @@
     <string name="cit_aud_spk_vendor">Виробник динаміку:</string>
     <string name="cit_aud_spkcal">Калібрування</string>
     <string name="cit_aud_test_result">Результат:</string>
-    <string name="cit_audio_cali_TEMP">Темп:</string>
-    <string name="cit_audio_cali_done">Відкалібрування виконано!</string>
-    <string name="cit_audio_cali_failed">Помилка калібрування, будь ласка, спробуйте ще раз!</string>
-    <string name="cit_audio_cali_fast_test_title">Швидке тестування калібрування динаміка</string>
-    <string name="cit_audio_cali_file_existed">Музичний файл не існує, неможливо відкалібрувати!</string>
-    <string name="cit_audio_cali_playing">Перевірка каліброваних даних</string>
     <string name="cit_audio_cali_summary">Калібрування динаміка</string>
     <string name="cit_audio_cali_test_summary">Перед відкалібрування гучномовця, переконайтеся, що динамік не відтворюється</string>
     <string name="cit_audio_cali_title">Динамік</string>
-    <string name="cit_audio_calibrating">Калібрування триває...</string>
-    <string name="cit_audio_get_temp_fail">Не вдалося отримати межі даних!</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Зворотній зворотній зв\'язок динаміка</string>
-    <string name="cit_audio_lb_frontmic_to_speaker_title">Передній відгук на динамік</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Основний мікрофон</string>
-    <string name="cit_audio_lb_phonecall_title">Тест моделювання дзвінків</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Зворотній мікрофон для зв'язку з динаміком. 
-
-Увімкніть телефон, говоріть з спинкою мікрофона, ви повинні чути голос через динамік"</string>
-    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Передня мікрофон на гучномовець тест зворотного зв’язку. 
-
-Говорити на мікрофон - ви чуєте голос через динамік"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Головний мікрофон для отримання зворотного зв'язку.
 
-Тримайте телефон так, ніби ви здійснюєте виклик, розмовляйте з головним мікрофоном, ви можете чути голос із reveiver"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Виклик симуляції.
-
-Не затримуйте телефон так, ніби ви телефонуєте на основний мікрофон, а у приймаючому режимі чути голос. виконати тест у безшумному середовищі"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Кращий мікрофон для голосового зворотного зв'язку тесту.
-
-Говорити на верхній мікрофон, ви чуєте голос через динамік"</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Верхній мікрофон зворотного зв’язку</string>
-    <string name="cit_audio_left_caldata">"Відкалібровані дані:
-"</string>
-    <string name="cit_audio_left_calfail">Не вдалося відкалібрувати ліве PA!</string>
-    <string name="cit_audio_loopback_check_one_title">Тест зворотного зв\'язку з головним мікрофоном</string>
-    <string name="cit_audio_loopback_check_summary_first">"Тест зворотнього зв'язку з головним мікрофоном
-
-Тримати телефон так, якщо ви дзвоните, говоріть в мікрофон і прослухати ваш голос в приймачі."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Вторинний мікрофон з гучним зв'язком теста.
-
-Увімкніть телефон для того, щоб навушники виглядали вниз. Говори до приймача. Ви повинні чути свій голос, що відтворюється зовнішнім динаміком."</string>
-    <string name="cit_audio_loopback_check_two_title">Тест на зворотній зв\'язок між мікрофоном</string>
-    <string name="cit_audio_loopback_dualmic_earpiece_title">Тест зменшення шуму</string>
-    <string name="cit_audio_loopback_next">Уперед</string>
-    <string name="cit_audio_loopback_previous">Попереднє</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Тест зменшення шуму
-
-Тримати телефон, якщо ви відповідаєте на виклик, розмовляйте з мікрофоном. Ви повинні чути голос з зниженим шумом у фоновому режимі через приймач."</string>
-    <string name="cit_audio_right_caldata">"Відкалібровані дані:
-"</string>
-    <string name="cit_audio_right_calfail">Відкалібрований PA не вдалося!</string>
-    <string name="cit_aux_camera_action">Масштабування</string>
-    <string name="cit_aux_camera_check_summary">"Тестові інструкції:
-
-1.Натисніть на кнопку Zoom нижче, аби перейти до інтерфейсу камери
-2. скористайтеся кнопкою наближення на попередньому перегляді камери, зображення якого буде збільшено
-3. Натисніть значок Виконаного."</string>
-    <string name="cit_aux_camera_check_summary_no_zoom">"Тестові інструкції:
-
-1. Натисніть на кнопку Попередній перегляд знизу, щоб увійти в інтерфейс камери
-2.Чекати кінця, авто повернення."</string>
-    <string name="cit_back_light_sensor_check_title">Датчик світла</string>
-    <string name="cit_back_pointer_location_title">Сенсор дотику</string>
-    <string name="cit_battery_check_summary">Статистика акумулятора пристрою</string>
-    <string name="cit_battery_check_title">Інформація про акумулятор</string>
-    <string name="cit_battery_temp_fail">Температура батареї не є нормальною (значення =%d)</string>
+Тримайте телефон так, ніби ви здійснюєте виклик, розмовляйте з головним мікрофоном, ви можете чути голос від приймача"</string>
     <string name="cit_battery_temp_pass">Температура батареї нормальна</string>
+    <string name="cit_batterylight">Індикатор батареї</string>
     <string name="cit_batterylight_blue">Cиній</string>
     <string name="cit_batterylight_green">Зелений</string>
     <string name="cit_batterylight_red">Червоний</string>
-    <string name="cit_batterylight_rgb">Індикатор батареї</string>
     <string name="cit_batterylight_white">Білий</string>
     <string name="cit_blue_tooth_address_check_summary">Bluetooth адреса пристрою</string>
     <string name="cit_blue_tooth_address_check_title">Bluetooth адреса</string>
     <string name="cit_blue_tooth_scan_check_summary">Знайдені Bluetooth пристрої</string>
     <string name="cit_blue_tooth_scan_check_title">Сканування Bluetooth пристроїв</string>
-    <string name="cit_blue_torch_on">Увімкнути синій спалах</string>
     <string name="cit_bluetooth_address_open_error">"Помилка увімкнення Bluetooth, не вдається одержати адресу"</string>
-    <string name="cit_bluetooth_logging_confirm_info">цей журнал Bluetooth збиратиме дані по протоколу Bluetooth, лише записувати поточні операції з Bluetooth. Також буде записано інформацію про конфіденційність: Bluetooth-телефонна журнал дзвінків/історія дзвінків/SMS/MMS/обміняні файли/музичні метадані тощо. ці дані обмежені внутрішнім налагодження компанії XiaoMi з користувачами, але не використовуються для інших цілей.</string>
-    <string name="cit_bluetooth_logging_confirm_ng">Відхилити</string>
-    <string name="cit_bluetooth_logging_confirm_notify">Ви згодні увімкнути журнал?</string>
-    <string name="cit_bluetooth_logging_confirm_ok">Погоджуюсь</string>
-    <string name="cit_bluetooth_logging_confirm_title">Попередження про конфіденційність Bluetooth</string>
     <string name="cit_bluetooth_not_support">"Ваш пристрій не підтримує Bluetooth"</string>
     <string name="cit_bluetooth_scan_retry">Сканувати</string>
     <string name="cit_bluetooth_scanning">Сканування доступних Bluetooth пристроїв (триватиме приблизно 4 секунди)…</string>
     <string name="cit_bluetooth_scanning_bluetooth_done">"Перевірка завершена, Bluetooth пристрої не знайдено."</string>
     <string name="cit_bluetooth_scanning_bluetooth_error">Не вдалося завершити перевірку Bluetooth пристроїв</string>
     <string name="cit_bluetooth_scanning_opening_bluetooth">Увімкнення Bluetooth…</string>
+    <string name="cit_bottom_left_speaker_test">Випробування внизу зліва</string>
+    <string name="cit_bottom_right_speaker_test">Випробування динаміка внизу справа</string>
     <string name="cit_build_finger_failed">Помилка перевірки відбитка пальця</string>
     <string name="cit_build_finger_passed">Відбиток пальця підтверджено</string>
-    <string name="cit_button_light_off">Кнопки вимкнено</string>
-    <string name="cit_button_light_on">Кнопки увімкнено</string>
     <string name="cit_calibration_fail">Не вдалося відкалібрувати</string>
     <string name="cit_calibration_pass">Калібрування виконане успішно</string>
-    <string name="cit_camera_calibration_summary">"Тестові інструкції:
+    <string name="cit_camera_cali_title">Тест калібрування камери</string>
+    <string name="cit_camera_check_summary">"Тестові інструкції:
 
-1.Натисніть на кнопку калібрування нижче, щоб запустити калібрування OIS.
-2. Буде калібрування пропуску мітки, щоб вказати, що таким чином робоча влада була відкалібрована"</string>
-    <string name="cit_camera_fast_check_title">Швидке тестування камери</string>
-    <string name="cit_camera_rearsub">Триває резервний тест з камери, будь ласка, зачекайте...</string>
-    <string name="cit_camera_sdcard_error">"Не вдається зробити фото. SD-карта заповнена."</string>
-    <string name="cit_camerasfr_test">Аналіз зображення, будь ласка, зачекайте...</string>
+1. Натисніть на кнопку Камера знизу, щоб увійти в інтерфейс камери
+2. Натисніть кнопку затвору
+3. ystem накопичуватиме фото автоматично після захоплення
+4., на якому ви сфотографували необхідно, щоб завершити тест."</string>
+    <string name="cit_camera_deleted">Світлину успішно видалено</string>
+    <string name="cit_camera_deleted_failed">Не вдалося видалити фотографію</string>
+    <string name="cit_camera_flash_adjust">Налаштувати спалах</string>
+    <string name="cit_camera_rearsub">Задній тест з підкамери, будь ласка, зачекайте...</string>
+    <string name="cit_capture_fail">Не вдалося сфотографувати</string>
     <string name="cit_charge_usb_dcp">Заряджання：USB_DCP</string>
     <string name="cit_charge_usb_hvdcp">Заряджання：USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Заряджання：USB_PD</string>
     <string name="cit_charger_check_title">Тест зарядки</string>
     <string name="cit_charger_in">Зарядний пристрій підключено</string>
-    <string name="cit_charger_in_check_title">Тестування зарядки</string>
-    <string name="cit_charger_plugin_check_summary">Коли USB-носій підключений до тексту \"Заряджання через USB/AC\" слід відображатися нижче.</string>
     <string name="cit_charger_plugin_check_title">Підключення зарядного пристрою</string>
-    <string name="cit_charger_plugout_check_summary">Коли USB-накопичувач відключено текст «USB/AC підключений», слід відображатися нижче.</string>
     <string name="cit_charger_plugout_check_title">Відключення зарядного пристрою</string>
     <string name="cit_charger_test_summary">"Під час тесту зарядного пристрою підключіть зарядний пристрій, потім переверніть його."</string>
     <string name="cit_charger_test_tips_electric">Поточний проект повинен протестувати при заряджанні поточне значення більше 1A</string>
@@ -231,210 +132,106 @@
     <string name="cit_charger_test_tips_pd">Поточна машина повинна протестувати USB_PD</string>
     <string name="cit_charger_waiting_in">Будь ласка підключіть зарядний пристрій</string>
     <string name="cit_charger_waiting_out">Будь ласка відключіть зарядний пристрій</string>
-    <string name="cit_def_torch_on_one">Увімкніть перший спалах</string>
-    <string name="cit_def_torch_on_three">Увімкніть третій спалах</string>
-    <string name="cit_def_torch_on_two">Увімкніть другий спалах</string>
     <string name="cit_depth_camera_check_title">Камера глибини</string>
     <string name="cit_diag_chaging_summary">Копіювати файли журналювання заряду на SD-карту</string>
     <string name="cit_diag_chaging_title">Зчитати журнал заряду</string>
-    <string name="cit_diag_chaging_wait">Зачекайте... Копіювання файлів</string>
     <string name="cit_diag_jank_summary">Скопіювати файли журналів jank на SD-карту</string>
-    <string name="cit_diag_jank_title">Читати журнал званків</string>
     <string name="cit_diag_signal_summary">Скопіювати файли журналів singal stablity на SD-карту</string>
-    <string name="cit_diag_signal_title">Читати логгер головної стабільності</string>
-    <string name="cit_dial_emergencycall">Набрати 112</string>
+    <string name="cit_diag_wait">Зачекайте... Копіювання файлів</string>
     <string name="cit_display_check_summary">Тест буде змінювати колір екрану. Якщо Ви бажаєте використовувати свої зображення, покладіть їх у корінь SD карти з розширенням *.bmp</string>
     <string name="cit_display_check_title">Екран</string>
     <string name="cit_display_continue">Торкніться екрану, коли почати тест.</string>
-    <string name="cit_display_test_end">Закінчити тест</string>
-    <string name="cit_display_test_next">Уперед</string>
-    <string name="cit_emergencycall_check_summary">Будь ласка, натисніть кнопку «Набрати 112», щоб зателефонувати 112, щоб перевірити чи можна розмістити 112.</string>
-    <string name="cit_emergencycall_check_title">Екстрений виклик</string>
+    <string name="cit_display_expand_screen_tips">Будь ласка, розгорніть екран перед тестуванням</string>
+    <string name="cit_display_fold_screen_tips">Будь ласка, складіть екран перед тестуванням</string>
+    <string name="cit_earpiece">Отримувач</string>
+    <string name="cit_earpiece_summary">"Ви почуєте два випадкових числа
+Будь ласка, натисніть відповідну кнопку відповідно до теми, що чуєте"</string>
     <string name="cit_exit_test_summary">Після виходу результати тестів будуть скинуті</string>
     <string name="cit_exit_test_title">Вихід</string>
-    <string name="cit_f2_cali">Калібрування</string>
-    <string name="cit_f2_cali_done">Відкалібрування виконано!</string>
-    <string name="cit_f2_cali_failed">Помилка калібрування, будь ласка, спробуйте ще раз!</string>
-    <string name="cit_f2_cali_title">Калібрування камери</string>
-    <string name="cit_f2_calibrating">Калібрування триває...</string>
-    <string name="cit_f2_camera_check_summary">"Тестові інструкції:
-
-1.Торкніться кнопки калібрування.
-2.Там буде позначка пропуску калібрування, щоб вказати, що камера була калібрована."</string>
-    <string name="cit_f2_capture_fail">Помилка захоплення, спробуйте ще раз!</string>
-    <string name="cit_f2_capture_success">Натисніть кнопку для калібрування!</string>
+    <string name="cit_external_keyboard_test_summary">Будь ласка, введіть ієрогліфи після підключення клавіатури і спостерігає за результатами тестів</string>
+    <string name="cit_external_keyboard_test_title">Зовнішній тест клавіатури</string>
     <string name="cit_fail">Скасувати</string>
-    <string name="cit_fast_screen_touch_check_title">Швидке тестування перевірки при дотику</string>
-    <string name="cit_finger_check_title">Тест відбитка пальця</string>
     <string name="cit_flash_life_check_summary">Тривалість роботи спалаху пристрою</string>
     <string name="cit_flash_life_check_title">Час спалаху</string>
     <string name="cit_flicker_sensor_check_summary">Значення для мерехтіння повинні з\'явитися нижче</string>
     <string name="cit_flicker_sensor_check_title">Датчик мерехтіння</string>
-    <string name="cit_fm_audio_path">Налаштування шляху до аудіо</string>
-    <string name="cit_fm_audio_path_headset">Навушники</string>
-    <string name="cit_fm_audio_path_speaker">Динамік</string>
+    <string name="cit_flip_board_bottom_speaker_test_title">Низький тест динаміка на дошку</string>
+    <string name="cit_flip_board_top_speaker_test_title">Тест зверху динаміка на дошки оголошень</string>
     <string name="cit_fm_check_summary">"Інформація FM"</string>
     <string name="cit_fm_check_title">FM радіо</string>
-    <string name="cit_fm_close">Закрити FM</string>
-    <string name="cit_fm_not_supported">"Цей пристрій не підтримує FM"</string>
-    <string name="cit_fm_open_1">Запустити FM - 88.5</string>
-    <string name="cit_fm_open_2">Запустити FM - 107.9</string>
-    <string name="cit_fm_open_bluetooth">Відкриття Bluetooth…</string>
-    <string name="cit_fm_start_service">Почати аудіо</string>
-    <string name="cit_fpc_checkerboard_test">РЕЄСТРАЦІЯ</string>
-    <string name="cit_fpc_selftest">РОЗШИРИТИ</string>
-    <string name="cit_fpc_sensor_check_summary">Тест датчика FPC — натисніть кнопку і зачекайте поки передача, виділена зеленим кольором.</string>
-    <string name="cit_fpc_sensor_check_title">Сканер відбитків пальців на ПК</string>
-    <string name="cit_fptest_summary">Натисніть кнопку FpTest для тестування відбитків пальців</string>
-    <string name="cit_front_camera_check_summary">"Тестові інструкції:
-
-1. Натисніть на кнопку Камера знизу, щоб увійти в інтерфейс камери
-2. Натисніть кнопку затвору
-3. ystem накопичуватиме фото автоматично після захоплення
-4., на якому ви сфотографували необхідно, щоб завершити тест."</string>
+    <string name="cit_fold_hall_test_summary">Будь ласка, складіть пристрій та розгорніть його. Якщо кнопка переходу стає активною, тест проходить</string>
+    <string name="cit_fp_fod_cali_title">Калібрування відбитків пальців</string>
     <string name="cit_front_camera_check_title">Фронтальна камера</string>
-    <string name="cit_front_camera_motor_cali_fail">Помилка калібрування двигуна</string>
-    <string name="cit_front_camera_motor_cali_success">Калібрування двигуна успішне</string>
-    <string name="cit_front_camera_motor_cali_tips">Не блокувати камеру під час калібрування рухів камери</string>
+    <string name="cit_front_dual_camera_check_title">Передня камера Боке</string>
+    <string name="cit_front_sub_camera_check_title">Передня камера</string>
     <string name="cit_get_signature_failed">Помилка отримання підпису</string>
-    <string name="cit_goodix_sensor_check_summary">Аналіз датчика Goodix, натисніть кнопку і зачекайте інформації про передачу, виділену зеленим кольором правильно.</string>
     <string name="cit_gps_check_summary">Перевірка GPS</string>
-    <string name="cit_gps_disabled">"GPS не запущений
-
-торкніться екрана, щоб запустити GPS…"</string>
     <string name="cit_gps_first_fix_time">Час фіксування: %s</string>
     <string name="cit_gps_location">Місцезнаходження: %s</string>
     <string name="cit_gps_satellite_count">Кількість супутників: %d</string>
     <string name="cit_gps_satellite_prn">Prn: %s</string>
     <string name="cit_gps_satellite_snr">Snr: %s</string>
-    <string name="cit_gyrodata_second_sensor_check_title">Другий Гіроскоп</string>
     <string name="cit_gyrodata_sensor_check_summary">Значення для X, Y, Z. Координати повинні відображатися нижче</string>
     <string name="cit_gyrodata_sensor_check_title">Гіроскоп</string>
+    <string name="cit_gyrodata_sensor_second_screen_check_title">Гіроскоп другого екрану</string>
+    <string name="cit_gyroscope_sensor_cali_title">Тест калібрування датчика Гіроскопа</string>
     <string name="cit_gyroscope_sensor_check_summary">Датчик гіроскопа. Нижче показані значення: x y z</string>
-    <string name="cit_gyroscope_sensor_check_title">Гіроскоп</string>
     <string name="cit_hall_far">далеко</string>
     <string name="cit_hall_miui_test_summary">Коли магніт близький до зеленої зони, закрийте екран, інакше він буде яскравим.</string>
     <string name="cit_hall_near">поряд</string>
-    <string name="cit_hall_phone_slider_status_down">Статус слайду телефону: ковзніть вниз</string>
-    <string name="cit_hall_phone_slider_status_up">Стан слайду телефону: ковіть вгору</string>
-    <string name="cit_hall_test_summary">Коли магнітний плащ до зеленої ділянки, текст має повертатися навпоруч, інакше текст має бути далеко.</string>
-    <string name="cit_headset_button_check_summary">Коли підключені навушники, натисніть кнопки на пульті навушника (часто розташований на корлі). Відповідний текст на екрані повинен увімкнути зелений.</string>
-    <string name="cit_headset_button_check_title">Кнопки навушників</string>
-    <string name="cit_headset_button_click">Натисніть кнопки на навушниках</string>
+    <string name="cit_hall_test_summary">Будь ласка, покласти магніт близько до зеленої площі і залишатися осторонь після 1 секунди</string>
+    <string name="cit_hall_test_text">Поточний стан: %s</string>
     <string name="cit_headset_button_current">Ви натиснули: %s</string>
-    <string name="cit_headset_button_fast_forward">Швидке перемотування вперед</string>
     <string name="cit_headset_button_next">Наступний</string>
-    <string name="cit_headset_button_pass">Пас</string>
     <string name="cit_headset_button_play_pause">Відтворення/Пауза</string>
     <string name="cit_headset_button_previous">Попередній</string>
     <string name="cit_headset_button_reverse">Встановіть USB-гарнітуру знову</string>
-    <string name="cit_headset_button_rewind">Rewind</string>
-    <string name="cit_headset_button_stop">Зупинити</string>
-    <string name="cit_headset_button_unknown">Не вказано</string>
-    <string name="cit_headset_loopback_check_summary">"Під час одягу навушників, підключіть їх до пристрою. Говорити у мікрофон навушників (часто розташовано у корті). Ви повинні чути голос в спікерах голови."</string>
-    <string name="cit_headset_loopback_check_title">Тест гарнітури</string>
-    <string name="cit_headset_plug_detect_summary">При підключенні навушників текст \"виявлені навушни\" має відображатися нижче.</string>
-    <string name="cit_headset_plug_detect_title">Виявлення навушників (підключення)</string>
+    <string name="cit_headset_left_hph_val">Коефіцієнт лівої швидкості：</string>
     <string name="cit_headset_plug_finish">Гарнітура підключена</string>
     <string name="cit_headset_plug_hint">Підключіть гарнітуру</string>
-    <string name="cit_headset_pull_detect_summary">Коли навушники відключено, відображатиметься нижче текст \"навушники відключено\"</string>
-    <string name="cit_headset_pull_detect_title">Виявлення навушників (відключення)</string>
     <string name="cit_headset_pull_finish">Гарнітура відключена</string>
     <string name="cit_headset_pull_finish_test">Від\'єднані навушники, завершення тестування</string>
-    <string name="cit_headset_pull_hint">Від\'єднати навушники зараз</string>
-    <string name="cit_hide_menu">Сховати меню</string>
-    <string name="cit_kayboard_volume_down">Кнопка: ГУЧНІСТЬ ВНИЗ</string>
-    <string name="cit_kayboard_volume_up">Кнопка: ГУЧНІСТЬ ВГОРУ</string>
-    <string name="cit_keyboard_back">Баттон: НАЗАД</string>
-    <string name="cit_keyboard_current">Поточна клавіатура: %s</string>
-    <string name="cit_keyboard_menu">Б\'юттон: МЕНЮ</string>
-    <string name="cit_keyboard_test_summary">Коли ви натискаєте на кнопки, відповідний текст на екрані повинен бути зеленим (нотатка: кнопки Додому і кнопки живлення не включені в тест).</string>
-    <string name="cit_keyboard_test_title">Кнопки</string>
-    <string name="cit_label">Апаратні тести</string>
+    <string name="cit_headset_right_hph_val">Значення імпульсу Riht Channe：</string>
+    <string name="cit_keyboard_auto_test_summary">Нижче наведено основні події, що підлягають тестуванню, і зелений позначає, що відповідні ключові події нормальні. торкніться кнопки живлення, щоб відскочити для виходу в режимі auto_test_mode.</string>
+    <string name="cit_keyboard_test_summary">Ключові події, які будуть перевірені, показані нижче, і зелений вказує, що відповідні ключові події нормальні</string>
     <string name="cit_lcdlight_brightness">Підсвічування</string>
     <string name="cit_lcdlight_brightness_max">Максимум</string>
     <string name="cit_lcdlight_brightness_min">Мінімум</string>
-    <string name="cit_led_check_charge_light">заряджений світлодіод</string>
-    <string name="cit_led_check_first_flash_light">перший спалах</string>
-    <string name="cit_led_check_second_flash_light">другий ліхтарик</string>
-    <string name="cit_leds_check_summary">Підсвітка, світло сповіщень та підсвічування (ззадира) повинні відповідати на натиснення відповідної кнопки.</string>
+    <string name="cit_led_selected">Поточна вибрано：</string>
     <string name="cit_leds_check_title">Підсвічування</string>
     <string name="cit_light_sensor_check_summary">Датчик освітленості, рівень яскравості навколишнього простору</string>
     <string name="cit_light_sensor_check_title">Датчик освітленості</string>
+    <string name="cit_magnetic_info_hint">Будь ласка, поверніть пристрій із 8 фігурами</string>
     <string name="cit_magnetic_sensor_check_summary">Перевірка компасу</string>
     <string name="cit_magnetic_sensor_check_title">Компас</string>
-    <string name="cit_main_camera_check_summary">"Тестові інструкції:
-
-1. Натисніть на кнопку Камера знизу, щоб увійти в задній інтерфейс камери
-2.Натисніть кнопку затвору
-3. ystem накопичуватиме фото автоматично після зняття.
-4., на екрані має бути відображено зображення. Натисніть «Перепустити», щоб завершити тест."</string>
+    <string name="cit_main_board_bottom_speaker_test_title">Низький тест динаміка на головній дошці</string>
+    <string name="cit_main_board_top_speaker_test_title">Найпопулярніший тест на головній дошці</string>
     <string name="cit_main_camera_check_title">Основна камера</string>
-    <string name="cit_name">Апаратні тести</string>
     <string name="cit_nfc_check_summary">"Покладіть карту на зворотню сторону телефону зверху"</string>
     <string name="cit_nfc_check_tip">поставити картку на верх телефону</string>
     <string name="cit_nfc_check_title">Тест NFC</string>
-    <string name="cit_nfc_sim_check_summary">Підтвердіть правильність відображення статусу і інформації про SIM-карту з NFC можна передати лише дві NFC картки одночасно, і має коректний статус</string>
-    <string name="cit_no_sim_check_summary">Підтвердіть, що телефон не має SIM-картки!</string>
     <string name="cit_no_sim_check_title">Немає SIM-карти</string>
-    <string name="cit_not_available">"Цей тест не доступний у цій версії MIUI"</string>
-    <string name="cit_notificationlight">LED-сповіщення</string>
-    <string name="cit_notificationlight_off">Індикатор сповіщень вимкнено</string>
-    <string name="cit_notificationlight_on">Індикатор сповіщень увімкнено</string>
     <string name="cit_otg_not_supported">"Цей пристрій не підтримує OTG"</string>
     <string name="cit_pass">ОК</string>
-    <string name="cit_play_sd_mp3_hifi_summary">"Підтвердіть, що існує файл з назвою \"music.mp3\", збережений на SD-карті. Файл \"музика\". p3\" має відтворюватися через HIFI пристрою, коли ви відкриєте цей тест."</string>
-    <string name="cit_play_sd_mp3_hifi_title">Грати MP3(HIFI), збережений на SD-карті</string>
-    <string name="cit_play_sd_mp3_summary">"Підтвердіть, що існує файл з назвою \"music.mp3\", збережений на SD-карті. Файл \"музика\". p3\" відтворюється через зовнішні динаміки пристрою, коли ви відкриєте цей тест."</string>
-    <string name="cit_play_sd_mp3_title">Грати MP3, збережений на SD-карті</string>
-    <string name="cit_playing_sd_mp3">Відтворюється music.mp3…</string>
+    <string name="cit_pencil_reverse_wireless_charger_summary">Будь ласка, помістіть олівець у праву області сенсорного екрану таблиці, щоб почати тест</string>
+    <string name="cit_pencil_reverse_wireless_charger_title">Тест Заряду Pencil</string>
     <string name="cit_pointer_location_title">Сенсор</string>
     <string name="cit_power_check_summary">Заряд батареї</string>
     <string name="cit_power_check_title">Заряд батареї</string>
     <string name="cit_pressure_sensor_check_summary">Нижче відображаються значення атмосферного тиску</string>
     <string name="cit_pressure_sensor_check_title">Датчик тиску</string>
     <string name="cit_proximity_data_check_summary">"Закрийте датчик наближення рукою в верхній частині телефону, потім знову відкрийте його. Значення має збільшуватися від 0.0, коли Ви відводите руку далі від пристрою."</string>
+    <string name="cit_proximity_sensor_cali_title">Тест калібрування датчика наближення</string>
     <string name="cit_proximity_sensor_check_summary">"Перевірка датчика наближення"</string>
     <string name="cit_proximity_sensor_check_title">Датчик наближення</string>
-    <string name="cit_proximity_us_sensitivity">Чутливість:</string>
-    <string name="cit_proximity_us_summary">Калібрування датчика наближення</string>
     <string name="cit_rear_dual_camera_check_title">Основна подвійна камера</string>
     <string name="cit_rear_dual_second_camera_check_title">Камера Бокех2</string>
-    <string name="cit_rear_dual_third_camera_check_title">Камера Бокег3</string>
-    <string name="cit_rear_sub_camera_check_summary">"Інструкції з тестової камери:
-
-1. Натисніть на кнопку \"Камер\" знизу, щоб увійти в заднє інтерфейсу камери
-2. Натисніть кнопку затвору
-3. ystem накопичуватиме фото автоматично після захоплення
-4., на якому ви сфотографували необхідно, щоб завершити тест."</string>
-    <string name="cit_rear_sub_camera_check_title">Задня підкамера</string>
     <string name="cit_recovery_signature_failed">Помилка підпису Recovery</string>
     <string name="cit_recovery_signature_passed">Підпис Recovery підтверджений</string>
-    <string name="cit_reset_check_summary">Цей тест перезавантажиться пристрій. Усі попередні тестові дані буде втрачено.</string>
-    <string name="cit_reset_check_title">Перезавантажити тест</string>
-    <string name="cit_reset_ese_summary">Скинути eSE , усі банківські картки та картки з NFC буде видалено.</string>
-    <string name="cit_reset_test">Тест</string>
-    <string name="cit_reverse_charge_check_summary">Вставте OTG телефон для заряджання</string>
-    <string name="cit_rgb_check_blue_light">RGB blue</string>
-    <string name="cit_rgb_check_green_light">RGB зелений</string>
-    <string name="cit_rgb_check_red_light">RGB червоний</string>
-    <string name="cit_sar_get_status_title">ОТРИМАТИ ДСІ ЦІНА</string>
-    <string name="cit_sar_sensor_check_summary">Значення для каналів з датчиком сару повинні відображатись нижче, покривати кнопку телефону, якщо дані змінюються, функція хороша, будь ласка, не тримайте пристрій і тримайте нижню частину мобільного телефону!</string>
-    <string name="cit_sar_sensor_check_title">SAR Sensor</string>
-    <string name="cit_sar_setting_config_title">РОЗШАЙТЕ НАЛАШТУВАННЯ</string>
-    <string name="cit_sd_fail">Виникла помилка.</string>
-    <string name="cit_sd_mount">Підключити SD-картку</string>
-    <string name="cit_sd_mount_sucess">SD-карту підключено</string>
-    <string name="cit_sd_mp3_not_existed">"На карті SD немає файлу з назвою \"music.mp3\"
-Після того, як ви поставите \"music.mp3\" на SD-карті, натисніть на екран для відтворення."</string>
-    <string name="cit_sd_plugged_in">SD-карта виявлена та вилучити карту SD зараз</string>
-    <string name="cit_sd_plugged_out">Карта пам\'яті видалена, вставте SD-карту зараз</string>
-    <string name="cit_sd_plugin_check_summary">Текст «SD-картка виявлена, а тепер видаліть карту SD».</string>
-    <string name="cit_sd_plugin_check_title">SD картка (виявлення)</string>
-    <string name="cit_sd_plugout_check_summary">Після вилучення SD картки слід вимкнути текстову \"SD-картку\", яка знаходиться нижче.</string>
-    <string name="cit_sd_plugout_check_title">SD-карта (видалення)</string>
-    <string name="cit_sd_unmount">Відключити карту SD</string>
-    <string name="cit_sd_unmount_sucess">SD картку розмонтовано</string>
+    <string name="cit_reverse_wireless_charge_check_tips">Будь ласка, поставте телефон і пристрій на оплату за обов’язкові та стартове тестування</string>
+    <string name="cit_sar_sensor_collect_cali_description">Аналіз Sar Sensor калібрування і Збір даних</string>
+    <string name="cit_second_screen_accelermeter_sensor_cali_title">Випробування калібрування датчика на другому екрані</string>
+    <string name="cit_second_screen_gyroscope_sensor_cali_title">Тест на калібрування датчика Гіроскопа</string>
     <string name="cit_signature_check_label">Перевірка підпису:</string>
     <string name="cit_sim_check_summary">Перевірте статус і інформацію про SIM-карту</string>
     <string name="cit_sim_check_title">SIM-карта</string>
@@ -452,18 +249,19 @@
     <string name="cit_sim_state_puk_required">Потрібний PUK код</string>
     <string name="cit_sim_state_ready">SIM-карта готова до використання</string>
     <string name="cit_sim_state_unkown">Невідомий стан</string>
-    <string name="cit_slider_hall_miui_test_summary">Виконання повноцінного телефону ковзання сторінки донизу.</string>
-    <string name="cit_slider_hall_test_summary">Виконання повноцінного телефону ковзання сторінки донизу.</string>
-    <string name="cit_soft_torch">переднє м\'яке спалах</string>
-    <string name="cit_soft_torch_on">Увімкнути м\'які блимання</string>
-    <string name="cit_splash_check_summary">Переконайтеся, що все гаразд. Має складніше 5...</string>
+    <string name="cit_soft_torch_first">Перше м’ясне спалах</string>
+    <string name="cit_soft_torch_second">Друга м’яска</string>
     <string name="cit_start_calibration">Початок калібрування</string>
-    <string name="cit_stop_calibration">Зупинити калібрування</string>
+    <string name="cit_sub_display_check_title">Показ</string>
+    <string name="cit_sub_touch_panel_test_title">Підсенсорний датчик</string>
     <string name="cit_tele_camera_check_title">Теле камера</string>
-    <string name="cit_tfcard_no_support">На цьому пристрої не підтримується TF карта.</string>
-    <string name="cit_tfcard_support">Картка TF підтримується на цьому пристрої.</string>
+    <string name="cit_test_results">Результат історії</string>
+    <string name="cit_tfcard_available_szie">Доступні розміри</string>
+    <string name="cit_tfcard_mounted">Detect SDCard</string>
     <string name="cit_tfcard_support_summary">Перевірте, чи підтримує пристрій TF карти.</string>
     <string name="cit_tfcard_support_title">Підтримка TF карт</string>
+    <string name="cit_tfcard_total_size">Загальний розмір</string>
+    <string name="cit_tfcard_unmounted">SDCard unavailable</string>
     <string name="cit_tof_sensor_check_summary">Значення для TOF мають з\'явитись нижче</string>
     <string name="cit_tof_sensor_check_title">TofSensor</string>
     <string name="cit_tool">Інструменти</string>
@@ -591,6 +389,8 @@
     <string name="cit_tool_bluetooth_rse">Введіть режим тегу Bluetooth RSE</string>
     <string name="cit_tool_bluetooth_rse_chain">антена:</string>
     <string name="cit_tool_bluetooth_rse_channel">канал:</string>
+    <string name="cit_tool_bluetooth_rx_count_error">Вихідне значення - це число</string>
+    <string name="cit_tool_bluetooth_rx_error">Сталася помилка під час запуску програми</string>
     <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
     <string name="cit_tool_bluetooth_tx_burst_run">БІГТИ</string>
     <string name="cit_tool_bluetooth_tx_chain">антена:</string>
@@ -601,32 +401,15 @@
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse_run">БІГТИ</string>
     <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
-    <string name="cit_tool_cal_accelerometer">Програма калібрування акселерометра</string>
-    <string name="cit_tool_cal_camera">Інструмент калібрування камери</string>
-    <string name="cit_tool_cal_gyroscope">гіроскоп калібрування</string>
     <string name="cit_tool_check_cal">відміна</string>
     <string name="cit_tool_check_ok">гаразд</string>
     <string name="cit_tool_check_opt">впевнені?</string>
     <string name="cit_tool_check_opt_with_reboot">буде перезавантажено, впевнені?</string>
     <string name="cit_tool_current_modem_test_mode">Режим поточного тесту:</string>
     <string name="cit_tool_drx_only">DRX</string>
-    <string name="cit_tool_enable_3A_log">Увімкнути 3A log Switch</string>
-    <string name="cit_tool_enable_display_3A_log">Увімкнути відображення 3A log</string>
     <string name="cit_tool_exit_modem_mbn">Відновити авто MBN</string>
     <string name="cit_tool_getting_expired">Закінчується!</string>
     <string name="cit_tool_getting_wait">Отримали! PLS очікування</string>
-    <string name="cit_tool_log">Отримати журнали</string>
-    <string name="cit_tool_log_bugreport">Звіт про помилку</string>
-    <string name="cit_tool_log_dmesg">DMESG</string>
-    <string name="cit_tool_log_file_not_exist">%s не існує</string>
-    <string name="cit_tool_log_generate_bugreport">Створення звіту про помилку…</string>
-    <string name="cit_tool_log_kmsg">Останній журнал ядра</string>
-    <string name="cit_tool_log_logcat">Журнал ADB</string>
-    <string name="cit_tool_log_modem">Журнал модема</string>
-    <string name="cit_tool_log_no_sdcard">Накопичувач не підключений</string>
-    <string name="cit_tool_log_ril">Журнал RIL</string>
-    <string name="cit_tool_log_toast">Журнал збережено в %s</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Створення звіту про помилку… (це займає 1 хвилину)</string>
     <string name="cit_tool_mbn_default_notfiy">типовий MBN</string>
     <string name="cit_tool_mbn_no_default_notfiy">Немає MBN за умовчанням</string>
     <string name="cit_tool_mbn_opt_help">"Інструкції з операції:
@@ -663,57 +446,51 @@
     <string name="cit_tool_modem_test_mode_select">Виберіть тестовий режим:</string>
     <string name="cit_tool_modem_test_mode_set">Перевірити налаштування</string>
     <string name="cit_tool_modem_test_set">validate</string>
+    <string name="cit_tool_modem_test_title">Засіб розробки MODEM тесту</string>
     <string name="cit_tool_modem_test_will_set">відкриє тестовий режим і перезавантаже dut</string>
-    <string name="cit_tool_nfc">Інструменти для тестування NFC</string>
-    <string name="cit_tool_nfc_st">Nfc ST:</string>
-    <string name="cit_tool_nfc_st_run">Ран</string>
-    <string name="cit_tool_nfc_st_stop">Зупинити</string>
+    <string name="cit_tool_modem_tool_move_notify">Цей інструмент переїхав до MTB, ви можете отримати його із секретним кодом: *#*#*#663368378#*#*</string>
+    <string name="cit_tool_nfc_test_title">Інструмент тестування NFC</string>
     <string name="cit_tool_no_repeat">Без повторень!</string>
     <string name="cit_tool_not_support">Не підтримується</string>
     <string name="cit_tool_opt_fail_info_notify">Не вдалося виконати операцію, необхідно перезавантажити телефон для мережевого режиму.</string>
+    <string name="cit_tool_opt_standby">параметр реж. очікування...</string>
     <string name="cit_tool_prx_drx_select_mode">Оберіть режим:</string>
     <string name="cit_tool_prx_drx_select_rat">Оберіть RAT:</string>
     <string name="cit_tool_prx_drx_start_test">Почати тест</string>
     <string name="cit_tool_prx_drx_stop_test">Зупинити тест</string>
     <string name="cit_tool_rf_ant">Інструменти антени/RF</string>
-    <string name="cit_tool_sar_test_tool_title">ТЕСТЬ ДЕРЕВ</string>
     <string name="cit_tool_select_all">Виділити все</string>
     <string name="cit_tool_select_none">Не вибирати нічого</string>
     <string name="cit_tool_select_opposite">Виберіть Протилежний</string>
     <string name="cit_tool_setting_expired">Налаштування закінчуються, спробуйте знову!</string>
     <string name="cit_tool_setting_wait">Налаштування! PLS очікування</string>
-    <string name="cit_tool_splash_test_title">Тест сплешу</string>
     <string name="cit_tool_switch_autosms">Увімкнути/вимкнути автореєстрацію SMS</string>
     <string name="cit_tool_to_fetching">отримати</string>
-    <string name="cit_tool_wifi">Тестовий інструмент Wi-Fi</string>
-    <string name="cit_tool_wifi_exit">Вийти</string>
-    <string name="cit_tool_wifi_rx_chan">Rx: канал</string>
-    <string name="cit_tool_wifi_rx_count_error">Вихідне значення - це число</string>
-    <string name="cit_tool_wifi_rx_error">Сталася помилка під час запуску програми</string>
-    <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
-    <string name="cit_tool_wifi_rx_run">Ран</string>
-    <string name="cit_tool_wifi_rx_stop">Зупинити</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">канал:</string>
-    <string name="cit_tool_wifi_rxn_test_bw">ширина банда:</string>
-    <string name="cit_tool_wifi_rxn_test_channel">канал:</string>
-    <string name="cit_tool_wifi_sniffer">Інструмент Wi-Fi Sniffer</string>
-    <string name="cit_tool_wifi_sniffer_settings">Налаштування Сніфера</string>
-    <string name="cit_tool_wifi_tx_ax_gI">Інтервал охорони:</string>
-    <string name="cit_tool_wifi_tx_bg_chan">канал:</string>
-    <string name="cit_tool_wifi_tx_bg_txrt">дата:</string>
-    <string name="cit_tool_wifi_tx_n_bandwidth">ширина банда:</string>
-    <string name="cit_tool_wifi_tx_n_chan">канал:</string>
-    <string name="cit_tool_wifi_tx_n_txrt">датара: MCS</string>
-    <string name="cit_tool_wifi_tx_st_chan">канал:</string>
-    <string name="cit_tool_wifi_txrx_chain_selection">Вибрати антену</string>
-    <string name="cit_torch_modify">Змінити блимання</string>
-    <string name="cit_torch_off">Вимкнути ліхтарик</string>
-    <string name="cit_torch_on">Увімкнути ліхтарик</string>
-    <string name="cit_touch_calib_fail">Не вдалося виконати кліп калібрування, будь ласка, повторіть спробу</string>
-    <string name="cit_touch_calib_instruction">почати калібрування</string>
-    <string name="cit_touch_calib_pass">Торкніться калібрування, будь ласка, використовуйте його зазвичай</string>
-    <string name="cit_touch_calib_summary">Наступний крок буде відкалібрувати і не торкатися екрану після нього, чекати підказки про успіх калібрування</string>
-    <string name="cit_touch_calib_title">Калібрування дотику</string>
+    <string name="cit_tool_wlan">Тестовий інструмент Wi-Fi</string>
+    <string name="cit_tool_wlan_exit">Вийти</string>
+    <string name="cit_tool_wlan_rx_chan">Rx: канал</string>
+    <string name="cit_tool_wlan_rx_count_error">Вихідне значення - це число</string>
+    <string name="cit_tool_wlan_rx_error">Сталася помилка під час запуску програми</string>
+    <string name="cit_tool_wlan_rx_run">Ран</string>
+    <string name="cit_tool_wlan_rx_stop">Зупинити</string>
+    <string name="cit_tool_wlan_rxbg_test_channel">канал:</string>
+    <string name="cit_tool_wlan_rxn_test_bw">ширина банда:</string>
+    <string name="cit_tool_wlan_rxn_test_channel">канал:</string>
+    <string name="cit_tool_wlan_sniffer">Інструмент Wi-Fi Sniffer</string>
+    <string name="cit_tool_wlan_sniffer_settings">Налаштування Сніфера</string>
+    <string name="cit_tool_wlan_sniffer_test_title">Інструмент тестування Wi-Fi sniffer</string>
+    <string name="cit_tool_wlan_test_title">Тестовий інструмент Wi-Fi</string>
+    <string name="cit_tool_wlan_tx_ax_gI">Інтервал охорони:</string>
+    <string name="cit_tool_wlan_tx_bg_chan">канал:</string>
+    <string name="cit_tool_wlan_tx_n_bandwidth">ширина банда:</string>
+    <string name="cit_tool_wlan_tx_n_chan">канал:</string>
+    <string name="cit_tool_wlan_tx_st_chan">канал:</string>
+    <string name="cit_tool_wlan_txrx_chain_selection">Вибрати антену</string>
+    <string name="cit_top_left_speaker_test">Верхня ліва гучномовець</string>
+    <string name="cit_top_right_speaker_test">Тест верхнього правого динаміка</string>
+    <string name="cit_torch">Флеш</string>
+    <string name="cit_torch_first">Перший спалах</string>
+    <string name="cit_torch_second">Другий спалах</string>
     <string name="cit_touch_panel_test_title">Сенсорний датчик</string>
     <string name="cit_ultra_camera_check_title">Перевірка ультра</string>
     <string name="cit_usb_OTG_error_condition">"USB пристрій підключено, але не може отримати інформацію про пристрій. Неможливо завершити тест."</string>
@@ -729,27 +506,15 @@
     <string name="cit_version_check_summary">Версія ПЗ
 Перевірте дані, виділені зеленим кольором.</string>
     <string name="cit_version_check_title">Версія ПЗ</string>
-    <string name="cit_vga_camera_cameraid_fail">Помилка: камера не конфігурація</string>
-    <string name="cit_vga_camera_cameralist_fail">Помилка: камери не співпадають</string>
-    <string name="cit_vga_camera_capture">Камера</string>
-    <string name="cit_vga_camera_capture_fail">Не вдалося сфотографувати</string>
-    <string name="cit_vga_camera_delete">Видалити</string>
-    <string name="cit_vga_camera_deleted">Світлину успішно видалено</string>
-    <string name="cit_vibrator_check_summary">Оберіть, чи працює вібрація (довге і коротке)</string>
-    <string name="cit_vibrator_check_title">Вібрація</string>
-    <string name="cit_vibrator_don_don_chat">Чат Дон Дон</string>
-    <string name="cit_vibrator_haptic">Тактильний відгук</string>
-    <string name="cit_vibrator_load_down_pattern">Вниз візерунок</string>
-    <string name="cit_vibrator_load_up_pattern">Шаблон</string>
-    <string name="cit_vibrator_long">Довга вібрація</string>
-    <string name="cit_vibrator_play_touch_pattern">Вібрація</string>
-    <string name="cit_vibrator_short">Коротка вібрація</string>
-    <string name="cit_vibrator_show_advanced">Показати додаткові параметри</string>
-    <string name="cit_voc_data_check_title">Датчик даних VOC</string>
-    <string name="cit_voc_data_humidity">Вологість</string>
-    <string name="cit_voc_data_pressure">Тиск</string>
-    <string name="cit_voc_data_sensor_check_summary">Значення для VOC, температура, вологості, тиск, має бути нижче</string>
-    <string name="cit_voc_data_temperature">Температура</string>
+    <string name="cit_vibrator_check">Перевірка вібрації</string>
+    <string name="cit_vibrator_check_summary">"Довга або коротка вібрація зустрічаються в тесті
+Будь ласка, виберіть правильну кнопку відповідно до різних умов вібрації"</string>
+    <string name="cit_vice_display_check_summary">"Після того, як екран був увімкнений і подвійний клік, щоб висвітлити екран
+ Підтвердіть, що кольори постійно відображаються на всьому екрані. Переконайтеся, що немає неправильних яскравих місць і темних точок."</string>
+    <string name="cit_vice_display_check_title">Подорожнє відображення</string>
+    <string name="cit_vice_touch_panel_test_summary">Після того, як екран був увімкнений і подвійний клік, щоб висвітлити екран, вам потрібно перевернути екран і двічі клацніть по задньому екрану, щоб увімкнути екран, та намалюйте хрест на маленькому екрані вздовж сітки</string>
+    <string name="cit_vice_touch_panel_test_tips">Будь ласка, підтвердіть, що маленький екран дисплей та подвійний клік, щоб увімкнути екран на маленькому екрані ввімкнено, клацніть</string>
+    <string name="cit_vice_touch_panel_test_title">Vice Touch сенсор</string>
     <string name="cit_wifi_address_check_summary">Інформація про Wi-Fi мережу
 Перевірте дані, виділені зеленим кольором.</string>
     <string name="cit_wifi_address_check_title">Wi-Fi мережа</string>
@@ -761,32 +526,14 @@
     <string name="cit_wifi_ap_scanning">Сканування…</string>
     <string name="cit_wifi_fail_to_scan">"Неможливо виконати сканування мережі"</string>
     <string name="cit_wifi_state_refresh">Оновити</string>
-    <string name="cit_x_tele_camera_check_title">Камера Теле5X</string>
-    <string name="cit_yellow_torch_on">Увімкнути жовтий спалах</string>
-    <string name="close_third_color_led">близько трьох кольорів</string>
+    <string name="cit_x_tele_camera_check_title">Супертелова камера</string>
     <string name="continue_vibrator">Продовжити вібрацію</string>
-    <string name="copyright">Авторське право © 2015 Goodix Всі права захищені.</string>
     <string name="current_angle">Поточний кут:</string>
-    <string name="delete">Видалити</string>
-    <string name="description_info">Інформація</string>
+    <string name="dispaly_sar_sensor_values">Відображати всі поточні значення датчика</string>
     <string name="display_test_finish">Тест екрану завершено</string>
     <string name="dsi_sar_on_off_tips">Живлення Dsi Sar</string>
     <string name="enrol">Запис</string>
-    <string name="error">Помилка</string>
-    <string name="error_app_internal">Внутрішня помилка програми</string>
-    <string name="error_app_unsupported">Формат не підтримується</string>
-    <string name="error_failed_to_get_data">не вдалося отримати дані</string>
-    <string name="error_file_not_found">не вдається знайти дані</string>
-    <string name="error_getting_sensor_info">Помилка отримання інформації про датчик</string>
-    <string name="error_initializing_sensor">Помилка ініціалізації датчика: %1$s</string>
-    <string name="error_sdcard_access">Не вдалося отримати доступ до системного простору!</string>
-    <string name="error_unknown_error">Невідома помилка</string>
-    <string name="fail">Невдача</string>
-    <string name="failed_to_test">ВИВПРАВЛЕНО ДО ПЕРЕВІРКУ</string>
-    <string name="far">FAR(Хибне погодження):</string>
-    <string name="far_count">FAC(хибне приймання лічильника):</string>
-    <string name="far_total_count">FATC(Прийняти весь обсяг прийняття):</string>
-    <string name="fingerprint">Відбиток:</string>
+    <string name="failed_to_get_permission">Хмарне розпізнавання виявилося невдало, а деякі функції втрачені</string>
     <string name="fingerprint_input_title">Тест введення цифровим відбитком</string>
     <string name="firstplug_mic_check_record_tip">Зупиніть запис. Після підключення навушників підтвердіть результат.</string>
     <string name="fod_check_start_error">"Неможливо запустити програму перевірки сканера відбитків. Неможливо завершити тест."</string>
@@ -797,117 +544,29 @@
     <string name="fod_check_unknown_sensor_type">"Невідомий тип сканера відбитків. Неможливо завершити тест."</string>
     <string name="fod_fingerprint_input_description">Тест сканера відбитків</string>
     <string name="fod_fingerprint_input_title">Тест сканера відбитків</string>
-    <string name="fod_pressure_sensor_pressure_data_collection">Збір даних тиску...</string>
-    <string name="fod_pressure_sensor_test_exception">Читання файлу вузла виняток</string>
-    <string name="fod_pressure_sensor_test_fail">Помилка перевірки, будь ласка, натисніть на кнопку Збій</string>
-    <string name="fod_pressure_sensor_test_pressure_too_big">"Середній тиск датчика занадто великий: %1$d 
-тест не вдався. Будь ласка, натисніть кнопку Помилки"</string>
-    <string name="fod_pressure_sensor_test_pressure_too_small">"Середній тиск датчика занадто малий: %1$d 
-тест не вдався. Будь ласка, натисніть кнопку Помилки"</string>
-    <string name="fod_pressure_sensor_test_success">"Середній тиск датчика: %1$d 
-тестів успішно, будь ласка, натисніть кнопку Передачі"</string>
-    <string name="fod_pressure_sensor_test_summary">"Покладіть вагу в 
-вказану позицію"</string>
-    <string name="fod_pressure_sensor_test_title">Fod Pressure Sensor Test</string>
-    <string name="fp_fod_calibration">калібрування відбитків пальців</string>
-    <string name="fpc_app_name">Засіб тестування датчиків</string>
-    <string name="fpc_pn_calibration">Зробити знімок і зберегти PN</string>
     <string name="front_mic_check_record_tip">Скажіть що-небудь в мікрофон на передній панелі телефону</string>
-    <string name="frr">FR(False відхилено):</string>
-    <string name="frr_count">FRC(False повернуто (False Count):</string>
-    <string name="frr_total_count">FRTC(Невірно - Загальний підсумок):</string>
-    <string name="get_DSI_result">DSI результат</string>
-    <string name="get_base_finger">Видобути зображення: отримати базовий палець</string>
-    <string name="get_finger_data">Видобути зображення:sampling палець</string>
-    <string name="get_sample_finger">Видобути зображення: отримати зразок пальця</string>
-    <string name="get_sensor_info">ЗАРЕЄСТРУВАТИ ПРЕДМЕТ</string>
-    <string name="get_template_finger">Видобути зображення: отримати палець шаблону</string>
-    <string name="gpu_maxfreq_title">GPU Перепроцесорний режим для експериментального</string>
-    <string name="headset_key">Кнопка гарнітури</string>
-    <string name="headset_key_tip">Вам потрібно перевірити гарнітуру, перш ніж перейти до наступного тесту</string>
+    <string name="get_dsi_tips">Поточне значення DSI</string>
     <string name="headset_plug_check_tip">Тепер включите музику і слухайте в гарнітурі. Після закінчення тестування вимкніть гарнітуру.</string>
-    <string name="headset_plug_record_tip">почати запис</string>
     <string name="headset_press">Натисніть</string>
     <string name="headset_record">Скажіть що-небудь в мікрофон гарнітури. Запис буде зупинено протягом 3 секунд.</string>
-    <string name="headset_test">Це перевірить вставку гарнітури, відтягніть, навушники та кнопку гарнітури і навушників, і всі тести будуть успішними</string>
+    <string name="headset_test">Тест гарнітури</string>
+    <string name="headset_test_tips">Це перевірить вставку гарнітури, відтягніть, навушники та кнопку гарнітури і навушників, і всі тести будуть успішними</string>
     <string name="headset_unplug_check_tip">Підключіть гарнітуру</string>
-    <string name="headset_unplug_tip">Вставте гарнітуру</string>
-    <string name="hello_world">Привіт, світе!</string>
-    <string name="hint">може зайняти багато часу, будь ласка, зачекайте терпіння.</string>
-    <string name="image_quality_test">ТЕСТА ЗОБРАЖЕННЯ</string>
-    <string name="info">Інформація</string>
-    <string name="init">initialzing</string>
-    <string name="interphone_oper_result">Результати відображаються тут</string>
-    <string name="interphone_test">Перевірка Interphone</string>
-    <string name="interphone_test_set_409_mhz">Встановити 409М Гц</string>
-    <string name="interphone_test_set_430_mhz">Встановити 430М HZ</string>
-    <string name="interphone_test_switch_to_receive_mode">Перейти в режим отримання</string>
-    <string name="interphone_test_switch_to_transmit_mode">Перемкнутись у режим надсилання</string>
     <string name="interval_vibrator">Інтервал вібрації</string>
-    <string name="intro_message">Цей приклад демонструє базове використання API Camera2. Перевірте вихідний код, щоб побачити, як ви можете побачити попередній перегляд камери та взяти фотографії.</string>
-    <string name="ir_camera_led_test_description">Тест на споруджене світло</string>
-    <string name="ir_camera_led_test_summary">"Тестові інструкції:
-
-1.Натисніть кнопку Попередній перегляд знизу, щоб увійти до інтерфейсу камери
-2. він наступні елементи будуть випадково вмикатися. Будь ласка, виберіть поточний стан світла."</string>
-    <string name="ir_camera_led_test_title">Тест на споруджене світло</string>
-    <string name="ir_camera_test_description">Тест камери Ir</string>
-    <string name="ir_camera_test_summary_capture">"Тестові інструкції:
-
-1. Натисніть на кнопку Камера знизу, щоб увійти в інтерфейс Ір Камери
-2. Натисніть кнопку затвору
-3. ystem накопичуватиме фото автоматично після зняття.
-4., на екрані має бути відображено зображення. Натисніть «Перепустити», щоб завершити тест."</string>
-    <string name="ir_camera_test_summary_preview">"Тестові інструкції:
-
-1. Натисніть на кнопку Попередній перегляд знизу, щоб увійти в інтерфейс камери
-2.Чекати кінця, авто повернення."</string>
-    <string name="ir_camera_test_title">Тест камери Ir</string>
     <string name="keyboard">Клавіша</string>
     <string name="keyboard_vibrator_test">Клавіатура</string>
-    <string name="keyboard_vibrator_test_old">Режим клавіатури та вібрації</string>
-    <string name="keys_times">Кількість ключів:</string>
-    <string name="lastTestResult">Результат останнього тесту:</string>
-    <string name="last_time_test_result">СПРОБУЙТЕ ЧАС РЕЗУЛЬТУ</string>
-    <string name="launcher_d5x_sar_summary">Нижче відображається вихідні дані кожного каналу датчика SAR. Будь ласка, поверніть телефон до фіксації калібрування Sar calibration, натисніть \"Почати калібрування\", щоб показати калібрування PASS, а потім вказати на нормальне. Зауважте, будь ласка, що школа вчасно, і її руки не поруч з мобільним телефоном.</string>
     <string name="lcminfo">Інформація LCM</string>
-    <string name="led_tip_txt">Наступні елементи будуть випадково ввімкнені. Будь ласка, виберіть поточний стан світла</string>
-    <string name="magnetic_info_hint">Будь ласка, поверніть пристрій із 8 фігурами</string>
     <string name="main_mic_check_record_tip">Скажіть що-небудь в мікрофон</string>
     <string name="mic1_spk_loop">Розмовний мікрофон</string>
     <string name="mic_check_rm_headset_tip">Спочатку вимкніть гарнітуру і запишіть звук</string>
     <string name="mic_tip">пошуміть в мікрофон. Прослухайте запис в гарнітурі.</string>
     <string name="mic_volume_height_tip">Тест гучності мікрофона</string>
     <string name="mic_volume_low_tip">Тест не пройдений. Запишіть гучніший звук.</string>
-    <string name="micphone_test">MIC&amp; SPK</string>
-    <string name="motor_calibration">Калібрування мотора</string>
     <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
-    <string name="navigation_drawer_close">Закрити панель навігації</string>
-    <string name="navigation_drawer_open">Відкрити панель навігації</string>
-    <string name="next">Уперед</string>
-    <string name="next_step">Наступний крок</string>
     <string name="nfc_disable_tip">Увімкніть NFC</string>
-    <string name="no">Ні</string>
+    <string name="nfc_not_available">NFC недоступний</string>
     <string name="no_vibrator">Немає вібрації</string>
-    <string name="noise">шум:</string>
-    <string name="none">Н/А</string>
-    <string name="ok">Гаразд</string>
-    <string name="open_third_color_led">відкрити триколір світлодіода</string>
-    <string name="pass">Пас</string>
-    <string name="phone_not_been_restarted">Телефон не перезапущено</string>
-    <string name="picture">Зображення</string>
     <string name="plugout_and_reverse_plugin">"Підключіть зарядний пристрій."</string>
-    <string name="pop_camera">Поп-Камера</string>
-    <string name="pop_push_camera_test_summary">"Натисніть на кнопку \"Збрати\" щоб побачити, чи виходить камера
-Натисніть кнопку \"Push-камера\", щоб подивитися, чи приходить камера"</string>
-    <string name="pop_push_camera_test_title">Тест Push-камери</string>
-    <string name="product_list">Список товарів</string>
-    <string name="push_camera">Push Камера</string>
-    <string name="radio_boy">Голос</string>
-    <string name="radio_chinese">Китайська</string>
-    <string name="radio_configuration_set">встановити значення радіоконфігурації</string>
-    <string name="radio_english">Українська</string>
-    <string name="radio_gril">Жіночий голос</string>
     <string name="radio_info_asdiv_switch_label">Статус ASDiv:</string>
     <string name="radio_info_call_status_label">Статус голосового виклику:</string>
     <string name="radio_info_cellinfo_label">Інформація про осередках:</string>
@@ -940,136 +599,51 @@
     <string name="radio_info_sim_status">Статус SIM:</string>
     <string name="radio_info_unknown">Невідомо</string>
     <string name="radio_info_voice_network_type_label">Тест голосової мережі:</string>
-    <string name="radio_no">Не чути</string>
-    <string name="rat_config_setting">Рай</string>
-    <string name="reboot_times">Reboot Times:</string>
     <string name="receiver_off">Ресивер вимкнено</string>
     <string name="receiver_on">Ресивер увімкнено</string>
     <string name="receiver_on_off_tips">Живлення ресивера</string>
-    <string name="refresh_number_of_keys">оновити кількість ключів</string>
-    <string name="removeFingerprint">Вилучити відбиток пальця</string>
-    <string name="remove_headset_and_starttest">Будь ласка, видаліть гарнітуру і натисніть \"Почати протестувати</string>
-    <string name="request_permission">Для цього зразка потрібен дозвіл камери.</string>
-    <string name="resetpixel_test">СКИНУТИ PIXEL</string>
-    <string name="run">Ран</string>
-    <string name="sample_data">приклад даних</string>
-    <string name="sample_hint">витягнути %1$s зразків для одного пальця</string>
-    <string name="sample_progress_hint">чекати для отримання вибірки</string>
     <string name="sar_authentation_test_title">Тест аутентифікації Sar</string>
     <string name="sar_off">Sar вимкнено</string>
     <string name="sar_on">Sar увімкнено</string>
-    <string name="sar_sensor_calibrate">Почати калібрування</string>
     <string name="sar_sensor_calibrate_fail">Калібрування датчика Sar</string>
     <string name="sar_sensor_calibrate_success">Датчик Sar відкалібрований</string>
     <string name="sar_sensor_collect_data">Почати збір даних</string>
-    <string name="sar_sensor_collect_data_test_summary">"Поверніть телефон, щоб переконатися, що кут реального часу складає від 130 до 140 градусів
-Тримайте другу руку від мобільного телефону. Натисніть на кнопку отримання початкових даних
-Після калібрування успіху, виуважте, що абсолютне значення CS0i і CS1 меньше 200, а значення CS1 - більш ніж 300. Після 5 послідовних разів інша рука знаходиться близько до дна стільникового телефону, він вказує, що кнопка знаходиться в межах від 3000 до 30000, кнопка пройде відміткою"</string>
     <string name="sar_sensor_collect_test_summary">"Поверніть телефон, поставте його на пристрій.
 Натисніть кнопку \"Почати збір даних\".
 Переміщуйте телефон ближче та далі"</string>
     <string name="sar_sensor_data_check_description">Збір даних з Sar Sensor</string>
-    <string name="sar_sensor_data_check_summary">"Утримуйте верхній частині телефону з однією рукою
-Переконайтеся, що в реальному часі кут близько 45 градусів
-Тримайте іншу руку від телефону
-Подивіться на значення CS0
-Після значення CS0 менше 500, значення CS2 більше ніж 10000 
-Утримуйте іншу руку біля нижньої частини телефону
-Подивіться на значення CS0
-Значення CS0 діапазонів від 3000 до 30000 та значення кнопка переходу відмітка"</string>
-    <string name="sar_sensor_data_check_summary_1">"Утримуйте верхній частині телефону з однією рукою
-Переконайтеся, що в реальному часі кут близько 45 градусів
-Тримайте іншу руку від телефону
-Подивіться на значення CS0
-Після значення CS0 менше 500, значення CS2 більше ніж 5000 
-Утримуйте іншу руку біля нижньої частини телефона
-Подивіться на значення CS0
-Значення CS0 діапазонів від 3000 до 30000 кнопка переходу відмітка"</string>
-    <string name="sar_sensor_set">встановити sar датчик</string>
-    <string name="sar_sensor_setting">стан датчика сару</string>
-    <string name="sar_sensor_test_description">Аналіз Sar Sensor калібрування і Збір даних</string>
     <string name="sar_sensor_test_err_angle">Телефон не розташований під прямим кутом</string>
     <string name="sar_sensor_test_next_step">Керування основами близько до мобільного телефону</string>
     <string name="sar_sensor_test_success">Перевірка Sar Sensor пройшла успішно</string>
     <string name="sar_sensor_test_summary">"Поверніть телефон.Натисніть кнопку для початку калібрування."</string>
     <string name="sar_sensor_test_timeout">Тайм-аут для Sar Sensor</string>
-    <string name="screen_cancel">Вимкнути</string>
-    <string name="screen_confirm">Увімкнути</string>
     <string name="search_menu_title">Пошук</string>
-    <string name="select">Вибрати</string>
-    <string name="select_all">Виділити все</string>
-    <string name="select_automatic">Обрати автоматично</string>
-    <string name="select_manual">Виберіть вручну</string>
-    <string name="select_none">Не вибирати нічого</string>
-    <string name="selftest">НАЛАШТУВАННЯ</string>
-    <string name="sensor_information">Відомості про датчик</string>
     <string name="set_dsi_tips">Установити DSI</string>
-    <string name="show_log">Показати журнал</string>
+    <string name="slave_battery_authentic">Вторинна батарея</string>
     <string name="speak_from_mic">Розмовляйте в мікрофон та перевірте, чи є звук у динаміку.</string>
-    <string name="start">Старт</string>
-    <string name="start_extract_sample">почати витягувати зразки</string>
-    <string name="start_extract_template">почніть вилучати шаблони</string>
-    <string name="start_far">Почати ДАЛО</string>
-    <string name="start_frr">Почати FRR</string>
-    <string name="status">Статус</string>
-    <string name="status_failed">Помилка одного або кількох тестів</string>
-    <string name="status_passed">Пройшло</string>
-    <string name="status_running">Біг</string>
-    <string name="status_text">Статус:</string>
-    <string name="success_extract_sample">готово для вилучення даних зразка</string>
-    <string name="success_extract_template">готово для вилучення даних шаблону</string>
-    <string name="success_get_finger_data">Видобути зображення: успіх для отримання даних пальцями</string>
-    <string name="success_to_test">УСПІШНО КОРИСТУВАЧ</string>
+    <string name="successfully_obtained_permission">Хмарне розпізнавання стає успішним, функція набирає чинності</string>
     <string name="temperature">Температура</string>
-    <string name="template_data">дані шаблону</string>
-    <string name="template_hint">витягнути %1$s шаблонів для одного пальця</string>
-    <string name="template_progress_hint">зачекайте на видобування назви шаблону</string>
     <string name="test_back_mic">Задній мікрофон</string>
-    <string name="test_cases">Тестові звернення</string>
     <string name="test_front_mic">Передній мікрофон</string>
-    <string name="test_headset">Тест гарнітури</string>
     <string name="test_main_mic">Основний мікрофон</string>
-    <string name="test_receiver">Отримувач</string>
-    <string name="test_receiver_summary">"Ви почуєте два випадкових числа
-Будь ласка, натисніть відповідну кнопку відповідно до теми, що чуєте"</string>
-    <string name="test_result">ТЕСТОВИЙ РЕЗУЛЬТАТ</string>
     <string name="test_speaker">Динамік</string>
     <string name="test_speaker_summary">"Ви почуєте два випадкових числа.Натисніть відповідну кнопку з номером, який Ви почули."</string>
-    <string name="test_spi_chip_id">Ідентифікатор комп\'ютера:</string>
     <string name="test_top_mic">Верхній мікрофон</string>
-    <string name="testagain">Ви можете натиснути клавішу HOME для повторного тестування</string>
     <string name="testing">Тестування…</string>
     <string name="tips_not_placed_right_angle">Телефон розташований не під прямим кутом</string>
-    <string name="tips_show_calibrate_result">Показати калібрування ресульму</string>
     <string name="tips_show_current_angle">Показати поточний кут</string>
     <string name="tips_show_current_sar_sensor_data">Показати поточні дані датчика</string>
-    <string name="title_about">про себе</string>
-    <string name="title_algo_performance">альго виконання</string>
-    <string name="title_bad_point">погана точка</string>
-    <string name="title_extract_data">Видобути дані</string>
-    <string name="title_farr">Тест FAR та FRR</string>
-    <string name="title_open_short_pixel">відкрити короткий піксель</string>
+    <string name="top_left_high_speaker">Тест верхнього правого боку</string>
+    <string name="top_left_low_speaker">Випробування лівого верхнього кулака</string>
     <string name="top_mic_check_record_tip">Скажіть що-небудь в мікрофон у верхній частині телефону</string>
+    <string name="top_right_high_speaker">Тест правої частини твіттера</string>
+    <string name="top_right_low_speaker">Тест правої вершини деревини</string>
     <string name="touch_auto">Виконується діагностика сенсора…</string>
-    <string name="touch_sefl_fail">Не вдалося виконати перевірку</string>
-    <string name="touch_self">Будь ласка, не торкайтеся екрану під час тесту…</string>
-    <string name="touch_self_suc">Перевірка пройшла успішно</string>
     <string name="tp_color">Колір TP:</string>
-    <string name="tp_rawdate">TP Rawdata(ITO)</string>
-    <string name="tp_rawdate_summery">Тест TP Rawdata(ITO), не торкатися екрану під час тестування</string>
     <string name="tp_version">Версія TP:</string>
-    <string name="transmitter_receiver_confirm">Ти чула цей звук?</string>
-    <string name="tx_max_power_result">ВІДПРАВЛЕНО</string>
-    <string name="unlock">Розблокувати</string>
-    <string name="unplug_headset">Будь ласка, вийміть гарнітуру</string>
     <string name="verified_boot_lock">Заблокувати</string>
     <string name="verified_boot_unlock">Розблокований</string>
     <string name="verify">Перевірка</string>
     <string name="vibrator_change">Виберіть режим вібрації</string>
-    <string name="vibrator_test">Перевірка вібрації</string>
-    <string name="vibrator_test_summary">"Довга або коротка вібрація зустрічаються в тесті
-Будь ласка, виберіть правильну кнопку відповідно до різних умов вібрації"</string>
-    <string name="wait_test">очікування тесту</string>
     <string name="waiting">Зачекайте 4 секунди</string>
-    <string name="yes">Так</string>
 </resources>

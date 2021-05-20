@@ -400,6 +400,7 @@
     <string name="search_stopwatch_keywords">Секундомір</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Час;Світовий годинник;Годинник</string>
+    <string name="select_operation">Вибрати</string>
     <string name="send">Відправити</string>
     <string name="set_alarm">Виберіть час</string>
     <string name="set_alarm_choose_ringtone">Виберіть мелодію</string>
@@ -415,6 +416,7 @@
     <string name="shortcut_stop_watch">Запустити секундомір</string>
     <string name="shut_down_keep_screen">"Екран не буде увімкнено"</string>
     <string name="shutdown_alarm_alert_enable_summary">Будильник спрацює, якщо він встановлений не менше ніж на 10 хвилин пізніше виключення пристрою</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Увімкніть для налаштування будильників при вимкненому пристрої. Лише будильники встановлені як мінімум на %d хвилин після вимкнення пристрою буде вимкнено.</string>
     <string name="shutdown_alarm_alert_title">Спрацювання при вимкненому пристрої</string>
     <string name="shutdown_alarm_disable_summary">"Будильник не буде дзвонити після вимикання пристрою"</string>
     <string name="shutdown_alarm_enable_summary">"Будильник буде дзвонити, якщо час дзвінка не менше ніж на 10 хвилин пізніше моменту відключення пристрою"</string>

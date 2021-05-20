@@ -1320,6 +1320,8 @@
     <string name="mobile_network_settings_not_available">Налаштування мобільної мережі недоступні для цього користувача</string>
     <string name="mobile_networks">Налаштування мобільної мережі</string>
     <string name="mobile_property">Властивості мобільної мережі</string>
+    <string name="mobile_special_network_optimization_config_summary">Коли мережа аномальна, спробуйте автоматично виправити</string>
+    <string name="mobile_special_network_optimization_config_title">Спеціальна оптимізація мережі</string>
     <string name="mock_location_app">Вибрати додаток для фіктивних місцезнаходжень</string>
     <string name="mock_location_app_not_set">Додаток для фіктивних місцезнаходжень не вибрано</string>
     <string name="mock_location_app_set">Додаток для фіктивних місцезнаходжень: %1$s</string>
@@ -2061,6 +2063,10 @@ SIM-картка буде заблокована при наступній не�
     <string name="smart_forwarding_settings_menu_summary">"Завжди переадресовувати дзвінки на доступний номер"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Переконайтеся, що введений номер правильний. В іншому випадку ви не зможете відправляти або отримувати SMS. Зв'яжіться з вашим оператором для підтвердження номера SMSC."</string>
+    <string name="softap_beacon_protection">Увімкнути захист SoftAp маяка</string>
+    <string name="softap_beacon_protection_summary">Увімкнути захист від маяку SoftAp використовуючи точку доступу</string>
+    <string name="softap_ocv">Увімкнути SoftAp OCV</string>
+    <string name="softap_ocv_summary">Увімкнути SoftAp OCV використовуючи точку доступу</string>
     <string name="speed_label_fast">Швидка</string>
     <string name="speed_label_medium">Середня</string>
     <string name="speed_label_okay">ОК</string>
@@ -2459,6 +2465,8 @@ SIM-картка буде заблокована при наступній не�
     <string name="wifi_hand_sel_wapi_cert">Сертифікат WAPI</string>
     <string name="wifi_limited_connection">Обмежене з’єднання</string>
     <string name="wifi_metered_label">З тарифікацією трафіку</string>
+    <string name="wifi_new_network_auto_connection">SSID сітка для автопідключення</string>
+    <string name="wifi_new_network_auto_connection_summary">Увімкнено автоматичне підключення до нових облікових даних WPA/WPA2&lt;unk&gt; PSK 5GHz SSID з поточним підключеним WPA/WPA2&lt;unk&gt; PSK 2GHz SSID на SSID і BSSID частковий збіг</string>
     <string name="wifi_no_internet">Немає доступу до Інтернету</string>
     <string name="wifi_no_internet_no_reconnect">"Не під’єднуватиметься автоматично"</string>
     <string name="wifi_not_in_range">Не в діапазоні</string>
@@ -2490,6 +2498,8 @@ SIM-картка буде заблокована при наступній не�
 Сховище облікових даних може не активувати"</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Сертифікат користувача</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‐ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Увімкнути роумінг між різними SSID WPA/WPA2&lt;unk&gt; PSK APK-застосунками з тією самою MAC-адресою</string>
     <string name="wificall_switch_summary">Використовувати Wi-Fi для здійснення та прийому дзвінків</string>
     <string name="wificall_switch_title">Виклики через Wi-Fi</string>
     <string name="wild_prompt_str">Замінити довільний символ на</string>
