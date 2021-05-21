@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Натисніть і утримуйте кнопку у кейсі протягом %1$d секунд</item>
-        <item quantity="one">Натисніть і утримуйте кнопку на кейсі протягом %1$d секунд</item>
-        <item quantity="few">Натисніть і утримуйте кнопку у кейсі протягом %1$d секунд</item>
-        <item quantity="many">Натисніть і утримуйте кнопку у кейсі протягом %1$d секунд</item>
+        <item quantity="other">Натисніть та утримуйте кнопку на футлярі впродовж %1$d секунд</item>
+        <item quantity="one">Натисніть та утримуйте кнопку на футлярі впродовж %1$d секунди</item>
+        <item quantity="few">Натисніть та утримуйте кнопку на футлярі впродовж %1$d секунд</item>
+        <item quantity="many">Натисніть та утримуйте кнопку на футлярі впродовж %1$d секунд</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">Натисніть та утримуйте будь-яку сенсорну панель на навушниках протягом %1$d сек</item>
@@ -13,10 +13,10 @@
         <item quantity="many">Натисніть та утримуйте будь-яку сенсорну панель на навушниках протягом %1$d сек</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Натисніть і утримуйте для скидання на %1$d сек</item>
-        <item quantity="one">Натисніть і утримуйте для %1$d сек, щоб скинути</item>
-        <item quantity="few">Натисніть і утримуйте для скидання на %1$d сек</item>
-        <item quantity="many">Натисніть і утримуйте для скидання на %1$d сек</item>
+        <item quantity="other">Натисніть та утримуйте протягом %1$d сек для скидання</item>
+        <item quantity="one">Натисніть та утримуйте протягом %1$d сек для скидання</item>
+        <item quantity="few">Натисніть та утримуйте протягом %1$d сек для скидання</item>
+        <item quantity="many">Натисніть та утримуйте протягом %1$d сек для скидання</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Утримуйте кнопку протягом %1$s сек, коли пристрій вимкнено</item>

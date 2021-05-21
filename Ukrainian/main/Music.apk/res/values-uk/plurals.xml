@@ -223,16 +223,16 @@
         <item quantity="other">Щойно</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d спостерігачів</item>
-        <item quantity="one">%d підписників</item>
-        <item quantity="few">%d спостерігачів</item>
-        <item quantity="many">%d спостерігачів</item>
+        <item quantity="other">%d послідовників</item>
+        <item quantity="one">%d послідовник</item>
+        <item quantity="few">%d послідовника</item>
+        <item quantity="many">%d послідовників</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Стежити за %d людьми</item>
-        <item quantity="one">Відстежується %d людина</item>
-        <item quantity="few">Стежити за %d людьми</item>
-        <item quantity="many">Стежити за %d людьми</item>
+        <item quantity="other">%d людей в підписках</item>
+        <item quantity="one">%d людина в підписках</item>
+        <item quantity="few">%d людини в підписках</item>
+        <item quantity="many">%d людей в підписках</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Вибрано %d елементів</item>

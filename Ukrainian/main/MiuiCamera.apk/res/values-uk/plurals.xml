@@ -157,16 +157,16 @@
         <item quantity="many">%1$s хв</item>
     </plurals>
     <plurals name="pref_live_duration_prompt">
-        <item quantity="other">Запис %d секунд</item>
-        <item quantity="one">Запис %d секунду</item>
-        <item quantity="few">Запис %d секунд</item>
-        <item quantity="many">Запис %d секунд</item>
+        <item quantity="other">Записати %d сек</item>
+        <item quantity="one">Записати %d сек</item>
+        <item quantity="few">Записати %d сек</item>
+        <item quantity="many">Записати %d сек</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">Ви можете заморозити відео до %d тем.</item>
-        <item quantity="one">Ви можете заморозити відео лише за допомогою %d теми.</item>
-        <item quantity="few">Ви можете заморозити відео до %d тем.</item>
-        <item quantity="many">Ви можете заморозити відео до %d тем.</item>
+        <item quantity="other">Записувати відео із зупинкою часу можливо тільки з %d людбми в кадрі.</item>
+        <item quantity="one">Записувати відео із зупинкою часу можливо тільки з %d людиною в кадрі.</item>
+        <item quantity="few">Записувати відео із зупинкою часу можливо тільки з %d людьми в кадрі.</item>
+        <item quantity="many">Записувати відео із зупинкою часу можливо тільки з %d людьми в кадрі.</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s фото</item>

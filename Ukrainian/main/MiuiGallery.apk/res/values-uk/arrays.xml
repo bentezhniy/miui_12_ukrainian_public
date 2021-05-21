@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="acc_category_color_description">
-        <item>Білі</item>
+        <item>Білий</item>
         <item>Темно-синій</item>
         <item>Світло-синій</item>
         <item>Червоний</item>
@@ -158,41 +158,41 @@
         <item></item>
         <item>Дозвілля</item>
         <item>Бриз</item>
-        <item>Мрії</item>
+        <item>Фантазії</item>
         <item>Хмари</item>
         <item>Думки</item>
-        <item>Бюд</item>
-        <item>Метаморфоз</item>
+        <item>Паросток</item>
+        <item>Метаморфоза</item>
         <item>Глибина</item>
         <item>Відображення</item>
-        <item>Мінімаліст</item>
+        <item>Мінімалізм</item>
         <item>Таємниця</item>
-        <item>Fog</item>
+        <item>Туман</item>
     </string-array>
     <string-array name="magic_effects_description">
-        <item>Тканини в ескізи</item>
-        <item>Шрифти водяного кольору</item>
-        <item>Кіберпанк-ретро</item>
-        <item>Неправильно розташовані вертикальні сегменти</item>
-        <item>Hazy blur</item>
-        <item>Футуристичне почуття</item>
+        <item>Перетворіть фон у скетч</item>
+        <item>Фон у акварельному стилі</item>
+        <item>Кіберпанк ретро</item>
+        <item>Зміщені вертикальні сегменти</item>
+        <item>Розмиття</item>
+        <item>Футуристичний стиль</item>
     </string-array>
     <string-array name="magic_effects_title">
-        <item>Ескіз</item>
-        <item>Водні розмиви</item>
+        <item>Малюнок</item>
+        <item>Акварель</item>
         <item>RGB</item>
-        <item>Жалюзі</item>
-        <item>Туманне вікно</item>
-        <item>Техніка</item>
+        <item>Завіси</item>
+        <item>Затуманене вікно</item>
+        <item>Технології</item>
     </string-array>
     <string-array name="magic_effects_video_titles">
         <item></item>
-        <item>Кольорові контури</item>
-        <item>Пунктирні контури</item>
-        <item>Флуоресцентний обрис</item>
-        <item>Кольорова тінь</item>
-        <item>Електричні хвилі</item>
-        <item>Поточна версія</item>
+        <item>Колірний контур</item>
+        <item>Пунктирний контур</item>
+        <item>Флуоресцентний контур</item>
+        <item>Колірна тінь</item>
+        <item>Електрична хвиля</item>
+        <item>Потік</item>
         <item>Хвилі</item>
         <item>Частинки</item>
         <item>Текст</item>
@@ -200,83 +200,83 @@
         <item>Янгол</item>
     </string-array>
     <string-array name="magic_idp_size_category">
-        <item>Загальні налаштування</item>
-        <item>Подорож</item>
-        <item>Праця</item>
-        <item>Документи</item>
-        <item>Освіта</item>
-        <item>Іспити</item>
+        <item>General</item>
+        <item>Travel</item>
+        <item>Work</item>
+        <item>Documents</item>
+        <item>Education</item>
+        <item>Exams</item>
     </string-array>
     <string-array name="magic_idp_size_category_certificates">
-        <item>Соціальне забезпечення</item>
-        <item>Заява про здоров\'я</item>
-        <item>Медичне страхування</item>
+        <item>Social security</item>
+        <item>Statement of health</item>
+        <item>Medical insurance</item>
         <item>ID</item>
-        <item>Дозвіл на проживання</item>
+        <item>Residence permit</item>
     </string-array>
     <string-array name="magic_idp_size_category_common">
         <item></item>
         <item>One cun</item>
         <item>Teo cuns</item>
-        <item>Маленький один приціл</item>
-        <item>Менші дві цуни</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
     </string-array>
     <string-array name="magic_idp_size_category_education">
-        <item>Програма для прийняття завдань</item>
-        <item>Учні мережі</item>
-        <item>Студентська мережа в початкових школах</item>
-        <item>Мережевий профіль учня</item>
-        <item>Вступ до університету</item>
+        <item>Admission application</item>
+        <item>Student network</item>
+        <item>Student network for primary schools</item>
+        <item>Student network profile</item>
+        <item>University admission</item>
         <item>NCEE</item>
-        <item>Поновити</item>
+        <item>Resume</item>
     </string-array>
     <string-array name="magic_idp_size_category_examination">
-        <item>Коледж англійський тест 1</item>
-        <item>Коледж англійський тест 2</item>
-        <item>Коледж англійський тест 3</item>
-        <item>Тест навчального закладу 1</item>
-        <item>Тест навчального закладу 2</item>
-        <item>Степінь англійської мови</item>
-        <item>ПЕТ для коледжів</item>
-        <item>ОЧТ, рівень 3</item>
-        <item>Ознака Національного Комп\'ютерного Рангу 1</item>
-        <item>Ознака Національного Комп\'ютерного Рангу 2</item>
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Первинне та середнє сертифікація вчителів шкіл</item>
-        <item>Сертифікація вчителя</item>
-        <item>"Водійське посвідчення"</item>
-        <item>Дозволено інструкцію</item>
-        <item>Дозволити електронний посібник</item>
-        <item>Національні судові обстеження</item>
-        <item>Сертифікат конструктора першого класу</item>
-        <item>Сценарій конструктора другого класу</item>
-        <item>Молодіжна назва бухгалтерського обліку іспиту</item>
-        <item>Сертифікований публічний бухгалтер</item>
-        <item>Дозвіл на посвідчення керівництва Пекіном</item>
-        <item>Проміжна назва бухгалтерського обліку обстеження</item>
-        <item>Старший огляд назви бухгалтерського обліку</item>
-        <item>Сертифікат кваліфікації обліку</item>
-        <item>Ознака сертифікованого публічного бухгалтера</item>
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Driver's license"</item>
+        <item>Guide permit</item>
+        <item>Electronic guide permit</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
-        <item>Сполучені Штати Америки</item>
+        <item>United States</item>
         <item>Vietnam</item>
-        <item>Японія</item>
-        <item>Гонконг і Макао</item>
-        <item>Південна Корея</item>
-        <item>Таїланд (турист)</item>
-        <item>Таїланд (на місці)</item>
-        <item>Індія</item>
+        <item>Japan</item>
+        <item>Hong Kong and Macau</item>
+        <item>South Korea</item>
+        <item>Thailand (tourist)</item>
+        <item>Thailand (on arrival)</item>
+        <item>India</item>
         <item>Israel</item>
-        <item>Тайвань</item>
-        <item>Малайзія</item>
-        <item>Нова Зеландія</item>
-        <item>Італія</item>
-        <item>Аргентина</item>
-        <item>Бразилія</item>
-        <item>Ісландія</item>
-        <item>Кенія</item>
+        <item>Taiwan</item>
+        <item>Malaysia</item>
+        <item>New Zealand</item>
+        <item>Italy</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Iceland</item>
+        <item>Kenya</item>
     </string-array>
     <string-array name="month">
         <item>Січень</item>

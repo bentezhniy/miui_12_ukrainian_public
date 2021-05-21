@@ -57,8 +57,8 @@
     <string name="dialog_miplay_permission_positive">Налаштування</string>
     <string name="dialog_miplay_permission_title">Необхідні дозволи</string>
     <string name="dialog_nfc_cast_wifi_off">Увімкніть Wi-Fi для трансляції через NFC. Увімкнути зараз?</string>
-    <string name="dialog_no_device_message">&lt;Data&gt;1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ &lt;a href=milink://com.milink.service/specification&gt;Довідка&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ &lt;a href=milink://com.milink.service/specification&gt;Довідка&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message">&lt;Data&gt;1. Підключіть телефон та телевізор до однієї і тієї ж мережі Wi-Fi.&lt;br&gt;&lt;br&gt;2. На деяких моделях телевізорів ця функція доступна тільки при увімкненому дзеркальному екрані. Щоб дізнатися більше, перегляньте розділ &lt;a href=milink://com.milink.service/specification&gt;\"Довідка\"&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connect both your phone and TV to the same WLAN network.&lt;br&gt;&lt;br&gt;2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification&gt;\"Help\"&lt;/a&gt; to learn more.&lt;/Data&gt;</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Транслюйте фото, відео та музику</string>
     <string name="dialog_open_wifi_bt">Увімк</string>
@@ -85,12 +85,12 @@
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d.MM</string>
+    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">d.MM</string>
+    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -249,23 +249,23 @@
     <string name="nfc_connect_failed_toast">"Помилка трансляції. Повторіть спробу."</string>
     <string name="night">Вечір</string>
     <string name="noon">Полудень</string>
-    <string name="normal_device_desc">"Пристрої, які ви підключили, але не позначені як надійні"</string>
-    <string name="normal_device_desc_limit">"Пристрої, які ви підключили, але не позначені як надійні"</string>
-    <string name="normal_device_none">Тут немає прикріплених раніше пристроїв</string>
-    <string name="normal_device_title">Немає довірених пристроїв</string>
+    <string name="normal_device_desc">"Пристрої, до яких ви підключатися, але не помітили, як такі, яким можна довіряти"</string>
+    <string name="normal_device_desc_limit">"Пристрої, до яких ви підключатися, але не помітили, як такі, яким можна довіряти"</string>
+    <string name="normal_device_none">Відсутні раніше підключені пристрої</string>
+    <string name="normal_device_title">Не є довіреними пристроєм</string>
     <string name="not_set">Не налаштовано</string>
-    <string name="notification_cast_desc">Відтворення…</string>
+    <string name="notification_cast_desc">Трансляція…</string>
     <string name="notification_desc_scanning">Пошук пристроїв неподалік…</string>
     <string name="notification_rc_title">Помічник XiaoMi TV</string>
     <string name="notification_show_more">Натисніть для перегляду інших функцій</string>
     <string name="open_game_accelerate">Увімкнути Game Turbo</string>
-    <string name="path_setting_cast">З\'єднання &amp; спільний доступ</string>
-    <string name="path_setting_cast_demo">З\'єднання &amp; спільне/Постань/Демос</string>
-    <string name="path_setting_cast_demo_document">З\'єднання &amp; спільна/Пост/Демос/Документи</string>
-    <string name="path_setting_cast_demo_gallery">З\'єднання &amp; обмін/Cast/Demos/Photos &amp; відео</string>
-    <string name="path_setting_cast_demo_game">З\'єднання &amp; спільний/Міст/Демос-Ігри</string>
-    <string name="path_setting_cast_feature">З\'єднання &amp; спільний/Каст/Спеціальні можливості</string>
-    <string name="path_setting_cast_help">З\'єднання &amp; спільне/Каст/Допомога</string>
+    <string name="path_setting_cast">Підключення та загальний доступ/Трансляція</string>
+    <string name="path_setting_cast_demo">Підключення та загальний доступ/Трансляція/Демо</string>
+    <string name="path_setting_cast_demo_document">Підключення та загальний доступ/Трансляція/Демо/Документи</string>
+    <string name="path_setting_cast_demo_gallery">Підключення та загальний доступ/Трансляція/Демо/Фото та відео</string>
+    <string name="path_setting_cast_demo_game">Підключення та загальний доступ/Трансляція/Демо/Ігри</string>
+    <string name="path_setting_cast_feature">Підключення та загальний доступ/Трансляція/Спеціальні функції</string>
+    <string name="path_setting_cast_help">Підключення та загальний доступ/Трансляція/Довідка</string>
     <string name="pm">ПО</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
     <string name="privacy_agree">Дозволити</string>
@@ -414,12 +414,12 @@
     <string name="toast_turn_off_hotspot_before_cast">Вимкніть точку доступу перед трансляцією</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
-    <string name="trust_device_desc">"Ці пристрої будуть з'являтися тут спочатку, коли вони поруч"</string>
-    <string name="trust_device_dialog_desc"><Data>%s з\'явиться на перший наявних пристроях, коли його поруч позначите на своєму пристрої довіреними.&lt;br&gt;&lt;br&gt;Ви можете &lt;a href=milink://com.milink.service/trust&gt;керувати надійними пристроями&lt;/a&gt; в Налаштуваннях.\"</Data></string>
-    <string name="trust_device_dialog_pos">Довіра</string>
-    <string name="trust_device_dialog_title">Довіряти цим пристроєм?</string>
-    <string name="trust_device_manager">Керування довіреними пристроями</string>
-    <string name="trust_device_none">Тут немає довірених пристроїв</string>
+    <string name="trust_device_desc">"Ці пристрої будуть з'явлися тут, коли вони знаходяться поблизу"</string>
+    <string name="trust_device_dialog_desc">&lt;Data&gt;%s буде з\'являтися серед доступних пристроїв, якщо ви помітите його, як такий, якому можна довіряти.&lt;br&gt;&lt;br&gt;Ви можете &lt;a href=milink://com.milink.service/trust&gt;керувати довіреними пристроями &lt;/a&gt; у Налаштуваннях.&lt;/Data&gt;</string>
+    <string name="trust_device_dialog_pos">Довіряти</string>
+    <string name="trust_device_dialog_title">Довіряти цьому пристрою?</string>
+    <string name="trust_device_manager">Керувати довіреними пристроями</string>
+    <string name="trust_device_none">Довірені пристрої відсутні</string>
     <string name="trust_device_title">Довірені пристрої</string>
     <string name="tuesday">Вівторок</string>
     <string name="tuesday_short">Вт</string>

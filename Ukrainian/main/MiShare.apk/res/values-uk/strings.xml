@@ -70,7 +70,7 @@
     <string name="error_ap_or_screen_already_hosting">"Неможливо відправити зображення на інший пристрій під час трансляції або використання точки доступу."</string>
     <string name="error_device_lost">Схоже, що інший пристрій поза зоною досяжності. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="error_has_occurred">Сталася помилка</string>
-    <string name="error_mirror_working">"Не вдається поділитися елементами під час обміну екраном"</string>
+    <string name="error_mirror_working">"Неможливо передавати дані під час дублювання екрану"</string>
     <string name="error_msg_network_error">Сталася помилка мережі, повторіть спробу.</string>
     <string name="error_permission_denied">Щоб мати можливість використовувати цю функцію, надайте Mi Поділитися з усіма необхідними дозволами в налаштуваннях.</string>
     <string name="error_receive_file_cannot_read">"Не вдалося отримати файл"</string>
@@ -82,7 +82,7 @@
     <string name="error_receive_user_interrupted">Інша особа скасувала передачу</string>
     <string name="error_refuse_receive">Передачу було скасовано</string>
     <string name="error_remote_busy">Схоже, що інший пристрій зайнятий. Зачекайте хвилинку та повторіть спробу.</string>
-    <string name="error_remote_mirror_working">"Інший пристрій не може приймати елементи під час спільного використання екрану"</string>
+    <string name="error_remote_mirror_working">"Під час дублювання екрану інші пристрої не можуть отримувати доступ до об'єктів"</string>
     <string name="error_self_busy">Пристрій зайнятий. Зачекайте хвилинку або дві та повторіть спробу.</string>
     <string name="error_send_file_cannot_read">"Не вдалося відправити файл, спробуйте пізніше."</string>
     <string name="error_send_file_no_enough_space">"Не вдалося відправити. Недостатньо місця на іншому пристрої."</string>
@@ -117,10 +117,10 @@
     <string name="friday_shortest">Пт</string>
     <string name="functions_are_being_developed">Ця функція скоро стане доступною. Залишайтеся з нами!</string>
     <string name="go_to_settings">Налаштування</string>
-    <string name="guide_summary_1">Інший користувач може натиснути на перемикач в заголовку панелі сповіщень</string>
-    <string name="guide_summary_2">"Виберіть пристрій, в який ви хочете надіслати предмети та торкніться його піктограми"</string>
-    <string name="guide_title_1">Увімкнути Mi Share на обох пристроях</string>
-    <string name="guide_title_2">Виберіть пристрій для надсилання</string>
+    <string name="guide_summary_1">Інший користувач може натиснути на перемикач у Панелі сповіщень</string>
+    <string name="guide_summary_2">"Виберіть пристрій, якому ви хочете надіслати дані, і натисніть на його іконку."</string>
+    <string name="guide_title_1">Відкрийте Mi Share на обох пристроях</string>
+    <string name="guide_title_2">Виберіть пристрій для передачі</string>
     <string name="help">"Не можете знайти пристрій?"</string>
     <string name="help_content">"Якщо ви не можете знайти пристрій, то попросіть іншу особу увімкнути Mi Share."</string>
     <string name="hide">Приховати</string>
@@ -133,9 +133,8 @@
     <string name="midnight">Ніч</string>
     <string name="mishare_folder_in_file_explorer">Провідник &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Сповіщення про процеси Mi Share</string>
-    <string name="mishare_settings_summary_international">"Ви можете використовувати Mi Share для відправки елементів на сусідні пристрої.
-Mі Share сумісний з телефонами Mi і Redmi.
-OPPO, vivo, realme та інші бренди скоро також будуть сумісні з Mi Share. Ви можете перевірити список сумісних пристроїв на нашому сайті."</string>
+    <string name="mishare_settings_summary_international">"Mi Share дозволяє переносити дані на інші пристрої поблизу по бездротовій мережі.
+Ця функція підтримується OPPO, vivo, realme та іншими смартфонами. Зі списком сумісних пристроїв можна ознайомитися на офіційних веб-сайтах відповідних виробників."</string>
     <string name="mishare_state_protection">Автоматично вмикати Mi Share</string>
     <string name="mishare_state_protection_summary">Автоматично вмикати Mi Share, коли Bluetooth або Wi-Fi увімкнені</string>
     <string name="mishare_state_protection_summary_china">Автоматично вмикати Mi Share, коли Bluetooth або WLAN увімкнені</string>
@@ -154,13 +153,13 @@ OPPO, vivo, realme та інші бренди скоро також будуть
     <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
     <string name="miuix_appcompat_select_item">Виберіть предмети</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потягніть вниз для оновлення</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Відпустіть, щоб оновити</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Просто секунда…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">День дурня</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Більше нічого немає"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Більше нічого немає"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Хвилинку…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
     <string name="monday">Понеділок</string>
     <string name="monday_short">Mon</string>
@@ -328,10 +327,10 @@ OPPO, vivo, realme та інші бренди скоро також будуть
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
     <string name="tile_state_active">Увімк</string>
-    <string name="tile_state_inactive">Вимкнено</string>
-    <string name="tile_state_unavailable">Недоступний</string>
+    <string name="tile_state_inactive">Вимк</string>
+    <string name="tile_state_unavailable">Недоступно</string>
     <string name="time_picker_dialog_title">Установити час</string>
-    <string name="tips_prompt_enable_midrop">Діліться файлами з пристроями неподалік</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Звіт</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
