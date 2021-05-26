@@ -315,8 +315,7 @@
     <string name="permission_group_title_privacy_related">Конфіденційність</string>
     <string name="permission_group_title_sensitive_privacy_related">Конфіденційні дозволи</string>
     <string name="permission_group_title_settings_related">Налаштування</string>
-    <string name="permission_list_include">"Включаючи наступне:
-"</string>
+    <string name="permission_list_include">Включаючи в себе наступні</string>
     <string name="permission_reminders">Нагадування про дозволи</string>
     <string name="permission_warning_template">Дозволити програмі %1$s %2$s?</string>
     <string name="permission_warning_template_ask">Дозволити програмі %1$s такі дозволи?</string>

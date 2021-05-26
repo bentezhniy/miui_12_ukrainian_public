@@ -627,7 +627,7 @@ dd/M"</string>
     <string name="recently_used">Нещодавні</string>
     <string name="recommend_trigger">Персоналізовані рекомендації</string>
     <string name="recommend_trigger_summary">Увімкніть для отримання рекомендацій на основі ваших налаштувань</string>
-    <string name="refresh_footer_all_loaded">"Більше нічого немає."</string>
+    <string name="refresh_footer_all_loaded">"На даний момент це все."</string>
     <string name="refresh_footer_failed">"Не вдалося завантажити інформацію"</string>
     <string name="refresh_footer_finish">Завантажено успішно</string>
     <string name="refresh_footer_loading">Секунду…</string>
@@ -714,7 +714,7 @@ dd/M"</string>
     <string name="resource_detail_update_log_title">Що нового</string>
     <string name="resource_detail_window_title">Компонент: %1$s</string>
     <string name="resource_download">Завантажити</string>
-    <string name="resource_download_notification_title_one">Завантажено %1$s успішно</string>
+    <string name="resource_download_notification_title_one">Завантаження теми завершено</string>
     <string name="resource_download_trial">Спробувати безкоштовно</string>
     <string name="resource_downloaded_title">Завантажені</string>
     <string name="resource_downloading">Завантаження</string>
@@ -834,7 +834,7 @@ dd/M"</string>
     <string name="resource_trial_end_purchase">Придбати</string>
     <string name="resource_trial_end_restore">Завершити</string>
     <string name="resource_trial_end_time">(пробний період до %1$s)</string>
-    <string name="resource_trial_end_time_format">hh:mma d MMMM</string>
+    <string name="resource_trial_end_time_format">hh:mma dd MMMM</string>
     <string name="resource_trial_end_title">Пробний період закінчено</string>
     <string name="resource_trial_fail_cancel">OK </string>
     <string name="resource_trial_fail_go_settings">Налаштування</string>

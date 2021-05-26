@@ -3,7 +3,7 @@
     <string name="acousticguitar">Акустична гітара</string>
     <string name="africaanimals_preview">Савана</string>
     <string name="alarmclock">Будильник</string>
-    <string name="amazonanimals_preview">Дощовий ліс</string>
+    <string name="amazonanimals_preview">Тропіки</string>
     <string name="android_ringtone_default_with_actual">Мелодія за замовчуванням (%1$s)</string>
     <string name="android_ringtone_silent">Без звуку</string>
     <string name="android_ringtone_unknown">Невідома мелодія</string>
@@ -13,7 +13,7 @@
     <string name="australiaanimals_preview">Австралія</string>
     <string name="beep">Сигнал</string>
     <string name="bells">Дзвоники</string>
-    <string name="birdcicada_preview">Природа - Птахи та світлячки</string>
+    <string name="birdcicada_preview">Птахи та світлячки</string>
     <string name="blues">Блюз</string>
     <string name="bottle">Пляшка</string>
     <string name="breeze">Вітерець</string>
@@ -124,7 +124,7 @@ mm"</string>
     <string name="southwestmountain_preview">Гори</string>
     <string name="spaceage">Космос</string>
     <string name="spring">Пружина</string>
-    <string name="stoneskimming_preview">Світлові кроки</string>
+    <string name="stoneskimming_preview">Легкі кроки</string>
     <string name="sunrise">Світанок</string>
     <string name="surprise">Сюрприз</string>
     <string name="swoosh">Свист</string>

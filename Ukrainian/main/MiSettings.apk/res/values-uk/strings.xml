@@ -62,6 +62,8 @@
     <string name="atarctic_shag">Антарктичний синьоокий баклан</string>
     <string name="australia_introduction">Австралійський континент - це рай для рідкісних ендемічних видів.</string>
     <string name="australian_magpie">Australian magpie</string>
+    <string name="authorization_btn_text">Старт</string>
+    <string name="authorization_tips">Потрібні дозволи</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">Назад</string>
     <string name="bear_info">Ведмеді є найбільшими наземними хижаками. Вони живуть в холодних регіонах і відомі своїм гострим нюхом.</string>
@@ -147,6 +149,8 @@
     <string name="dc_light_hint_other">Затемнення DC може вплинути на частоту оновлення та на відображення деяких елементів.</string>
     <string name="dc_lignt_enable_hint">Режим антимерехтіння встановить частоту оновлення екрану на 60 Гц. Перейти в режим антимерехтіння?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
+    <string name="devices_type_pad">документ</string>
+    <string name="devices_type_phone">телефон</string>
     <string name="display_description">Збільшення об\'єктів та тексту, зменшення візуального перевантаження</string>
     <string name="display_title">Збільшення об\'єктів</string>
     <string name="dynamic_ringtone_desc">"Ми дослідили різні екосистеми та відтворили їх звуки. Досліджуйте звуки природи разом з нами!"</string>

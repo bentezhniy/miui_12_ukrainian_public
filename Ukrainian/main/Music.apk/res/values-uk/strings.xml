@@ -93,6 +93,7 @@
     <string name="app_description_content">"Музика - це системна програма, яка включає в себе музичний програвач і дозволяє управляти аудіофайлами. Після видалення ярлика на робочому столі ви як і раніше зможете відтворювати аудіофайли на пристрої."</string>
     <string name="app_description_title">Видалити програму \"Музика\" з робочого столу?</string>
     <string name="app_label">Завантаження</string>
+    <string name="app_name">Налаштування</string>
     <string name="app_permission_confirm">Зрозуміло</string>
     <string name="app_permission_optional">Необов\'язкові дозволи</string>
     <string name="app_permission_require">Обов\'язкові дозволи</string>
@@ -143,11 +144,14 @@
     <string name="cancel_running_download">Скасувати</string>
     <string name="cannot_download_to_sdcard_hint">"Неможливо завантажити об'єкти на SD-карту через обмеження інтелектуальних прав. Об'єкти будуть завантажені до внутрішнього сховища."</string>
     <string name="change_download_quality">Змінити якість завантаження</string>
-    <string name="character_counter_content_description">Перевищено ліміт символу %1$d з %2$d</string>
+    <string name="character_counter_content_description">Символи увійшли %1$d з %2$d</string>
+    <string name="character_counter_overflowed_content_description">Перевищено ліміт символу %1$d з %2$d</string>
     <string name="checking_new_version">Перевірка оновлень…</string>
+    <string name="chip_text">Текст ip</string>
     <string name="choose_download_quality">Виберіть якість завантаження</string>
     <string name="choose_music_lang_pref">Вибрати потрібну мову пісень</string>
     <string name="choose_stream_quality">Виберіть якість музики</string>
+    <string name="clear_text_end_icon_content_description">Очистити текст</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="click_and_watch_video_tip">Натисніть для відтворення кліпу</string>
     <string name="click_to_add_album_cover_and_lyric">Натисніть, щоб додати обкладинку або текст пісні</string>
@@ -159,6 +163,9 @@
     <string name="columbus_player_close_video">ЗАКРИТИ ВІДЕО</string>
     <string name="columbus_player_install_now">ВСТАНОВИТИ Зараз</string>
     <string name="columbus_player_learn_more">Дізнатися більше</string>
+    <string name="columbus_player_speed_title">Пропустити відео?</string>
+    <string name="columbus_player_speed_video">Пропустити VIDEO</string>
+    <string name="columbus_player_unit_sec">сек</string>
     <string name="common_google_play_services_enable_button">Увімкнути</string>
     <string name="common_google_play_services_enable_text">"Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play."</string>
     <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
@@ -363,6 +370,7 @@
     <string name="equalizer">Еквалайзер</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">Бі-Сі</string>
+    <string name="error_icon_content_description">Помилка</string>
     <string name="error_message_no_internet_connection">Не вдалося підключитися до Інтернету. Будь ласка, перевірте підключення до Інтернету і повторіть спробу.</string>
     <string name="error_message_something_went_wrong">Щось пішло не так, будь ласка, спробуйте ще раз.</string>
     <string name="error_not_support">Не підтримується</string>
@@ -409,6 +417,7 @@
     <string name="exo_track_unknown">Невідомо</string>
     <string name="expand_button_title">Додатково</string>
     <string name="expired">Термін дії закінчився</string>
+    <string name="exposed_dropdown_menu_content_description">Показувати випадаюче меню</string>
     <string name="facebook_not_installed">Спочатку встановіть Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">"Не вдалося отримати платіжну інформацію"</string>
     <string name="fail_to_play">"Не вдається відтворити пісню"</string>
@@ -504,6 +513,7 @@
     <string name="hungama_subscribe_positive_button">Придбати членство PRO</string>
     <string name="hungama_subscribe_title">Членство PRO</string>
     <string name="i_know">OK</string>
+    <string name="icon_content_description">Значок діалогового вікна</string>
     <string name="impunity_declaration_content">Ви повинні прочитати та погодитися з &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=uk_UA\"&gt;Угодою користувача&lt;/a&gt; та &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=uk_UA\"&gt;Політикою конфіденційності&lt;/a&gt; перед використанням продукту.</string>
     <string name="impunity_declaration_ignore">"Більше не показувати"</string>
     <string name="impunity_declaration_negative_text">Вихід</string>
@@ -535,6 +545,7 @@
     <string name="is_scanning">Перевірка накопичувача…</string>
     <string name="is_scanning_support_online">"Перевірка сховища…
 (Поки можна слухати музику онлайн)"</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="joox_account_bind_mi_account">Додати Мі акаунт</string>
     <string name="joox_account_cancel_login">Скасувати</string>
     <string name="joox_account_continue_login">Увійти</string>
@@ -568,6 +579,7 @@
     <string name="joox_auth_title_vip_expired">Термін дії підписки закінчився</string>
     <string name="joox_auth_title_vip_function">Особливості VIP</string>
     <string name="joox_category_artist">Виконавці</string>
+    <string name="joox_category_chart">Графіки</string>
     <string name="joox_category_playlist">Плейлісти</string>
     <string name="joox_category_vip">Фан-центр</string>
     <string name="joox_download_title">Завантаження JOOX</string>
@@ -615,6 +627,8 @@
     <string name="lyric_label">Тексти</string>
     <string name="lyric_open_other_connect">Завантаження текстів за допомогою мобільного інтернету</string>
     <string name="lyric_setting">Налаштування тексту пісні</string>
+    <string name="material_slider_range_end">У діапазоні до кінця,</string>
+    <string name="material_slider_range_start">Стрільбище початок,</string>
     <string name="max_sleep_time">%d</string>
     <string name="menu_title_pause_all">Зупинити все</string>
     <string name="menu_title_resume_all">Запустити все</string>
@@ -705,7 +719,36 @@
     <string name="more_share">Поділитися</string>
     <string name="more_splendid_contents">Ще</string>
     <string name="morning">ДП</string>
+    <string name="mtrl_badge_numberless_content_description">Нове сповіщення</string>
     <string name="mtrl_chip_close_icon_content_description">Вилучити %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Більше %1$d нових сповіщень</string>
+    <string name="mtrl_picker_a11y_next_month">Зміна на наступний місяць</string>
+    <string name="mtrl_picker_a11y_prev_month">Змінити на попередній місяць</string>
+    <string name="mtrl_picker_announce_current_selection">Поточний вибір: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Виберіть дату</string>
+    <string name="mtrl_picker_date_header_unselected">Обрана дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Колона днів: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Невірний формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Приклад: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Використання: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Навігація по року %1$s</string>
+    <string name="mtrl_picker_out_of_range">Поза межами: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата початку - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - дата закінчення</string>
+    <string name="mtrl_picker_range_header_title">Виберіть діапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Початкова дата - дата закінчення</string>
+    <string name="mtrl_picker_save">Зберегти</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата закінчення</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата закінчення</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">р</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Переключитися в режим календаря введення</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Натисніть, щоб вибрати день</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перемкнутись у режим введення тексту</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Натисніть, щоб перейти до вибору року</string>
     <string name="mulit_choice_management">Декілька об\'єктів</string>
     <string name="music_browser_label">Музика</string>
     <string name="music_filter">Фільтр музичних файлів</string>
@@ -721,6 +764,8 @@
     <string name="my_playlist_create_self_playlist">Створити плейлист з вашими улюбленими піснями</string>
     <string name="my_playlist_set_to_private">Сробити приватним</string>
     <string name="my_playlist_set_to_public">Зробити загальним</string>
+    <string name="nav_app_bar_navigate_up_description">Перейти вверх</string>
+    <string name="nav_app_bar_open_drawer_description">Відкрити панель навігації</string>
     <string name="network_disable">"Не вдалося підключитися до мережі"</string>
     <string name="network_error_and_retry">"Не вдалося підключитися, натисніть, щоб повторити спробу"</string>
     <string name="network_request_error">"Не вдалося підключитися до мережі"</string>
@@ -866,10 +911,8 @@
     <string name="privacy_request_desc">&lt;Data&gt;Програмі \"Мі Мізика\" потрібно здійснювати збір необхідної особистої інформації, щоб надавати вам онлайн-потокові сервіси. Ви можете докладніше дізнатися про те, як ми обробляємо інформацію у &lt;a href=\"%1$s\"&gt;Політиці конфіденційності&lt;/a&gt;. Ви можете в будь-який час відкликати свою згоду з Політикою конфіденційності програми \"Мі Музика\" в Налаштуваннях.
 Перед початком використання програми \"Мі Музика\", ознайомтеся і погодьтеся з нашими &lt;a href=\"%2$s\"&gt;Умовами використання&lt;/a&gt; та &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt;.
 Якщо ви не згодні з вищевказаними документами, ви не зможете використовувати деякі функції цієї програми, однак основні її функції залишаться доступними.&lt;/Data&gt;</string>
-    <string name="privacy_request_subtitle">"Ласкаво просимо до програми Mi Музика! Ця програма надає наступні послуги:
-
-- Локальний аудіоплеєр
-
+    <string name="privacy_request_subtitle">"Ласкаво просимо до Mi Music! Цей додаток надає такі послуги:
+- локальний аудіо плеєр
 - Онлайн-потокові сервіси"</string>
     <string name="privacy_request_title">Правила та умови</string>
     <string name="pro_member">PRO підписник</string>
@@ -1137,7 +1180,7 @@
     <string name="title_command_mode">Командний режим</string>
     <string name="title_online_fm_recommend">Рекомендовані FM</string>
     <string name="title_online_recommend">Обрані плейлисти</string>
-    <string name="title_recently_played">Нещодавно відтворені</string>
+    <string name="title_recently_played">Нещодавно зіграні</string>
     <string name="title_search_history">Історія пошуку</string>
     <string name="title_search_hot">Популярні</string>
     <string name="toast_cant_collect_mine_playlist">"Неможливо додати свій плейлист до обраних"</string>

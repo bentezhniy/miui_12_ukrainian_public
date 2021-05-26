@@ -102,8 +102,8 @@
     <string name="alert_dialog_download_progress">"Завантаження програми: "</string>
     <string name="all">Показати все</string>
     <string name="am">ДП</string>
-    <string name="app_description_content">"Mi Video - це системний додаток, що містить локальний відеоплеєр. Проте відтворювати відео файли відео після видалення ярлика головного екрану."</string>
-    <string name="app_description_title">Видалити Mi Video\" з домашнього екрану?</string>
+    <string name="app_description_content">"\"Mi Відео\" - це системна прогарма, яка є локальним програвачем відеофайлів. Після видалення ярлика на робочому столі ви як і раніше зможете відтворювати відеофайли на пристрої."</string>
+    <string name="app_description_title">Видалити програму \"Мі Відео\" з робочого столу?</string>
     <string name="app_name">Mi Відео</string>
     <string name="auth_again">Погодитися</string>
     <string name="auth_fail_warning">Час сесії закінчився. Увійдіть ще раз.</string>
@@ -276,24 +276,24 @@ Mi Video Team"</string>
     <string name="diagnosis_log_sent_format">"Журнали відправлено успішно.
 ID:%s
 Відправте цей код менеджеру."</string>
-    <string name="dialog_disagree_privacychange_info">"Ви не зможете використовувати Mi Відео онлайн-сервіси, якщо не погоджуєтесь на нашу Політику конфіденційності. Торкніться кнопки \"Скасувати\", щоб повернутися назад або \"Не погоджуюсь з правилами продовження та використовувати лише локального гравця."</string>
-    <string name="dialog_disagree_privacychange_title">"Ви не згодні?"</string>
-    <string name="dialog_privacy_change_info">"Ми оновили Mi Video Privacy Policy через зміни в наших послугах. Щоб повністю зрозуміти ваші права як користувача, так і способи використання ваших даних, читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою про користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням застосунку."</string>
+    <string name="dialog_disagree_privacychange_info">"Ви не зможете скористатися онлайн-послугами потокового мовлення Mi Відео, якщо не погодитеся з нашою Політикою конфіденційності. Натисніть \"Скасувати\", щоб повернутися назад, або \"Відхилити\", щоб продовжити і використовувати Mi Відео тільки в якості локального відеопрогравача."</string>
+    <string name="dialog_disagree_privacychange_title">"Не погоджуєтеся?"</string>
+    <string name="dialog_privacy_change_info">"Ми оновили Політику конфіденційності Mi Відео у зв'язку зі змінами в послугах, які ми пропонуємо. Щоб повністю зрозуміти ваші права як Користувача, а також способи як ми використовуємо ваші дані, прочитайте і погодьтеся з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням програми."</string>
     <string name="dialog_privacy_change_title">Оновлення Політики конфіденційності</string>
     <string name="dialog_privacy_info_new2">"Для використання послуг ви повинні погодитися з тим, що %1$s буде збирати, обробляти і використовувати ваші особисті дані. Натиснувши \"Погодитися\", ви підтверджуєте, що ви прочитали та приймаєте нашу &lt;a href=%2$s&gt;Політику конфіденційності&lt;/a&gt;."</string>
     <string name="dialog_privacy_info_new3">"Щоб мати можливість користуватися цією послугою, вам необхідно дозволити %1$sзбирати, обробляти та використовувати вашу особисту інформацію відповідно до Політики конфіденційності. Натискаючи кнопку Згоден нижче, ви погоджуєтеся з &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; та &lt;a href=%3$s&gt;Угодою користувача&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt;Натиснення кнопки Згоден також дозволяє Mi Відео отримувати доступ до списку програм, встановлених на вашому пристрої. З цим дозволом Мi Відео зможе обмінюватися елементами, розуміти, чи встановлено програму на вашому пристрої, яка версія програми встановлена і чи є програма безпечною."</string>
-    <string name="dialog_privacy_info_new4">"Ласкаво просимо до Mi Video! У цьому додатку наведені такі послуги:&lt;br&gt;&lt;/br&gt; - Онлайн потокові служби&lt;br&gt;&lt;/br&gt;- місцевий відеоплеєр&lt;br&gt;&lt;/br&gt;Mi Video потребує збору необхідної особистої інформації, щоб надати вам основні послуги. Ви можете дізнатися, як ми обробляємо інформацію, яку ми збираємо в нашій Політиці конфіденційності. Ви зможете змінити відповідні налаштування в налаштуваннях &gt; Паролі &amp;підписок. Безпека.&lt;br&gt;&lt;/br&gt;Читати і погодитися з нашою &lt;a href=%1$s&gt;Угодою користувача&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt; перед використанням Mi Video."</string>
+    <string name="dialog_privacy_info_new4">"Ласкаво просимо до Mi Відео! Ця програма пропонує наступні послуги:&lt;br&gt;&lt;/br&gt; - онлайн-послуги потокового мовлення&lt;br&gt;&lt;/br&gt; - локальний відеопрогравач&lt;br&gt;&lt;/br&gt;Щоб надавати вам основні послуги, програмі Mi Відео потрібно здійснювати збір необхідної особистої інформації. Ви можете дізнатися про те, як ми використовуємо зібрану інформацію, ознайомившись з нашою Політикою конфіденційності. Ви зможете змінити відповідні налаштування в розділі Налаштування &gt; Паролі та безпека.&lt;br&gt;&lt;/br&gt;Перед використанням Mi Відео ознайомтеся і погодьтеся з нашими&lt;a href=%1$s&gt;Умовами використання&lt;/a&gt; та &lt;a href=%2$s&gt;Політикою конфіденційності&lt;/a&gt;."</string>
     <string name="dialog_privacy_revoke_cancel">Скасувати</string>
-    <string name="dialog_privacy_revoke_count_down">Вивести (%1$dсек)</string>
-    <string name="dialog_privacy_revoke_description">Відключивши перемикач, ви знімаєте свою згоду на Політику конфіденційності Mi Video. Ми перестанемо збирати вашу персональну інформацію. Особиста інформація вже зібрана і збережена буде видалена протягом певного періоду, оскільки обов’язково із чинними законами. Ваше виведення згоди з Політикою конфіденційності буде виконано як відмову приймати онлайн-сервіси, засновані на зібраній особистої інформації.</string>
-    <string name="dialog_privacy_revoke_fail">Ваш пристрій повинен під’єднатися до мережі для того, щоб мати можливість відкликати вилучення. Перевірте параметри мережі та повторіть спробу.</string>
-    <string name="dialog_privacy_revoke_ok">Зняття коштів</string>
-    <string name="dialog_privacy_revoke_success">Успішно знято</string>
-    <string name="dialog_privacy_revoking">Згода на виведення…</string>
-    <string name="dialog_privacy_title">Правила та умови використання</string>
+    <string name="dialog_privacy_revoke_count_down">Відкликати (%1$d сек)</string>
+    <string name="dialog_privacy_revoke_description">Переводячи перемикач в положення \"Викл\", ви відкликаєте свою згоду з Політикою конфіденційності програми \"Мі Відео\". Ми припинимо здійснювати збір вашої особистої інформації. Вже зібрана і збережена особиста інформація буде видалена протягом певного періоду часу відповідно до чинного законодавства. Відкликання згоди з Політикою конфіденційності буде розглядатися як відмова від служб програми, які функціонують на основі збору особистої інформації.</string>
+    <string name="dialog_privacy_revoke_fail">Для відкликання згоди ваш пристрій повинен бути підключений до мережі. Перевірте налаштування підключення та повторіть спробу.</string>
+    <string name="dialog_privacy_revoke_ok">Відкликати</string>
+    <string name="dialog_privacy_revoke_success">Готово</string>
+    <string name="dialog_privacy_revoking">Відкликання згоди…</string>
+    <string name="dialog_privacy_title">Правила та умови</string>
     <string name="dialog_revoke_privacy_info_new2">Після відкликання дозволу програма припинить збір даних та видалить всі свої дані з серверів. Це може зробити програму практично непридатною для використання. Відкликати дозвіл?</string>
     <string name="dialog_revoke_privacy_title">Відкликання авторизації</string>
-    <string name="disagree">"Не погоджуйтеся"</string>
+    <string name="disagree">"Відхилити"</string>
     <string name="diy_channels_tips">Тепер ви можете налаштувати список ваших каналів.</string>
     <string name="do_not_show_again">"Більше не показувати"</string>
     <string name="download">Завантажити</string>
@@ -790,9 +790,9 @@ ID:%s
     <string name="nick_name">Нік</string>
     <string name="night">Вечір</string>
     <string name="no_account">Вхід не здійснено</string>
-    <string name="no_history">Тут немає елементів</string>
+    <string name="no_history">Порожньо</string>
     <string name="no_longer_prompt">"Більше не показувати"</string>
-    <string name="no_more_content">"На даний час це все"</string>
+    <string name="no_more_content">"На даний момент це все."</string>
     <string name="no_network_tips">"Неможливо використовувати цю функцію зараз. Обмежено доступ до мережі."</string>
     <string name="no_phone">Немає номера телефону</string>
     <string name="no_recommend_data">Немає рекомендованих відео</string>
@@ -1157,8 +1157,8 @@ ID:%s
     <string name="plus_tab_gallery">Папки</string>
     <string name="plus_tab_time">Часова стрічка</string>
     <string name="pm">Очистити кеш</string>
-    <string name="privacy_revoke_setting">Вимкнувши перемикач, ви знімаєте свою згоду на Політику конфіденційності нашого Mi Video.</string>
-    <string name="privacy_revoke_title">Виведення згоди</string>
+    <string name="privacy_revoke_setting">Переводячи перемикач в положення \"Викл\", ви відкликаєте свою згоду з Політикою конфіденційності програми \"Мі Відео\".</string>
+    <string name="privacy_revoke_title">Відкликання згоди</string>
     <string name="progressbar_title">Перевірка проблем безпеки…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Увійти за допомогою пароля</string>
@@ -1226,7 +1226,7 @@ ID:%s
     <string name="screenrecord_cancel">Проблеми сумісності</string>
     <string name="screenrecord_nosupport_record">"Запис экрана поки що не підтримується на цьому пристрої."</string>
     <string name="search">Пошук</string>
-    <string name="search_bar_hint">Шукати відео</string>
+    <string name="search_bar_hint">Пошук відео</string>
     <string name="search_bar_video_download_hint">Пошук або введення URL</string>
     <string name="search_choose_language">Виберіть мову</string>
     <string name="search_choose_voice_language">Виберіть мову для голосового пошуку</string>
@@ -1501,13 +1501,13 @@ ID:%s
     <string name="xiaomi_update_sdk_external_storage_unavailable">Сховище недоступне, будь ласка, перевірте карту SD.</string>
     <string name="year">рік</string>
     <string name="yesterday">Вчора</string>
-    <string name="ytb_account">Облікові записи</string>
+    <string name="ytb_account">Акаунти</string>
     <string name="ytb_author_video">Відео</string>
     <string name="ytb_login">Увійти</string>
     <string name="ytb_login_btn">Увійти</string>
-    <string name="ytb_login_hint">Увійдіть для перегляду підписки на YouTube</string>
+    <string name="ytb_login_hint">Увійдіть, щоб переглядати підписки на YouTube</string>
     <string name="ytb_logout">Вийти</string>
-    <string name="ytb_play_next">До наступного</string>
+    <string name="ytb_play_next">Далі</string>
     <string name="ytb_subscribed">Підписки</string>
     <string name="ytb_trending">У тренді</string>
 </resources>

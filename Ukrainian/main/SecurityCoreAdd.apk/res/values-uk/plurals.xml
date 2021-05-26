@@ -25,9 +25,9 @@
         <item quantity="many">%d сповіщень у Другому просторі</item>
     </plurals>
     <plurals name="xspace_guide_content">
-        <item quantity="other">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
-        <item quantity="one">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;подвійний додаток&lt;/font&gt;</item>
-        <item quantity="few">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
-        <item quantity="many">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;2 додатки&lt;/font&gt;</item>
+        <item quantity="other">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;клонів програми&lt;/font&gt;</item>
+        <item quantity="one">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;клон програми&lt;/font&gt;</item>
+        <item quantity="few">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;клона програми&lt;/font&gt;</item>
+        <item quantity="many">Ви можете створити &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;клонів програми&lt;/font&gt;</item>
     </plurals>
 </resources>

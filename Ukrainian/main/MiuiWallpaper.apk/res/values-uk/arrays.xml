@@ -80,9 +80,9 @@
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
-        <item>Snowy peaks</item>
-        <item>Шпалер/Супершпалери/піки снігу</item>
-        <item>Земля; Гори, супершпалери; Шпалери</item>
+        <item>Снігові вершини</item>
+        <item>Шпалери/Супершпалери/Снігові вершини</item>
+        <item>Земля;Гори;Супершпалери;Шпалери</item>
     </string-array>
     <string-array name="settings_search_superwp">
         <item>Супершпалери</item>

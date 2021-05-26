@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на головну</string>
-    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
     <string name="abc_action_menu_overflow_description">Більше опцій</string>
-    <string name="abc_action_mode_done">Виконано</string>
-    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
-    <string name="abc_activitychooserview_choose_application">Виберіть додаток</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показати всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
     <string name="abc_capital_off">ВИМК</string>
-    <string name="abc_capital_on">УВІМК</string>
+    <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">видалити</string>
-    <string name="abc_menu_enter_shortcut_label">введіть</string>
-    <string name="abc_menu_function_shortcut_label">Функції+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Зсув +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">пробіл</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Меню+</string>
-    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Введіть пошуковий запит…</string>
     <string name="abc_searchview_description_clear">Очистити запит</string>
-    <string name="abc_searchview_description_query">Пошук запиту</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
     <string name="abc_searchview_description_search">Пошук</string>
-    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_submit">Наіслати запит</string>
     <string name="abc_searchview_description_voice">Голосовий пошук</string>
-    <string name="abc_shareactionprovider_share_with">Поділитися з</string>
-    <string name="abc_shareactionprovider_share_with_application">Поділитися з %s</string>
+    <string name="abc_shareactionprovider_share_with">Поділитися:</string>
+    <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
     <string name="abc_toolbar_collapse_description">Згорнути</string>
     <string name="accessibility_enabled">TalkBack увімкнено.</string>
     <string name="actionbar_button_up_description">Відмінити</string>
@@ -50,8 +50,7 @@
     <string name="application_permissions">Дозволи програми</string>
     <string name="back">Назад</string>
     <string name="backup_introduction">Ви можете використовувати цю програму для створення резервних копій та відновлення файлів на вашому пристрої.</string>
-    <string name="boot_video_desc">Переглянути світ у 2K</string>
-    <string name="boot_video_replay">Грати знову</string>
+    <string name="boot_video_replay">Повтор</string>
     <string name="boot_video_skip">Пропустити</string>
     <string name="calculator_introduction">Ви можете використовувти цю програму для розрахунків, конвертації одиниць вимірів та валют, а також планування ваших іпотечних виплат.</string>
     <string name="camera_introduction">Ви можете використовувати камеру для зйомки фото та відео.</string>
@@ -123,11 +122,11 @@
     <string name="input_method_category">"Виберіть клавіатуру за замовчуванням, яку ви будете використовувати для написання повідомлень, нотаток та в усіх інших випадках. Ви зможете встановити сторонню клавіатуру пізніше."</string>
     <string name="input_method_setting">Виберіть клавіатуру</string>
     <string name="install_preinstall_app">Завантаження програм…</string>
-    <string name="item_contents_wwarning">"Якщо ваш пристрій не спрацює, ви не зможете запобігти іншим людям користуватися ним і отримати доступ до своїх даних, якщо не встановити блокування екрана. У будь-якому випадку?"</string>
+    <string name="item_contents_wwarning">"Якщо ви не увімкните захист і втратите пристрій, то не зможете перешкодити іншим людям скористатися пристроєм і отримати доступ до ваших особистих даних. Пропустити налаштування?"</string>
     <string name="item_fingerprint">Відбиток пальця</string>
     <string name="item_lock_screen_password">Тільки блокування екрану</string>
-    <string name="item_lock_screen_password_only">Блокування екрана</string>
-    <string name="item_return">Сет</string>
+    <string name="item_lock_screen_password_only">Блокуванян екрану</string>
+    <string name="item_return">Налаштувати</string>
     <string name="item_skip">Пропустити</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Передача даних про місцезнаходження аварійно-рятувальним службам</string>
@@ -213,8 +212,8 @@
     <string name="move_data_dialog_cancel">Скасувати</string>
     <string name="move_data_dialog_title">Ви можете обмежити використання мобільного інтернету у Налашутваннях пізніше.</string>
     <string name="move_data_dialog_use">Використати</string>
-    <string name="msim_setting_default_data">Data SIM</string>
-    <string name="msim_setting_default_voice">SIM-карта за умовчанням для дзвінків за умовчанням</string>
+    <string name="msim_setting_default_data">Інтернет</string>
+    <string name="msim_setting_default_voice">SIM-карта для викликів за замовчуванням</string>
     <string name="multisim_settings_category">Налаштування SIM-картки</string>
     <string name="multisim_settings_title">Виявлено 2 SIM-картки</string>
     <string name="navigation_picker_gesture_guide">Керівництво щодо жестів</string>
@@ -228,7 +227,7 @@
     <string name="note_introduction">Ця програма дозволяє вам створювати, переглядати та редагувати нотатки.</string>
     <string name="other_settings">Додатково</string>
     <string name="other_settings_ad_dialog_agree">Увімкнути</string>
-    <string name="other_settings_ad_dialog_content">"Коли рекламні рекомендації відключені, ви все одно побачите ту ж кількість реклами, якщо ця функція була б увімкнена. Однак реклама більше не буде актуальною, оскільки вона не буде грунтуватися на ваших особистих інтересах."</string>
+    <string name="other_settings_ad_dialog_content">"Коли персональна реклама відключена, ви все одно побачите ту ж кількість реклами, якщо ця функція була б увімкнена. Однак реклама більше не буде актуальною, оскільки вона не буде грунтуватися на ваших особистих інтересах."</string>
     <string name="other_settings_ad_dialog_disagree">Вимкнути</string>
     <string name="other_settings_ad_disable_summary">Увімкнути персоналізовані оголошення</string>
     <string name="other_settings_ad_enable">Персоналізовані оголошення</string>
@@ -242,12 +241,16 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Угода користувача</string>
     <string name="other_settings_location">Доступ до місцезнаходження</string>
     <string name="other_settings_location_summary">Дозволити програмам доступ до місцезнаходження</string>
-    <string name="other_settings_upload_debug_log_summary">Інформація, яка допомагає нам знаходити та вирішувати проблеми, може містити ваші особисті дані</string>
-    <string name="other_settings_upload_debug_log_title">Надсилати діагностичні дані автоматично</string>
-    <string name="other_settings_user_experience">Надсилання звітів</string>
+    <string name="other_settings_upload_debug_log_detail">"Допомогти поліпшити роботу пристрою MIUI шляхом автоматичного надсилання діагностики, пристрою та даних використання програм в Xiaomi. Це допоможе покращити життя батареї, систему MIUI і стабільність додатків і багато іншого.
+Дані які ви надсилатимете, будуть містити загальну інформацію про ваш пристрій і те, як ви будете використовувати його (e. . рівень заряду батареї, система та активність додатків та помилки). Дані будуть використані для покращення пристроїв MIUI.
+Вимкнення цієї функції не впливає на можливості вашого пристрою надсилати інформацію, необхідну для таких важливих служб, як оновлення та безпека системи.
+Ви можете контролювати цю функцію з Налаштування &gt; Паролі &amp; Безпека &gt; Приватність &gt; Використання та діагностики."</string>
+    <string name="other_settings_upload_debug_log_summary">Допомогти поліпшити роботу пристрою MIUI шляхом автоматичного надсилання діагностики, пристрою та даних використання програм в Xiaomi. Це допоможе покращити життя батареї, систему MIUI і стабільність додатків і багато іншого.</string>
+    <string name="other_settings_upload_debug_log_title">Надіслати дані про використання та діагностику</string>
+    <string name="other_settings_user_experience">Програма покращення якості</string>
     <string name="other_settings_user_experience_summary">Допоможіть нам покращити продукти та послуги шляхом відправлення даних щодо їх використання.</string>
     <string name="other_settings_user_experience_summary_index">Деталі</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon дозволяє передавати дані з вашого пристрою, коли його екран пошкоджений.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">Доступ до акаунтів на пристрої:</string>
     <string name="permission_account_introduction">Вхід через Mi акаунт</string>
     <string name="permission_application_package_introduction">Доступ до пам\'яті для перевірки та сканування пакетів встановлення</string>
@@ -280,10 +283,10 @@
     <string name="permission_picture_introduction">Збереження, редагування та синхронізації фото та відео</string>
     <string name="permission_read_call_records">Змінити історію викликів:</string>
     <string name="permission_read_call_records_introduction">Для додавання об\'єктів до історії викликів або видалення заблокованих викликів</string>
-    <string name="permission_read_contacts">Доступ до контактів</string>
-    <string name="permission_read_contacts_introduction">Для підтвердження вашої особи</string>
-    <string name="permission_read_message">Доступ до текстових повідомлень</string>
-    <string name="permission_read_message_introduction">Для підтвердження права власності на ваш пристрій</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">Доступ до нотаток та вкладень</string>
     <string name="permission_read_write_file">Доступ та збереження файлів і фото на вашому пристрої:</string>
     <string name="permission_read_write_file_introduction">Доступ, збереження та кешуванян об\'єктів на вашому пристрої</string>
@@ -310,10 +313,10 @@
     <string name="privacy_provision_text">Ми прагнемо поваги та захисту вашої конфіденційності. Пріоритет досліджень та розробок у сфері інформаційної безпеки Xiaomi постійно працює над покращенням методів, практики та технічних рішень, що захищають ваші дані. Ми також передаємо наші останні досягнення з нашими партнерами для забезпечення вашої приватності на дошці.</string>
     <string name="privacy_provision_title">Конфіденційність</string>
     <string name="protect_persoanl_info_statement">Ми будемо захищати вашу особисту інформацію відповідно до законів, правил і політики конфіденційності.</string>
-    <string name="provision_back">Відмінити</string>
-    <string name="provision_inputmethod_policy_description"><Data>Перегляньте &lt;a href=%1$s&gt;Політику конфіденційності&lt;/a &gt; обраної вами клавіатури.</Data></string>
+    <string name="provision_back">Назад</string>
+    <string name="provision_inputmethod_policy_description">&lt;Data&gt;Ознайомтеся з &lt;a href=%1$s&gt;Політикою конфіденційності&lt;/a &gt; вибраної клавіатури.&lt;/Data&gt;</string>
     <string name="provision_inputmethod_policy_description1">Політика конфіденційності</string>
-    <string name="provision_next">Уперед</string>
+    <string name="provision_next">Далі</string>
     <string name="provision_skip_underline">Пропустити</string>
     <string name="recorder_introduction">Ви можете використовувати цю програму для запису аудіо та створення резервних копій записів у хмарі.</string>
     <string name="require_authority_statement">Щоб ми могли надавати вам основні послуги, вам необхідно надати наступні дозволи для збору вашої особистої інформації:</string>
@@ -352,14 +355,14 @@
     <string name="service_policy">&lt;Data&gt;Прочитайте і прийміть нашу&lt;a href=%1$s&gt;Політику конфіденційності&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_policy_download">&lt;Data&gt;Перед використанням наших служб ознайомтеся і погодьтеся з &lt;a href=%1$s&gt;Політикою конфіденційності Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Політика конфіденційності</string>
-    <string name="service_security_over_r"><Data>Прочитайте і погодьтеся з нашою &lt;a href=%1$s&gt;Політикою конфіденційності&lt;/a &gt; перед використанням безпеки.&lt;br/&gt;&lt;br/&gt;Відповідно до стандартів Android 11 - одноразовий дозвіл буде знято протягом 5 секунд після того, як відповідний додаток зупинив роботу. Якщо ви відкриєте додаток протягом цього короткого періоду часу, то дозвіл буде знято потім.</Data></string>
+    <string name="service_security_over_r">&lt;Data&gt;Перед використанням програми Безпека ознайомтеся та погодьтеся з нашою &lt;a href=%1$s&gt;Політикою конфіденційності&lt;/a &gt;.&lt;br/&gt;&lt;br/&gt;Відповідно до стандартів Android 11 разовий дозвіл буде відкликано протягом 5 секунд після припинення роботи відповідної програми. Якщо ви запустите програму протягом цього короткого періоду часу, дозвіл буде відкликано.&lt;/Data&gt;</string>
     <string name="servicestate_title">Заява про основні послуги</string>
     <string name="setting_locale">Встановлення регіону…</string>
     <string name="shut_down">Вимкнення</string>
     <string name="sim_card_detecting">Перевірка SIM-карти…</string>
     <string name="sim_card_detecting_check">"Не вдалося знайти SIM-карту. Переконайтеся, що SIM-карта правильно вставлена та на рахунку достатньо коштів."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Дозволити підключення до мобільного інтернету? Якщо ви дозволите, то SIM-карта, яку ви вставили буде використовуватися для підключення до мобільного інтернету.</string>
-    <string name="sim_card_detecting_title">Виявлення SIM-картки</string>
+    <string name="sim_card_detecting_title">Перевірка SIM-карти…</string>
     <string name="sim_card_detection">Вставте SIM-картку</string>
     <string name="sim_card_detection_info">Щоб вставити вашу SIM-картку, прочитайте інструкції, що надійшли з пристроєм.</string>
     <string name="sim_card_detection_mobile_not_available">"SIM-карті не вдалося підключитися до мережі"</string>
@@ -471,7 +474,7 @@
     <string name="thursday_shortest">Thu</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="title_fingerprint">Встановіть пароль</string>
-    <string name="title_set_fingerprint">Блокування екрана</string>
+    <string name="title_set_fingerprint">Захист пристрою</string>
     <string name="today">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вівторок</string>

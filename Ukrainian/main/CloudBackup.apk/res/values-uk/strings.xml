@@ -40,10 +40,12 @@
     <string name="back_up_task_in_process">Створення бекапу…</string>
     <string name="back_up_task_unfinished">"Не вдалося створити резервну копію"</string>
     <string name="backing_up_to_micloud">Створення бекапу…</string>
+    <string name="backup_action_access_permission">Налаштування</string>
     <string name="backup_action_buy_cloud_space">Отримати більше місця у сховищі</string>
     <string name="backup_action_check_network">Перевірте налаштування мережі</string>
     <string name="backup_action_clean_disk_space">Очистити пам\'ять</string>
     <string name="backup_action_retry_now">Повторити спробу</string>
+    <string name="backup_failed_reason_app_usage_denied">Надайте необхідні дозволи для резервного копіювання елементів</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостатньо пам\'яті для створення резервної копії у хмарі. Змініть план підписки або звільність місце у хмарі.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостатньо вільного місця. Звільніть пам\'ять.</string>
     <string name="backup_failed_reason_network_error">Перевірте налаштування мережі та повторіть спробу</string>
@@ -58,6 +60,8 @@
     <string name="backup_success">Створення резервної копії завершено</string>
     <string name="backup_successfully">Бекап створено успішно</string>
     <string name="backup_to_cloud">Створити бекап програми</string>
+    <string name="backup_warning_reason_app_usage_denied">"Неможливо синхронізувати дані.
+Потрібні дозволи."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"Не вдалося створити резервну копію"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Недостатньо місця
 Не вдалося створити резервну копію."</string>
@@ -163,8 +167,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">Очікування…</string>
     <string name="desktop_waiting">Очікування</string>
     <string name="device_delete_prompt">Видалити бекап \"%s\"?</string>
+    <string name="dialog_app_usage_denied">Надати дозвіл на створення резервної копії \"Доступ до використання\" в налаштуваннях, щоб мати можливість створювати резервні копії елементів.</string>
     <string name="dialog_backup_failed">"Не вдалося створити бекап"</string>
     <string name="dialog_btn_cancel_backup">Скасувати</string>
+    <string name="dialog_btn_confirm2">Зрозуміло</string>
+    <string name="dialog_btn_enter">Налаштування</string>
     <string name="dialog_btn_next">Далі</string>
     <string name="dialog_btn_overwrite_backup">Перезаписати</string>
     <string name="dialog_btn_restore_skip">Відновити пізніше</string>
@@ -177,6 +184,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_msg_overwrite_backup">Локальна резервна копія відрізняється від копії в Xiaomi Cloud. Якщо ви продовжите, поточна копія перезапише попередню.</string>
     <string name="dialog_msg_restore_require_wlan">Для відновлення резервних копій необхідне підключення по Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
+    <string name="dialog_need_permission">Потрібні дозволи</string>
     <string name="dialog_title_require_wlan">Підключіться до Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_dMMyyyy</string>

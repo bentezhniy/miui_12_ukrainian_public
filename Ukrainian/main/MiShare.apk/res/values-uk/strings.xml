@@ -81,6 +81,7 @@
     <string name="error_receive_user_cancel">Передачу було скасовано</string>
     <string name="error_receive_user_interrupted">Інша особа скасувала передачу</string>
     <string name="error_refuse_receive">Передачу було скасовано</string>
+    <string name="error_remote_ap_working">Попросити іншого користувача вимкнути портативну точку доступу</string>
     <string name="error_remote_busy">Схоже, що інший пристрій зайнятий. Зачекайте хвилинку та повторіть спробу.</string>
     <string name="error_remote_mirror_working">"Під час дублювання екрану інші пристрої не можуть отримувати доступ до об'єктів"</string>
     <string name="error_self_busy">Пристрій зайнятий. Зачекайте хвилинку або дві та повторіть спробу.</string>

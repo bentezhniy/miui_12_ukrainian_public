@@ -77,6 +77,7 @@
     <string name="bh_back">Відмінити</string>
     <string name="bh_bill_balance">Баланс</string>
     <string name="bh_bill_charge">Поповнити баланс</string>
+    <string name="bh_bills_info_label">Подробиці</string>
     <string name="bh_bugreport">Бізнес-відгук</string>
     <string name="bh_business_hall_is_here">Сервіси перевізників тут</string>
     <string name="bh_business_style">Виберіть інтерфейс</string>
@@ -89,12 +90,19 @@
     <string name="bh_cannot_action">"Не вдалося використовувати %1$s. Спочатку встановіть відповідну програму."</string>
     <string name="bh_cannot_fetch_num">Невідомий номер телефону</string>
     <string name="bh_cannot_login_miacount">"Не вдалося увійти в Mi Account"</string>
+    <string name="bh_card_order_detail">Інформація про замовлення</string>
+    <string name="bh_card_order_name">Пакет послуг</string>
+    <string name="bh_card_order_pay_price">Сума оплат</string>
+    <string name="bh_card_order_price">Ціна</string>
     <string name="bh_charge_confirm">Додати %2$s CNY до %1$s?</string>
     <string name="bh_charge_continue">Поповнити</string>
     <string name="bh_charge_number">Поповнення %1$s</string>
     <string name="bh_charged_phone_number">Номер телефону: %1$s</string>
     <string name="bh_close_traffic_package">Інформація про план перевізника</string>
     <string name="bh_confirm">Гаразд</string>
+    <string name="bh_connect_address">"Ім`я одержувача"</string>
+    <string name="bh_connect_name">Одержувач</string>
+    <string name="bh_connect_number">"Телефон одержувача"</string>
     <string name="bh_contact_number">%1$s від ваших контактів</string>
     <string name="bh_current_no_sim">"SIM-карту не вставлено"</string>
     <string name="bh_current_sim_number">Поточний номер телефону SIM %1$s</string>
@@ -105,6 +113,8 @@
     <string name="bh_edit_saved_phone_number">Редагувати теґ для збереженого номера</string>
     <string name="bh_edit_sim_num">Редагувати номер телефону SIM</string>
     <string name="bh_exchange_number">Змінити номер</string>
+    <string name="bh_express_name">Служба доставки</string>
+    <string name="bh_express_number">Номер пакета</string>
     <string name="bh_fetch_balance">Перевірити баланс</string>
     <string name="bh_flow_exceed">Перерахувати за межу</string>
     <string name="bh_funtion_desc">Ласкаво просимо до служби Mi Carrier! Ви можете використовувати цей додаток, щоб перевірити баланс вашого телефону, придбайте хвилин і мобільні дані тощо. Для нормальної роботи цього додатку необхідно підключитися до мережі.</string>
@@ -124,16 +134,20 @@
     <string name="bh_net_error">Сталася помилка з\'єднання</string>
     <string name="bh_no_sim">"SIM-карту не встановлено"</string>
     <string name="bh_no_sim_inserted">"SIM-карту не встановлено"</string>
+    <string name="bh_none">Без ефекту</string>
     <string name="bh_not_contact">"Немає результатів"</string>
     <string name="bh_notice">Увага</string>
     <string name="bh_online_service">Підтримка Онлайн</string>
     <string name="bh_option_agree_dec">Дозволити Mi Carrier Services підключатися до Інтернету та надати необхідні дозволи перед використанням цієї програми.</string>
+    <string name="bh_order_detail">Деталі замовлення</string>
     <string name="bh_order_id">Номер замовлення</string>
     <string name="bh_order_loading">Просто секунда…</string>
     <string name="bh_order_pay">Оплата</string>
+    <string name="bh_order_status">Статус замовлення</string>
     <string name="bh_order_time">Час транзакції</string>
     <string name="bh_other_charge">Інший номер телефону</string>
     <string name="bh_other_operator">Інші перевізники</string>
+    <string name="bh_other_traffic">Інший номер телефону</string>
     <string name="bh_pay_fail_desc">"Не вдалося підключитися до мережі. Повторіть спробу та завершіть платіж."</string>
     <string name="bh_pay_fee">Ampunt</string>
     <string name="bh_pay_success_desc">Ваш баланс може бути поповнено з затримкою</string>
@@ -164,8 +178,18 @@
     <string name="bh_system_recommend_des">Дозволити нам аналізувати ваш трафік і рекомендувати цифрові продукти на основі результатів</string>
     <string name="bh_tag_phones">Часто використовувані номери телефонів</string>
     <string name="bh_tags_number_exceed">"Не вдалося зберегти більше телефонних номерів"</string>
+    <string name="bh_text_buy_time">Замовлення створено</string>
+    <string name="bh_text_charge_name">Сума</string>
+    <string name="bh_text_no_order">Замовлень тут немає</string>
+    <string name="bh_text_operator">Перевізник</string>
+    <string name="bh_text_order_id">Номер замовлення</string>
+    <string name="bh_text_paid_fee">Сума замовлення</string>
+    <string name="bh_text_phone_num">Номер телефону</string>
+    <string name="bh_text_traffic_package">Передача даних</string>
     <string name="bh_time_before">%1$s %2$s тому</string>
+    <string name="bh_toast_copy">Успішно скопійовано</string>
     <string name="bh_toast_start_intent_failed">"Не вдалося знайти додаток для обробки цієї дії"</string>
+    <string name="bh_traffic_charge">Отримуйте мобільні дані</string>
     <string name="bh_traffic_service">Більше сервісів</string>
     <string name="bh_traffic_surplus">Залишилося даних</string>
     <string name="bh_traffic_title">Отримати дані</string>
@@ -175,7 +199,6 @@
     <string name="bh_vs">Mi роумінг</string>
     <string name="bh_will_open">Відкриття %1$s…</string>
     <string name="bh_wrong_number_hint">Введіть дійсний номер телефону</string>
-    <string name="bills_info_label">Подробиці</string>
     <string name="bind_simcard_default">SIM-карта для викликів за замовчуванням</string>
     <string name="bind_simcard_menu">Виберіть SIM-карту для викликів за замовчуванням</string>
     <string name="bind_simcard_no_dual">"Друга SIM-карта не виявлена"</string>
@@ -791,6 +814,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="night">Вечір</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Для створення груп потрібен акаунт.</string>
+    <string name="no_contact_selected">Виберіть контакт, щоб переглянути деталі</string>
     <string name="no_contacts_dialog_message">"Не знайдено відповідностей у ваших контактах. Можливо контакти знаходяться на SIM-картці. Для пошуку імпортуйте їх до телефону."</string>
     <string name="no_contacts_dialog_title">"Контакти не знайдені"</string>
     <string name="no_phone_no_shortcut">"Неможливо створити ярлики для контактів без номера телефону"</string>
@@ -938,6 +962,7 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="remove_duplicate">"Система допоможе знайти дублікати контактів та об'єднати їх.
 
 Натисніть на іконку \"Об'єднати\", щоб продовжити."</string>
+    <string name="residual_time_description">%1$sдень%2$sгодини</string>
     <string name="restore_app_btn_cancel">Скасувати</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Додайте ярлик на робочий стіл для швидкого доступу до списку контактів.</string>
@@ -1102,9 +1127,9 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="t9_search_empty_send_sms">Надіслати повідомлення</string>
     <string name="t9_search_empty_video_call">Відеовиклик</string>
     <string name="t9_search_guide_pinyin_title1">Введіть цифри для пошуку контактів</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Введіть %d і %d , щоб знайти Деббі Сміт</string>
     <string name="t9_search_guide_zhuyin_title1">Введіть цифри для пошуку контактів</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Введіть %d і %d для пошуку Jeff Max</string>
     <string name="take_new_photo">Зняти фото</string>
     <string name="take_photo">Зняти фото</string>
     <string name="text_msim_balance">Використовується сьогодні</string>

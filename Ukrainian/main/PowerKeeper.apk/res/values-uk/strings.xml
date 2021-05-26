@@ -90,6 +90,7 @@
     <string name="hints_loading_text">Секунду…</string>
     <string name="important_warning">Увага</string>
     <string name="insert_data">Вставити дані</string>
+    <string name="kill_pkg_toast_message">Ваш пристрій перегріває, і додаток буде закрито</string>
     <string name="lasttime_applist_cloud">Оновлені програми:</string>
     <string name="lasttime_feature_cloud">Оновлені функції:</string>
     <string name="message_i_know">Зрозуміло</string>
@@ -152,6 +153,7 @@
     <string name="sleepmode_privacy_content">"Ця функція буде використовувати дані вашої системи та інформацію про пристрій, які не будуть завантажені на сервер."</string>
     <string name="sleepmode_privacy_link">Дізнайтеся більше про конфіденційність та безпеку</string>
     <string name="sleepmode_privacy_title">Режим сну</string>
+    <string name="stricter_high_temp_state_message">"Ваш пристрій перегріває, не можна використовувати додатки, відмінні від набору номеру та контактів"</string>
     <string name="sucess">Завершено</string>
     <string name="thermal_cancel">Ні</string>
     <string name="thermal_confirm">ТАК</string>

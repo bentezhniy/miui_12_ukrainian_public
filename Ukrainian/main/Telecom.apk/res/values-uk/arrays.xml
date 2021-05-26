@@ -72,8 +72,8 @@
         <item>Аудіо Qualcomm® aptX™</item>
         <item>Аудіо Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Увімкнути додаткові кодеки</item>
-        <item>Вимкнути додаткові кодеки</item>
+        <item>Аудіо Qualcomm® aptX™ Adaptive</item>
+        <item>Аудіо Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Використовувати вибір системи (за умовчанням)</item>
@@ -82,8 +82,8 @@
         <item>Аудіо Qualcomm® aptX™</item>
         <item>Аудіо Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Увімкнути додаткові кодеки</item>
-        <item>Вимкнути додаткові кодеки</item>
+        <item>Аудіо Qualcomm® aptX™ Adaptive</item>
+        <item>Аудіо Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

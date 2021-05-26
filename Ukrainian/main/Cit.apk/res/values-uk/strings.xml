@@ -491,6 +491,7 @@
     <string name="cit_torch">Флеш</string>
     <string name="cit_torch_first">Перший спалах</string>
     <string name="cit_torch_second">Другий спалах</string>
+    <string name="cit_touch_panel_nead_pencil_tip">Будь ласка, скористайтеся олівцем для перевірки знову</string>
     <string name="cit_touch_panel_test_title">Сенсорний датчик</string>
     <string name="cit_ultra_camera_check_title">Перевірка ультра</string>
     <string name="cit_usb_OTG_error_condition">"USB пристрій підключено, але не може отримати інформацію про пристрій. Неможливо завершити тест."</string>

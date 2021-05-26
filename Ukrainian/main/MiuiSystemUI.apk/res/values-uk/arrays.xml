@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Без анімації</item>
         <item>Анімація 0.5x</item>
@@ -18,9 +77,9 @@
         <item>Не більше 4 процесів</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Завжди показувати процент</item>
-        <item>Показувати проценти під час заряджання (за замовчуванням)</item>
-        <item>"Не показувати цю іконку"</item>
+        <item>Завжди показувати відсотки</item>
+        <item>Показувати відсотки під час заряджання (за умовчанням)</item>
+        <item>"Не показувати цей значок"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Вибір системи (за замовчуванням)</item>
@@ -52,7 +111,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Оптимізовано якість звуку (990 - 909 Кбіт/сек)</item>
-        <item>Баланс якості звуку та швидкості підключення (660/606 Кбіт/с)</item>
+        <item>Баланс якості звуку та швидкості підключення (660/606 Кбіт/сек)</item>
         <item>Оптимізувано швидкість підключення (330 - 303 Кбіт/сек)</item>
         <item>Найкращий варіант (адаптивний бітрейт)</item>
     </string-array>
@@ -77,8 +136,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive аудіо</item>
-        <item>Qualcomm® aptX™ TWS+ аудіо</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -90,8 +149,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive аудіо</item>
-        <item>Qualcomm® aptX™ TWS+ аудіо</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -124,8 +183,8 @@
     </string-array>
     <string-array name="clock_options">
         <item>Показувати години, хвилини та секунди</item>
-        <item>Показувати години та хвилини (за замовчуванням)</item>
-        <item>"Не показувати цю іконку"</item>
+        <item>Показувати години та хвилини (за умовчанням)</item>
+        <item>"Не показувати цей значок"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Покращені кольори</item>
@@ -159,20 +218,20 @@
         <item>Завжди перевіряти</item>
     </string-array>
     <string-array name="miui_notification_aggregate_category">
-        <item>Це рекомендований контент.</item>
-        <item>Це оголошення.</item>
+        <item>Це рекомендовані матеріали.</item>
+        <item>Це реклама.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
-        <item>Клавіатура</item>
-        <item>Код кнопки</item>
-        <item>Зміна клавіатури</item>
-        <item>Нічого</item>
+        <item>Буфер обміну</item>
+        <item>Код клавіші</item>
+        <item>Підтвердити обертання, вибір клавіатури</item>
+        <item>Немає</item>
     </string-array>
     <string-array name="nav_bar_layouts">
-        <item>Стандартний</item>
-        <item>Компактний</item>
-        <item>Зі здвигом вліво</item>
-        <item>Зі здвигом вправо</item>
+        <item>Звичайна панель</item>
+        <item>Компактна панель</item>
+        <item>Панель ліворуч</item>
+        <item>Панель праворуч</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Немає</item>

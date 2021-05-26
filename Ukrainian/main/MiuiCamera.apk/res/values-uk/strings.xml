@@ -427,6 +427,7 @@
     <string name="clone_start_capture">Почати клонування</string>
     <string name="clone_too_much_movement_stop">Пристрій знаходиться занадто далеко. Зйомка припинена.</string>
     <string name="clone_video_mode">Відео</string>
+    <string name="close">Закрити</string>
     <string name="close_back_flash_toast">"Пристрій перегрівся. Спалах недоступний."</string>
     <string name="close_front_flash_toast">"Пристрій перегрівся. Спалах недоступний."</string>
     <string name="close_night_algo_toast_low_power">Для налашутвання експозиції необхідно зарядити пристрій</string>
@@ -780,7 +781,7 @@
     <string name="live_sticker_updating">Оновлення…</string>
     <string name="live_workspace_title">Чернетки</string>
     <string name="live_workspace_title_edit">Виберіть об\'єкти для видалення</string>
-    <string name="location_access_allow">Дозволити</string>
+    <string name="location_access_allow">Погоджуюсь</string>
     <string name="location_permission_des">Запам\'ятовувати місця, де були зняті фото та відео</string>
     <string name="location_permission_not_ask_again">Дозвольте Камері доступ до вашого місцезнаходження у Налашутваннях.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Дозволити</string>
@@ -1192,7 +1193,7 @@
     <string name="pref_camera_device_watermark_title">Водяний знак пристрою</string>
     <string name="pref_camera_dual_enable_title">Увімкнути подвійну камеру</string>
     <string name="pref_camera_dual_sat_enable_title">Увімкнути подвійну SAT-камеру</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Автоматично зменшувати частоту кадрів при низькому освітленні, щоб покращити якість відео</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Автоматично зменшувати частоту кадрів при низькій освітленості або вищій температурі, щоб покращити якість відео</string>
     <string name="pref_camera_dynamic_frame_rate_title">Регулювати частоту кадрів в умовах низького освітлення</string>
     <string name="pref_camera_eis_entry_normal">Стабільне відео</string>
     <string name="pref_camera_eis_entry_off">Вимкнено</string>
@@ -1564,6 +1565,7 @@
     <string name="search_menu_title">Пошук</string>
     <string name="search_settings">Налаштування камери;Якість;Якість зображення;Місцезнаходження зображення;Місцезнаходження зображення;Розпізнавання обличчя;Звук камери</string>
     <string name="see_qrcode_detals">Переглянути деталі QR-коду</string>
+    <string name="send">Відправити</string>
     <string name="settings_camera_detect_card_description">Відображати ярлик кожного разу, коли камера АІ виявляє документ, який посвідчує особу</string>
     <string name="settings_camera_detect_description_doc">Відображати ярлик кожного разу, коли камера АІ виявляє документ або слайд презентації.</string>
     <string name="settings_camera_near_range_description">Видалити розмиття при фокусуванні на плоских поверхнях з близької відстані.</string>

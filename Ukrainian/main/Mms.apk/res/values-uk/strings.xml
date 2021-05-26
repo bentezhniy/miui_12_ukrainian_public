@@ -439,8 +439,6 @@
     <string name="message_type_label">"Тип: "</string>
     <string name="message_unread">Непрочитані</string>
     <string name="messagelist_sender_self">Я</string>
-    <string name="messages_installed_notification_text_xiaomi">Торкніться, щоб розпочати чат</string>
-    <string name="messages_installed_notification_title_xiaomi">Повідомлення встановлені</string>
     <string name="messaging">Повідомлення</string>
     <string name="mi_message_title">Mi повідомлення</string>
     <string name="midnight">Ніч</string>
@@ -623,7 +621,6 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="notification_add_todo_content">Код отримання: %s</string>
     <string name="notification_channel_msg_description">Сповіщення про повідомлення</string>
     <string name="notification_channel_msg_name">Повідомлення</string>
-    <string name="notification_channel_name_xiaomi">Сповіщення про оновлення програми</string>
     <string name="notification_channel_other_description">Сповіщення не про повідомлення</string>
     <string name="notification_channel_other_name">Інші</string>
     <string name="notification_channel_sim1_description">Сповіщення про повідомлення SIM1</string>
@@ -775,21 +772,6 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="private_protect">Загальні</string>
     <string name="private_settings">Налаштування</string>
     <string name="processing">Обробка…</string>
-    <string name="promo_back_btn_text_xiaomi">Назад до Mi Message</string>
-    <string name="promo_install_btn_text">Уперед</string>
-    <string name="promo_install_bullet_1_xiaomi">Використовувати Google Assistant для текстів &amp; завдань</string>
-    <string name="promo_install_bullet_2_xiaomi">Тримайте ваші поточні розмови &amp; медіа</string>
-    <string name="promo_install_bullet_3_xiaomi">Легко знайти спільні повідомлення &amp; медіа</string>
-    <string name="promo_install_bullet_4_xiaomi">Використовувати повідомлення як типову програму для SMS</string>
-    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Докладніше</a></string>
-    <string name="promo_install_subtitle_xiaomi">Завантажте більш насичений, якісний чат на Wi-Fi або дані. Встановіть повідомлення &amp; використовуйте це як додаток для SMS за умовчанням. <a href="https://support.google.com/messages/answer/6089066">Дізнатися більше</a></string>
-    <string name="promo_install_title_xiaomi">Xiaomi рекомендує оновлення до повідомлень Google</string>
-    <string name="promo_launch_messages_btn_text">Відкрити повідомлення</string>
-    <string name="promo_no_thanks_btn_text_xiaomi">Ні, дякую</string>
-    <string name="promo_post_install_animation_alt_text_xiaomi">Повідомлення від Google тепер є вашим додатком для SMS за замовчуванням. Щоб розмістити повідомлення Google як важливе на головному екрані, довго натисніть на Mi Повідомлення та перемістіть його з улюбленого, потім довго натискайте на Повідомлення та переміщайте його в обране.</string>
-    <string name="promo_post_install_title_no_default_xiaomi">Замінити Mi Message новішими повідомленнями від Google</string>
-    <string name="promo_post_install_title_with_default_xiaomi">Запускати тепер більш високу якість тексту з повідомленнями від Google</string>
-    <string name="promo_use_messages_btn_text">Використовувати повідомлення</string>
     <string name="prompt_otp">Код</string>
     <string name="prompt_phone">Номер телефону</string>
     <string name="prompt_summary">RCS дозволяє обмінюватися повідомленнями, фотографіями, відео та створювати групові чати безкоштовно.</string>

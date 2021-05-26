@@ -48,6 +48,7 @@
     <string name="am">ДП</string>
     <string name="app_name">Бекап</string>
     <string name="apps_and_data_item_desc">Програми та дані</string>
+    <string name="apps_item_desc">Застосунок</string>
     <string name="auto_backup">Автобекап</string>
     <string name="auto_backup_all_user_apps">Всі програми</string>
     <string name="auto_backup_choose">Вибрані елементи</string>
@@ -425,6 +426,7 @@ r
     <string name="new_pc_backup_summary2_pad">Під\'єднайте ваш мобільний пристрій до комп\'ютера через USB-кабель.</string>
     <string name="new_pc_backup_summary4">Примітка: ви також можете скопіювати фото та відео DCIM.</string>
     <string name="new_pc_restore_content1">%d. Підключіть мобільний пристрій до комп\'ютера за допомогою кабеля USB.</string>
+    <string name="new_pc_restore_content1_pad">%d. Під\'єднайте ваш мобільний пристрій до комп\'ютера через USB-кабель.</string>
     <string name="new_pc_restore_content2">%d. Скопіюйте резервні копії з комп\'ютера до MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content2_pad">%d. Копіювання резервної копії з комп\'ютера до MIUI-Backup-Allbackup.</string>
     <string name="new_pc_restore_content3">%1$d. Відкрийте \"%2$s\" та виберіть об\'єкти для відновлення.</string>

@@ -36,7 +36,7 @@
     <string name="activate_feature_call_log_sync">Синхронізація журналу викликів</string>
     <string name="activate_feature_default_name">Mi послуги</string>
     <string name="activate_feature_default_title">Xiaomi</string>
-    <string name="activate_feature_find_device">Послуга \"Пошук пристрою\" не може підключитися до мережі</string>
+    <string name="activate_feature_find_device">SMS-позиціонування</string>
     <string name="activate_feature_live_talk">Пакет поповнення балансу</string>
     <string name="activate_feature_mi_roaming">Mi Роумінг</string>
     <string name="activate_feature_mms_sync">Синхронізація повідомлень</string>
@@ -56,14 +56,14 @@
     <string name="activate_phone_cancel_notif_title_msim">Активація SIM-карти %d скасована</string>
     <string name="activate_phone_failed_notif_title">"Не вдалося активувати SIM-картку"</string>
     <string name="activate_phone_failed_notif_title_msim">"Не вдалося активувати SIM-карту %d"</string>
-    <string name="activate_phone_failed_notif_title_sim">"Не вдалося активувати %2$s за допомогою SIM %1$d"</string>
+    <string name="activate_phone_failed_notif_title_sim">"Не вдалося активувати \"%2$s\", використовуючи SIM %1$d"</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Мі акаунт створено за допомогою SIM %d</string>
     <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Не вдалося створити Мі акаунт за допомогою SIM %d"</string>
-    <string name="activate_phone_server_failed_notif_title">"Не вдалося активувати %s"</string>
-    <string name="activate_phone_server_success_notif_title">%s активовано</string>
+    <string name="activate_phone_server_failed_notif_title">"Не вдалося активувати \"%s\""</string>
+    <string name="activate_phone_server_success_notif_title">Активований \"%s\" успішно</string>
     <string name="activate_phone_success_notif_title">SIM-карта успішно активована</string>
     <string name="activate_phone_success_notif_title_msim">SIM-карта %d успішно активована</string>
-    <string name="activate_phone_success_notif_title_sim">%2$s активовано за допомогою SIM %1$d</string>
+    <string name="activate_phone_success_notif_title_sim">Активована\"%2$s\" з використанням SIM %1$d успішно</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Повторити спробу</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Повторити спробу</string>
     <string name="activate_popup_confirm_error_device_id">Повторити спробу</string>
@@ -73,9 +73,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Надіслати знову</string>
     <string name="activate_popup_confirm_failed_server">Повторити спробу</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 міжнародних повідомлення будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш оператор заплатить за ці повідомлення.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Щоб активувати \"%2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш перевізник заплатить за ці повідомлення.</string>
     <string name="activate_popup_desc_2_sim_cards">2 звичайних повідомлення будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;буде відправлений внутрішній платний СМС&lt;/b&gt; . Ваш оператор заплатить за ці повідомлення.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Щоб активувати \"%2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені вітчизняні платні SMS&lt;/b&gt; . Ваш оператор заплатить за ці повідомлення.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Не вдається знайти номер телефону. Переконайтеся, що SIM-карта активована.
 Введіть номер телефону нової SIM-карти для повторної активації %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не вдалося відправити SMS для активації. Переконайтеся, що SIM-карта активована.
@@ -90,12 +90,12 @@
     <string name="activate_popup_desc_failed_server">Перевірте підключення до мережі та повторіть спробу.</string>
     <string name="activate_popup_desc_failed_server_msg">Сталася помилка сервера. Підключіться до іншої мережі та повторіть спробу.</string>
     <string name="activate_popup_desc_find_device_postfix">Після заміни SIM-картки може бути відправлене SMS для активації.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активації %3$s введіть номер телефону SIM-карти %2$d. Якщо ви замінили цю SIM-карту, буде відправлено повідомлення з кодом активації.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Щоб активувати \"%3$s\", введіть телефон SIM-карти %2$d. Якщо ви заміните цю SIM-карту, буде надіслано ще одне активаційне повідомлення.</string>
     <string name="activate_popup_desc_intl_sim_card">Міжнародне SMS буде відправлене для активації %s. За нього стягується плата.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш оператор заплатить за це повідомлення.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Щоб активувати \"%2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;будуть відправлені міжнародні платні SMS&lt;/b&gt; . Ваш оператор заплатить за це повідомлення.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Зверніться до &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Керівництва з використання Мі акаунту&lt;/a&gt;, якщо у вас виникнуть будь-які запитання.&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 повідомлення (звичайне та міжнародне) будуть відправлені для активації %s. За них стягується плата.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Аби активувати %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;також будуть відправлені платні SMS&lt;/b&gt; , &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;міжнародне платне смс-повідомлення&lt;/b&gt; . Ваш перевізник стягує з вас кошти за ці повідомлення.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Для активації \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;також будуть відправлені платні SMS&lt;/b&gt; , &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;міжнародне платне смс-повідомлення&lt;/b&gt; . Ваш перевізник стягує з вас кошти за ці повідомлення.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Схоже, що ви замінили SIM-картку. 2 міжнародні повідомлення будуть відправлені для активації %s. За них стягується плата."</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Схоже, що ви замінили SIM-картку. 2 звичайні повідомлення будуть відправлені для активації %s. За них стягується плата."</string>
     <string name="activate_popup_desc_new_intl_sim_card">"Схоже, що ви замінили SIM-картку. Міжнародне SMS буде відправлене для активації %s. За нього стягується плата."</string>
@@ -107,11 +107,11 @@
     <string name="activate_popup_desc_register_account_intl">Може знадобитися вихідне міжнародне SMS-повідомлення, щоб створити Mi акаунт. Ваш оператор може стягувати плату за це повідомлення.</string>
     <string name="activate_popup_desc_sim_card">Звичайне SMS буде відправлене для активації %s. За нього стягується плата.</string>
     <string name="activate_popup_desc_sim_card_downlink">Введіть поточний номер телефону для активації %s.</string>
-    <string name="activate_popup_desc_sim_card_downlink_msg">Для активації %2$s введіть номер телефону SIM-карти %1$d.</string>
-    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Щоб активувати %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;оплачені SMS&lt;/font&gt; будуть відправлені. Ваш оператор заплатить вам за це повідомлення.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg">Щоб активувати \"%2$s, введіть номер телефону SIM-карти %1$d.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Щоб активувати \"%2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;сплачені SMS&lt;/font&gt; будуть відправлені. Ваш оператор заплатить вам за це повідомлення.</string>
     <string name="activate_popup_desc_voip_privacy">Політика конфіденційності</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Служба VoIP надається компанією Weihui. Переглянути"</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Для активації %3$s введіть номер телефону SIM-карти %2$d. Технічна підтримка надається Weihuitel. Перегляньте Політику конфіденційності Weihuitel, щоб отримати більш детальну інформацію.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Щоб активувати \"%3$s\", введіть телефон SIM-карти %2$d. Технічна підтримка надається частково Вейхуїтом. Детальніше політику конфіденційності Weihuitel для деталей.</string>
     <string name="activate_popup_failed_send_sms_desc">"Не вдалося відправити SMS з кодом активації. Переконайтеся, що SIM-карта %d працює нормально та повторіть спробу."</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">"Не вдається знайти номер"</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">"Не вдалося відправити SMS"</string>
@@ -124,7 +124,7 @@
     <string name="activate_popup_title_manual">Активувати %s</string>
     <string name="activate_popup_title_new_sim_card">Повторна активація %s</string>
     <string name="activate_popup_title_register_account">Створити Mi акаунт</string>
-    <string name="activate_progress_status_title">Активація %s…</string>
+    <string name="activate_progress_status_title">Активація \"%s\"…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">"Не вдалося створити Мі акаунт"</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Мі акаунт створено</string>
     <string name="activate_sms_postfix">[Ця SMS використовується для активації Вашого пристрою]</string>
@@ -160,7 +160,7 @@
     <string name="activate_status_desc_wait_for_sms_success">Отримане SMS для активації</string>
     <string name="activate_status_title_activating">Активація SIM-картки…</string>
     <string name="activate_status_title_activating_msim">Активація SIM-карти %d…</string>
-    <string name="activate_status_title_activating_sim">Активація %2$s за допомогою SIM %1$d…</string>
+    <string name="activate_status_title_activating_sim">Активація \"%2$s\" використовуючи SIM %1$d…</string>
     <string name="activate_status_title_registering_xiaomi_account">Створення Mi акаунту…</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Створення Мі акаунту за допомогою SIM %d…</string>
     <string name="afternoon">Після обіду</string>
@@ -184,7 +184,7 @@
     <string name="error_sim_not_in_service">"Не вдалося активувати SIM-карту. Переконайтеся, що у вас достатньо коштів на балансі."</string>
     <string name="error_sim_not_in_service_tip">"SIM-карта %d не може підключитися до мережі. Переконайтеся, що SIM-карта працює нормально та повторіть спробу."</string>
     <string name="evening">Після обіду</string>
-    <string name="explain_activate_feature_server_title">Активувати %s</string>
+    <string name="explain_activate_feature_server_title">Активувати \"%s\"</string>
     <string name="explain_activate_register_xiaomi_account_title">Створити Mi акаунт</string>
     <string name="explain_activate_send_sms_permission_msg">Для активації %s вашому пристрою необхідний дозвіл на відправку SMS. Ваш оператор буде стягувати плату за це повідомлення.</string>
     <string name="explain_send_sms_permission_button">Перевірити</string>
@@ -281,7 +281,7 @@
     <string name="search_menu_title">Пошук</string>
     <string name="send">Відправити</string>
     <string name="sim_activated_failed_msg">"Не вдалося активувати послугу. Натисніть, щоб повторити спробу."</string>
-    <string name="sim_unactivated_feature_title">"%s не було активовано"</string>
+    <string name="sim_unactivated_feature_title">"\"%s\" не було активовано"</string>
     <string name="sim_unactivated_msg">"Цю послугу не активовано. Натисніть, щоб повторити спробу."</string>
     <string name="sim_unactivated_register_xiaomi_account_feature_title">"Мі акаунт не було створено"</string>
     <string name="sim_unactivated_title">"SIM-картка не активована"</string>

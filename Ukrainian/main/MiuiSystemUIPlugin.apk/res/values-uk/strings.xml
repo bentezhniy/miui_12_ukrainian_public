@@ -107,6 +107,15 @@
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Скасувати</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Увімкнути</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">В режимі \"Живий монітор\", працює коли Bluetooth увімкнено. Увімкнути Bluetooth зараз?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Увімкніть Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Живий монітор</string>
+    <string name="hearing_assist_transmission_tips_cancel">Скасувати</string>
+    <string name="hearing_assist_transmission_tips_continue">Увімкнути</string>
+    <string name="hearing_assist_transmission_tips_summary">"Живий монітор підтримує передачу даних через мікрофон на підключені Bluetooth навушники. Увімкнути зараз?"</string>
+    <string name="hearing_assist_transmission_tips_title">Живий монітор</string>
     <string name="icon_content_description">Значок діалогового вікна</string>
     <string name="item_view_role_description">Tab</string>
     <string name="loading">Невідомий статус</string>

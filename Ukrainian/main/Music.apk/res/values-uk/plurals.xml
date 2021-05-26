@@ -234,6 +234,12 @@
         <item quantity="few">%d людини в підписках</item>
         <item quantity="many">%d людей в підписках</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d сповіщення</item>
+        <item quantity="one">%d сповіщення</item>
+        <item quantity="few">%d сповіщення</item>
+        <item quantity="many">%d сповіщення</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Вибрано %d елементів</item>
         <item quantity="one">Вибрано %d елемент</item>

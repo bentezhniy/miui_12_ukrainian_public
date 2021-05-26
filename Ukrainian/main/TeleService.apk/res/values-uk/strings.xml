@@ -1006,7 +1006,7 @@
     <string name="fiveg_sa_switch_open_dialog_title">Увага</string>
     <string name="fiveg_sa_switch_summary">Дозволяти підключення до мереж 5G у Автономному режимі</string>
     <string name="fiveg_sa_switch_warning_toast">Перезавантажте пристрій для застосування змін</string>
-    <string name="fiveg_sa_vice_switch_title">АУП на вторинній SIM-карті</string>
+    <string name="fiveg_sa_vice_switch_title">SA на другу SIM</string>
     <string name="fiveg_signal_strength1">Сила Сигналу 5G :</string>
     <string name="fiveg_switch_status1">5G перемикання стану:</string>
     <string name="fiveg_switch_title">Мережа 5G</string>
@@ -1078,7 +1078,7 @@
     <string name="incall_error_out_of_service">Мобільна мережа недоступна.</string>
     <string name="incall_error_out_of_service_kr">Тільки екстрений виклик.</string>
     <string name="incall_error_out_of_service_wfc">Мобільна мережа недоступна. Щоб зателефонувати, під’єднайтеся до бездротової мережі.</string>
-    <string name="incall_error_outgoing_call_failed">"Не вдається подзвонити"</string>
+    <string name="incall_error_outgoing_call_failed">"Не вдалося здійснити виклик"</string>
     <string name="incall_error_power_off">Щоб зателефонувати, вимкніть режим польоту.</string>
     <string name="incall_error_power_off_wfc">Щоб зателефонувати, вимкніть режим польоту або під’єднайтеся до бездротової мережі.</string>
     <string name="incall_error_promote_wfc">Щоб мати змогу телефонувати, увімкніть виклики через Wi-Fi.</string>
@@ -1381,7 +1381,7 @@
     <string name="msim_set_sub_not_supported_phone_in_call">"Неможливо задати під час виклику"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Помилка SIM-картки</string>
     <string name="msim_setting_categery_title">Налаштування SIM-картки</string>
-    <string name="msim_setting_default_data">SIM-дані</string>
+    <string name="msim_setting_default_data">Дані про карту</string>
     <string name="msim_setting_default_data_description">Дані SIM %d</string>
     <string name="msim_setting_default_voice">За замовчуванням для викликів</string>
     <string name="msim_setting_default_voice_description">SIM %d для дзвінків</string>
@@ -1462,7 +1462,7 @@
     <string name="no_vm_number_msg">На SIM-карті немає збереж. номерів голос. пошти.</string>
     <string name="no_voip">"Виклики SIP не підтримуються"</string>
     <string name="no_wifi_available">Для викликів SIP потрібне з’єднання з мережею Wi-Fi (скористайтеся налаштуваннями бездротового зв’язку та мереж).</string>
-    <string name="not_a_valid_port">Номер порту має бути в межах %1$d та %2$d.</string>
+    <string name="not_a_valid_port">Введіть номер порту між 1000 та 65534.</string>
     <string name="not_allowed">"Ваша SIM-карта не дозволяє під’єднання до цієї мережі."</string>
     <string name="not_set">Не налаштовано</string>
     <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>

@@ -42,7 +42,7 @@
     <string name="bluetooth_enable_notification_content">Програма %s увімкнула Bluetooth</string>
     <string name="bluetooth_enable_notification_title">Bluetooth увімкнено</string>
     <string name="bluetooth_open">Ця програма увімкнула Bluetooth</string>
-    <string name="bottom_bar_smallwindow_text">Відпустіть для контакту</string>
+    <string name="bottom_bar_smallwindow_text">Відпустіть, щоб закріпити</string>
     <string name="btn_cancel">Скасувати</string>
     <string name="btn_sure">ОК</string>
     <string name="button_text_cancel">Скасувати</string>
@@ -161,7 +161,7 @@
     <string name="miui_warning_button_cancel">Скасувати</string>
     <string name="miui_warning_button_ok">ОК</string>
     <string name="miui_warning_tip_info">Сталася помилка у %1$s. Закрити програму зараз?</string>
-    <string name="nearby_share">Поділитись поблизу</string>
+    <string name="nearby_share">Передавання поблизу</string>
     <string name="notification_channel_hotspot">Сповіщення про точку доступу</string>
     <string name="nubia">Нубія</string>
     <string name="nubia_phone">Нубія</string>
@@ -206,6 +206,11 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Запам\'ятати мій вибір</string>
+    <string name="relaunch_dialog_button_cancel">Скасувати</string>
+    <string name="relaunch_dialog_button_confirm">Гаразд</string>
+    <string name="relaunch_dialog_message">"Неможливо змінити розмір вікна під час використання програми. Перезапустіть програму для налаштування розміру вікна, але для отримання таких даних програми буде втрачено. Перезавантажити в будь-якому випадку?"</string>
+    <string name="relaunch_dialog_title">Перезавантажити \"%s?</string>
     <string name="remain">Залишилося: %s</string>
     <string name="replace">Замінити</string>
     <string name="resolver_app_recommend_flag">Рекомендовано</string>
@@ -283,7 +288,7 @@
     <string name="status_bar_toggle_paper_mode">Режим читання</string>
     <string name="status_bar_toggle_power_mode">Продуктивність</string>
     <string name="status_bar_toggle_quiet_mode">Тиша</string>
-    <string name="status_bar_toggle_rotate">Закріпити орієнтацію</string>
+    <string name="status_bar_toggle_rotate">Блокування орієнтації</string>
     <string name="status_bar_toggle_screen_button">Кнопки</string>
     <string name="status_bar_toggle_screenshot">Скріншот</string>
     <string name="status_bar_toggle_sync">Синхр.</string>
@@ -292,6 +297,8 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Точка доступу</string>
     <string name="stop_operate_camera_frequently">"Ви відкриваєте фронтальну камеру занадто часто."</string>
+    <string name="stylus_pen_mask_screenshot">Торкніться екрану, щоб зробити знімок екрану</string>
+    <string name="stylus_pen_mask_text">Торкніться екрану, щоб почати писати</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Автоматично налаштовувати яскравість у відповідності з навколишнім освітленням</string>
     <string name="sunlight_notification_title">Увімкнути Денний режим</string>
@@ -326,7 +333,7 @@
     <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>
     <string name="wireless_charging_notification_message1">"Немає пристроїв для бездротової зарядки. Реверсивна бездротова зарядка була відключена."</string>
-    <string name="wireless_charging_notification_message2">Акумулятор менше %s заряджено. Зараз вимкнено індикатор бездротової зарядки.</string>
+    <string name="wireless_charging_notification_message2">Рівень заряду менше 30%. Реверсивна бездротова зарядка була відключена.</string>
     <string name="wireless_charging_notification_message3">Сталася помилка. Реверсивна бездротова зарядка була відключена.</string>
     <string name="wireless_charging_notification_titile">Реверсивна бездротова зарядка відключена</string>
     <string name="xiaomi">Mi</string>

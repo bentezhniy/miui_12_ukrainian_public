@@ -22,7 +22,7 @@
     <string name="click_to_restore">Відновіть системні об\'єкти, щоб мати можливість нормально користуватися системою MIUI після скидання до заводських налаштувань. Натисніть для початку.</string>
     <string name="close">Закрити</string>
     <string name="com_android_email">Пошта</string>
-    <string name="com_android_soundrecorder">Рекордер</string>
+    <string name="com_android_soundrecorder">Диктофон</string>
     <string name="com_mi_liveassistant">Помічник трансляцій</string>
     <string name="com_miui_calculator">Калькулятор</string>
     <string name="com_miui_cleanmaster">Очищення</string>
@@ -31,7 +31,7 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Нотатки</string>
     <string name="com_miui_screenrecorder">Запис екрану</string>
-    <string name="com_miui_virtualsim">Mi роумінг</string>
+    <string name="com_miui_virtualsim">Mi Роумінг</string>
     <string name="com_miui_weather2">Погода</string>
     <string name="com_xiaomi_drivemode">Режим \"За кермом\"</string>
     <string name="com_xiaomi_gamecenter">Ігри</string>
@@ -39,7 +39,7 @@
     <string name="com_xiaomi_midrop">Шейм</string>
     <string name="com_xiaomi_scanner">Сканер</string>
     <string name="com_xiaomi_shop">Mi Store</string>
-    <string name="com_xiaomi_vipaccount">Спільнота Mi</string>
+    <string name="com_xiaomi_vipaccount">Mi Спільнота</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Підтвердити</string>
     <string name="copyright">Авторські права</string>
@@ -61,12 +61,12 @@
     <string name="error_title">"Не вдається синхронізувати"</string>
     <string name="error_unauthorized">Синхронізацію вимкнено через велику кількість спроб авторизації.</string>
     <string name="evening">PM</string>
-    <string name="experience_new_system_app">Оцініть нові можливості!</string>
+    <string name="experience_new_system_app">Ознайомтеся з новими функціями!</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_numeric_month_day">d.MM</string>
+    <string name="fmt_date_numeric_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_short_month_day">d MMMM</string>
     <string name="fmt_date_short_year_month_day">d MMMM yyyy</string>
     <string name="fmt_time_12hour">"h 'Г'"</string>
     <string name="fmt_time_24hour">"H 'Г'"</string>
@@ -193,7 +193,7 @@
     <string name="system_app_restore_failed">Сталася помилка</string>
     <string name="system_app_restore_failed_detail">"Не вдалося відновити систмнеі об'єкти. Перевірте налаштування мережі та не перезавантажуйте або вимикайте пристрій до повного завершення процесу відновлення. Натисніть на кнопку нижче, щоб почати ще раз."</string>
     <string name="system_restore">Відновити об\'єкти:</string>
-    <string name="tap_to_update_system_app">Торкніться, щоб оновити системні програми</string>
+    <string name="tap_to_update_system_app">Натисніть, щоб оновити системні програми</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">День деревонасадження</string>
@@ -246,7 +246,7 @@
     <string name="user_agreement">Угода користувача</string>
     <string name="user_experience_program">Програма поліпшення якості</string>
     <string name="user_manual">Керівництво користувача</string>
-    <string name="wait_for_wlan_china">Чекайте на Wi-Fi</string>
+    <string name="wait_for_wlan_china">Очікування WLAN</string>
     <string name="web_sso_login_fail">Необхідно авторизуватися знову</string>
     <string name="web_sso_login_message">Авторизація…</string>
     <string name="website">Сайт</string>

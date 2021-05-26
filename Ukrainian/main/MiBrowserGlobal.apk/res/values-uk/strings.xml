@@ -302,6 +302,9 @@
     <string name="columbus_player_close_video">ЗАКРИТИ ВІДЕО</string>
     <string name="columbus_player_install_now">ВСТАНОВИТИ Зараз</string>
     <string name="columbus_player_learn_more">Дізнатися більше</string>
+    <string name="columbus_player_speed_title">Пропустити відео?</string>
+    <string name="columbus_player_speed_video">Пропустити VIDEO</string>
+    <string name="columbus_player_unit_sec">сек</string>
     <string name="com_facebook_device_auth_instructions">Відвідайте &lt;b&gt;facebook.com/device&lt;/b&gt; та введіть код, показаний вище.</string>
     <string name="com_facebook_image_download_unknown_error">Неочікувана помилка при завантаженні зображення.</string>
     <string name="com_facebook_internet_permission_error_message">Для WebView входу потрібен дозвіл ІНТЕРНЕТ</string>
@@ -649,7 +652,7 @@ ID:%s
     <string name="feedback_send_email_body_extra_info">"Не видаляйте наступну інформацію. Вона допоможе нам знайти проблему."</string>
     <string name="fetch_video">Підготовка відео…</string>
     <string name="fetch_video_fail">"Не вдалося отримати дані"</string>
-    <string name="fetch_video_ssl_bad_clock">"Схоже, що дата і час встановлені на пристрої (%s) не є правильними. Налаштуйте налаштування і повторіть спробу."</string>
+    <string name="fetch_video_ssl_bad_clock">"На пристрої встановлена неправильна дата та час (%s). Змініть налаштування та повторіть спробу."</string>
     <string name="fetching_video">Підготовка відео…</string>
     <string name="file_dir">Змінити папку</string>
     <string name="file_info_canread">Читання: </string>
@@ -1186,7 +1189,7 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="nav_screen_container_tab_normal">Звичайна вкладка</string>
     <string name="nav_screen_incognito_message">"Ваші історії перегляду та пошуку не зберігаються в Режимі інкогніто. Пам'ятайте, що завантажені файли та закладки будуть збережені."</string>
     <string name="nav_screen_incognito_title"> Режим інкогніто</string>
-    <string name="nav_tab_guide_text">Ви можете керувати вкладками тут</string>
+    <string name="nav_tab_guide_text">Тут ви можете керувати вкладками</string>
     <string name="navigation_delete_all">Проведіть вліво або вправо, щоб закрити всі вкладки</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Скасувати</string>
     <string name="navigationbar_rightbutton_actiontext_go">Перейти</string>
@@ -1424,7 +1427,7 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="ping_test_title">Затримка мережі</string>
     <string name="play_pause_video">Відтворити або призупинити відео</string>
     <string name="play_video">Відтворити відео</string>
-    <string name="players_still_play">&lt;font color=#ff2458&gt;%s&lt;/font&gt; геймерів також подобаються таким</string>
+    <string name="players_still_play">Сподобалося &lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; гравцям</string>
     <string name="pm">Очистити кеш</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_video">Спливаюче відео</string>
@@ -1594,7 +1597,7 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="preference_title_autocomplete_search">Автозаповнення пошукових запитів і URL-адрес</string>
     <string name="privacy_accept">Погодитися та продовжити</string>
     <string name="privacy_agreement">Угодою користувача</string>
-    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Ця дія вимагає завантаження ID продуктивності, який не може бути зроблений в режимі Інкогніто. Залиште режим інкогніто та повторіть спробу."</string>
+    <string name="privacy_authorize_cannot_revoke_dialog_msg">"Для виконання цієї дії необхідно завантажити ваш Рerformance ID, що неможливо зробити в Режимі інкогніто. Вимкніть Режим інкогніто і повторіть спробу."</string>
     <string name="privacy_authorize_network_error">Для відкликання згоди ваш пристрій повинен бути підключений до мережі. Перевірте налаштування підключення та повторіть спробу.</string>
     <string name="privacy_authorize_revoke">Відкликати</string>
     <string name="privacy_authorize_revoke_dialog_msg">Після відкликання дозволу Мі Браузер припинить збір даних та видалить всі свої дані з наших серверів. Це може зробити Мі Браузер практично непридатним для використання. Відкликати дозвіл?</string>
@@ -1812,7 +1815,7 @@ WebView (на Android L-M, це версія додатка \"Android System Web
     <string name="sign_out">Вийти</string>
     <string name="skip">Пропустити</string>
     <string name="skip_current_version">Пропустити версію</string>
-    <string name="sku_price_everymonth">%1$s щомісяця</string>
+    <string name="sku_price_everymonth">%1$s кожного місяця</string>
     <string name="sms_send_success">Відправлено успішно</string>
     <string name="snapshot">На пристрої</string>
     <string name="snapshot_failed">"Не вдалося зберегти сторінку"</string>
@@ -2161,7 +2164,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="welcome_to_mi_browser">Ласкаво просимо в Mi Browser!</string>
+    <string name="welcome_to_mi_browser">Ласкаво просимо до Mi Браузер!</string>
     <string name="what_is_new">Оновіть програму, щоб мати доступ до нових функцій</string>
     <string name="whatsapp_downloadpage_tips">Збереження статусів WhatsApp</string>
     <string name="whatsapp_file_saved_success">Збережено</string>

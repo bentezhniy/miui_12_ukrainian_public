@@ -483,12 +483,12 @@
     <string name="xspace_disable">Не створено</string>
     <string name="xspace_enable">Створено</string>
     <string name="xspace_guide_content_bound">Доступні програми</string>
-    <string name="xspace_guide_des">Використовуйте одночасно 2 акаунти</string>
-    <string name="xspace_guide_description">"Кожен обліковий запис
-заслуговує на власний додаток"</string>
-    <string name="xspace_guide_title">Створити клоновану програму</string>
+    <string name="xspace_guide_des">Клонування дозволяє одночасо використовувати два акаунта без перемикання між ними</string>
+    <string name="xspace_guide_description">"Незалежні копії
+будь-яких програм."</string>
+    <string name="xspace_guide_title">Спробувати \"Клонування програм\"</string>
     <string name="xspace_header">Клоновані програми</string>
-    <string name="xspace_install_complete">&lt;font&gt;створено подвійний застосунок успішно. &lt;/font&gt;&lt;font color=#0D84FF&gt;Відкривати&lt;/font&gt;.</string>
+    <string name="xspace_install_complete">&lt;font&gt;Клон програми створено успішно. &lt;/font&gt;&lt;font color=#0D84FF&gt;Відкрити зараз&lt;/font&gt;.</string>
     <string name="xspace_install_completed">Ярлик створений на робочому столі</string>
     <string name="xspace_install_completed_global">Іконку додано в меню</string>
     <string name="xspace_install_failed">"Не вдалося створити"</string>

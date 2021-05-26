@@ -120,6 +120,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Закрити</string>
     <string name="close_alarm">Вимкнути</string>
+    <string name="close_alarm_new">Зупинити</string>
     <string name="common_settings">Загальні</string>
     <string name="common_timer_selector">Вибрати таймер</string>
     <string name="confirm">Підтвердити</string>
@@ -366,6 +367,7 @@
     <string name="noon">Полудень</string>
     <string name="normal_settings">Загальні налаштування</string>
     <string name="not_set">Не налаштовано</string>
+    <string name="not_set_temporarily">Ні, дякую</string>
     <string name="not_update">Не зараз</string>
     <string name="oneshot_alarm">Видалити після спрацювання</string>
     <string name="open_keep_screen">Екран буде увімкнено</string>
@@ -406,6 +408,7 @@
     <string name="set_alarm_choose_ringtone">Виберіть мелодію</string>
     <string name="set_alarm_done">Готово</string>
     <string name="set_alarm_other">Інше</string>
+    <string name="set_now">Сет</string>
     <string name="setting_alarm_arriving_subtitle">Сповіщати сповіщенням перед сигналами</string>
     <string name="setting_alarm_arriving_summary">Надсилати сповіщення перед сигналом</string>
     <string name="setting_alarm_arriving_title">Сповіщення перед сигналом</string>
@@ -444,6 +447,7 @@
     <string name="sleep_time">Початок сну</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Посуньте вгору, щоб відключити</string>
+    <string name="slider_text_new">Проведіть пальцем угору, щоб зупинити</string>
     <string name="snooze_confirm_cancel">Вимкнути будильник</string>
     <string name="snooze_duration">Відкласти</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -568,6 +572,7 @@
     <string name="timer_end_time_format">HH:mm d MMMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">ОК</string>
+    <string name="timer_got_it_new">Тиша</string>
     <string name="timer_is_paused">Таймер зупинено</string>
     <string name="timer_item_delete">Видалити</string>
     <string name="timer_item_duration_display">%1$d хв %2$d сек</string>
@@ -617,6 +622,7 @@
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="week_ringtone_recommend_desc">Природний сигнал відтворює різні звуки залежно від дати. Встановити його як сигнал тривоги за замовчуванням?</string>
     <string name="white_noise_selector">Вибрати аудіо</string>
     <string name="workday_alarm_clock">По робочих днях</string>
     <string name="worldclock_empty_text">Немає часових поясів</string>

@@ -127,10 +127,10 @@
         <item quantity="many">через %d хв</item>
     </plurals>
     <plurals name="item_terms">
-        <item quantity="other">%1$s елементів</item>
-        <item quantity="one">%1$s елемент</item>
-        <item quantity="few">%1$s елементів</item>
-        <item quantity="many">%1$s елементів</item>
+        <item quantity="other">%1$s об\'єктів</item>
+        <item quantity="one">%1$s об\'єкт</item>
+        <item quantity="few">%1$s об\'єкта</item>
+        <item quantity="many">%1$s об\'єктів</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Тільки що</item>
@@ -159,13 +159,13 @@
     <plurals name="pc_notes_search_result">
         <item quantity="other">Знайдено %1$s нотаток</item>
         <item quantity="one">Знайдено %1$s нотатку</item>
-        <item quantity="few">Знайдено %1$s нотаток</item>
+        <item quantity="few">Знайдено %1$s нотатки</item>
         <item quantity="many">Знайдено %1$s нотаток</item>
     </plurals>
     <plurals name="pc_todo_search_result">
         <item quantity="other">Знайдено %1$s завдань</item>
         <item quantity="one">Знайдено %1$s завдання</item>
-        <item quantity="few">Знайдено %1$s завдань</item>
+        <item quantity="few">Знайдено %1$s завдання</item>
         <item quantity="many">Знайдено %1$s завдань</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
