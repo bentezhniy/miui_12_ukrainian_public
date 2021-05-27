@@ -93,7 +93,6 @@
     <string name="app_description_content">"Музика - це системна програма, яка включає в себе музичний програвач і дозволяє управляти аудіофайлами. Після видалення ярлика на робочому столі ви як і раніше зможете відтворювати аудіофайли на пристрої."</string>
     <string name="app_description_title">Видалити програму \"Музика\" з робочого столу?</string>
     <string name="app_label">Завантаження</string>
-    <string name="app_name">Налаштування</string>
     <string name="app_permission_confirm">Зрозуміло</string>
     <string name="app_permission_optional">Необов\'язкові дозволи</string>
     <string name="app_permission_require">Обов\'язкові дозволи</string>
