@@ -75,7 +75,7 @@
     <string name="ew_detail_receive_time_title">Час початку</string>
     <string name="ew_detail_receive_warn_time_message">%s сек</string>
     <string name="ew_detail_receive_warn_time_title">Час до початку</string>
-    <string name="ew_save_title">Зберегти</string>
+    <string name="ew_save_title">Save</string>
     <string name="ew_share_logo_title">Попередження про землетрус</string>
     <string name="ew_share_save_tips">Збережено до %s</string>
     <string name="ew_share_title">Поділитися</string>

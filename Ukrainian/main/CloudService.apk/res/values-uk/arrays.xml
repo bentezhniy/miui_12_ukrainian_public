@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Щ</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>Визначення об\'єктів синхронізації</item>
         <item>Синхронізація повідомлень</item>
@@ -82,13 +23,13 @@
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>Синхронізовуйте контакти, повідомлення, нотатки, календар та багато іншого</item>
         <item>Створюйте резервну копію програм, розкладки робочого столу та шпалер</item>
-        <item>Створюйте резервну копію важливих налаштувань, включаючи Wi-Fi та екран</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
         <item>"Блокуйте пристрій віддалено, якщо його було втрачено"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Синхронізовуйте контакти, повідомлення, нотатки, календар та багато іншого</item>
         <item>Створюйте резервну копію програм, розкладок робочого столу та шпалер</item>
-        <item>Створюйте резервну копію важливих налаштувань, включаючи Wi-Fi та екран</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
         <item>"Блокуйте пристрій віддалено, у випадку його втрати"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
@@ -223,12 +164,12 @@
     <string-array name="settings_search_wlan">
         <item>Синхронізація налаштувань Wi-Fi з Xiaomi Cloud</item>
         <item>Увімкнути синхронізацію</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Хмара;Синхронізація;Хмарні послуги;Xiaomi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Синхронізація налаштувань Wi-Fi з Xiaomi Cloud</item>
+        <item>Sync Wi-Fi settings with Xiaomi Cloud</item>
         <item>Увімкніть синхронізацію</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Хмара;Синхронізація;Хмарні послуги;Xiaomi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Переглянути синхронізовані об\'єкти</item>

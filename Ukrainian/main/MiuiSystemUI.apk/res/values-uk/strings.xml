@@ -788,6 +788,7 @@
     <string name="face_unlock_reveal_eye">Ваші очі мають бути видимими</string>
     <string name="face_unlock_reveal_mouth">Ваші губи мають бути видимими</string>
     <string name="face_unlock_success">Успішно розблоковано</string>
+    <string name="face_unlock_swipe_up_retry">Проведіть вгору, щоб спробувати ще раз</string>
     <string name="failed_to_open_app_settings_toast">"Не вдалося відкрити налаштування для %1$s"</string>
     <string name="finger_error_single_mode">"Не вдається використовувати сканер відбитків пальців в режимі однією рукою. Закрити режим з однією рукою і повторіть спробу."</string>
     <string name="fingerprint_add_text">Було оновлено інтерфейс відбитка пальця. Додайте ваш відбиток ще раз.</string>
@@ -1098,7 +1099,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN-коди не збігаються</string>
     <string name="kg_invalid_puk">Повторно введіть правильний PUK-код. Численні спроби назавжди вимкнуть SIM-карту.</string>
     <string name="kg_invalid_sim_pin_hint">Введіть PIN-код із 4–8 цифр.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-код має складатися зі щонайменше 8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код має містити %1$d цифр.</string>
     <string name="kg_login_too_many_attempts">Забагато спроб намалювати ключ</string>
     <string name="kg_password_instructions">Введіть пароль</string>
     <string name="kg_password_pin_failed">Помилка введення PIN-коду SIM-карти.</string>

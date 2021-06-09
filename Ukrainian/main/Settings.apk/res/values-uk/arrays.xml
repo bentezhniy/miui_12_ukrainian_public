@@ -509,12 +509,6 @@
         <item>PIN</item>
         <item>Пароль</item>
     </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Вимкнено</item>
-        <item>Потік</item>
-        <item>Світіння</item>
-        <item>Хвиля</item>
-    </string-array>
     <string-array name="city_name">
         <item>Абіджан</item>
         <item>Аккра</item>

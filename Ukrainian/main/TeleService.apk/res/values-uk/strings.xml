@@ -1027,6 +1027,14 @@
     <string name="four_point_five_switch_summary">Використайте 4.5G для збільшення швидкості передачі даних моб. даних та покращення якості голосу</string>
     <string name="four_point_five_switch_title">4,5G</string>
     <string name="frequecy_num">lte канал num</string>
+    <string name="full_forwarding_number">Переадресація номеру</string>
+    <string name="full_forwarding_number_error_msg">Підтримуються лише номери телефонів, які починаються з \"0\".</string>
+    <string name="full_forwarding_number_error_title">Невірний номер телефону</string>
+    <string name="full_forwarding_number_prefix">"Номер телефону: "</string>
+    <string name="full_forwarding_option_forwarding">Переадресація</string>
+    <string name="full_forwarding_option_off">ВИМК</string>
+    <string name="full_forwarding_option_voicemail">Голосова пошта</string>
+    <string name="full_forwarding_settings">Повна переадресація</string>
     <string name="fw_change_failed">"Не вдалося змінити номер переадресації.
 Зв’яжіться зі своїм оператором, якщо проблема не зникне."</string>
     <string name="fw_get_in_vm_failed">"Не вдалося отримати та зберегти поточні налаштування номера переадресації.
@@ -1109,6 +1117,7 @@
     <string name="invalid_pin2">Введіть PIN2-код, який містить від %1$d до %2$d чисел.</string>
     <string name="invalid_puk">Введіть PUK-код, який містить від %1$d до %2$d чисел.</string>
     <string name="invalid_puk2">Введіть PUK2-код, який містить від %d до чисел.</string>
+    <string name="invalid_secretcode_format_txt">Невірний формат секретного коду!</string>
     <string name="ivr_mo_area_code_settings">Поточний код регіону</string>
     <string name="ivr_mo_area_code_settings_hint">Ввести телефонний код</string>
     <string name="ivr_parameter_settings">Налаштування параметрів IVR</string>
@@ -1381,7 +1390,7 @@
     <string name="msim_set_sub_not_supported_phone_in_call">"Неможливо задати під час виклику"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Помилка SIM-картки</string>
     <string name="msim_setting_categery_title">Налаштування SIM-картки</string>
-    <string name="msim_setting_default_data">Дані про карту</string>
+    <string name="msim_setting_default_data">Інтернет</string>
     <string name="msim_setting_default_data_description">Дані SIM %d</string>
     <string name="msim_setting_default_voice">За замовчуванням для викликів</string>
     <string name="msim_setting_default_voice_description">SIM %d для дзвінків</string>
@@ -1462,7 +1471,7 @@
     <string name="no_vm_number_msg">На SIM-карті немає збереж. номерів голос. пошти.</string>
     <string name="no_voip">"Виклики SIP не підтримуються"</string>
     <string name="no_wifi_available">Для викликів SIP потрібне з’єднання з мережею Wi-Fi (скористайтеся налаштуваннями бездротового зв’язку та мереж).</string>
-    <string name="not_a_valid_port">Введіть номер порту між 1000 та 65534.</string>
+    <string name="not_a_valid_port">Номер порту має бути в межах %1$d та %2$d.</string>
     <string name="not_allowed">"Ваша SIM-карта не дозволяє під’єднання до цієї мережі."</string>
     <string name="not_set">Не налаштовано</string>
     <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>
@@ -1639,6 +1648,7 @@
     <string name="pin_progress_unlock_icc">Розблокування SIM-картки…</string>
     <string name="pin_puk_system_user_only">PIN- і PUK-код може ввести лише власник пристрою.</string>
     <string name="ping_test_label">Надіслати запит ping</string>
+    <string name="play_voicemail_settings">Відтворити голосову пошту</string>
     <string name="pointer_location">Розташування курсора</string>
     <string name="pointer_location_summary">Показувати на екрані жести й натискання</string>
     <string name="police_type_description">Поліція</string>
@@ -2349,6 +2359,7 @@ SIM-картка буде заблокована при наступній не�
     <string name="voice_service_warning_dialog_title">Виклики VoLTE</string>
     <string name="voicemail">Голосова пошта</string>
     <string name="voicemail_abbreviated">ГП:</string>
+    <string name="voicemail_callforward_settings">Голосова пошта та переадресація виклику</string>
     <string name="voicemail_change_pin_dialog_title">Змінити PIN-код</string>
     <string name="voicemail_default">Ваш оператор</string>
     <string name="voicemail_notification_vibrate_when_title">Вібрувати</string>

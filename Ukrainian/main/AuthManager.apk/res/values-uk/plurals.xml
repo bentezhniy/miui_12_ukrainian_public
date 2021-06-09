@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 годину тому</item>
+        <item quantity="one">Годину тому</item>
         <item quantity="few">Годину тому</item>
         <item quantity="many">Годину тому</item>
         <item quantity="other">Годину тому</item>

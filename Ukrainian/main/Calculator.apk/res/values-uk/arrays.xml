@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>А</item>
-        <item>Б</item>
-        <item>В</item>
-        <item>Г</item>
-        <item>Д</item>
-        <item>Е</item>
-        <item>Ж</item>
-        <item>З</item>
-        <item>И</item>
-        <item>К</item>
-        <item>Л</item>
-        <item>М</item>
-        <item>Н</item>
-        <item>О</item>
-        <item>П</item>
-        <item>Р</item>
-        <item>С</item>
-        <item>Т</item>
-        <item>У</item>
-        <item>Ф</item>
-        <item>Х</item>
-        <item>Ц</item>
-        <item>Ч</item>
-        <item>Ш</item>
-        <item>Э</item>
-        <item>Ю</item>
-        <item>Я</item>
-    </string-array>
     <string-array name="height_array">
         <item>Сантиметри</item>
         <item>Метри</item>
         <item>Фут</item>
         <item>Дюйми</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
     </string-array>
     <string-array name="mortgage_repayment">
         <item>Рівними внесками</item>
@@ -62,17 +37,6 @@
         <item>Долар</item>
         <item>Євро</item>
         <item>Єна</item>
-    </string-array>
-    <string-array name="unit_data_order_time_">
-        <item>yr</item>
-        <item>тиждень</item>
-        <item>день</item>
-        <item>h</item>
-        <item>min</item>
-        <item>s</item>
-        <item>ms</item>
-        <item>us</item>
-        <item>ps</item>
     </string-array>
     <string-array name="weight_array">
         <item>Кілограми</item>
