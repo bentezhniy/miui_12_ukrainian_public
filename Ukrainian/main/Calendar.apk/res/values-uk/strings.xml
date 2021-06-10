@@ -159,7 +159,6 @@
     <string name="date_interval_text_to">До %1$s</string>
     <string name="date_jump_hint">Відразу перейти до конкретної дати</string>
     <string name="date_jump_title">Перейти до дати</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сьогодні)"</string>
     <string name="day">День</string>
     <string name="day_view_new_event_hint">Створити захід</string>
