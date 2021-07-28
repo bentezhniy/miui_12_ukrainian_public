@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ВИМК</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -57,6 +57,8 @@
     <string name="cloud_storage_already_full">Cloud storage is full: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Зайнято: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Хмарне сховище</string>
+    <string name="cloud_storage_info_type_drive">Mi Drive</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Сім\'я</string>
     <string name="cloud_storage_info_type_others">Інше</string>
     <string name="cloud_storage_info_type_pdc">Системні налаштування</string>
@@ -146,6 +148,8 @@
     <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
     <string name="fmt_date_short_month_day">dd.MM</string>
     <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_time_12hour">"о 'годинник'"</string>
+    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="forget_password"><u>Забули пароль?</u></string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
@@ -185,8 +189,11 @@
     <string name="ks_download_success">Завантажено успішно</string>
     <string name="ks_fingerprint_payment">Оплата відбитком пальця</string>
     <string name="ks_fingerprint_status">Статус оплати</string>
-    <string name="ks_name_high_precise_position">висока точна позиція</string>
+    <string name="ks_name_alipay">IFAA</string>
+    <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
+    <string name="ks_name_soter">Soter</string>
+    <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Доступно</string>
     <string name="ks_status_unavailable">Недоступно</string>
     <string name="ks_update_certificate">Сертифікат</string>
@@ -430,6 +437,7 @@
     <string name="micloud_space_applist_detail">Керування програмами на робочому столі</string>
     <string name="micloud_space_applist_title">Керування програмами</string>
     <string name="micloud_space_duokan_detail">Завантажуйте та читайте книги за допомогою програми Duokan.</string>
+    <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">Керування записами диктофону на пристрої</string>
     <string name="micloud_space_soundrecorder_title">Записи диктофону</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Необхідно оновити передплату.</string>
@@ -496,14 +504,6 @@
     <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
     <string name="miuix_appcompat_select_item">Виберіть предмети</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Відпустіть, щоб оновити</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Просто секунда…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
     <string name="monday">Понеділок</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -730,12 +730,6 @@
     <string name="share_weibo_not_installed">"Weibo не встановлено."</string>
     <string name="share_weixin_not_installed">"WeChat не встановлено."</string>
     <string name="short_cut_desc">Додати іконку Xiaomi Cloud на робочий стіл?</string>
-    <string name="sina_share_fail">"Неможливо надіслати"</string>
-    <string name="sina_share_fail_content_repeat">"Вміст вже існує"</string>
-    <string name="sina_share_pendding">Надсилання…</string>
-    <string name="sina_share_success">Надіслано</string>
-    <string name="sina_token_expired_warning">Термін дії акаунту Weibo вийшов. Прив\'яжіть повторно.</string>
-    <string name="sina_token_invalid_warning">Неправильний акаунт Weibo. Прив\'яжіть повторно.</string>
     <string name="solar_term_autumn_begins">Осінь починається</string>
     <string name="solar_term_autumn_equinox">Осінній рівнодення</string>
     <string name="solar_term_clear_and_bright">Ясно і яскраво</string>
@@ -767,6 +761,7 @@
     <string name="soundrecorder_sync_records">Синхронізація із Xiaomi Cloud</string>
     <string name="special_func_title">Особливі функції</string>
     <string name="starred_contact">Обрані</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_cloud_data_title">Переглянути об\'єкти у хмарі</string>
     <string name="storage_manage_expansion">Отримати більше</string>
     <string name="storage_manage_full_summary">Хмарне сховище заповнено.</string>
@@ -783,6 +778,7 @@
     <string name="sub_sync_item_sms_summary">"Синхронізація SMS, що містять фото, аудіо чи інші медіа тільки по Wi-Fi"</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS тільки по Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">НД</string>
     <string name="sunday_shortest">НД</string>

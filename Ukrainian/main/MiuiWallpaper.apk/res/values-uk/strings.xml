@@ -37,6 +37,7 @@
     <string name="clearable_edittext_clear_description">Очистити</string>
     <string name="copy">Скопіювати</string>
     <string name="date_picker_lunar">Традиційний китайський календар</string>
+    <string name="download_button">Кнопка завантаження</string>
     <string name="download_failed">"Помилка завантаження"</string>
     <string name="early_morning">Ранок</string>
     <string name="earth_id">земля</string>

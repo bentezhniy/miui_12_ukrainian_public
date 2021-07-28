@@ -619,6 +619,7 @@
     <string name="app_sees_restricted_accounts_and_controlled_by">Цей додаток може отримувати доступ до ваших облікових записів. Доступом можна керувати в додатку %1$s</string>
     <string name="app_settings_link">Додаткові налаштування в додатку</string>
     <string name="app_switch_key">Кнопка \"Нещодавні\"</string>
+    <string name="app_uninstall_sounds_enable_title">Відтворювати звук при видаленні застосунків</string>
     <string name="app_usage_cycle">Цикл мобільного трафіку</string>
     <string name="app_usage_preference">Параметри використання додатка</string>
     <string name="app_version">Версія</string>
@@ -1359,6 +1360,7 @@
     <string name="bluetooth_unlock_settings_devices_title">Пристрій</string>
     <string name="bluetooth_unlock_settings_toggle_title">Доступні пристрої</string>
     <string name="bluetooth_unlock_settings_unlock_device">Розблокування екрана</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Ця функція працює з вибраними портативними пристроями від Xiaomi</string>
     <string name="bluetooth_unlock_state_disconnected">Не підключено</string>
     <string name="bluetooth_unlock_state_key_error">Неправильний пароль</string>
     <string name="bluetooth_unlock_state_label">"Статус:"</string>
@@ -1410,7 +1412,7 @@
     <string name="bootloader_status_locked">Заблокований</string>
     <string name="bootloader_status_locked_info">Пристрій заблокований</string>
     <string name="bootloader_status_locked_summary">Пристрій захищений</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальної роботи Mi Unlock необхідний доступ до вашого Мі акаунту, ID ЦП, IMEI, IMSI. Ми збираємо, обробляємо та використовуємо ваші дані у відповідності з нашою %s. Дозволити?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock потрібен доступ до вашого Mi аккаунта, ЦП ID, IMSI працювати нормально. Прочитайте і погодьтеся з нашою &lt;a href=\"%1$s\"&gt;Політикою конфіденційності&lt;/a&gt;. Прийняти?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Скасувати</string>
     <string name="bootloader_status_privacy_dialog_title">Необхідні дозволи</string>
     <string name="bootloader_status_privacy_dialog_url_text">Політика конфіденційності</string>
@@ -1444,9 +1446,17 @@
     <string name="bt_absVolume_open_dialog_title">Увага</string>
     <string name="bt_absVolume_pre_title">Абсоолютниій рівень гучності</string>
     <string name="bt_absVolume_summary">"Зберігати гучність телефону і Bluetooth-пристроїв на одному рівні. Ви можете увімкнути або відключити цю функцію, коли мультимедіа не відтворюється у фоновому режимі."</string>
+    <string name="bt_audio_repair_property">Виправити проблеми з аудіо</string>
     <string name="bt_audio_share_property">Передача</string>
     <string name="bt_audio_share_switch_summary">Поділитися аудіо через підключені пристрої Bluetooth</string>
     <string name="bt_audio_share_switch_title">Поділитися аудіо</string>
+    <string name="bt_audiorepair_dialog_open_success">Успішно виправлено. Зачекайте на повторне підключення пристрою.</string>
+    <string name="bt_audiorepair_dialog_openok">Виправити</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI виявлятиме та відновлюватиме проблеми, що викликають аудіопристрій Bluetooth. Bluetooth буде перезапущено під час цього процесу. Не залишайте цю сторінку, поки не побачите результати."</string>
+    <string name="bt_audiorepair_open_dialog_title">Виправити аудіо стан</string>
+    <string name="bt_audiorepair_pre_title">Виправити аудіо стан</string>
+    <string name="bt_audiorepair_summary">Виправляти відтворення звуку під час під\'єднаних пристроїв Bluetooth</string>
+    <string name="bt_audiorepair_working">Виправлення аудіо тупик…</string>
     <string name="bt_dialog_remember_choice">"Більше не показувати"</string>
     <string name="bt_dialog_settings">Налаштування</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
@@ -1651,10 +1661,14 @@
     <string name="channel_notifications_off_desc">На ваш запит Android блокує цю категорію сповіщень на пристрої</string>
     <string name="character_counter_content_description">Символи увійшли %1$d з %2$d</string>
     <string name="character_counter_overflowed_content_description">Перевищено ліміт символу %1$d з %2$d</string>
+    <string name="charge_animation_style_lollipop">Потік</string>
+    <string name="charge_animation_style_none">Вимкнено</string>
     <string name="charge_animation_style_summary">Виберіть бажаний стиль анімації зарядки екрана блокування</string>
     <string name="charge_animation_style_title">Анімація зарядки</string>
+    <string name="charge_animation_style_video">Сяйво</string>
+    <string name="charge_animation_style_wave">Хвиля</string>
     <string name="charge_length_format">%1$s тому</string>
-    <string name="charging_sounds_title">Звук і вібрація для заряджання</string>
+    <string name="charging_sounds_title">Звуки зарядки та вібрація</string>
     <string name="check_find_device_status_failure_confirm">ОК</string>
     <string name="check_update">Перевірити оновлення</string>
     <string name="checkbox_notification_same_as_incoming_call">Викор. гучність вхідних дзвінків для сповіщень</string>
@@ -1727,7 +1741,11 @@
     <string name="color_game_led_applications_title_summary">Виберіть програми, які будуть використовувати світловий індикатор.</string>
     <string name="color_game_led_battery_title">Тримати увімкненим під час заряджання</string>
     <string name="color_game_led_charging_summary">Світловий індикатор відключений після закінчення заряджання батареї</string>
+    <string name="color_game_led_color_title">Колір</string>
     <string name="color_game_led_end_time">Закінчення</string>
+    <string name="color_game_led_feature_off">Вимкнено</string>
+    <string name="color_game_led_feature_on">Увімк</string>
+    <string name="color_game_led_freq_title">Частота</string>
     <string name="color_game_led_game_mode_summary">Показувати ефекти для ігор при увімкненому Game Turbo</string>
     <string name="color_game_led_game_mode_title">Використовувати для Game Turbo</string>
     <string name="color_game_led_incall_pulse_title">Використовувати для вхідних викликів</string>
@@ -2047,9 +2065,14 @@
     <string name="dark_color_summary_lcd">"Використовувати більш темну колірну палітру для шпалер та сумісних програм. Темний режим допомагає зняти навантаження на очі під час використання пристрою в темряві."</string>
     <string name="dark_color_summary_oled">Використовувати більш темну колірну палітру для шпалер та сумісних програм. Темний режим знижує споживання енергії і допомагає зняти навантаження на очі.</string>
     <string name="dark_mode_apps_header">Окремі програми</string>
+    <string name="dark_mode_auto_time_summary">Увімкнути та вимкнути темний режим запланованого часу</string>
+    <string name="dark_mode_auto_time_title">Користувацька</string>
     <string name="dark_mode_contrast">Автоматично налаштовувати контрастність</string>
     <string name="dark_mode_contrast_hint">Автоматично регулюйте кольори і зменшуйте контрастніть при зменшенні яскравості</string>
+    <string name="dark_mode_day_night_mode_summary">Перейти в темний режим при заході сонця і вимкнути його на сході сонця</string>
+    <string name="dark_mode_day_night_mode_title">Захід до сходу сонця</string>
     <string name="dark_mode_font_background_title">Автоналаштування шрифтів та фону</string>
+    <string name="dark_mode_time_settings">Темний режим за розкладом</string>
     <string name="dark_theme_slice_subtitle">Подовжує роботу акумулятора</string>
     <string name="dark_theme_slice_title">Спробуйте темну тему</string>
     <string name="dark_ui_activation_off_auto">Вимкнути до заходу сонця</string>
@@ -2254,6 +2277,7 @@
     <string name="default_calendar_app_title">Додаток для календарів</string>
     <string name="default_contacts_app_title">Додаток для контактів</string>
     <string name="default_digital_assistant_title">Цифровий помічник за умовчанням</string>
+    <string name="default_document_title">Документи</string>
     <string name="default_emergency_app">Додаток для екстрених викликів</string>
     <string name="default_for_calls">За умовчанням для дзвінків</string>
     <string name="default_for_calls_and_sms">За умовчанням для дзвінків і SMS</string>
@@ -2286,7 +2310,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Видалити цей відбиток?</string>
     <string name="delete_rule">Видалити правило</string>
     <string name="delete_saved_network">Видалити збережені мережі</string>
-    <string name="delete_sound_effect">Звук видалення об\'єктів</string>
+    <string name="delete_sound_effect">Відтворювати звук при видаленні елементів</string>
     <string name="deleted_apps">Видалені програми</string>
     <string name="deletion_helper_automatic_title">Автоматично</string>
     <string name="deletion_helper_manual_title">Вручну</string>
@@ -2429,6 +2453,7 @@
     <string name="disable_overlays">Відключити накладення</string>
     <string name="disable_overlays_summary">Завжди використовувати GPU під час компонування екрана</string>
     <string name="disable_power_key_long_press_under_keyguard">Вимкнути меню кнопки \"Живлення\"</string>
+    <string name="disable_quick_start">Вимкнути швидкий запуск</string>
     <string name="disable_service_message">Натиснувши \"%1$s\", ви зупините сервіс %2$s.</string>
     <string name="disable_service_title">Зупинити %1$s?</string>
     <string name="disable_text">Вимкнути</string>
@@ -2558,6 +2583,11 @@
     <string name="dock_sounds_enable_summary_on">Грати звук під час вставл. чи виймання тел. зі станції</string>
     <string name="dock_sounds_enable_title">Звук вставлення в док-станцію</string>
     <string name="docking_sounds_title">Звуки вставлення в док-станцію</string>
+    <string name="document_default_status">Вибрати</string>
+    <string name="document_excel_title">Ексель</string>
+    <string name="document_pdf_title">Файл pdf</string>
+    <string name="document_powerpoint_title">PowerPoint</string>
+    <string name="document_word_title">Слово</string>
     <string name="does_not_exist">Програма не існує.</string>
     <string name="domain_url_section_title">Установлені додатки</string>
     <string name="domain_urls_apps_summary_off">Немає додатка, у якому можна відкривати посилання</string>
@@ -2622,8 +2652,8 @@
     <string name="dual_wifi_switching_prompt">Перехід між мережами</string>
     <string name="dual_wifi_switching_summary">Дводіапазонне збільшення швидкості Wi-Fi повинне використовувати два різних діапазони Wi-Fi. Якщо ви підключитеся до іншої основної мережі, допоміжна мережа буде втрачена.</string>
     <string name="dump_log">Зібрати журнали проблем</string>
-    <string name="dump_log_summary">"Ця функція призначена для створення журналу 284 в бета-версіях MIUI. Використовуйте її з обережністю.
-Ви можете переглянути створені журнали в Провіднику."</string>
+    <string name="dump_log_summary">"Ця функція призначена для генерації журналу %s в бета-версії MIUI. Будьте обережні в читанні.
+Ви можете переглянути згенеровані логи в файловому менеджері."</string>
     <string name="dump_log_title">Детальніше про цю функцію</string>
     <string name="early_morning">Ранок</string>
     <string name="easymode_hint">Натисніть, щоб відключити Простий режим</string>
@@ -2672,11 +2702,17 @@
     <string name="enable_gnss_raw_meas_full_tracking_summary">Відстежувати всі фотосхеми й частоти GNSS без застосування циклічного режиму</string>
     <string name="enable_gpu_debug_layers">Увімкнути слої відкладення GPU</string>
     <string name="enable_gpu_debug_layers_summary">Дозволити завантаження шарів відкладення GPU для налагоджувача</string>
+    <string name="enable_local_backup">Увімкнути</string>
+    <string name="enable_local_backup_cancel">Скасувати</string>
+    <string name="enable_local_backup_message">Увімкніть цю функцію, щоб мати можливість зберігати резервні копії на цьому пристрої і копіювати їх на носій комп\'ютера або USB. Увімкнути зараз?</string>
+    <string name="enable_local_backup_ok">Гаразд</string>
+    <string name="enable_local_backup_title">Локальні резервні копії</string>
     <string name="enable_mms_notification_channel_title">MMS-повідомлення</string>
     <string name="enable_mms_notification_summary">Торкніться, щоб увімкнути MMS-повідомлення для оператора %1$s, коли мобільне передавання даних вимкнено</string>
     <string name="enable_mobile_data_when_opening_hotspot">Увімкнути мобільний інтернет?</string>
     <string name="enable_opengl_traces_title">Увімкнути трасування OpenGL</string>
     <string name="enable_quick_setting">Показувати на панелі швидкого налаштування</string>
+    <string name="enable_quick_start">Увімкнути швидкий запуск</string>
     <string name="enable_receiving_mms_notification_title">Вхідне MMS-повідомлення</string>
     <string name="enable_screen_projection_summary">Транслювати зображення на зовнішній монітор</string>
     <string name="enable_sending_mms_notification_title">Не вдається надіслати MMS-повідомлення</string>
@@ -2867,10 +2903,11 @@
     <string name="face_data_siggesstion_next">Далі</string>
     <string name="face_data_siggesstion_next_time">Далі (%d сек)</string>
     <string name="face_data_suggesstion_first">Розблокування за допомогою розпізнавання обличчя є менш безпечним, ніж використання PIN-коду, пароля або графічного ключа. Ваш пристрій може бути розблоковано фотографією, а також людьми або об\'єктами зі схожою зовнішністю.</string>
-    <string name="face_data_suggesstion_second">"Переконайтеся, що всі частини вашого обличчя нічим не закриті та чітко видимі. Ваше обличчя повинно бути добре освітлено."</string>
+    <string name="face_data_suggesstion_second">"Переконайтеся, що всі частини свого обличчя чітко видні. Не вдягайте ніяких аксесуарів, які можуть покрити ваше обличчя. Тримайте обличчя рівномірно освітленим та уникати прямого світла."</string>
     <string name="face_intro_error_max">Ви додали максимальну кількість облич</string>
     <string name="face_intro_error_unknown">Неможливо додати більше облич</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Блокування екрана захистить ваш телефон, якщо він загубиться чи його викрадуть. Воно також потрібне, щоб налаштувати Фейсконтроль. Щоб повернутися назад, натисніть \"Скасувати\".</string>
+    <string name="face_password_unlock">Дані про листі &amp; блокування екрана</string>
     <string name="face_unlock">Розблокування обличчям</string>
     <string name="face_unlock_be_on_the_screen">Тримайте пристрій навпроти обличчя</string>
     <string name="face_unlock_by_notification_screen_on_msg">Ви можете розблоковувати пристрій за допомогою розблокування обличчя, коли екран вмикається під час надходження сповіщень. Це може викликати швидше зниження заряду батареї.</string>
@@ -2962,6 +2999,7 @@
     <string name="fingerprint_enable_keyguard_toggle_title">блокування екрана</string>
     <string name="fingerprint_enroll_button_add">Додати ще</string>
     <string name="fingerprint_enroll_button_next">Далі</string>
+    <string name="fingerprint_face_password_unlock">Відбитки, дані обличчя, та блокування екрану</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Фейсконтроль (необхідно налаштувати блокування екрана)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Відбиток пальця (необхідно налаштувати блокування екрана)</string>
     <string name="fingerprint_for_keyguard_disabled">Використання відбитка вимкнено з міркувань безпеки.</string>
@@ -2986,6 +3024,7 @@
     <string name="fingerprint_not_identified_msg">"Не вдалося прочитати відбиток пальця. Введіть пароль"</string>
     <string name="fingerprint_not_recognized">Не розпiзнано</string>
     <string name="fingerprint_others_title">Інші</string>
+    <string name="fingerprint_password_unlock">Відбитки &amp; блокування екрана</string>
     <string name="fingerprint_payment">Оплата відбитком пальця</string>
     <string name="fingerprint_removal_failed">"Не вдалося видалити відбиток пальця, повторіть спробу пізніше"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Швидкий перегляд сповіщень</string>
@@ -3025,6 +3064,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Коли перемикач вимкнено, встановлена програма не зможе підключитися до інтернету, використовуючи Wi-Fi."</string>
     <string name="firmware_version">Версія Android</string>
+    <string name="fiveg_sa_switch_summary">Використовувати С мережу на вторинній SIM (тільки для тестування)</string>
+    <string name="fiveg_sa_vice_switch_title">АУП на вторинній SIM-карті</string>
     <string name="flash_drive_backup_disable">Спочатку підключіть USB</string>
     <string name="flash_drive_backup_enable">Використати USB для зберігання резервних копій або відновлення об\'єктів</string>
     <string name="flash_drive_backup_restore">USB-накопичувач</string>
@@ -3155,7 +3196,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Натисніть і утримуйте, а потім потягніть вниз рядок сповіщення</string>
     <string name="freeform_guide_notification_drop_down_title">Відкриття спливаючих вікон</string>
     <string name="freeform_guide_settings">Спливаючі вікна</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Натисніть і утримуйте нижню частину вікна і перетягніть його до верхнього правого кута</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">"Натисніть і утримуйте нижню частину вікна і перетягніть його до верхнього правого кута.
+Ця функція працює тільки при жестах системи навігації."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведіть вверх від рядка спливаючого вікна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закриття спливаючих вікон</string>
@@ -3179,7 +3221,7 @@
     <string name="gadget_picker_title">Вибрати віджет</string>
     <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">Тут будуть зберігатися ваші приховані фото.</string>
+    <string name="gallery_privacy_password_role_instruction">Щоб переглянути елементи, які ви зробили приватними, проведіть пальцем вниз в «Альбом».</string>
     <string name="game_booster">Гра;Ігри;Турбо;Прискорення;Ігровий режим</string>
     <string name="game_booster_title">Game Turbo</string>
     <string name="game_controller_settings_category">Ігровий контролер</string>
@@ -3207,8 +3249,8 @@
     <string name="gesture_setting_on">Увімкнено</string>
     <string name="gesture_settings_activity_title">Налаштування жестів</string>
     <string name="gesture_settings_title">Функції жестів</string>
-    <string name="gesture_wakeup_summary">Двічі торкніться екрана, щоб увімкнути або вимкнути його, якщо встановлена тема За замовчуванням або Класична</string>
-    <string name="gesture_wakeup_title">Пробуджувати подвійним натисненням</string>
+    <string name="gesture_wakeup_summary">Можна двічі натиснути на вимкнення екрану лише при використанні попередньо встановлених тем</string>
+    <string name="gesture_wakeup_title">Натисніть двічі, щоб активувати або вимкнути екран, коли пристрій заблоковано</string>
     <string name="getConfiguredNetworks">Конфігурація мереж</string>
     <string name="getConnectionInfo">Інформація про підключення</string>
     <string name="global_change_warning">Налаштування будуть змінені для всіх користувачів телефона.</string>
@@ -3264,6 +3306,7 @@
     <string name="gxzw_anim_rhythm">Ритм</string>
     <string name="gxzw_anim_star">Зірки</string>
     <string name="gxzw_anim_title">Анімація відбитка</string>
+    <string name="gxzw_anim_unlock_effect">%s анімація відбитка пальця</string>
     <string name="gxzw_aod_show_summary">Візьміть пристрій в руки або торкніться екрана, щоб з\'явився значок відбитка пальця. Ця функція збільшує споживання енергії.</string>
     <string name="gxzw_aod_show_tittle">Значок відбитка на вимкненому екрані</string>
     <string name="gxzw_dialog_message">"Для нормальної роботи екранного сканера відбитків не використовуйте засоби захисту екрану. Якщо ви вважаєте, що все ще необхідно використовувати захист екрану, виберіть один з сумісних варіантів."</string>
@@ -3316,7 +3359,7 @@
     <string name="hardware_info">Модель і апаратне забезпечення</string>
     <string name="hardware_revision">Версія апаратного забезпечення</string>
     <string name="hardware_version">Версія обладнання</string>
-    <string name="has_screenshot_sound">Звук скріншоту</string>
+    <string name="has_screenshot_sound">Відтворювати звук при зйомці екрану</string>
     <string name="hdcp_checking_dialog_title">Проведення перевірки HDCP</string>
     <string name="hdcp_checking_title">Перевірка HDCP</string>
     <string name="hdmi_3d_display_enable_summary">Увімкнути підтримку 3D-ігор</string>
@@ -3584,6 +3627,12 @@ Xiaomi Cloud
     <string name="invalid_size_value">Не вдалось обчислити розмір пакета.</string>
     <string name="item_system_app">Системні програми</string>
     <string name="join_two_items">%1$s і %2$s</string>
+    <string name="kddi_nfc_category_title">Осаіфу-кейтай</string>
+    <string name="kddi_nfc_disabled_summary">Недоступно, оскільки NFC/Osaifu-keitai вимкнено</string>
+    <string name="kddi_nfc_quick_toggle_summary">Увімкнути функціональність NFC/Osaifu-keitai</string>
+    <string name="kddi_nfc_quick_toggle_title">Осаіфу-кейтай</string>
+    <string name="kddi_nfc_secure_settings_title">Блокувати на екрані блокування</string>
+    <string name="kddi_nfc_secure_toggle_summary">Тримати NFC/Osaifu-keitai тільки коли пристрій розблоковано</string>
     <string name="keep_legacy_fingerprint">Зберегти</string>
     <string name="keep_screen_on">"Не блокувати екран"</string>
     <string name="keep_screen_on_summary">"Під час заряджання екран буде завжди увімкнений"</string>
@@ -3783,6 +3832,7 @@ Xiaomi Cloud
     <string name="launch_noapp_dialog_replace">Налаштування</string>
     <string name="launch_notification_center">Панель сповіщень</string>
     <string name="launch_recents">Відкрити Нещодавні</string>
+    <string name="launch_smarthome">Xiaomi Магічний контроль</string>
     <string name="launch_voice_assistant">Запустити Голосовий помічник</string>
     <string name="launch_wechat_health_code">Код здоров\'я WeChat</string>
     <string name="launch_wechat_health_code_auto_close">Ярлик коду WeChat більше не доступний. Ви можете перейти на інший ярлик.</string>
@@ -3854,6 +3904,7 @@ Xiaomi Cloud
     <string name="local_backup_section_summary_new">Створюйте резервну копію акаунтів, даних програм, системних налаштувань і т.д.</string>
     <string name="local_backup_section_title">Локальні резервні копії</string>
     <string name="local_backup_section_title_new">На цьому пристрої</string>
+    <string name="local_backup_usestatus_title">Локальні резервні копії вимкнено</string>
     <string name="locale_default">За умовчанням</string>
     <string name="locale_not_translated">Може не бути в деяких додатках</string>
     <string name="locale_remove_menu">Видалити</string>
@@ -3993,6 +4044,7 @@ Xiaomi Cloud
     <string name="lock_settings_title">Безпека пристрою</string>
     <string name="lock_settings_with_fingerprint">Екран блокування та пароль</string>
     <string name="lock_setup">Налаштування завершено.</string>
+    <string name="lock_sound_effect_enable_title">Відтворювати звук при блокуванні пристрою</string>
     <string name="lock_sounds_enable_title">Звуки блокування екрана</string>
     <string name="lockdown_settings_summary">Додати в меню кнопки живлення функцію, яка вимикає Smart Lock, біометричне розблокування та сповіщення на заблокованому екрані</string>
     <string name="lockdown_settings_title">Показувати опцію блокування</string>
@@ -4027,6 +4079,7 @@ Xiaomi Cloud
     <string name="lockpassword_confirm_workspace_password">Підтвердіть пароль для робочого простору</string>
     <string name="lockpassword_confirm_your_lock_password_header">Підтвердіть пароль</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Підтвердіть графічний ключ</string>
+    <string name="lockpassword_confirm_your_lock_pin_header">Підтвердьте свій PIN</string>
     <string name="lockpassword_confirm_your_password_details_frp">Налаштування телефона скинуто. Щоб користуватися цим телефоном, введіть попередній пароль.</string>
     <string name="lockpassword_confirm_your_password_generic">Введіть пароль вашого пристрою для продовження.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Введіть робочий пароль для продовження</string>
@@ -4132,6 +4185,7 @@ Xiaomi Cloud
     <string name="login_account_dialog_message">Увійдіть до Mi акаунту та увімкніть синхронізацію із Xiaomi Cloud.</string>
     <string name="login_account_dialog_title">Увійдіть до Mi акаунту</string>
     <string name="login_account_summary">Керуйте акаунтами, хмарними послугами, оплатами і т.д.</string>
+    <string name="login_account_summary_temp">Управління обліковими записами, хмарними службами та багато іншого</string>
     <string name="login_action">Вхід</string>
     <string name="long_press_back_key">Тривале натиснення кнопки \"Назад\"</string>
     <string name="long_press_buttom_key">Довге натиснення кнопки \"Додому\" на екрані блокування</string>
@@ -4151,7 +4205,8 @@ Xiaomi Cloud
     <string name="low_label">Низька</string>
     <string name="low_storage_summary">Замало пам’яті. %1$s використано, %2$s вільно</string>
     <string name="macaddr_label">MAC адреса: </string>
-    <string name="magic_window_name">Паралельні вікна</string>
+    <string name="magic_list_empty_text">Зараз немає додатків, сумісних з цією функцією</string>
+    <string name="magic_window_name">Оптимізація додатків для ландшафтного перегляду</string>
     <string name="main_netcheck_summary">Протестуйте мережу на наявність проблем</string>
     <string name="main_running_process_description">Основний процес, який використовується.</string>
     <string name="main_toolbar_statistic">Статистика використання трафіку</string>
@@ -4346,6 +4401,7 @@ Xiaomi Cloud
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Акаунт Mi Pay</string>
     <string name="micloud_service_summary">Синхронізація списку програм, створення резервних копій системних налаштувань та робочого столу</string>
+    <string name="micloud_service_summary_temp">Синхронізувати фотографії, відео, контакти та багато іншого</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Центральна зона</string>
     <string name="midnight">Ніч</string>
@@ -4385,6 +4441,8 @@ Xiaomi Cloud
     <string name="miheadset_double_click_right">Двічі натисніть на правий навушник</string>
     <string name="miheadset_double_press_left">Подвійне натискання зліва навушників</string>
     <string name="miheadset_double_press_right">Гарнітура з подвійним натисканням правого боку</string>
+    <string name="miheadset_dual_connect_mode">Під\'єднати до двох пристроїв</string>
+    <string name="miheadset_dual_connect_mode_summary">Увімкніть, аби підключити навушники до двох пристроїв Bluetooth одночасно</string>
     <string name="miheadset_enhanceVoice">Посилення голосу</string>
     <string name="miheadset_enhence_high">Посилення високих</string>
     <string name="miheadset_enhence_low">Посилення низьких</string>
@@ -4467,6 +4525,7 @@ Xiaomi Cloud
     <string name="miui_face_enroll_risk_warning_title_text">Увага</string>
     <string name="miui_face_enroll_success">"Тепер ви можете розблоковувати телефон за допомогою обличчя.
 Продовжіть, щоб отримати доступ до додаткових налаштувань."</string>
+    <string name="miui_input_method_attention">Увага</string>
     <string name="miui_input_method_settings">Налаштування методу введення</string>
     <string name="miui_lab_ai_cloud_closed">"Попереднє завантаження АІ ще недоступне."</string>
     <string name="miui_lab_ai_preload_desc">Попереднє завантаження АІ збільшує швидкість запуску програми</string>
@@ -4885,6 +4944,8 @@ Xiaomi Cloud
     <string name="nfc_disabled_summary">Недоступно, оскільки NFC вимкнено</string>
     <string name="nfc_disclaimer_content">За допомогою NFC цей пристрій обмінюється даними з іншими пристроями чи об’єктами поруч, зокрема з платіжними терміналами, пристроями зчитування даних для доступу, інтерактивними оголошеннями та тегами.</string>
     <string name="nfc_disclaimer_title">Увімкнути NFC</string>
+    <string name="nfc_dnd_mode_summary">Відповісти на NFC мітки з обмеженою кількістю тегів NDEF</string>
+    <string name="nfc_dnd_mode_title">NFC DND</string>
     <string name="nfc_how_it_works_content">Виберіть додаток для платежів. Тоді просто прикладіть телефон тильною стороною до будь-якого термінала зі значком безконтактної оплати.</string>
     <string name="nfc_how_it_works_got_it">Зрозуміло</string>
     <string name="nfc_how_it_works_title">Оплата через термінал</string>
@@ -5166,6 +5227,8 @@ Xiaomi Cloud
     <string name="notifications_title">Сповіщення</string>
     <string name="now">Перезавантажити зараз</string>
     <string name="number_of_device_admins_none">Немає активних додатків</string>
+    <string name="oaid_apps_summary">Дозволити або обмежити доступ для окремих програм</string>
+    <string name="oaid_apps_title">Керування віртуальним ID</string>
     <string name="oaid_string">"Поточний віртуальний ID:
 %1s"</string>
     <string name="oem_lock_info_message">Щоб увімкнути функцію захисту пристрою, перезапустіть його.</string>
@@ -5250,6 +5313,36 @@ OTG автоматично відключається через 10 хвилин
     <string name="owner_info_settings_title">Підпис на екрані блокування</string>
     <string name="owner_space">Перший простір</string>
     <string name="packages_subtitle">Уключені пакети</string>
+    <string name="pad_backup_summary">Створити резервну копію і відновити елементи на цьому пристрої</string>
+    <string name="pad_backup_title">Мобільний пристрій</string>
+    <string name="pad_computer_backup_summary">Резервне копіювання і відновлення елементів на комп\'ютері</string>
+    <string name="pad_flash_drive_backup_enable">Використовувати USB-накопичувач для резервного копіювання або відновлення елементів</string>
+    <string name="pad_how_backup_content">"Ви можете зберігати резервні копії локально або на хмару. Локальні резервні копії можна зберігати на вашому мобільному пристрої, на комп'ютері або USB-диску.
+
+Мобільний пристрій
+зберігає параметри системи, облікові записи, дані програми та інші елементи, що зберігаються на вашому пристрої (MIUI-backup-Allbackup). Примітка: Видалення заводських налаштувань призведе до остаточного видалення таких резервних копій. Не забудьте зберегти копію резервних копій на Ваш комп’ютер.
+
+Комп'ютер
+Створити резервну копію на цьому пристрої, а потім перейти до MIUI-Backup і скопіювати резервну копію на комп'ютер за допомогою USB-кабелю.
+
+USB накопичувач
+зберігає ваші системні налаштування, облікові записи, дані програми та інші елементи на USB-накопичувач.
+
+Xiaomi Cloud
+синхронізуйте контакти, фотографії, відео, список ваших програм, системних налаштувань та розташування домашнього екрану з хмаркою."</string>
+    <string name="pad_how_restore_backup_content">"Ось як ви можете відновити елементи, які були зарезервовані з використанням різних методів:
+
+Мобільний пристрій
+натисніть \"Мобільний пристрій\", щоб відновити елементи і вибрати резервну копію для продовження.
+
+Комп'ютер
+скопіюйте резервну копію з вашого комп'ютера в MIUI-Backup через USB-кабель та відновлюйте елементи з вашого мобільного пристрою.
+
+USB накопичувач
+скопіюйте резервну копію з вашого USB накопичувача до резервної копії MIUI-Allup-AllBackup і виберіть опцію відновлення елементів з USB-накопичувача для продовження.
+
+Xiaomi Cloud
+Відкрийте Хмару Xiaomi та відновіть елементи звідти."</string>
     <string name="page_layout_1">Неділя, 16 серпня</string>
     <string name="page_layout_10">Налаштування</string>
     <string name="page_layout_11">Погода</string>
@@ -5334,6 +5427,7 @@ Read and agree to %s before using this service."</string>
     <string name="password_toggle_content_description">Показати пароль</string>
     <string name="password_turned_off_text">Пароль було вимкнено</string>
     <string name="password_turned_on_text">Пароль було увімкнено</string>
+    <string name="password_unlock">Блокування екрана</string>
     <string name="password_unlock_title">Блокування екрану</string>
     <string name="payment_summary">%1$s використовується за умовчанням</string>
     <string name="peak_refresh_rate_summary">Автоматично збільшує частоту оновлення певного вмісту з 60 до 90 Гц. Підвищує використання заряду акумулятора.</string>
@@ -5836,7 +5930,7 @@ Read and agree to %s before using this service."</string>
     <string name="remove_managed_profile_label">Видалити робочий профіль</string>
     <string name="repeat">Повторювати</string>
     <string name="repeat_call">Сповіщати про повторні виклики</string>
-    <string name="repeat_call_info">Відтворювати мелодію або вібрувати при отриманні повторного дзвінка від того ж самого номера впродовж %d хв.</string>
+    <string name="repeat_call_info">Дзвінок або вібрація при отриманні другого виклику з того ж контакту, або номеру телефону протягом %d хвилин, коли ввімкнено DND</string>
     <string name="repeat_days_in_week">Повторювати</string>
     <string name="repeat_never">Ніколи</string>
     <string name="repeat_title">Повторити</string>
@@ -5881,6 +5975,7 @@ Read and agree to %s before using this service."</string>
     <string name="reset_network_final_desc">"Скинути всі мережеві налаштування? Це може зайняти декілька секунд. Скинуті налаштування не можна буде відновити."</string>
     <string name="reset_network_final_desc_esim">Скинути налаштування всіх мереж і видалити завантажені SIM-карти? Цю дію неможливо відмінити.</string>
     <string name="reset_network_title">Скидання Wi-Fi, мобільної мережі та Bluetooth</string>
+    <string name="reset_network_title_noSim">Скинути налаштування Wi-Fi та Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Всі об\'єкти, зазначені вище, будуть видалені назавжди. Створіть резервну копію всіх важливих об\'єктів на вашому комп\'ютері або Xiaomi Cloud перед продовженням.</string>
     <string name="reset_second_space_passwd">Скиндання пароля для Другого простору</string>
@@ -5949,6 +6044,7 @@ Read and agree to %s before using this service."</string>
     <string name="ringtones_category_preference_title">Сигнали дзвінка</string>
     <string name="ringtones_install_custom_sound_content">Цей файл буде скопійовано в папку \"%s\"</string>
     <string name="ringtones_install_custom_sound_title">Додати спеціальний звук?</string>
+    <string name="risk_tip">Ризик виявлено</string>
     <string name="roaming">Роумінг</string>
     <string name="roaming_alert_title">Дозволити роумінг даних?</string>
     <string name="roaming_check_price_warning">Докладніше про ціни можна дізнатися в оператора мережі.</string>
@@ -6029,7 +6125,7 @@ Read and agree to %s before using this service."</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Ідентифікація об'єктів (наприклад, рослин, тварин, будівель) і динамічне налаштування ефектів відображення. "</string>
     <string name="screen_enhance_engine_ai_title">Покращениия зображень з АІ</string>
     <string name="screen_enhance_engine_memc_note">"Покращення відео недоступно, коли увімкнено режим \"Надвисока роздільна здатність\". Увімкнувши покращення відео, ви відключите режим \"Надвисока роздільна здатність\"."</string>
-    <string name="screen_enhance_engine_memc_note_1">Ця функція трохи збільшує споживання енергії.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Ця функція трохи збільшує енергоспоживання.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Ця функція працює тільки коли ввімкнено панель відео-інструментів.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Додайте додаткові кадри до відео, щоб зробити контент плавним, а переходи більш живими."</string>
@@ -6163,8 +6259,9 @@ Read and agree to %s before using this service."</string>
     <string name="screen_saturation">Насиченість</string>
     <string name="screen_shot">Зробити скріншот</string>
     <string name="screen_timeout">Режим \"Сон\"</string>
+    <string name="screen_timeout_subtitle">Відображення статичного вмісту протягом тривалого періоду часу може зробити колір нерівномірним</string>
     <string name="screen_timeout_summary">Після %1$s бездіяльності</string>
-    <string name="screen_timeout_title">Режим сну</string>
+    <string name="screen_timeout_title">Блокування екрану автоматично</string>
     <string name="screen_usage_summary">Час з увімкненим екраном після повного заряджання</string>
     <string name="screen_zoom_conversation_icon_alex">А</string>
     <string name="screen_zoom_conversation_icon_pete">П</string>
@@ -6438,6 +6535,7 @@ Read and agree to %s before using this service."</string>
     <string name="secspace_fod_use_password">Введіть пароль</string>
     <string name="secure_keyguard_business_title">Блокування екрана</string>
     <string name="secure_lock_encryption_warning">Оскільки ви ввімкнули службу доступності, дані на пристрої не захищатимуться екраном блокування.</string>
+    <string name="security_center_title">Безпека</string>
     <string name="security_dashboard_summary">Блокування екрана, відбиток пальця</string>
     <string name="security_dashboard_summary_face">Блокування екрана, фейсконтроль</string>
     <string name="security_dashboard_summary_no_fingerprint">Блокування екрана</string>
@@ -6686,6 +6784,17 @@ Read and agree to %s before using this service."</string>
     <string name="shared_data_title">Спільні дані</string>
     <string name="sharing_remote_bugreport_dialog_message">Вашому IT-адміністратору надано доступ до цього звіту про помилку. Зв’яжіться з ним, щоб дізнатися більше.</string>
     <string name="short_summary_font_size">Збільшуйте або зменшуйте текст</string>
+    <string name="shoulder_key_game_light_settings">Анімація</string>
+    <string name="shoulder_key_settings">Кнопки плеча</string>
+    <string name="shoulder_key_settings_title">Кнопки плеча</string>
+    <string name="shoulder_key_sound_settings">Звукові ефекти</string>
+    <string name="shoulder_key_sound_switch_title">Звукові ефекти</string>
+    <string name="shoulder_key_sound_text_bullet">Маркер</string>
+    <string name="shoulder_key_sound_text_current">Майбутнє</string>
+    <string name="shoulder_key_sound_text_sword">Меч</string>
+    <string name="shoulder_key_sound_text_wind">Двигун</string>
+    <string name="shoulder_key_switch_status_close">Вимкнено</string>
+    <string name="shoulder_key_switch_status_open">Увімк</string>
     <string name="show_all_anrs">Показувати всі ANR</string>
     <string name="show_all_anrs_summary">Показувати діалог \"Програма не відповідає\" для всіх фонових програм</string>
     <string name="show_all_apps">Повне використання пристрою</string>
@@ -6888,6 +6997,7 @@ Read and agree to %s before using this service."</string>
     <string name="sms_received_sound_dialog_title">Виберіть мелодію для вхідних повідомлень</string>
     <string name="sms_received_sound_title">Вхідне SMS</string>
     <string name="snooze_options_title">Дозволити відкладання сповіщень</string>
+    <string name="softbank_apn_lock_toast">APN заблоковано. Не можна редагувати.</string>
     <string name="software_version">Версія ПЗ</string>
     <string name="solar_term_autumn_begins">Осінь починається</string>
     <string name="solar_term_autumn_equinox">Осінній рівнодення</string>
@@ -6948,6 +7058,7 @@ Read and agree to %s before using this service."</string>
 Якщо ви не згодні надавати такі дозволи або обмінюватися і завантажувати ваші особисті дані, ви не зможете використовувати цю програму. В такому випадку ви можете відключити або не використовувати Екстрені служби SOS.
 Перш ніж скористатися нашими послугами, прочитайте і погодьтеся з нашою %s."</string>
     <string name="sos_privacy_dialog_title">Умови використання</string>
+    <string name="sos_privacy_policy">Політика конфіденційності</string>
     <string name="sound_assist_summary">Керування налаштуваннями звуку</string>
     <string name="sound_assist_title">Звуковий помічник</string>
     <string name="sound_category_call_ringtone_vibrate_title">Мелодія та звуки сповіщень</string>
@@ -7291,6 +7402,21 @@ Read and agree to %s before using this service."</string>
     <string name="style_and_wallpaper_settings_title">Стилі й фонові малюнки</string>
     <string name="style_suggestion_summary">Спробуйте інші стилі, фонові малюнки тощо</string>
     <string name="style_suggestion_title">Налаштувати телефон</string>
+    <string name="stylus_ota_check_update">Перевірити наявність оновлень</string>
+    <string name="stylus_ota_current_firmware_version">Версія прошивки</string>
+    <string name="stylus_ota_demands">Тримати цей пристрій під\'єднаним до стилусу через Bluetooth. Обидва пристрої повинні бути принаймні %1$s заряджені під час оновлення.</string>
+    <string name="stylus_ota_download_failed">"Не вдалося завантажити прошивку"</string>
+    <string name="stylus_ota_downloading_firmware">Завантаження прошивки</string>
+    <string name="stylus_ota_firmware_update">Оновити прошивку</string>
+    <string name="stylus_ota_hardware_version">Версія устаткування</string>
+    <string name="stylus_ota_latest">Актуальні дані</string>
+    <string name="stylus_ota_model">Модель</string>
+    <string name="stylus_ota_new_version">Оновити</string>
+    <string name="stylus_ota_serial_number">Серійний номер</string>
+    <string name="stylus_ota_timeout_failed">Сесія завершилася</string>
+    <string name="stylus_ota_update">Оновити</string>
+    <string name="stylus_ota_update_failed">"Не вдалося оновити прошивку"</string>
+    <string name="stylus_ota_updating">Оновлення</string>
     <string name="subscreen_title">Задній дисплей</string>
     <string name="subscription_available">Доступно</string>
     <string name="sud_back_button_label">Відмінити</string>
@@ -7331,11 +7457,12 @@ Read and agree to %s before using this service."</string>
     <string name="swipe_up_to_switch_apps_title">Навігація з двома кнопками</string>
     <string name="switchNetworkToast">Використання мобільного інтернету може викликати додаткові витрати.</string>
     <string name="switch_access_service_on">Switch Access</string>
-    <string name="switch_bootup_sound">Аудіо завантаження</string>
+    <string name="switch_bootup_sound">Відтворювати аудіо під час запуску</string>
     <string name="switch_headset_anti_lost">Попередження про втрату навушника</string>
     <string name="switch_headset_anti_lost_title">Попередження про втрату навушника</string>
     <string name="switch_off_text">Вимкнено</string>
     <string name="switch_on_text">Увімкнено</string>
+    <string name="switch_power_sound">Відтворювати звук при підключенні зарядного пристрою</string>
     <string name="switch_screen_button_order">Дзеркальні кнопки</string>
     <string name="switch_screen_button_order_desc">Дзеркальні кнопки та кнопки меню</string>
     <string name="switch_select_to_speak_on">Озвучування при натисканні</string>
@@ -7506,6 +7633,8 @@ Read and agree to %s before using this service."</string>
     <string name="thursday">Четвер</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
+    <string name="time_floating_window">Плаваючий годинник</string>
+    <string name="time_floating_window_summary">Показувати годинник у плаваючому вікні над іншими програмами</string>
     <string name="time_format_category_title">Формат часу</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="time_picker_title">Час</string>
@@ -7741,6 +7870,7 @@ Read and agree to %s before using this service."</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Встановіть екран блокування</string>
     <string name="unlock_setup_wizard_fingerprint_details">Коли ви налаштуєте блокування екрана, можете додати відбиток пальця в меню \"Налаштування\" &gt; \"Безпека\".</string>
+    <string name="unlock_sound_effect_enable_title">Відтворювати звук при розблокуванні пристрою</string>
     <string name="unlock_type_category_title">Метод розпізнавання</string>
     <string name="unlogin_account_summary">Всi Mi послуги. Один Mi акаунт.</string>
     <string name="unlogin_account_title">Увійти до Mi акаунту</string>
@@ -8079,7 +8209,7 @@ Read and agree to %s before using this service."</string>
     <string name="vibrate_when_ringing_option_always_vibrate">Постійна вібрація</string>
     <string name="vibrate_when_ringing_option_never_vibrate">Без вібрації</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Вібрація, потім дзвінок, що стає гучніше</string>
-    <string name="vibrate_when_ringing_title">Вібрація під час викликів</string>
+    <string name="vibrate_when_ringing_title">Вібрувати під час дзвінка</string>
     <string name="video_calling_settings_title">Відеовиклики в мережі оператора</string>
     <string name="video_tool_box_title">Інструменти для відео</string>
     <string name="view_saved_network">Щоб переглянути, виберіть збережену мережу</string>
@@ -8143,6 +8273,9 @@ Read and agree to %s before using this service."</string>
     <string name="voice_service_preference_section_title">Служби голосового вводу</string>
     <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
     <string name="voip_assistant_settings">VoIP помічник</string>
+    <string name="voip_assistant_settings_off">Вимкнено</string>
+    <string name="voip_assistant_settings_on">Увімк</string>
+    <string name="voip_assistant_settings_summary">Записувати VoIP дзвінки та використовувати оптимізацію голосового креслення</string>
     <string name="volte_5G_limited_text">"Також буде вимкнено з'єднання 5G.
 Під час голосового виклику не можна користуватись Інтернетом, а деякі додатки можуть не працювати."</string>
     <string name="volte_5G_limited_title">Вимкнути VoLTE?</string>

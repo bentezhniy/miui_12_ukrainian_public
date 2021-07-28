@@ -913,6 +913,7 @@
     <string name="privacy_request_subtitle">"Ласкаво просимо до Mi Music! Цей додаток надає такі послуги:
 - локальний аудіо плеєр
 - Онлайн-потокові сервіси"</string>
+    <string name="privacy_request_subtitle_offline">Ласкаво просимо до Mi Music! Цей додаток надає локальному програвачу для аудіофайлів.</string>
     <string name="privacy_request_title">Правила та умови</string>
     <string name="pro_member">PRO підписник</string>
     <string name="project_device">Mi Phone</string>

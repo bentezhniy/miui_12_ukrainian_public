@@ -38,6 +38,7 @@
     <string name="afternoon">Після обіду</string>
     <string name="already_in_small_freeform">Декілька програм відкриті у спливаючих вікнах</string>
     <string name="am">ДО</string>
+    <string name="app_name">Системний UI додаток</string>
     <string name="character_counter_content_description">Символи увійшли %1$d з %2$d</string>
     <string name="character_counter_overflowed_content_description">Перевищено ліміт символу %1$d з %2$d</string>
     <string name="chip_text">Текст ip</string>
@@ -118,6 +119,8 @@
     <string name="hearing_assist_transmission_tips_title">Живий монітор</string>
     <string name="icon_content_description">Значок діалогового вікна</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"Тихий режим вимкнений. Виклики та сповіщення не будуть заглушені."</string>
+    <string name="kddi_miui_toast_zen_to_standard">Режим тихого режиму. Тепер кнопки та сповіщення не звучатимуться.</string>
     <string name="loading">Невідомий статус</string>
     <string name="material_slider_range_end">У діапазоні до кінця,</string>
     <string name="material_slider_range_start">Стрільбище початок,</string>
@@ -136,9 +139,11 @@
     <string name="miui_ringer_total">Не турбувати</string>
     <string name="miui_ringer_total_description">Вимкнення звуку та вібрації для всіх режимів, крім будильника</string>
     <string name="miui_toast_zen_dnd_to_off">"Звуки викликів та сповіщень будуть увімкнені"</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Сповіщення більше не заглушені</string>
     <string name="miui_toast_zen_standard_to_off">Режим \"Без звуку\" вимкнено</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Увімкнено режим \"Без звуку\". Мелодії дзвінків, звуки сповіщень та медіа будуть увімкнені.</string>
     <string name="miui_toast_zen_to_dnd">Звуки викликів та сповіщень будуть вимкнені</string>
+    <string name="miui_toast_zen_to_dnd_T">Сповіщення не звучатимуть</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Виклики та сповіщення будуть без вимкнені, коли пристрій заблоковано</string>
     <string name="miui_toast_zen_to_standard">Режим \"Без звуку\" увімкнено</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Увімкнено режим \"Без звуку\". Мелодії викликів, звуки сповіщень та мультимедіа відключені.</string>
@@ -245,6 +250,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"Екран вашого телефону буде показано на зовнішньому моніторі. Увімкнути режим ПК?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"Екран вашого комп'/ютера буде показано на зовнішньому моніторі. Увімкнути режим ПК?"</string>
     <string name="quick_settings_scanner_label">Сканер</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Магічний контроль</string>
     <string name="quick_settings_wireless_label">Реверсивна бездротова зарядка</string>
     <string name="reboot_info_auto_boot">Будильник: %s</string>
     <string name="reboot_info_shutdown_alarm">Спрацювання при вимкненому пристрої: %s</string>

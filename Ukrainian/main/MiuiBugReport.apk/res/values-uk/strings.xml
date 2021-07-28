@@ -85,23 +85,28 @@
     <string name="bugreport_tool_log_dumping_title">Створення звіту про помилку</string>
     <string name="catch_full_log_action_cancel">Скасувати</string>
     <string name="catch_full_log_action_complete">Завершити та відправити</string>
+    <string name="catch_full_log_action_start">Старт</string>
     <string name="catch_full_log_add_original_photo">Додайте зображення або коротке відео</string>
     <string name="catch_full_log_add_photo">Додати фото</string>
     <string name="catch_full_log_add_photo_dialog_content">"Якщо проблема, про яку ви повідомляєте, пов'язана з якістю зображення камери, додайте зразок фото (без обрізки), щоб допомогти нам знайти її. Додати фото?"</string>
+    <string name="catch_full_log_category">Типи журналiв</string>
     <string name="catch_full_log_dialog_confirm_text">Перейти на робочий стіл</string>
-    <string name="catch_full_log_dialog_content">"MIUI створює журнал. Це може вплинути на загальну продуктивність вашого пристрою. Якщо ви не можете відтворити проблему, про яку хочете повідомити, поверніться до журналів і натисніть \"Скасувати\"."</string>
+    <string name="catch_full_log_dialog_content">"Це може вплинути на загальну продуктивність вашого пристрою. Якщо ви не можете відтворити помилку, про яку ви хочете поскаржитися, поверніться до журналу та натисніть \"Скасувати\"."</string>
+    <string name="catch_full_log_dialog_title">Створення журналів…</string>
     <string name="catch_full_log_dump_hprof_failed">"Не вдалося створити журнал затримок"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Поверніться до функції, про яку ви хочете повідомити і відтворіть проблему.
 2. Поверніться на цю сторінку і натисніть \"Завершити і відправити\"."</string>
-    <string name="catch_full_log_item_content_title">Кроки</string>
-    <string name="catch_full_log_item_title_audio">Аудіо, запис звуку та виклики</string>
+    <string name="catch_full_log_item_content_catching">Створення журналів…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Натисніть кнопку \"Пуск\", щоб почати генерувати журнали.
+%2$d. Відтворюйте проблему, з якою ви зіткнулися.
+%3$d. Поверніться на цю сторінку та натисніть кнопку \"Готово та завантаження\"."</string>
+    <string name="catch_full_log_item_content_title">Як генерувати журнали</string>
+    <string name="catch_full_log_item_title_audio">Аудіо, звук і аудіозапис</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Затримки</string>
     <string name="catch_full_log_item_title_gps">Послуги місцезнаходження</string>
     <string name="catch_full_log_item_title_sensor">Датчики</string>
     <string name="catch_full_log_item_title_signal">Телефон, сигнал та мобільні мережі</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi та ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">Натисніть, щоб повернутися</string>
     <string name="catch_full_log_notification_title">Створення журналу…</string>
     <string name="catch_full_log_privacy_content_audio">"Ви створюєте журнали та зберігаєте їх на своєму пристрої. Журнали можуть містити інформацію про аудіофайли на вашому пристрої, включаючи історії відтворення та запису. Будьте обережні і не розкривайте ці дані стороннім особам. Натиснувши кнопку \"Згоден\", ви погоджуєтеся з тим, що ми будемо збирати вищевказані дані, а потім завантажувати журнали на наші сервери для пошуку і вирішення проблем, про які ви повідомляєте."</string>

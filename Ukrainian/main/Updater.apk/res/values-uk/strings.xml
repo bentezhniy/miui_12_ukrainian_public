@@ -39,6 +39,7 @@
     <string name="menu_title_current_version_log">Список змін</string>
     <string name="menu_title_pick_rom_file">Вибрати файл прошивки</string>
     <string name="menu_title_recovery">Перезавантажити в режим Recovery</string>
+    <string name="menu_title_show_notifications">Показувати сповіщення</string>
     <string name="message_checkbox">Приховати майбутні повідомлення від команди Xiaomi.eu</string>
     <string name="message_checkbox_device">Не показувати знову</string>
     <string name="message_title">ПРИМІТКА!</string>

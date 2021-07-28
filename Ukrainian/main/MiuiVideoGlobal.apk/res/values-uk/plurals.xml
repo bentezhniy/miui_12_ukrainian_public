@@ -108,6 +108,12 @@
         <item quantity="many">Щойно</item>
         <item quantity="other">Щойно</item>
     </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d папок</item>
+        <item quantity="one">%d тека</item>
+        <item quantity="few">%d папок</item>
+        <item quantity="many">%d папок</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Субтитри будуть відображатися на %.1f секунд раніше</item>
         <item quantity="one">Субтитри будуть відображатися на %.1f секунду раніше</item>

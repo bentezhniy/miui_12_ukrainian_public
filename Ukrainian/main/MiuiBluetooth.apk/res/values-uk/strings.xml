@@ -348,6 +348,8 @@
 Бiльш швидкий протокол з'єднання."</string>
     <string name="fast_connect_wbs_reset">Утримуйте верхню кнопку протягом %1$s сек. у відключеному стані</string>
     <string name="feiyu_vlog_name">Кишеня Фейю</string>
+    <string name="fiveg_sa_switch_summary">Використовувати С мережу на вторинній SIM (тільки для тестування)</string>
+    <string name="fiveg_sa_vice_switch_title">АУП на вторинній SIM-карті</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d.M</string>

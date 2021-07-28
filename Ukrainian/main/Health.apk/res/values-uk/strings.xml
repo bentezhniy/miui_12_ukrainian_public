@@ -208,6 +208,7 @@ to add cards"</string>
     <string name="collapse">Hide</string>
     <string name="collect_diagnosis_log">Збір діагностики</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Прогрес</string>
     <string name="completed">"Прогрес "</string>
     <string name="completed_stand">Ви вставали</string>
     <string name="confirm_opening">Увімкнути</string>
@@ -1590,6 +1591,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_stand_day_ring">Призупинитися на сьогодні: %1$s. Вам потрібно зробити не менше 12 сьогодні.</string>
     <string name="tb_stand_wm_column_chart">Призупинитися між %1$s та %2$s. Проведіть по горизонталі для перемикання між часовими періодами. Торкніться щоб переглянути деталі.</string>
     <string name="tb_stand_wm_column_click">%1$s. Втратитися на зупинки: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Прогрес: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Зняти всі виділення</string>
     <string name="tb_user_account_signed">Mi Аккаунт: %1$s.</string>
     <string name="tb_user_account_unsigned">Торкніться, щоб увійти в Mi аккаунт</string>
@@ -1729,6 +1731,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="value_error_correct">Змынити запис</string>
+    <string name="view_step_and_progress">Переглянути кількість поточного кроку</string>
     <string name="visceral_fat">Віцеральний жир</string>
     <string name="visceral_fat_descripe_content">Віцеральний жир має важливе значення для стабілізації та захисту внутрішніх органів. Однак високий вісцеральний жир збільшує ризик серцево-судинних та метаболічних захворювань.</string>
     <string name="voice_remind">"We've increased the volume so you hear the instructions better."</string>

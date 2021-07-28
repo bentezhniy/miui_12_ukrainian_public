@@ -31,13 +31,14 @@
     <string name="download_apk_desktop_pending">Очікування…</string>
     <string name="download_apk_desktop_running">Завантаження…</string>
     <string name="download_error">Не вдалося завантажити</string>
+    <string name="download_no_application">Немає додатків, які підтримують цей формат</string>
     <string name="download_no_application_title">"Неможливо відкрити файл"</string>
     <string name="download_queued">В черзі</string>
     <string name="download_remaining">Залишилося %s</string>
     <string name="download_running">Завантаження</string>
     <string name="download_unknown_title">&lt;Без назви&gt;</string>
     <string name="enter_garbage_clean">Очищення пам\'яті</string>
-    <string name="insufficient_space">"Недостатньо пам'яті для завантаження"</string>
+    <string name="insufficient_space">Недостатньо пам\'яті</string>
     <string name="mobile_recommended_title">Мобільний інтернет</string>
     <string name="notif_text_engine_off">Прискорення Xunlei вимкнено</string>
     <string name="notif_text_engine_on">Прискорення…</string>

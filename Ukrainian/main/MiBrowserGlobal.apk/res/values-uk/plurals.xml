@@ -264,59 +264,17 @@
         <item quantity="few">Популярних пісень: %d</item>
         <item quantity="many">Популярних пісень: %d</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Відтворити відео через %1$d сек</item>
-        <item quantity="one">Відтворити відео через %1$d сек</item>
-        <item quantity="few">Відтворити відео через %1$d сек</item>
-        <item quantity="many">Відтворити відео через %1$d сек</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="one">Вибрано: %1$d</item>
-        <item quantity="few">Вибрано: %1$d</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">Обрано %1$d елементів</item>
+        <item quantity="one">Вибрано %1$d елемент</item>
+        <item quantity="few">Обрано %1$d елементів</item>
+        <item quantity="many">Обрано %1$d елементів</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"Ви не переглядали %d обраних відео протягом тирвалого періоду часу."</item>
         <item quantity="one">"Ви не переглядали %d обране відео протягом тирвалого періоду часу."</item>
         <item quantity="few">"Ви не переглядали %d обраних відео протягом тирвалого періоду часу."</item>
         <item quantity="many">"Ви не переглядали %d обраних відео протягом тирвалого періоду часу."</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">Видалено %1$d відео.</item>
-        <item quantity="one">Видалено %1$d відео.</item>
-        <item quantity="few">Видалено %1$d відео.</item>
-        <item quantity="many">Removed %1$d videos successfully.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Видалити %1$d відео?</item>
-        <item quantity="one">Видалити %1$d відео?</item>
-        <item quantity="few">Видалити %1$d відео?</item>
-        <item quantity="many">Clear %1$d videos?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d об\'єктів видалено з історії.</item>
-        <item quantity="one">%1$d об\'єкт видалено з історії.</item>
-        <item quantity="few">%1$d об\'єкта видалено з історії.</item>
-        <item quantity="many">%1$d items deleted from history.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">Видалити %1$d об\'єктів з історії?</item>
-        <item quantity="one">Видалити %1$d об\'єкт з історії?</item>
-        <item quantity="few">Видалити %1$d об\'єкта з історії?</item>
-        <item quantity="many">Delete %1$d items from history?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">Доступно оновлень: %1$d.</item>
-        <item quantity="one">Доступно оновлень: %1$d.</item>
-        <item quantity="few">Доступно оновлень: %1$d.</item>
-        <item quantity="many">Доступно оновлень: %1$d.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">Залишилося %d хвилин</item>
-        <item quantity="one">Залишилася %d хвилина</item>
-        <item quantity="few">Залишилося %d хвилини</item>
-        <item quantity="many">Залишилося %d хвилин</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Перегляньте %1$d нових відео</item>

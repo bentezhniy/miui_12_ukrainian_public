@@ -150,12 +150,6 @@
         <item quantity="few">Наступна менструація почнеться через %1$d дні</item>
         <item quantity="many">Наступна менструація почнеться через %1$d днів</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-        <item quantity="few">+%d</item>
-        <item quantity="many">+%d</item>
-    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">днів</item>
         <item quantity="one">день</item>

@@ -192,6 +192,12 @@
         <item quantity="few">Доступно пристроїв: %d</item>
         <item quantity="many">Доступно пристроїв: %d</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Кожні %d секунд</item>
+        <item quantity="one">Кожну %d секунду</item>
+        <item quantity="few">Кожні %d секунд</item>
+        <item quantity="many">Кожні %d секунд</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d пристроїв</item>
         <item quantity="one">%d пристрій</item>

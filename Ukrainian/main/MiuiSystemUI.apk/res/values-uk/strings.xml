@@ -709,6 +709,9 @@
     <string name="development_settings_not_available">"Цьому користувачу недоступні можливості розробника"</string>
     <string name="development_settings_summary">Налаштування параметрів для розробників</string>
     <string name="development_settings_title">Для розробників</string>
+    <string name="device_locked_without_biometric">"Не можна розблокувати цей пристрій відбитками пальців або лицями при використанні стороннього екрану"</string>
+    <string name="device_locked_without_biometric_face">"Не можна розблокувати цей пристрій за допомогою даних про обличчя, коли ви використовуєте стороннє блокування"</string>
+    <string name="device_locked_without_biometric_finger">"Не вдається розблокувати цей пристрій відбитками пальців, коли ви використовуєте стороннє блокування екрану"</string>
     <string name="device_services">Сервіси на пристрої</string>
     <string name="direct_boot_unaware_dialog_message">"Нотатка: розблокуйте пристрій, щоб мати можливість використовувати цю програму після перезавантаження."</string>
     <string name="disable_carrier_button_text">Вимкнути eSIM-карту</string>
@@ -794,15 +797,29 @@
     <string name="fingerprint_add_text">Було оновлено інтерфейс відбитка пальця. Додайте ваш відбиток ще раз.</string>
     <string name="fingerprint_add_title">Додати відбиток пальця</string>
     <string name="fingerprint_again_identified_msg">Ваш відбиток пальця активний. Використовуйте його для розблокування пристрою або введіть пароль.</string>
+    <string name="fingerprint_again_identified_msg_password">"Тепер ваш відбиток пальця активний.
+Використовуйте його, щоб розблокувати пристрій або введіть пароль."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Зараз ваш відбиток пальця активний.
+Використовуйте його, щоб розблокувати пристрій або намалювати ключ."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Зараз Ваш відбиток пальця активний.
+його потрібно розблокувати пристрій або ввести PIN-код."</string>
     <string name="fingerprint_dialog_touch_sensor">Торкніться сканера відбитків пальців</string>
     <string name="fingerprint_enter_second_psw_msg">Введіть пароль для Другого простору після перезавантаження пристрою, щоб мати можливість використовувати функцію розпізнання відбитків пальців</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"Неможливо увійти до Другого простору в Простому режимі"</string>
     <string name="fingerprint_enter_second_psw_title">Введіть пароль для Другого простору</string>
     <string name="fingerprint_not_identified_msg">Забагато невдалих спроб. Введіть пароль або спробуйте використати ваш відбиток пальця через декілька секунд.</string>
     <string name="fingerprint_not_identified_msg_lock">Забагато невдалих спроб. Введіть пароль.</string>
+    <string name="fingerprint_not_identified_msg_password">"Занадто багато невдалих спроб.
+Введіть пароль для розблокування."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Занадто багато невдалих спроб.
+Намалюйте ключ, щоб розблокувати."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Занадто багато невдалих спроб.
+Введіть PIN-код для розблокування."</string>
     <string name="fingerprint_not_identified_title">Введіть пароль</string>
     <string name="fingerprint_try_again_msg">"Не вдалося перевірити відбиток пальця, спробуйте ще раз."</string>
     <string name="fingerprint_try_again_text">Повторити спробу</string>
+    <string name="fiveg_sa_switch_summary">Використовувати С мережу на вторинній SIM (тільки для тестування)</string>
+    <string name="fiveg_sa_vice_switch_title">АУП на вторинній SIM-карті</string>
     <string name="float_notification_snooze_strategy">Приховати плаваючі сповіщення тимчасово</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -827,6 +844,7 @@
     <string name="fs_gesture_back_ready_title">Назад</string>
     <string name="fs_gesture_final_over">"Я готовий"</string>
     <string name="fs_gesture_final_restart">Ще один раз</string>
+    <string name="fs_gesture_final_see_more">Переглянути більше демо в Налаштуваннях &gt; Домашній екран &gt; Система навігації</string>
     <string name="fs_gesture_final_summary">Ви можете повернутися до використання кнопок у Налаштування &gt; Повноекранний режим</string>
     <string name="fs_gesture_final_title">"Все готово!"</string>
     <string name="fs_gesture_finish">Чудово!</string>
@@ -949,13 +967,15 @@
     <string name="input_lockscreen_password_hint_text">Введіть пароль</string>
     <string name="input_lockscreen_pattern_hint_text">Введіть графічний ключ</string>
     <string name="input_lockscreen_pin_hint_text">Введіть PIN-код</string>
-    <string name="input_password_after_boot_msg">Введіть пароль, щоб розблоковувати пристрій</string>
+    <string name="input_password_after_boot_msg">Уведення пароля потрібно під час перезавантаження пристрою</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Неможливо перемикатися між сховищами під час виклику"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Неможливо перемикатися між сховищами, коли увімкнено Батьківський контроль"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Не можна змінювати простір, коли увімкнено Ультраекономію"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Вам необхідно увійти до Першого простору після перезавантаження пристрою</string>
     <string name="input_password_hint_text">Введіть пароль</string>
+    <string name="input_pattern_after_boot_msg">Малювання шаблона потрібна при перезавантаженні пристрою</string>
     <string name="input_pattern_hint_text">Задайте графічний ключ</string>
+    <string name="input_pin_after_boot_msg">Введення PIN-коду потрібно під час перезавантаження пристрою</string>
     <string name="input_pin_code">Введіть PIN-код</string>
     <string name="input_puk_code">Введіть PUK-код</string>
     <string name="install_other_apps">Встановити невідомі програми</string>
@@ -1048,6 +1068,7 @@
     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Натисніть меню, щоб розблокувати.</string>
+    <string name="keyguard_invalid_sim_puk_hint">PUK-код має містити %1$d цифр.</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_remotecentral">Mi Пульт</string>
     <string name="keyguard_left_smarthome">Xiaomi Home</string>
@@ -1250,9 +1271,11 @@ dd MMMM"</string>
     <string name="miui_notification_menu_more_setting">Ще</string>
     <string name="miui_notification_menu_msg_fold">Групувати всі сповіщення від %1$s разом?</string>
     <string name="miui_notification_menu_msg_not_allow">Обмежити всі сповіщення від %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">Показувати сповіщення %1$s окремо?</string>
     <string name="miui_notification_menu_setting_success">Готово</string>
     <string name="miui_notification_menu_snooze">Відкласти</string>
     <string name="miui_notification_menu_title_not_allow">Заборонити</string>
+    <string name="miui_notification_menu_unfold">Відмітити як важливе</string>
     <string name="miui_screen_rotation_freeze_message">Закріплена орієнтація екрана в альбомному режимі</string>
     <string name="miui_snooze_always_float">"Не приховувати"</string>
     <string name="miui_snooze_cancel">Скасувати</string>
@@ -1263,6 +1286,7 @@ dd MMMM"</string>
     <string name="miui_snooze_until_unlock_screen">До заблокованого</string>
     <string name="miui_snooze_user_set_fail">Перейдіть до Налаштувань &gt; Повідомлення &amp; Контрольний центр для додаткових опцій</string>
     <string name="miui_snooze_user_set_success">Успішно застосовано. Перейдіть в Налаштування &gt; Повідомлення &amp; Контрольний центр для додаткових опцій.</string>
+    <string name="miui_unimportant_notifications">Неважливі сповіщення</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_action_mode_select_all">Виділити все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Виберіть предмети</string>
@@ -1413,6 +1437,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="mr_dialog_transferable_header">Увімкнути на групі пристроїв</string>
     <string name="mr_system_route_name">Система</string>
     <string name="mr_user_route_category_name">Пристрої</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Неможливо встановити під час дзвінка"</string>
     <string name="mtrl_chip_close_icon_content_description">Вилучити %1$s</string>
     <string name="mtrl_picker_cancel">Скасувати</string>
     <string name="mtrl_picker_confirm">Зберегти</string>
@@ -1511,6 +1536,8 @@ IT-адміністратор може відстежувати й контро�
     <string name="overlay_display_devices_title">Емуляція додаткових екранів</string>
     <string name="overview">Огляд</string>
     <string name="owner_info_settings_edit_text_hint">"Наприклад, Android Івана."</string>
+    <string name="pad_zen_mode_warnings_all_time_content">Сповіщення не звучатимуть</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Сповіщення не звучатимуться, коли пристрій заблоковано</string>
     <string name="password_toggle_content_description">Показати пароль</string>
     <string name="phone_hint">Телефон: проведіть пальцем від значка</string>
     <string name="phone_label">відкрити телефон</string>
@@ -1520,7 +1547,7 @@ IT-адміністратор може відстежувати й контро�
     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Вам необхідно &lt;font color=#a5220e&gt;стерти всі дані &lt;/font&gt;на вашому пристрої, включаючи фото та контакти, а потім встановити новий пароль екрану блокування.&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">Далі</string>
     <string name="phone_locked_foget_password_ok">Зрозуміло</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Вимкніть пристрій, одночасно натисніть та утримуйте &lt;font color=#a5220e&gt;кнопку живлення&lt;/font&gt; та &lt;font color=#a5220e&gt;кнопку збільшення гучності, &lt;/font&gt;поки не побачите логотип Mi.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Вимкніть пристрій, а потім натисніть та утримуйте кнопку &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; і &lt;font color=#e6e6e6&gt;[Гучність +]&lt;/font&gt; до тих пір, поки не побачите &lt;img src=\"\"&gt;.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Виберіть &lt;font color=#a5220e&gt;\"Провести та перезавантажити\"&lt;/font&gt; та зачекайте поки пристрій перезавантажиться.;&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">Стерти всі дані зараз?</string>
     <string name="phone_locked_string">Цей пристрій заблоковано</string>
@@ -1767,6 +1794,9 @@ IT-адміністратор може відстежувати й контро�
     <string name="quick_settings_user_new_user">Новий користувач</string>
     <string name="quick_settings_user_title">Користувач</string>
     <string name="quick_settings_vibrate_label">Вібрувати</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi Calling</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi Calling SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi Calling SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Збільшення швидкості</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Скасувати</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Підтвердити</string>
@@ -1909,6 +1939,8 @@ IT-адміністратор може відстежувати й контро�
     <string name="show_silently">Показувати сповіщення без звукового сигналу</string>
     <string name="show_touches">Відображати натиснення</string>
     <string name="show_touches_summary">Візуалізувати на екрані натиснення та жести</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Натисніть і утримуйте кнопку &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; і &lt;font color=#e6e6e6&gt;[Гучність +]&lt;/font&gt; , доки не побачите &lt;img src=\"\"&gt;.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Оберіть &lt;font color=#e6e6e6&gt;[Стерти дані]&lt;/font&gt; та натисни &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; після цього.</Data></string>
     <string name="sim_state_locked_dialog_title">Помилка SIM-карти</string>
     <string name="sim_state_locked_puk_dialog_message">"Ви ввели неправильний PUK-код більше %d разів. Ваша SIM-карта була заблокована. Скористайтеся іншою SIM-картою."</string>
     <string name="simulate_color_space">Імітувати аномалію</string>

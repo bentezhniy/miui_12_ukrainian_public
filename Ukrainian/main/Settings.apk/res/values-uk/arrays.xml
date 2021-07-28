@@ -1217,12 +1217,12 @@
         <item>Показати меню</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Налаштовуйте кольори в залежності від освітлення</item>
+        <item>Колір залежно від вмісту</item>
         <item>Завжди покращувати кольори</item>
         <item>Не змінювати контрастність</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Авто (рекомендовано)</item>
+        <item>Яскраві (рекомендовано)</item>
         <item>Насиченість</item>
         <item>Стандартний</item>
     </string-array>
@@ -1313,6 +1313,24 @@
         <item>Типово</item>
         <item>Компактний</item>
     </string-array>
+    <string-array name="support_settings_haptic_device_list">
+        <item>apollo</item>
+        <item>cas</item>
+        <item>cmi</item>
+        <item>umi</item>
+        <item>alioth</item>
+        <item>aliothin</item>
+        <item>ares</item>
+        <item>chopin</item>
+        <item>haydn</item>
+        <item>thyme</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>agate</item>
+        <item>vili</item>
+        <item>бурштин</item>
+        <item>odin</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Клацання</item>
         <item>Поштовх</item>
@@ -1356,12 +1374,12 @@
         <item>Анімація 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Налаштовуйте кольори в залежності від освітлення</item>
+        <item>Колір залежно від вмісту</item>
         <item>Завжди покращувати кольори</item>
         <item>Відновити стандартний колір змісту екрана з калібруванням кольорів</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Авто (рекомендовано)</item>
+        <item>Яскраві (рекомендовано)</item>
         <item>Насиченість</item>
         <item>Початковий колір</item>
     </string-array>

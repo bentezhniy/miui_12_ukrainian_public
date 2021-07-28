@@ -36,6 +36,8 @@
     <string name="autofill_save_sub_message">"Для керування збереженими паролями перейдіть до Налаштування &gt; Паролі та безпека &gt; %s."</string>
     <string name="autofill_save_title">Автоматично зберігати паролі</string>
     <string name="autofill_service_name">Керування паролями</string>
+    <string name="battery_authentic_failed_button">Зрозуміло</string>
+    <string name="battery_authentic_failed_title">Увага</string>
     <string name="bluetooth_close">Ця програма вимкнула Bluetooth</string>
     <string name="bluetooth_disable_notification_content">Програма %s вимкнула Bluetooth</string>
     <string name="bluetooth_disable_notification_title">Bluetooth вимкнено</string>
@@ -131,6 +133,12 @@
     <string name="international_livetalk_enable">Пакет поповнення балансу використовується для міжнародних викликів</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Пробіл</string>
+    <string name="keyboard_identity_reject_confirm">Зрозуміло</string>
+    <string name="keyboard_identity_reject_message">"Схоже, ваша клавіатура несумісна з цим пристроєм."</string>
+    <string name="keyboard_identity_transfer_error_message">"Не вдалося під'єднати клавіатуру. Повторіть спробу."</string>
+    <string name="keyboard_upgrade_failed">"Не вдалося оновити клавіатуру"</string>
+    <string name="keyboard_upgrade_start">Оновлення клавіатури…</string>
+    <string name="keyboard_upgrade_success">Клавіатуру успішно оновлено</string>
     <string name="livetalk_not_enable">Пакет поповнення балансу відключений</string>
     <string name="location_usage_restricted_body">Натисніть, щоб дозволити.</string>
     <string name="location_usage_restricted_title">Фонове визначення місцезнаходження заборонене</string>
@@ -170,6 +178,7 @@
     <string name="open_close_tip_content">Щоб закрити спливаюче вікно, натисніть і утримуйте рядок стану, а потім проведіть вгору</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Інші клавіатури</string>
     <string name="package_delete_confirm_step_1">Видалити %s?</string>
     <string name="package_delete_confirm_step_2">Видалення цієї програми може привести до нестабільності всієї системи.</string>
     <string name="package_delete_confirm_step_3">"Ви не зможете відкрити цю програму після її видалення."</string>
@@ -223,12 +232,15 @@
     <string name="resource_select">Обрати</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Samsung phone</string>
     <string name="scanning_device_tips">Пошук пристроїв неподалік… Перекоайтеся, що інші пристрої знаходятся в режимі видимості.</string>
     <string name="screen_button_notification_text">Для увімкнення натисніть \"Додому\" та \"Живлення\" одночасно.</string>
     <string name="screen_button_notification_title">Кнопки навігації відключені</string>
     <string name="screen_on_proximity_sensor_hint">Для відключення цієї функції, одночасно натисніть кнопки \"Збільшити гучність\" та \"Назад\".</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Щоб вимкнути цю функцію, натисніть кнопку збільшення гучності.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Щоб вимкнути цю функцію, натисніть кнопку \"Гучити\".</string>
     <string name="screen_on_proximity_sensor_summary">"Не закривайте динамік"</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">"Не прикрити датчик освітлення"</string>
     <string name="screen_on_proximity_sensor_title">Кишеньковий режим</string>
     <string name="screen_paper_mode_enter_toast">Режим читання увімкнений. Щоб вимкнути цю функцію, перейдіть до Налаштування &gt; Екран &gt; Режим читання.</string>
     <string name="screen_rotation_freeze_message">Поворот екрану заблокований</string>
@@ -264,6 +276,10 @@
     <string name="slavewifi_disconnect">Відключити</string>
     <string name="slavewifi_notification_title">Двохдіапазонний Wi-Fi</string>
     <string name="slavewifi_settings">Натисніть для зміни налаштувань</string>
+    <string name="small_freeform_enter_warning">Плаваюче вікно</string>
+    <string name="small_freeform_exit_tip">Закрити плаваюче вікно</string>
+    <string name="small_freeform_memory_toast_app_type">"Не можливо відкрити додаток. Цей додаток потребує надто багато пам'яті, щоб мати змогу працювати."</string>
+    <string name="small_freeform_memory_toast_game_type">"Зараз неможливо відкрити. Ця гра потребує забагато пам'яті, щоб мати можливість працювати."</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">З\'єднано: %d</string>
@@ -318,6 +334,10 @@
     <string name="translation_more">Більше</string>
     <string name="translation_query_error">"Не вдалося знайти результати"</string>
     <string name="translation_query_error_network">"Не вдалося отримати інформацію, перевірте налаштування мережі та повторіть спробу"</string>
+    <string name="trial_mode_dialog_button_cancel">Скасувати</string>
+    <string name="trial_mode_dialog_button_save">Зберегти</string>
+    <string name="trial_mode_dialog_message">\"%s\" працює в пробному режимі. Перезапуск пристрою або перемикання на режим світлової швидкості призведе до видалення цієї гри. Зберегти гру до внутрішньої пам’яті?</string>
+    <string name="trial_mode_dialog_title">Пробний режим</string>
     <string name="turn_off">Вимкнути</string>
     <string name="turn_on_work_profile">увімкнути</string>
     <string name="twohours">1 година</string>
@@ -333,7 +353,7 @@
     <string name="wifi_assistant_wifi_no_internet">Ця мережа Wi-Fi не має доступу до інтернету</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Натисніть для перегляду інформації</string>
     <string name="wireless_charging_notification_message1">"Немає пристроїв для бездротової зарядки. Реверсивна бездротова зарядка була відключена."</string>
-    <string name="wireless_charging_notification_message2">Рівень заряду менше 30%. Реверсивна бездротова зарядка була відключена.</string>
+    <string name="wireless_charging_notification_message2">Акумулятор менше %s заряджено. Зараз вимкнено індикатор бездротової зарядки.</string>
     <string name="wireless_charging_notification_message3">Сталася помилка. Реверсивна бездротова зарядка була відключена.</string>
     <string name="wireless_charging_notification_titile">Реверсивна бездротова зарядка відключена</string>
     <string name="xiaomi">Mi</string>

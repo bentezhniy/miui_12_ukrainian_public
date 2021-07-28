@@ -56,12 +56,15 @@
     <string name="category_select">Вибрати</string>
     <string name="category_video">Відео</string>
     <string name="category_video_title">Відео</string>
+    <string name="channel_client_edit">Відредаговано на мобільному пристрої</string>
     <string name="channel_pc_edit">Відредаговано на комп\'ютері</string>
     <string name="channel_pc_upload">Завантажено з комп\'ютера</string>
     <string name="channel_pc_view">Переглянули на комп\'ютері</string>
     <string name="channel_phone_edit">Змінено на телефоні</string>
     <string name="channel_phone_upload">Відвантажено з телефону</string>
     <string name="channel_phone_view">Переглянули на телефоні</string>
+    <string name="channel_tablet_upload">Завантажено з планшета</string>
+    <string name="channel_tablet_view">Переглянуто на планшеті</string>
     <string name="channel_web_edit">Відредаговано в браузері</string>
     <string name="channel_web_upload">Завантажено у браузері</string>
     <string name="channel_web_view">Переглядає в браузері</string>
@@ -208,7 +211,7 @@
     <string name="micloud_space_duokan_detail">"Відкрийте Duokan на своєму телефоні та перейдіть до Bookshelf &gt; Хмарне сховище для управління сховищем зберігання.
 Переконайтеся, що ви використовуєте поточний Mi аккаунт в якості облікового запису MIUI системи."</string>
     <string name="micloud_space_duokan_title">Duokan дисковий простір</string>
-    <string name="micloud_space_soundrecorder_detail">"Відкрийте додаток \"Запис\" на вашому телефоні та виберіть папку з елементами, що зберігаються в хмарі.
+    <string name="micloud_space_soundrecorder_detail">"Відкрити додаток Записування на вашому мобільному пристрої і вибрати папку з елементами, що зберігаються в хмарі.
 Переконайтеся, що ви використовуєте поточний Mi аккаунт в якості облікового запису MIUI системи."</string>
     <string name="micloud_space_soundrecorder_title">Аудіозаписи</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>

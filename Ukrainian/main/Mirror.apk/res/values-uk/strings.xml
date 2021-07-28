@@ -34,6 +34,7 @@
     <string name="app_name">MIUI+ бета-версія</string>
     <string name="cancel">Скасувати</string>
     <string name="clearable_edittext_clear_description">Очистити</string>
+    <string name="clipboard_tip">Скопійовано з %1$s</string>
     <string name="close">Закрити</string>
     <string name="confirm_device_credential_password">Використовувати пароль</string>
     <string name="copy">Копія</string>
@@ -54,8 +55,8 @@
     <string name="downloading">Завантаження…</string>
     <string name="early_morning">Ранок</string>
     <string name="enable_wifi_alert_cancel">Скасувати</string>
-    <string name="enable_wifi_alert_message">MIUI+ Beta під’єднання до Wi-Fi пристроїв. Увімкнути Wi-Fi?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta під’єднання до Wi-Fi пристроїв. Увімкнути Wi-Fi?</string>
+    <string name="enable_wifi_alert_message">MIUI+ підключає пристрої до Wi-Fi. Увімкнути Wi-Fi зараз?</string>
+    <string name="enable_wifi_alert_message_china">MIUI+ підключає пристрої до Wi-Fi. Увімкнути Wi-Fi зараз?</string>
     <string name="enable_wifi_alert_ok">Увімкнути</string>
     <string name="enable_wifi_alert_title">Увімкнути Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Увімкнути Wi-Fi</string>
@@ -79,6 +80,7 @@
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="fullscreen_sink_activity_label">Мій телефон</string>
     <string name="generic_error_no_device_credential">PIN-код не встановлено, ключ чи пароль.</string>
     <string name="generic_error_no_keyguard">Цей пристрій не підтримує PIN-код, ключ або пароль.</string>
     <string name="generic_error_user_canceled">Автентифікація скасована користувачем.</string>
@@ -182,6 +184,7 @@
     <string name="send">Відправити</string>
     <string name="settings_connect">Як підключити</string>
     <string name="settings_connect_more_help"><u>Допомога</u></string>
+    <string name="settings_connect_pc_group">Працюйте з комп\'ютером</string>
     <string name="settings_connect_summary1">Завантажте та встановіть MIUI+ бета-версію на своєму комп\'ютері: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Скануйте QR-код на екрані комп\'ютера на мобільному пристрої. Для цього ви можете використовувати декілька системних додатків (наприклад, Сканер, Камера, Mi Browser).</string>
     <string name="settings_connect_title1">Крок 1</string>
@@ -196,6 +199,7 @@
     <string name="settings_feature_characteristics_title_3">Підключатися автоматично</string>
     <string name="settings_feature_dnd_summary">Сповіщення при підключенні до комп\'ютера</string>
     <string name="settings_feature_dnd_title">DND</string>
+    <string name="settings_feature_intro">Про цю функцію</string>
     <string name="settings_feature_keep_screen_summary">Тримайте пристрій розблокованим, аби запобігти несподіваним від\'єднанням</string>
     <string name="settings_feature_keep_screen_title">"Не блокувати екран"</string>
     <string name="settings_history">Контактна історія</string>
@@ -208,12 +212,15 @@
     <string name="settings_home">MIUI+ бета-версія</string>
     <string name="settings_home_device_disconnect">Від\'єднатись</string>
     <string name="settings_home_device_group">Підключений пристрій</string>
-    <string name="settings_home_sub_title">Об\'єднайте телефон і комір на одну робочу станцію</string>
-    <string name="settings_home_tips">"Екран комбо розміщує копію екрана на під'єднаному комп'ютері, дозволяючи вам передавати файли та взаємодіяти з мобільним пристроєм."</string>
+    <string name="settings_how_use">Використання handoff</string>
     <string name="settings_log_options">Логи</string>
     <string name="settings_more_help">Довідка</string>
+    <string name="settings_pc_history_title">Контактна історія</string>
+    <string name="settings_pc_trusted_title">Підключатися автоматично</string>
+    <string name="settings_pc_use_tile">Про цю функцію</string>
     <string name="settings_privacy_policy">Політика конфіденційності</string>
     <string name="settings_scanner_button">Сканер</string>
+    <string name="settings_scanner_summary">Підключіться до MIUI+, використовуючи QR-код</string>
     <string name="settings_trusted">Підключатися автоматично</string>
     <string name="settings_trusted_delete">Видалити</string>
     <string name="settings_trusted_delete_dialog_msg">"Ви не зможете підключитися до цього пристрою автоматично після того, як видалите його зі списку."</string>
@@ -221,6 +228,11 @@
     <string name="settings_trusted_device_group">Пристрої, що підключаються автоматично</string>
     <string name="settings_trusted_device_none">Пристроїв тут немає</string>
     <string name="settings_trusted_tips">Автоматично підключатися до вибраних пристроїв поблизу коли Bluetooth і Wi-Fi увімкнено</string>
+    <string name="settings_trusted_tips_china">Автоматично підключатися до вибраних пристроїв поблизу коли Bluetooth і Wi-Fi увімкнено</string>
+    <string name="softap_notification_action">Підключитися</string>
+    <string name="softap_notification_message">Немає доступних мереж Wi-Fi. Підключитися до цієї точки доступу?</string>
+    <string name="softap_notification_message_china">Немає доступних мереж Wi-Fi. Підключитися до цієї точки доступу?</string>
+    <string name="softap_notification_title">"Підключення до точки доступу %1$s"</string>
     <string name="solar_term_autumn_begins">Осінь починається</string>
     <string name="solar_term_autumn_equinox">Осінній рівнодення</string>
     <string name="solar_term_clear_and_bright">Ясно і яскраво</string>

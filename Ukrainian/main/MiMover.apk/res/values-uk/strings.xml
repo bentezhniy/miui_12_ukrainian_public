@@ -168,12 +168,13 @@
     <string name="failed_description">Не вдалося</string>
     <string name="faq">ЧАП</string>
     <string name="finished">Завершено</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">МММММ д</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">МММ д</string>
+    <string name="fmt_date_short_year_month_day">ММ Д</string>
+    <string name="fmt_time_12hour">"о 'годинник'"</string>
+    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

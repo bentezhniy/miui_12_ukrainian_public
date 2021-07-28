@@ -48,6 +48,7 @@
     <string name="am">ДП</string>
     <string name="anonymous_source_continue">Продовжити</string>
     <string name="anonymous_source_warning">Ваш пристрій та особисті дані можуть бути уразливі для невідомих програм. Інсталювавши цю програму, Ви погоджуєтеся з тим, що несете відповідальність за будь-які збитки, нанесені Вашому пристрою, або втрату даних, яка може трапитися в результаті її використання</string>
+    <string name="anonymous_source_warning_tablet">Ваші пристрої та особисті дані більш уразливі до атак від невідомих програм. Встановлюючи цей додаток, ви погоджуєтеся з тим, що несете відповідальність за збитки або втрату даних, що може бути наслідком його використання.</string>
     <string name="app_install_failed_button_text">Пошук програм</string>
     <string name="app_name">Інсталяція програм</string>
     <string name="app_name_unknown">Невідомо</string>
@@ -60,7 +61,6 @@
     <string name="app_permissions_group_summary">Програми з дозволом: %1$d із %2$d</string>
     <string name="app_store_install_hint">Установити</string>
     <string name="app_store_installing_message">Інсталяція Mi Маркету…</string>
-    <string name="app_store_missing_message">"Mi Маркет не установлено на Вашому пристрої"</string>
     <string name="app_store_missing_title">"Mi Маркет відсутній"</string>
     <string name="application_detail_tips">Інформація про програму</string>
     <string name="auto_startup_dialog_msg">Система дозволить програмі запускатися автоматично</string>
@@ -154,6 +154,7 @@
     <string name="install_confirm_dialog_title">Увага</string>
     <string name="install_confirm_question">Інсталювати цю програму?</string>
     <string name="install_confirm_question_des_10">"Якщо ви хочете ризикнути і хочете продовжити встановлення, авторизувати встановлення у безпеці &gt; Керування програмами &gt; Дозволи &gt; Додатками з можливими ризиками. Якщо ви не можете знайти \"Додатки з можливими ризиками\", оновіть ваш додаток безпеки та повторіть спробу."</string>
+    <string name="install_confirm_question_des_10_tablet">"Якщо ви хочете ризикнути і хочете продовжити встановлення, авторизувати встановлення у безпеці &gt; Керування програмами &gt; Дозволи &gt; Додатками з можливими ризиками. Якщо ви не можете знайти \"Додатки з можливими ризиками\", оновіть ваш додаток безпеки та повторіть спробу."</string>
     <string name="install_confirm_question_no_perms">"Ця програма не вимагає спеціальних дозволів. Інсталювати її?"</string>
     <string name="install_confirm_question_update">"Інсталювати оновлення для цієї програми? Після оновлення вона може виконувати наступні дії:"</string>
     <string name="install_confirm_question_update_no_perms">"Інсталювати оновлення цієї програми? Оновлення не змінить поточні дані програми. Спеціальних прав доступу не потрібно."</string>
@@ -174,8 +175,10 @@
     <string name="install_failed_blocked">Інсталяція програми заблокована</string>
     <string name="install_failed_conflict">Програма з такою назвою вже існує</string>
     <string name="install_failed_incompatible">"Програма несумісна з Вашим пристроєм"</string>
+    <string name="install_failed_incompatible_tablet">"Цей додаток несумісний з вашим пристроєм."</string>
     <string name="install_failed_invalid_apk">Файл ушкоджений</string>
     <string name="install_failed_msg">"Не вдалося інсталювати програму \"%1$s\""</string>
+    <string name="install_failed_msg_tablet">"%1$s неможливо встановити на ваш пристрій."</string>
     <string name="install_failed_system_incompatible">"Ця програма не сумісна з системою MIUI"</string>
     <string name="install_finished_notification_summary">Натисніть для очищення сміття</string>
     <string name="install_finished_notification_title">Установка %1$s завершений (%2$s)</string>
@@ -407,7 +410,6 @@
     <string name="preference_copied">\"%1$s\" скопійовано до буфера обміну.</string>
     <string name="privacyPerms">Конфіденційність</string>
     <string name="privacy_relative">Небезпечні дозволи</string>
-    <string name="reboot_time">Підготовка до перезавантаженя…(%1$s)</string>
     <string name="replace_app_des_text">Програма буде перезаписана</string>
     <string name="review_button_cancel">Скасувати</string>
     <string name="review_button_continue">Продовжити</string>
@@ -433,6 +435,7 @@
  <li>Інсталяційний APK був завантажений з стороннього джерела.</li>
  </string>
     <string name="settings_warning_dialog_msg">"Ваш пристрій буде схильний до загроз безпеці, якщо ви вимкнете цю функцію. Все одно відключити?"</string>
+    <string name="settings_warning_dialog_msg_tablet">"Ваш пристрій схильний до ризиків безпеки. Вам не буде запропоновано встановлювати безпечні версії додатків, якщо ви не вимкнете цю функцію?"</string>
     <string name="settings_warning_dialog_title">Попередження</string>
     <string name="size_byte">Сі</string>
     <string name="size_giga_byte">ГБ</string>
@@ -541,13 +544,12 @@
     <string name="uninstalling">Видалення…</string>
     <string name="unknown">Невідомо</string>
     <string name="unknown_apps_admin_dlg_text">"Ваш адміністратор заборонив інсталяцію програм з невідомих джерел"</string>
-    <string name="unknown_apps_dlg_text">Для забезпечення безпеки на Вашому пристрої заблоковано інсталяцію програм, отриманих не з Google Play</string>
     <string name="unknown_installer">Невідомий інсталятор ПК</string>
     <string name="unlike">Скасувати</string>
     <string name="untrusted_external_source_always_click">Дозволяти завжди</string>
     <string name="untrusted_external_source_title">Дозволити \"%1$s\" встановлювати програми?</string>
-    <string name="untrusted_external_source_warning">"З міркувань безпеки на Вашому пристрої заборонено інсталювати сторонні програми з цього джерела"</string>
     <string name="untrusted_external_source_warning_summary">"Ваш пристрій буде піддано загрозам безпеки, якщо дозволити установку програм невідомим джерелам."</string>
+    <string name="untrusted_external_source_warning_summary_tablet">"Ваш пристрій і особисті дані уразливі до атак через програми, що були встановлені з невідомих джерел. Дозволяючи встановлювати програми з цього джерела, ви погоджуєтеся взяти на себе відповідальність за будь-які пошкодження або втрату даних, що можуть виникнути під час використання цих програм."</string>
     <string name="user_is_not_allowed_dlg_text">Поточний користувач не може видалити цю програму</string>
     <string name="user_is_not_allowed_dlg_title">Попередження</string>
     <string name="v7_preference_off">УВІМК</string>

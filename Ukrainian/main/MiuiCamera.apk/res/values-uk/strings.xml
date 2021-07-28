@@ -558,11 +558,12 @@
     <string name="document_mode_use_hint_text_title">Сканувати документи</string>
     <string name="document_origin">Оригінал</string>
     <string name="document_strengthen">Покращено</string>
-    <string name="dolly_zoom_capture_tip1">Помістіть об\'єкт у рамку та тримайте пристрій на відстані принамні %d м.</string>
-    <string name="dolly_zoom_capture_tip2">Плавно відведіть пристрій від об\'єкта зйомки</string>
+    <string name="dolly_zoom_capture_tip1">Покладіть тему у кадр</string>
+    <string name="dolly_zoom_capture_tip2">Тримайте вашу тему в центрі і постійно переміщайте пристрій</string>
     <string name="dolly_zoom_capture_tip3">Об\'єкт було втрачено. Почати заново.</string>
     <string name="dolly_zoom_capture_tip4">Ви помістили пристрій занадто далеко. Почніть заново.</string>
     <string name="dolly_zoom_capture_tip5">"Не вдалося зберегти відео"</string>
+    <string name="dolly_zoom_capture_tip6">Перемістіть тему до центру кадру</string>
     <string name="dolly_zoom_guide_tip1">"Переконайтеся, що достатньо місця між об'єктом та фоном."</string>
     <string name="dolly_zoom_guide_tip10">І багато іншого!</string>
     <string name="dolly_zoom_guide_tip2">Намагайтеся уникати великих ділянок з суцільним кольором.</string>
@@ -589,7 +590,7 @@
     <string name="dual_video_record_standalone">Розділені</string>
     <string name="dual_video_user_guide_main_content">Щоб створити багатокамерне відео, виберіть два об\'єктива і почніть зйомку з одночасним використанням обраних камер. Запис може бути збережений у вигляді двох окремих файлів, а також в якості об\'єднаного відео в режимі поділу екрану або \"картинка в картинці\".</string>
     <string name="dual_video_user_guide_main_content_new">"Багатоканальні відео спочатку застрелюються з декількома камерами.
-запис двох телефонів також дозволяє підключатися до іншого пристрою та створити багаторядкове відео, обравши «Комбінований»."</string>
+запис двох телефонів також дозволяє підключатися до іншого пристрою поблизу і створити мультикаційне відео, обравши \"Комбіновано\"."</string>
     <string name="dual_video_user_guide_main_title">Багатокамерна зйомка</string>
     <string name="dual_video_user_guide_merge_content">Одночасна зйомка двома камерами з можливістю об\'єднання відео в режимі розділення екрану або\"картинка в картинці\".</string>
     <string name="dual_video_user_guide_merge_content_new">Два записи можна об\'єднати у роздільному вигляді або у зображенні відео.</string>
@@ -673,12 +674,14 @@
     <string name="film_video_d">Нічний таймлапс</string>
     <string name="film_video_e">Паралельний світ</string>
     <string name="film_video_tip">Використовуйте трипод</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">МММММ д</string>
+    <string name="fmt_date_long_year_month_day">МММ Д</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month_day">dd.MM</string>
-    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">МММ д</string>
+    <string name="fmt_date_short_year_month_day">ММ Д</string>
+    <string name="fmt_time_12hour">"о 'годинник'"</string>
+    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="fps960_toast">Режим уповільненої зйомки увімкнеться в останній чверті запису</string>
     <string name="fragment_tab_name_bokeh">Боке</string>
     <string name="friday">П\'ятниця</string>
@@ -713,6 +716,10 @@
 Роздрукуйте через бездротове з'єднання на папері форматом A4."</string>
     <string name="id_card_mode_use_hint_text_title">Сканувати посвідчення особи</string>
     <string name="install_confirmed">Встановити</string>
+    <string name="invisible_mode_dialog_cancel">Скасувати</string>
+    <string name="invisible_mode_dialog_summary">"Не можна використовувати камеру. Вимкніть режим інкогніто в налаштуваннях, щоб мати можливість використовувати камеру."</string>
+    <string name="invisible_mode_dialog_title">"Ти інкогніто"</string>
+    <string name="invisible_mode_dialog_to_close">Налаштування</string>
     <string name="kaleidoscope_fragment_tab_name">Калейдоскоп</string>
     <string name="lens_dirty_detected_content">"Об'єктив камери забруднений.
 Очистіть об'єктив для поліпшення знімків."</string>
@@ -1519,7 +1526,7 @@
     <string name="pref_watermark_title">Водяний знак</string>
     <string name="pref_wind_denoise_title">Фільтр вітру</string>
     <string name="preference_copied">\"%1$s\": скопійовано в буфер обміну.</string>
-    <string name="prek_b_j_o">Повторно створити стереозвучений ефект</string>
+    <string name="prek_b_j_o">Увімкніть, щоб відтворити стереозвучений ефект. Перемкніться в ландшафтний режим або підключіть навушники для найкращого ефекту.</string>
     <string name="prek_b_j_p">Зменшення впливу вітру на запис звуку</string>
     <string name="prep_video_ai_audio_new_desc_tip">Звуки від предмету у фокусі покращені</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Звуки з предмету у пейзажному режимі</string>
@@ -1543,7 +1550,7 @@
     <string name="remote_online_exit_connecting">Від\'єднатися та вийти із запису двох телефонів зараз?</string>
     <string name="remote_online_guide">Увімкніть запис двох телефонів на іншому пристрої за допомогою перемикача управління.</string>
     <string name="remote_online_interrupted">Підключіться ще раз для продовження.</string>
-    <string name="remote_online_introduction_i">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
+    <string name="remote_online_introduction_i">"Запис двох телефонів дозволяє об'єднувати канали з двох різних пристроїв, близьких один до одного в одному відео. Зможете попередньо переглянути подачу і фінальне відео на цьому пристрої. Зауважте, що аудіо буде записано тільки цим пристроєм."</string>
     <string name="remote_online_introduction_ii">Для того, щоб зробити цю функцію працюючою, інші Mi або Redmi повинні підтримувати Dual phone recording. Вона може бути увімкнена за допомогою перемикача центру управління.</string>
     <string name="remote_online_permission">"Змініть дозвіл на місцезнаходження камери на \"Дозволити лише під час використання програми\", щоб використовувати подвійний телефонний запис."</string>
     <string name="remote_online_searching">Пошук пристроїв…</string>
@@ -1710,6 +1717,10 @@
     <string name="timbre_lady">Жіноча</string>
     <string name="timbre_normal">Початковий</string>
     <string name="timbre_robot">Робот</string>
+    <string name="time_freeze_action_end_tip">Натисніть кнопку, щоб розморозити фон</string>
+    <string name="time_freeze_action_start_tip">Натисніть кнопку, щоб заморозити фон</string>
+    <string name="time_freeze_adjust_button_title">Регулювати</string>
+    <string name="time_freeze_clipbox_tint">Заморозити</string>
     <string name="time_lapse_error">"Неможливо зняти прискорене відео в цій роздільній якості"</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>

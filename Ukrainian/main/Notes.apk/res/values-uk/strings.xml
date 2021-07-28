@@ -198,11 +198,13 @@
     <string name="float_todo_guide_title">Ярлик на робочому столі</string>
     <string name="float_todo_guide_title_v2">Ярлик жестів</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">МММ Д</string>
     <string name="fmt_date_numeric_month_day">d.MM</string>
     <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d.MM</string>
-    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">МММ д</string>
+    <string name="fmt_date_short_year_month_day">ММ Д</string>
+    <string name="fmt_time_12hour">"о 'годинник'"</string>
+    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="folder_exist">Папка з такою назвою вже існує</string>
     <string name="folder_operation_delete">Видалити</string>
     <string name="folder_operation_rename">Перейменувати</string>
@@ -223,6 +225,7 @@
     <string name="hide_arrow_description">Приховати</string>
     <string name="hint_cannot_view_hidden_note_content">"Неможливо переглянути вміст прихованих нотаток"</string>
     <string name="hint_foler_name">Введіть назву</string>
+    <string name="hybrid_provider">Надано %1$s</string>
     <string name="image_action_annotate">Додати опис зображення</string>
     <string name="image_action_browse">Переглянути зображення</string>
     <string name="image_action_delete">Видалити зображення</string>
@@ -339,6 +342,7 @@
     <string name="new_audio_create_talkback_des">Натисніть, щоб створити нотатку. Натисніть та утримуйте, щоб створити голосову нотатку. Відпустіть кнопку, щоб зупинити запис та створити нотатку або проведіть вверх, щоб скасувати.</string>
     <string name="new_data_empty_note">Порожньо</string>
     <string name="night">Вечір</string>
+    <string name="no_network">"Мережа не може бути підключена"</string>
     <string name="noon">Полудень</string>
     <string name="not_now">Скасувати</string>
     <string name="not_set">Не налаштовано</string>
@@ -360,6 +364,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Почніть введення "</string>
     <string name="note_mindnote_entrance_icon_text">Створити асоціативну карту</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Створити асоціативну карту</string>
+    <string name="note_not_text_stub">Немає тексту</string>
     <string name="note_sort_way">Виберіть спосіб сортування нотаток</string>
     <string name="notealert_enter">Відкрити нотатку</string>
     <string name="notealert_ok">Відхилити</string>
@@ -546,6 +551,7 @@
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Зима починається</string>
     <string name="solar_term_winter_solstice">Зимове сонцестояння</string>
+    <string name="splash_note">Stylus</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">Нед</string>
     <string name="sunday_shortest">Нд</string>
@@ -631,6 +637,7 @@
     <string name="toast_notes_delete_success">Видалено успішно</string>
     <string name="toast_notes_hidden_edit">Ця нотатка успішно прихована. Потягніть вниз, щоб переглянути приховані нотатки.</string>
     <string name="toast_notes_hidden_home">Ця нотатка успішно прихована. Потягніть вниз, щоб переглянути приховані нотатки.</string>
+    <string name="toast_notes_hidden_pad">Тепер нотатка прихована. Протягніть вниз бічну панель, щоб переглянути приховані нотатки.</string>
     <string name="toast_notes_unhidden">Приховання скасоване успішно</string>
     <string name="toast_pic_is_not_really">Збереження зображення…</string>
     <string name="toast_reach_text_limit_attachment">"Неможливо прикріпити файл. Немає вільного місця в нотатці."</string>
@@ -732,11 +739,17 @@
     <string name="v7_preference_off">ВИМКНЕНО</string>
     <string name="v7_preference_on">УВІМКНЕНО</string>
     <string name="view_all_notes">Переглянути все</string>
+    <string name="web_sso_login_fail">Ви повинні увійти знову</string>
+    <string name="web_sso_login_message">Вхід у…</string>
+    <string name="webview_reload">Спробуйте ще раз</string>
     <string name="wednesday">Середа</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="widget_content_loading">Секунду…</string>
+    <string name="widget_create_select_size">Виберіть розмір</string>
+    <string name="widget_empty_content">Торкніться, щоб вибрати нотатку</string>
     <string name="widget_havenot_content">Натисніть, щоб створити нотатку. Утримуйте віджет, щоб змінити розмір.</string>
+    <string name="widget_note_list_page_title">Виберіть примітку</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не зараз</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Оновити</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступне оновлення</string>

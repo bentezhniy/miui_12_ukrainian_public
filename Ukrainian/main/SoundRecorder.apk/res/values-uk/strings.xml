@@ -68,6 +68,7 @@
     <string name="delete">Видалити</string>
     <string name="delete_cloud_data_at_same_time">Також видалити із хмари</string>
     <string name="delete_dialog_message">Видалити вибраний запис?</string>
+    <string name="delete_recorder">Видалити</string>
     <string name="deleting_message">Видалення…</string>
     <string name="details">Деталі</string>
     <string name="dialog_content_storage_full">"Через брак місця для збереження, запис був зупинений."</string>
@@ -109,12 +110,14 @@
     <string name="expand_button_title">Додатково</string>
     <string name="export_to_note">Експорт</string>
     <string name="fm_record">Радіомодуль</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">МММММ д</string>
+    <string name="fmt_date_long_year_month_day">МММ Д</string>
     <string name="fmt_date_numeric_month_day">d.MM</string>
     <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d.MM</string>
-    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
+    <string name="fmt_date_short_month_day">МММ д</string>
+    <string name="fmt_date_short_year_month_day">ММ Д</string>
+    <string name="fmt_time_12hour">"о 'годинник'"</string>
+    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -136,6 +139,7 @@
     <string name="loading_order_list_empty">Немає замовлень.</string>
     <string name="low_battery_error">"Залишилося менше 5% заряду батареї. Зупиніть та збережіть ваш запис, щоб не втратити його."</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">"Менше ніж %s розряджений акумулятор. Зупиніть і збережіть запис, щоб переконатися, що він не загубився."</string>
     <string name="low_battery_error_title">Низький рівень заряду</string>
     <string name="lyric_item_point_count">%1$d до %2$d</string>
     <string name="mark_point_list_title">Мітки</string>
@@ -229,6 +233,7 @@
     <string name="notification_playback">Відтворення…</string>
     <string name="notification_recording">Запис…</string>
     <string name="notification_recording_ticker">Запис…</string>
+    <string name="notification_recording_ticker_for_pad">Ваш пристрій записує аудіо в беззвучному режимі. Застосовуйте кнопки гучності для вимкнення режиму без звуку.</string>
     <string name="notification_save_as_complete">Збережено успішно</string>
     <string name="notification_stopped">Запис зупинено</string>
     <string name="notification_title_all_paused">Завантаження призупинене</string>
@@ -266,6 +271,7 @@
     <string name="pay_error_cancel">Оплата була скасована</string>
     <string name="pay_error_null">"Не вдалося завершити оплату. Перевірте ваш акаунт."</string>
     <string name="pay_error_unknown">Невідома помилка</string>
+    <string name="play_speed">%1$.1fшвидкість X</string>
     <string name="playback_delete_records">Видалити запис</string>
     <string name="playback_share_records">Поділитися записом</string>
     <string name="pm">ПО</string>

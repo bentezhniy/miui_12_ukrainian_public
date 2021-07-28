@@ -96,6 +96,24 @@
         <item quantity="few">Було відхилено %2$d рази о %1$s</item>
         <item quantity="many">Було відхилено %2$d разів о %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Дозволено %3$d разів між %1$s і %2$s</item>
+        <item quantity="one">Дозволено %3$d раз між %1$s і %2$s</item>
+        <item quantity="few">Дозволено %3$d разів між %1$s і %2$s</item>
+        <item quantity="many">Дозволено %3$d разів між %1$s і %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Використовується %1$d хвилин</item>
+        <item quantity="one">Використовується %1$d хвилини</item>
+        <item quantity="few">Використовується %1$d хвилин</item>
+        <item quantity="many">Використовується %1$d хвилин</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Використовується %1$d хвилин до %2$s</item>
+        <item quantity="one">Використовується за %1$d хвилину до %2$s</item>
+        <item quantity="few">Використовується %1$d хвилин до %2$s</item>
+        <item quantity="many">Використовується %1$d хвилин до %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Відправлено %3$d порожніх повідомлення у проміжку між %1$s та %2$s</item>
         <item quantity="one">Відправлено %3$d порожнє повідомлення у проміжку між %1$s та %2$s</item>
@@ -424,6 +442,18 @@
         <item quantity="few">Отримати %d-денну безкоштовну пробну версію</item>
         <item quantity="many">Отримати %d-денну безкоштовну пробну версію</item>
     </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Ця функція автоматично знижує яскравість екрану після %d хвилин бездіяльності для економії енергії. Тримати цю функцію?</item>
+        <item quantity="one">Ця функція автоматично знижує яскравість екрану після %d хвилини бездіяльності для зберігання. Тримати цю функцію?</item>
+        <item quantity="few">Ця функція автоматично знижує яскравість екрану після %d хвилин бездіяльності для економії енергії. Тримати цю функцію?</item>
+        <item quantity="many">Ця функція автоматично знижує яскравість екрану після %d хвилин бездіяльності для економії енергії. Тримати цю функцію?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Автоматично знижувати яскравість екрану для збереження енергії через %d хвилин бездіяльності</item>
+        <item quantity="one">Автоматично знижувати яскравість екрану для збереження енергії через %d хвилин бездіяльності</item>
+        <item quantity="few">Автоматично знижувати яскравість екрану для збереження енергії через %d хвилин бездіяльності</item>
+        <item quantity="many">Автоматично знижувати яскравість екрану для збереження енергії через %d хвилин бездіяльності</item>
+    </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Congrats! Ви розблокували %s яйця."</item>
         <item quantity="one">"Вітаємо! Ви розблокували %s пасхальне яйце."</item>
@@ -509,10 +539,10 @@
         <item quantity="many">Знайдено програм: %d</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">Знайдено %d ризиків, виправити зараз</item>
-        <item quantity="one">Знайдено %d ризик, виправити зараз</item>
-        <item quantity="few">Знайдено %d ризика, виправити зараз</item>
-        <item quantity="many">Знайдено %d ризиків, виправити зараз</item>
+        <item quantity="other">%d ризиків виявлено</item>
+        <item quantity="one">%d ризик виявлено</item>
+        <item quantity="few">%d ризиків виявлено</item>
+        <item quantity="many">%d ризиків виявлено</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Відстежується трафік %d програм</item>
@@ -1157,10 +1187,10 @@
         <item quantity="many">Знайдено %d неофіційних програм</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">Знайдено %d небезпечних програм</item>
-        <item quantity="one">Знайдено %d небезпечну програму</item>
-        <item quantity="few">Знайдено %d небезпечні програми</item>
-        <item quantity="many">Знайдено %d небезпечних програм</item>
+        <item quantity="other">%d виявлено шкідливі програми</item>
+        <item quantity="one">%d виявлено шкідливий додаток</item>
+        <item quantity="few">%d виявлено шкідливі програми</item>
+        <item quantity="many">%d виявлено шкідливі програми</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Пошук %d програм</item>
@@ -1179,6 +1209,24 @@
         <item quantity="one">Видалено %d вірус</item>
         <item quantity="few">Видалено %d віруса</item>
         <item quantity="many">Видалено %d вірусів</item>
+    </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">У вас залишилася лише %d спроб, щоб підтвердити вашу SIM-карту. Якщо ви перевищите обмеження для введення неправильних PUK-кодів, ваша SIM-картка буде скасована. Все одно продовжити?</item>
+        <item quantity="one">У вас залишилася лише %d спроб, щоб підтвердити вашу SIM-карту. Якщо ви перевищите обмеження для введення неправильних PUK-кодів, ваша SIM-картка буде скасована. Все одно продовжити?</item>
+        <item quantity="few">У вас залишилася лише %d спроб, щоб підтвердити вашу SIM-карту. Якщо ви перевищите обмеження для введення неправильних PUK-кодів, ваша SIM-картка буде скасована. Все одно продовжити?</item>
+        <item quantity="many">У вас залишилася лише %d спроб, щоб підтвердити вашу SIM-карту. Якщо ви перевищите обмеження для введення неправильних PUK-кодів, ваша SIM-картка буде скасована. Все одно продовжити?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Введений PIN-код є неправильним. %d спроб залишилось.</item>
+        <item quantity="one">Введений ПІН-код неправильний. Залишилася %d спроб.</item>
+        <item quantity="few">Введений PIN-код є неправильним. %d спроб залишилось.</item>
+        <item quantity="many">Введений PIN-код є неправильним. %d спроб залишилось.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Введіть SIM-карту. %d спроб.</item>
+        <item quantity="one">Введіть PUK SIM-карти. %d спроба залишилася.</item>
+        <item quantity="few">Введіть SIM-карту. %d спроб.</item>
+        <item quantity="many">Введіть SIM-карту. %d спроб.</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s програм для оплати захищені</item>
@@ -1291,6 +1339,12 @@
         <item quantity="one">Переглядів: %1$d</item>
         <item quantity="few">Переглядів: %1$d</item>
         <item quantity="many">Переглядів: %1$d</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Очистити %d вибраних програм?</item>
+        <item quantity="one">Очистити %d вибрану програму?</item>
+        <item quantity="few">Очистити %d вибраних програм?</item>
+        <item quantity="many">Очистити %d вибраних програм?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Небезпечні програми: %d</item>

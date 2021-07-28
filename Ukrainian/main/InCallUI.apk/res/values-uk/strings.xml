@@ -171,7 +171,7 @@
     <string name="incall_error_supp_service_switch">"Неможливо перемкнути виклики"</string>
     <string name="incall_error_supp_service_transfer">"Не вдалося перевести виклик"</string>
     <string name="incall_error_supp_service_unknown">"Послуга не підтримується"</string>
-    <string name="incoming_call_forwarded_title">Переадресація дзвінків</string>
+    <string name="incoming_call_forwarded_title">Переадресований дзвінок</string>
     <string name="incoming_circle_text_answer">Відповісти</string>
     <string name="incoming_circle_text_answer_p">Відповісти</string>
     <string name="incoming_circle_text_reject">Відхилити</string>
@@ -286,6 +286,9 @@
     <string name="pm">Очистити кеш</string>
     <string name="private_num">Прихований номер</string>
     <string name="prompt_no_volte_when_failed">"Сервіси VoLTE недоступні"</string>
+    <string name="relay_cal_from_device_name">Від %1$s</string>
+    <string name="relay_call">Гандофф</string>
+    <string name="relay_call_device_name">Підключений пристрій (%1$s)</string>
     <string name="remind_unlock_message">Пристрій заблоковано. Розблокувати для доступу \"%s\"?</string>
     <string name="respond_via_sms_custom_message">Власне повідомлення…</string>
     <string name="saturday">Субота</string>

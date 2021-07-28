@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показати всі</string>
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
-    <string name="abc_capital_off">ВИМК</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
     <string name="abc_capital_on">УВІМК.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
@@ -51,6 +51,7 @@
     <string name="backup_failed_reason_network_error">Перевірте налаштування мережі та повторіть спробу</string>
     <string name="backup_finished_notification_content">Бекап програм на робочому столі, системних налаштувань, тощо.</string>
     <string name="backup_now">Створити бекап зараз</string>
+    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_remind_buy_cloud_space">Змініть план підписки</string>
     <string name="backup_remind_clean_disk_space">Звільніть пам\'ять</string>
     <string name="backup_remind_cloud_space_cost">Розмір копії: %s</string>
@@ -199,6 +200,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="early_morning">Ранок</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">до н. е.</string>
+    <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">"Не можливо виконати дію. Зачекайте хвилину або дві і повторіть спробу…"</string>
     <string name="error_unknown">Невідома помилка</string>
     <string name="evening">Після обіду</string>
@@ -229,7 +231,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort_name">Назва</string>
     <string name="menu_item_sort_size">Розмір</string>
     <string name="midnight">Ніч</string>
-    <string name="miui_device_name">Android</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Зняти виділення</string>
     <string name="miuix_appcompat_action_mode_select_all">Виділити все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Виберіть предмети</string>
@@ -244,14 +245,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="miuix_appcompat_select_all">Виділити все</string>
     <string name="miuix_appcompat_select_all_description">Виділити все</string>
     <string name="miuix_appcompat_select_item">Виберіть предмети</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Щоб оновити, потягніть вниз</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Оновлено успішно</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Оновлення…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Відпустіть, щоб оновити</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"На даний момент все це"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Просто секунда…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Не вдалося завантажити елементи"</string>
     <string name="monday">Понеділок</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -406,9 +399,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="solar_term_winter_solstice">Зимове сонцестояння</string>
     <string name="start_backup_to_micloud">Бекап даних програм до Xiaomi Cloud</string>
     <string name="start_recover">Відновити %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_unit_gb">%s ГБ</string>
     <string name="storage_unit_mb">%s МБ</string>
     <string name="success_open_cloudbackup">Резервне копіювання програм на робочому столі увімкнене</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Неділя</string>
     <string name="sunday_short">НД</string>
     <string name="sunday_shortest">НД</string>

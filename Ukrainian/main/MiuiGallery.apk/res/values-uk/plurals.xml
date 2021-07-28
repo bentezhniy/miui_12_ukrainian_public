@@ -67,10 +67,10 @@
         <item quantity="many">Додано %d хмарних фото, для перегляду вимкніть функцію \"Відображати тільки локальні альбоми\".</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d об'єктів не вдалося додати до альбому. %1$s."</item>
-        <item quantity="one">"%2$d об'єкт не вдалося додати до альбому. %1$s."</item>
-        <item quantity="few">"%2$d об'єкта не вдалося додати до альбому. %1$s."</item>
-        <item quantity="many">"%2$d об'єктів не вдалося додати до альбому. %1$s."</item>
+        <item quantity="other">" %2$d об'єктів не можна додати до альбому. %1$s."</item>
+        <item quantity="one">" %2$d елемент не можна додати до альбому. %1$s."</item>
+        <item quantity="few">" %2$d об'єктів не можна додати до альбому. %1$s."</item>
+        <item quantity="many">" %2$d об'єктів не можна додати до альбому. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"Не вдається додати %2$d об'єктів до особистого альбому. %1$s."</item>
@@ -432,6 +432,12 @@
         <item quantity="few">Всього %1$d об/\'єкта</item>
         <item quantity="many">Всього %1$d об/\'єктів</item>
     </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Повернути %d градусів</item>
+        <item quantity="one">Повернути %d градус</item>
+        <item quantity="few">Повернути %d градусів</item>
+        <item quantity="many">Повернути %d градусів</item>
+    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d днів</item>
         <item quantity="one">%d день</item>
@@ -726,17 +732,47 @@
         <item quantity="few">Оптимізовано фото: %d</item>
         <item quantity="many">Оптимізовано фото: %d</item>
     </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Оптимізовано %d фотографій</item>
+        <item quantity="one">Оптимізовано %d фотографій</item>
+        <item quantity="few">Оптимізовано %d фотографій</item>
+        <item quantity="many">Оптимізовано %d фотографій</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Оптимізовано %d відео</item>
+        <item quantity="one">Оптимізовано %d відео</item>
+        <item quantity="few">Оптимізовано %d відео</item>
+        <item quantity="many">Оптимізовано %d відео</item>
+    </plurals>
     <plurals name="slim_exit_dialog_message">
         <item quantity="other">"%d фото не було оптимізовано. Зупинити зараз?"</item>
         <item quantity="one">"%d фото не було оптимізовано. Зупинити зараз?"</item>
         <item quantity="few">"%d фото не було оптимізовано. Зупинити зараз?"</item>
         <item quantity="many">"%d фото не було оптимізовано. Зупинити зараз?"</item>
     </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d фотографій</item>
+        <item quantity="one">%d фотографія</item>
+        <item quantity="few">%d фотографій</item>
+        <item quantity="many">%d фотографій</item>
+    </plurals>
     <plurals name="slim_remain_photo_count">
         <item quantity="other">Залишилося фото: %d</item>
         <item quantity="one">Залишилося фото: %d</item>
         <item quantity="few">Залишилося фото: %d</item>
         <item quantity="many">Залишилося фото: %d</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d елементів залишилось для оптимізації</item>
+        <item quantity="one">%d елементів залишилося для оптимізації</item>
+        <item quantity="few">%d елементів залишилось для оптимізації</item>
+        <item quantity="many">%d елементів залишилось для оптимізації</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d відео</item>
+        <item quantity="one">%d відео</item>
+        <item quantity="few">%d відео</item>
+        <item quantity="many">%d відео</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Не вдалося створити резеврну копію %d фото або відео"</item>
@@ -767,6 +803,12 @@
         <item quantity="one">Синхронізовано %d відео</item>
         <item quantity="few">Синхронізовано %d відео</item>
         <item quantity="many">Синхронізовано %d відео</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s предметів</item>
+        <item quantity="one">%1$s, %2$s річ</item>
+        <item quantity="few">%1$s, %2$s предметів</item>
+        <item quantity="many">%1$s, %2$s предметів</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Ви не зможете відновити %d обраних об'єктів після видалення. Видалити?"</item>
