@@ -175,14 +175,6 @@
     <string name="every_day">Щоденно</string>
     <string name="expand_button_title">Додатково</string>
     <string name="expired_timers_dismissed">Таймер відхилено успішно</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="force_touch_add_alarm">Додати будильник</string>
     <string name="force_touch_enter_stopwatch">Секундомір</string>
     <string name="force_touch_enter_timer">Таймер</string>

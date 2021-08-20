@@ -579,12 +579,6 @@ Mi Roaming потребує підключення до Інтернету та 
     <string name="firewall_setting">Чорний список</string>
     <string name="five_letter">JKL</string>
     <string name="flow_use_analyse">Статистика використання</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d.MM</string>
-    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Часто викликаються</string>
     <string name="friday">П\'ятниця</string>

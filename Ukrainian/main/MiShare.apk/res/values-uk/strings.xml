@@ -107,12 +107,6 @@
     <string name="file_sending">Передача файлів…</string>
     <string name="file_transfer_progress">Прогрес: %1$d%%</string>
     <string name="file_transfer_progress_title">Прогрес</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

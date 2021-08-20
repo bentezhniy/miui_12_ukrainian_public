@@ -532,12 +532,6 @@
     <string name="filter_title_unread">%s [Непрочитано]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Натисніть на кнопку, щоб відправити \"%s\" всім людям у діалозі</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.M</string>
-    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month_day">dd.MM</string>
-    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
     <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>

@@ -62,14 +62,6 @@
     <string name="error_unauthorized">Синхронізацію вимкнено через велику кількість спроб авторизації.</string>
     <string name="evening">PM</string>
     <string name="experience_new_system_app">Ознайомтеся з новими функціями!</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_short_month_day">d MMMM</string>
-    <string name="fmt_date_short_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_time_12hour">"h 'Г'"</string>
-    <string name="fmt_time_24hour">"H 'Г'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">П</string>

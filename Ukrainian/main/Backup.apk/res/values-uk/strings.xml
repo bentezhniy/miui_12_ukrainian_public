@@ -230,14 +230,6 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="flash_drive_restore_btn">Відновити з USB</string>
     <string name="flash_drive_search_backup_files">"Пошук резервних копій на USB…
 Не змінюйте файли резервних копій."</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">d.M</string>
-    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

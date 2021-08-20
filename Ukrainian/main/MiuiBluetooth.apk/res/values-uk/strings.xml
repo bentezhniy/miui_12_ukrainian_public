@@ -350,12 +350,6 @@
     <string name="feiyu_vlog_name">Кишеня Фейю</string>
     <string name="fiveg_sa_switch_summary">Використовувати С мережу на вторинній SIM (тільки для тестування)</string>
     <string name="fiveg_sa_vice_switch_title">АУП на вторинній SIM-карті</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.M</string>
-    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month_day">dd.MM</string>
-    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="force_allow_on_external">Дозволити зберігання на зовнішніх накопичувачах</string>
     <string name="force_allow_on_external_summary">Дозволити збереження програм на зовнішніх накопичувачах незалежно від значень в маніфесті</string>
     <string name="force_msaa">Увімкнути 4x MSAA</string>

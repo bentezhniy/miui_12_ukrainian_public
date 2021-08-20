@@ -41,12 +41,6 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
     <string name="freeform_demo_back">Назад</string>
     <string name="freeform_demo_final_over">Готово</string>
     <string name="freeform_demo_final_restart">Почати спочатку</string>

@@ -329,14 +329,6 @@
     <string name="file">Файли</string>
     <string name="file_not_found">Файл не знайдено</string>
     <string name="flow_rank_title">Мобільний трафік</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

@@ -96,13 +96,6 @@
     <string name="fastboot_status_locked_summary">"Не вдалося отримати ROOT-доступ"</string>
     <string name="fastboot_unlock_web_title">Перейдіть на сайт MIUI, щоб завантажити утиліту для розблокування.</string>
     <string name="fingerprint_not_remind">"Більше не запитувати"</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="free_send_net_booster">Безкоштовне збільшення швидкості мережі</string>
     <string name="free_send_net_booster_busniess">Спробуйте збільшення швидкості Xunlei безкоштовно</string>
     <string name="free_send_net_booster_busniess_tip">Натисніть для отримання</string>

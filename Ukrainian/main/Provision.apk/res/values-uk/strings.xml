@@ -100,12 +100,6 @@
     <string name="expand_button_title">Додатково</string>
     <string name="fast_application_introduction">Платформа \"Швидкі програми\" дозволяє створювати і надавати сервіси в швидких програмах.</string>
     <string name="fast_pairing_introduction">My Link дозволяє вашому пристрої підключатися до Bluetooth-пристроїв поблизу, використовуючи послугу MIUI Bluetooth. Для здійснення пошуку пристроїв поруч з вами дозвольте My Link доступ до інтернету.</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.M</string>
-    <string name="fmt_date_numeric_year_month_day">d.M.yyyy</string>
-    <string name="fmt_date_short_month_day">dd.MM</string>
-    <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
     <string name="font_hint_large">Розмір за замовчуванням</string>
     <string name="font_hint_normal">Збільшений розмір</string>
     <string name="framework_introduction">Mi Services Framework дозволяє використовувати Mi акаунт, Mi Push, Mi Статистику та MIUI BI.</string>

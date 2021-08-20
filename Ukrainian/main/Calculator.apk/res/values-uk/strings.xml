@@ -145,8 +145,6 @@
     <string name="extra_deduction_title">Додаткові відрахування</string>
     <string name="factorialDesc">факторіал</string>
     <string name="float_window_guide_text">Натисніть тут, щоб згорнути калькулятор</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
     <string name="fund_loan">Фонд позичок</string>
     <string name="further_education">Майбутнє навчання</string>
     <string name="global_network_confirm_content">Для нормальної роботи конвертера валют необхідне підключення до мережі.</string>

@@ -53,14 +53,6 @@
     <string name="eras_bc">до н. е.</string>
     <string name="evening">Після обіду</string>
     <string name="expand_button_title">Додатково</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="friday">П\'ятниця</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

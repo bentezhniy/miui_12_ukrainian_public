@@ -68,14 +68,6 @@
     <string name="first_using_mic_dialog_title">Необхідні дозволи</string>
     <string name="fixed_frame_rate">Фіксована частота кадрів</string>
     <string name="fixed_frame_rate_summary">Покращує відтворення на платформах соціальних мереж та збільшує час роботи батареї.</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="frames">Частота кадрів</string>
     <string name="frames_summary">Впливає на розмитість під час руху</string>
     <string name="frequently_click_toast">Хвилинку…</string>

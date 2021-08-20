@@ -1023,12 +1023,6 @@
     <string name="fiveg_upperlayer_indication1">Верхній шар показники стану:</string>
     <string name="flash_when_ring_summary">Використовувати спалах для сповіщення про вхідні виклики</string>
     <string name="flash_when_ring_title">Спалах під час вхідних викликів</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
     <string name="fold_answer_pref_summary">Загорнути пристрій, щоб отримувати вхідний дзвінок автоматично</string>
     <string name="fold_answer_pref_title">Згорнути для прийняття дзвінків</string>
     <string name="forbidden_network">(заборонено)</string>

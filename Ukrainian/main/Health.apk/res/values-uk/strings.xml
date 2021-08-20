@@ -484,12 +484,6 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="finish_stand">Так</string>
     <string name="finish_stand2">Завершується</string>
     <string name="finished_rate">Завершено %1$d%%</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d.MM</string>
-    <string name="fmt_date_numeric_year_month_day">d.MM.yyyy</string>
-    <string name="fmt_date_short_month_day">d.MM</string>
-    <string name="fmt_date_short_year_month_day">d.MM.yyyy</string>
     <string name="for_diagnosis_usage_only">Використайте цю інформацію лише для діагностики.</string>
     <string name="free_training">Freestyle workout</string>
     <string name="freestyle">Кроль</string>

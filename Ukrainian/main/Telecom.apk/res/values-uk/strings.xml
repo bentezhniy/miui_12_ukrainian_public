@@ -347,12 +347,6 @@
     <string name="external_source_trusted">Дозволено</string>
     <string name="external_source_untrusted">Заборонено</string>
     <string name="failed_to_open_app_settings_toast">Не вдалося відкрити налаштування для програми %1$s</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">ММ/дд</string>
-    <string name="fmt_date_short_year_month_day">ДД/ММ/РРРР</string>
     <string name="force_allow_on_external">Примусово записувати додатки в зовнішню пам’ять</string>
     <string name="force_allow_on_external_summary">Можна записувати додатки в зовнішню пам’ять, незалежно від значень у маніфесті</string>
     <string name="force_msaa">Примус. запустити 4x MSAA</string>

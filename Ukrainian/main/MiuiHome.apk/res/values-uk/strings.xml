@@ -274,14 +274,6 @@
     <string name="failed_to_drop">"Не вдалося перемістити"</string>
     <string name="failed_to_drop_widget_invalid">Недійсний віджет</string>
     <string name="failed_to_load_image">"Не вдалося завантажити зображення"</string>
-    <string name="fmt_date_long_month_day">МММММ д</string>
-    <string name="fmt_date_long_year_month_day">МММ Д</string>
-    <string name="fmt_date_numeric_month_day">М/д</string>
-    <string name="fmt_date_numeric_year_month_day">М/д/ррр</string>
-    <string name="fmt_date_short_month_day">МММ д</string>
-    <string name="fmt_date_short_year_month_day">ММ Д</string>
-    <string name="fmt_time_12hour">"о 'годинник'"</string>
-    <string name="fmt_time_24hour">"HHH 'o''lock'"</string>
     <string name="folder_name">Папка</string>
     <string name="frame_load_failed">"Не вдалося завантажити фоторамку"</string>
     <string name="free_style_apps_title">Виберіть програму</string>

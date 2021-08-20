@@ -455,14 +455,6 @@
     <string name="floating_view_dialog_leave">Покинути сторінку</string>
     <string name="floating_view_dialog_stay">Залишитися</string>
     <string name="floating_view_dialog_title">Залишити сторінку?</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_time_12hour">"h 'годинник'"</string>
-    <string name="fmt_time_24hour">"HH \"годинник\""</string>
     <string name="follow">Слідкувати</string>
     <string name="followed">Підписаний</string>
     <string name="format_not_support">"Тип файлу не підтримується."</string>
