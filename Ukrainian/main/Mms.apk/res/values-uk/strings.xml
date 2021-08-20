@@ -1300,4 +1300,18 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="zero_sms_feedback_message">Оскаржені повідомлення завантажуються на наші сервери, а також телефонні номери своїх відправників. Ці повідомлення використовуються лише для покращення функціональності BlockList.</string>
     <string name="zero_sms_feedback_success">Скаргу зареєстровано</string>
     <string name="zero_sms_feedback_title">Доповісти</string>
-</resources>
+
+
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d.M.</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+</resources>  

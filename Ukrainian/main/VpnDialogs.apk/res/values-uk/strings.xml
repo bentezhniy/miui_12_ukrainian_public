@@ -16,4 +16,18 @@
     <string name="prompt">Запит на під’єднання</string>
     <string name="session">Сеанс:</string>
     <string name="warning">%s хоче під’єднатися до мережі VPN, щоб контролювати мережевий трафік. Дозволяйте, якщо довіряєте джерелу. Коли мережа VPN активна, угорі екрана відображається значок &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;.</string>
-</resources>
+
+
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d.M.</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+</resources>  
