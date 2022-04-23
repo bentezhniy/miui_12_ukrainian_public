@@ -1314,8 +1314,8 @@ dd MMMM"</string>
     <string name="mock_location_app_not_set">Немає програми для фіктивних місць розташування</string>
     <string name="mock_location_app_set">Програма для фіктивних місць розташування: %1$s</string>
     <string name="monday">Понеділок</string>
-    <string name="monday_short">Mon</string>
-    <string name="monday_shortest">Mon</string>
+    <string name="monday_short">Пн</string>
+    <string name="monday_shortest">Пн</string>
     <string name="monitoring_button_view_policies">Переглянути правила</string>
     <string name="monitoring_description_app">"Ваш профіль під’єднано до додатка %1$s, який може відстежувати вашу активність у мережі, зокрема в електронній пошті, додатках і на веб-сайтах."</string>
     <string name="monitoring_description_app_personal">"Ваш профіль під’єднано до додатка %1$s, який може відстежувати вашу особисту активність у мережі, зокрема в електронній пошті, додатках і на веб-сайтах."</string>
@@ -2030,8 +2030,8 @@ dd MMMM"</string>
     <string name="structure_face_data_input_error_expose_features">"Деякі частини обличчя не вдається записати"</string>
     <string name="structure_face_data_input_error_overly_light">Занадто сильне підсвічування</string>
     <string name="sunday">Неділя</string>
-    <string name="sunday_short">НД</string>
-    <string name="sunday_shortest">НД</string>
+    <string name="sunday_short">Нд</string>
+    <string name="sunday_shortest">Нд</string>
     <string name="switch_bar_off">Вимкнути</string>
     <string name="switch_bar_on">Увімкнено</string>
     <string name="switch_system_user">Назад до Першого простору</string>
@@ -2097,8 +2097,8 @@ dd MMMM"</string>
     <string name="thermal_shutdown_message">Зараз телефон працює, як зазвичай</string>
     <string name="thermal_shutdown_title">Телефон перегрівся й вимкнувся</string>
     <string name="thursday">Четвер</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">Thu</string>
+    <string name="thursday_short">Чт</string>
+    <string name="thursday_shortest">Чт</string>
     <string name="tile_unavailable">Недоступно</string>
     <string name="time_picker_dialog_title">Установити час</string>
     <string name="time_unit_just_now">Щойно</string>
