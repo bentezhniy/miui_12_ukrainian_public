@@ -919,7 +919,6 @@
     <string name="card_main_private_space_summary">Використання Другого простору - схоже на володіння двома пристроями</string>
     <string name="card_main_private_space_title">Другий простір</string>
     <string name="card_main_sectool_title">Інструменти</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Створити</string>
     <string name="card_main_xspace_summary">Створити клоновані акаунти для будь-якої програми</string>
     <string name="card_main_xspace_title">Клоновані програми</string>
@@ -1180,7 +1179,6 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Ранок</string>
-    <string name="ellipsis">…</string>
     <string name="email">Ел.пошта</string>
     <string name="empty" />
     <string name="empty_app">Немає програм</string>
@@ -1255,9 +1253,7 @@
     <string name="exo_download_notification_channel_name">Завантаження</string>
     <string name="exo_download_removing">Завантаження видаляються</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Мбіт/с</string>
     <string name="exo_track_mono">Моно</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Альтернативна</string>
     <string name="exo_track_role_closed_captions">Субтитри</string>
     <string name="exo_track_role_commentary">Коментарі</string>
@@ -2182,7 +2178,6 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">Дозволи</string>
     <string name="menu_text_networkassistants">Трафік</string>
     <string name="menu_text_networkassistants_danger">Перевищення: %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Залишилося: %s</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
@@ -2191,7 +2186,6 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">Збільшити швидкість</string>
     <string name="menu_text_optimize_manage_1">Збільшити швидкість</string>
     <string name="menu_text_power_manager">Батарея</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Видалити з винятків</string>
     <string name="menu_white">Додати до винятків</string>
     <string name="mi_ime_not_used">Використовуйте клавіатуру, схвалену Xiaomi.</string>
@@ -2822,11 +2816,6 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">При увімкненні Економії енергії MIUI виконає наступні оптимізації:</string>
     <string name="power_center_hints_scan_danger_result">Вирішіть проблеми з батареєю</string>
     <string name="power_center_list_item_auto_brightness">Автоматично налаштовувати яскравість</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s мАг</string>
-    <string name="power_center_list_item_battery_status_capacity">мАг</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">год</string>
     <string name="power_center_list_item_close_bluetooth">Вимкнути Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Розширені налаштування</string>
@@ -3085,7 +3074,6 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">Коли тарифний план було використано</string>
     <string name="pref_open_adjust_traffic">Оновлювати статистику трафіку щодня на основі даних мобільного оператора</string>
     <string name="pref_operator_not_set">Оператор не встановлений</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">При перевищенні ліміту трафіку</string>
     <string name="pref_package_traffic_settings">Тарифний план</string>
     <string name="pref_pkg_begin_date">Дата початку обліку</string>
@@ -3336,7 +3324,6 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">Запис звуку</string>
     <string name="privacyapp_number_masked_text">Зміст сповіщень приховано</string>
     <string name="privacyapp_number_unmasked_text">Зміст сповіщень може бути прихований</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Сервер медіа</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Реклама</string>

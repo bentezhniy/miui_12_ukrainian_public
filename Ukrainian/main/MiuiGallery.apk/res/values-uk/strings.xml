@@ -776,7 +776,6 @@
     <string name="face_name_edit">Редагувати</string>
     <string name="face_name_input">"Введіть ім'я"</string>
     <string name="face_recommend">Рекомендації</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не вдалося завершити операцію</string>
     <string name="fail_to_pick_email">Неправильна адреса ел. пошти</string>
     <string name="fail_to_sync_album">Помилка синхронізації альбому з сервером. Перевірте параметри мережі.</string>
@@ -787,7 +786,6 @@
     <string name="feature_guidance_photo_effects">"Доступні нові
 фотоефекти"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступні нові ефекти</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Неможливо роздрукувати.</string>
     <string name="file_cannot_screen_throw">Неможливо транслювати.</string>
     <string name="file_sending">Передача файлів…</string>
@@ -1039,7 +1037,6 @@
     <string name="grant_permission_go_and_set">Задати</string>
     <string name="grant_permission_go_and_set_2">Налаштування</string>
     <string name="grant_permission_go_and_set_3">Налаштування</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_shortcut">Спочатку дозвольте цій програмі створювати ярлики на робочому столі.</string>
     <string name="grant_permission_storage">Спочатку дозвольте цій програмі доступ до сховища.</string>
     <string name="grant_permission_storage_unlock">Спочатку розблокуйте пристрій та дозвольте цій програмі доступ до сховища.</string>
@@ -1657,7 +1654,6 @@
     <string name="people_mark_mode_title_no_mark_name">Оберіть людину</string>
     <string name="people_page_label">Люди</string>
     <string name="people_page_unname">Без назви</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Для виконання входу до системи та керування системними акаунтами.</string>
     <string name="permission_account_name">Доступ до списку контактів</string>
     <string name="permission_clipboard_desc">Для доступу та зберігання даних у бефері обміну.</string>
@@ -1683,7 +1679,6 @@
     <string name="photo_editor_beautify_auto">Авто</string>
     <string name="photo_editor_beauty_compare">Оригінал</string>
     <string name="photo_editor_common_download_failed">Помилка завантаження плагіну. Перевірте налаштування мережі та повторіть спробу.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Плагін завантажено успішно</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Відсутнє підключення до Wi-Fi. Завантажити плагін (%1$d МБ) через мобільний інтернет?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Завантажити плагін</string>
@@ -1770,7 +1765,6 @@
     <string name="photo_editor_talkback_crop_9_18">"Дев'ять до вісімнадцяти"</string>
     <string name="photo_editor_talkback_crop_free">Вільний</string>
     <string name="photo_editor_talkback_crop_mirror">Дзеркало</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Оригінал</string>
     <string name="photo_editor_talkback_crop_reset">Скинути</string>
     <string name="photo_editor_talkback_crop_right_rotate">Поворот на 90 градусів</string>
@@ -2053,18 +2047,13 @@
     <string name="screen_editor_btn_save">Зберегти</string>
     <string name="screen_editor_btn_shell_off">Видалити рамку пристрою</string>
     <string name="screen_editor_btn_shell_on">Додати рамку пристрою</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Неможливо обрізати знімки екрана з рамкою пристрою</string>
     <string name="screen_editor_delete_dialog_msg">Видалити цей знімок екрана?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Готово</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Неможливо додати рамку пристрою для обрізаних знімків екрана</string>
     <string name="screen_editor_shell_net_error">Підключитися до мережі для завантаження рамки пристрою</string>
     <string name="screen_editor_shell_res_downloading">Завантаження рамки пристрою…</string>
     <string name="screen_editor_shell_storage_insufficient">"Неможливо завантажити рамку пристрою через недостатній обсяг вільної пам'яті"</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Скасувати</string>
     <string name="screen_save_dialog_btn_delete">Видалити знімок екрана</string>
     <string name="screen_save_dialog_btn_save">Зберегти до Галереї</string>
