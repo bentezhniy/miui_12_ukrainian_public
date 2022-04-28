@@ -10,7 +10,7 @@ At the moment it is used by **xiaomi.eu**  and **MiRoom**  teams.
 - romanua90;
 - AlexPechkin228;
 - ishkornik.
-
+- Andrex2287.
 #
 **Опис українською:**
 #
@@ -23,6 +23,7 @@ At the moment it is used by **xiaomi.eu**  and **MiRoom**  teams.
 - romanua90;
 - AlexPechkin228;
 - ishkornik.
+- Andrex2287.
 
 
 
