@@ -5,7 +5,7 @@
 This is the repository of the **Ukrainian**  translation of **Chinese MIUI**. 
 At the moment it is used by **xiaomi.eu**  and **MiRoom**  teams.
 
-we moved: https://github.com/Andrex2287/MIUI-13-UKRAINIAN
+We moved: https://github.com/Andrex2287/MIUI-13-UKRAINIAN
 #
 **Опис українською:**
 #
