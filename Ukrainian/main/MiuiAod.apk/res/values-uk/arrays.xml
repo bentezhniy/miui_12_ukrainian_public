@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="device_support_pickup_by_MTK">
-        <item>cactus</item>
-        <item>вино</item>
-        <item>лотос</item>
-    </string-array>
-</resources>
